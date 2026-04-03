@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Next.js build
+.next/
+out/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PDF source files (large, not needed in production)
+*.pdf
+
+# Parser artifacts
+scripts/raw_text.txt
+
+# Environment
+.env
+.env.local
+.env.production.local
+
+# Vercel
+.vercel/

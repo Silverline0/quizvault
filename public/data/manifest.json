@@ -1,0 +1,11 @@
+{
+  "questionSets": [
+    {
+      "id": "pediatric-bcsc",
+      "name": "Pediatric BCSC Self Assessment",
+      "description": "481 questions on Pediatric Ophthalmology",
+      "file": "pediatric-bcsc.json",
+      "questionCount": 481
+    }
+  ]
+}
