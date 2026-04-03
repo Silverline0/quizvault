@@ -2,96 +2,134 @@
 
 import { useState, useEffect } from "react";
 import { getProgress, saveProgress } from "@/lib/store";
-import { UserProgress } from "@/lib/types";
+import {
+  getSyncCode,
+  setSyncCode as storeSyncCode,
+  clearSyncCode,
+  getLastSyncTime,
+  loadFromCloud,
+} from "@/lib/cloud-sync";
 
 export default function CloudSync({ onSyncComplete }: { onSyncComplete?: () => void }) {
   const [syncCode, setSyncCode] = useState("");
   const [status, setStatus] = useState<"idle" | "saving" | "loading" | "success" | "error">("idle");
   const [message, setMessage] = useState("");
   const [lastSync, setLastSync] = useState<string | null>(null);
+  const [isConnected, setIsConnected] = useState(false);
 
   useEffect(() => {
-    const saved = localStorage.getItem("quizvault_sync_code");
-    if (saved) setSyncCode(saved);
-    const ls = localStorage.getItem("quizvault_last_sync");
-    if (ls) setLastSync(ls);
+    const saved = getSyncCode();
+    if (saved) {
+      setSyncCode(saved);
+      setIsConnected(true);
+    }
+    setLastSync(getLastSyncTime());
   }, []);
 
-  const handleSave = async () => {
-    if (!syncCode.trim() || syncCode.trim().length < 3) {
+  // Auto-load from cloud on first visit if sync code exists
+  useEffect(() => {
+    const saved = getSyncCode();
+    if (!saved) return;
+
+    const localProgress = getProgress();
+    // Only auto-load if local is empty (new device)
+    if (localProgress.answers.length === 0) {
+      loadFromCloud().then((cloudData) => {
+        if (cloudData && cloudData.answers.length > 0) {
+          saveProgress(cloudData);
+          setMessage(`Auto-loaded ${cloudData.answers.length} answers from cloud`);
+          setStatus("success");
+          setLastSync(getLastSyncTime());
+          onSyncComplete?.();
+        }
+      });
+    }
+  }, []);
+
+  const handleConnect = async () => {
+    const code = syncCode.trim().toLowerCase();
+    if (!code || code.length < 3) {
       setMessage("Code must be at least 3 characters");
       setStatus("error");
       return;
     }
 
-    setStatus("saving");
+    storeSyncCode(code);
+    setIsConnected(true);
+    setStatus("loading");
     setMessage("");
 
+    // Try to load existing cloud data
+    const cloudData = await loadFromCloud();
+    const localProgress = getProgress();
+
+    if (cloudData && cloudData.answers.length > 0) {
+      if (localProgress.answers.length === 0) {
+        // Local is empty, use cloud data
+        saveProgress(cloudData);
+        setMessage(`Loaded ${cloudData.answers.length} answers from cloud`);
+        onSyncComplete?.();
+      } else if (cloudData.answers.length > localProgress.answers.length) {
+        // Cloud has more data, ask... but for simplicity, merge by using cloud
+        saveProgress(cloudData);
+        setMessage(`Updated from cloud (${cloudData.answers.length} answers)`);
+        onSyncComplete?.();
+      } else {
+        // Local has equal or more data, push to cloud
+        const res = await fetch("/api/sync", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ code, data: localProgress }),
+        });
+        if (res.ok) {
+          setMessage("Local progress synced to cloud");
+        }
+      }
+    } else {
+      // No cloud data yet, push local
+      if (localProgress.answers.length > 0) {
+        await fetch("/api/sync", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ code, data: localProgress }),
+        });
+        setMessage("Progress saved to cloud");
+      } else {
+        setMessage("Connected! Progress will auto-sync after each answer.");
+      }
+    }
+
+    setLastSync(getLastSyncTime());
+    setStatus("success");
+  };
+
+  const handleDisconnect = () => {
+    clearSyncCode();
+    setIsConnected(false);
+    setSyncCode("");
+    setMessage("");
+    setStatus("idle");
+    setLastSync(null);
+  };
+
+  const handleForceSync = async () => {
+    const code = getSyncCode();
+    if (!code) return;
+
+    setStatus("saving");
     try {
       const progress = getProgress();
       const res = await fetch("/api/sync", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ code: syncCode.trim(), data: progress }),
+        body: JSON.stringify({ code, data: progress }),
       });
-
-      const result = await res.json();
-      if (!res.ok) {
-        throw new Error(result.error || "Failed to save");
-      }
-
-      const sizeKB = Math.round((result.size || 0) / 1024);
-      const now = new Date().toLocaleString();
-      localStorage.setItem("quizvault_sync_code", syncCode.trim());
-      localStorage.setItem("quizvault_last_sync", now);
-      setLastSync(now);
-      setMessage(`Saved to cloud (${sizeKB}KB)`);
+      if (!res.ok) throw new Error("Failed");
+      setMessage("Synced now");
+      setLastSync(new Date().toLocaleString());
       setStatus("success");
-    } catch (err) {
-      setMessage(err instanceof Error ? err.message : "Save failed");
-      setStatus("error");
-    }
-  };
-
-  const handleLoad = async () => {
-    if (!syncCode.trim() || syncCode.trim().length < 3) {
-      setMessage("Code must be at least 3 characters");
-      setStatus("error");
-      return;
-    }
-
-    setStatus("loading");
-    setMessage("");
-
-    try {
-      const res = await fetch(`/api/sync?code=${encodeURIComponent(syncCode.trim())}`);
-      const result = await res.json();
-
-      if (!res.ok) {
-        throw new Error(result.error || "Failed to load");
-      }
-
-      if (!result.exists) {
-        setMessage("No data found for this code. Save first!");
-        setStatus("error");
-        return;
-      }
-
-      const data = result.data as UserProgress;
-      if (!data.answers || !Array.isArray(data.answers)) {
-        throw new Error("Invalid data format");
-      }
-
-      saveProgress(data);
-      localStorage.setItem("quizvault_sync_code", syncCode.trim());
-      const now = new Date().toLocaleString();
-      localStorage.setItem("quizvault_last_sync", now);
-      setLastSync(now);
-      setMessage(`Loaded ${data.answers.length} answers from cloud`);
-      setStatus("success");
-      onSyncComplete?.();
-    } catch (err) {
-      setMessage(err instanceof Error ? err.message : "Load failed");
+    } catch {
+      setMessage("Sync failed");
       setStatus("error");
     }
   };
@@ -108,65 +146,78 @@ export default function CloudSync({ onSyncComplete }: { onSyncComplete?: () => v
         <h3 className="text-sm font-semibold" style={{ color: "var(--text-secondary)" }}>
           Cloud Sync
         </h3>
+        {isConnected && (
+          <span
+            className="text-xs px-2 py-0.5 rounded-full"
+            style={{ backgroundColor: "var(--success-bg)", color: "var(--success)" }}
+          >
+            Connected
+          </span>
+        )}
       </div>
 
-      <p className="text-xs mb-3" style={{ color: "var(--text-muted)" }}>
-        Use a sync code to save/load your progress across devices.
-      </p>
+      {!isConnected ? (
+        <>
+          <p className="text-xs mb-3" style={{ color: "var(--text-muted)" }}>
+            Enter a sync code to save progress across devices. Auto-syncs after every answer.
+          </p>
+          <div className="flex gap-2">
+            <input
+              type="text"
+              placeholder="e.g. myquiz2024"
+              value={syncCode}
+              onChange={(e) => setSyncCode(e.target.value)}
+              className="flex-1 px-3 py-2 rounded-lg text-sm outline-none"
+              style={{
+                backgroundColor: "var(--bg-card)",
+                border: "1px solid var(--border)",
+                color: "var(--text-primary)",
+              }}
+              onKeyDown={(e) => e.key === "Enter" && handleConnect()}
+            />
+            <button
+              onClick={handleConnect}
+              disabled={status === "loading"}
+              className="px-4 py-2 rounded-lg text-xs font-medium text-white transition-opacity hover:opacity-90 disabled:opacity-50"
+              style={{ backgroundColor: "var(--accent)" }}
+            >
+              {status === "loading" ? "Connecting..." : "Connect"}
+            </button>
+          </div>
+        </>
+      ) : (
+        <>
+          <p className="text-xs mb-3" style={{ color: "var(--text-muted)" }}>
+            Code: <strong>{syncCode}</strong> — auto-syncs 2s after each answer
+          </p>
+          <div className="flex gap-2">
+            <button
+              onClick={handleForceSync}
+              disabled={status === "saving"}
+              className="px-3 py-1.5 rounded-lg text-xs font-medium transition-opacity hover:opacity-90 disabled:opacity-50"
+              style={{ backgroundColor: "var(--bg-card)", border: "1px solid var(--border)", color: "var(--text-primary)" }}
+            >
+              {status === "saving" ? "Syncing..." : "Sync Now"}
+            </button>
+            <button
+              onClick={handleDisconnect}
+              className="px-3 py-1.5 rounded-lg text-xs font-medium transition-opacity hover:opacity-90"
+              style={{ color: "var(--error)", border: "1px solid var(--error)" }}
+            >
+              Disconnect
+            </button>
+          </div>
+        </>
+      )}
 
-      <div className="flex gap-2 mb-3">
-        <input
-          type="text"
-          placeholder="Enter sync code (e.g. myquiz2024)"
-          value={syncCode}
-          onChange={(e) => setSyncCode(e.target.value)}
-          className="flex-1 px-3 py-2 rounded-lg text-sm outline-none"
-          style={{
-            backgroundColor: "var(--bg-card)",
-            border: "1px solid var(--border)",
-            color: "var(--text-primary)",
-          }}
-          onKeyDown={(e) => {
-            if (e.key === "Enter") handleSave();
-          }}
-        />
-      </div>
-
-      <div className="flex gap-2">
-        <button
-          onClick={handleSave}
-          disabled={status === "saving" || status === "loading"}
-          className="px-3 py-1.5 rounded-lg text-xs font-medium text-white transition-opacity hover:opacity-90 disabled:opacity-50"
-          style={{ backgroundColor: "var(--accent)" }}
-        >
-          {status === "saving" ? "Saving..." : "Save to Cloud"}
-        </button>
-        <button
-          onClick={handleLoad}
-          disabled={status === "saving" || status === "loading"}
-          className="px-3 py-1.5 rounded-lg text-xs font-medium transition-opacity hover:opacity-90 disabled:opacity-50"
-          style={{
-            backgroundColor: "var(--bg-card)",
-            border: "1px solid var(--border)",
-            color: "var(--text-primary)",
-          }}
-        >
-          {status === "loading" ? "Loading..." : "Load from Cloud"}
-        </button>
-      </div>
-
-      {/* Status message */}
       {message && (
         <p
           className="text-xs mt-2"
-          style={{
-            color: status === "success" ? "var(--success)" : status === "error" ? "var(--error)" : "var(--text-muted)",
-          }}
+          style={{ color: status === "success" ? "var(--success)" : status === "error" ? "var(--error)" : "var(--text-muted)" }}
         >
           {message}
         </p>
       )}
-
       {lastSync && (
         <p className="text-xs mt-1" style={{ color: "var(--text-muted)" }}>
           Last synced: {lastSync}

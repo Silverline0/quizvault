@@ -1,4 +1,5 @@
 import { AnswerRecord, UserProgress } from "./types";
+import { triggerAutoSync } from "./cloud-sync";
 
 const STORAGE_KEY = "quizzes_progress";
 
@@ -22,6 +23,8 @@ export function getProgress(): UserProgress {
 export function saveProgress(progress: UserProgress): void {
   if (typeof window === "undefined") return;
   localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
+  // Auto-sync to cloud (debounced, non-blocking)
+  triggerAutoSync(progress);
 }
 
 export function recordAnswer(record: AnswerRecord): void {
