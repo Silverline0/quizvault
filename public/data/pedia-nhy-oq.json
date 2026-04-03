@@ -1,0 +1,1378 @@
+[
+  {
+    "id": 1,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following statements best describes the arterial blood supply for the extraocular muscles?",
+    "options": {
+      "A": "The medial and lateral rectus muscles carry the bulk of the blood supply to the anterior segment of the eye.",
+      "B": "The lateral muscular branch of the ophthalmic artery supplies the lateral rectus, superior rectus, superior oblique, and levator muscles",
+      "C": "The medial muscular branch of the ophthalmic artery supplies the lateral rectus, superior rectus, superior oblique, and levator muscles",
+      "D": "the infraorbital artery partially supplies the superior oblique and lateral rectus muscles"
+    },
+    "correctAnswer": "B",
+    "explanation": "Each rectus muscle has 1 to 3 anterior ciliary arteries which are branches of the muscular arteries which themselves are branches of the ophthalmic artery. The lateral muscular branch supplies the lateral rectus, superior rectus, superior oblique, and levator palpebrae muscles. The medial muscular branch supplies the inferior rectus, medial rectus, and inferior oblique muscles. Also, the infraorbital artery partially supplies the inferior oblique and inferior rectus muscles.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 2,
+    "source": "pedia-nhy-oq",
+    "question": "Including active muscle and tendon, what is the shortest overall extraocular muscle?",
+    "options": {
+      "A": "medial rectus",
+      "B": "lateral rectus",
+      "C": "inferior rectus",
+      "D": "inferior oblique"
+    },
+    "correctAnswer": "D",
+    "explanation": "See Table 2-1 in the BCSC Pediatrics book. The active muscular portions of the medial rectus, superior rectus, lateral rectus, inferior rectus, and levator are 40 mm. The superior oblique has an active muscular portion of 32 mm. The inferior oblique has an active muscular portion of 37 mm. The muscles with the longest tendons are the superior oblique and levator with 26 mm and 14-20 mm, respectively. This makes the superior oblique the longest overall muscle. Because of its small tendon length (1 mm) the smallest overall muscle is the inferior oblique.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 3,
+    "source": "pedia-nhy-oq",
+    "question": "All of the following are TRUE regarding the innervation of the extraocular muscles EXCEPT",
+    "options": {
+      "A": "CN IV should not be affected by a retrobulbar block because it lies outside the muscle cone",
+      "B": "The nerves to the recti and superior oblique muscles are two-thirds of the distance from the origin to the insertion",
+      "C": "Injury to the nerve to the inferior oblique muscle during a inferotemporal retrobulbar block may lead to pupillary abnormalities",
+      "D": "The nerve innervating the inferior oblique enters the lateral portion of this muscle"
+    },
+    "correctAnswer": "B",
+    "explanation": "Actually, the nerves to the recti and superior oblique muscles are one-third of the distance from the muscle origin to insertion. Damage to these nerves during anterior segment surgery is unlikely. But a long needle or instrument (>26mm) posterior to the muscle insertion to cause injury to the nerve. (FYI, a Atkinson retrobulbar needle is 40 mm long) The nerve supplying the inferior oblique enters the muscle laterally, when it crosses the inferior rectus muscle. Since the parasympathetic innervation to the pupillary sphincter travels with the nerve of the inferior oblique, injury to the nerve of the inferior oblique muscle can result in a permanently dilated pupil. This can occur during orbit surgery or from a inferotemporal retrobulbar block. Cranial nerve IV is outside the muscle cone so the function of the superior oblique is not usually affected by a retrobulbar block. But any muscle can be reached by a retrobulbar needle and injection of local anesthetic can cause injury or the needle can directly injure the muscle.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 4,
+    "source": "pedia-nhy-oq",
+    "question": "The superior and inferior oblique muscles form an angle of HOW MANY DEGREES with the visual axis of the eye?",
+    "options": {
+      "A": "30 degrees",
+      "B": "23 degrees",
+      "C": "51 degrees",
+      "D": "67 degrees"
+    },
+    "correctAnswer": "C",
+    "explanation": "This contrasts the vertical recti muscles which form a 23 degree angle with the visual \naxis of the eye.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 5,
+    "source": "pedia-nhy-oq",
+    "question": "Including muscle and tendon, what is the longest overall extraocular muscle?",
+    "options": {
+      "A": "superior oblique",
+      "B": "superior rectus",
+      "C": "medial rectus",
+      "D": "levator"
+    },
+    "correctAnswer": "A",
+    "explanation": "See Table 2-1 in the BCSC Pediatrics book. The active muscular portions of the medial rectus, superior rectus, lateral rectus, inferior rectus, and levator are 40 mm. The superior oblique has an active muscular portion of 32 mm. The inferior oblique has an active muscular portion of 37 mm. The muscles with the longest tendons are the superior oblique and levator with 26 mm and 14-20 mm, respectively. This makes the superior oblique the longest overall muscle and the levator the second longest. Because of its small tendon length (1 mm) the smallest overall muscle is the inferior oblique.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 6,
+    "source": "pedia-nhy-oq",
+    "question": "All of the following statements regarding the inferior oblique muscle are true EXCEPT:",
+    "options": {
+      "A": "It originates from the ethmoid bone",
+      "B": "It passes inferior (i.e. farther from the globe) to the inferior rectus muscle",
+      "C": "It inserts near the macula underneath the lateral rectus muscle",
+      "D": "It is innervated by the inferior division of CN III"
+    },
+    "correctAnswer": "A",
+    "explanation": "The inferior oblique actually originates from the periosteum of the maxillary bone. All of the other statements are true regarding the inferior oblique muscle. One fact that is confusing is that the inferior oblique passes inferior to the inferior rectus muscle. In other words, the inferior oblique is farther away (or external) to the inferior rectus. The superior oblique muscle also passes inferior to the superior rectus muscle. However in that case, the superior oblique is \"underneath\" (i.e. closer to the globe) the superior rectus. Comments: - oBliques go Below",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 7,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following extraocular muscles has the longest tendon?",
+    "options": {
+      "A": "medial rectus",
+      "B": "lateral rectus",
+      "C": "inferior rectus",
+      "D": "levator"
+    },
+    "correctAnswer": "D",
+    "explanation": "See Table 2-1 in the BCSC Pediatrics book. The active muscular portions of the medial rectus, superior rectus, lateral rectus, inferior rectus, and levator are 40 mm. The superior oblique has an active muscular portion of 32 mm. The inferior oblique has an active muscular portion of 37 mm. The muscles with the longest tendons are the superior oblique and levator with 26 mm and 14-20 mm, respectively. This makes the superior oblique the longest overall muscle. Because of its small tendon length (1 mm) the smallest overall muscle is the inferior oblique.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 8,
+    "source": "pedia-nhy-oq",
+    "question": "The superior and inferior recti muscles form an angle of HOW MANY DEGREES with the visual axis of the eye?",
+    "options": {
+      "A": "30 degrees",
+      "B": "23 degrees",
+      "C": "51 degrees",
+      "D": "67 degrees"
+    },
+    "correctAnswer": "B",
+    "explanation": "The vertical recti muscles course laterally from the annulus of Zinn forming an angle of 23 degrees with the visual axis of the eye. This contrasts the oblique muscles which form an angle of 51 degrees with the visual axis of the eye. PHYSIOLOGY",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 9,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following statements is true regarding central and peripheral fusion?",
+    "options": {
+      "A": "The area near the fovea has a small receptive field and thus objects can be of dissimilar size and shape and still be seen singly",
+      "B": "The area near the fovea has a large receptive field and thus objects can be of dissimilar size and shape and still be seen singly",
+      "C": "The area in the peripheral retina has a small receptive field and thus objects can be of dissimilar size and shape and still be seen singly",
+      "D": "The area in the peripheral retina has a large receptive field and thus objects can be of dissimilar size and shape and still be seen singly"
+    },
+    "correctAnswer": "D",
+    "explanation": "The area near the fovea has small receptive fields; therefore, objects need to be very similar in terms of size and shape to be fused properly (\"central fusion\"). Conversely, the peripheral retina has a large receptive field; thus objects can be more dissimilar in size and shape and still be fused (\"peripheral fusion\").",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 10,
+    "source": "pedia-nhy-oq",
+    "question": "You are assessing the primary action of the superior rectus muscle. What would you tell this patient to do to maximize this muscle's primary action?",
+    "options": {
+      "A": "abduct your eye 23 degrees from primary position",
+      "B": "abduct your eye 67 degrees from primary position",
+      "C": "adduct your eye 23 degrees from primary position",
+      "D": "adduct your eye 67 degrees from primary position"
+    },
+    "correctAnswer": "A",
+    "explanation": "The primary action of the superior rectus is elevation. Since the superior rectus inserts onto the globe at an angle of 23 degrees from the primary visual axis, abduction of 23 degrees will align the visual axis with the muscle axis. The net effect will be maximal elevation of the eye. If the patient could adduct 67 degrees (which is not physiologically possible), then the superior rectus would be a pure intorter (i.e. its secondary action).",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 11,
+    "source": "pedia-nhy-oq",
+    "question": "You are contemplating performing bilateral medial rectus recessions on a 45- year-old patient with long-standing esotropia. During the course of your pre- operative exam, you determine that he has anomalous retinal correspondence (ARC). Which of the following may happen shortly after your planned strabismus surgery?",
+    "options": {
+      "A": "single binocular vision",
+      "B": "monocular diplopia",
+      "C": "uncrossed diplopia",
+      "D": "crossed diplopia"
+    },
+    "correctAnswer": "D",
+    "explanation": "If a patient has developed anomalous retinal correspondence (ARC) as a result of strabismus, then he maintains single vision by projecting the images of an object onto different retinal areas between the two eyes. If the deviation is corrected fully with surgery, then the ARC may persist leading to \"paradoxical diplopia.\" In the esotrope, this would lead to CROSSED diplopia. This is paradoxical because usually in esotropes, one would experience UNCROSSED diplopia. Think of it this way: a patient measures ET, but the patient has ARC so he himself is perceiving less ET than he measures. When we do surgery to fix the measured ET, the patient himself is now feeling XT (because he was perceiving less ET than he measured pre-op, so now he is perceiving \"over-correction\"), and hence post-op for this patient, he will experience CROSSED diplopia as if he is XT. One can also simulate crossed and uncrossed diplopia to aid in understanding of this concept. One experiences uncrossed diplopia when one is eSotropic, and one experiences crossed diplopia when one is eXotropic. To simulate eSotropia, grab a pen in one hand and hold it in front of you with your arm extended, then place your other hand's index finger approximately half distance from your pen and your nose (ok to be closer to your nose). Focus on your index finger (this is you in convergence or eSotropia). Now your pen in the background is outside of Panum's area and should be seen as 2 separate images (one on the left and another one on the right. Don't worry if you don't see the diplopic pen yet. Now close your left eye, the pen image on the left disappears! Then open your left eye and close your right eye, the pen image on the right disappears! You have just experienced UNCROSSED diplopia from eSotropia. Similarly, to simulate eXotropia, perform the same arrangement. Now, instead of focusing on your index finger, focus on your pen to start with (this is you in divergence or eXotropia). Your index finger is outside of Panum's area and should be doubled. Again, don't worry if you don't see it yet. Now close your left eye, the index finger on the right disappears! Now open your left eye and close the right eye, the index finger on the left disappears! This is CROSSED diplopia from eXotropia. The reason for the above phenomenon is as follows: in eSotropia, the eyeball is turned inward, so the fovea is moved outward, away from the nose or temporally. An image/light that is coming in from straight ahead is going to fall nasal to the fovea (remember the fovea is moved outward or temporally in eSotropia). But then the nasal side of the retina perceives the temporal side of the visual field. So the image is perceived as coming from the temporal side of the visual field. So an eSotropic eye sees the image displaced temporally and is UNCROSSED. Now the opposite situation occurs for eXotropia. The eyeball is turned outward, so the fovea is moved inward or toward the nose or nasally. An image/light coming from straight ahead is falling temporal to the fovea (again, remember the fovea is now inward or nasal), and thus the perceived image is the nasal side of the visual field. So in eXotropia, the diplopia image is perceived as displaced nasally and is CROSSED (like a X).",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 12,
+    "source": "pedia-nhy-oq",
+    "question": "You are reviewing a 48-year-old patient's chart who has the notation \"30 PD X(T)\" noted in his chart. The patient has 40 sec arc on stereopsis testing. T he patient does not complain of any double vision at any time in the past. Which of the following types of suppression does he likely manifest?",
+    "options": {
+      "A": "obligatory",
+      "B": "facultative",
+      "C": "peripheral",
+      "D": "central"
+    },
+    "correctAnswer": "B",
+    "explanation": "Suppression is a sensory adaption in strabismus. When an eye is deviated, a normal person should be experiencing two different images on the two foveas (visual confusion = seeing two different images overlapped) and/or the same image on the fovea of one eye and on the peripheral retina or some extrafoveal region of the other eye (diplopia = seeing the same image in two different places). In order to avoid visual confusion or diplopia, suppression occurs. When an eye is deviated, in order to avoid visual confusion, central suppression occurs. Central suppression prevents the two different images on the two fovea from reaching the brain, thereby eliminating visual confusion. Central suppression is present almost all of the time, in young and old. This is the reason why we do not encounter visual confusion very often in clinic and the reason why adults with acquired new-onset strabismus complain of diplopia (see below) and not confusion. When an eye is deviated, peripheral suppression is suppression of the image falling on the peripheral retina in the deviated eye corresponding to the image falling on the fovea of the fixating eye. Peripheral suppression is for elimination of diplopia, and is only developed in an immature visual system. Adults with acquired new-onset strabismus will always complain of diplopia while a long-standing strabismus developed during childhood that decompensates or manifests in adulthood will not complain of diplopia. The patient here has intermittent exotropia. He has excellent stereoacuity when his eyes are in the non-deviated state. Also, he does not complain of any double vision. These suggest that he must be utilizing some suppression when his eyes are deviated but the suppression is absent when the eyes are aligned. This type of suppression is called facultative suppression since it only occurs when the eyes are deviated. Obligatory suppression is suppression that is present even when the eyes are aligned or deviated -- i.e. it is suppression that is present all of the time. Obligatory suppression leads to decrease in vision, an example of which is amblyopia.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 13,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following statements best defines the visual axis of the eye?",
+    "options": {
+      "A": "A line that best approximates the line passing through the optical centers of the cornea, lens, and fovea",
+      "B": "An imaginary line connecting the fixation point and the fovea",
+      "C": "The imaginary line perpendicular to the cornea and passing through the midpoint of the pupil",
+      "D": "The imaginary line that is perpendicular to both the cornea and fovea"
+    },
+    "correctAnswer": "B",
+    "explanation": "\"A\" describes the \"optical axis\" of the eye. \"C\" describes the \"pupillary axis\" of the eye. \n\"D\" does not describe any axis of the eye.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 14,
+    "source": "pedia-nhy-oq",
+    "question": "You are performing an inferior oblique weakening procedure on a patient with congenital esotropia who has concomitant inferior oblique overaction. What would be the effect of this surgery on this muscle's tertiary action?",
+    "options": {
+      "A": "less elevation",
+      "B": "less depression",
+      "C": "less adduction",
+      "D": "less abduction"
+    },
+    "correctAnswer": "D",
+    "explanation": "Only the vertical recti and oblique muscles have tertiary actions. Adduction is the \ntertiary action for the superior and inferior recti while abduction is the tertiary action for \nthe obliques.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 15,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following statements is TRUE regarding \"Panum's area of single binocular vision\"?",
+    "options": {
+      "A": "A 3-dimensional object is seen singly if the front of the object is within Panum's area",
+      "B": "A 3-dimensional object is seen singly if the back of the object is within Panum's area",
+      "C": "A 3-dimensional object is seen as a double image if any part of it falls outside of Panum's area",
+      "D": "A 3-dimensional object is seen as a double image only if *all* of it falls outside of Panum's area"
+    },
+    "correctAnswer": "C",
+    "explanation": "Panum's area of single binocular vision describes the area in space where an object can fall mathematically on disparate retinal areas, but still be seen as a single object. The *entire* object must fall within this space to be seen as a single object.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 16,
+    "source": "pedia-nhy-oq",
+    "question": "You perform a Worth-4-Dot test on a 4-year-old boy. He is wearing red-green glasses with the red lens over the right eye and the green lens over the left eye. At a distance of 10 ft, the child reports seeing 2 dots, and at a distance of 2 ft, the child reports seeing 4 dots. What does this child have and does he have amblyopia?",
+    "options": {
+      "A": "Monofixation syndrome with OD being the amblyopic eye",
+      "B": "Monofixation syndrome with OS being the amblyopic eye",
+      "C": "Normal response on the W4D test but has dense amblyopia in OD",
+      "D": "Normal response on the W4D test but has dense amblyopia in OS"
+    },
+    "correctAnswer": "B",
+    "explanation": "The Worth-4-Dot test can be used to check for monofixation syndrome and help with amblyopia testing in a child who may not know letters or be cooperative with visual acuity testing. With the red lens over OD and the green lens over OS, the W4D test is checked first at distance. If the response is 4 dots, then it is a normal response. If the response is 2 dots, then the OD is dominant. If the response is 3 dots, then OS is dominant. Seeing 2- or 3- dots means that there is a suppression scotoma. Next, the test is performed at near. If the response is the same, then there is a large suppression scotoma, i.e. dense amblyopia. If the response becomes 4 dots, then this suggests that the image has fallen outside of the central small suppression scotoma, commonly seen in monofixation syndrome.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 17,
+    "source": "pedia-nhy-oq",
+    "question": "The estimated visual acuity of the newborn at birth is:",
+    "options": {
+      "A": "20/60",
+      "B": "20/100",
+      "C": "20/400",
+      "D": "20/800"
+    },
+    "correctAnswer": "C",
+    "explanation": "GROWTH & DEVELOPMENT",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 18,
+    "source": "pedia-nhy-oq",
+    "question": "A 3-year-old patient is referred for a failed vision screening at his pediatrician’s office. Visual acuity is 20/25 OD and 20/125 OS (method: matching single bracketed HOTV). Examination is significant for hypermetropic anisometropia of +2.00 sph OD and +5.00 sph OS. In refractive correction, there is no improvement in measured visual acuity. Based on the method of visual acuity testing, is the visual acuity in the amblyopic eye accurately, under-, or over- estimated?",
+    "options": {
+      "A": "Over-estimated, as single optotypes are utilized",
+      "B": "Over-estimated, as linear Snellen was not utilized",
+      "C": "Accurate, as bracketed single optotypes are utilized",
+      "D": "Under-estimated as a 3-year-old likely does not know the letters H, O, T, V"
+    },
+    "correctAnswer": "C",
+    "explanation": "One of the findings associated with amblyopia is the phenomenon of contour interaction or crowding phenomenon. When single optotypes are utilized, the visual acuity is often better than when linear or bracketed optotypes are used. In this specific case, bracketed single HOTV are used and therefore the visual acuity is likely accurately reflected. The child matches the optotypes on the distance screen to a card and therefore, he does not need to be familiar or verbalize the letters.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 19,
+    "source": "pedia-nhy-oq",
+    "question": "You are speaking with a medical student friend who just gave birth to a healthy full-term baby 2 weeks ago. Your friend is concerned because her baby does not seem to make eye contact or react with facial expressions. Which of the following is the most appropriate response?",
+    "options": {
+      "A": "Do not worry. Your baby will not make eye contact with you until she is at least 4 months old.",
+      "B": "I will perform a dilated eye exam to rule out ocular causes of her poor vision.",
+      "C": "You should consider obtaining neuroimaging to exclude a brain lesion causing her poor vision.",
+      "D": "Do not worry. Your baby will not make eye contact with you until she is at least 6 weeks old."
+    },
+    "correctAnswer": "D",
+    "explanation": "The normal baby will begin to make eye contact and react with facial expressions at \napproximately 6 weeks of age.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 20,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following eye movements are typically absent at birth?",
+    "options": {
+      "A": "conjugate left gaze",
+      "B": "conjugate right gaze",
+      "C": "conjugate vertical gaze",
+      "D": "vestibular eye movements"
+    },
+    "correctAnswer": "C",
+    "explanation": "STRABISMUS/AMBLYOPIA",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 21,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following is an example of optical penalization?",
+    "options": {
+      "A": "Prescribing a high plus lens to the sound eye (non-amblyopic eye) in a patient without refractive error (non-amblyopic eye) for amblyopia therapy",
+      "B": "Performing photorefractive keratectomy to correct extreme refractive error in an amblyopic eye",
+      "C": "Prescribing bilateral over-minus lenses in a patient with poorly controlled intermittent exotropia",
+      "D": "Prescribing a high minus contact lens to the sound eye (non-amblyopic eye) in a patient without refractive error (non-amblyopic eye) for amblyopia therapy"
+    },
+    "correctAnswer": "A",
+    "explanation": "\"Optical penalization\" involves applying something to the sound eye to potentially augment amblyopia therapy. Prescription of excessive plus lenses or a diffusing filter (Bangerter foil) serves the purpose of fogging the non-amblyopic eye. For children or parents who will cannot tolerate or accept patching therapy, optic penalization may be more acceptable way to amblyopia therapy. (BCSC Peds book, Chapter on amblyopia, Sub-section on occlusion and penalization). Giving a high plus lens (e.g. +13.00) inducing blur is the reason behind optical penalization. A child's ability to accommodate is significant, so giving a weak plus lens or minus lens is not effective as the patient will be able to accommodate through it. A contact lens can optically penalize the sound eye (choice D), but the risk of infection associated with a contact lens is high in an essentially monocular patient. Another way of using optical penalization is for treatment of DVD. We sometimes use optical penalization to change fixation preference so that the patient uses the DVD eye (the non-preferred eye, hence manifest DVD) to fixate. This blurs the vision in the preferred eye and ameliorates a noticeable unilateral or asymmetric DVD in the non- preferred eye. Prescribing over-minus lenses (choice C) is not a treatment for amblyopia, but increases accommodative convergence and may improve control of intermittent exotropia in some patients. Performing photorefractive keratectomy (choice B) on a highly anisometropic amblyopia eye is sometimes performed to improve vision in cases where other forms of refractive correction and penalization therapy have been ineffective.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 22,
+    "source": "pedia-nhy-oq",
+    "question": "All of the following are possible interventions to prevent symptomatic superior oblique palsy during the treatment of Brown syndrome EXCEPT:",
+    "options": {
+      "A": "careful handling of the intermuscular septum during tenotomy",
+      "B": "complete tenectomy of the posterior portion of the superior oblique tendon",
+      "C": "simultaneous ipsilateral inferior oblique weakening",
+      "D": "sewing in of inert spacer to the cut ends of the superior oblique tendon"
+    },
+    "correctAnswer": "B",
+    "explanation": "Comments: - Brown's syndrome: SO is tight and needs to be lengthened. The most common ways to do it (in no particular order):",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 23,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following statements regarding \"cyclic esotropia\" is not true?",
+    "options": {
+      "A": "surgery is usually not curative",
+      "B": "the typical cycle is 48 hours",
+      "C": "binocular function on straight days is likely",
+      "D": "patching may convert it into constant esotropia"
+    },
+    "correctAnswer": "A",
+    "explanation": "Cyclic esotropia is a rare form of strabismus occurring in ~1:4000 strabismus patients. It is well known for its unpredictable response to different forms of therapy EXCEPT for muscle surgery which is usually curative. Fusion is absent on strabismic days as suppression often occurs. But on \"straight\" days, there is binocular function. In older children who cannot develop suppression, one may get diplopic symptoms on strabismic days. Patching may convert a cyclic esotropia into a constant manifest esotropia.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 24,
+    "source": "pedia-nhy-oq",
+    "question": "You are operating on an elderly diabetic patient who is only allowing you to work on his right eye. He has a large-angle exotropia and right hypertropia. You plan to perform a lateral rectus recession and a medial rectus resection for his exotropia. You would also like to correct his hypertropia. Which of the following additional procedures is LEAST likely to lead to anterior segment ischemia AND treat his right hypertropia?",
+    "options": {
+      "A": "Superior rectus recession",
+      "B": "Superior oblique tenotomy",
+      "C": "Inferior rectus resection",
+      "D": "Inferior oblique myectomy"
+    },
+    "correctAnswer": "D",
+    "explanation": "Anterior segment ischemia is a complication of strabismus surgery when more than 2 rectus muscles are operated in one sitting. In patients with vascular risk factors, simultaneous surgery on 3 rectus muscles may lead to this, as the blood supply to the anterior segment of the eye is provided by the anterior ciliary arteries that travel with the rectus muscles. Superior rectus recession (choice \"A\") or inferior rectus resection (choice \"C\") can treat a hypertropia, but performing either procedure would result in a total of three rectus muscles being operated on. To avoid operating on a third rectus muscle, one can turn to the oblique muscles. Superior oblique tenotomy (choice \"B\") weakens the superior oblique and would further worsen the hypertropia. Thus, the most appropriate procedure to treat this patient's hypertropia would be an inferior oblique myectomy (choice \"D\") which weakens the inferior oblique. Another solution to avoid anterior segment ischemia is to perform staged surgery. Sometimes, one can also get an iris angiogram to evaluate the circulation of the anterior segment prior to operating on the third or fourth rectus muscle.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 25,
+    "source": "pedia-nhy-oq",
+    "question": "A 60-year old diabetic patient presents with a left CN VI palsy. You are contemplating injecting his left medial rectus muscle with botulinum toxin type A (i.e. BoTox). The patient asks you how long the BoTox injection will paralyze his medial rectus muscle and what effect it will have on this muscle. Which of the following is the most appropriate response?",
+    "options": {
+      "A": "5-8 weeks; will lengthen the muscle",
+      "B": "3-4 months; will lengthen the muscle",
+      "C": "5-8 weeks; will shorten the muscle",
+      "D": "3-4 months; will shorten the muscle"
+    },
+    "correctAnswer": "A",
+    "explanation": "BoTox injection usually paralyzes the muscle starting approximately 2-4 days after injection. It results in muscle *lengthening* with an effect lasting 5 to 8 weeks. This is in contrast to its duration when injected into the orbicularis muscle (e.g. for blepharospasm) where it lasts 3 or more months. Comments: - Botox is also used for removing the appearance of wrinkles--if it contracted muscles it would make wrinkles worse. So it must lengthen muscles",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 26,
+    "source": "pedia-nhy-oq",
+    "question": "An \"A pattern\" is clinically significant if the difference in measurement between upgaze and downgaze is AT LEAST:",
+    "options": {
+      "A": "5 prism diopters",
+      "B": "10 prism diopters",
+      "C": "15 prism diopters",
+      "D": "20 prism diopters"
+    },
+    "correctAnswer": "B",
+    "explanation": "Comments: - You need at least 10 prism diopters for a difference deciding between A and V, V pattern... V is 5 in roman numerals...",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 27,
+    "source": "pedia-nhy-oq",
+    "question": "A \"V pattern\" is clinically significant if the difference in measurement between upgaze and downgaze is AT LEAST:",
+    "options": {
+      "A": "5 prism diopters",
+      "B": "10 prism diopters",
+      "C": "15 prism diopters",
+      "D": "20 prism diopters"
+    },
+    "correctAnswer": "C",
+    "explanation": "In contrast, an \"A pattern\" is considered clinically significant when the measured \ndeviation is at least 10 prism diopters difference between upgaze and downgaze.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 28,
+    "source": "pedia-nhy-oq",
+    "question": "Manipulation of which of the following extraocular muscles is most likely to result in the oculocardiac reflex?",
+    "options": {
+      "A": "inferior rectus",
+      "B": "medial rectus",
+      "C": "lateral rectus resection on the uninvolved side",
+      "D": "superior rectus"
+    },
+    "correctAnswer": "B",
+    "explanation": "Manipulation of the extraocular muscles can result in bradycardia and even asystole. If there is great concern for this complication, intravenous atropine can be given. Obviously, grasping of the muscle should be released if the patient experiences this complication in the O.R.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 29,
+    "source": "pedia-nhy-oq",
+    "question": "A 21-year-old college student presents to your office for new-onset esotropia and diplopia symptoms. She states that this is finals week and needs to get her \"eyes fixed\" for her examinations. VA is 20/100 at distance and J1+ at near OU. She measures 15 PD of ET at both distance and near. Her ductions are full OU on monocular testing but she has abduction deficit OU on versions. Her pupils measure 2 mm and do not constrict well to light. Her manifest refraction is -3.00 Sphere OU, but she refuses dilation or cycloplegia due to her need to study and take her exams. Which of the following most likely describes her condition?",
+    "options": {
+      "A": "accommodative insufficiency",
+      "B": "Horner's syndrome",
+      "C": "spasm of the near reflex",
+      "D": "divergence insufficiency"
+    },
+    "correctAnswer": "C",
+    "explanation": "Patients who have spasm of the near reflex present with excessive convergence, accommodation, and miosis. These patients have normal ductions (e.g. one eye covered), but an abduction deficit on version eye movements (i.e. when both eyes open). Spasm of the near reflex is also known as \"ciliary spasm\" or \"convergence spasm.\" The cause of this acquired, non-accommodative esotropia is thought to be functional (e.g. related to stress and anxiety). These patients present with acute esotropia that alternates with being orthotropic. They often have myopia on manifest, but if cyclopleged, have no significant myopia or no additional myopia beyond their baseline refraction. The treatment of spasm of the near reflex includes: • Identifying and addressing causative factors (e.g. emotional stress/anxiety) • Cycloplegic agents (e.g. atropine) • Hyperopic correction (if patient is significantly hyperopic) • Bifocals (to help with the excessive accommodation) • Rarely: botulinum injections of the medial rectus muscles and/or strabismus surgery (only if the spasm cannot be broken)",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 30,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following tests can be used to identify opacities in the visual axis as well as to detect ocular misalignment?",
+    "options": {
+      "A": "Hirschberg",
+      "B": "Krimsky",
+      "C": "Bruckner",
+      "D": "cover-uncover test"
+    },
+    "correctAnswer": "C",
+    "explanation": "The Bruckner test is performed by shining a direct ophthalmoscope into both eyes to elicit a red reflex in both eyes simultaneously. It tests for bifoveal fixation and the performer is looking for asymmetry of the red reflex. There are many etiologies to why the red reflex is asymmetrical, from lens opacities, to strabismus, to even anisometropia. This test is done mostly by primary care physicians to grossly detect strabismus or lens opacities, but it is also useful for ophthalmologists. One looks for the brightness of the red reflex. If the red reflex is dim in one eye and bright in the other eye, then one can be suspicious that the brighter eye has strabismus. This is due to foveation of the ophthalmoscope filament dims the red reflex, so the brighter reflex eye is actually the strabismic eye. The Hirschberg test is performed by shining a light (with a penlight) onto both eyes and looking at the corneal light reflex. This is a very rough estimate of ocular deviation by observing the the decentration of the corneal light reflection. If the light reflex is in the center of the pupil, then it is normal; if the reflex is at the edge of the pupil (pupillary margin), then it is 30 PD; if the reflex is in the middle of the iris, it is 60 PD; and if it is at the limbus, then 90 PD. The Krimsky test uses prisms to quantify the decentration of the corneal reflex. So it is like a Hirshberg in that one shines a direct ophthalmoscope into both eyes and looks at the corneal light reflex, but rather than estimating the decentration, one holds a prism over either eye and slides the prism bar or adjusts the prism power to center the corneal light reflex symmetrically in each eye. The Hirschberg test is used for the uncooperative patient who will not allow you to approach or use a prism to get a strabismus measurement. The Krimsky test is useful if there is poor fixation in one eye (due to dense amblyopia, low vision, blindness, etc) to allow for cover-uncover testing and strabismus measurement.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 31,
+    "source": "pedia-nhy-oq",
+    "question": "You are examining a patient who presents with a left hypertropia. On left gaze, you note that the right eye has deficient elevation. Which of the following is INCORRECT in distinguishing inferior oblique palsy from Brown's syndrome?",
+    "options": {
+      "A": "negative forced ductions in inferior oblique palsy",
+      "B": "V pattern is present in inferior oblique palsy",
+      "C": "superior oblique overaction is usually present",
+      "D": "there is intorsion of the right eye"
+    },
+    "correctAnswer": "B",
+    "explanation": "Both Brown's syndrome and inferior oblique palsy will present with deficient elevation in adduction. However, the following characterize Brown syndrome: (a) positive forced duction testing; (b) V pattern; (c) none or minimal superior oblique muscle overaction; (d) no torsion; (e) negative head tilt test Inferior oblique palsy is characterized by: (a) negative forced ductions; (b) A pattern; (c) superior oblique muscle overaction; (d) intorsion; (e) positive head-tilt test The way to think about Brown syndrome is that it is a failure of elevation in adduction due to a restriction from the trochlea-superior oblique (SO) complex. So the affected eye cannot move up and in because of this trochlea restriction, so in upgaze in a Brown patient, one gets a divergence pattern (the affected eye cannot move in so it moves out), hence a V-pattern. The superior oblique muscle is fine in Brown syndrome so there is no over-action or under-action of the muscle versus in an inferior oblique palsy, there is often secondary superior oblique muscle over-action. The secondary superior oblique muscle over-action leads to the A pattern, the intorsion of the eye, and the positive tilt test. The restriction from the trochlea-SO complex is also what gives the positive forced auction test in Brown syndrome.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 32,
+    "source": "pedia-nhy-oq",
+    "question": "In which of the following patients with strabismus would chemodenervation with botulinum toxin be the LEAST useful?",
+    "options": {
+      "A": "active thyroid eye disease",
+      "B": "small angle esotropia",
+      "C": "dissociated vertical deviation",
+      "D": "acute paralytic strabismus"
+    },
+    "correctAnswer": "C",
+    "explanation": "Chemodenervation has been shown to be most effective in small- to moderate-angle esotropia and exotropia (<40PD), posterior residual strabismus (2-8 weeks following surgery or later), acute paralytic strabismus (especially sixth cranial nerve palsy) for elimination of diplopia symptoms while the palsy recovers, active thyroid disease when surgery is inappropriate/no stabilization of the disease so there is changing motility measurements, and lastly, as a supplement to medial rectus recessions in large-angle infantile esotropia. Chemodenervation is generally not useful for patients with large deviations, \"A\" or \"V\" patterns, dissociated vertical deviations, or restrictive strabismus (e.g. due to orbital fractures).",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 33,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following statements best defines a \"-phoria\"?",
+    "options": {
+      "A": "A manifest deviation which presents when fusional control is present part of the time",
+      "B": "A manifest deviation which presents when fusional control is not present",
+      "C": "A latent deviation which presents when fusional control is not present",
+      "D": "A latent deviation which presents when fusional control is present part of the time"
+    },
+    "correctAnswer": "C",
+    "explanation": "A -tropia is a manifest deviation that cannot be controlled by the fusional mechanism so that eyes are misaligned even under binocular conditions. Answer \"A\" describes an intermittent -tropia.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 34,
+    "source": "pedia-nhy-oq",
+    "question": "You are examining a new patient with high myopia (axial length of 28 mm OU) who complains of double vision. Which of the following extraocular muscles is NOT typically involved in patients with high myopia who have symptomatic strabismus?",
+    "options": {
+      "A": "inferior rectus",
+      "B": "medial rectus",
+      "C": "superior rectus",
+      "D": "lateral rectus"
+    },
+    "correctAnswer": "A",
+    "explanation": "In high myopes, the elongated globe can herniate between the superior and lateral recti. Imaging studies have demonstrated stretching and dehiscence of the intermuscular septum between these two muscles. High myopia can also cause inferior slippage o the lateral rectus pulley. These changes can result in a progressively worsening hypotropia and esotropia. Also, the medial rectus is frequently tight which can worsen the esotropia. This is also called \"heavy eye syndrome\". Management of these patients include prisms, and surgical intervention will need to address the lateral rectus muscle slippage by joining the superior and lateral rectus muscle with a loop myopexy to reposition the globe. Recession of the medial rectus muscle may also be needed if that muscle is tight. Comments: - somebody needs to discuss the difference between heavy eye syndrome and sagging eye syndrome - Sagging eye syndrome is different from heavy eye syndrome in that \"heavy eye syndrome\" is reserved for patients with high myopia and axial elongation resulting in the globe prolapsing superotemporally. \"Sagging eye syndrome\" is describing elderly patients who have esotropia more at distance than near due to the degeneration of the pulley system in the orbit.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 35,
+    "source": "pedia-nhy-oq",
+    "question": "After you place a 4-PD base-out prism over a 4-year-old boy's right eye, you observe abduction of the left eye. You then place the same 4-PD base-out prism over his left eye, and you observe no movement of either eye. What condition does this boy have?",
+    "options": {
+      "A": "He is normal",
+      "B": "He has amblyopia of the right eye",
+      "C": "He has monofixation syndrome",
+      "D": "He has accommodative esotropia"
+    },
+    "correctAnswer": "C",
+    "explanation": "This is a 4-PD base-out test. A normal response is when you place the 4-PD prism base-out over either eye, you will observe a movement of the uncovered eye away from the covered eye, followed by a convergence of the uncovered eye towards the covered eye. Hence, it is an abduction movement followed by an adduction movement. For example, you place the 4-PD BO over the left eye, you will see the right eye abduct (Herring's law) followed by the right eye adducting (convergence). In this question, when you place the prism in front of a fixating eye, and you observe a movement away from the fixating eye BUT NO convergence response, this suggests that there is a suppression scotoma. This is because the nonfixating eye does not \"see\" the image because it has fallen into the scotoma. Thus, this patient has monofixation syndrome.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 36,
+    "source": "pedia-nhy-oq",
+    "question": "All of the following represent possible surgical corrections of strabismus caused by cranial nerve III palsy EXCEPT:",
+    "options": {
+      "A": "large lateral rectus recession with large medial rectus resection with supraplacement of both",
+      "B": "disinsertion of lateral rectus with reattachment to the orbital periosteum",
+      "C": "large lateral rectus recession with fixation of the globe to the lateral orbital periosteum",
+      "D": "superior oblique tenotomy"
+    },
+    "correctAnswer": "C",
+    "explanation": "Fixation of the globe to the lateral orbital periosteum would exacerbate exotropia. Instead, lateral rectus recession combined with fixation of the globe to the *nasal* orbital periosteum could be performed.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 37,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following is FALSE regarding Duane's syndrome?",
+    "options": {
+      "A": "it can be associated with systemic syndromes like Goldenhar syndrome",
+      "B": "it is thought to be caused by a defect in development during the 4th week of gestation",
+      "C": "in most anatomical and imaging studies, the nucleus of the third cranial nerve is absent",
+      "D": "it can be characterized by globe retraction during adduction"
+    },
+    "correctAnswer": "C",
+    "explanation": "Actually, most imaging and anatomical studies have shown that the nucleus of the 6th cranial nerve is absent (not third cranial nerve). In addition, there is typically an aberrant branch of the 3rd cranial nerve that innervates the lateral rectus. Please note that the BCSC Pediatrics book does NOT distinguish between the different subtypes of Duane's syndrome when talking about these neuroimaging findings.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 38,
+    "source": "pedia-nhy-oq",
+    "question": "You are performing strabismus surgery for a 6-year old child with exotropia. During the course of the surgery, you accidentally create a tear in Tenon's capsule such that orbital fat prolapses through. Which of the following represents the best course of management at this stage?",
+    "options": {
+      "A": "do not worry about the prolapsed fat since it is endogenous tissue and will have minimal consequences",
+      "B": "immediately stop the surgery and tell the parents what happened",
+      "C": "place a patch graft over the tear to stop additional fat from prolapsing",
+      "D": "excise the prolapsed fat and close the tear with absorbable sutures"
+    },
+    "correctAnswer": "D",
+    "explanation": "Prolapsed orbital fat may result in a scar that may limit motility. This is called \"adherence syndrome.\" The best course of action is excising the prolapsed fat and closing the tear with absorbable sutures.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 39,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following is the treatment for isoametropic (bilateral refractive) amblyopia?",
+    "options": {
+      "A": "Optimal refractive correction alone",
+      "B": "Optimal refractive correction plus alternate patch 2 hours per day (e.g. Patch right eye 2 h Monday, Wednesday, Friday; Patch left eye 2 h Tuesday, Thursday, and Saturday)",
+      "C": "Optimal refractive correction plus alternate patch 6 hours per day (e.g. Patch right eye 6 h Monday, Wednesday, Friday; Patch left eye 6 h Tuesday, Thursday, and Saturday)",
+      "D": "Optimal refractive correction plus atropine in both eyes"
+    },
+    "correctAnswer": "A",
+    "explanation": "Isoametropic (ametropic) or bilateral refractive amblyopia can develop in children with large amounts of uncorrected hypermetropia, myopia, astigmatism or a combination of these factors in both eyes. The presumed mechanism involves pattern vision deprivation. The Pediatric Eye Disease Investigator Group conducted a prospective, multicenter, non- comparative intervention in 113 children < 10 years of age with bilateral refractive amblyopia.1 The patients were placed in optical spectacle correction and visual acuity measured over the course of 52 weeks. At 52 weeks, 74% had a visual acuity of 20/25 or better in both eyes. Thus, treatment involves refractive correction alone (Answer A). Because the process is bilateral, there is no need for penalization unless additional factors such as anisometropia or strabismus are present and fail to improve with glasses alone. The American Academy of Ophthalmology has developed Preferred Practice Patterns for considering refractive correction based on patient age and symptomatology (see Table below).2 1 Wallace DK, Chandler DL, Beck RW, et al. Treatment of bilateral refractive amblyopia in children three to less than 10 years of age. Am J Ophthalmol. Oct 2007;144(4):487- 496. 2 American Academy of Ophthalmology,Pediatric Ophthalmology/Strabismus Panel.Preferred Practice Pattern Guidelines. Amblyopia. San Francisco, CA: American Academy of Ophthalmology;2012. Available at:",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 40,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following strabismus patterns is most frequent in patients with a craniosynostosis syndrome like Apert syndrome?",
+    "options": {
+      "A": "A-pattern esotropia",
+      "B": "A-pattern exotropia",
+      "C": "V-pattern esotropia",
+      "D": "V-pattern exotropia"
+    },
+    "correctAnswer": "D",
+    "explanation": "Comments: - The inferior oblique overreaction is more of an \"apparent overreaction\" and not a true overreaction. \"Coronal synostosis causes ipsilateral orbital extorsion and superior lateral orbit elongation, leading to globe extorsion with upward offset of the medial rectus and downward offset of the lateral rectus. As a result, the medial rectus behaves like an elevator in adduction, and as a corollary, the lateral rectus muscle may be acting as a depressor in abduction. This simulates inferior oblique overaction. In addition, superior orbital rim retrusion may lead to superior oblique trochlea retrusion resulting in superior oblique underaction and secondary inferior oblique overaction.\"--",
+    "respondentStats": null,
+    "imageUrl": "/images/pedia-nhy-oq/p24_img1.png",
+    "highYield": null
+  },
+  {
+    "id": 41,
+    "source": "pedia-nhy-oq",
+    "question": "A 7-year-old patient with a history of accommodative esotropia comes into your office for an evaluation. Without spectacles, the patient has an obvious large- angle esotropia. You decide to use the Maddox rod test to quantify this deviation and place the Maddox rod in front of the left eye. Which of the following responses will the patient likely say in regards to the orientation of the lights?",
+    "options": {
+      "A": "The red vertical line is to the left of the white light",
+      "B": "The red vertical line is to the right of the white light",
+      "C": "The red horizontal line is to the left of the white light",
+      "D": "The red horizontal line is to the right of the white light"
+    },
+    "correctAnswer": "A",
+    "explanation": "To quantify horizontal deviations (as in the case of esotropia), you should orient the cylinders of the rod horizontally. This will produce a vertical line that is perceived by the patient. For esotropia, the red line and white light will be on the same side of their respective eyes. In this case, the rod is in front of the left eye; therefore the patient sees a red vertical line to the left of the white light that is seen by the right eye. In the case of exotropia, the line and light would be crossed (i.e. red line to the right of the white light). One can also simulate crossed and uncrossed diplopia to aid in understanding of this concept. One experiences uncrossed diplopia when one is eSotropic, and one experiences crossed diplopia when one is eXotropic. To simulate eSotropia, grab a pen in one hand and hold it in front of you with your arm extended, then place your other hand's index finger approximately half distance from your pen and your nose (ok to be closer to your nose). Focus on your index finger (this is you in convergence or eSotropia). Now your pen in the background is outside of Panum's area and should be seen as 2 separate images (one on the left and another one on the right. Don't worry if you don't see the diplopic pen yet. Now close your left eye, the pen image on the left disappears! Then open your left eye and close your right eye, the pen image on the right disappears! You have just experienced UNCROSSED diplopia from eSotropia. Similarly, to simulate eXotropia, perform the same arrangement. Now, instead of focusing on your index finger, focus on your pen to start with (this is you in divergence or eXotropia). Your index finger is outside of Panum's area and should be doubled. Again, don't worry if you don't see it yet. Now close your left eye, the index finger on the right disappears! Now open your left eye and close the right eye, the index finger on the left disappears! This is CROSSED diplopia from eXotropia. The reason for the above phenomenon is as follows: in eSotropia, the eyeball is turned inward, so the fovea is moved outward, away from the nose or temporally. An image/light that is coming in from straight ahead is going to fall nasal to the fovea (remember the fovea is moved outward or temporally in eSotropia). But then the nasal side of the retina perceives the temporal side of the visual field. So the image is perceived as coming from the temporal side of the visual field. So an eSotropic eye sees the image displaced temporally and is UNCROSSED. Now the opposite situation occurs for eXotropia. The eyeball is turned outward, so the fovea is moved inward or toward the nose or nasally. An image/light coming from straight ahead is falling temporal to the fovea (again, remember the fovea is now inward or nasal), and thus the perceived image is the nasal side of the visual field. So in eXotropia, the diplopia image is perceived as displaced nasally and is CROSSED (like a X). Comments: - To remember that eXotropia is \"crossed\", think of the letter X which is written by crossing two straight lines.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 42,
+    "source": "pedia-nhy-oq",
+    "question": "According to the \"Amblyopia Treatment Studies\" completed by the Pediatric Eye Disease Investigator Group, which of the following lead to improved visual acuity in patients with stable, residual amblyopia?",
+    "options": {
+      "A": "Addition of levodopa (0.51 mg/kg) combined with carbidopa (0.17 mg/kg tid)",
+      "B": "Additional of levodopa (0.76 mg/kg) combined with carbidopa (0.17 mg/kg tid)",
+      "C": "Addition of penalization with a plano lens in the sound eye of patients currently using atropine",
+      "D": "Increased patching to 6 hours in patients previously patching 2 hours per day"
+    },
+    "correctAnswer": "D",
+    "explanation": "In the \"Amblyopia Treatment Study\" (ATS) #17, 139 patients ages 7 to 12 years were randomized to either continued 2 hours of patching + placebo or 2 hours of patching + levodopa. Visual acuity improved 5.3 letters in the levodopa group and 3.8 letters in the patching group, a difference that was not statistically significant. Therefore, in this patient population studied, levodopa was not effective in leading to increased visual acuity as compared to placebo.1 Likewise in the ATS #16, 73 patients ages 3 to 8 years with stable, residual amblyopia on atropine treatment in the sound eye were randomized to continuation of atropine alone versus augmentation with plano lenses. The visual acuity improved 0.6 lines in the atropine-only group and 1.1 lines in the atropine + plano lens, a difference that was not statistically significant.2 Of note, the confidence interval was large, and thus a larger population is needed to truly determine treatment effect. In ATS #15, 169 patients ages 3 to < 8 years with stable, residual amblyopia currently patching 2 hours/day were randomized to either escalated treatment of 6 hours of patching/day or maintaining 2 hours/day. At 12 weeks, visual acuity improved 1.2 lines in the 6 hour group and 0.5 lines in the 2 hour group, a difference that was statistically significant.3 Therefore of the answer choices, a well-designed randomized study has found prescribing increased patching from 2 to 6 hours to be effective in the treatment of residual, stable amblyopia. References: 1 Pediatric Eye Disease Investigator G, Repka MX, Kraker RT, et al. A randomized trial of levodopa as treatment for residual amblyopia in older children. Ophthalmology. May 2015;122(5):874-881. 2 Pediatric Eye Disease Investigator G, Wallace DK, Lazar EL, et al. A randomized trial of adding a plano lens to atropine for amblyopia. J Aapos. Feb 2015;19(1):42-48. 3 Pediatric Eye Disease Investigator G, Wallace DK, Lazar EL, et al. A randomized trial of increasing patching for amblyopia. Ophthalmology. Nov 2013;120(11):. Comments: - What is considered \"Stable\" amblyopia? - No improvement or further improvement in visual acuity for 12 weeks with patching 2 hours/day.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 43,
+    "source": "pedia-nhy-oq",
+    "question": "A father brings in his 5-year old child for a history of recent-onset esotropia. The father relates that his son suffered blunt trauma one week ago to the left eye and developed a hyphema in this eye. He has been placing a patch over this left eye for the past week in order to protect it. Before this accident occurred, there was no history of strabismus. You measure 25 PD of ET in all gazes and 25 PD ET'. He has full ductions. Visual acuity is 20/20 right eye, 20/30 in the left eye. The cycloplegic refraction reveals +0.50 sphere OU. What is the most likely cause of this child's esotropia?",
+    "options": {
+      "A": "acquired nonaccommodative esotropia",
+      "B": "refractive accommodative esotropia",
+      "C": "sensory esotropia",
+      "D": "CN VI palsy"
+    },
+    "correctAnswer": "A",
+    "explanation": "This child developed an esotropia during the patching of one of his eyes (i.e. artificial disruption of binocular vision). The esotropia is comitant and not associated with a significant amount of hyperopia. This is the definition of \"basic acquired non accommodative esotropia.\" Acquired esotropia may be acute in onset and are commonly associated with symptoms of diplopia. The child has full ductions so CN VI palsy is unlikely. He also has negligible hyperopia thus making refractive accommodative esotropia also not the diagnosis. Sensory esotropia results from monocular vision loss but the vision loss needs to be significant, such as from a congenital cataract or optic nerve disease.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 44,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following is used as amblyopia therapy?",
+    "options": {
+      "A": "Synoptophore",
+      "B": "Bangerter foil",
+      "C": "Bagolini lens",
+      "D": "Worth 4-dot flashlight"
+    },
+    "correctAnswer": "B",
+    "explanation": "Bangerter foils are a system of graded foils that are fit adhesively to glasses, much like Fresnel prisms. Foils are available in various levels of opacification (i.e. like neutral density filters), allowing the provider to control the level of blur in the non-amblyopic eye. These are used with variable frequency among pediatric providers, but are potentially useful tools in patients with mild/moderate amblyopia who are intolerant of patching or atropine penalization.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 45,
+    "source": "pedia-nhy-oq",
+    "question": "You are examining a 2-year old child who appears to have an intermittent esotropia at near. What is the accurate abbreviation to describe this patient's deviation?",
+    "options": {
+      "A": "E(T)",
+      "B": "E'(T)",
+      "C": "E'",
+      "D": "ET'"
+    },
+    "correctAnswer": "B",
+    "explanation": "\"E\" indicates an esophoria. E(T) indicates an intermittent esotropia. Adding a prime symbol to any of the notations indicates near fixation. In this case, E'(T) indicates intermittent esotropia at near fixation.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 46,
+    "source": "pedia-nhy-oq",
+    "question": "All of the following are characteristic of bilateral vs. unilateral superior oblique palsy EXCEPT:",
+    "options": {
+      "A": "unilateral cases usually demonstrate little if any V pattern",
+      "B": "unilateral cases usually have at least 15 degrees of excyclotorsion",
+      "C": "in bilateral cases, there is right hypertropia on right head tilt and left hypertropia on left head tilt",
+      "D": "bilateral cases usually have more than 10 degrees of excyclotorsion"
+    },
+    "correctAnswer": "B",
+    "explanation": "Unilateral cases usually have no (or minimal) V-pattern associated with it. There is also typically less than 5 degrees of excyclotorsion with unilateral cases compared to more than 10 degrees for bilateral cases.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 47,
+    "source": "pedia-nhy-oq",
+    "question": "All of the following statements regarding cranial nerve VI palsy in children is true EXCEPT:",
+    "options": {
+      "A": "A face-turn is protective against amblyopia in the affected eye",
+      "B": "Neuro-imaging is indicated in many of these children presenting with this palsy",
+      "C": "Most cases of suspected congenital CN VI palsy actually represent congenital esotropia with cross fixation",
+      "D": "CN VI palsy occurs more frequently in infants than in older children"
+    },
+    "correctAnswer": "D",
+    "explanation": "CN VI palsy is much more common in older children compared to at birth or during infancy. For these patients, a face-turn is protective against amblyopia since this will produce a single binocular image. As many as 1/3 of these patients will have an underlying intracranial lesion that requires neuro-imaging. It is important to check ductions in infants suspected of congenital CN VI palsy since, in the majority of cases, the child usually has congenital esotropia with cross-fixation simulating the abduction deficit.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 48,
+    "source": "pedia-nhy-oq",
+    "question": "What exam finding allows differentiation between bilateral primary oblique overaction versus bilateral paralysis of the antagonist oblique muscle?",
+    "options": {
+      "A": "Subjective torsion on double Maddox rod testing",
+      "B": "Head tilt test",
+      "C": "Up and down gaze discrepancy of >10 prism diopters",
+      "D": "Large vertical fusional amplitudes"
+    },
+    "correctAnswer": "B",
+    "explanation": "The main differential diagnosis between primary oblique overaction and palsy of the antagonist oblique muscle is settled with the head tilt test. With bilateral superior oblique palsy, head tilt test should reveal alternating hypertropias (i.e. right hypertropia on right tilt; left hypertropia on left tilt). In primary oblique dysfunction, the difference in vertical deviation with head tilt is minimal. A patient with significant inferior oblique overaction may be expected to have small to negligible hypertropia on right and left head tilt. Here is an explanation for the head tilt test: in the Parks Bielshowsky 3-step test, when the head is tilted to the right, the right eye is intorted and the left eye is extorted to compensate for the head tilt. Therefore, the RSO and the LIO are most at function. Similarly, when the head is tilted left, the right eye is extorted and the left eye is intorted to compensate for the left head tilt, and hence the RIO and LSO are at work. In a left superior oblique palsy with secondary inferior oblique overaction, one will see the LSO weak on left tilt, and LIO stronger on right tilt. If one has a primary inferior oblique overaction, one would see LIO stronger on right tilt but no LSO weakness on left tilt. So in a bilateral superior oblique palsy with bilateral secondary inferior oblique overaction case, on right tilt, one has RSO weak plus LIO strong (LIO strong from LSO palsy) = big hyper; on left tilt, one has LSO weak plus RIO strong (RIO strong from RSO palsy) = big hyper. But in a primary inferior oblique overreaction, on right tilt, just LIO strong = small hyper, on left tilt, just RIO strong = small hyper. Subjective torsion may not be present as the patient may develop sensory adaptations. Typically, objective extorsion of the fundus is seen in inferior oblique overaction and intorsion in superior oblique overaction. The discrepancy in up and down gaze of > 10 PD indicates a pattern strabismus and can suggest either inferior oblique or superior oblique overreaction, but it cannot distinguish primary versus secondary causes. Additionally, it is rare for bilateral superior oblique overaction to be secondary to inferior oblique palsy, as primary inferior oblique palsies exist seldomly. If superior oblique overaction is bilateral and symmetric, there will be no hypertropia in primary position, but there will be an ‘A’ pattern. Large vertical fusional amplitudes can be used to distinguish a congenital case of superior oblique palsy versus an acquired case.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 49,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following is not a cause of over-elevation in adduction in cases of incomitant vertical deviations?",
+    "options": {
+      "A": "Superior oblique palsy",
+      "B": "Large angle exotropia",
+      "C": "Craniofacial syndrome",
+      "D": "Brown syndrome"
+    },
+    "correctAnswer": "D",
+    "explanation": "Incomitant vertical deviations commonly feature a hypertropia that is worse on gaze to one side. They are often associated with oblique muscle abnormalities. This is mostly observed as over-elevations or over-depressions in ADDuction, as the superior oblique and inferior oblique actions are more isolated in those gaze positions (remember cardinal positions). Some causes of over-elevation in adduction are inferior oblique muscle overreaction, often due to superior oblique palsy. Dissociated vertical deviation (DVD) can also cause this because the line-of-sight of the involved eye is blocked by the nose so the DVD becomes apparent. Large-angle exotropia commonly has a vertical component. Orbital dysmorphism or craniofacial syndromes usually has superior oblique palsy/inferior oblique overreaction. Brown syndrome is, by definition, failure of elevation in ADDuction; hence, one would see over-depression in adduction and not over-elevation in adduction.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 50,
+    "source": "pedia-nhy-oq",
+    "question": "A 40-year old man presents to your office complaining of long-standing diplopia. He also complains that \"everything seems to oscillate\" even when he closes his left eye. All of the following are appropriate interventions for this symptomatic disturbance EXCEPT:",
+    "options": {
+      "A": "topical timolol",
+      "B": "Harada-Ito procedure",
+      "C": "superior oblique tenectomy with simultaneous inferior oblique weakening",
+      "D": "systemic anti-epilepsy medications"
+    },
+    "correctAnswer": "B",
+    "explanation": "This vignette describes monocular \"oscillopsia\" that occurs from superior oblique myokymia. In superior oblique myokymia, there are torsional movements of the involved eye in an otherwise neurogically-normal individual. Treatment includes systemic medications like carbamazepine and phenytoin as well as topical timolol. Surgical correction consists of superior oblique tenectomy with simultaneous inferior oblique weakening. Harada-Ito is a procedure marked by advancement (or strengthening) of the anterior fibers of the superior oblique tendon that are most responsible for ocular torsion. This is useful in patients with a 4th nerve palsy manifesting with significant excyclotorsion but without significant ipsilateral hypertropia. It is a surgical procedure to correct excyclotorsion with limited effect on vertical alignment. NYSTAGMUS/DIPLOPIA",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 51,
+    "source": "pedia-nhy-oq",
+    "question": "You are having difficulty estimating the visual acuity of a preverbal 1-year-old child who has had horizontal nystagmus since birth. On exam, you note a left jerk nystagmus which worsens on left gaze and dampens on right gaze. How would you properly estimate this child's visual acuity with an optokinetic nystagmus (OKN) drum?",
+    "options": {
+      "A": "rotate the OKN drum to the child's left",
+      "B": "rotate the OKN drum to the child's right",
+      "C": "rotate the OKN upwards or downwards",
+      "D": "rotate the OKN to the child's right for a moment and then quickly to the child's left"
+    },
+    "correctAnswer": "C",
+    "explanation": "In children with horizontal nystagmus, it may be difficult to see this endpoint reflex if the drum is rotated horizontally. This is because the reflex may be hidden by the already- abnormal horizontal movements. In this case, it is more proper to rotate the OKN drum vertically and to see if a vertical nystagmus reflex movement occurs. If such a vertical reflex occurs, the child's visual acuity is usually 20/400 or better.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 52,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following conditions is classically associated with \"dissociated nystagmus?\"",
+    "options": {
+      "A": "Arnold-Chiari malformation type 1",
+      "B": "Parinaud's syndrome",
+      "C": "internuclear ophthalmoplegia",
+      "D": "Meniere syndrome"
+    },
+    "correctAnswer": "C",
+    "explanation": "\"Dissociated nystagmus\" describes when the nystagmus only occurs in the abducting eye. The classic example of this abnormal eye movement is found in internuclear ophthalmoplegia (INO). There is debate whether this movement is a true nystagmus or instead, a series of saccades. As you probably know, INO is typically caused by either demyelination or stroke resulting in disruption of the ipsilateral medial longitudinal fasciculus. Other possible causes of dissociated nystagmus include myasthenia gravis and following surgical weakening of one eye's medial rectus muscle. Comments: - Dissociated Nystagmus: \"occurs when the amplitude of oscillations differs in each eye\" per Neuro text, so not just when you only have nystagmus in the ABducting eye. There is another question that asks to pair the term with this correct description",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 53,
+    "source": "pedia-nhy-oq",
+    "question": "For children with congenital sensory nystagmus, which order of eye movements is typically associated with the worst to best visual acuity?",
+    "options": {
+      "A": "searching nystagmus < pendular nystagmus < jerk nystagmus",
+      "B": "searching nystagmus < jerk nystagmus < pendular nystagmus",
+      "C": "pendular nystagmus < searching nystagmus < jerk nystagmus",
+      "D": "pendular nystagmus < jerk nystagmus < searching nystagmus"
+    },
+    "correctAnswer": "A",
+    "explanation": "The pendular pattern is the most common, and it typically occurs when the visual acuity is at least 20/200 in at least 1 eye. Jerk nystagmus is associated with the best visual acuity (~20/60 to 20/100) while searching nystagmus typically occurs when visual acuity is worse than 20/200. CORNEAL ABNORMALITIES",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 54,
+    "source": "pedia-nhy-oq",
+    "question": "All of the following are true regarding sclerocornea EXCEPT:",
+    "options": {
+      "A": "the corneal opacity is generally greater peripherally rather than centrally",
+      "B": "the cornea is generally steeper than normal eyes",
+      "C": "it is often associated with systemic abnormalities",
+      "D": "there generally is no apparent scleral sulcus"
+    },
+    "correctAnswer": "B",
+    "explanation": "Sclerocornea can be differentiated from Peter's anomaly because the cornea is generally clearer centrally in sclerocornea while the central cornea is more opaque in Peter's anomaly. The cornea in sclerocornea is generally flatter than normal (not steeper). The other components of the mnemonic are: • T: trauma/tears in Descemet's membrane • U: ulcer (e.g. bacterial) • M: metabolic conditions (e.g. mucopolysaccharidoses like Hurler syndrome) • P: posterior corneal defect (e.g. Peter's) • E: endothelial defect (e.g. CHED) • D: dermoid",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 55,
+    "source": "pedia-nhy-oq",
+    "question": "Among the following diseases, which is associated with the greatest frequency and severity of corneal clouding?",
+    "options": {
+      "A": "Hunter syndrome",
+      "B": "Krabbe disease",
+      "C": "Scheie syndrome",
+      "D": "Gaucher disease"
+    },
+    "correctAnswer": "C",
+    "explanation": "Scheie syndrome is an inherited disease of metabolism in which the body cannot properly break down long chains of sugar molecules called glycosaminoglycans. The syndrome belongs to a group of diseases called mucopolysaccharidoses (MPS). The enzyme defect in Scheie syndrome is of lysosomal alpha-L-iduronidase. Scheie syndrome is actually the mildest form of MPS type 1 which also includes the entities Hurler syndrome and Hurler-Scheie syndrome. MPS type 2 is equivalent to Hunter syndrome whose major ophthalmic sign is retinal degeneration. All of the syndromes listed, besides Scheie syndrome, do not feature corneal clouding as part of their stigmata. GLAUCOMA",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 56,
+    "source": "pedia-nhy-oq",
+    "question": "One of your long-term patients with a history of congenital glaucoma is planning on starting a family. He is worried about his kids developing this ocular disease because it was \"horrible growing up visually-handicapped.\" Besides himself, there are no other family members (including his wife) affected by congenital glaucoma. What is the percentage chance that his son or daughter will develop congenital glaucoma?",
+    "options": {
+      "A": "0%",
+      "B": "2%",
+      "C": "7%",
+      "D": "25%"
+    },
+    "correctAnswer": "B",
+    "explanation": "If there is no family history of congenital glaucoma, then an affected parent has an approximately 2% chance of having an affected child with this ocular disease. This risk calculation is based on a retrospective study performed in Australia.1 For all of you naysayers, this is verbatim what the BCSC Pediatrics book states: \"When no other family history of PCG [primary congenital glaucoma] exists, the chance of an affected parent having an affected child is approximately 2%.\" Please review the source article if you still have doubts. 1Hewitt AW, MacKinnon JR, Giubilato A, Elder JE, Craig JE, Mackey DA. Familial transmission risk of infantile glaucoma in Australia. Ophthalmic Genet. 2006;27:93-7.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 57,
+    "source": "pedia-nhy-oq",
+    "question": "You are performing an examination under anesthesia for a 1-month-old child who you suspect has primary congenital glaucoma. What is the normal cup-to- disc ratio of normal newborn eyes?",
+    "options": {
+      "A": "less than 0.2",
+      "B": "less than 0.3",
+      "C": "less than 0.4",
+      "D": "less than 0.5"
+    },
+    "correctAnswer": "B",
+    "explanation": "According to the BCSC, most normal newborn eyes have cup-to-disc ratios of less than 0.3. In addition, there is usually less than 0.2 difference between the cup-to-disc ratios between the two eyes of a child. As you probably know, \"reversal of cupping\" is a phenomenon that may occur after a child with congenital glaucoma is adequately treated with glaucoma surgery. After significant lowering of intraocular pressure, the magnitude of cupping may decrease dramatically in these patients.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 58,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following is TRUE regarding those individuals affected by primary congenital glaucoma (PCG)?",
+    "options": {
+      "A": "PCG is equally common among males and females",
+      "B": "PCG is typically diagnosed at birth",
+      "C": "PCG results in blindness in 40-75% of cases",
+      "D": "PCG is bilateral in approximately two-thirds of cases"
+    },
+    "correctAnswer": "D",
+    "explanation": "PCG results in blindness in approximately 5-15% of affected individuals (not 40- 75%). It occurs more frequently in males (66%) compared to females (33%). It is typically diagnosed within the first year of life, but usually not at birth. If PCG is diagnosed after age 5, then it is technically called juvenile open-angle glaucoma. PCG affects both eyes in approximately two-thirds of affected individuals.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 59,
+    "source": "pedia-nhy-oq",
+    "question": "In which of the following patients would the risk of aphakic glaucoma be highest?",
+    "options": {
+      "A": "10-year-old child with megalocornea who underwent cataract surgery at age 1 year",
+      "B": "10-year-old child with megalocornea who underwent cataract surgery at age 8 years",
+      "C": "10-year-old child with microcornea who underwent cataract surgery at age 1 year",
+      "D": "10-year-old child with microcornea who underwent cataract surgery at age 8 years"
+    },
+    "correctAnswer": "C",
+    "explanation": "Aphakic glaucoma occurs more frequently in those children who had cataract surgery during infancy. The risk is considered highest in children with microcornea. Other risk factors for the development of aphakic glaucoma: • Cataract surgery in the first year of life • post-operative complications",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 60,
+    "source": "pedia-nhy-oq",
+    "question": "What is the mean NORMAL intraocular pressure (IOP) of a newborn child?",
+    "options": {
+      "A": "8 to 10 mmHg",
+      "B": "10 to 12 mmHg",
+      "C": "12 to 14 mmHg",
+      "D": "14 to 16 mmHg"
+    },
+    "correctAnswer": "B",
+    "explanation": "Infants with primary congenital glaucoma often have IOPs in the 30 to 40 mmHg range, and may still have IOPs in the 20 mmHg range under general anesthesia. IRIS ABNORMALITIES •",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 61,
+    "source": "pedia-nhy-oq",
+    "question": "A 6-year-old child is referred to your office after his pediatrician noticed \"something strange about his right eye.\" On slit-lamp examination, you note the iris abnormality seen in the photo above (see arrow). This finding is confined to the right eye; his left eye appears completely normal. His intraocular pressures are 35 and 10 mmHg in the right and left eyes respectively. Which of the following abnormalities might this child also display given his most likely ocular diagnosis?",
+    "options": {
+      "A": "café au lait spot",
+      "B": "adenoma sebaceum",
+      "C": "Nevus of Ota",
+      "D": "dilated cardiomyopathy"
+    },
+    "correctAnswer": "A",
+    "explanation": "The slit-lamp photo demonstrates an eye with ectropion uveae which is actually a misnomer since the iris posterior epithelium is not considered part of the uvea. An alternative name is iris ectropion. This abnormality can occur either as an acquired tractional abnormality (e.g. from neovascularization of the iris) or can be congenital in origin (i.e. congenital iris ectropion). The constellation of unilateral congenital iris ectropion, high iris insertion, smooth (cryptless) iris surface, and glaucoma is called congenital iris ectropion syndrome. This syndrome may be associated with systemic syndromes like neurofibromatosis (NF), primary facial hemihypertrophy, Rieger anomaly, and Prader- Willi syndrome. Café au lait spots are common cutaneous manifestations of NF. \"Adenoma sebaceum\" is also a misnomer for the facial angiofibromas (which appear as red papules) that occur in individuals with tuberous sclerosis. Nevus of Ota is the blue facial hyperpigmentation that occurs in individuals with oculodermal melanocytosis. Some individuals with iris mammillations can also have oculodermal melanocytosis. Dilated cardiomyopathy is one of the systemic manifestations of Alström syndrome. This very rare genetic disorder features a cone-rod dystrophy leading to early blindness as its ocular manifestation. Comments: - I may be wrong, but I believe the iris is considered to be part of the uvea (iris, ciliary body, choroid). - I think the author was referring to the posterior aspect of the iris, which has neuroectodermal origin and is an extension of the retina",
+    "respondentStats": null,
+    "imageUrl": "/images/pedia-nhy-oq/p39_img1.png",
+    "highYield": null
+  },
+  {
+    "id": 62,
+    "source": "pedia-nhy-oq",
+    "question": "A 2-year-old infant is referred to you for an \"iris mass.\" After a thorough examination under anesthesia including ultrasound biomicroscopy, you diagnose the infant with an iris stromal cyst. This cyst is completely obstructing the visual axis. Which of the following is the preferred management choice?",
+    "options": {
+      "A": "observation only",
+      "B": "surgical excision",
+      "C": "cyst aspiration",
+      "D": "photocoagulation"
+    },
+    "correctAnswer": "B",
+    "explanation": "Unlike other iris cysts of childhood (e.g. primary pigment epithelial cysts) which typically require no treatment, iris stromal cysts can enlarge rapidly and be associated with blockage of the visual axis, corneal decompensation (from corneal touch), glaucoma, and uveitis due to leakage of cyst contents. Observation is not the preferred management choice if the cyst is obstructing the visual axis due to the risk of deprivational amblyopia. Of the remaining management choices, surgical excision is currently the preferred treatment modality (according to the BCSC) due to the increased recurrence rates of the other listed modalities. •",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 63,
+    "source": "pedia-nhy-oq",
+    "question": "You are examining a 10-year-old girl who was referred by her pediatrician for \"heterochromia.\" On slit-lamp exam, you note multiple iris nodules as seen in the photo above. This abnormality is only seen in this child's right eye. There are no corneal abnormalities. What other abnormality is associated with this iris abnormality?",
+    "options": {
+      "A": "spontaneous hyphema",
+      "B": "corectopia",
+      "C": "sphenoid dysplasia",
+      "D": "oculodermal melanocytosis"
+    },
+    "correctAnswer": "D",
+    "explanation": "The slit lamp photo shows diffuse, smooth protuberances of the anterior iris surface. Importantly, these nodules are of the same color as the surrounding iris. These features are characteristic of iris mammillations. Iris mammillations are more commonly found in dark eyes and can occur in an unilateral or bilateral fashion. It can occur in association with oculodermal melanocytosis and \"phakomatosis pigmentovascularis type IIb.\" In addition, there are case reports of its association with ciliary body and choroidal melanoma. The differential diagnosis of iris mammillations includes: Lisch nodules, ocular and oculodermal melanocytosis, malignant melanoma of the iris, Cogan-Reese syndrome, and iris granulomas. Unlike Lisch nodules which are a different color than the surrounding iris, mammillations are of the same color. In addition Lisch nodules are not diffusely-distributed but instead tend to be more concentrated in the inferior iris. The entities that comprise the \"ICE syndrome\" (i.e. Cogan-Reese, Chandler, and essential iris atrophy) all share an abnormal corneal endothelium (i.e. \"beaten-bronze\" appearance). The question segment specifically states that the cornea is normal; thus, this patient does not have Cogan-Reese syndrome. Also, the ICE syndrome typically occurs in adult women (not young children). Answer choice \"A\" is a characteristic of juvenile xanthogranuloma; choice \"B\" is a characteristic of Cogan-Reese syndrome; and choice \"C\" is a characteristic of neurofibromatosis type 1.",
+    "respondentStats": null,
+    "imageUrl": "/images/pedia-nhy-oq/p41_img1.png",
+    "highYield": null
+  },
+  {
+    "id": 64,
+    "source": "pedia-nhy-oq",
+    "question": "A 5-year-old child is referred to you for \"small pupils.\" On exam, the child's pupils are small and displaced superotemporally OU. You also note that both his crystalline lenses are subluxed. Given a tentative diagnosis of \"ectopia lentis et pupillae,\" in which direction would his lenses be displaced?",
+    "options": {
+      "A": "superonasally",
+      "B": "superotemporally",
+      "C": "inferonasally",
+      "D": "inferotemporally"
+    },
+    "correctAnswer": "C",
+    "explanation": "Ectopia lentis et pupillae is an asymmetric, bilateral condition in which the lens subluxation is in the opposite direction of the eccentric pupils. Therefore in this example, the lenses would be subluxed inferonasally. This condition is often said to be inherited in an autosomal recessive fashion, though there is some evidence that it can also be inherited in an autosomal dominant with reduced penetrance pattern1. Other associated ocular findings include: poor pupillary dilation, persistent pupillary membrane, iris transillumination defects, early cataract, glaucoma, high myopia, and retinal detachment. CATARACT/LENS DISORDERS",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 65,
+    "source": "pedia-nhy-oq",
+    "question": "What is the typical mode of inheritance of hereditary cataracts?",
+    "options": {
+      "A": "autosomal dominant",
+      "B": "autosomal recessive",
+      "C": "X-linked dominant",
+      "D": "X-linked recessive"
+    },
+    "correctAnswer": "A",
+    "explanation": "Another helpful fact regarding pediatric cataracts is that congenital cataracts associated with systemic diseases are ALWAYS bilateral, but bilaterality does NOT ensure that an underyling systemic disorder is the cause.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 66,
+    "source": "pedia-nhy-oq",
+    "question": "A 4-month-old child is referred to you for evaluation of poor vision in both eyes. is mother states that he has not been able to follow objects well with his eyes since birth. His clinical notes from his pediatrician state that he had severe hypotonia at birth and is at only the 1st percentile for his weight and height. His recent urinanalysis showed hypercalciuria, aminoaciduria, hypokalemia, and renal tubular acidosis. What types of congenital cataracts are associated with this child's most likely systemic disorder?",
+    "options": {
+      "A": "anterior subcapsular",
+      "B": "cerulean cataracts",
+      "C": "posterior subcapsular cataracts",
+      "D": "disciform cataracts"
+    },
+    "correctAnswer": "D",
+    "explanation": "Lowe syndrome is a very rare, X-linked disease with an estimated prevalence of 1 to 10 affected males in 1 million people. It is caused by a reduction of phosphatidylinositol (4,5) bisphosphate 5 phosphatase activity below 10% in fibroblasts. The ocular findings in Lowe syndrome are dense cataracts in all patients (disciform [membranous] cataracts), glaucoma in 50% of patients (usually developing during the 1st year of life), and corneal and conjunctival keloids (25% of patients). Typically, severe hypotonia is present at birth which may compromise suction and result in severe respiratory problems during early life. Approximately 10% will have mild intellectual disability while the majority (>75%) will display overaggressive behavior. The kidney problems in Lowe syndrome is due to renal Fanconi syndrome which results in renal tubular acidosis, proteinuria, phosphate wasting, hypercalciuria, aminoaciduria, and hypokalemia. These renal abnormalities result in failure to thrive and rickets. Anterior subcapsular cataracts are associated with lens trauma (e.g. implantable collamer lens placement) and atopic dermatitis. Cerulean (\"blue-dot\") cataracts are bilateral, small, bluish-white opacities in the peripheral cortex. They are typically asymptomatic and can be associated with Down's syndrome, but can also be found in normal individuals during puberty.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 67,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following statements is TRUE regarding cataracts associated with posterior lenticonus in children?",
+    "options": {
+      "A": "These cataracts typically present bilaterally",
+      "B": "These cataracts are not present at birth",
+      "C": "These cataracts are commonly associated with Alport syndrome",
+      "D": "These cataracts are associated with microphthalmos"
+    },
+    "correctAnswer": "B",
+    "explanation": "Posterior lenticonus is an outpouching of the central posterior capsule due to thinning in that area. It leads to an \"oil droplet\" appearance on retroillumination. Eventually, this outpouching will opacify and can even lead to complete opacification of the lens if the posterior capsule tears. These cataracts are typically unilateral, acquired (i.e. not present at birth), and are not associated with differences in size between the two eyes. Anterior lenticonus (i.e. protrusion of the anterior lens) is commonly associated with Alport syndrome (~25% of cases). Posterior lenticonus occurs only rarely in Alport syndrome (i.e. case reports). Systemic manifestations of Alport syndrome include glomerulonephritis (e.g. presenting with hematuria) and high-tone deafness. Another characteristic ocular finding in Alport syndrome is dot-and-fleck retinopathy (>80% of those affected). UVEITIS",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 68,
+    "source": "pedia-nhy-oq",
+    "question": "A 3-year-old girl presents with bilateral band keratopathy. In addition to the band keratopathy, you note that there are 30 cells per 1 mm x 1 mm high power field and the view of the iris is hazy in the right eye. In the left eye, you note that there are 20 cells per 1 mm x 1 mm high power field and there is faint haze, but you can see the details of the iris clearly. How would you record the findings in your note based on the Standardization of Uveitis Nomenclature (SUN) Working Group?",
+    "options": {
+      "A": "Right eye: 4 + cell, 3+ flare | Left eye: 2+ cell, 1+ flare",
+      "B": "Right eye: 3 + cell, 3+ flare | Left eye: 2+ cell, 1+ flare",
+      "C": "Right eye: 3 + cell, 2+ flare | Left eye: 1+ cell, 1+ flare",
+      "D": "Right eye: 2 + cell, 3+ flare | Left eye: 2+ cell, 1+ flare"
+    },
+    "correctAnswer": "B",
+    "explanation": "Jabs DA, Nussenblatt RB, Rosenbaum JT. Standardization of uveitis nomenclature for reporting clinical data. Results of the First International Workshop. Am J Ophthalmol. 2005;140:509-516. •",
+    "respondentStats": null,
+    "imageUrl": "/images/pedia-nhy-oq/p45_img1.png",
+    "highYield": null
+  },
+  {
+    "id": 69,
+    "source": "pedia-nhy-oq",
+    "question": "You are managing a recalcitrant case of intermediate uveitis in a 7-year-old child. You have decided to ramp up therapy and use a systemic immunosuppressive. Of the following choices, which of the immunosuppressives is generally discouraged in children?",
+    "options": {
+      "A": "cyclophosphamide",
+      "B": "methotrexate",
+      "C": "cyclosporine",
+      "D": "infliximab"
+    },
+    "correctAnswer": "A",
+    "explanation": "The alkylating immunosuppressives (i.e. cyclophosphamide and chlorambucil) are generally not used in children due to the risks of bone marrow suppression, future infertility, infection, and secondary malignancies. If used, they are typically reserved for the most severe cases of uveitis. Another side effect of cyclophosphamide found on board exams is hemorrhagic cystitis. Methotrexate is a commonly used immunosuppressive that is used to treat both uveitis and arthritis in children (e.g. juvenile idiopathic arthritis). Its most common side effect is GI upset while its more serious adverse effects include ulcerative stomatitis, hepatoxicity, and pneumonitis. Common side effects of cyclosporine include gingival hyperplasia, GI upset, and renal dysfunction. In fact, renal toxicity is the main limiting factor in using cyclosporine. RETINA",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 70,
+    "source": "pedia-nhy-oq",
+    "question": "You are called to the NICU to examine a child with possible retinopathy of prematurity. Which dilation drop is routinely recommended for patients in this age group?",
+    "options": {
+      "A": "cyclopentolate 1%",
+      "B": "homatropine 5%",
+      "C": "tropicamide 1%",
+      "D": "cyclopentolate 0.5%"
+    },
+    "correctAnswer": "D",
+    "explanation": "Comments: - P. 326 Bcsc section 6 peds book. \"Cyclomydril (0.2% and 1.0% phenylephrine) is recommended for the examination of premature infants. Alternatively, tropicamide 0.5% or 1% and phenylephrine 2.5% can be used.\" •",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 71,
+    "source": "pedia-nhy-oq",
+    "question": "IN GENERAL, which of the following sources of reduced vision may be associated with the condition depicted in the photo above?",
+    "options": {
+      "A": "this retinal condition is not associated with any type of vision loss",
+      "B": "tractional retinal detachment",
+      "C": "high hyperopia",
+      "D": "amblyopia"
+    },
+    "correctAnswer": "D",
+    "explanation": "The photo depicts myelinated retinal nerve fibers (mRNFL). Remember, normal myelination of optic nerve fibers typically stops at the lamina cribosa before reaching the optic disc. However, in some cases, the myelination may extend anteriorly beyond the lamina cribosa resulting in retinal nerve fibers acquiring a myelin sheath. This anomaly results in the characteristic \"feathery\" white appearance of the retina that follows the orientation of normal retinal nerve fibers. Though typically an incidental and asymptomatic finding, myelinated retinal nerve fibers (in general) can actually result in reduced vision either from involvement of the macula, high myopia (not hyperopia), or ambylopia. In addition, it may be associated with nystagmus. (Editor's note: yes, we know that mNFL is generally an incidental finding without vision loss. We also acknowledge that the mNFL in the photo are not affecting the macula. However, the BCSC clearly states that mNFL can be associated with amblyopia) Comments: - I would word the question differently. \"IN GENERAL\", mNFL isn't associated with any vision loss (which you say in your editor's note) - this would make A also correct. It might better to say Which of the following can be associated etc... and leave out the IN GENERAL. •",
+    "respondentStats": null,
+    "imageUrl": "/images/pedia-nhy-oq/p47_img1.png",
+    "highYield": null
+  },
+  {
+    "id": 72,
+    "source": "pedia-nhy-oq",
+    "question": "A 3-month-old girl with infantile spasms is referred to your clinic and has the following findings on fundus exam (see image). What abnormality is she mostly likely to have on further examination and workup?",
+    "options": {
+      "A": "Absence of the corpus callosum on MRI",
+      "B": "Positive ELISA for Toxocara antibodies",
+      "C": "neuronal lipofuscin deposits",
+      "D": "mutation of gene on chromosome 22"
+    },
+    "correctAnswer": "A",
+    "explanation": "This photograph depicts oval chorioretinal lacunae, the classic finding of Aicardi Syndrome. This is an X-linked dominant condition (i.e. lethal in males, except if person is XXY [Klinefelter] ), although the gene that causes this syndrome has not been identified as of 2012. The classic triad of Aicardi syndrome is chorioretinal lacunae, agenesis of the corpus callosum, and infantile spasms. Other ocular abnormalities include colobomas and microphthalmos. Infantile spasms typically develop before the age of 5 months and these individuals experience significant developmental delay. Answer \"B\" is referring to ocular toxocariasis which can commonly result in leucokoria (25%), localized macular granuloma (25%), or a peripheral granuloma (50%). Answer \"C\" is referring to Batten's disease which can result in optic atrophy, macular pigmentary deposits, and low/absent ERG. Patients with the different types of neuronal ceroid lipofuscinosis (Batten disease) can present with seizures, but typically a little later in life. Answer \"D\" is referring to neurofibromatosis type 2 whose classic findings are bilateral acoustic neuromas, cafe-au-lait spots (60%), combined retinal-RPE hamartomas, and posterior subcapsular cataracts. Comments: - AICardi Syndrome: Absence of corpus callosum Infantile spasms Chorioretinal lacunae OCULOPLASTY",
+    "respondentStats": null,
+    "imageUrl": "/images/pedia-nhy-oq/p48_img1.png",
+    "highYield": null
+  },
+  {
+    "id": 73,
+    "source": "pedia-nhy-oq",
+    "question": "Compared to adult patients, which of the following is rare in pediatric patients with thyroid eye disease (TED)?",
+    "options": {
+      "A": "extraocular muscle fibrosis",
+      "B": "proptosis",
+      "C": "eyelid retraction",
+      "D": "lid lag"
+    },
+    "correctAnswer": "A",
+    "explanation": "Thyroid eye disease (TED) is quite uncommon in children1 and tends to be more mild as compared to adult patients.2 Children with TED tend to have proptosis, eyelid retraction and lid lag, and soft tissue swelling (e.g. preorbital fat pad enlargement).2,3 However, unlike adults, extraocular muscle fibrosis and optic neuropathy are almost never observed.2,3 Antithyroid medications are the preferred initial and long-term treatment for TED.4 In severe cases refractive to medical management, subtotal thyroidectomy or radioiodine ablation may be required.4 It is important to discuss smoking cessation with adolescents or young adults who smoke as smoking is associated with more severe orbital disease.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 74,
+    "source": "pedia-nhy-oq",
+    "question": "A patient presents to your office with an abnormality of his inner canthi. You look up the abnormality in an atlas and find that it is called \"dystopia canthorum.\" What syndrome is this abnormality specific for?",
+    "options": {
+      "A": "Waardenburg syndrome",
+      "B": "Marfan syndrome",
+      "C": "Stickler syndrome",
+      "D": "Hallermann-Streiff syndrome"
+    },
+    "correctAnswer": "A",
+    "explanation": "\"Dystopia canthorum\" describes the abnormality whereby the inner canthi and lacrimal puncti are displaced laterally. If one draws an imaginary line connecting the lower and upper puncti, this line will cross the cornea.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 75,
+    "source": "pedia-nhy-oq",
+    "question": "What is the proper definition of \"ocular hypertelorism\"?",
+    "options": {
+      "A": "increased distance between the inner canthi",
+      "B": "lateralization of the orbits",
+      "C": "increased distance between the medial walls of the orbits",
+      "D": "excessive interpupillary distance"
+    },
+    "correctAnswer": "D",
+    "explanation": "Orbital hypertelorism is defined as excessive distance between the medial orbital walls as a result of lateralization of the orbits. This diagnosis is made radiographically. As an aside, telecanthus is defined as an increased distance between the inner canthi. It may be caused by hypertelorism. (Note: these terms are straight from the BCSC Pediatrics book) OTHER QUESTIONS",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 76,
+    "source": "pedia-nhy-oq",
+    "question": "You are called to the emergency room to see a 7-year-old child who accidentally was struck in the right eye by a small knife. You manage to perform a slit-lamp exam which shows a peripheral corneal laceration 3 mm in length. There is no subconjunctival hemorrhage. There appears to be some \"fluffy\" material floating around in the anterior chamber which is shallow. It is difficult to see the anterior lens capsule underneath this fluffy material. CT scan of the orbits does not show an intraocular foreign body. Which of the following is the most appropriate management for this child?",
+    "options": {
+      "A": "globe exploration and repair in the operating room with simultaneous lensectomy due to disruption of the anterior capsule",
+      "B": "globe exploration and repair in the operating room only",
+      "C": "gluing of corneal wound and topical and systemic antibiotics",
+      "D": "bandage contact lens and topical and systemic antibiotics"
+    },
+    "correctAnswer": "B",
+    "explanation": "In young children, a fibrin clot can form quickly after penetrating trauma which can simulate liberated lens cortical material. It is not advisable to perform simultaneous lensectomy at the time of open globe exploration and repair unless you are completely certain that the anterior lens capsule is violated. In addition, even if the lens capsule is violated, it may be safer to perform lensectomy when the eye is more stable and less inflamed from the primary injury.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 77,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following statements regarding cerebral visual impairment (CVI) is correct?",
+    "options": {
+      "A": "Optic disc cupping can occur in preterm infants",
+      "B": "CVI does not include subcortical visual impairment",
+      "C": "Brain imaging is always normal in patients with CVI",
+      "D": "Patients often present with nystagmus"
+    },
+    "correctAnswer": "A",
+    "explanation": "Cerebral visual impairment (CVI), also termed retrogeniculate visual impairment refers to visual deficits resulting from pathology posterior to the lateral geniculate nucleus. CVI is also referred to as cortical visual impairment, but cerebral visual impairment is preferred because subcortical visual impairment can cause the same problems as those from cortical visual impairment. Neurological deficits may be present but it is possible that CVI is isolated. Some common causes include periventricular leukomalacia (a prominent cause of visual impairment in premature infants), intracranial hemorrhage, perinatal hypoxia, intrauterine infection, structural abnormalities, seizures, and hydrocephalus. Acquired causes include trauma (accidental and non accidental abusive), meningitis and encephalitis. On exam, patients with CVI have normal ocular structures, normal pupillary responses, but often have variable levels of visual inattentiveness. Parents and even the ophthalmologist may be uncertain as to the infant's ability to see. Nystagmus is typically not present. Although the retina exam is normal, subtle optic nerve changes may be present. Periventiruclar leukomalacia is most commonly associated with optic nerve changes such as optic nerve cupping (similar to glaucomatous cupping) in preterm infants. Workup includes neuroimaging, which may reveal changes such as periventricular leukomalacia, cerebral atrophy, porencephaly in the occipital cortex, etc. Often ERG results are normal while VEP results may be normal or subnormal. Comments: - Why don't many of these patients have a sensory nystagmus? - Nystagmus is thought to be from a pregeniculate visual impairment so pathology posterior to the LGN does not demonstrate nystagmus. Ocular structures are normal and sensory nystagmus probably stems from poor vision due to a structural deficit such as foveal hypoplasia.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 78,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following ocular tissues is most likely to be infiltrated by leukemia?",
+    "options": {
+      "A": "vitreous",
+      "B": "anterior chamber",
+      "C": "optic nerve",
+      "D": "retina and choroid"
+    },
+    "correctAnswer": "D",
+    "explanation": "The retina and choroid are the most common ocular tissues infiltrated by leukemia. In fact by histology, the choroid is the most frequent involved ocular tissue, but its involvement is rarely seen clinically. Leukemia can infiltrate any ocular structure and ocular involvement is highly correlated with CNS leukemic disease. Leukemic retinopathy: • Most common ocular finding: retinal hemorrhages (especially flame-shaped in the nerve fiber layer). These retinal hemorrhages correlate with leukemia's other abnormalities of anemia, thrombocytopenia, and coagulation problems. • These hemorrhages may have white-centers and can look similar to those seen in shaken baby syndrome. Optic nerve infiltration: • May cause loss of central vision. • Translucent swelling of the disc obscures normal landmarks. • Can result in a white mass being seen over the optic disc in florid cases. • Disc edema + loss of central vision == medical emergency and these patients need radiation treatment as soon as possible. Anterior chamber infiltration: • Can lead to heterochromia iridis, iris infiltrates, spontaneous hyphemas, keratic precipitates, and pseudohypopyon. • Can lead to elevated intraocular pressure from the leukemic cells clogging the trabecular meshwork. • For iris involvement, may be confused with juvenile xanthogranuloma. •",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 79,
+    "source": "pedia-nhy-oq",
+    "question": "A 10-year-old girl is referred to your clinic for evaluation of proptosis. Her external appearance is shown in the photograph above. Mutations in what gene are responsible for this condition?",
+    "options": {
+      "A": "FGFR2",
+      "B": "TWIST",
+      "C": "MYOC",
+      "D": "OPTN"
+    },
+    "correctAnswer": "A",
+    "explanation": "All known mutations that cause \"Crouzon syndrome\" affect the FGFR2 gene which is located on chromosome 10. Crouzon syndrome is the most common of the craniosynostosis syndromes. One helpful feature that distinguishes Crouzon from other craniosynostosis syndromes is the *lack* of syndactyly or brachydactyly in the former. Most craniosynostosis syndromes are autosomal dominant conditions. Briefly, here are the disease associations for the other answer choices: • TWIST -- Saethre-Chotzen syndrome • MYOC -- juvenile glaucoma, some POAG cases • OPTN -- normal tension glaucoma",
+    "respondentStats": null,
+    "imageUrl": "/images/pedia-nhy-oq/p54_img1.png",
+    "highYield": null
+  },
+  {
+    "id": 80,
+    "source": "pedia-nhy-oq",
+    "question": "Of the following choices, which is considered to be the mildest craniosynostosis syndrome in terms of skull deformity?",
+    "options": {
+      "A": "Crouzon syndrome",
+      "B": "Apert syndrome",
+      "C": "Saethre-Chotzen syndrome",
+      "D": "Pfeiffer syndrome"
+    },
+    "correctAnswer": "C",
+    "explanation": "Since the skull deformity in Saethre-Chotzen syndrome is quite mild, this syndrome often goes undiagnosed. It typically consists of plagiocephaly, ptosis, mild brachydactyly, and mild syndactyly. There is a characteristic lateral deviation of the big toes of the feet. This mild craniosynostosis syndrome is caused by mutations in the TWIST gene on chromosome 7. Crouzon is the most common autosomal dominant craniosyntosis. There is fusion of both coronal sutures leading to \"tower skull\". Intelligence is normal. The findings are limited to the skull unlike in Apert's. Apert's involves syndactyly of the hands and feet. Intelligence is often affected. Pfeiffer syndrome is another autosomally dominant craniosynostosis with syndactyly of the hands and feet but with characteristic short, broad thumbs and toes.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 81,
+    "source": "pedia-nhy-oq",
+    "question": "When premature closure of a cranial suture occurs, bone growth can only occur parallel to the suture line. What is the name of this bone growth pattern?",
+    "options": {
+      "A": "Sherrington's law",
+      "B": "Hering's law",
+      "C": "Virchow's law",
+      "D": "Kestenbaum's law"
+    },
+    "correctAnswer": "C",
+    "explanation": "Craniosynostosis occurs when there is premature closure of 1 or more of the cranial sutures. When this occurs, bone growth cannot occur perpendicular to the suture line, but can still occur parallel to it. This bone growth pattern is called \"Virchow's law\".",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 82,
+    "source": "pedia-nhy-oq",
+    "question": "You are examining a child on the Pediatric service with a past medical history of a \"skull deformity\" since birth. Based on your extensive reading, you suspect that the child has Apert syndrome. All of the following clinical features support your putative diagnosis EXCEPT:",
+    "options": {
+      "A": "mental retardation",
+      "B": "absence of syndactyly",
+      "C": "cardiac malformation",
+      "D": "autosomal dominant inheritance"
+    },
+    "correctAnswer": "B",
+    "explanation": "Most of the craniosynostosis are autosomal dominant in inheritance. Patients with Apert syndrome typically have some mental deficiency, internal organ malformation (including cardiac), and a variety of abnormally-fused skull sutures. Syndactyly is a *prominent* feature of Apert syndrome and can result in the \"mitten deformity\" when all the digits are fused together. The one craniosynostosis syndrome that does *not* feature hand/feet/limb deformities is Crouzon syndrome.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 83,
+    "source": "pedia-nhy-oq",
+    "question": "What is the most common inheritance pattern with Alport Syndrome?",
+    "options": {
+      "A": "sporadic",
+      "B": "autosomal recessive",
+      "C": "autosomal dominant",
+      "D": "X-linked recessive"
+    },
+    "correctAnswer": "D",
+    "explanation": "Alport syndrome is caused by a mutation(s) in basement membrane (collagen type IV) synthesis. It is characterized by glomerulonephritis, eye abnormalities, and hearing loss. Blood in urine (hematuria) is universal. The glomerulus of the kidney is heavily reliant upon a functional basement membrane as are the cochlea, retina, and lens capsule (also made of type IV collagen and a good way to remember Alport syndrome). Inheritance patterns: X-linked (85% of all cases): due to mutations in COL4A5 gene. high penetrance of hearing loss in affected males high-tone sensorineural deafness by age 20 (other tones progressively lost later in life) dot and fleck retinopathy occurs in 85% of adult males anterior lenticonus occurs in 25% retinopathy and lenticonus generally are not present until adulthood posterior polymorphous dystrophy is also associated with Alport syndrome autosomal recessive: due to mutations in COL4A3 and COL4A4 genes. autosomal dominant (very rare): also due to mutations in COL4A3 and COL4A4 genes neurosensory hearing loss heriditary hematuric nephritis lenticular changes (anterior lenticonus, spherophakia, cataracts) arcus juvenilis whitish yellow retinal lesions Prior to genetic testing being readily available, any patient with a family history of Alport syndrome and a dot and fleck retinopathy was to be considered \"diagnostic\" for having Alport syndrome. Patients suspected of having Alport Syndrome are now sent for genetic testing confirmation. \"Oil droplet\" cataracts refer to the appearance of the lens' red reflex by retinoscopy. It has the appearance of a small oil drop in the middle of the lens. See the reference picture A in the link below. ?title=Click%20on%20image%20to%20zoom&p=PMC3&id=4386265_CJN.10581014f3. jpg Posterior lenticonus will also give an oil droplet cataract. Posterior lenticonus is almost always unilateral and is a type of congenital cataract. The anterior lenticonus seen in Alport Syndrome is generally bilateral and occurs later in life (acquired and not congenital). Galactosemia also produces an oil droplet cataract but it occurs within the first few weeks of life. The nucleus and deep cortex become opacified and cause the oil droplet appearance by red reflex. Treatment involves elimination of milk from the diet. Galactosemia is screened for at birth by law and lethal within a few weeks if not treated. Another interesting note is that certain mutations causing Usher Syndrome (congenital sensorineural hearing loss and retinitis pigmentosa) have genes that code for basement membrane as well.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 84,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following disorders is associated with myelinated nerve fibers (of the optic nerve)?",
+    "options": {
+      "A": "Basal Cell Nevus Syndrome",
+      "B": "Unilateral high hyperopia",
+      "C": "Neurofibromatosis Type 2",
+      "D": "Tuberous Sclerosis"
+    },
+    "correctAnswer": "A",
+    "explanation": "Basal Cell Nevus Syndrome (Gorlin-Goltz Syndrome) is an uncommon autosomal dominant, multi-systemic disorder characterized by multiple basal cell carcinomas, skeletal abnormalities, odontogenic keratocyst, and intracranial calcification. Myelinated nerve fiber layer is common with this disorder. Myelinated nerve fiber layers can be associated with neurofibromatosis 1, ipsilateral high myopia, strabismus, and amblyopia.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 85,
+    "source": "pedia-nhy-oq",
+    "question": "What is the name given to the cranial malformation that occurs when there is premature closure of the skull base suture?",
+    "options": {
+      "A": "plagiocephaly",
+      "B": "hypertelorism",
+      "C": "telecanthus",
+      "D": "midface hypoplasia"
+    },
+    "correctAnswer": "D",
+    "explanation": "Premature fusion of the skull base suture produces only one kind of abnormality called \"midface hypoplasia\". Abnormal fusion of the calvarial sutures (e.g. coronal, sagittal, etc) can produce a variety of skull malformations (e.g. plagiocephaly, scaphocephaly, etc). Here are the definitions from BCSC: Hypertelorism, ocular: excessive interpupillary distance when compared to standard nomograms. It implies orbital hypertelorism which is excessive distance between the medial orbital walls. Telecanthus: Greater than normal distance between the medial canthi. This can be secondary to hyperterlorism, or it can be a primary soft-tissue abnormality. Craniosynostosis: premature closure of 1 or more cranial sutures during the embryonic period or early childhood. Premature suture closure prevents perpendicular growth but allows parallel growth along the closed suture. So if the sagittal suture is closed, then the head will be long; and if the coronal suture is closed, then the head is flat and will be wide. Plagiocephaly: most common form of craniosynostosis, or most commonly seen in a pediatric ophthalmology practice. In a child with unilateral coronal suture synostosis, one will find that on the synostotic side, the forehead and supraorbital rim are depressed or recessed, the interpalpebral fissure is wider, and the orbit is often higher. The nonsynostotic side displays a protruding or bulging forehead, a lower supraorbital rim, a narrower interpalpebral fissure, and frequently a lower orbital position. Brachycephaly: result of bilateral closure of the coronal sutures, resulting in a wide and flat forehead. Scaphocephaly: result of premature closure of the sagittal suture, resulting in a long head. Midface hypoplasia: result of fusion of the sutures at the skull base. This will not change the forehead region (cranium) but cause facial deformations. Here, one sees maxillary hypoplasia, beak-shaped nose, shallow oribts with proptosis and lagophthalmos, high-arched palate, and a prominent-appearing jaw.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  },
+  {
+    "id": 86,
+    "source": "pedia-nhy-oq",
+    "question": "Which of the following craniosynostosis is most commonly associated with syndactyly?",
+    "options": {
+      "A": "Saethre-Chotzen syndrome",
+      "B": "Crouzon syndrome",
+      "C": "Pierre-Robin sequence",
+      "D": "Apert syndrome"
+    },
+    "correctAnswer": "D",
+    "explanation": "Craniosynostosis is the premature closure of 1 or more cranial sutures during the embryologic period or early childhood. Common systemic features of the craniosynostosis syndrome include fusion of multiple calvarian sutures and skull base sutures. Crouzon syndrome is generally not associated with syndactyly at all. It is however, the most common autosomal dominant craniosynostosis. The Crouzon’s phenotype has been linked to over 30 mutations of the FGFR2 gene on chromosome 10. Seathre-Chotzen syndrome is a much milder craniosynostosis . It is often under- diagnosed, due to the mild features of the syndrome. Intelligence is usually normal and only occasionally do these patients display slightly short digits of their hands and feet. Apert syndrome, resembles Crouzon syndrome, except the former displays an often extreme amount of syndactyly. Oftentimes, Apert’s syndrome patients have completely fused hands and feet. Most patients with this syndrome also have one of two specific mutations of the FGFR2 gene. Pierre Robin sequence, is technically not a craniosynostosis and also not associated with syndactyly. It is a frequent finding in Stickler syndrome. Comments: - Fingers and toes cant be moved \"Apert\" from each other.",
+    "respondentStats": null,
+    "imageUrl": null,
+    "highYield": null
+  }
+]

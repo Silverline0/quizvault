@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "mcp__windows-mcp__Process"
+      "mcp__windows-mcp__Process",
+      "mcp__Desktop_Commander__write_file",
+      "mcp__PDF_Tools_-_Fill__Analyze__Extract__View__read_pdf_content"
     ]
   }
 }

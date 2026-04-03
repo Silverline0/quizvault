@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import { Manifest, QuizMode } from "@/lib/types";
+import { Manifest, QuizMode, Category, QuestionSet } from "@/lib/types";
 import { getStats, getMistakes, getLastPosition, exportProgress, importProgress, clearProgress } from "@/lib/store";
 import CloudSync from "@/components/CloudSync";
 
@@ -12,8 +12,14 @@ const MODES: { id: QuizMode; label: string; desc: string; icon: string }[] = [
   { id: "mistakes", label: "Mistakes Only", desc: "Review what you got wrong", icon: "✗" },
 ];
 
+const SOURCE_COLORS: Record<string, { bg: string; text: string }> = {
+  BCSC: { bg: "#dbeafe", text: "#1d4ed8" },
+  OphthoQ: { bg: "#ede9fe", text: "#6d28d9" },
+};
+
 export default function HomePage() {
   const [manifest, setManifest] = useState<Manifest | null>(null);
+  const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
   const [selectedSet, setSelectedSet] = useState<string | null>(null);
   const [overallStats, setOverallStats] = useState({ total: 0, correct: 0, accuracy: 0, uniqueQuestions: 0, streak: 0 });
   const [mistakeCounts, setMistakeCounts] = useState<Record<string, number>>({});
@@ -24,7 +30,10 @@ export default function HomePage() {
       .then((r) => r.json())
       .then((m: Manifest) => {
         setManifest(m);
-        if (m.questionSets.length === 1) setSelectedSet(m.questionSets[0].id);
+        // Auto-select if only 1 category
+        if (m.categories && m.categories.length === 1) {
+          setSelectedCategory(m.categories[0].id);
+        }
       });
   }, []);
 
@@ -66,7 +75,7 @@ export default function HomePage() {
       if (!file) return;
       const text = await file.text();
       if (importProgress(text)) {
-        setOverallStats(getStats());
+        refreshStats();
         alert("Progress imported successfully!");
       } else {
         alert("Invalid progress file.");
@@ -95,6 +104,26 @@ export default function HomePage() {
     );
   }
 
+  const categories = manifest.categories || [];
+  const totalQuestions = manifest.questionSets.reduce((sum, s) => sum + s.questionCount, 0);
+
+  // Get sets for selected category
+  const categorySets = selectedCategory
+    ? manifest.questionSets.filter((s) => s.category === selectedCategory)
+    : [];
+
+  // Get the selected category object
+  const currentCategory = categories.find((c) => c.id === selectedCategory);
+
+  // Group sets by category for the category grid
+  const categoryTotals: Record<string, { count: number; sets: number }> = {};
+  for (const s of manifest.questionSets) {
+    const cat = s.category || "uncategorized";
+    if (!categoryTotals[cat]) categoryTotals[cat] = { count: 0, sets: 0 };
+    categoryTotals[cat].count += s.questionCount;
+    categoryTotals[cat].sets += 1;
+  }
+
   return (
     <div className="max-w-2xl mx-auto">
       {/* Hero */}
@@ -103,7 +132,7 @@ export default function HomePage() {
           QuizVault
         </h1>
         <p style={{ color: "var(--text-secondary)" }}>
-          Medical Self Assessment — {manifest.questionSets.reduce((sum, s) => sum + s.questionCount, 0)} questions
+          Medical Self Assessment — {totalQuestions.toLocaleString()} questions across {manifest.questionSets.length} banks
         </p>
       </div>
 
@@ -128,38 +157,99 @@ export default function HomePage() {
         </div>
       )}
 
-      {/* Question Set Selector */}
-      {manifest.questionSets.length > 1 && (
-        <div className="mb-6">
+      {/* Step 1: Choose Subspecialty */}
+      {!selectedCategory && categories.length > 0 && (
+        <div className="mb-8">
           <h2 className="text-sm font-semibold mb-3" style={{ color: "var(--text-secondary)" }}>
-            Choose Question Set
+            Choose Subspecialty
           </h2>
-          <div className="space-y-2">
-            {manifest.questionSets.map((s) => (
-              <button
-                key={s.id}
-                onClick={() => setSelectedSet(s.id)}
-                className="w-full text-left px-4 py-3 rounded-lg transition-all"
-                style={{
-                  backgroundColor: selectedSet === s.id ? "var(--bg-secondary)" : "transparent",
-                  border: `2px solid ${selectedSet === s.id ? "var(--accent)" : "var(--border)"}`,
-                }}
-              >
-                <div className="font-medium text-sm" style={{ color: "var(--text-primary)" }}>{s.name}</div>
-                <div className="text-xs mt-0.5" style={{ color: "var(--text-muted)" }}>
-                  {s.questionCount} questions
-                  {positions[s.id] ? ` · Resumed at Q${positions[s.id] + 1}` : ""}
-                  {mistakeCounts[s.id] ? ` · ${mistakeCounts[s.id]} mistakes` : ""}
-                </div>
-              </button>
-            ))}
+          <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
+            {categories.map((cat) => {
+              const totals = categoryTotals[cat.id];
+              return (
+                <button
+                  key={cat.id}
+                  onClick={() => { setSelectedCategory(cat.id); setSelectedSet(null); }}
+                  className="text-left px-4 py-4 rounded-xl transition-all hover:shadow-md"
+                  style={{ backgroundColor: "var(--bg-card)", border: "1px solid var(--border)" }}
+                >
+                  <div className="text-2xl mb-1">{cat.icon}</div>
+                  <div className="font-semibold text-sm" style={{ color: "var(--text-primary)" }}>
+                    {cat.name}
+                  </div>
+                  <div className="text-xs mt-0.5" style={{ color: "var(--text-muted)" }}>
+                    {totals ? `${totals.count} Qs · ${totals.sets} bank${totals.sets > 1 ? "s" : ""}` : ""}
+                  </div>
+                </button>
+              );
+            })}
           </div>
         </div>
       )}
 
-      {/* Mode Selector */}
+      {/* Step 2: Choose Question Bank */}
+      {selectedCategory && !selectedSet && (
+        <div className="mb-8">
+          <button
+            onClick={() => setSelectedCategory(null)}
+            className="flex items-center gap-1 text-sm mb-4 hover:opacity-80 transition-opacity"
+            style={{ color: "var(--accent)" }}
+          >
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polyline points="15 18 9 12 15 6" /></svg>
+            Back to subspecialties
+          </button>
+          <h2 className="text-lg font-bold mb-1" style={{ color: "var(--text-primary)" }}>
+            {currentCategory?.icon} {currentCategory?.name}
+          </h2>
+          <p className="text-sm mb-4" style={{ color: "var(--text-muted)" }}>
+            Choose a question bank
+          </p>
+          <div className="space-y-3">
+            {categorySets.map((s) => {
+              const sourceStyle = SOURCE_COLORS[s.source || "BCSC"] || SOURCE_COLORS.BCSC;
+              return (
+                <button
+                  key={s.id}
+                  onClick={() => setSelectedSet(s.id)}
+                  className="w-full text-left px-4 py-4 rounded-xl transition-all hover:shadow-md"
+                  style={{ backgroundColor: "var(--bg-card)", border: "1px solid var(--border)" }}
+                >
+                  <div className="flex items-center gap-2 mb-1">
+                    <span className="font-semibold text-sm" style={{ color: "var(--text-primary)" }}>
+                      {s.name}
+                    </span>
+                    {s.source && (
+                      <span
+                        className="text-xs font-medium px-2 py-0.5 rounded-full"
+                        style={{ backgroundColor: sourceStyle.bg, color: sourceStyle.text }}
+                      >
+                        {s.source}
+                      </span>
+                    )}
+                  </div>
+                  <div className="text-xs" style={{ color: "var(--text-muted)" }}>
+                    {s.questionCount} questions
+                    {positions[s.id] ? ` · Resumed at Q${positions[s.id] + 1}` : ""}
+                    {mistakeCounts[s.id] ? ` · ${mistakeCounts[s.id]} mistakes` : ""}
+                  </div>
+                </button>
+              );
+            })}
+          </div>
+        </div>
+      )}
+
+      {/* Step 3: Choose Quiz Mode */}
       {selectedSet && (
         <div className="mb-8">
+          <button
+            onClick={() => setSelectedSet(null)}
+            className="flex items-center gap-1 text-sm mb-4 hover:opacity-80 transition-opacity"
+            style={{ color: "var(--accent)" }}
+          >
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polyline points="15 18 9 12 15 6" /></svg>
+            Back to banks
+          </button>
           <h2 className="text-sm font-semibold mb-3" style={{ color: "var(--text-secondary)" }}>
             Choose Quiz Mode
           </h2>
@@ -197,6 +287,33 @@ export default function HomePage() {
         </div>
       )}
 
+      {/* Fallback: if no categories, show flat list (backward compat) */}
+      {!categories.length && !selectedSet && (
+        <div className="mb-8">
+          <h2 className="text-sm font-semibold mb-3" style={{ color: "var(--text-secondary)" }}>
+            Choose Question Set
+          </h2>
+          <div className="space-y-2">
+            {manifest.questionSets.map((s) => (
+              <button
+                key={s.id}
+                onClick={() => setSelectedSet(s.id)}
+                className="w-full text-left px-4 py-3 rounded-lg transition-all"
+                style={{
+                  backgroundColor: selectedSet === s.id ? "var(--bg-secondary)" : "transparent",
+                  border: `2px solid ${selectedSet === s.id ? "var(--accent)" : "var(--border)"}`,
+                }}
+              >
+                <div className="font-medium text-sm" style={{ color: "var(--text-primary)" }}>{s.name}</div>
+                <div className="text-xs mt-0.5" style={{ color: "var(--text-muted)" }}>
+                  {s.questionCount} questions
+                </div>
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
+
       {/* Cloud sync */}
       <div className="mt-8">
         <CloudSync onSyncComplete={refreshStats} />
@@ -204,7 +321,7 @@ export default function HomePage() {
 
       {/* Data management */}
       <div
-        className="rounded-xl p-5 mt-8"
+        className="rounded-xl p-5 mt-4"
         style={{ backgroundColor: "var(--bg-secondary)", border: "1px solid var(--border)" }}
       >
         <h3 className="text-sm font-semibold mb-3" style={{ color: "var(--text-secondary)" }}>

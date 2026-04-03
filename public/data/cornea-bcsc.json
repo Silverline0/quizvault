@@ -1,0 +1,1980 @@
+[
+  {
+    "id": 1,
+    "source": "cornea-bcsc",
+    "question": "What postoperative complication of corneal crosslinking is more likely with inadequate riboﬂavin saturation in a very thin cornea?",
+    "options": {
+      "A": "excessive corneal steepening",
+      "B": "endothelial cell damage with resultant corneal edema",
+      "C": "non-healing epithelial defect",
+      "D": "corneal melt"
+    },
+    "correctAnswer": "B",
+    "explanation": "The UVA light used to activate riboﬂavin in crosslinking is toxic to corneal endothelial cells. In the presence of riboﬂavin, approximately 95% of the UVA light is absorbed in the anterior 300 μm of the corneal stroma. A minimum corneal thickness of 400 μm is recommended in order to prevent corneal edema from endothelial toxicity, but thinner corneas may be thickened temporarily with application of a hypotonic riboﬂavin formulation prior to UVA treatment.",
+    "respondentStats": {
+      "A": 11,
+      "B": 51,
+      "C": 11,
+      "D": 19
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 2,
+    "source": "cornea-bcsc",
+    "question": "What refractive procedure would be preferred for restoring functional vision in a patient with keratoconus?",
+    "options": {
+      "A": "conductive keratoplasty",
+      "B": "intrastromal corneal ring segments",
+      "C": "surface ablation",
+      "D": "collagen crosslinking"
+    },
+    "correctAnswer": "B",
+    "explanation": "Intrastromal corneal ring segments have been approved by the US Food and Drug Administration (FDA) for use in reducing or eliminating myopia and astigmatism in keratoconus patients who are no longer able to achieve adequate vision with their contact lenses or spectacles. The intent of intrastromal corneal ring segment placement is to restore functional vision and defer the need for corneal transplantation. Corneal collagen crosslinking combines riboﬂavin, a naturally occurring photosensitizer, and ultraviolet A light to strengthen the biomechanical properties of the cornea. Although there may be a slight ﬂattening of the cornea, the most important eﬀect of this treatment is that it appears to stabilize the corneal curvature. The primary clinical application is as a treatment to prevent the progression of keratoconus and postrefractive ectasia. Keratoconus is generally considered a contraindication to laser in situ keratomileusis (LASIK) and surface ablation; weakening of the cornea, as a result of the loss of structural integrity in LASIK ﬂap creation and",
+    "respondentStats": {
+      "A": 2,
+      "B": 77,
+      "C": 1,
+      "D": 15
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 3,
+    "source": "cornea-bcsc",
+    "question": "What suture is recommended for surgical repair of the limbus portion of a corneoscleral laceration?",
+    "options": {
+      "A": "9-0 polyglactin",
+      "B": "10-0 polyglactin",
+      "C": "10-0 nylon",
+      "D": "9-0 silk"
+    },
+    "correctAnswer": "C",
+    "explanation": "The preferred type of suture for repair of the limbal portion of corneoscleral lacerations is 9-0 or 10-0 nylon. Nylon suture is monoﬁlament and nonabsorbable, which provides prolonged wound support with minimal induction of inﬂammation.",
+    "respondentStats": {
+      "A": 21,
+      "B": 3,
+      "C": 60,
+      "D": 13
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 4,
+    "source": "cornea-bcsc",
+    "question": "A 69-year-old woman developed varicella-zoster infection involving the nasociliary branch of the trigeminal nerve (V ), with Hutchinson sign. Three months following oral antiviral treatment for a corneal pseudodendrite, she returns with decreasing vision, redness, and a chronic dull ache involving the right eye. Given her corneal ﬂuorescein staining shown, what diagnosis is most consistent with her course?",
+    "options": {
+      "A": "corneal perforation",
+      "B": "bacterial keratitis",
+      "C": "neurotrophic ulceration",
+      "D": "band keratopathy"
+    },
+    "correctAnswer": "C",
+    "explanation": "This patient has neurotrophic ulceration. Long-term complications from severe varicella-zoster keratitis include trigeminal nerve damage and resulting neuropathy. The photography shows the classically rounded edge of the ulcer, indicating the chronicity of this condition. Calciﬁc band keratopathy is not seen in this patient, but it can occur in many long-standing forms of keratitis. Bacterial keratitis and corneal perforation are not found in this patient, but she is at risk for these complications as well. b17d-  Michel medium",
+    "respondentStats": {
+      "A": 1,
+      "B": 1,
+      "C": 95,
+      "D": 0
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 5,
+    "source": "cornea-bcsc",
+    "question": "Following ocular injury from a plant, corneal samples should be placed in what medium to conﬁrm a likely diagnosis for the condition shown?",
+    "options": {
+      "A": "0ce2-48f3- b17d- Michel medium",
+      "B": "Löwenstein-Jensen medium",
+      "C": "agar with Escherichia coli (E coli) overlay",
+      "D": "Sabouraud agar"
+    },
+    "correctAnswer": "D",
+    "explanation": "The mechanism of injury from vegetative material, along with the clinical ﬁndings of a white, ﬂuﬀy inﬁltrate with satellite lesions, is highly suspicious for fungal keratitis. Sabouraud dextrose agar is used to culture fungal microorganisms. Blood agar and brain–heart infusion agar are other preferred media. Löwenstein-Jensen medium is used to culture mycobacteria. Nonnutrient agar with E coli overlay is used to culture Acanthamoeba. Michel medium is used for preservation of specimens to be examined by immunoﬂuorescence. 1e43- 4d59- 9be7- fd43369a2b54)  vitreous tap for culture and injection of intravitreal antibiotics",
+    "respondentStats": {
+      "A": 2,
+      "B": 3,
+      "C": 3,
+      "D": 88
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 6,
+    "source": "cornea-bcsc",
+    "question": "A patient who underwent previous Boston keratoprosthesis type I surgery presents with a 3-day history of pain and decreased vision (see image). The intraocular pressure (IOP) is normal to palpation and the Seidel test result is negative. Posterior segment examination demonstrates 3+ vitreous cell. What is the most appropriate management? 1f8a8c99bdab&t=634902382200000000)  Löwenstein-Jensen medium B.",
+    "options": {
+      "A": "vitreous tap for culture and injection of intravitreal antibiotics",
+      "B": "topical prednisolone q1h",
+      "C": "topical fortiﬁed antibiotics q1h",
+      "D": "oral prednisone 60 mg"
+    },
+    "correctAnswer": "A",
+    "explanation": "In the setting of previous keratoprosthesis surgery, the presentation is concerning for endophthalmitis. The most appropriate intervention is a vitreous aspiration for bacterial and fungal cultures, with injection of intravitreal antibiotics. In many cases, pars plana vitrectomy will be required. Sterile vitritis can mimic this presentation, but it is important to exclude infectious etiology before starting high-dose steroids. Topical fortiﬁed antibiotics are insuﬃcient treatment if endophthalmitis is suspected.",
+    "respondentStats": {
+      "A": 85,
+      "B": 4,
+      "C": 2,
+      "D": 2
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 7,
+    "source": "cornea-bcsc",
+    "question": "A 35-year-old woman wearing toric soft contact lenses desires laser refractive surgery. Her topography reveals irregular astigmatism and peripheral corneal thinning inferiorly 1- 2 mm from the limbus. Her central corneal thickness is normal. Her history is remarkable for long-standing atopic disease. What is the most likely diagnosis?",
+    "options": {
+      "A": "keratoglobus",
+      "B": "contact lens-associated corneal warpage",
+      "C": "pellucid marginal degeneration",
+      "D": "keratoconus"
+    },
+    "correctAnswer": "C",
+    "explanation": "Pellucid marginal degeneration, keratoconus, and keratoglobus are all bilateral corneal ectatic disorders with corneal thinning. In pellucid marginal degeneration, the stromal thinning is peripheral, typically seen inferiorly 1 to 2 mm from the limbus. In contrast to keratoconus, maximal corneal protrusion occurs superior to, rather than within, the area of thinning. Corneal topography maps show a typical \"crab-claw\" appearance corresponding to inferior steepening. The protrusion of the cornea in keratoconus is central and the apex of the cone is usually centered just below the visual axis. The area of maximal protrusion occurs in the area of maximal thinning.",
+    "respondentStats": {
+      "A": 1,
+      "B": 21,
+      "C": 43,
+      "D": 30
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 8,
+    "source": "cornea-bcsc",
+    "question": "The diagnosis of seasonal allergic conjunctivitis can be supported by ﬁnding what cell types in a conjunctival scraping?",
+    "options": {
+      "A": "plasma cells",
+      "B": "eosinophils",
+      "C": "lymphocytes",
+      "D": "mast cells"
+    },
+    "correctAnswer": "B",
+    "explanation": "",
+    "respondentStats": {
+      "A": 0,
+      "B": 61,
+      "C": 0,
+      "D": 34
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 9,
+    "source": "cornea-bcsc",
+    "question": "At what level of the cornea are the deposits in the condition depicted (ﬁgure) primarily found?",
+    "options": {
+      "A": "superﬁcial stroma",
+      "B": "Bowman layer",
+      "C": "Descemet membrane",
+      "D": "epithelium"
+    },
+    "correctAnswer": "B",
+    "explanation": "",
+    "respondentStats": {
+      "A": 4,
+      "B": 87,
+      "C": 2,
+      "D": 3
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 10,
+    "source": "cornea-bcsc",
+    "question": "What is the appropriate adjunctive therapy for perilimbal conjunctival melanoma with suspected corneal epithelial involvement?",
+    "options": {
+      "A": "no additional therapy is indicated",
+      "B": "absolute alcohol to the adjacent corneal epithelium and scleral base",
+      "C": "external beam radiation focused on the corneal epithelium",
+      "D": "tectonic penetrating keratoplasty"
+    },
+    "correctAnswer": "B",
+    "explanation": "",
+    "respondentStats": {
+      "A": 6,
+      "B": 69,
+      "C": 11,
+      "D": 10
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 11,
+    "source": "cornea-bcsc",
+    "question": "How can the technique of specular reﬂection with a slit lamp be optimized to evaluate endothelial cell morphology?",
+    "options": {
+      "A": "Direct a narrow slit beam at the nasal or temporal limbus.",
+      "B": "Use a wide diﬀuse slit-lamp beam.",
+      "C": "Set the slit-beam arm at an angle of 60° from the viewing arm and use a short slit.",
+      "D": "Use low magniﬁcation."
+    },
+    "correctAnswer": "C",
+    "explanation": "",
+    "respondentStats": {
+      "A": 25,
+      "B": 7,
+      "C": 64,
+      "D": 0
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 12,
+    "source": "cornea-bcsc",
+    "question": "For the patient shown, a conjunctival biopsy is most likely to show what ﬁndings?",
+    "options": {
+      "A": "intraepithelial plasma cell and eosinophil inﬁltration",
+      "B": "linear immunoglobulin on the epithelial basement membrane",
+      "C": "follicle formation with germinal centers",
+      "D": "Touton giant cells"
+    },
+    "correctAnswer": "B",
+    "explanation": "Mucous membrane pemphigoid (MMP), formerly called ocular cicatricial pemphigoid, is a chronic cicatrizing conjunctivitis, with biopsy revealing immunoﬂuorescent staining disclosing C3, IgM, IgA, and/or IgG at the level of the basement membrane zone. Touton giant cells are multinucleated cells that can be seen in granulomatous inﬂammation. While follicles are seen in follicular conjunctivitis (associated with toxic conjunctivitis, viral conjunctivitis, and certain bacterial infections including Moraxella and Chlamydia), these do not characterize MMP. Giant papillary conjunctivitis will show both an eosinophilic and plasma cell inﬁltrate.",
+    "respondentStats": {
+      "A": 5,
+      "B": 89,
+      "C": 0,
+      "D": 2
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 13,
+    "source": "cornea-bcsc",
+    "question": "A child has asthma, eczema, chronic tearing, and red eyes. Examination shows papillae of the palpebral conjunctiva and punctate corneal erosions. The patient is already using a combination topical H-1 blocker and mast cell stabilizer, in addition to an oral antihistamine. Given the corneal involvement indicating severe disease, what topical medication should be used?",
+    "options": {
+      "A": "corticosteroids",
+      "B": "nonsteroidal anti-inﬂammatory drops",
+      "C": "topical H-1 blocker",
+      "D": "vasoconstrictors"
+    },
+    "correctAnswer": "A",
+    "explanation": "Atopic keratoconjunctivitis is a chronic ocular surface allergy-related inﬂammatory disorder. It is characterized by a history of asthma and eczema in association with ocular ﬁndings of papillae and chronic tearing. More severe ﬁndings include punctate corneal erosions, epithelial defects, and neovascularization. Topical medications include mast-cell stabilizers, H -receptor antagonists, antihistamines, vasoconstrictors, corticosteroids, or combinations of these drugs. Nonsteroidal anti-inﬂammatory drops should be used with caution: Cases of corneal perforation, though rare, have been reported. Topical corticosteroid drops, used in pulsed doses, can eﬀectively reduce severe allergic ocular symptoms. Patients must be closely monitored for adverse eﬀects, including glaucoma and cataracts. 1",
+    "respondentStats": {
+      "A": 88,
+      "B": 2,
+      "C": 4,
+      "D": 0
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 14,
+    "source": "cornea-bcsc",
+    "question": "A 35-year-old man has had recurrent episodes of pain and redness in both eyes. Given the appearance of his right cornea (see photo), what other ocular or extraocular manifestations may develop from the known genetic mutation?",
+    "options": {
+      "A": "uveitis",
+      "B": "hearing loss",
+      "C": "optic nerve atrophy",
+      "D": "facial nerve palsy"
+    },
+    "correctAnswer": "D",
+    "explanation": "",
+    "respondentStats": {
+      "A": 8,
+      "B": 43,
+      "C": 5,
+      "D": 41
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 15,
+    "source": "cornea-bcsc",
+    "question": "What is a risk factor for epithelial basement membrane dystrophy (EBMD)?",
+    "options": {
+      "A": "age greater than 50",
+      "B": "hyperlipidemia",
+      "C": "male gender",
+      "D": "use of multiple eye drops"
+    },
+    "correctAnswer": "A",
+    "explanation": "",
+    "respondentStats": {
+      "A": 59,
+      "B": 1,
+      "C": 22,
+      "D": 14
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 16,
+    "source": "cornea-bcsc",
+    "question": "By what mechanism does the application of topical N- acetylcysteine 10 solution aid in the treatment of ﬁlamentary keratopathy?",
+    "options": {
+      "A": "induction of apoptosis of degenerated epithelial cells",
+      "B": "stabilization of tear ﬁlm lipid layer",
+      "C": "lysis of mucin",
+      "D": "reduction of tear osmolality"
+    },
+    "correctAnswer": "C",
+    "explanation": "",
+    "respondentStats": {
+      "A": 9,
+      "B": 9,
+      "C": 74,
+      "D": 4
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 17,
+    "source": "cornea-bcsc",
+    "question": "What property of adenovirus makes it resistant to routine disinfection precautions (eg, swabbing a tonometer tip with ethyl alcohol)?",
+    "options": {
+      "A": "absence of glycoproteins in the capsid",
+      "B": "absence of a viral envelope",
+      "C": "presence of a double-stranded DNA genome",
+      "D": "ability to form dormant cysts"
+    },
+    "correctAnswer": "B",
+    "explanation": "",
+    "respondentStats": {
+      "A": 20,
+      "B": 58,
+      "C": 6,
+      "D": 13
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 18,
+    "source": "cornea-bcsc",
+    "question": "A 56-year-old patient with herpes simplex dendritic keratitis was treated with topical triﬂuridine, 9 times per day for 3 weeks. The dendrite resolved, but the patient developed marked punctate epithelial keratopathy and epithelial irregularity. The corneal stroma is clear. What is the most appropriate next step in management?",
+    "options": {
+      "A": "Discontinue topical triﬂuridine and add vidarabine ointment.",
+      "B": "Discontinue topical triﬂuridine and add lubricants.",
+      "C": "Continue topical triﬂuridine and add oral prednisone.",
+      "D": "Culture the cornea for herpes simplex virus and add topical tobramycin."
+    },
+    "correctAnswer": "B",
+    "explanation": "Topical triﬂuridine is toxic to the corneal epithelium and discontinuation after 10 to 14 days is generally recommended. If epithelial irregularities persist due to prolonged exposure, the treatment is to discontinue triﬂuridine and begin using topical lubricants. Adding oral prednisone will have no eﬀect on epithelial integrity. Similarly, vidarabine and tobramycin are not useful in the scenario presented. 8ce5- 4e002ab992c5)  Bowman layer",
+    "respondentStats": {
+      "A": 1,
+      "B": 95,
+      "C": 0,
+      "D": 0
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 19,
+    "source": "cornea-bcsc",
+    "question": "A 73-year-old woman presents with decreased vision over the past 6 months. A photo of her anterior segment examination is shown. The condition is localized to what layer of the cornea?",
+    "options": {
+      "A": "Bowman layer",
+      "B": "epithelium",
+      "C": "anterior stroma",
+      "D": "deep stroma"
+    },
+    "correctAnswer": "A",
+    "explanation": "This is an image of band keratopathy. Band keratopathy (the deposition of calcium in the cornea) can result from multiple causes, including chronic inﬂammatory ocular disease, hypercalcemia from systemic disorders such as renal failure, elevated serum phosphorus, chronic exposure to mercurial preservatives or vapors, silicone oil in the anterior chamber, and other rare causes. Band keratopathy can also be hereditary. The keratopathy begins as basophilic deposits in the Bowman layer. The band typically starts peripherally and then coalesces inwards. The band generally runs horizontally in the interpalpebral ﬁssure, but in advanced cases can involve the entire cornea. The treatment of band keratopathy involves the use of disodium ethylenediaminetetraacetic acid (EDTA) chelation. The corneal epithelium is removed and the chelating agent is then applied to the calcium. Agitation with a cellulose sponge may enhance calcium release from the Bowman layer. Occasionally, residual anterior stromal opaciﬁcation is present following removal of calcium, which may be amenable to additional treatment such as phototherapeutic keratectomy (PTK).",
+    "respondentStats": {
+      "A": 86,
+      "B": 5,
+      "C": 5,
+      "D": 0
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 20,
+    "source": "cornea-bcsc",
+    "question": "Following unilateral chemical corneal burn with complete conjunctivalization of the cornea, what surgical option is most likely to result in improvement?",
+    "options": {
+      "A": "allogeneic limbal stem cell transplantation",
+      "B": "keratoprosthesis",
+      "C": "penetrating keratoplasty (PK)",
+      "D": "simple limbal epithelial transplantation (SLET)"
+    },
+    "correctAnswer": "D",
+    "explanation": "If total loss of limbal stem cells occurs unilaterally, an autograft of limbal epithelium from the fellow eye can repopulate the diseased cornea with normal corneal epithelium. The SLET technique is one in which minimal tissue is harvested from the donor eye to reduce the risk of damage to the ocular surface of the healthy eye. If total loss of limbal stem cells occurs bilaterally, options include harvesting stem cells from a living related donor (limbal stem cell allograft) or from an eye bank donor cornea (keratolimbal allograft). Cell culture (ex vivo expansion) of corneal stem cells has been shown to be an eﬀective source for corneal surface repopulation; however, this technique remains experimental and is not available in the United States. Allogeneic limbal stem cell transplantation requires systemic immunosuppression as part of the postoperative regimen and is not needed when the unaﬀected eye can serve as a donor. Keratoprosthesis can be used in cases of limbal stem cell deﬁciency, but given its risks (glaucoma, endophthalmitis), this surgery is not the",
+    "respondentStats": {
+      "A": 31,
+      "B": 23,
+      "C": 8,
+      "D": 34
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 21,
+    "source": "cornea-bcsc",
+    "question": "What is the most common cause of angular blepharitis?",
+    "options": {
+      "A": "Moraxella lacunata",
+      "B": "Staphylococcus aureus",
+      "C": "herpes simplex virus",
+      "D": "Streptococcus pneumoniae"
+    },
+    "correctAnswer": "A",
+    "explanation": "Moraxella lacunata is the most common cause of angular blepharitis. Moraxella lacunata angular blepharitis can also occur concurrently with Staphylococcus aureus blepharoconjunctivitis. Herpes simplex virus is a less common cause of angular blepharitis. Streptococcus pneumoniae is a cause of conjunctivitis.",
+    "respondentStats": {
+      "A": 82,
+      "B": 12,
+      "C": 0,
+      "D": 1
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 22,
+    "source": "cornea-bcsc",
+    "question": "In a patient with fungal keratitis, what ﬁnding confers the most guarded (ominous) prognosis?",
+    "options": {
+      "A": "endothelial plaque",
+      "B": "scleral extension",
+      "C": "ring inﬁltrate",
+      "D": "satellite lesion"
+    },
+    "correctAnswer": "B",
+    "explanation": "Invasion of fungus into the sclera is a potentially globe-threatening complication. Scleral extension can precede intraocular infection and is particularly concerning because infected tissue may no longer be cleared by surgical grafting. Extension into the sclera or anterior chamber lowers the prognosis for globe salvage. Satellite lesions, ring inﬁltrates, and endothelial plaques can be seen in moderately severe fungal keratitis.",
+    "respondentStats": {
+      "A": 12,
+      "B": 76,
+      "C": 5,
+      "D": 3
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 23,
+    "source": "cornea-bcsc",
+    "question": "What form of scleritis is most commonly associated with increased ocular and systemic morbidity?",
+    "options": {
+      "A": "posterior scleritis",
+      "B": "nodular anterior scleritis",
+      "C": "diﬀuse anterior scleritis",
+      "D": "necrotizing scleritis"
+    },
+    "correctAnswer": "D",
+    "explanation": "Scleritis is often associated with systemic disease, especially rheumatoid arthritis, systemic lupus erythematosus, granulomatosis with polyangiitis, seronegative spondyloarthropathies, polyarteritis nodosa, and giant cell arteritis. Infectious and metabolic causes (such as gout) should also be considered in the diﬀerential diagnosis. Necrotizing scleritis is the most destructive form of scleritis and can be associated with either ocular or systemic complications in up to 60% of aﬀected patients. It is further subdivided into necrotizing scleritis with or without inﬂammation.",
+    "respondentStats": {
+      "A": 6,
+      "B": 1,
+      "C": 1,
+      "D": 88
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 24,
+    "source": "cornea-bcsc",
+    "question": "A 30-year-old woman with systemic lupus erythematosus presents with poor vision and pain in her left eye. Her slit-lamp examination is abnormal, as shown. Bacterial and fungal cultures of the peripheral cornea are negative. What is the likely deﬁnitive treatment?",
+    "options": {
+      "A": "observation",
+      "B": "fortiﬁed vancomycin and tobramycin",
+      "C": "systemic steroids",
+      "D": "keratoplasty"
+    },
+    "correctAnswer": "C",
+    "explanation": "The ﬁgure depicts a patient with peripheral ulcerative keratitis. After a negative infectious workup result, an autoimmune etiology must be considered, and a thorough workup should be conducted to look for associated systemic conditions. In this case, the patient is known to have an autoimmune condition. Noninfectious, immune-mediated peripheral ulcerative keratitis necessitates systemic therapy with corticosteroids and may require subsequent immunosuppressant",
+    "respondentStats": {
+      "A": 3,
+      "B": 1,
+      "C": 90,
+      "D": 3
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 25,
+    "source": "cornea-bcsc",
+    "question": "What technique should be avoided in pterygium excision surgery?",
+    "options": {
+      "A": "excision with sliding conjunctival ﬂap",
+      "B": "excision with bare sclera",
+      "C": "excision with free conjunctival autograft",
+      "D": "excision with amniotic membrane graft"
+    },
+    "correctAnswer": "B",
+    "explanation": "",
+    "respondentStats": {
+      "A": 2,
+      "B": 92,
+      "C": 1,
+      "D": 0
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 26,
+    "source": "cornea-bcsc",
+    "question": "What factor has been associated with an increased risk for developing varicella-zoster reactivation?",
+    "options": {
+      "A": "HIV infection",
+      "B": "young age",
+      "C": "corneal transplant",
+      "D": "vaccination with live herpes zoster vaccine"
+    },
+    "correctAnswer": "A",
+    "explanation": "Shingles (zoster reactivation) represents reactivation of latent virus in people with a waning level of immunity to infection. Most patients are in their sixth to ninth decades. The majority are healthy with no predisposing factors. Shingles is more common, however, in people",
+    "respondentStats": {
+      "A": 86,
+      "B": 1,
+      "C": 6,
+      "D": 3
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 27,
+    "source": "cornea-bcsc",
+    "question": "For the ﬁnding shown, what is the most appropriate management?",
+    "options": {
+      "A": "topical corticosteroid",
+      "B": "topical antibiotic",
+      "C": "topical nonsteroidal anti- inﬂammatory drug (NSAID)",
+      "D": "topical lubricant"
+    },
+    "correctAnswer": "D",
+    "explanation": "",
+    "respondentStats": {
+      "A": 0,
+      "B": 0,
+      "C": 1,
+      "D": 95
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 28,
+    "source": "cornea-bcsc",
+    "question": "When an inheritance pattern is present in Fuchs endothelial dystrophy, what type of pattern is most common?",
+    "options": {
+      "A": "X-linked dominant",
+      "B": "autosomal dominant",
+      "C": "autosomal recessive",
+      "D": "mitochondrial"
+    },
+    "correctAnswer": "B",
+    "explanation": "Fuchs endothelial dystrophy is characterized by corneal guttae and decreased endothelial cell function, which lead to decreased vision. Cases without known inheritance are common, but when an inheritance pattern is present, it is usually autosomal dominant. To manifest an autosomal recessive dystrophy, an individual must receive a genetic mutation from both parents who, although carriers of the mutation, are usually unaﬀected. Macular corneal dystrophy is an example of autosomal recessive inheritance. X-linked dominant inheritance occurs when a genetic mutation is carried on the X chromosome and manifests in both male and female carriers. Incontinentia pigmenti is an example of X-linked dominant inheritance. Mitochondrial inheritance occurs when a genetic mutation found on mitochondrial DNA is passed from mother to oﬀspring. Leber hereditary optic neuropathy is an example of mitochondrial inheritance. It is double-stranded.",
+    "respondentStats": {
+      "A": 1,
+      "B": 76,
+      "C": 20,
+      "D": 0
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 29,
+    "source": "cornea-bcsc",
+    "question": "What characteristic of adenovirus makes it diﬃcult to sterilize instruments and prevent transmission?",
+    "options": {
+      "A": "It is double-stranded.",
+      "B": "It has spike projections.",
+      "C": "It has a DNA genome.",
+      "D": "It is nonenveloped."
+    },
+    "correctAnswer": "D",
+    "explanation": "Viruses are small obligate intracellular parasites consisting of a single- or double-stranded RNA or DNA genome surrounded by a protective protein shell, or capsid, with or without an external lipid envelope (viruses are often referred to as enveloped or nonenveloped). The envelope contains an outer layer of glycoproteins or spike projections. The host cell-derived lipid bilayer or envelope is vulnerable to damage by ultraviolet (UV) light, detergents, alcohols, and general-use antiseptics. Characteristics of nonenveloped viruses (eg, adenovirus) include: They are relatively resistant to environmental insult. They can persist for weeks outside the human host. The use of alcohol to sterilize medical instruments is not suﬃcient to prevent transmission of infection. 818c- 312d44d2796e)  linear pattern of inﬂammatory cells on the endothelium",
+    "respondentStats": {
+      "A": 4,
+      "B": 14,
+      "C": 3,
+      "D": 73
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 30,
+    "source": "cornea-bcsc",
+    "question": "What structure is indicated by the arrow (ﬁgure)?",
+    "options": {
+      "A": "linear pattern of inﬂammatory cells on the endothelium",
+      "B": "anteriorly displaced Schwalbe line",
+      "C": "epithelialization of the endothelial cells",
+      "D": "thinning of the corneal stroma with lipid exudation"
+    },
+    "correctAnswer": "B",
+    "explanation": "The photograph depicts a posterior embryotoxon, which appears as a thin, gray-white, arcuate line on the inner surface of the cornea. Anatomically, it signiﬁes an anteriorly displaced Schwalbe line, which is the junction between the Descemet membrane and the trabecular meshwork. A posterior embryotoxon may occur as an isolated ﬁnding, or it may be seen in conjunction with ocular anomalies like Axenfeld- Rieger and Alagille syndromes. When the posterior embryotoxon is observed, it is important to look for other ocular abnormalities, including ﬁne peripheral iris strands to Schwalbe line (seen in the photograph), iris stromal hypoplasia, and glaucoma. Multilayered endothelial cells can be seen in posterior polymorphous corneal dystrophy and in iridocorneal endothelial syndrome and can be demonstrated histologically or via confocal microscopy. Thinning of the corneal stroma with lipid exudation would be seen in Terrien marginal degeneration. A linear pattern of inﬂammatory cells on the endothelium (Khodadoust line) can be seen during episodes of corneal graft rejection.",
+    "respondentStats": {
+      "A": 1,
+      "B": 91,
+      "C": 3,
+      "D": 3
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 31,
+    "source": "cornea-bcsc",
+    "question": "What are typical skin ﬁndings seen in rosacea?",
+    "options": {
+      "A": "pustules, papules, and telangiectasia",
+      "B": "shiny, white-yellow papule with central umbilication",
+      "C": "vesicles with ulceration, weeping, and scarring",
+      "D": "erythematous scaling lesions"
+    },
+    "correctAnswer": "A",
+    "explanation": "Rosacea is a delayed hypersensitivity reaction that is more common in fair-skinned individuals aged 30-60 years. Patients have cutaneous sebaceous gland dysfunction that causes erythema, pustules, papules, and telangiectasia of the facial skin. Patients can develop a malar rash. Rhinophyma (large, bulb-shaped, red-colored nose) occurs later in the disease course. More than 50% of patients will have ocular involvement, which can include blepharitis, chalazion, keratoconjunctivitis sicca, and keratitis. The condition may be exacerbated by ultraviolet light, alcohol, and caﬀeine. Treatment options include oral tetracycline/doxycycline, oral ﬂaxseed oil and omega-3 fatty acids, and topical metronidazole to facial skin. Ocular involvement may be treated with eyelid hygiene, topical antibiotic ointments/gels, and artiﬁcial tears. Erythematous scaling lesions occur with contact dermatitis. Other manifestations may include erythema, edema, and itchy periorbital skin. This condition may occur around the eyes secondary to makeup, soaps, or eye drops.",
+    "respondentStats": {
+      "A": 76,
+      "B": 0,
+      "C": 0,
+      "D": 19
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 32,
+    "source": "cornea-bcsc",
+    "question": "What is the primary treatment for ﬁlamentary keratopathy to reduce the severity of recurrence?",
+    "options": {
+      "A": "preservative-free artiﬁcial tears",
+      "B": "hypertonic saline (5% sodium chloride) drops",
+      "C": "topical antibiotic drops",
+      "D": "bandage soft contact lens"
+    },
+    "correctAnswer": "A",
+    "explanation": "",
+    "respondentStats": {
+      "A": 73,
+      "B": 12,
+      "C": 2,
+      "D": 9
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 33,
+    "source": "cornea-bcsc",
+    "question": "What systemic condition is associated with superior limbic keratoconjunctivitis?",
+    "options": {
+      "A": "neurologic disease",
+      "B": "cardiac disease",
+      "C": "pulmonary disease",
+      "D": "thyroid disease"
+    },
+    "correctAnswer": "D",
+    "explanation": "Superior limbic keratoconjunctivitis (SLK) is thought to result from mechanical trauma transmitted from the upper eyelid to the superior bulbar and tarsal conjunctiva. The condition is associated with autoimmune thyroid disease. It is typically seen in adult women (3:1 female to male), 20 to 70 years of age, with a median age of 50 years. It has also been associated with graft-vs-host disease and following blepharoplasty. Medical treatment is generally considered to be less eﬀective than surgical treatment. Staphylococcus",
+    "respondentStats": {
+      "A": 1,
+      "B": 0,
+      "C": 3,
+      "D": 91
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 34,
+    "source": "cornea-bcsc",
+    "question": "What is the most common bacterial cause of chronic angular blepharoconjunctivitis?",
+    "options": {
+      "A": "Staphylococcus",
+      "B": "Haemophilus",
+      "C": "Moraxella",
+      "D": "Streptococcus"
+    },
+    "correctAnswer": "C",
+    "explanation": "Angular blepharoconjunctivitis is a chronic infection and inﬂammation of the lateral aspect of the eyelids. It is most commonly caused by Moraxella. Staphylococcus blepharitis is often present concomitantly. Streptococcus and Haemophilus are common causes of bacterial conjunctivitis, but are not typically associated with angular blepharoconjunctivitis. HIV",
+    "respondentStats": {
+      "A": 14,
+      "B": 1,
+      "C": 80,
+      "D": 1
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 35,
+    "source": "cornea-bcsc",
+    "question": "What sexually transmitted disease should be excluded in a 35-year-old patient with multiple conjunctival papillomas?",
+    "options": {
+      "A": "HIV",
+      "B": "syphilis",
+      "C": "gonorrhea",
+      "D": "chlamydia"
+    },
+    "correctAnswer": "A",
+    "explanation": "",
+    "respondentStats": {
+      "A": 81,
+      "B": 4,
+      "C": 2,
+      "D": 9
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 36,
+    "source": "cornea-bcsc",
+    "question": "A 65-year-old patient is complaining of constant foreign body sensation, tearing, and discomfort that has not been relieved by topical medication. Given the patient's appearance shown, what in-oﬃce procedure can be performed to treat this condition?",
+    "options": {
+      "A": "placement of punctal plug",
+      "B": "application of silver nitrate solution",
+      "C": "chronic dry eyes. When she uses artiﬁcial tears, her symptoms are relieved for only a few minutes. What glands produce the outermost layer of the tear ﬁlm to help retard tear ﬁlm evaporation? ! \" # placement of bandage contact lens",
+      "D": "conjunctival cautery"
+    },
+    "correctAnswer": "D",
+    "explanation": "The patient is symptomatic from conjunctivochalasis. This is a process where aging and chronic inﬂammation lead to poor adherence of the bulbar conjunctiva to the underlying tissue. If medical treatments such as lubricants, anti-inﬂammatory agents, antihistamines, or nocturnal patching are not eﬀective in controlling symptoms, surgical treatments can be performed, including conjunctival cauterization, conjunctival ﬁxation, resection, or amniotic grafting. Conjunctival cauterization has the advantage of being able to be performed in the oﬃce. Silver nitrate is a treatment administered at birth to prevent neonatal conjunctivitis, and it can also be used to treat superior limbic keratoconjunctivitis. Bandage contact lenses are used in a variety of clinical scenarios to protect the ocular surface and promote healing. Punctal plugs can be used to treat aqueous tear deﬁciency dry eye.",
+    "respondentStats": {
+      "A": 7,
+      "B": 3,
+      "C": 10,
+      "D": 75
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 37,
+    "source": "cornea-bcsc",
+    "question": "A 62-year-old woman reports chronic dry eyes. When she uses artiﬁcial tears, her symptoms are relieved for only a few minutes. What glands produce the outermost layer of the tear ﬁlm to help retard tear ﬁlm evaporation? placement of bandage contact lens C.",
+    "options": {
+      "A": "meibomian gland",
+      "B": "lacrimal gland",
+      "C": "conjunctival epithelial cell",
+      "D": "conjunctival goblet cell"
+    },
+    "correctAnswer": "A",
+    "explanation": "The meibomian glands and the sebaceous glands of Zeis secrete lipids to produce the outermost, or lipid, layer of the tear ﬁlm. The lacrimal, accessory lacrimal, Krause, and Wolfring glands all contribute to the mucoaqueous layer.",
+    "respondentStats": {
+      "A": 84,
+      "B": 2,
+      "C": 0,
+      "D": 9
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 38,
+    "source": "cornea-bcsc",
+    "question": "What technique is the most useful in evaluating for lipid-deﬁcient tear ﬁlm?",
+    "options": {
+      "A": "tear breakup time",
+      "B": "Schirmer evaluation",
+      "C": "lissamine green stain",
+      "D": "rose bengal stain"
+    },
+    "correctAnswer": "A",
+    "explanation": "A poor lipid layer can lead to tear ﬁlm instability and increased tear evaporation. Measuring tear breakup time is a way to quantify tear ﬁlm stability. To measure tear breakup time, the practitioner instills ﬂuorescein in the patient's eyes and holds the eyelids open after a blink, counting the seconds until a dry spot appears. The appearance of a dry spot in less than 10 seconds is considered abnormal. Schirmer testing uses ﬁlter paper to measure the amount of aqueous tear production over a period of time. Rose bengal and lissamine green stain epithelial cells of the cornea and conjunctiva when a disruption occurs in the protective mucin coating. 6e53- 19c511cdf419)  rosacea",
+    "respondentStats": {
+      "A": 87,
+      "B": 3,
+      "C": 3,
+      "D": 3
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 39,
+    "source": "cornea-bcsc",
+    "question": "A 40-year-old man complains of chronic itching and watering eyes as illustrated. What is the most likely diagnosis?",
+    "options": {
+      "A": "rosacea",
+      "B": "atopic keratoconjunctivitis",
+      "C": "sebaceous dermatitis",
+      "D": "psoriasis"
+    },
+    "correctAnswer": "B",
+    "explanation": "This patient presents with several features of atopic keratoconjunctivitis (AKC), including licheniﬁcation of the skin, stringy discharge, and thickening, crusting, edema, and ptosis of the eyelids. While not pictured here, small or medium papillae (giant papillae are more often found in vernal keratoconjunctivitis than AKC) are found on the palpebral conjunctivae along with hyperemia on the bulbar and palpebral conjunctivae. Other features that may be seen in this condition include cicatrization; symblepharon and corneal changes, including punctate epitheliopathy; persistent epithelial defects; shield ulcers; and micropannus. Rosacea, on the other hand, would typically present with a malar rash and telangiectasias of facial skin and eyelid margin, papules, pustules, hypertrophic sebaceous glands, rhinophyma, and/or meibomian gland dysfunction. Seborrheic blepharitis aﬀects primarily the anterior eyelid margin, with oily or greasy eyelid crusting. These patients may have evidence of seborrhea elsewhere on the body. Psoriasis would present as red patches with silvery scales. Patches usually present on the elbows, knees, scalp, back, face, palms, and feet, but they can show up on other parts of the body.",
+    "respondentStats": {
+      "A": 11,
+      "B": 59,
+      "C": 18,
+      "D": 8
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 40,
+    "source": "cornea-bcsc",
+    "question": "An asymptomatic patient presents for a routine examination. The ophthalmologist discovers longstanding traumatic mydriasis. What is the appropriate next step?",
+    "options": {
+      "A": "Begin a trial of pilocarpine drops.",
+      "B": "Begin a trial of topical corticosteroids.",
+      "C": "Observe.",
+      "D": "Discuss surgical repair."
+    },
+    "correctAnswer": "C",
+    "explanation": "Given that the patient is asymptomatic, observation is the best choice. If the patient were to develop symptoms, a trial of medical therapy would involve less risk than surgery.",
+    "respondentStats": {
+      "A": 4,
+      "B": 0,
+      "C": 90,
+      "D": 1
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 41,
+    "source": "cornea-bcsc",
+    "question": "A 30-year-old woman presents to the clinic for evaluation of ocular redness without signiﬁcant pain that began suddenly several days ago (Figure 1). After instillation of tropicamide and phenylephrine to dilate her pupils, the redness subsides. What is the most appropriate initial treatment for this patient?",
+    "options": {
+      "A": "topical prednisolone acetate 1%",
+      "B": "oral ibuprofen",
+      "C": "topical artiﬁcial tears",
+      "D": "oral methylprednisolone taper"
+    },
+    "correctAnswer": "C",
+    "explanation": "Episcleritis is a transient condition that typically has a sudden onset. Unlike scleritis, which aﬀects the deeper tissues, episcleritis is usually painless, is self-limited, and is not usually associated with systemic disease.",
+    "respondentStats": {
+      "A": 10,
+      "B": 44,
+      "C": 41,
+      "D": 0
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 42,
+    "source": "cornea-bcsc",
+    "question": "What is a common side eﬀect of doxycycline?",
+    "options": {
+      "A": "photophobia",
+      "B": "blurred vision",
+      "C": "gastrointestinal upset",
+      "D": "onychomycosis"
+    },
+    "correctAnswer": "C",
+    "explanation": "Oral doxycycline in doses of 40 mg to 200 mg per day is generally well tolerated for external disease, mostly meibomian gland dysfunction. Adverse eﬀects of oral tetracyclines include photosensitization, gastrointestinal upset, and, in rare instances, azotemia. Long-term use may lead to oral or vaginal candidiasis in susceptible patients. The use",
+    "respondentStats": {
+      "A": 8,
+      "B": 0,
+      "C": 87,
+      "D": 0
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 43,
+    "source": "cornea-bcsc",
+    "question": "What complication can be prevented if the condition shown is perceived prior to cataract surgery?",
+    "options": {
+      "A": "posterior capsule rupture",
+      "B": "incorrect intraocular lens power",
+      "C": "bacterial endophthalmitis",
+      "D": "pseudophakic bullous keratopathy"
+    },
+    "correctAnswer": "B",
+    "explanation": "The image shows the typical appearance of epithelial basement membrane dystrophy (EBMD), also termed anterior basement membrane dystrophy. The presence of EBMD, especially when near the visual axis, can create keratometric and topographic irregularities, which reduce the accuracy of intraocular lens calculations. The surgeon may need to perform epithelial debridement in these patients prior to cataract surgery to ensure accurate measurements. EBMD has no association with any of the other listed complications (bacterial endophthalmitis, pseudophakic bullous keratopathy, posterior capsule rupture). herpes simplex virus (HSV)",
+    "respondentStats": {
+      "A": 6,
+      "B": 58,
+      "C": 2,
+      "D": 29
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 44,
+    "source": "cornea-bcsc",
+    "question": "What is the most likely diagnosis for a patient with a 1-week history of bilateral, profuse, watery discharge and the examination ﬁnding as illustrated in the attached photograph?",
+    "options": {
+      "A": "herpes simplex virus (HSV)",
+      "B": "Chlamydia trachomatis",
+      "C": "adenovirus",
+      "D": "Neisseria gonorrhoeae"
+    },
+    "correctAnswer": "C",
+    "explanation": "The most likely diagnosis is epidemic keratoconjunctivitis caused by adenovirus. The image shows a diﬀuse follicular conjunctival reaction with a pseudomembrane. Chlamydia can cause a follicular conjunctivitis, but the discharge is typically more purulent and membranes do not occur. Inﬂammatory membranes can form with gonococcal conjunctivitis, but the discharge is extremely purulent, not watery. Herpes simplex conjunctivitis is typically unilateral and does not cause inﬂammatory membranes. Mooren ulcer",
+    "respondentStats": {
+      "A": 1,
+      "B": 10,
+      "C": 84,
+      "D": 2
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 45,
+    "source": "cornea-bcsc",
+    "question": "What corneal disease involves MHC class II antigens?",
+    "options": {
+      "A": "Mooren ulcer",
+      "B": "Terrien degeneration",
+      "C": "pellucid marginal degeneration",
+      "D": "ﬁlamentary keratopathy"
+    },
+    "correctAnswer": "A",
+    "explanation": "Mooren ulcer appears to be an immunologic disorder with autoimmunity to corneal antigens of unknown etiology. Precipitating factors can be idiopathic, or secondary to previous corneal insults such as trauma, chemical injury, surgery, or infection; also, hepatitis C virus, intestinal parasites, and other infections have been found in some patients, but causal association remains uncertain. A signiﬁcant number of resident cells in Mooren ulcer specimens express major histocompatibility complex (MHC) class II antigens, a reﬂection of the degree of immune-mediated inﬂammation in the tissue. The other entities mentioned are not thought to be immunologic disorders. Terrien marginal degeneration is a noninﬂammatory, slowly progressive thinning of the peripheral cornea. The cause is unknown. Pellucid marginal degeneration is associated with inferior, peripheral corneal thinning in the absence of inﬂammation. Its etiology is unknown. Filamentary keratopathy is strands of degenerating epithelial cells attached to the corneal surface over a core of mucus. This occurs in aqueous tear deﬁciency.",
+    "respondentStats": {
+      "A": 64,
+      "B": 12,
+      "C": 7,
+      "D": 11
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 46,
+    "source": "cornea-bcsc",
+    "question": "For a patient with an intraocular pressure (IOP) of 18 mm Hg measured by applanation tonometry and a central corneal thickness of 490 μm, what is the most likely IOP upon entering the anterior chamber (ie, the manometric IOP)?",
+    "options": {
+      "A": "greater than 18 mm Hg",
+      "B": "equal to 18 mm Hg",
+      "C": "cannot be predicted with this information",
+      "D": "less than 18 mm Hg"
+    },
+    "correctAnswer": "A",
+    "explanation": "Applanation tonometry assumes certain properties of the cornea when IOP is calculated. Measurement with the Goldmann tonometer is most accurate when the central corneal thickness (CCT) is 520 μm. Thicker corneas resist the deformation inherent in most methods of tonometry, resulting in an overestimation of IOP, while thinner corneas may give an artiﬁcially low reading. Although the exact conversion factor is not universally agreed upon (typically around 1 mm Hg of deviation for every 10 to 15 μm deviation from normal corneal thickness), the pattern has been well established. The most likely IOP upon entering the anterior chamber can be predicted with the information provided in the stem about CCT and intraocular pressure measured by applanation. The given CCT is less than 520 μm, and thus will give a falsely low reading on",
+    "respondentStats": {
+      "A": 86,
+      "B": 1,
+      "C": 1,
+      "D": 8
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 47,
+    "source": "cornea-bcsc",
+    "question": "What treatment is recommended for the condition shown?",
+    "options": {
+      "A": "surgical removal",
+      "B": "observation",
+      "C": "bandage contact lens",
+      "D": "cryotherapy"
+    },
+    "correctAnswer": "B",
+    "explanation": "The photo depicts a pinguecula, a yellow-white conjunctival lesion that is most commonly located nasally, but may be temporal, in the interpalpebral space; it is usually adjacent to the limbus. Pingueculae do not involve the cornea but may be associated with an adjacent dellen. No treatment is generally needed in asymptomatic patients. If patients are symptomatic, artiﬁcial tears or ocular lubricants can be",
+    "respondentStats": {
+      "A": 20,
+      "B": 75,
+      "C": 0,
+      "D": 2
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 48,
+    "source": "cornea-bcsc",
+    "question": "What muscle is innervated by the motor nerve ﬁbers of the lacrimal functional unit (LFU)?",
+    "options": {
+      "A": "Müller muscle",
+      "B": "levator muscle",
+      "C": "eyelid retractors",
+      "D": "orbicularis muscle"
+    },
+    "correctAnswer": "D",
+    "explanation": "The lacrimal functional unit responds to environmental, endocrinologic, and cortical inﬂuences. The aﬀerent component of the LFU is mediated through ocular surface and trigeminal nociceptors, which synapse with the eﬀerent nerves in the brainstem. The autonomic nerve ﬁbers innervate the meibomian glands, conjunctival goblet cells, and lacrimal glands. The motor nerve ﬁbers innervate the orbicularis muscle to initiate blinking. During blinking, the meibomian glands express lipid,",
+    "respondentStats": {
+      "A": 18,
+      "B": 9,
+      "C": 8,
+      "D": 60
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 49,
+    "source": "cornea-bcsc",
+    "question": "A patient with keratoconus presents for evaluation of progressive visual loss. Glasses and contact lenses no longer fully correct his vision. He is interested in improving his vision but does not want to have a corneal transplant. What refractive procedure would be most appropriate for his condition?",
+    "options": {
+      "A": "intrastromal corneal ring segment implantation",
+      "B": "arcuate keratotomy (AK)",
+      "C": "photorefractive keratectomy (PRK)",
+      "D": "laser in situ keratomileusis (LASIK)"
+    },
+    "correctAnswer": "A",
+    "explanation": "",
+    "respondentStats": {
+      "A": 92,
+      "B": 1,
+      "C": 2,
+      "D": 0
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 50,
+    "source": "cornea-bcsc",
+    "question": "What is the most likely etiology of dry eye syndrome (DES) in the patient shown?",
+    "options": {
+      "A": "evaporative dry eye",
+      "B": "aqueous deﬁcient dry eye",
+      "C": "Sjögren syndrome",
+      "D": "ocular allergy"
+    },
+    "correctAnswer": "A",
+    "explanation": "This patient has meibomian gland dysfunction (MGD), which causes abnormalities of the lipid layer of tear ﬁlm and increased evaporative loss of tears. Sjögren syndrome and aqueous deﬁcient DES have normal meibomian gland architecture and poor tear volume production. Ocular allergy may exacerbate DES but does not cause changes in the meibomian glands. 1 50 per pag",
+    "respondentStats": {
+      "A": 86,
+      "B": 6,
+      "C": 2,
+      "D": 2
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 51,
+    "source": "cornea-bcsc",
+    "question": "For a patient with Thygeson superﬁcial punctate keratitis, what is the recommended initial management?",
+    "options": {
+      "A": "oral nonsteroidal anti-inﬂammatory agents",
+      "B": "artiﬁcial tears",
+      "C": "topical corticosteroids",
+      "D": "topical moxiﬂoxacin"
+    },
+    "correctAnswer": "B",
+    "explanation": "Thygeson superﬁcial punctate keratitis is characterized by multiple, slightly elevated corneal epithelial lesions with negative staining. This can be accompanied by symptoms of foreign-body sensation, photophobia, tearing, and reduced vision. These lesions usually regress rapidly with the use of mild corticosteroids but can recur after tapering. Supportive therapy with artiﬁcial tears is often adequate in mild initial cases. Topical steroids can hasten the lesions' resolution, but use of these drugs should be minimized because the lesions often recur after the steroids are tapered. Topical cyclosporine or tacrolimus ophthalmic preparations may also be eﬀective in causing regression of the lesions.",
+    "respondentStats": {
+      "A": 0,
+      "B": 68,
+      "C": 27,
+      "D": 0
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 53,
+    "source": "cornea-bcsc",
+    "question": "For the ﬁndings shown, what is the most likely causative organism?",
+    "options": {
+      "A": "Staphylococcus",
+      "B": "Moraxella",
+      "C": "Corynebacterium",
+      "D": "Streptococcus"
+    },
+    "correctAnswer": "A",
+    "explanation": "Staphylococcal blepharitis typically appears as matted crusts surrounding individual cilia on the anterior eyelid margin (Figure 1), which are often honey-colored. This is usually caused by Staphylococcus aureus but occasionally by other staphylococcal species. Marginal corneal inﬁltrates can develop in association with staphylococcal blepharitis (Figure 2). Other possible ﬁndings associated with staphylococcal blepharoconjunctivitis include ulceration of the anterior eyelid margin, inferior punctate keratopathy, papillary reaction of the inferior tarsal conjunctiva, conjunctival hyperemia, and phlyctenulosis. Moraxella can produce a crusting and ulceration of the skin in the lateral canthal angle; this is known as angular blepharoconjunctivitis. Angular blepharoconjunctivitis is frequently associated with concomitant staphylococcal blepharoconjunctivitis. Streptococcus and Corynebacterium species are commonly isolated from the external eye but are less likely causes of blepharitis in this case.",
+    "respondentStats": {
+      "A": 89,
+      "B": 3,
+      "C": 2,
+      "D": 2
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 54,
+    "source": "cornea-bcsc",
+    "question": "Where is the deposition of copper seen in the Kayser-Fleischer ring associated with Wilson disease?",
+    "options": {
+      "A": "Bowman layer",
+      "B": "inferior cornea",
+      "C": "superﬁcial corneal stroma",
+      "D": "Descemet membrane"
+    },
+    "correctAnswer": "D",
+    "explanation": "Wilson disease is an autosomal recessive disease that aﬀects copper metabolism. Copper gets deposited ﬁrst in the liver, then in the kidneys, and later in the brain and the cornea. The Kayser-Fleischer ring (which is not seen in all patients with Wilson disease) is characterized by posterior copper deposition at level of Descemet membrane in the peripheral cornea. The deposition of the copper pigment starts superiorly. keratoconus with a history of hydrops",
+    "respondentStats": {
+      "A": 12,
+      "B": 0,
+      "C": 2,
+      "D": 82
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 55,
+    "source": "cornea-bcsc",
+    "question": "For what corneal disorder is deep anterior lamellar keratoplasty an appropriate procedure?",
+    "options": {
+      "A": "keratoconus with a history of hydrops",
+      "B": "granular corneal dystrophy",
+      "C": "full-thickness corneal scar",
+      "D": "pseudophakic bullous keratopathy"
+    },
+    "correctAnswer": "B",
+    "explanation": "Deep anterior lamellar keratoplasty (DALK) is appropriate in cases where the corneal abnormality is limited to the stroma, with normal Descemet membrane and endothelium. As such, granular dystrophy is the most appropriate choice. Lesions in granular corneal dystrophy involve the superﬁcial stroma and mid-stroma. congenital anomaly",
+    "respondentStats": {
+      "A": 8,
+      "B": 75,
+      "C": 6,
+      "D": 7
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 56,
+    "source": "cornea-bcsc",
+    "question": "What is the most common cause of posterior keratoconus?",
+    "options": {
+      "A": "congenital anomaly",
+      "B": "involutional change",
+      "C": "complication of laser in situ keratomileusis (LASIK)",
+      "D": "result of trauma"
+    },
+    "correctAnswer": "A",
+    "explanation": "",
+    "respondentStats": {
+      "A": 68,
+      "B": 14,
+      "C": 6,
+      "D": 4
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 57,
+    "source": "cornea-bcsc",
+    "question": "Immediate surgical treatment is indicated for what postoperative complication following penetrating keratoplasty?",
+    "options": {
+      "A": "primary graft failure",
+      "B": "choroidal detachment",
+      "C": "wound leak with ﬂat anterior chamber",
+      "D": "suture abscess"
+    },
+    "correctAnswer": "C",
+    "explanation": "",
+    "respondentStats": {
+      "A": 5,
+      "B": 2,
+      "C": 75,
+      "D": 10
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 58,
+    "source": "cornea-bcsc",
+    "question": "A 26-year-old man with a history of herpes simplex dendritic keratitis presents with ocular redness, photophobia, and blurred vision. Examination reveals corneal stromal edema, keratic precipitates, and an anterior chamber reaction. The corneal epithelium is intact. What is the most appropriate treatment?",
+    "options": {
+      "A": "Administer prednisolone acetate drops and oral acyclovir.",
+      "B": "Perform corneal cultures for herpes simplex and bacteria; treat with triﬂuridine drops and ﬂuoroquinolone drops.",
+      "C": "Administer triﬂuridine drops.",
+      "D": "Administer triﬂuridine drops and oral acyclovir."
+    },
+    "correctAnswer": "A",
+    "explanation": "Recommendations of the Herpetic Eye Disease Study (HEDS) included treating stromal herpetic disease with topical corticosteroids together with a prophylactic antiviral medication to reduce persistence or progression of stromal inﬂammation and shorten the duration of herpes simplex virus (HSV) stromal disease. Because of the absence of ocular side eﬀects, prophylactic oral acyclovir is preferred by many to triﬂuridine drops. Topically applied antivirals are not absorbed by the cornea through intact corneal epithelium. HEDS showed no additional beneﬁt when oral acyclovir was added to triﬂuridine and prednisolone in the treatment for herpetic stromal keratitis. Although bacterial superinfections are rare, in nonresponsive cases subsequent stromal cultures for Acanthamoeba may be warranted.",
+    "respondentStats": {
+      "A": 90,
+      "B": 1,
+      "C": 0,
+      "D": 4
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 59,
+    "source": "cornea-bcsc",
+    "question": "During treatment and recovery from a corneal abrasion, a patient develops a chalky white plaque covering the extent of the abrasion and obscuring the visual axis. What is the most likely medication being used?",
+    "options": {
+      "A": "exams are normal for both eyes. Preoperative measurements for cataract surgery show normal axial length with white-to-white measurements of 14.5 mm in both eyes. During cataract surgery, what complication is the patient at increased risk for? ! \" # ciproﬂoxacin",
+      "B": "neomycin-polymyxin-dexamethasone",
+      "C": "gentamicin",
+      "D": "polytrim-sulfamethoxazole"
+    },
+    "correctAnswer": "A",
+    "explanation": "Use of topical ﬂuoroquinolones, especially ciproﬂoxacin, can result in chalky white deposits that adhere to corneal epithelial defects. A major factor in drug deposition is pH-dependent solubility of the drug. Also, patients with dry eye using eyedrops more frequently and for a prolonged period are prone to drug precipitation. Corneal deposits are more common in the interpalpebral region because of ultraviolet radiation–induced corneal damage and because of the maximum accumulation of topical ophthalmic medications in this part of the eye. These cases can be managed conservatively, avoiding debridement; deposits resolve after discontinuation of the medication. zonular instability",
+    "respondentStats": {
+      "A": 57,
+      "B": 12,
+      "C": 24,
+      "D": 4
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 60,
+    "source": "cornea-bcsc",
+    "question": "A 56-year-old man with decreased vision has a markedly enlarged corneal diameter and visually signiﬁcant cataract; the dilated exams are normal for both eyes. Preoperative measurements for cataract surgery show normal axial length with white-to-white measurements of 14.5 mm in both eyes. During cataract surgery, what complication is the patient at increased risk for? ciproﬂoxacin A. 57 Correct Answer neomycin-polymyxin-dexamethasone B.",
+    "options": {
+      "A": "zonular instability",
+      "B": "choroidal eﬀusion",
+      "C": "malignant glaucoma",
+      "D": "bleeding"
+    },
+    "correctAnswer": "A",
+    "explanation": "Megalocornea is a condition with bilateral, nonprogressive corneal enlargement that usually shows X-linked inheritance. In this condition, the cornea is histologically normal, but its diameter is greater than 13 mm. Megalocornea is associated with zonular instability, so there are additional risks for these eyes during cataract surgery. Megalocornea is not associated with an increased risk of bleeding or malignant glaucoma. Nanophthalmic eyes are associated with an increased risk of choroidal eﬀusion during cataract surgery. Lens instability and subluxation, iridodonesis, and poor zonular integrity are also associated with megalocornea and present additional risks and challenges in the management of cataracts, particularly in terms of the selection and placement of an intraocular lens (IOL) after cataract surgery. If the lens is of normal size, an IOL can be inserted in the capsular bag. A capsular tension ring may be placed to reduce stress on the zonular ﬁbers. Standard-sized posterior chamber lenses are typically too short to be ﬁxated in the ciliary sulcus, and anterior chamber lenses are similarly problematic in the enlarged anterior chamber. If zonular support is insuﬃcient or capsular volume too great to allow stable IOL centration, an iris clip or iris-sutured lens may be the best option.",
+    "respondentStats": {
+      "A": 82,
+      "B": 8,
+      "C": 5,
+      "D": 0
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 61,
+    "source": "cornea-bcsc",
+    "question": "What slit-lamp illumination technique is the most sensitive for detecting early guttae?",
+    "options": {
+      "A": "specular reﬂection",
+      "B": "retroillumination",
+      "C": "direct illumination",
+      "D": "sclerotic scatter"
+    },
+    "correctAnswer": "A",
+    "explanation": "Endothelial imaging can be performed using various techniques. Specular reﬂection at the slit-lamp is the most sensitive slit-lamp technique for demonstrating early guttae. Other options include specular microscopy and confocal microscopy. Direct illumination is useful for enhancing the visibility of raised lesions of the ocular surface and iris. Broad-beam illumination is optimal for visualizing eyelid lesions as well as the corneal opacities seen in dystrophies or scarring. Sclerotic scatter is a form of indirect illumination and total internal reﬂection in the cornea; decentering the isocentric light beam so that an intense beam shines on the limbus and scatters oﬀ the sclera causes a very faint glow of the cornea. Reﬂective opacities stand out against the dark ﬁeld, whereas areas of reduced light transmission in the cornea are seen as shades of gray. This technique is eﬀective in demonstrating epithelial edema, mild stromal inﬁltration, nebulae, and cornea verticillata.",
+    "respondentStats": {
+      "A": 66,
+      "B": 18,
+      "C": 2,
+      "D": 11
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 62,
+    "source": "cornea-bcsc",
+    "question": "What corneal device is shown?",
+    "options": {
+      "A": "AlphaCor keratoprosthesis",
+      "B": "osteo-odonto-keratoprosthesis",
+      "C": "Boston Type I keratoprosthesis",
+      "D": "Boston Type II keratoprosthesis"
+    },
+    "correctAnswer": "C",
+    "explanation": "",
+    "respondentStats": {
+      "A": 4,
+      "B": 1,
+      "C": 63,
+      "D": 28
+    },
+    "imageUrl": "/images/cornea-bcsc/p70_img1.png"
+  },
+  {
+    "id": 63,
+    "source": "cornea-bcsc",
+    "question": "A child with short stature has the ﬁnding demonstrated in the ﬁgures. What associated organ system condition may be associated?",
+    "options": {
+      "A": "cardiomyopathy",
+      "B": "pulmonary ﬁbrosis",
+      "C": "renal failure",
+      "D": "hepatosplenomegaly"
+    },
+    "correctAnswer": "C",
+    "explanation": "Nephropathy is most common in the infantile form of cystinosis (and least common in the adult-onset form). Corneal symptoms are often present by 2 years of age and manifest as photophobia. Renal damage is the major medical morbidity and can lead to kidney failure by 10 years of age. Corneal symptoms are managed with topical application of cysteamine. Oral administration of cysteamine might be beneﬁcial for posterior segment manifestations (retinopathy, optic neuropathy). excision with bare sclera",
+    "respondentStats": {
+      "A": 9,
+      "B": 2,
+      "C": 76,
+      "D": 9
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 64,
+    "source": "cornea-bcsc",
+    "question": "For primary pterygium excision, what surgical technique has been shown to provide the lowest recurrence rate?",
+    "options": {
+      "A": "excision with bare sclera",
+      "B": "excision with primary conjunctival closure",
+      "C": "excision with free conjunctival autograft",
+      "D": "excision with rotational conjunctival closure"
+    },
+    "correctAnswer": "C",
+    "explanation": "Pterygium excision with a free conjunctival autograft is associated with the lowest recurrence rate following pterygium surgery (0%-4%). Both rotational and primary conjunctival closure methods have performed less favorably, with recurrence rates as high as 39%. Excision with bare sclera is associated with the highest risk of recurrence (up to 88%) and is not a preferred method of treatment. Alternative methods that have been used include amniotic membrane grafting (which may be comparable to conjunctival autografting, although the current literature still tends to favor free conjunctival autografting), or excision with bare sclera and application of mitomycin C (which may increase the odds of other postoperative complications, including delayed wound healing and scleral melting or infectious scleritis). The tissue is disqualiﬁed only if the donor has biopsy-proven Creutzfeldt- Jakob disease.",
+    "respondentStats": {
+      "A": 2,
+      "B": 5,
+      "C": 81,
+      "D": 8
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 65,
+    "source": "cornea-bcsc",
+    "question": "What is the current recommendation with regard to using corneal tissue from a donor with suspected Creutzfeldt-Jakob disease?",
+    "options": {
+      "A": "The tissue is disqualiﬁed only if the donor has biopsy-proven Creutzfeldt- Jakob disease.",
+      "B": "The tissue is disqualiﬁed from all transplantation uses.",
+      "C": "There is no restriction on using donor tissue from patients with Creutzfeldt- Jakob disease.",
+      "D": "The tissue can be used for endothelial keratoplasty, but it is disqualiﬁed from full-thickness corneal transplantation."
+    },
+    "correctAnswer": "B",
+    "explanation": "Prion diseases can be transmitted through any type of transplanted human tissue, so patients in whom prion diseases are suspected (even without biopsy conﬁrmation) are automatically disqualiﬁed from organ transplantation status. At least 1 conﬁrmed case of Creutzfeldt-Jakob case transmitted by corneal tissue has been reported. bd29- 87d82601d16d) ",
+    "respondentStats": {
+      "A": 6,
+      "B": 86,
+      "C": 3,
+      "D": 2
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 66,
+    "source": "cornea-bcsc",
+    "question": "A patient is referred to an ophthalmologist for treatment of herpes simplex keratoconjunctivitis OS. She has been treated by the referring doctor with 4 weeks of triﬂuorothymidine, 1 drop to the aﬀected eye 4 times a day (qid), as well as oral acyclovir. She reports little change in her previous symptoms of blurred vision, ocular redness, and irritation. On examination she has mild conjunctival hyperemia and diﬀuse punctate corneal erosions OS. What is the next appropriate step in this patient's management?",
+    "options": {
+      "A": "addition of prednisone 1% 1 drop qid",
+      "B": "discontinuation of triﬂuorothymidine",
+      "C": "placement of a bandage contact lens",
+      "D": "discontinuation of acyclovir"
+    },
+    "correctAnswer": "B",
+    "explanation": "Toxic medication injury of the cornea should be in the diﬀerential diagnosis of any patient with diﬀuse punctate epithelial erosions and a history of prolonged topical medication use (common oﬀending agents include anesthetics, aminoglycosides, antivirals, mitomycin, and drops preserved with benzalkonium chloride). Oﬀending medications may also cause erosive corneal epithelial defects, punctate staining of the conjunctiva, conjunctival injection with a papillary or follicular reaction,",
+    "respondentStats": {
+      "A": 4,
+      "B": 90,
+      "C": 1,
+      "D": 1
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 67,
+    "source": "cornea-bcsc",
+    "question": "A 67-year-old woman has discrete round corneal inﬁltrates between 4 o'clock and 8 o'clock without overlying epithelial defect but with sectoral hyperemia of the adjacent conjunctivae. What should be looked for on examination?",
+    "options": {
+      "A": "poliosis",
+      "B": "pterygium",
+      "C": "blepharitis",
+      "D": "cicatricial conjunctivitis"
+    },
+    "correctAnswer": "C",
+    "explanation": "",
+    "respondentStats": {
+      "A": 2,
+      "B": 2,
+      "C": 83,
+      "D": 8
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 68,
+    "source": "cornea-bcsc",
+    "question": "The ends of herpes zoster dendritiform lesions are typically what shape?",
+    "options": {
+      "A": "bulbous",
+      "B": "bullseye",
+      "C": "blunt",
+      "D": "pointed"
+    },
+    "correctAnswer": "C",
+    "explanation": "",
+    "respondentStats": {
+      "A": 48,
+      "B": 0,
+      "C": 37,
+      "D": 11
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 69,
+    "source": "cornea-bcsc",
+    "question": "A 32-year-old man presents for evaluation for laser refractive surgery. His refraction is -5.50 D sphere in the right eye and -3.75 D sphere in the left. With full correction, he says his vision is still not crisp, despite measuring 20/20 Snellen acuity in both eyes. His cornea appearance on slit-lamp examination is shown below. What intervention is recommended to improve visual results in this patient?",
+    "options": {
+      "A": "dacryocystorhinostomy",
+      "B": "wavefront-guided laser in situ keratomileusis (LASIK)",
+      "C": "phototherapeutic keratectomy",
+      "D": "phakic intraocular lens (IOL) placement"
+    },
+    "correctAnswer": "C",
+    "explanation": "Careful slit-lamp examination must be performed when evaluating a patient for refractive surgery, and should include a careful examination for epithelial basement membrane dystrophy. Careful attention to a supportive history of corneal erosions and/or irregular astigmatism is also indicated in the assessment for refractive surgery candidacy. Epithelial basement membrane dystrophy increases the risk of ﬂap complications during laser in situ keratomileusis (LASIK). The use of a microkeratome increases such ﬂap complications compared to the use of a femtosecond laser for ﬂap creation, but both techniques increase the risk of ﬂap complications (eg, epithelial ingrowth, irregular ﬂap cuts, epithelial sloughing) compared to surface ablation. Phakic IOL placement may reduce the refractive error in this patient, but given that he already thinks that the vision is not crisp, he will still have visual symptoms after phakic IOL placement. Dacryocystorhinostomy is not indicated in this situation, and would not help the patient's vision. Patients with epithelial basement membrane dystrophy are better candidates for surface treatment—superﬁcial keratectomy or phototherapeutic keratectomy can improve the irregular astigmatism from the basement membrane dystrophy in cases of signiﬁcant irregular astigmatism—prior to consideration of refractive surgery to stabilize the epithelial layer and refractive status. In patients with minimal irregular astigmatism, but still presence of basement membrane dystrophy, photorefractive keratectomy may be attempted.",
+    "respondentStats": {
+      "A": 0,
+      "B": 2,
+      "C": 92,
+      "D": 1
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 70,
+    "source": "cornea-bcsc",
+    "question": "What is the most appropriate long- term treatment of atopic dermatitis and associated atopic keratoconjunctivitis uncontrolled by topical therapies?",
+    "options": {
+      "A": "oral cyclosporine",
+      "B": "oral corticosteroids",
+      "C": "oral doxycycline",
+      "D": "oral hydroxychloroquine"
+    },
+    "correctAnswer": "A",
+    "explanation": "Atopic dermatitis is a chronic condition in genetically susceptible individuals that usually begins in infancy or childhood and might or might not involve the external eye. It involves a type IV hypersensitivity reaction, increased immunoglobulin E hypersensitivity, increased histamine released from mast cells and basophils, and impaired cell- mediated immunity. Treatment includes identifying and minimizing allergens in the environment and in foods. Moisturizing lotions and petrolatum gels can be useful for skin hydration. Acute lesions can be controlled with a topical corticosteroid cream or ointment (eg, clobetasone butyrate 0.05%), but to avoid skin thinning and ocular complications of steroids, long-term use of such medications is strongly discouraged. Cyclosporine is the only drug approved by the US Food and Drug Administration to treat atopic dermatitis; it remains ﬁrst line and is the most appropriate treatment. Topical and oral T-cell inhibitors (eg, tacrolimus) have been found eﬀective and have fewer adverse eﬀects than corticosteroids, so they are used in patients with chronic and",
+    "respondentStats": {
+      "A": 49,
+      "B": 21,
+      "C": 21,
+      "D": 5
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 71,
+    "source": "cornea-bcsc",
+    "question": "What ﬁnding would support the decision for pterygium excision?",
+    "options": {
+      "A": "increased thickness on pachymetry",
+      "B": "deposition of iron at the leading edge",
+      "C": "increased with-the-rule astigmatism",
+      "D": "pterygium excision of the contralateral eye"
+    },
+    "correctAnswer": "C",
+    "explanation": "The most widely accepted indications for pterygium excision include induced astigmatism and chronic symptomatic irritation. Induced astigmatism is most commonly with-the-rule, with relative ﬂattening occurring in the meridian of the pterygium. A history of pterygium excision in the contralateral eye may indicate a propensity for progression but is not, in and of itself, an indication for surgery.",
+    "respondentStats": {
+      "A": 3,
+      "B": 5,
+      "C": 87,
+      "D": 1
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 72,
+    "source": "cornea-bcsc",
+    "question": "What corneal dystrophy is shown in the ﬁgure?",
+    "options": {
+      "A": "Avellino corneal dystrophy",
+      "B": "anterior basement membrane dystrophy (ABMD)",
+      "C": "Schnyder crystalline corneal dystrophy",
+      "D": "Reis-Bücklers dystrophy"
+    },
+    "correctAnswer": "D",
+    "explanation": "",
+    "respondentStats": {
+      "A": 16,
+      "B": 16,
+      "C": 12,
+      "D": 53
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 73,
+    "source": "cornea-bcsc",
+    "question": "Topical corticosteroids are contraindicated for the treatment of what form of herpes simplex keratitis?",
+    "options": {
+      "A": "keratouveitis",
+      "B": "interstitial keratitis",
+      "C": "dendritic keratitis",
+      "D": "stromal keratitis"
+    },
+    "correctAnswer": "C",
+    "explanation": "",
+    "respondentStats": {
+      "A": 2,
+      "B": 2,
+      "C": 90,
+      "D": 3
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 74,
+    "source": "cornea-bcsc",
+    "question": "What is the average frequency of blinking?",
+    "options": {
+      "A": "10 times per minute at rest, 5 times per minute when reading",
+      "B": "20 times per minute at rest, 15 times per minute when reading",
+      "C": "12 times per minute at rest, 12 times per minute when reading",
+      "D": "15 times per minute at rest, 20 times per minute when reading"
+    },
+    "correctAnswer": "A",
+    "explanation": "",
+    "respondentStats": {
+      "A": 47,
+      "B": 38,
+      "C": 2,
+      "D": 7
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 75,
+    "source": "cornea-bcsc",
+    "question": "From what entity do conjunctival melanomas most frequently arise?",
+    "options": {
+      "A": "conjunctival nevi",
+      "B": "ocular melanocytosis",
+      "C": "primary acquired melanosis",
+      "D": "complexion-associated melanosis"
+    },
+    "correctAnswer": "C",
+    "explanation": "Conjunctival melanoma is a malignancy of the conjunctival melanocytes. It most commonly arises from primary acquired melanosis (70%), but it can also arise from a preexisting conjunctival nevus (5%) or can appear de novo (25%). Ocular melanocytosis represents a focal proliferation of subepithelial melanocytes. The malignant potential of ocular melanocytosis is for uveal melanoma, and it is under 1 percent.",
+    "respondentStats": {
+      "A": 5,
+      "B": 4,
+      "C": 83,
+      "D": 1
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 76,
+    "source": "cornea-bcsc",
+    "question": "What blood test should be ordered if on slit-lamp examination, the lens reveals reddish-brown pigment in the anterior capsule and subcapsular cortex in a stellate shape?",
+    "options": {
+      "A": "serum ceruloplasmin",
+      "B": "calcium levels",
+      "C": "urine galactose"
+    },
+    "correctAnswer": "A",
+    "explanation": "hemoglobin A D. 1c Wilson disease is an autosomal recessive disease of copper metabolism. A \"sunﬂower cataract\" is sometimes seen as a result of cuprous oxide deposition in the anterior lens capsule and cortex. Another ﬁnding of Wilson disease is a Kayser-Fleischer ring, which is a golden brown coloration of the Descemet membrane. Cataracts may occur in any condition that causes hypocalcemia. The cataract is typically focal iridescent opacities within the cortex.",
+    "respondentStats": {
+      "A": 78,
+      "B": 5,
+      "C": 9
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 77,
+    "source": "cornea-bcsc",
+    "question": "How is the diagnosis of mucous membrane pemphigoid conﬁrmed?",
+    "options": {
+      "A": "response to empiric treatment",
+      "B": "tissue biopsy",
+      "C": "serum immunoglobulin assay",
+      "D": "clinical appearance"
+    },
+    "correctAnswer": "B",
+    "explanation": "Biopsy specimens should be obtained from an actively aﬀected area of the conjunctiva, or, if involvement is diﬀuse, from the inferior conjunctival fornix. Oral mucosal biopsies may be useful, especially in the presence of an active lesion. Pathologic support for a diagnosis of pemphigoid can be obtained from direct immunoﬂuorescence or immunoperoxidase staining of conjunctival biopsy specimens. Clinical appearance is important to the diagnosis but not suﬃcient for conﬁrmation. Newer serologic tests may play an ancillary role in the diagnosis of MMP but have not replaced tissue diagnosis. Empiric treatment is not an appropriate way to diagnose MMP. amblyopia",
+    "respondentStats": {
+      "A": 0,
+      "B": 85,
+      "C": 10,
+      "D": 2
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 78,
+    "source": "cornea-bcsc",
+    "question": "What is the primary mechanism of vision loss in patients with the condition demonstrated in the ﬁgure?",
+    "options": {
+      "A": "amblyopia",
+      "B": "astigmatism",
+      "C": "spontaneous corneal rupture",
+      "D": "corneal opaciﬁcation"
+    },
+    "correctAnswer": "B",
+    "explanation": "Patients with Terrien marginal degeneration typically present in the fourth or ﬁfth decade of life with decreased vision due to high against- the-rule, oblique, or irregular astigmatism. Hard contact lens ﬁtting can be challenging because of severe inferior peripheral ectasia in these patients. Amblyopia is rarely present, because the degeneration occurs later in life. Corneal opaciﬁcation secondary to lipid keratopathy typically develops superiorly and can progress circumferentially, but rarely causes vision loss due to opaciﬁcation of the visual axis. Although progressive peripheral corneal thinning can occur (leading to increased risk of traumatic rupture), spontaneous corneal perforation is rare. f92d- 4e6b- 9761- a04932358caf)  topical antimetabolites",
+    "respondentStats": {
+      "A": 1,
+      "B": 75,
+      "C": 6,
+      "D": 15
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 79,
+    "source": "cornea-bcsc",
+    "question": "A patient with history of a chronically inﬂamed chalazion presents with the ﬁndings shown below. What is an appropriate treatment for this condition? d03f- 4399- ad91- 2b3cb006ccab&t=637009614663570000)  astigmatism B. 75 Correct Answer spontaneous corneal rupture C.",
+    "options": {
+      "A": "topical antimetabolites",
+      "B": "topical corticosteroids",
+      "C": "incision and drainage",
+      "D": "topical antibiotics"
+    },
+    "correctAnswer": "B",
+    "explanation": "Pyogenic granulomas are reactive hemangiomas consisting of granulation tissue and proliferating capillaries as part of a healing response to minor trauma, surgery, or a chronically inﬂamed chalazion. These lesions are nonsuppurative, do not contain giant cells, and can bleed easily. Treatment may involve topical or intralesional corticosteroids, as well as excision with cauterization to the base (with postoperative topical corticosteroids).",
+    "respondentStats": {
+      "A": 10,
+      "B": 61,
+      "C": 25,
+      "D": 0
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 80,
+    "source": "cornea-bcsc",
+    "question": "What surgical procedure is typically used to treat total unilateral limbal stem cell deﬁciency?",
+    "options": {
+      "A": "limbal stem cell transplant from eye bank donor cornea",
+      "B": "limbal stem cell transplant from living related donor",
+      "C": "limbal stem cell transplant from the fellow eye",
+      "D": "transplant of stem cells cultured from oral mucosa"
+    },
+    "correctAnswer": "C",
+    "explanation": "If total unilateral limbal stem cell deﬁciency occurs, an autograft of limbal epithelium from the fellow eye is most commonly used. Cases of bilateral limbal stem cell deﬁciency are generally treated with limbal allografts from living related donors or eye bank donor eyes. Epithelial cells of the oral mucosa have been used as a source of cultured corneal stem cells; however, this approach is still experimental.",
+    "respondentStats": {
+      "A": 3,
+      "B": 1,
+      "C": 91,
+      "D": 0
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 81,
+    "source": "cornea-bcsc",
+    "question": "What surgical procedure represents the best alternative to penetrating keratoplasty for a visually signiﬁcant, centrally located anterior stromal corneal scar?",
+    "options": {
+      "A": "lamellar keratoplasty",
+      "B": "epithelial debridement",
+      "C": "amniotic membrane transplantation",
+      "D": "deep lamellar endothelial keratoplasty"
+    },
+    "correctAnswer": "A",
+    "explanation": "In lamellar keratoplasty, only the portion of the corneal stroma aﬀected by pathology is replaced. This provides advantages over penetrating keratoplasty, such as avoiding entering the anterior chamber during surgery, decreased risk of allograft rejection, and fewer donor requirements, since preservation of donor endothelium is not mandatory. Epithelial debridement involves removing irregular or poorly adherent epithelium and allowing a new layer of epithelium to regrow. Amniotic membrane transplantation is used to provide a substrate for epithelial growth onto the ocular surface and can reduce inﬂammation and scarring. Deep lamellar endothelial keratoplasty was an early- generation procedure used to replace diseased corneal endothelium with healthy donor corneal endothelium.",
+    "respondentStats": {
+      "A": 64,
+      "B": 1,
+      "C": 0,
+      "D": 29
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 82,
+    "source": "cornea-bcsc",
+    "question": "A 19-year-old man with chronic symptoms of bilateral irritation and redness has the eyelid ﬁnding demonstrated in the ﬁgure. What is the diagnosis?",
+    "options": {
+      "A": "madarosis",
+      "B": "trichiasis",
+      "C": "distichiasis",
+      "D": "eyelash ptosis"
+    },
+    "correctAnswer": "C",
+    "explanation": "Distichiasis is a condition in which an extra row of eyelashes emerges from the ducts of the meibomian glands. It can be congenital (often autosomal dominant) or acquired. Trichiasis is an acquired condition in which eyelashes emerge from their normal origin and curve inward toward the cornea. Eyelash ptosis occurs when the eyelashes of the upper eyelid are displaced downward toward the visual axis. Madarosis is a term that refers to loss of eyebrows or eyelashes.",
+    "respondentStats": {
+      "A": 0,
+      "B": 7,
+      "C": 89,
+      "D": 0
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 83,
+    "source": "cornea-bcsc",
+    "question": "A newborn baby is noted to have bilateral, central corneal opacities. Ultrasound biomicroscopy (UBM) shows iris and lenticular adhesions to the cornea. What is the most likely diagnosis?",
+    "options": {
+      "A": "posterior embryotoxon",
+      "B": "sclerocornea",
+      "C": "Peters anomaly",
+      "D": "congenital hereditary endothelial dystrophy (CHED)"
+    },
+    "correctAnswer": "C",
+    "explanation": "The stem describes Peters anomaly, which is characterized by the presence of a central or paracentral corneal opacity at birth. This is due to the localized absence of the corneal endothelium. Peters anomaly type I is characterized by iridocorneal adhesions, and Peters anomaly type II is characterized by corneolenticular adhesions. Glaucoma is present in 50% of patients with the condition. Congenital hereditary endothelial dystrophy (CHED) is characterized by thickening of Descemet membrane, with sparse, atrophic corneal endothelial cells. Posterior embryotoxon involves a thickened and anteriorly displaced Schwalbe line. Sclerocornea is a nonprogressive,",
+    "respondentStats": {
+      "A": 1,
+      "B": 1,
+      "C": 90,
+      "D": 3
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 84,
+    "source": "cornea-bcsc",
+    "question": "A young child with a new diagnosis of xeroderma pigmentosum (XP) is referred for ocular examination. After counseling the child's parents on sun protection and symptoms of dry eye, the ophthalmologist explains the need for frequent follow-up to monitor for the development of what condition?",
+    "options": {
+      "A": "solar retinopathy",
+      "B": "nuclear sclerotic cataracts",
+      "C": "posterior subcapsular cataracts",
+      "D": "ocular surface or eyelid neoplasm"
+    },
+    "correctAnswer": "D",
+    "explanation": "XP is an autosomal recessive disease characterized by the inability to repair DNA damaged by ultraviolet light. Commonly associated ocular conditions are keratoconjunctivitis sicca, exposure keratitis, pinguecula,",
+    "respondentStats": {
+      "A": 3,
+      "B": 1,
+      "C": 5,
+      "D": 88
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 85,
+    "source": "cornea-bcsc",
+    "question": "A patient with keratoconus presents with acute pain and a decrease in vision. The slit-lamp examination is shown in the picture. What is the characteristic associated histologic feature?",
+    "options": {
+      "A": "focal thinning of corneal stroma and the overlying epithelium",
+      "B": "iron deposition in the basal epithelium",
+      "C": "disruption of the Descemet membrane",
+      "D": "fragmentation of the Bowman layer"
+    },
+    "correctAnswer": "C",
+    "explanation": "",
+    "respondentStats": {
+      "A": 1,
+      "B": 0,
+      "C": 89,
+      "D": 6
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 86,
+    "source": "cornea-bcsc",
+    "question": "What is a contraindication for using corneal tissue for transplantation?",
+    "options": {
+      "A": "history of lung adenocarcinoma",
+      "B": "history of sarcoidosis",
+      "C": "history of psychiatric disorder",
+      "D": "history of leukemia"
+    },
+    "correctAnswer": "D",
+    "explanation": "The Eye Bank Association of America has a list of exclusion criteria regarding donation of tissue for corneal transplantation. Leukemia, active disseminated lymphoma, and malignant tumors of the anterior segment or known adenocarcinoma in the eye of primary or metastatic origin are contraindications for donation. Lung adenocarcinoma that has not metastasized to the eye is not on the list of exclusion criteria. A history of sarcoidosis without active ocular or intraocular inﬂammation would not be a contraindication. Psychiatric disorders are not part of the criteria contraindicating donor cornea use. Criteria for exclusion include: Death of unknown cause Congenital rubella Reye syndrome within the past 3 months Neurodegenerative conditions including prion disease (eg, Creutzfeldt-Jakob disease, progressive multifocal leukoencephalopathy) Infectious conditions including human immunodeﬁciency virus, hepatitis, and active bacterial/viral encephalitis or bacterial/fungal endocarditis, suspected rabies or history of being bitten within the past 6 months Down syndrome (exclusion criterion for penetrating and anterior lamellar keratoplasties) Intrinsic eye disease including retinoblastoma, malignant tumors of the anterior segment, or known adenocarcinoma in the eye of primary or metastatic origin, active ocular or intraocular inﬂammation, congenital or acquired disorders of the eye that would preclude a successful outcome Leukemias Active disseminated lymphomas Behavioral criteria: High-risk behavior (eg, intravenous drug use or incarceration in prison) Prior refractive corneal surgery with the exception that previous laser refractive surgery may not disqualify for use in endothelial keratoplasty Positive test for anti-HIV-1/anti-HIV-2, nonreactive for hepatitis B surface antigen (HBsAg) and anti-HCV antibody 8153- 4300- b312- 7490f19f665a) ",
+    "respondentStats": {
+      "A": 11,
+      "B": 10,
+      "C": 4,
+      "D": 71
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 87,
+    "source": "cornea-bcsc",
+    "question": "A 35-year-old man presents with a 2- day history of decreased vision and of pain in the right eye after being struck by a tree branch while hiking. Vision is 20/50, with an intraocular pressure of 8 mm Hg. Slit-lamp examination is remarkable for a 5- mm vertical conjunctival laceration near the semilunar fold. Examination of the wound is attempted at the slit lamp, but signiﬁcant bullous subconjunctival hemorrhage limits the examination. What is the best course of management?",
+    "options": {
+      "A": "suture closure of the conjunctival laceration",
+      "B": "ultrasonography of the orbits to rule out foreign body",
+      "C": "prescription of antibiotics and a follow-up examination in 3 to 5 days",
+      "D": "exploration of the wound with conjunctival peritomy in the operating room"
+    },
+    "correctAnswer": "D",
+    "explanation": "",
+    "respondentStats": {
+      "A": 0,
+      "B": 7,
+      "C": 2,
+      "D": 87
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 88,
+    "source": "cornea-bcsc",
+    "question": "For the initial management of early and peripheral contact lens-related microbial keratitis, what topical antibiotic is most appropriate as monotherapy?",
+    "options": {
+      "A": "erythromycin",
+      "B": "cephazolin",
+      "C": "moxiﬂoxacin",
+      "D": "vancomycin"
+    },
+    "correctAnswer": "C",
+    "explanation": "Initial treatment of a contact lens-related microbial keratitis should include a broad-spectrum activity against gram-positive and gram- negative bacteria. Fluoroquinolones, particularly fourth-generation ﬂuoroquinolones, have good coverage against most gram-positive and gram-negative organisms implicated in contact lens-related microbial keratitis. Sulfonamides, penicillins, and ﬁrst-generation cephalosporins lack adequate coverage against gram-negative organisms, most notably Pseudomonas aeruginosa. 9507- c59feca486c7)  keratocytes",
+    "respondentStats": {
+      "A": 1,
+      "B": 0,
+      "C": 93,
+      "D": 2
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 89,
+    "source": "cornea-bcsc",
+    "question": "The ﬁbrovascular ridges seen in the photo are crucial for replenishment of what mature cell type?",
+    "options": {
+      "A": "keratocytes",
+      "B": "conjunctival epithelial cells",
+      "C": "Langerhans cells",
+      "D": "corneal epithelial cells"
+    },
+    "correctAnswer": "D",
+    "explanation": "The ﬁbrovascular ridges shown in the photo are the palisades of Vogt, which house corneal epithelial stem cells at the limbus. These cells will proliferate and replenish the corneal epithelium with centripetal migration from the periphery to the center of the cornea. Damage to the palisades may result in limbal stem cell deﬁciency, poor corneal wound healing, and conjunctivalization of the cornea. dense underlying stromal inﬁltration",
+    "respondentStats": {
+      "A": 6,
+      "B": 4,
+      "C": 4,
+      "D": 83
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 90,
+    "source": "cornea-bcsc",
+    "question": "What is the classic slit-lamp feature of a neurotrophic corneal ulcer?",
+    "options": {
+      "A": "dense underlying stromal inﬁltration",
+      "B": "superior location of lesion",
+      "C": "rounded edges of epithelial defect",
+      "D": "multiple discrete epithelial defects"
+    },
+    "correctAnswer": "C",
+    "explanation": "",
+    "respondentStats": {
+      "A": 3,
+      "B": 1,
+      "C": 88,
+      "D": 3
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 91,
+    "source": "cornea-bcsc",
+    "question": "The patient shown in Figure 1 has dry-eye symptoms recalcitrant to artiﬁcial tears, punctal plugs, and topical cyclosporine. What subsequent intervention would be recommended?",
+    "options": {
+      "A": "lateral tarsal strip surgery",
+      "B": "conjunctival resection",
+      "C": "bandage contact-lens placement",
+      "D": "silver nitrate cauterization"
+    },
+    "correctAnswer": "B",
+    "explanation": "Medical therapies for conjunctivochalasis include ocular lubricants, topical corticosteroids, topical antihistamines, and patching at bedtime with ointment to protect the exposed conjunctiva. Surgical approaches include excision of the redundant conjunctiva or thermal cautery to shrink the tissue. hypercalcemia and excessive sun exposure",
+    "respondentStats": {
+      "A": 2,
+      "B": 87,
+      "C": 3,
+      "D": 3
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 92,
+    "source": "cornea-bcsc",
+    "question": "What is the most common cause of conjunctival concretions?",
+    "options": {
+      "A": "hypercalcemia and excessive sun exposure",
+      "B": "trachoma and excessive eye rubbing",
+      "C": "chronic conjunctivitis and aging",
+      "D": "prior ocular surgery and dry eye"
+    },
+    "correctAnswer": "C",
+    "explanation": "",
+    "respondentStats": {
+      "A": 6,
+      "B": 4,
+      "C": 76,
+      "D": 10
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 93,
+    "source": "cornea-bcsc",
+    "question": "A patient has peripheral ulcerative keratitis (PUK) with threatened perforation due to rheumatoid arthritis. What is the next step?",
+    "options": {
+      "A": "interferon therapy",
+      "B": "cyanoacrylate glue and bandage contact lens",
+      "C": "conjunctival ﬂap",
+      "D": "scraping of thinned area to remove inﬂammatory factors"
+    },
+    "correctAnswer": "B",
+    "explanation": "",
+    "respondentStats": {
+      "A": 9,
+      "B": 64,
+      "C": 18,
+      "D": 6
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 94,
+    "source": "cornea-bcsc",
+    "question": "What role does cryotherapy play in the treatment of the pictured condition?",
+    "options": {
+      "A": "improves wound healing/adherence of remaining tissues",
+      "B": "decreases recurrence",
+      "C": "theoretically be improved by sophisticated measurements of corneal hysteresis? ! \" # decreases risk of metastasis",
+      "D": "improves diagnostic pathology yield"
+    },
+    "correctAnswer": "B",
+    "explanation": "For the treatment of conjunctival neoplasia, excision with cryotherapy of the margin is a recommended strategy to reduce recurrence at the wound margin. Depending on the type of the lesion, systemic chemotherapy or radiation therapy may be combined with surgical excision. Cryotherapy does not play a signiﬁcant role in the prevention of distant metastasis, diagnostic yield, or wound closure. Options for ﬁrst-line therapy for squamous lesions are topical interferon-alpha 2b, or topical mitomycin C (MMC), or wide-margin surgical excision with cryotherapy. Cryotherapy at time of ocular surface surgery has been shown to improve prognosis. d322- 47ba- 9f55- f0f572c1eb00) ",
+    "respondentStats": {
+      "A": 5,
+      "B": 74,
+      "C": 15,
+      "D": 1
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 95,
+    "source": "cornea-bcsc",
+    "question": "The outcomes of what surgery could theoretically be improved by sophisticated measurements of corneal hysteresis? decreases risk of metastasis C.",
+    "options": {
+      "A": "laser in situ keratomileusis (LASIK)",
+      "B": "Descemet stripping endothelial keratoplasty (DSEK)",
+      "C": "deep anterior lamellar keratoplasty (DALK)",
+      "D": "phacoemulsiﬁcation with implantation of multifocal intraocular lenses"
+    },
+    "correctAnswer": "A",
+    "explanation": "Corneal hysteresis is the diﬀerence between the pressure at which the cornea bends inward with air-jet applanation and the pressure at which it bends outward again. It gauges elasticity of the cornea. Theoretically, accurate measurement of this biomechanical property would identify corneas at risk for ectasia during laser refractive surgery such as LASIK or photorefractive keratectomy (PRK). amoxicillin",
+    "respondentStats": {
+      "A": 58,
+      "B": 8,
+      "C": 19,
+      "D": 10
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 96,
+    "source": "cornea-bcsc",
+    "question": "What systemic antibiotic can be given as a single dose to treat adult chlamydial conjunctivitis?",
+    "options": {
+      "A": "amoxicillin",
+      "B": "doxycycline",
+      "C": "azithromycin",
+      "D": "erythromycin"
+    },
+    "correctAnswer": "C",
+    "explanation": "Azithromycin 1g PO administered once is an acceptable treatment for adult chlamydial conjunctivitis (it may be necessary in some cases to retreat at 1 week). For this reason, it may be a preferable choice for patients with a history of poor compliance. The other 3 antibiotic choices are also eﬀective therapies, but they must be administered over a 7-day period. Sexual partners should be treated concurrently to prevent reinfection. Currently, 1 of the following oral antibiotic regimens is recommended: azithromycin 1000 mg PO single dose doxycycline 100 mg PO BID x 7days tetracycline 250 mg PO QID x 7 days erythromycin 500 mg PO QID x 7 days",
+    "respondentStats": {
+      "A": 0,
+      "B": 6,
+      "C": 83,
+      "D": 7
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 97,
+    "source": "cornea-bcsc",
+    "question": "A 25-year-old woman complains of chronic, bilateral foreign-body sensation, which is worse at the end of the day. The slit-lamp examination of her left eye is abnormal, as shown. What blood test would suggest a speciﬁc etiology of this condition?",
+    "options": {
+      "A": "angiotensin-converting enzyme",
+      "B": "rheumatoid factor",
+      "C": "antibodies to La/SS-B antigens",
+      "D": "antineutrophil cytoplasmic antibodies"
+    },
+    "correctAnswer": "C",
+    "explanation": "The slit-lamp photograph demonstrates rose bengal staining in the inferior conjunctivae, as well as ropy mucous discharge. These ﬁndings, along with the patient's symptoms, strongly suggest dry eye syndrome. In a young patient with severe dry eye symptoms, a search for an underlying systemic etiology should be considered. Sjögren syndrome is a systemic autoimmune condition that aﬀects the exocrine glands that produce tears and saliva. Sjögren syndrome can present as a primary disease or in the setting of additional autoimmune disorders. Blood tests can determine if a patient has high levels of antibodies that are suggestive of systemic disease; the typical antinuclear antibody",
+    "respondentStats": {
+      "A": 4,
+      "B": 14,
+      "C": 69,
+      "D": 9
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 98,
+    "source": "cornea-bcsc",
+    "question": "What is a risk factor for the development of conjunctival melanoma?",
+    "options": {
+      "A": "primary acquired melanosis of the conjunctiva",
+      "B": "young age",
+      "C": "prior pterygium excision",
+      "D": "Asian ethnicity"
+    },
+    "correctAnswer": "A",
+    "explanation": "",
+    "respondentStats": {
+      "A": 95,
+      "B": 0,
+      "C": 0,
+      "D": 1
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 99,
+    "source": "cornea-bcsc",
+    "question": "What is a beneﬁt of keratoscopy over keratometry?",
+    "options": {
+      "A": "keratoscopy evaluates a larger surface of the cornea",
+      "B": "keratoscopy is quantitative",
+      "C": "keratoscopy evaluates astigmatism",
+      "D": "keratoscopy data is analyzed by computer software"
+    },
+    "correctAnswer": "A",
+    "explanation": "Keratoscopy presents an illuminated series of concentric rings that reﬂect oﬀ the corneal surface. Unlike keratometry, which measures quantitative data and is limited to the central 4 mm, keratoscopy provides a qualitative evaluation of a larger surface of the cornea, based on the shape and dimension of and the distance between the",
+    "respondentStats": {
+      "A": 67,
+      "B": 11,
+      "C": 6,
+      "D": 11
+    },
+    "imageUrl": null
+  },
+  {
+    "id": 100,
+    "source": "cornea-bcsc",
+    "question": "What is the most likely diagnosis for a patient with bilateral crusting of the eyelashes, eyelid margin telangiectasias, papillary conjunctivitis, and peripheral corneal inﬁltrates?",
+    "options": {
+      "A": "ﬂoppy eyelid syndrome",
+      "B": "staphylococcal blepharoconjunctivitis",
+      "C": "herpes simplex blepharoconjunctivitis",
+      "D": "vernal keratoconjunctivitis"
+    },
+    "correctAnswer": "B",
+    "explanation": "The description is classic for staphylococcal blepharoconjunctivitis. Herpes simplex blepharoconjunctivitis is characterized by a follicular conjunctival reaction, vesicular eyelid skin, or ulcerated eyelid margin lesions, and often preauricular lymphadenopathy. It is almost always unilateral, except in patients with underlying immunodeﬁciency or atopic disease. Vernal keratoconjunctivitis can present with bilateral papillary conjunctivitis (it is typically severe enough to be labeled \"giant\" papillary conjunctivitis). However, crusting of the eyelashes and eyelid margin telangiectasia are not typical features. Floppy eyelid syndrome can also cause a velvety upper lid papillary reaction, but marginal corneal inﬁltrates are not typical. 2",
+    "respondentStats": {
+      "A": 1,
+      "B": 91,
+      "C": 0,
+      "D": 5
+    },
+    "imageUrl": null
+  }
+]

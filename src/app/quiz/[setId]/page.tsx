@@ -8,7 +8,9 @@ import { buildQuizQueue, getStartIndex } from "@/lib/quiz-engine";
 import { recordAnswer, saveLastPosition } from "@/lib/store";
 import QuizCard from "@/components/QuizCard";
 import ExplanationPanel from "@/components/ExplanationPanel";
-import ProgressBar from "@/components/ProgressBar";
+import QuestionCounter from "@/components/QuestionCounter";
+import QuizHeader from "@/components/QuizHeader";
+import QuestionNavigator from "@/components/QuestionNavigator";
 import Link from "next/link";
 
 export default function QuizPage() {
@@ -25,16 +27,19 @@ export default function QuizPage() {
   const [answeredCount, setAnsweredCount] = useState(0);
   const [loading, setLoading] = useState(true);
   const [finished, setFinished] = useState(false);
+  const [setName, setSetName] = useState("");
+  const [answeredMap, setAnsweredMap] = useState<Map<number, boolean>>(new Map());
+  const [answerRecord, setAnswerRecord] = useState<Map<number, string>>(new Map()); // index -> selected letter
 
   // Load questions
   useEffect(() => {
     async function load() {
       try {
-        // Find the file name from manifest
         const manifestRes = await fetch("/data/manifest.json");
         const manifest = await manifestRes.json();
         const qSet = manifest.questionSets.find((s: { id: string }) => s.id === setId);
         if (!qSet) return;
+        setSetName(qSet.name);
 
         const raw = await loadQuestionSet(qSet.file);
         const queue = buildQuizQueue(raw, mode, setId);
@@ -60,6 +65,18 @@ export default function QuizPage() {
       setAnsweredCount((c) => c + 1);
       if (correct) setCorrectCount((c) => c + 1);
 
+      setAnsweredMap((prev) => {
+        const next = new Map(prev);
+        next.set(currentIndex, correct);
+        return next;
+      });
+
+      setAnswerRecord((prev) => {
+        const next = new Map(prev);
+        next.set(currentIndex, selected);
+        return next;
+      });
+
       recordAnswer({
         questionId: currentQuestion.id,
         source: currentQuestion.source,
@@ -80,25 +97,99 @@ export default function QuizPage() {
       setFinished(true);
       return;
     }
-    setCurrentIndex((i) => i + 1);
-    setSelectedAnswer(null);
-    setShowResult(false);
-  }, [currentIndex, questions.length]);
+    const nextIdx = currentIndex + 1;
+    setCurrentIndex(nextIdx);
+    // Restore previous answer if already answered
+    if (answeredMap.has(nextIdx)) {
+      setSelectedAnswer(answerRecord.get(nextIdx) || null);
+      setShowResult(true);
+    } else {
+      setSelectedAnswer(null);
+      setShowResult(false);
+    }
+  }, [currentIndex, questions.length, answeredMap, answerRecord]);
 
-  // Keyboard: Enter/ArrowRight for next
+  const handlePrev = useCallback(() => {
+    if (currentIndex <= 0) return;
+    const prevIdx = currentIndex - 1;
+    setCurrentIndex(prevIdx);
+    // Restore previous answer state if question was already answered
+    if (answeredMap.has(prevIdx)) {
+      setSelectedAnswer(answerRecord.get(prevIdx) || null);
+      setShowResult(true);
+    } else {
+      setSelectedAnswer(null);
+      setShowResult(false);
+    }
+  }, [currentIndex, answeredMap, answerRecord]);
+
+  const handleJump = useCallback((index: number) => {
+    setCurrentIndex(index);
+    // Restore previous answer state if already answered
+    if (answeredMap.has(index)) {
+      setSelectedAnswer(answerRecord.get(index) || null);
+      setShowResult(true);
+    } else {
+      setSelectedAnswer(null);
+      setShowResult(false);
+    }
+  }, [answeredMap, answerRecord]);
+
+  // Mark all questions before current as "correctly answered" (to recover lost progress)
+  const handleMarkPreviousAnswered = useCallback(() => {
+    if (currentIndex <= 0) return;
+    const count = currentIndex;
+    if (!confirm(`Mark questions 1–${count} as correctly answered? This records them as correct in your progress.`)) return;
+
+    const newAnsweredMap = new Map(answeredMap);
+    const newAnswerRecord = new Map(answerRecord);
+    let newCorrectCount = correctCount;
+
+    for (let i = 0; i < currentIndex; i++) {
+      if (!newAnsweredMap.has(i)) {
+        const q = questions[i];
+        if (!q) continue;
+
+        newAnsweredMap.set(i, true);
+        newAnswerRecord.set(i, q.correctAnswer || "A");
+        newCorrectCount++;
+
+        recordAnswer({
+          questionId: q.id,
+          source: q.source,
+          selectedAnswer: q.correctAnswer || "A",
+          correct: true,
+          timestamp: Date.now(),
+        });
+      }
+    }
+
+    setAnsweredMap(newAnsweredMap);
+    setAnswerRecord(newAnswerRecord);
+    setCorrectCount(newCorrectCount);
+    setAnsweredCount((prev) => prev + count - answeredMap.size);
+
+    if (mode === "sequential") {
+      saveLastPosition(setId, currentIndex);
+    }
+  }, [currentIndex, questions, answeredMap, answerRecord, correctCount, mode, setId]);
+
+  // Keyboard: ArrowRight/Enter for next, ArrowLeft for previous
   useEffect(() => {
     const handler = (e: KeyboardEvent) => {
-      if ((e.key === "Enter" || e.key === "ArrowRight") && showResult) {
+      if (e.key === "ArrowLeft") {
+        handlePrev();
+      } else if ((e.key === "Enter" || e.key === "ArrowRight") && showResult) {
         handleNext();
       }
     };
     window.addEventListener("keydown", handler);
     return () => window.removeEventListener("keydown", handler);
-  }, [showResult, handleNext]);
+  }, [showResult, handleNext, handlePrev]);
 
   if (loading) {
     return (
-      <div className="flex items-center justify-center min-h-[50vh]">
+      <div className="flex items-center justify-center min-h-[60vh]">
         <div className="text-center">
           <div
             className="w-10 h-10 border-4 rounded-full animate-spin mx-auto mb-4"
@@ -118,7 +209,7 @@ export default function QuizPage() {
         </p>
         <Link
           href="/"
-          className="inline-flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium text-white"
+          className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl text-sm font-semibold text-white"
           style={{ backgroundColor: "var(--accent)" }}
         >
           Back to Home
@@ -130,7 +221,7 @@ export default function QuizPage() {
   if (finished) {
     const accuracy = answeredCount > 0 ? Math.round((correctCount / answeredCount) * 100) : 0;
     return (
-      <div className="max-w-lg mx-auto text-center py-16">
+      <div className="max-w-lg mx-auto text-center py-16 px-4">
         <div className="text-6xl mb-6">{accuracy >= 80 ? "🎉" : accuracy >= 50 ? "👍" : "📚"}</div>
         <h1 className="text-2xl font-bold mb-2" style={{ color: "var(--text-primary)" }}>
           Session Complete!
@@ -138,21 +229,24 @@ export default function QuizPage() {
         <p className="text-lg mb-1" style={{ color: "var(--text-secondary)" }}>
           {correctCount} / {answeredCount} correct
         </p>
-        <p className="text-3xl font-bold mb-8" style={{ color: accuracy >= 80 ? "var(--success)" : accuracy >= 50 ? "var(--warning)" : "var(--error)" }}>
+        <p
+          className="text-4xl font-bold mb-8"
+          style={{ color: accuracy >= 80 ? "var(--success)" : accuracy >= 50 ? "var(--warning)" : "var(--error)" }}
+        >
           {accuracy}%
         </p>
         <div className="flex gap-3 justify-center">
           <Link
             href="/"
-            className="px-5 py-2.5 rounded-lg text-sm font-medium"
+            className="px-6 py-3 rounded-xl text-sm font-semibold"
             style={{ backgroundColor: "var(--bg-secondary)", color: "var(--text-primary)", border: "1px solid var(--border)" }}
           >
             Home
           </Link>
           <Link
             href="/review"
-            className="px-5 py-2.5 rounded-lg text-sm font-medium text-white"
-            style={{ backgroundColor: "var(--accent)" }}
+            className="px-6 py-3 rounded-xl text-sm font-semibold text-white"
+            style={{ backgroundColor: "var(--text-primary)" }}
           >
             Review Mistakes
           </Link>
@@ -162,32 +256,85 @@ export default function QuizPage() {
   }
 
   return (
-    <div className="max-w-2xl mx-auto">
-      <ProgressBar current={answeredCount} total={questions.length} correct={correctCount} />
-      <QuizCard
-        question={currentQuestion}
-        onAnswer={handleAnswer}
-        showResult={showResult}
-        selectedAnswer={selectedAnswer}
-      />
-      {showResult && (
-        <>
-          <ExplanationPanel question={currentQuestion} wasCorrect={selectedAnswer === currentQuestion.correctAnswer} />
-          <div className="flex justify-end mt-4">
-            <button
-              onClick={handleNext}
-              className="px-6 py-2.5 rounded-lg text-sm font-medium text-white flex items-center gap-2 hover:opacity-90 transition-opacity"
-              style={{ backgroundColor: "var(--accent)" }}
-            >
-              {currentIndex + 1 >= questions.length ? "Finish" : "Next"}
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
-                <line x1="5" y1="12" x2="19" y2="12" /><polyline points="12 5 19 12 12 19" />
-              </svg>
-              <span className="text-xs opacity-60 ml-1">Enter</span>
-            </button>
+    <>
+      <QuizHeader title={setName} />
+
+      <div className="flex gap-6 max-w-5xl mx-auto px-4 py-4">
+        {/* Main quiz column */}
+        <div className="flex-1 min-w-0 pb-24">
+          <QuestionCounter current={currentIndex} total={questions.length} correct={correctCount} onMarkPreviousAnswered={handleMarkPreviousAnswered} />
+
+          {/* Question with slide animation */}
+          <div key={currentIndex} className="animate-slide-in">
+            <QuizCard
+              question={currentQuestion}
+              onAnswer={handleAnswer}
+              showResult={showResult}
+              selectedAnswer={selectedAnswer}
+            />
           </div>
-        </>
+
+          {showResult && (
+            <ExplanationPanel
+              question={currentQuestion}
+              wasCorrect={selectedAnswer === currentQuestion.correctAnswer}
+            />
+          )}
+        </div>
+
+        {/* Desktop sidebar — question navigator */}
+        <QuestionNavigator
+          total={questions.length}
+          currentIndex={currentIndex}
+          answeredMap={answeredMap}
+          onJump={handleJump}
+          onMarkPreviousAnswered={handleMarkPreviousAnswered}
+        />
+      </div>
+
+      {/* Sticky bottom navigation bar */}
+      {(showResult || answeredMap.size > 0) && (
+        <div
+          className="fixed bottom-0 left-0 right-0 p-4 z-30"
+          style={{ backgroundColor: "var(--bg-primary)", borderTop: "1px solid var(--border)" }}
+        >
+          <div className="max-w-2xl mx-auto flex gap-3">
+            {/* Previous button */}
+            <button
+              onClick={handlePrev}
+              disabled={currentIndex <= 0}
+              className="py-3.5 px-5 rounded-xl text-sm font-bold flex items-center justify-center gap-1.5 transition-opacity hover:opacity-90 disabled:opacity-30"
+              style={{
+                backgroundColor: "var(--bg-secondary)",
+                color: "var(--text-primary)",
+                border: "1px solid var(--border)",
+              }}
+            >
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+                <polyline points="15 18 9 12 15 6" />
+              </svg>
+              Prev
+            </button>
+
+            {/* Next button — full width */}
+            {showResult && (
+              <button
+                onClick={handleNext}
+                className="flex-1 py-3.5 rounded-xl text-base font-bold flex items-center justify-center gap-2 transition-opacity hover:opacity-90"
+                style={{
+                  backgroundColor: "var(--text-primary)",
+                  color: "var(--bg-primary)",
+                }}
+              >
+                {currentIndex + 1 >= questions.length ? "Finish" : "Next"}
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+                  <line x1="5" y1="12" x2="19" y2="12" /><polyline points="12 5 19 12 12 19" />
+                </svg>
+              </button>
+            )}
+          </div>
+        </div>
       )}
-    </div>
+    </>
   );
 }

@@ -1,11 +1,186 @@
 {
+  "categories": [
+    {
+      "id": "fundamentals",
+      "name": "Fundamentals",
+      "icon": "🔬"
+    },
+    {
+      "id": "cornea",
+      "name": "Cornea",
+      "icon": "👁"
+    },
+    {
+      "id": "lens-cataract",
+      "name": "Lens & Cataract",
+      "icon": "🔍"
+    },
+    {
+      "id": "glaucoma",
+      "name": "Glaucoma",
+      "icon": "🟢"
+    },
+    {
+      "id": "retina",
+      "name": "Retina",
+      "icon": "🧿"
+    },
+    {
+      "id": "uveitis",
+      "name": "Uveitis",
+      "icon": "🔥"
+    },
+    {
+      "id": "neuro",
+      "name": "Neuro-Ophthalmology",
+      "icon": "🧠"
+    },
+    {
+      "id": "oculoplastics",
+      "name": "Oculoplastics",
+      "icon": "✂️"
+    },
+    {
+      "id": "pediatrics",
+      "name": "Pediatrics",
+      "icon": "👶"
+    }
+  ],
   "questionSets": [
     {
+      "id": "fundamentals-oq",
+      "name": "Fundamentals",
+      "description": "266 questions on anatomy, embryology, biochemistry, genetics, pharmacology",
+      "file": "fundamentals-oq.json",
+      "questionCount": 266,
+      "category": "fundamentals",
+      "source": "OphthoQ"
+    },
+    {
+      "id": "cornea-bcsc",
+      "name": "Cornea BCSC",
+      "description": "99 BCSC self-assessment questions on cornea",
+      "file": "cornea-bcsc.json",
+      "questionCount": 99,
+      "category": "cornea",
+      "source": "BCSC"
+    },
+    {
+      "id": "cornea-oq",
+      "name": "Cornea OphthoQ",
+      "description": "341 questions on corneal pathology and surgery",
+      "file": "cornea-oq.json",
+      "questionCount": 341,
+      "category": "cornea",
+      "source": "OphthoQ"
+    },
+    {
+      "id": "lens-cataract-oq",
+      "name": "Lens & Cataract",
+      "description": "29 questions on lens and cataract surgery",
+      "file": "lens-cataract-oq.json",
+      "questionCount": 29,
+      "category": "lens-cataract",
+      "source": "OphthoQ"
+    },
+    {
+      "id": "glaucoma-bcsc",
+      "name": "Glaucoma BCSC",
+      "description": "198 BCSC self-assessment questions on glaucoma",
+      "file": "glaucoma-bcsc.json",
+      "questionCount": 198,
+      "category": "glaucoma",
+      "source": "BCSC"
+    },
+    {
+      "id": "retina-bcsc",
+      "name": "Retina BCSC",
+      "description": "349 BCSC self-assessment questions on retina",
+      "file": "retina-bcsc.json",
+      "questionCount": 349,
+      "category": "retina",
+      "source": "BCSC"
+    },
+    {
+      "id": "retina-oq",
+      "name": "Retina OphthoQ",
+      "description": "307 questions on retinal pathology and surgery",
+      "file": "retina-oq.json",
+      "questionCount": 307,
+      "category": "retina",
+      "source": "OphthoQ"
+    },
+    {
+      "id": "uveitis-bcsc",
+      "name": "Uveitis BCSC",
+      "description": "446 BCSC self-assessment questions on uveitis",
+      "file": "uveitis-bcsc.json",
+      "questionCount": 446,
+      "category": "uveitis",
+      "source": "BCSC"
+    },
+    {
+      "id": "uveitis-oq",
+      "name": "Uveitis OphthoQ",
+      "description": "181 questions on uveitis and ocular immunology",
+      "file": "uveitis-oq.json",
+      "questionCount": 181,
+      "category": "uveitis",
+      "source": "OphthoQ"
+    },
+    {
+      "id": "neuro-bcsc",
+      "name": "Neuro BCSC",
+      "description": "331 BCSC self-assessment questions on neuro-ophthalmology",
+      "file": "neuro-bcsc.json",
+      "questionCount": 331,
+      "category": "neuro",
+      "source": "BCSC"
+    },
+    {
+      "id": "neuro-oq",
+      "name": "Neuro OphthoQ",
+      "description": "271 questions on neuro-ophthalmology",
+      "file": "neuro-oq.json",
+      "questionCount": 271,
+      "category": "neuro",
+      "source": "OphthoQ"
+    },
+    {
+      "id": "oculoplastics-bcsc",
+      "name": "Oculoplastics BCSC",
+      "description": "497 BCSC self-assessment questions on oculoplastics",
+      "file": "oculoplastics-bcsc.json",
+      "questionCount": 497,
+      "category": "oculoplastics",
+      "source": "BCSC"
+    },
+    {
       "id": "pediatric-bcsc",
-      "name": "Pediatric BCSC Self Assessment",
-      "description": "481 questions on Pediatric Ophthalmology",
+      "name": "Pediatric BCSC",
+      "description": "481 BCSC self-assessment questions on pediatric ophthalmology",
       "file": "pediatric-bcsc.json",
-      "questionCount": 481
+      "questionCount": 481,
+      "category": "pediatrics",
+      "source": "BCSC"
+    },
+    {
+      "id": "pedia-hy-oq",
+      "name": "Pediatrics High Yield",
+      "description": "173 high-yield pediatric ophthalmology questions",
+      "file": "pedia-hy-oq.json",
+      "questionCount": 173,
+      "category": "pediatrics",
+      "source": "OphthoQ"
+    },
+    {
+      "id": "pedia-nhy-oq",
+      "name": "Pediatrics Non-HY",
+      "description": "86 non-high-yield pediatric ophthalmology questions",
+      "file": "pedia-nhy-oq.json",
+      "questionCount": 86,
+      "category": "pediatrics",
+      "source": "OphthoQ"
     }
   ]
 }

@@ -18,6 +18,21 @@ Thumbs.db
 
 # Parser artifacts
 scripts/raw_text.txt
+scripts/raw_*.txt
+scripts/__pycache__/
+scripts/fix_*.py
+scripts/diag_*.py
+scripts/verify_*.py
+scripts/validate_*.py
+
+# Temp audit/fix scripts in project root
+audit.*
+fix_*.js
+patch_*.py
+
+# Parser metadata (internal)
+public/data/_*.json
+public/data/*.sh
 
 # Environment
 .env

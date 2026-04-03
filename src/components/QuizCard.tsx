@@ -47,31 +47,23 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
   const optionKeys = Object.keys(question.options).sort();
 
   return (
-    <div
-      className="rounded-xl p-6 md:p-8 shadow-sm"
-      style={{ backgroundColor: "var(--bg-card)", border: "1px solid var(--border)" }}
-    >
+    <div>
       {/* Question header */}
-      <div className="flex items-start justify-between gap-4 mb-6">
+      <div className="flex items-start justify-between gap-3 mb-5">
         <div className="flex-1">
-          <span
-            className="text-xs font-medium px-2 py-1 rounded-full"
-            style={{ backgroundColor: "var(--bg-secondary)", color: "var(--text-muted)" }}
-          >
-            Q{question.id}
-          </span>
-          <h2 className="text-lg md:text-xl font-semibold mt-3 leading-relaxed" style={{ color: "var(--text-primary)" }}>
+          <h2 className="text-lg md:text-xl font-semibold leading-relaxed" style={{ color: "var(--text-primary)" }}>
             {question.question}
           </h2>
         </div>
         <button
           onClick={handleBookmark}
-          className="shrink-0 mt-1 hover:scale-110 transition-transform"
+          className="shrink-0 mt-1 w-9 h-9 rounded-full flex items-center justify-center hover:scale-110 transition-transform"
+          style={{ backgroundColor: bookmarked ? "var(--warning-bg)" : "transparent" }}
           title={bookmarked ? "Remove bookmark" : "Bookmark this question"}
         >
           <svg
-            width="22"
-            height="22"
+            width="20"
+            height="20"
             viewBox="0 0 24 24"
             fill={bookmarked ? "var(--warning)" : "none"}
             stroke={bookmarked ? "var(--warning)" : "var(--text-muted)"}
@@ -84,25 +76,76 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
         </button>
       </div>
 
-      {/* Options */}
+      {/* Question image */}
+      {question.imageUrl && (
+        <div className="mb-5 rounded-xl overflow-hidden" style={{ border: "1px solid var(--border)" }}>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={question.imageUrl}
+            alt={`Image for question ${question.id}`}
+            className="w-full max-h-72 object-contain"
+            style={{ backgroundColor: "var(--bg-secondary)" }}
+            loading="lazy"
+          />
+        </div>
+      )}
+
+      {/* Options — bordered cards with radio circle on right */}
       <div className="space-y-3">
         {optionKeys.map((key) => {
           const isSelected = selectedAnswer === key;
           const isCorrect = key === question.correctAnswer;
+
           let borderColor = "var(--border)";
           let bgColor = "transparent";
+          let radioContent: React.ReactNode = (
+            <span
+              className="w-6 h-6 rounded-full shrink-0"
+              style={{ border: "2px solid var(--border)" }}
+            />
+          );
 
           if (showResult) {
             if (isCorrect) {
               borderColor = "var(--success)";
               bgColor = "var(--success-bg)";
+              radioContent = (
+                <span
+                  className="w-6 h-6 rounded-full shrink-0 flex items-center justify-center"
+                  style={{ backgroundColor: "var(--success)" }}
+                >
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
+                    <polyline points="20 6 9 17 4 12" />
+                  </svg>
+                </span>
+              );
             } else if (isSelected && !isCorrect) {
               borderColor = "var(--error)";
               bgColor = "var(--error-bg)";
+              radioContent = (
+                <span
+                  className="w-6 h-6 rounded-full shrink-0 flex items-center justify-center"
+                  style={{ backgroundColor: "var(--error)" }}
+                >
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
+                    <line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" />
+                  </svg>
+                </span>
+              );
             }
           } else if (isSelected) {
             borderColor = "var(--accent)";
-            bgColor = "var(--bg-secondary)";
+            bgColor = "var(--accent-light)";
+            radioContent = (
+              <span
+                className="w-6 h-6 rounded-full shrink-0 flex items-center justify-center"
+                style={{ backgroundColor: "var(--accent)" }}
+              >
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
+                  <polyline points="20 6 9 17 4 12" />
+                </svg>
+              </span>
+            );
           }
 
           return (
@@ -110,35 +153,18 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
               key={key}
               onClick={() => handleSelect(key)}
               disabled={showResult}
-              className="w-full text-left px-4 py-3 rounded-lg flex items-start gap-3 transition-all duration-150"
+              className="w-full text-left px-4 py-3.5 rounded-xl flex items-center justify-between gap-3 transition-all duration-150"
               style={{
                 border: `2px solid ${borderColor}`,
                 backgroundColor: bgColor,
                 cursor: showResult ? "default" : "pointer",
               }}
             >
-              <span
-                className="shrink-0 w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold"
-                style={{
-                  backgroundColor: isSelected && !showResult ? "var(--accent)" : "var(--bg-secondary)",
-                  color: isSelected && !showResult ? "#fff" : "var(--text-secondary)",
-                }}
-              >
-                {key}
-              </span>
-              <span className="pt-1 text-sm md:text-base" style={{ color: "var(--text-primary)" }}>
+              <span className="text-sm md:text-base leading-relaxed" style={{ color: "var(--text-primary)" }}>
+                <span className="font-semibold" style={{ color: "var(--text-secondary)" }}>{key}.</span>{" "}
                 {question.options[key]}
               </span>
-              {showResult && isCorrect && (
-                <svg className="shrink-0 ml-auto mt-1" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--success)" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
-                  <polyline points="20 6 9 17 4 12" />
-                </svg>
-              )}
-              {showResult && isSelected && !isCorrect && (
-                <svg className="shrink-0 ml-auto mt-1" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--error)" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
-                  <line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" />
-                </svg>
-              )}
+              {radioContent}
             </button>
           );
         })}
@@ -146,7 +172,7 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
 
       {/* Keyboard hint */}
       {!showResult && (
-        <p className="text-xs mt-4" style={{ color: "var(--text-muted)" }}>
+        <p className="text-xs mt-3 text-center" style={{ color: "var(--text-muted)" }}>
           Press <kbd className="px-1.5 py-0.5 rounded text-xs font-mono" style={{ backgroundColor: "var(--bg-secondary)" }}>A</kbd>
           {" "}<kbd className="px-1.5 py-0.5 rounded text-xs font-mono" style={{ backgroundColor: "var(--bg-secondary)" }}>B</kbd>
           {" "}<kbd className="px-1.5 py-0.5 rounded text-xs font-mono" style={{ backgroundColor: "var(--bg-secondary)" }}>C</kbd>

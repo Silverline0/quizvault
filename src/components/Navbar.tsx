@@ -26,7 +26,7 @@ export default function Navbar() {
       className="sticky top-0 z-50 backdrop-blur-sm"
     >
       <div className="max-w-5xl mx-auto px-4 h-14 flex items-center justify-between">
-        <Link href="/" className="text-lg font-bold" style={{ color: "var(--accent)" }}>
+        <Link href="/" className="text-lg font-bold tracking-tight" style={{ color: "var(--accent)" }}>
           QuizVault
         </Link>
         <div className="flex items-center gap-6">
