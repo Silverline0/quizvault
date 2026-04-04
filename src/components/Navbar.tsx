@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
+import { usePathname } from "next/navigation";
 
 type Theme = "light" | "dark" | "sepia";
 
@@ -60,6 +61,7 @@ export default function Navbar() {
   };
 
   const themeInfo = THEME_ICONS[theme];
+  const pathname = usePathname();
 
   return (
     <nav
@@ -85,17 +87,23 @@ export default function Navbar() {
             { href: "/exam", label: "Exam" },
             { href: "/review", label: "Review" },
             { href: "/stats", label: "Stats" },
-            { href: "/settings", label: "Settings" },
-          ].map((link) => (
-            <Link
-              key={link.href}
-              href={link.href}
-              className="px-3 py-1.5 rounded-lg text-sm font-medium transition-colors hover:opacity-70"
-              style={{ color: "var(--text-secondary)" }}
-            >
-              {link.label}
-            </Link>
-          ))}
+            { href: "/settings", label: "⚙" },
+          ].map((link) => {
+            const isActive = pathname === link.href;
+            return (
+              <Link
+                key={link.href}
+                href={link.href}
+                className="px-3 py-1.5 rounded-lg text-sm font-medium transition-colors"
+                style={{
+                  color: isActive ? "var(--accent)" : "var(--text-secondary)",
+                  backgroundColor: isActive ? "var(--accent-light)" : "transparent",
+                }}
+              >
+                {link.label}
+              </Link>
+            );
+          })}
           <button
             onClick={cycleTheme}
             className="w-9 h-9 rounded-lg flex items-center justify-center ml-1 transition-all hover:scale-105"

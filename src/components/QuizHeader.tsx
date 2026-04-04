@@ -10,10 +10,10 @@ interface QuizHeaderProps {
 export default function QuizHeader({ title, backHref = "/" }: QuizHeaderProps) {
   return (
     <header
-      className="sticky top-0 z-40 h-14 flex items-center px-4 gap-3"
+      className="sticky top-0 z-40 h-14 flex items-center px-4 gap-3 backdrop-blur-md"
       style={{
-        backgroundColor: "var(--bg-primary)",
-        borderBottom: "1px solid var(--border)",
+        backgroundColor: "color-mix(in srgb, var(--bg-primary) 85%, transparent)",
+        borderBottom: "1px solid var(--border-subtle)",
       }}
     >
       <Link

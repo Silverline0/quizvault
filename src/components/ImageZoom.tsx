@@ -29,7 +29,10 @@ export default function ImageZoom({ src, alt, className = "" }: ImageZoomProps) 
           className="absolute inset-0 rounded-xl flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity"
           style={{ backgroundColor: "rgba(0,0,0,0.15)" }}
         >
-          <span className="bg-white/90 rounded-full px-3 py-1.5 text-xs font-medium text-gray-700 shadow-lg">
+          <span
+            className="rounded-full px-3 py-1.5 text-xs font-medium shadow-lg"
+            style={{ backgroundColor: "var(--bg-card)", color: "var(--text-secondary)", opacity: 0.95 }}
+          >
             Click to zoom
           </span>
         </div>

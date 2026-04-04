@@ -205,6 +205,14 @@ body::before {
   mix-blend-mode: soft-light;
 }
 
+/* ── Source badges (theme-aware) ──────────────────────── */
+.badge-bcsc { background: #dbeafe; color: #1d4ed8; }
+.badge-ophthoq { background: #ede9fe; color: #6d28d9; }
+[data-theme="dark"] .badge-bcsc { background: #1e3a5f; color: #93c5fd; }
+[data-theme="dark"] .badge-ophthoq { background: #2e1a4a; color: #c4b5fd; }
+[data-theme="sepia"] .badge-bcsc { background: #e8dfc8; color: #6b5230; }
+[data-theme="sepia"] .badge-ophthoq { background: #e0d4c0; color: #5a3e28; }
+
 /* ── Category gradient cards ──────────────────────────── */
 .cat-fundamentals { background: linear-gradient(135deg, #f0f4ff 0%, #e8eeff 100%); }
 .cat-cornea { background: linear-gradient(135deg, #f0faff 0%, #e0f4ff 100%); }
@@ -227,6 +235,16 @@ body::before {
 [data-theme="dark"] .cat-pediatrics {
   background: var(--bg-card) !important;
 }
+
+[data-theme="sepia"] .cat-fundamentals { background: linear-gradient(135deg, #f0e8d8 0%, #ebe0c8 100%) !important; }
+[data-theme="sepia"] .cat-cornea { background: linear-gradient(135deg, #efe8d4 0%, #e8dcc0 100%) !important; }
+[data-theme="sepia"] .cat-lens-cataract { background: linear-gradient(135deg, #f2ecd8 0%, #ebe2c4 100%) !important; }
+[data-theme="sepia"] .cat-glaucoma { background: linear-gradient(135deg, #eee8d0 0%, #e4dcc0 100%) !important; }
+[data-theme="sepia"] .cat-retina { background: linear-gradient(135deg, #f0e4d4 0%, #e8d8c0 100%) !important; }
+[data-theme="sepia"] .cat-uveitis { background: linear-gradient(135deg, #f2e4d2 0%, #ecd8c0 100%) !important; }
+[data-theme="sepia"] .cat-neuro { background: linear-gradient(135deg, #ece0d4 0%, #e4d4c0 100%) !important; }
+[data-theme="sepia"] .cat-oculoplastics { background: linear-gradient(135deg, #f0e8d0 0%, #e8dcc0 100%) !important; }
+[data-theme="sepia"] .cat-pediatrics { background: linear-gradient(135deg, #eee4d0 0%, #e4d8c0 100%) !important; }
 
 /* ── Scrollbar ────────────────────────────────────────── */
 ::-webkit-scrollbar { width: 5px; }

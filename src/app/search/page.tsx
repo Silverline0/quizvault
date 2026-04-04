@@ -140,7 +140,7 @@ export default function SearchPage() {
       {loading && (
         <div className="text-center py-12">
           <div
-            className="w-8 h-8 border-3 rounded-full animate-spin mx-auto mb-3"
+            className="w-10 h-10 border-4 rounded-full animate-spin mx-auto mb-3"
             style={{ borderColor: "var(--border)", borderTopColor: "var(--accent)" }}
           />
           <p className="text-sm" style={{ color: "var(--text-muted)" }}>Loading question database...</p>
@@ -179,11 +179,7 @@ export default function SearchPage() {
                         </p>
                         <div className="flex items-center gap-2 mt-1.5">
                           <span
-                            className="text-xs px-2 py-0.5 rounded-full font-medium"
-                            style={{
-                              backgroundColor: r.setInfo.source === "BCSC" ? "#dbeafe" : "#ede9fe",
-                              color: r.setInfo.source === "BCSC" ? "#1d4ed8" : "#6d28d9",
-                            }}
+                            className={`text-xs px-2 py-0.5 rounded-full font-medium ${r.setInfo.source === "BCSC" ? "badge-bcsc" : "badge-ophthoq"}`}
                           >
                             {r.setInfo.name}
                           </span>

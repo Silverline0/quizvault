@@ -147,7 +147,7 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
               bgColor = "var(--success-bg)";
               letterBg = "var(--success)";
               letterColor = "white";
-              shadow = isGlowing ? "0 0 20px rgba(22, 163, 74, 0.3)" : "var(--shadow-sm)";
+              shadow = isGlowing ? "0 0 20px color-mix(in srgb, var(--success) 30%, transparent)" : "var(--shadow-sm)";
               radioContent = (
                 <span className="w-6 h-6 rounded-full shrink-0 flex items-center justify-center" style={{ backgroundColor: "var(--success)" }}>
                   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3"><polyline points="20 6 9 17 4 12" /></svg>
