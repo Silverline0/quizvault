@@ -353,59 +353,53 @@ export default function QuizPage() {
         />
       </div>
 
-      {/* Sticky bottom navigation bar */}
-      {(showResult || answeredMap.size > 0) && (
-        <div
-          className="fixed bottom-0 left-0 right-0 p-4 z-30"
-          style={{ backgroundColor: "var(--bg-primary)", borderTop: "1px solid var(--border)", paddingBottom: "max(16px, env(safe-area-inset-bottom))" }}
-        >
-          <div className="max-w-2xl mx-auto flex gap-3">
-            {/* Previous button */}
-            <button
-              onClick={handlePrev}
-              disabled={currentIndex <= 0}
-              className="py-3.5 px-5 rounded-xl text-sm font-bold flex items-center justify-center gap-1.5 transition-opacity hover:opacity-90 disabled:opacity-30"
-              style={{
-                backgroundColor: "var(--bg-secondary)",
-                color: "var(--text-primary)",
-                border: "1px solid var(--border)",
-              }}
-            >
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
-                <polyline points="15 18 9 12 15 6" />
-              </svg>
-              Prev
-            </button>
+      {/* Sticky bottom navigation bar — always visible */}
+      <div
+        className="fixed bottom-0 left-0 right-0 p-4 z-30"
+        style={{ backgroundColor: "var(--bg-primary)", borderTop: "1px solid var(--border)", paddingBottom: "max(16px, env(safe-area-inset-bottom))" }}
+      >
+        <div className="max-w-2xl mx-auto flex gap-3">
+          {/* Previous button */}
+          <button
+            onClick={handlePrev}
+            disabled={currentIndex <= 0}
+            className="py-3.5 px-5 text-sm font-bold flex items-center justify-center gap-1.5 transition-opacity hover:opacity-90 disabled:opacity-30"
+            style={{
+              backgroundColor: "var(--bg-secondary)",
+              color: "var(--text-primary)",
+              border: "1px solid var(--border)",
+            }}
+          >
+            Prev
+          </button>
 
-            {/* Next button — full width with progress fill */}
+          {/* Next button — always visible, disabled until answered */}
+          <button
+            onClick={handleNext}
+            disabled={!showResult}
+            className="flex-1 py-3.5 text-base font-bold flex items-center justify-center gap-2 transition-opacity hover:opacity-90 disabled:opacity-40 relative overflow-hidden"
+            style={{
+              backgroundColor: showResult ? "var(--text-primary)" : "var(--bg-secondary)",
+              color: showResult ? "var(--bg-primary)" : "var(--text-muted)",
+              border: showResult ? "none" : "1px solid var(--border)",
+            }}
+          >
+            {/* Progress fill bar */}
             {showResult && (
-              <button
-                onClick={handleNext}
-                className="flex-1 py-3.5 rounded-xl text-base font-bold flex items-center justify-center gap-2 transition-opacity hover:opacity-90 relative overflow-hidden"
+              <span
+                className="absolute left-0 top-0 bottom-0 opacity-10 transition-all duration-500"
                 style={{
-                  backgroundColor: "var(--text-primary)",
-                  color: "var(--bg-primary)",
+                  width: `${questions.length > 0 ? ((currentIndex + 1) / questions.length * 100) : 0}%`,
+                  backgroundColor: "var(--bg-primary)",
                 }}
-              >
-                {/* Progress fill bar */}
-                <span
-                  className="absolute left-0 top-0 bottom-0 opacity-10 transition-all duration-500"
-                  style={{
-                    width: `${questions.length > 0 ? ((currentIndex + 1) / questions.length * 100) : 0}%`,
-                    backgroundColor: "var(--bg-primary)",
-                  }}
-                />
-                <span className="relative z-10 flex items-center gap-2">
-                  {currentIndex + 1 >= questions.length ? "Finish" : "Next"}
-                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
-                    <line x1="5" y1="12" x2="19" y2="12" /><polyline points="12 5 19 12 12 19" />
-                  </svg>
-                </span>
-              </button>
+              />
             )}
-          </div>
+            <span className="relative z-10 flex items-center gap-2">
+              {currentIndex + 1 >= questions.length ? "Finish" : "Next"}
+            </span>
+          </button>
         </div>
-      )}
+      </div>
 
       {/* Session summary modal */}
       {showSessionSummary && studySession && (

@@ -26,24 +26,37 @@ export default function CloudSync({ onSyncComplete }: { onSyncComplete?: () => v
     setLastSync(getLastSyncTime());
   }, []);
 
-  // Auto-load from cloud on first visit if sync code exists
+  // Auto-sync on every app open: load from cloud if it has more data
   useEffect(() => {
     const saved = getSyncCode();
     if (!saved) return;
 
-    const localProgress = getProgress();
-    // Only auto-load if local is empty (new device)
-    if (localProgress.answers.length === 0) {
-      loadFromCloud().then((cloudData) => {
-        if (cloudData && cloudData.answers.length > 0) {
-          saveProgress(cloudData);
-          setMessage(`Auto-loaded ${cloudData.answers.length} answers from cloud`);
-          setStatus("success");
-          setLastSync(getLastSyncTime());
-          onSyncComplete?.();
-        }
-      });
-    }
+    loadFromCloud().then((cloudData) => {
+      if (!cloudData) return;
+
+      const localProgress = getProgress();
+      const cloudAnswers = cloudData.answers?.length || 0;
+      const localAnswers = localProgress.answers?.length || 0;
+
+      if (cloudAnswers > localAnswers) {
+        // Cloud has more data — use cloud
+        saveProgress(cloudData);
+        setMessage(`Synced from cloud (${cloudAnswers} answers)`);
+        setStatus("success");
+        setLastSync(getLastSyncTime());
+        onSyncComplete?.();
+      } else if (localAnswers > cloudAnswers) {
+        // Local has more data — push to cloud
+        fetch("/api/sync", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ code: saved, data: localProgress }),
+        }).then(() => {
+          setLastSync(new Date().toLocaleString());
+        });
+      }
+      // If equal, do nothing — already in sync
+    });
   }, []);
 
   const handleConnect = async () => {
