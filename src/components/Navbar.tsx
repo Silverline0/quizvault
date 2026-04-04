@@ -63,7 +63,7 @@ export default function Navbar() {
 
   // Group question sets by category
   const categories = manifest?.categories || [];
-  const setsByCategory: Record<string, typeof manifest.questionSets> = {};
+  const setsByCategory: Record<string, Manifest["questionSets"]> = {};
   if (manifest) {
     for (const qs of manifest.questionSets) {
       const cat = qs.category || "other";
