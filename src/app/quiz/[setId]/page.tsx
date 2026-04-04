@@ -238,7 +238,7 @@ export default function QuizPage() {
     const handler = (e: KeyboardEvent) => {
       if (e.key === keyMap.prev || e.key === "ArrowLeft") {
         handlePrev();
-      } else if ((e.key === "Enter" || e.key === keyMap.next || e.key === "ArrowRight") && showResult) {
+      } else if (e.key === "Enter" || e.key === keyMap.next || e.key === "ArrowRight") {
         handleNext();
       }
     };
@@ -373,15 +373,14 @@ export default function QuizPage() {
             Prev
           </button>
 
-          {/* Next button — always visible, disabled until answered */}
+          {/* Next button — always enabled */}
           <button
             onClick={handleNext}
-            disabled={!showResult}
+            disabled={currentIndex + 1 >= questions.length && !showResult}
             className="flex-1 py-3.5 text-base font-bold flex items-center justify-center gap-2 transition-opacity hover:opacity-90 disabled:opacity-40 relative overflow-hidden"
             style={{
-              backgroundColor: showResult ? "var(--text-primary)" : "var(--bg-secondary)",
-              color: showResult ? "var(--bg-primary)" : "var(--text-muted)",
-              border: showResult ? "none" : "1px solid var(--border)",
+              backgroundColor: "var(--text-primary)",
+              color: "var(--bg-primary)",
             }}
           >
             {/* Progress fill bar */}
