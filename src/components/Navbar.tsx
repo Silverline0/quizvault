@@ -82,7 +82,7 @@ export default function Navbar() {
           borderBottom: "1px solid var(--border-subtle)",
         }}
       >
-        <div className="max-w-7xl mx-auto px-3 sm:px-4 h-11 sm:h-12 flex items-center justify-between">
+        <div className="max-w-7xl mx-auto px-3 sm:px-4 h-10 sm:h-12 flex items-center justify-between">
           {/* Left: hamburger + logo */}
           <div className="flex items-center gap-2">
             <button

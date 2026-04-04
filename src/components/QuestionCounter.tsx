@@ -15,9 +15,9 @@ export default function QuestionCounter({ current, total, correct, onMarkPreviou
   const [showMenu, setShowMenu] = useState(false);
 
   return (
-    <div className="mb-4">
+    <div className="mb-2">
       {/* Progress bar */}
-      <div className="w-full h-1 mb-3 overflow-hidden" style={{ backgroundColor: "var(--border)" }}>
+      <div className="w-full h-1 mb-2 overflow-hidden" style={{ backgroundColor: "var(--border)" }}>
         <div
           className="h-full transition-all duration-500"
           style={{ width: `${pct}%`, backgroundColor: "var(--accent)" }}

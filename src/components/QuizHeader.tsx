@@ -17,7 +17,7 @@ export default function QuizHeader({ title, backHref = "/", onBack }: QuizHeader
 
   return (
     <header
-      className="sticky top-0 z-40 h-12 sm:h-14 flex items-center px-3 sm:px-4 gap-2 backdrop-blur-md"
+      className="sticky top-0 z-40 h-10 sm:h-12 flex items-center px-3 sm:px-4 gap-2 backdrop-blur-md"
       style={{
         backgroundColor: "color-mix(in srgb, var(--bg-primary) 85%, transparent)",
         borderBottom: "1px solid var(--border-subtle)",

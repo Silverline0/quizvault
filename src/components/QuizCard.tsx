@@ -72,8 +72,8 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
 
   return (
     <div>
-      {/* Action buttons row — above question on mobile, inline on desktop */}
-      <div className="flex items-center justify-end gap-1 mb-2">
+      {/* Action buttons row — compact, right-aligned */}
+      <div className="flex items-center justify-end gap-0.5 mb-1">
         <button
           onClick={handleFlag}
           className="w-8 h-8 flex items-center justify-center transition-transform hover:scale-110"
@@ -102,7 +102,7 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
 
       {/* Question text — full width */}
       <h2
-        className="quiz-question text-xl md:text-2xl lg:text-3xl font-semibold leading-relaxed mb-5"
+        className="quiz-question text-lg md:text-2xl lg:text-3xl font-semibold leading-snug mb-3"
         style={{ color: "var(--text-primary)" }}
       >
         {question.question}

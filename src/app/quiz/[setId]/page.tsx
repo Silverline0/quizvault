@@ -354,7 +354,7 @@ export default function QuizPage() {
         onBack={() => answeredCount > 0 ? setShowSessionSummary(true) : router.push("/")}
       />
 
-      <div className="flex gap-6 max-w-7xl mx-auto px-4 lg:px-8 py-4">
+      <div className="flex gap-6 max-w-7xl mx-auto px-3 sm:px-4 lg:px-8 py-2 sm:py-4">
         {/* Main quiz column */}
         <div className="flex-1 min-w-0 pb-4">
           <QuestionCounter current={currentIndex} total={questions.length} correct={correctCount} onMarkPreviousAnswered={handleMarkPreviousAnswered} />
