@@ -3,7 +3,7 @@
 interface QuestionNavigatorProps {
   total: number;
   currentIndex: number;
-  answeredMap: Map<number, boolean>; // index -> correct
+  answeredMap: Map<number, boolean>;
   onJump: (index: number) => void;
   onMarkPreviousAnswered?: () => void;
 }
@@ -11,13 +11,24 @@ interface QuestionNavigatorProps {
 export default function QuestionNavigator({ total, currentIndex, answeredMap, onJump, onMarkPreviousAnswered }: QuestionNavigatorProps) {
   return (
     <div
-      className="hidden xl:block w-56 shrink-0 rounded-xl p-4 sticky top-20 max-h-[calc(100vh-6rem)] overflow-y-auto"
+      className="hidden xl:block w-56 shrink-0 p-4 sticky top-20 max-h-[calc(100vh-6rem)] overflow-y-auto"
       style={{ backgroundColor: "var(--bg-card)", border: "1px solid var(--border)" }}
     >
-      <h3 className="text-xs font-semibold mb-3 uppercase tracking-wider" style={{ color: "var(--text-muted)" }}>
-        Questions
-      </h3>
-      <div className="grid grid-cols-5 gap-2">
+      {/* Header with legend inline */}
+      <div className="flex items-center justify-between mb-3">
+        <h3 className="text-xs font-semibold uppercase tracking-wider" style={{ color: "var(--text-muted)" }}>
+          Questions
+        </h3>
+        <div className="flex items-center gap-2">
+          <span className="w-2 h-2" style={{ backgroundColor: "var(--accent)", borderRadius: "1px" }} title="Current" />
+          <span className="w-2 h-2" style={{ backgroundColor: "var(--success)", borderRadius: "1px" }} title="Correct" />
+          <span className="w-2 h-2" style={{ backgroundColor: "var(--error)", borderRadius: "1px" }} title="Wrong" />
+          <span className="w-2 h-2" style={{ backgroundColor: "var(--border)", borderRadius: "1px" }} title="Unanswered" />
+        </div>
+      </div>
+
+      {/* Question grid */}
+      <div className="grid grid-cols-5 gap-1.5">
         {Array.from({ length: total }, (_, i) => {
           const isCurrent = i === currentIndex;
           const answered = answeredMap.has(i);
@@ -45,10 +56,10 @@ export default function QuestionNavigator({ total, currentIndex, answeredMap, on
             <button
               key={i}
               onClick={() => onJump(i)}
-              className="w-9 h-9 rounded-lg text-xs font-semibold flex items-center justify-center transition-all hover:scale-105"
+              className="w-9 h-8 text-xs font-semibold flex items-center justify-center transition-all hover:scale-105"
               style={{
                 backgroundColor: bgColor,
-                border: `2px solid ${borderColor}`,
+                border: `1px solid ${borderColor}`,
                 color: textColor,
               }}
               title={`Question ${i + 1}`}
@@ -59,40 +70,19 @@ export default function QuestionNavigator({ total, currentIndex, answeredMap, on
         })}
       </div>
 
-      {/* Mark previous as answered */}
+      {/* Mark previous as done — subtle, at bottom */}
       {onMarkPreviousAnswered && currentIndex > 0 && (
         <button
           onClick={onMarkPreviousAnswered}
-          className="w-full mt-3 py-2 px-3 rounded-lg text-xs font-medium transition-opacity hover:opacity-80"
+          className="w-full mt-3 py-1.5 px-3 text-xs font-medium transition-opacity hover:opacity-70"
           style={{
-            backgroundColor: "var(--accent-light)",
-            color: "var(--accent)",
-            border: "1px solid var(--accent)",
+            color: "var(--text-muted)",
+            borderTop: "1px solid var(--border)",
           }}
         >
           Mark 1–{currentIndex} as done
         </button>
       )}
-
-      {/* Legend */}
-      <div className="mt-4 pt-3 space-y-1.5" style={{ borderTop: "1px solid var(--border)" }}>
-        <div className="flex items-center gap-2 text-xs" style={{ color: "var(--text-muted)" }}>
-          <span className="w-3 h-3 rounded-sm" style={{ border: "2px solid var(--accent)", backgroundColor: "var(--accent-light)" }} />
-          Current
-        </div>
-        <div className="flex items-center gap-2 text-xs" style={{ color: "var(--text-muted)" }}>
-          <span className="w-3 h-3 rounded-sm" style={{ border: "2px solid var(--success)", backgroundColor: "var(--success-bg)" }} />
-          Correct
-        </div>
-        <div className="flex items-center gap-2 text-xs" style={{ color: "var(--text-muted)" }}>
-          <span className="w-3 h-3 rounded-sm" style={{ border: "2px solid var(--error)", backgroundColor: "var(--error-bg)" }} />
-          Wrong
-        </div>
-        <div className="flex items-center gap-2 text-xs" style={{ color: "var(--text-muted)" }}>
-          <span className="w-3 h-3 rounded-sm" style={{ border: "2px solid var(--border)" }} />
-          Unanswered
-        </div>
-      </div>
     </div>
   );
 }

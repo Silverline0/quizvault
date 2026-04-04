@@ -15,10 +15,10 @@
   --accent-hover: #6d28d9;
   --accent-light: #ede9fe;
   --accent-glow: rgba(124, 58, 237, 0.08);
-  --success: #16a34a;
-  --success-bg: #dcfce7;
-  --error: #dc2626;
-  --error-bg: #fee2e2;
+  --success: #4ade80;
+  --success-bg: #f0fdf4;
+  --error: #f87171;
+  --error-bg: #fef2f2;
   --warning: #f59e0b;
   --warning-bg: #fef3c7;
   --shadow-sm: 0 1px 2px rgba(0,0,0,0.04);
@@ -27,10 +27,10 @@
   --shadow-glow: 0 0 0 3px var(--accent-glow);
   --font-body: 'DM Sans', system-ui, sans-serif;
   --font-display: 'Instrument Serif', Georgia, serif;
-  --radius-sm: 8px;
-  --radius-md: 12px;
-  --radius-lg: 16px;
-  --radius-xl: 20px;
+  --radius-sm: 2px;
+  --radius-md: 3px;
+  --radius-lg: 4px;
+  --radius-xl: 4px;
 }
 
 /* ── Dark Theme ───────────────────────────────────────── */
@@ -48,10 +48,10 @@
   --accent-hover: #c4b5fd;
   --accent-light: #1e1533;
   --accent-glow: rgba(167, 139, 250, 0.12);
-  --success: #22c55e;
-  --success-bg: #052e16;
-  --error: #ef4444;
-  --error-bg: #450a0a;
+  --success: #86efac;
+  --success-bg: #0a1f0f;
+  --error: #fca5a5;
+  --error-bg: #1f0a0a;
   --warning: #f59e0b;
   --warning-bg: #451a03;
   --shadow-sm: 0 1px 2px rgba(0,0,0,0.2);
@@ -74,10 +74,10 @@
   --accent-hover: #63401f;
   --accent-light: #efe4d0;
   --accent-glow: rgba(122, 78, 42, 0.12);
-  --success: #4a7a30;
-  --success-bg: #e0edcc;
-  --error: #a83828;
-  --error-bg: #f0d8d0;
+  --success: #7ab860;
+  --success-bg: #eef4e4;
+  --error: #d4806e;
+  --error-bg: #f4e4df;
   --warning: #b87820;
   --warning-bg: #f0e4c8;
   --shadow-sm: 0 1px 3px rgba(60,40,20,0.08);
@@ -174,6 +174,12 @@ body {
   border-radius: var(--radius-md);
   animation: scale-in 0.3s cubic-bezier(0.16, 1, 0.3, 1);
 }
+
+/* ── Sharp corners override ───────────────────────────── */
+.rounded-xl, .rounded-2xl { border-radius: 4px !important; }
+.rounded-lg { border-radius: 3px !important; }
+.rounded-md { border-radius: 2px !important; }
+.rounded-full:not(button):not([class*="w-6"]):not([class*="w-8"]):not([class*="w-11"]) { border-radius: 4px !important; }
 
 /* ── Font size responsive ─────────────────────────────── */
 [data-fontsize="small"] .quiz-question { font-size: 0.95rem !important; }
