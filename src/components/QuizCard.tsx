@@ -72,51 +72,41 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
 
   return (
     <div>
-      {/* Question header */}
-      <div className="flex items-start justify-between gap-3 mb-5">
-        <h2
-          className="quiz-question text-xl md:text-2xl lg:text-3xl font-semibold leading-relaxed flex-1"
-          style={{ color: "var(--text-primary)" }}
+      {/* Action buttons row — above question on mobile, inline on desktop */}
+      <div className="flex items-center justify-end gap-1 mb-2">
+        <button
+          onClick={handleFlag}
+          className="w-8 h-8 flex items-center justify-center transition-transform hover:scale-110"
+          style={{ color: flagged ? "var(--error)" : "var(--text-muted)" }}
+          title={flagged ? "Unflag" : "Flag for discussion"}
         >
-          {question.question}
-        </h2>
-        <div className="flex items-center gap-0.5 shrink-0">
-          {/* Flag button */}
-          <button
-            onClick={handleFlag}
-            className="w-11 h-11 rounded-full flex items-center justify-center transition-transform"
-            style={{
-              backgroundColor: flagged ? "var(--error-bg)" : "transparent",
-              transform: flagged ? "scale(1.1)" : "scale(1)",
-            }}
-            title={flagged ? "Unflag" : "Flag for discussion"}
-          >
-            <svg width="16" height="16" viewBox="0 0 24 24"
-              fill={flagged ? "var(--error)" : "none"}
-              stroke={flagged ? "var(--error)" : "var(--text-muted)"}
-              strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-              <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z" /><line x1="4" y1="22" x2="4" y2="15" />
-            </svg>
-          </button>
-          {/* Bookmark button */}
-          <button
-            onClick={handleBookmark}
-            className="w-11 h-11 rounded-full flex items-center justify-center transition-transform"
-            style={{
-              backgroundColor: bookmarked ? "var(--warning-bg)" : "transparent",
-              transform: bookmarked ? "scale(1.1)" : "scale(1)",
-            }}
-            title={bookmarked ? "Remove bookmark" : "Bookmark"}
-          >
-            <svg width="16" height="16" viewBox="0 0 24 24"
-              fill={bookmarked ? "var(--warning)" : "none"}
-              stroke={bookmarked ? "var(--warning)" : "var(--text-muted)"}
-              strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-              <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
-            </svg>
-          </button>
-        </div>
+          <svg width="14" height="14" viewBox="0 0 24 24"
+            fill={flagged ? "var(--error)" : "none"}
+            stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z" /><line x1="4" y1="22" x2="4" y2="15" />
+          </svg>
+        </button>
+        <button
+          onClick={handleBookmark}
+          className="w-8 h-8 flex items-center justify-center transition-transform hover:scale-110"
+          style={{ color: bookmarked ? "var(--warning)" : "var(--text-muted)" }}
+          title={bookmarked ? "Remove bookmark" : "Bookmark"}
+        >
+          <svg width="14" height="14" viewBox="0 0 24 24"
+            fill={bookmarked ? "var(--warning)" : "none"}
+            stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
+          </svg>
+        </button>
       </div>
+
+      {/* Question text — full width */}
+      <h2
+        className="quiz-question text-xl md:text-2xl lg:text-3xl font-semibold leading-relaxed mb-5"
+        style={{ color: "var(--text-primary)" }}
+      >
+        {question.question}
+      </h2>
 
       {/* Question image with zoom */}
       {question.imageUrl && (
