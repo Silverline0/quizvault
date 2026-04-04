@@ -12,7 +12,9 @@ import ExplanationPanel from "@/components/ExplanationPanel";
 import QuestionCounter from "@/components/QuestionCounter";
 import QuizHeader from "@/components/QuizHeader";
 import QuestionNavigator from "@/components/QuestionNavigator";
+import SessionSummary from "@/components/SessionSummary";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 
 export default function QuizPage() {
   const params = useParams();
@@ -33,6 +35,8 @@ export default function QuizPage() {
   const [answerRecord, setAnswerRecord] = useState<Map<number, string>>(new Map());
   const [studySession, setStudySession] = useState<StudySession | null>(null);
   const [questionStartTime, setQuestionStartTime] = useState(Date.now());
+  const [showSessionSummary, setShowSessionSummary] = useState(false);
+  const router = useRouter();
 
   // Track last active set for "Continue where you left off"
   useEffect(() => {
@@ -294,7 +298,17 @@ export default function QuizPage() {
 
   return (
     <>
-      <QuizHeader title={setName} />
+      <QuizHeader title={setName} backHref="#" />
+      {/* Override back with session summary */}
+      <div className="absolute top-0 left-0 z-50">
+        <button
+          onClick={() => answeredCount > 0 ? setShowSessionSummary(true) : router.push("/")}
+          className="w-14 h-14 flex items-center justify-center"
+          style={{ color: "var(--text-primary)" }}
+        >
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><polyline points="15 18 9 12 15 6" /></svg>
+        </button>
+      </div>
 
       <div className="flex gap-6 max-w-5xl mx-auto px-4 py-4">
         {/* Main quiz column */}
@@ -353,24 +367,48 @@ export default function QuizPage() {
               Prev
             </button>
 
-            {/* Next button — full width */}
+            {/* Next button — full width with progress fill */}
             {showResult && (
               <button
                 onClick={handleNext}
-                className="flex-1 py-3.5 rounded-xl text-base font-bold flex items-center justify-center gap-2 transition-opacity hover:opacity-90"
+                className="flex-1 py-3.5 rounded-xl text-base font-bold flex items-center justify-center gap-2 transition-opacity hover:opacity-90 relative overflow-hidden"
                 style={{
                   backgroundColor: "var(--text-primary)",
                   color: "var(--bg-primary)",
                 }}
               >
-                {currentIndex + 1 >= questions.length ? "Finish" : "Next"}
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
-                  <line x1="5" y1="12" x2="19" y2="12" /><polyline points="12 5 19 12 12 19" />
-                </svg>
+                {/* Progress fill bar */}
+                <span
+                  className="absolute left-0 top-0 bottom-0 opacity-10 transition-all duration-500"
+                  style={{
+                    width: `${questions.length > 0 ? ((currentIndex + 1) / questions.length * 100) : 0}%`,
+                    backgroundColor: "var(--bg-primary)",
+                  }}
+                />
+                <span className="relative z-10 flex items-center gap-2">
+                  {currentIndex + 1 >= questions.length ? "Finish" : "Next"}
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+                    <line x1="5" y1="12" x2="19" y2="12" /><polyline points="12 5 19 12 12 19" />
+                  </svg>
+                </span>
               </button>
             )}
           </div>
         </div>
+      )}
+
+      {/* Session summary modal */}
+      {showSessionSummary && studySession && (
+        <SessionSummary
+          questionsAnswered={answeredCount}
+          correctCount={correctCount}
+          startTime={studySession.startTime}
+          onClose={() => {
+            if (studySession) endStudySession(studySession);
+            router.push("/");
+          }}
+          onContinue={() => setShowSessionSummary(false)}
+        />
       )}
     </>
   );

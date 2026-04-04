@@ -2,7 +2,8 @@
 
 import { Question } from "@/lib/types";
 import { useCallback, useEffect, useState } from "react";
-import { isBookmarked, toggleBookmark } from "@/lib/store";
+import { isBookmarked, toggleBookmark, isFlagged, toggleFlagged } from "@/lib/store";
+import { triggerHaptic, getSetting } from "@/lib/settings";
 import ImageZoom from "@/components/ImageZoom";
 
 interface QuizCardProps {
@@ -14,27 +15,41 @@ interface QuizCardProps {
 
 export default function QuizCard({ question, onAnswer, showResult, selectedAnswer }: QuizCardProps) {
   const [bookmarked, setBookmarked] = useState(false);
+  const [flagged, setFlagged] = useState(false);
+  const [glowKey, setGlowKey] = useState<string | null>(null);
 
   useEffect(() => {
     setBookmarked(isBookmarked(question.id, question.source));
+    setFlagged(isFlagged(question.id, question.source));
+    setGlowKey(null);
   }, [question.id, question.source]);
 
   const handleSelect = useCallback(
     (key: string) => {
       if (showResult) return;
-      onAnswer(key, key === question.correctAnswer);
+      const correct = key === question.correctAnswer;
+      onAnswer(key, correct);
+      triggerHaptic(correct ? "success" : "error");
+
+      // Trigger glow animation on correct answer
+      if (correct) {
+        setGlowKey(key);
+      }
     },
     [showResult, onAnswer, question.correctAnswer]
   );
 
   // Keyboard shortcuts
   useEffect(() => {
+    if (showResult) return;
+    const settings = typeof window !== "undefined" ? getSetting("keyMap") : null;
     const handler = (e: KeyboardEvent) => {
-      if (showResult) return;
-      const key = e.key.toUpperCase();
-      if (["A", "B", "C", "D", "E"].includes(key) && question.options[key]) {
-        handleSelect(key);
-      }
+      if (!settings) return;
+      const keyUpper = e.key.toUpperCase();
+      if (keyUpper === settings.optionA.toUpperCase() && question.options["A"]) handleSelect("A");
+      else if (keyUpper === settings.optionB.toUpperCase() && question.options["B"]) handleSelect("B");
+      else if (keyUpper === settings.optionC.toUpperCase() && question.options["C"]) handleSelect("C");
+      else if (keyUpper === settings.optionD.toUpperCase() && question.options["D"]) handleSelect("D");
     };
     window.addEventListener("keydown", handler);
     return () => window.removeEventListener("keydown", handler);
@@ -43,104 +58,121 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
   const handleBookmark = () => {
     toggleBookmark(question.id, question.source);
     setBookmarked(!bookmarked);
+    triggerHaptic("light");
+  };
+
+  const handleFlag = () => {
+    toggleFlagged(question.id, question.source);
+    setFlagged(!flagged);
+    triggerHaptic("light");
   };
 
   const optionKeys = Object.keys(question.options).sort();
+  const showHints = typeof window !== "undefined" ? getSetting("showKeyboardHints") : true;
 
   return (
     <div>
       {/* Question header */}
       <div className="flex items-start justify-between gap-3 mb-5">
-        <div className="flex-1">
-          <h2 className="text-lg md:text-xl font-semibold leading-relaxed" style={{ color: "var(--text-primary)" }}>
-            {question.question}
-          </h2>
-        </div>
-        <button
-          onClick={handleBookmark}
-          className="shrink-0 mt-1 w-9 h-9 rounded-full flex items-center justify-center hover:scale-110 transition-transform"
-          style={{ backgroundColor: bookmarked ? "var(--warning-bg)" : "transparent" }}
-          title={bookmarked ? "Remove bookmark" : "Bookmark this question"}
+        <h2
+          className="text-lg md:text-xl font-semibold leading-relaxed flex-1"
+          style={{ color: "var(--text-primary)" }}
         >
-          <svg
-            width="20"
-            height="20"
-            viewBox="0 0 24 24"
-            fill={bookmarked ? "var(--warning)" : "none"}
-            stroke={bookmarked ? "var(--warning)" : "var(--text-muted)"}
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
+          {question.question}
+        </h2>
+        <div className="flex items-center gap-1 shrink-0">
+          {/* Flag button */}
+          <button
+            onClick={handleFlag}
+            className="w-9 h-9 rounded-full flex items-center justify-center transition-transform"
+            style={{
+              backgroundColor: flagged ? "var(--error-bg)" : "transparent",
+              transform: flagged ? "scale(1.1)" : "scale(1)",
+            }}
+            title={flagged ? "Unflag" : "Flag for discussion"}
           >
-            <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
-          </svg>
-        </button>
+            <svg width="16" height="16" viewBox="0 0 24 24"
+              fill={flagged ? "var(--error)" : "none"}
+              stroke={flagged ? "var(--error)" : "var(--text-muted)"}
+              strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z" /><line x1="4" y1="22" x2="4" y2="15" />
+            </svg>
+          </button>
+          {/* Bookmark button */}
+          <button
+            onClick={handleBookmark}
+            className="w-9 h-9 rounded-full flex items-center justify-center transition-transform"
+            style={{
+              backgroundColor: bookmarked ? "var(--warning-bg)" : "transparent",
+              transform: bookmarked ? "scale(1.1)" : "scale(1)",
+            }}
+            title={bookmarked ? "Remove bookmark" : "Bookmark"}
+          >
+            <svg width="16" height="16" viewBox="0 0 24 24"
+              fill={bookmarked ? "var(--warning)" : "none"}
+              stroke={bookmarked ? "var(--warning)" : "var(--text-muted)"}
+              strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
+            </svg>
+          </button>
+        </div>
       </div>
 
       {/* Question image with zoom */}
       {question.imageUrl && (
         <div className="mb-5" style={{ border: "1px solid var(--border)", borderRadius: "var(--radius-lg)" }}>
-          <ImageZoom
-            src={question.imageUrl}
-            alt={`Clinical image for question ${question.id}`}
-          />
+          <ImageZoom src={question.imageUrl} alt={`Clinical image for question ${question.id}`} />
         </div>
       )}
 
-      {/* Options — bordered cards with radio circle on right */}
+      {/* Options — bordered cards with circled letter badge + radio circle */}
       <div className="space-y-3">
         {optionKeys.map((key) => {
           const isSelected = selectedAnswer === key;
           const isCorrect = key === question.correctAnswer;
+          const isGlowing = glowKey === key;
 
           let borderColor = "var(--border)";
-          let bgColor = "transparent";
+          let bgColor = "var(--bg-card)";
+          let letterBg = "var(--bg-secondary)";
+          let letterColor = "var(--text-muted)";
+          let shadow = "var(--shadow-sm)";
           let radioContent: React.ReactNode = (
-            <span
-              className="w-6 h-6 rounded-full shrink-0"
-              style={{ border: "2px solid var(--border)" }}
-            />
+            <span className="w-6 h-6 rounded-full shrink-0" style={{ border: "2px solid var(--border)" }} />
           );
 
           if (showResult) {
             if (isCorrect) {
               borderColor = "var(--success)";
               bgColor = "var(--success-bg)";
+              letterBg = "var(--success)";
+              letterColor = "white";
+              shadow = isGlowing ? "0 0 20px rgba(22, 163, 74, 0.3)" : "var(--shadow-sm)";
               radioContent = (
-                <span
-                  className="w-6 h-6 rounded-full shrink-0 flex items-center justify-center"
-                  style={{ backgroundColor: "var(--success)" }}
-                >
-                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
-                    <polyline points="20 6 9 17 4 12" />
-                  </svg>
+                <span className="w-6 h-6 rounded-full shrink-0 flex items-center justify-center" style={{ backgroundColor: "var(--success)" }}>
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3"><polyline points="20 6 9 17 4 12" /></svg>
                 </span>
               );
             } else if (isSelected && !isCorrect) {
               borderColor = "var(--error)";
               bgColor = "var(--error-bg)";
+              letterBg = "var(--error)";
+              letterColor = "white";
               radioContent = (
-                <span
-                  className="w-6 h-6 rounded-full shrink-0 flex items-center justify-center"
-                  style={{ backgroundColor: "var(--error)" }}
-                >
-                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
-                    <line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" />
-                  </svg>
+                <span className="w-6 h-6 rounded-full shrink-0 flex items-center justify-center" style={{ backgroundColor: "var(--error)" }}>
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
                 </span>
               );
             }
           } else if (isSelected) {
             borderColor = "var(--accent)";
             bgColor = "var(--accent-light)";
+            letterBg = "var(--accent)";
+            letterColor = "white";
+            shadow = "var(--shadow-glow)";
             radioContent = (
-              <span
-                className="w-6 h-6 rounded-full shrink-0 flex items-center justify-center"
-                style={{ backgroundColor: "var(--accent)" }}
-              >
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
-                  <polyline points="20 6 9 17 4 12" />
-                </svg>
+              <span className="w-6 h-6 rounded-full shrink-0 flex items-center justify-center" style={{ backgroundColor: "var(--accent)" }}>
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3"><polyline points="20 6 9 17 4 12" /></svg>
               </span>
             );
           }
@@ -150,15 +182,22 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
               key={key}
               onClick={() => handleSelect(key)}
               disabled={showResult}
-              className="option-card w-full text-left px-4 py-3.5 rounded-xl flex items-center justify-between gap-3"
+              className="option-card w-full text-left px-4 py-3.5 rounded-xl flex items-center gap-3"
               style={{
                 border: `2px solid ${borderColor}`,
                 backgroundColor: bgColor,
+                boxShadow: shadow,
                 cursor: showResult ? "default" : "pointer",
               }}
             >
-              <span className="text-sm md:text-base leading-relaxed" style={{ color: "var(--text-primary)" }}>
-                <span className="font-semibold" style={{ color: "var(--text-secondary)" }}>{key}.</span>{" "}
+              {/* Circled letter badge */}
+              <span
+                className="w-8 h-8 rounded-full flex items-center justify-center text-xs font-bold shrink-0 transition-colors"
+                style={{ backgroundColor: letterBg, color: letterColor }}
+              >
+                {key}
+              </span>
+              <span className="flex-1 text-sm md:text-base leading-relaxed" style={{ color: "var(--text-primary)" }}>
                 {question.options[key]}
               </span>
               {radioContent}
@@ -168,12 +207,14 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
       </div>
 
       {/* Keyboard hint */}
-      {!showResult && (
+      {!showResult && showHints && (
         <p className="text-xs mt-3 text-center" style={{ color: "var(--text-muted)" }}>
-          Press <kbd className="px-1.5 py-0.5 rounded text-xs font-mono" style={{ backgroundColor: "var(--bg-secondary)" }}>A</kbd>
-          {" "}<kbd className="px-1.5 py-0.5 rounded text-xs font-mono" style={{ backgroundColor: "var(--bg-secondary)" }}>B</kbd>
-          {" "}<kbd className="px-1.5 py-0.5 rounded text-xs font-mono" style={{ backgroundColor: "var(--bg-secondary)" }}>C</kbd>
-          {" "}<kbd className="px-1.5 py-0.5 rounded text-xs font-mono" style={{ backgroundColor: "var(--bg-secondary)" }}>D</kbd>
+          Press{" "}
+          {optionKeys.map((k) => (
+            <kbd key={k} className="px-1.5 py-0.5 rounded text-xs font-mono mx-0.5" style={{ backgroundColor: "var(--bg-secondary)" }}>
+              {k}
+            </kbd>
+          ))}
           {" "}to select
         </p>
       )}

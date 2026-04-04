@@ -9,6 +9,8 @@ import {
   getStudyTimeStats, getSpacedRepStats,
 } from "@/lib/store";
 import CloudSync from "@/components/CloudSync";
+import StreakCalendar from "@/components/StreakCalendar";
+import { getDecayWarnings } from "@/lib/store";
 
 const MODES: { id: QuizMode; label: string; desc: string; icon: string }[] = [
   { id: "sequential", label: "Sequential", desc: "In order, resume where you left off", icon: "→" },
@@ -28,6 +30,7 @@ export default function HomePage() {
   const [studyTime, setStudyTime] = useState({ totalHours: 0, avgSessionMin: 0, sessionCount: 0 });
   const [spacedRepStats, setSpacedRepStats] = useState({ total: 0, due: 0, mastered: 0, learning: 0 });
   const [dueCount, setDueCount] = useState(0);
+  const [decayWarnings, setDecayWarnings] = useState<{ source: string; name: string; daysSince: number }[]>([]);
 
   useEffect(() => {
     fetch("/data/manifest.json")
@@ -46,6 +49,7 @@ export default function HomePage() {
     setSpacedRepStats(getSpacedRepStats());
     setDueCount(getDueForReview().length);
     if (manifest) {
+      setDecayWarnings(getDecayWarnings(manifest).slice(0, 3));
       const mc: Record<string, number> = {};
       const pos: Record<string, number> = {};
       for (const s of manifest.questionSets) {
@@ -212,6 +216,28 @@ export default function HomePage() {
         </div>
       )}
 
+      {/* Decay warnings */}
+      {decayWarnings.length > 0 && !selectedCategory && (
+        <div className="rounded-xl p-4 mb-6" style={{ backgroundColor: "var(--bg-card)", border: "1px solid var(--warning)", boxShadow: "var(--shadow-sm)" }}>
+          <p className="text-xs font-semibold uppercase tracking-wider mb-2" style={{ color: "var(--warning)" }}>
+            Knowledge Decay
+          </p>
+          {decayWarnings.map((w) => (
+            <p key={w.source} className="text-sm mb-0.5" style={{ color: "var(--text-secondary)" }}>
+              <span className="font-medium" style={{ color: "var(--text-primary)" }}>{w.name}</span>
+              {" "}— not reviewed in {w.daysSince} days
+            </p>
+          ))}
+        </div>
+      )}
+
+      {/* Streak calendar */}
+      {overallStats.total > 0 && !selectedCategory && (
+        <div className="mb-6">
+          <StreakCalendar />
+        </div>
+      )}
+
       {/* Step 1: Choose Subspecialty */}
       {!selectedCategory && categories.length > 0 && (
         <div className="mb-6">
@@ -225,8 +251,8 @@ export default function HomePage() {
                 <button
                   key={cat.id}
                   onClick={() => { setSelectedCategory(cat.id); setSelectedSet(null); }}
-                  className="text-left px-4 py-4 rounded-xl transition-all hover:shadow-md"
-                  style={{ backgroundColor: "var(--bg-card)", border: "1px solid var(--border)", boxShadow: "var(--shadow-sm)" }}
+                  className={`text-left px-4 py-4 rounded-xl transition-all hover:shadow-md cat-${cat.id}`}
+                  style={{ border: "1px solid var(--border)", boxShadow: "var(--shadow-sm)" }}
                 >
                   <div className="text-2xl mb-1">{cat.icon}</div>
                   <div className="font-semibold text-sm" style={{ color: "var(--text-primary)" }}>{cat.name}</div>

@@ -269,6 +269,47 @@ export function getWeakAreas(): { source: string; accuracy: number; totalAnswere
     .sort((a, b) => a.accuracy - b.accuracy);
 }
 
+// ── Knowledge Decay ──────────────────────────────────
+
+export function getDecayWarnings(manifest?: { questionSets: { id: string; name: string }[] }): { source: string; name: string; daysSince: number }[] {
+  const progress = getProgress();
+  const now = Date.now();
+  const thirtyDays = 30 * 24 * 60 * 60 * 1000;
+
+  // Group answers by source, find latest timestamp per source
+  const lastActivity = new Map<string, number>();
+  for (const a of progress.answers) {
+    const existing = lastActivity.get(a.source) || 0;
+    if (a.timestamp > existing) lastActivity.set(a.source, a.timestamp);
+  }
+
+  const warnings: { source: string; name: string; daysSince: number }[] = [];
+  for (const [source, lastTs] of lastActivity) {
+    const elapsed = now - lastTs;
+    if (elapsed > thirtyDays) {
+      const daysSince = Math.floor(elapsed / (24 * 60 * 60 * 1000));
+      const setInfo = manifest?.questionSets.find(s => s.id === source);
+      warnings.push({ source, name: setInfo?.name || source, daysSince });
+    }
+  }
+
+  return warnings.sort((a, b) => b.daysSince - a.daysSince);
+}
+
+// ── Streak Calendar ──────────────────────────────────
+
+export function getStudyDays(): Map<string, number> {
+  const progress = getProgress();
+  const dayMap = new Map<string, number>(); // "YYYY-MM-DD" -> question count
+
+  for (const a of progress.answers) {
+    const date = new Date(a.timestamp).toISOString().slice(0, 10);
+    dayMap.set(date, (dayMap.get(date) || 0) + 1);
+  }
+
+  return dayMap;
+}
+
 // ── Export / Import ──────────────────────────────────────
 
 export function exportProgress(): string {

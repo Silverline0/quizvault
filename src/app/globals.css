@@ -59,30 +59,31 @@
   --shadow-lg: 0 8px 30px rgba(0,0,0,0.4);
 }
 
-/* ── Sepia Theme ──────────────────────────────────────── */
+/* ── Sepia Theme — Old Parchment ──────────────────────── */
 [data-theme="sepia"] {
-  --bg-primary: #f4f0e8;
-  --bg-secondary: #ebe6db;
-  --bg-card: #faf7f0;
-  --bg-elevated: #faf7f0;
-  --text-primary: #3d3229;
-  --text-secondary: #6b5d52;
-  --text-muted: #a09080;
-  --border: #ddd5c8;
-  --border-subtle: #ebe6db;
-  --accent: #8b5e3c;
-  --accent-hover: #724d31;
-  --accent-light: #f5ece0;
-  --accent-glow: rgba(139, 94, 60, 0.1);
-  --success: #5a8a3c;
-  --success-bg: #e8f0e0;
-  --error: #b84233;
-  --error-bg: #f5e0dd;
-  --warning: #c88a2e;
-  --warning-bg: #f5ecd8;
-  --shadow-sm: 0 1px 2px rgba(60,40,20,0.06);
-  --shadow-md: 0 4px 12px rgba(60,40,20,0.08);
-  --shadow-lg: 0 8px 30px rgba(60,40,20,0.1);
+  --bg-primary: #f0e8d8;
+  --bg-secondary: #e8dfc8;
+  --bg-card: #f7f0e0;
+  --bg-elevated: #f7f0e0;
+  --text-primary: #2e2418;
+  --text-secondary: #5c4d3c;
+  --text-muted: #9a876e;
+  --border: #d4c8b0;
+  --border-subtle: #e0d8c4;
+  --accent: #7a4e2a;
+  --accent-hover: #63401f;
+  --accent-light: #efe4d0;
+  --accent-glow: rgba(122, 78, 42, 0.12);
+  --success: #4a7a30;
+  --success-bg: #e0edcc;
+  --error: #a83828;
+  --error-bg: #f0d8d0;
+  --warning: #b87820;
+  --warning-bg: #f0e4c8;
+  --shadow-sm: 0 1px 3px rgba(60,40,20,0.08);
+  --shadow-md: 0 4px 12px rgba(60,40,20,0.10);
+  --shadow-lg: 0 8px 30px rgba(60,40,20,0.12);
+  --font-body: 'DM Sans', Georgia, serif;
 }
 
 /* ── Base ─────────────────────────────────────────────── */
@@ -172,6 +173,51 @@ body {
   object-fit: contain;
   border-radius: var(--radius-md);
   animation: scale-in 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* ── Paper grain texture ──────────────────────────────── */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.015;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  mix-blend-mode: multiply;
+}
+
+[data-theme="sepia"] body::before {
+  opacity: 0.04;
+}
+
+[data-theme="dark"] body::before {
+  opacity: 0.03;
+  mix-blend-mode: soft-light;
+}
+
+/* ── Category gradient cards ──────────────────────────── */
+.cat-fundamentals { background: linear-gradient(135deg, #f0f4ff 0%, #e8eeff 100%); }
+.cat-cornea { background: linear-gradient(135deg, #f0faff 0%, #e0f4ff 100%); }
+.cat-lens-cataract { background: linear-gradient(135deg, #fef9f0 0%, #fef0d8 100%); }
+.cat-glaucoma { background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); }
+.cat-retina { background: linear-gradient(135deg, #faf0ff 0%, #f0e0ff 100%); }
+.cat-uveitis { background: linear-gradient(135deg, #fff5f5 0%, #ffe8e8 100%); }
+.cat-neuro { background: linear-gradient(135deg, #f8f0ff 0%, #ede0ff 100%); }
+.cat-oculoplastics { background: linear-gradient(135deg, #fff8f0 0%, #ffeedc 100%); }
+.cat-pediatrics { background: linear-gradient(135deg, #f0fffc 0%, #d8fff4 100%); }
+
+[data-theme="dark"] .cat-fundamentals,
+[data-theme="dark"] .cat-cornea,
+[data-theme="dark"] .cat-lens-cataract,
+[data-theme="dark"] .cat-glaucoma,
+[data-theme="dark"] .cat-retina,
+[data-theme="dark"] .cat-uveitis,
+[data-theme="dark"] .cat-neuro,
+[data-theme="dark"] .cat-oculoplastics,
+[data-theme="dark"] .cat-pediatrics {
+  background: var(--bg-card) !important;
 }
 
 /* ── Scrollbar ────────────────────────────────────────── */
