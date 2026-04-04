@@ -5,7 +5,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import { Question, QuizMode } from "@/lib/types";
 import { loadQuestionSet } from "@/lib/quiz-engine";
 import { buildQuizQueue, getStartIndex } from "@/lib/quiz-engine";
-import { recordAnswer, saveLastPosition, saveLastActive, updateSpacedRep, startStudySession, endStudySession } from "@/lib/store";
+import { recordAnswer, saveLastPosition, saveLastActive, updateSpacedRep, startStudySession, endStudySession, getAnswersForSet } from "@/lib/store";
 import { getSetting } from "@/lib/settings";
 import { StudySession } from "@/lib/types";
 import QuizCard from "@/components/QuizCard";
@@ -87,6 +87,40 @@ export default function QuizPage() {
         const start = getStartIndex(mode, setId);
         setQuestions(queue);
         setCurrentIndex(Math.min(start, queue.length - 1));
+
+        // Hydrate sidebar dots from historical answers stored in localStorage
+        const historicalAnswers = getAnswersForSet(setId);
+        if (historicalAnswers.length > 0) {
+          // Build a map of questionId -> latest answer
+          const latestByQuestion = new Map<number, { correct: boolean; selectedAnswer: string; timestamp: number }>();
+          for (const a of historicalAnswers) {
+            const existing = latestByQuestion.get(a.questionId);
+            if (!existing || a.timestamp > existing.timestamp) {
+              latestByQuestion.set(a.questionId, { correct: a.correct, selectedAnswer: a.selectedAnswer, timestamp: a.timestamp });
+            }
+          }
+
+          // Map queue indices to historical answers
+          const restoredAnsweredMap = new Map<number, boolean>();
+          const restoredAnswerRecord = new Map<number, string>();
+          let restoredCorrect = 0;
+
+          for (let i = 0; i < queue.length; i++) {
+            const entry = latestByQuestion.get(queue[i].id);
+            if (entry) {
+              restoredAnsweredMap.set(i, entry.correct);
+              restoredAnswerRecord.set(i, entry.selectedAnswer);
+              if (entry.correct) restoredCorrect++;
+            }
+          }
+
+          if (restoredAnsweredMap.size > 0) {
+            setAnsweredMap(restoredAnsweredMap);
+            setAnswerRecord(restoredAnswerRecord);
+            setAnsweredCount(restoredAnsweredMap.size);
+            setCorrectCount(restoredCorrect);
+          }
+        }
       } catch (err) {
         console.error("Failed to load questions:", err);
       } finally {
@@ -320,9 +354,9 @@ export default function QuizPage() {
         onBack={() => answeredCount > 0 ? setShowSessionSummary(true) : router.push("/")}
       />
 
-      <div className="flex gap-6 max-w-5xl mx-auto px-4 py-4">
+      <div className="flex gap-6 max-w-7xl mx-auto px-4 lg:px-8 py-4">
         {/* Main quiz column */}
-        <div className="flex-1 min-w-0 pb-24">
+        <div className="flex-1 min-w-0 pb-4">
           <QuestionCounter current={currentIndex} total={questions.length} correct={correctCount} onMarkPreviousAnswered={handleMarkPreviousAnswered} />
 
           {/* Question with slide animation */}

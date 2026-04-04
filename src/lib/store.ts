@@ -303,7 +303,9 @@ export function getStudyDays(): Map<string, number> {
   const dayMap = new Map<string, number>(); // "YYYY-MM-DD" -> question count
 
   for (const a of progress.answers) {
-    const date = new Date(a.timestamp).toISOString().slice(0, 10);
+    const d = new Date(a.timestamp);
+    // Use local date so studying at 11pm doesn't show as next day
+    const date = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
     dayMap.set(date, (dayMap.get(date) || 0) + 1);
   }
 

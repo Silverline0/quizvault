@@ -75,7 +75,7 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
       {/* Question header */}
       <div className="flex items-start justify-between gap-3 mb-5">
         <h2
-          className="quiz-question text-lg md:text-xl font-semibold leading-relaxed flex-1"
+          className="quiz-question text-xl md:text-2xl lg:text-3xl font-semibold leading-relaxed flex-1"
           style={{ color: "var(--text-primary)" }}
         >
           {question.question}
@@ -126,7 +126,7 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
       )}
 
       {/* Options — 2x2 grid on desktop, single column on mobile */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-3 lg:gap-4 md:min-h-[200px]">
         {optionKeys.map((key) => {
           const isSelected = selectedAnswer === key;
           const isCorrect = key === question.correctAnswer;
