@@ -77,6 +77,7 @@ export default function Navbar() {
             { href: "/exam", label: "Exam" },
             { href: "/review", label: "Review" },
             { href: "/stats", label: "Stats" },
+            { href: "/settings", label: "Settings" },
           ].map((link) => (
             <Link
               key={link.href}
