@@ -7,6 +7,7 @@ export interface Question {
   explanation: string;
   respondentStats?: Record<string, number> | null;
   imageUrl?: string | null;
+  imageUrls?: string[];
   highYield?: boolean | null;
 }
 

@@ -78,7 +78,10 @@
     "correctAnswer": "C",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p4_img1.png"
+    "imageUrl": "/images/uveitis-oq/p4_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p4_img2.png"
+    ]
   },
   {
     "id": 4,
@@ -213,7 +216,10 @@
     "correctAnswer": "B",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p10_img1.png"
+    "imageUrl": "/images/uveitis-oq/p10_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p9_img1.png"
+    ]
   },
   {
     "id": 9,
@@ -240,7 +246,11 @@
     "correctAnswer": "D",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p12_img1.png"
+    "imageUrl": "/images/uveitis-oq/p12_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p12_img2.png",
+      "/images/uveitis-oq/p13_img1.png"
+    ]
   },
   {
     "id": 10,
@@ -456,7 +466,12 @@
     "correctAnswer": "D",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p19_img1.png"
+    "imageUrl": "/images/uveitis-oq/p19_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p19_img2.png",
+      "/images/uveitis-oq/p20_img1.png",
+      "/images/uveitis-oq/p20_img2.png"
+    ]
   },
   {
     "id": 18,
@@ -668,7 +683,10 @@
     "correctAnswer": "B",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p29_img1.png"
+    "imageUrl": "/images/uveitis-oq/p29_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p29_img2.png"
+    ]
   },
   {
     "id": 26,
@@ -722,7 +740,13 @@
     "correctAnswer": "A",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p30_img1.png"
+    "imageUrl": "/images/uveitis-oq/p30_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p30_img2.png",
+      "/images/uveitis-oq/p31_img1.png",
+      "/images/uveitis-oq/p31_img2.png",
+      "/images/uveitis-oq/p32_img1.png"
+    ]
   },
   {
     "id": 28,
@@ -776,7 +800,11 @@
     "correctAnswer": "D",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p34_img1.png"
+    "imageUrl": "/images/uveitis-oq/p34_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p35_img1.png",
+      "/images/uveitis-oq/p35_img2.png"
+    ]
   },
   {
     "id": 30,
@@ -830,7 +858,10 @@
     "correctAnswer": "B",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p37_img1.png"
+    "imageUrl": "/images/uveitis-oq/p37_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p136_img1.png"
+    ]
   },
   {
     "id": 32,
@@ -857,7 +888,10 @@
     "correctAnswer": "C",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p38_img1.png"
+    "imageUrl": "/images/uveitis-oq/p38_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p38_img2.png"
+    ]
   },
   {
     "id": 33,
@@ -911,7 +945,10 @@
     "correctAnswer": "B",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p39_img1.png"
+    "imageUrl": "/images/uveitis-oq/p39_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p41_img1.png"
+    ]
   },
   {
     "id": 35,
@@ -965,7 +1002,11 @@
     "correctAnswer": "A",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p42_img1.png"
+    "imageUrl": "/images/uveitis-oq/p42_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p43_img1.png",
+      "/images/uveitis-oq/p43_img2.png"
+    ]
   },
   {
     "id": 37,
@@ -1019,7 +1060,10 @@
     "correctAnswer": "C",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p25_img1.png"
+    "imageUrl": "/images/uveitis-oq/p25_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p45_img1.png"
+    ]
   },
   {
     "id": 39,
@@ -1073,7 +1117,10 @@
     "correctAnswer": "B",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": null
+    "imageUrl": null,
+    "imageUrls": [
+      "/images/uveitis-oq/p48_img1.png"
+    ]
   },
   {
     "id": 41,
@@ -1343,7 +1390,10 @@
     "correctAnswer": "C",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p56_img1.png"
+    "imageUrl": "/images/uveitis-oq/p56_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p56_img2.png"
+    ]
   },
   {
     "id": 51,
@@ -1505,7 +1555,10 @@
     "correctAnswer": "A",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p61_img1.png"
+    "imageUrl": "/images/uveitis-oq/p61_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p62_img1.png"
+    ]
   },
   {
     "id": 57,
@@ -1586,7 +1639,10 @@
     "correctAnswer": "B",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p65_img1.png"
+    "imageUrl": "/images/uveitis-oq/p65_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p66_img1.png"
+    ]
   },
   {
     "id": 60,
@@ -1640,7 +1696,10 @@
     "correctAnswer": "D",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": null
+    "imageUrl": null,
+    "imageUrls": [
+      "/images/uveitis-oq/p69_img1.png"
+    ]
   },
   {
     "id": 62,
@@ -1667,7 +1726,10 @@
     "correctAnswer": "B",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p70_img1.png"
+    "imageUrl": "/images/uveitis-oq/p70_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p70_img2.png"
+    ]
   },
   {
     "id": 63,
@@ -1856,7 +1918,10 @@
     "correctAnswer": "A",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": null
+    "imageUrl": null,
+    "imageUrls": [
+      "/images/uveitis-oq/p78_img1.png"
+    ]
   },
   {
     "id": 70,
@@ -1883,7 +1948,10 @@
     "correctAnswer": "C",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p79_img1.png"
+    "imageUrl": "/images/uveitis-oq/p79_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p79_img2.png"
+    ]
   },
   {
     "id": 71,
@@ -2396,7 +2464,11 @@
     "correctAnswer": "D",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p7_img1.png"
+    "imageUrl": "/images/uveitis-oq/p7_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p97_img1.png",
+      "/images/uveitis-oq/p98_img1.png"
+    ]
   },
   {
     "id": 90,
@@ -2504,7 +2576,10 @@
     "correctAnswer": "C",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p101_img1.png"
+    "imageUrl": "/images/uveitis-oq/p101_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p102_img1.png"
+    ]
   },
   {
     "id": 94,
@@ -2531,7 +2606,10 @@
     "correctAnswer": "C",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p3_img1.png"
+    "imageUrl": "/images/uveitis-oq/p3_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p103_img1.png"
+    ]
   },
   {
     "id": 95,
@@ -2554,7 +2632,10 @@
     "correctAnswer": "C",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p104_img1.png"
+    "imageUrl": "/images/uveitis-oq/p104_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p104_img2.png"
+    ]
   },
   {
     "id": 96,
@@ -2662,7 +2743,10 @@
     "correctAnswer": "D",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p110_img1.png"
+    "imageUrl": "/images/uveitis-oq/p110_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p110_img2.png"
+    ]
   },
   {
     "id": 100,
@@ -2689,7 +2773,10 @@
     "correctAnswer": "D",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p111_img1.png"
+    "imageUrl": "/images/uveitis-oq/p111_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p111_img2.png"
+    ]
   },
   {
     "id": 101,
@@ -2743,7 +2830,10 @@
     "correctAnswer": "A",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p113_img1.png"
+    "imageUrl": "/images/uveitis-oq/p113_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p114_img1.png"
+    ]
   },
   {
     "id": 103,
@@ -2959,7 +3049,10 @@
     "correctAnswer": "B",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p119_img1.png"
+    "imageUrl": "/images/uveitis-oq/p119_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p119_img2.png"
+    ]
   },
   {
     "id": 111,
@@ -2986,7 +3079,10 @@
     "correctAnswer": "C",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": null
+    "imageUrl": null,
+    "imageUrls": [
+      "/images/uveitis-oq/p121_img1.png"
+    ]
   },
   {
     "id": 112,
@@ -3067,7 +3163,10 @@
     "correctAnswer": "D",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p123_img1.png"
+    "imageUrl": "/images/uveitis-oq/p123_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p123_img2.png"
+    ]
   },
   {
     "id": 115,
@@ -4147,7 +4246,10 @@
     "correctAnswer": "C",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p153_img1.png"
+    "imageUrl": "/images/uveitis-oq/p153_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p153_img2.png"
+    ]
   },
   {
     "id": 155,
@@ -4174,7 +4276,11 @@
     "correctAnswer": "C",
     "source": "uveitis-oq",
     "respondentStats": null,
-    "imageUrl": "/images/uveitis-oq/p154_img1.png"
+    "imageUrl": "/images/uveitis-oq/p154_img1.png",
+    "imageUrls": [
+      "/images/uveitis-oq/p155_img1.png",
+      "/images/uveitis-oq/p156_img1.png"
+    ]
   },
   {
     "id": 156,

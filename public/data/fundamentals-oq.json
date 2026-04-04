@@ -701,7 +701,10 @@
     "explanation": "The superior oblique is inferior (i.e. underneath) the superior rectus muscle. The inferior oblique is also inferior to the inferior rectus muscle. Because of this position, it actually overlies the inferior rectus muscle.",
     "respondentStats": null,
     "imageUrl": null,
-    "highYield": null
+    "highYield": null,
+    "imageUrls": [
+      "/images/fundamentals-oq/p25_img1.png"
+    ]
   },
   {
     "id": 45,
@@ -1453,7 +1456,10 @@
     "explanation": "The ciliary body epithelium produces aqueous humor at a rate of approximately 2- 3 uL/min.",
     "respondentStats": null,
     "imageUrl": "/images/fundamentals-oq/p45_img1.png",
-    "highYield": null
+    "highYield": null,
+    "imageUrls": [
+      "/images/fundamentals-oq/p45_img2.png"
+    ]
   },
   {
     "id": 92,

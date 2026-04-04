@@ -1,6 +1,7 @@
 "use client";
 
 import { Question } from "@/lib/types";
+import ImageZoom from "@/components/ImageZoom";
 
 // Medical terms to auto-highlight in explanations
 const MEDICAL_TERM_PATTERNS = [
@@ -84,6 +85,26 @@ export default function ExplanationPanel({ question, wasCorrect }: ExplanationPa
       {question.explanation && (
         <div className="quiz-explanation text-sm leading-relaxed" style={{ color: "var(--text-secondary)" }}>
           {highlightKeyTerms(question.explanation)}
+        </div>
+      )}
+
+      {/* Secondary images (explanation diagrams) */}
+      {question.imageUrls && question.imageUrls.length > 0 && (
+        <div className="mt-4 flex gap-2 overflow-x-auto pb-2" style={{ scrollbarWidth: "thin" }}>
+          {question.imageUrls.map((url, idx) => (
+            <div
+              key={idx}
+              className="shrink-0"
+              style={{
+                border: "1px solid var(--border)",
+                borderRadius: "var(--radius-lg)",
+                maxWidth: question.imageUrls!.length === 1 ? "100%" : "260px",
+                width: question.imageUrls!.length === 1 ? "100%" : undefined,
+              }}
+            >
+              <ImageZoom src={url} alt={`Explanation image ${idx + 1} for question ${question.id}`} />
+            </div>
+          ))}
         </div>
       )}
 

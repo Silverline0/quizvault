@@ -115,6 +115,26 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
         </div>
       )}
 
+      {/* Secondary images (explanation diagrams, etc.) */}
+      {question.imageUrls && question.imageUrls.length > 0 && (
+        <div className="mb-5 flex gap-2 overflow-x-auto pb-2" style={{ scrollbarWidth: "thin" }}>
+          {question.imageUrls.map((url, idx) => (
+            <div
+              key={idx}
+              className="shrink-0"
+              style={{
+                border: "1px solid var(--border)",
+                borderRadius: "var(--radius-lg)",
+                maxWidth: question.imageUrls!.length === 1 ? "100%" : "280px",
+                width: question.imageUrls!.length === 1 ? "100%" : undefined,
+              }}
+            >
+              <ImageZoom src={url} alt={`Additional image ${idx + 1} for question ${question.id}`} />
+            </div>
+          ))}
+        </div>
+      )}
+
       {/* Options — 2x2 grid on desktop, single column on mobile */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-3 lg:gap-4 md:min-h-[200px]">
         {optionKeys.map((key) => {
