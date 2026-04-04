@@ -980,7 +980,10 @@
     "explanation": "",
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p41_img5.png",
-    "highYield": null
+    "highYield": null,
+    "imageUrls": [
+      "/images/cornea-oq/p41_img6.png"
+    ]
   },
   {
     "id": 62,
@@ -997,9 +1000,7 @@
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p41_img5.png",
     "highYield": null,
-    "imageUrls": [
-      "/images/cornea-oq/p41_img6.png"
-    ]
+    "imageUrls": null
   },
   {
     "id": 63,
@@ -1573,7 +1574,7 @@
       "D": "Congenital hereditary endothelial dystrophy Answer: This most likely represents posterior polymorphous corneal dystrophy (PPCD) (Choice B), previously known as posterior polymorphous dystrophy (PPMD) or Schlichting dystrophy. This condition is marked by a diffuse abnormality of Descemet’s membrane, resulting in a multi- laminated appearance This condition can look like iridocorneal endothelial (ICE) syndrome, but ICE is usually unilateral and more likely to be appear in a middle-aged female patient . The changes in PPCD can be quite subtle: oftentimes, only an isolated group of vesicles may be noted on clinical exam. Most patients are asymptomatic, though some patients may develop corneal edema that can be medically managed in a manner similar to Fuch’s endothelial dystrophy. Mild localized swelling may be managed with anterior stromal micro puncture. The prognosis for penetrating and endothelial keratoplasty depends on the presence/absence of PAS and management of glaucoma. PPCD is known to recur in the graft in penetrating keratoplasty."
     },
     "correctAnswer": "B",
-    "explanation": "",
+    "explanation": "This most likely represents posterior polymorphous corneal dystrophy (PPCD) (Choice B), previously known as posterior polymorphous dystrophy (PPMD) or Schlichting dystrophy. This condition is marked by a diffuse abnormality of Descemet’s membrane, resulting in a multi- laminated appearance This condition can look like iridocorneal endothelial (ICE) syndrome, but ICE is usually unilateral and more likely to be appear in a middle-aged female patient . The changes in PPCD can be quite subtle: oftentimes, only an isolated group of vesicles may be noted on clinical exam. Most patients are asymptomatic, though some patients may develop corneal edema that can be medically managed in a manner similar to Fuch’s endothelial dystrophy. Mild localized swelling may be managed with anterior stromal micro puncture. The prognosis for penetrating and endothelial keratoplasty depends on the presence/absence of PAS and management of glaucoma. PPCD is known to recur in the graft in penetrating keratoplasty.",
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p80_img4.png",
     "highYield": null
@@ -3532,7 +3533,10 @@
     "explanation": "The picture shows enlarged corneal nerves. Enlarged corneal nerves are associated with MEN type IIB, Phytanic Acid Storage Disorder (Refsum Disease), leprosy (Hansen Disease), Acanthamoeba, Neurofibromatosis, and Familial Dysautonomia (Riley-Day Syndrome). Conditions that cause corneal nerves to be more visible include: keratoconus, ichthyosis, Fuchs corneal dystrophy, congenital glaucoma, and corneal edema. (Image credit: Cogan Pathology Collection found at: http://cogancollection.nei.nih.gov).",
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p300_img1.png",
-    "highYield": null
+    "highYield": null,
+    "imageUrls": [
+      "/images/cornea-oq/p194_img9.png"
+    ]
   },
   {
     "id": 215,
@@ -3547,7 +3551,7 @@
     "correctAnswer": "D",
     "explanation": "Also known as Labrador keratopathy, it is generally bilateral and located within the interpalpebral fissure. Histopathologically, there is elastotic degeneration that occurs with UV radiation exposure. Treatment is generally with lubrication. It does not generally affect vision to a significant degree.",
     "respondentStats": null,
-    "imageUrl": "/images/cornea-oq/p194_img9.png",
+    "imageUrl": null,
     "highYield": null
   },
   {
@@ -3847,7 +3851,15 @@
     "explanation": "Nonseptate filamentous fungi include Mucor, Absidia, and Rhizopus. These fungi can cause life- threatening infections (\"mucormycosis\") of the paranasal sinuses, brain, and orbit, typically in immunocompromised patients. A typical clinical scenario is a poorly-controlled diabetic hospitalized for diabetic ketoacidosis. Other predisposing conditions include renal failure and gastroenteritis. These patients present with an orbital cellulitis with early visual loss from orbital apex syndrome. Another often-tested sign is seeing black eschar-like crusting in the nose or on the hard palate. Septate fungi include Fusarium, Aspergillus, and Curvularia. A nice mnemonic is: \"F.A.C.t.S\"",
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p211_img1.png",
-    "highYield": null
+    "highYield": null,
+    "imageUrls": [
+      "/images/cornea-oq/p211_img10.png",
+      "/images/cornea-oq/p211_img11.png",
+      "/images/cornea-oq/p211_img2.png",
+      "/images/cornea-oq/p211_img3.png",
+      "/images/cornea-oq/p211_img4.png",
+      "/images/cornea-oq/p211_img5.png"
+    ]
   },
   {
     "id": 232,
@@ -3865,12 +3877,6 @@
     "imageUrl": "/images/cornea-oq/p211_img1.png",
     "highYield": null,
     "imageUrls": [
-      "/images/cornea-oq/p211_img10.png",
-      "/images/cornea-oq/p211_img11.png",
-      "/images/cornea-oq/p211_img2.png",
-      "/images/cornea-oq/p211_img3.png",
-      "/images/cornea-oq/p211_img4.png",
-      "/images/cornea-oq/p211_img5.png",
       "/images/cornea-oq/p212_img1.png",
       "/images/cornea-oq/p212_img2.png",
       "/images/cornea-oq/p212_img3.png"
@@ -3992,7 +3998,12 @@
     "explanation": "Classically, it is taught that true membranes are typically very difficult to remove and will result in bleeding if stripped off of the conjunctival surface. In contrast, pseudomembranes usually peel off easily from the conjunctival surface without bleeding. In real clinical practice, since both are signs of severe conjunctival inflammation, both can bleed when peeled off. Situations where true membranes occur include: bacterial conjunctivitis, chemical burns, and ligneous conjunctivitis. Scenarios where pseudomembranes occur include: ocular cicatricial pemphigoid, Steven Johnson syndrome, EKC (epidemic keratoconjunctivitis), and superior limbic keratoconjunctivitis.",
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p218_img5.png",
-    "highYield": null
+    "highYield": null,
+    "imageUrls": [
+      "/images/cornea-oq/p218_img6.png",
+      "/images/cornea-oq/p218_img7.png",
+      "/images/cornea-oq/p218_img8.png"
+    ]
   },
   {
     "id": 240,
@@ -4009,11 +4020,7 @@
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p218_img5.png",
     "highYield": null,
-    "imageUrls": [
-      "/images/cornea-oq/p218_img6.png",
-      "/images/cornea-oq/p218_img7.png",
-      "/images/cornea-oq/p218_img8.png"
-    ]
+    "imageUrls": null
   },
   {
     "id": 241,
@@ -4098,7 +4105,12 @@
     "explanation": "Aerobic bacteria can be cultured with blood agar, chocolate agar, and thioglycollate broth. Anaerobic bacteria are ideally cultured with thioglycollate broth. Thayer-Martin agar is best for Neisseria. Lowenstein-Jensen is best for myobacteria. Acanthamoeba is best cultured with Nonnutrient agar with E Coli overlay. Sabouraud's agar is best for fungus. Blood and chocolate agars are good overall culture plates. Middlebrook agar grows out non-tuberculous mycobacteria (seen after LASIK).",
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p222_img5.png",
-    "highYield": null
+    "highYield": null,
+    "imageUrls": [
+      "/images/cornea-oq/p222_img6.png",
+      "/images/cornea-oq/p222_img7.png",
+      "/images/cornea-oq/p222_img8.png"
+    ]
   },
   {
     "id": 246,
@@ -4115,11 +4127,7 @@
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p222_img5.png",
     "highYield": null,
-    "imageUrls": [
-      "/images/cornea-oq/p222_img6.png",
-      "/images/cornea-oq/p222_img7.png",
-      "/images/cornea-oq/p222_img8.png"
-    ]
+    "imageUrls": null
   },
   {
     "id": 247,
@@ -4135,7 +4143,16 @@
     "explanation": "This patient presents with delayed-onset (chronic) endophthalmitis. This is typically caused by Propionibacterium acnes. Other ocular signs include granulomatous (\"mutton-fat\") keratic precipitates, a small hypopyon, and a mild vitritis. These patients typically respond to topical steroids and have the appearance of posterior capsular opacity. Cultures and intravitreal antibiotic are indicated. If this does not cure the situation, vitrectomy with partial capsular bag removal can be performed. Some patients require their entire capsular bag and intraocular lens to be removed.",
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p223_img1.png",
-    "highYield": null
+    "highYield": null,
+    "imageUrls": [
+      "/images/cornea-oq/p223_img11.png",
+      "/images/cornea-oq/p223_img12.png",
+      "/images/cornea-oq/p223_img2.png",
+      "/images/cornea-oq/p223_img3.png",
+      "/images/cornea-oq/p223_img4.png",
+      "/images/cornea-oq/p223_img5.png",
+      "/images/cornea-oq/p223_img6.png"
+    ]
   },
   {
     "id": 248,
@@ -4152,15 +4169,7 @@
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p223_img1.png",
     "highYield": null,
-    "imageUrls": [
-      "/images/cornea-oq/p223_img11.png",
-      "/images/cornea-oq/p223_img12.png",
-      "/images/cornea-oq/p223_img2.png",
-      "/images/cornea-oq/p223_img3.png",
-      "/images/cornea-oq/p223_img4.png",
-      "/images/cornea-oq/p223_img5.png",
-      "/images/cornea-oq/p223_img6.png"
-    ]
+    "imageUrls": null
   },
   {
     "id": 249,
@@ -4176,7 +4185,12 @@
     "explanation": "Bacillus cereus accounts for ~25% of cases of traumatic endophthalmitis. It is rarely a cause of endophthalmitis in other clinical settings (e.g. post-cataract surgery). Endophthalmitis caused by this organism is extremely aggressive and frequently even results in loss of the eye.",
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p224_img5.png",
-    "highYield": null
+    "highYield": null,
+    "imageUrls": [
+      "/images/cornea-oq/p224_img6.png",
+      "/images/cornea-oq/p224_img7.png",
+      "/images/cornea-oq/p224_img8.png"
+    ]
   },
   {
     "id": 250,
@@ -4193,11 +4207,7 @@
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p224_img5.png",
     "highYield": null,
-    "imageUrls": [
-      "/images/cornea-oq/p224_img6.png",
-      "/images/cornea-oq/p224_img7.png",
-      "/images/cornea-oq/p224_img8.png"
-    ]
+    "imageUrls": null
   },
   {
     "id": 251,
@@ -4281,7 +4291,10 @@
     "explanation": "Chalazia are sterile inflammations. Therefore, antibiotics do not help the process, with the exception of patients having chalazia and rosacea where tetracyclines (doxycycline) and macrolides (erythromycin) work due to their anti-inflammatory properties.",
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p230_img10.png",
-    "highYield": null
+    "highYield": null,
+    "imageUrls": [
+      "/images/cornea-oq/p230_img9.png"
+    ]
   },
   {
     "id": 256,
@@ -4298,9 +4311,7 @@
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p230_img10.png",
     "highYield": null,
-    "imageUrls": [
-      "/images/cornea-oq/p230_img9.png"
-    ]
+    "imageUrls": null
   },
   {
     "id": 257,
@@ -4462,7 +4473,11 @@
     "explanation": "Stromal keratitis, endothelioses, and uveitis generally occur in a previously sensitized immune system and not with primary HSV infection.",
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p237_img5.png",
-    "highYield": null
+    "highYield": null,
+    "imageUrls": [
+      "/images/cornea-oq/p237_img6.png",
+      "/images/cornea-oq/p237_img7.png"
+    ]
   },
   {
     "id": 267,
@@ -4479,10 +4494,7 @@
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p237_img5.png",
     "highYield": null,
-    "imageUrls": [
-      "/images/cornea-oq/p237_img6.png",
-      "/images/cornea-oq/p237_img7.png"
-    ]
+    "imageUrls": null
   },
   {
     "id": 268,
@@ -4532,10 +4544,13 @@
       "D": "increase in the amount of recurrence A; C Adding oral acyclovir showed no benefit. The treatment regimen for the stromal keratitis arm of the HEDS study was topical prednisolone q2 hours and topical trifluridine 4x/day. Mainly, stromal keratitis secondary to HSV is an autoimmune phenomenon. Therefore, the main treatment involves topical steroids. The topical antiviral was used to prevent an outbreak of epithelial keratitis. The stromal keratitis arm of the HEDS study showed that there was no benefit to adding oral acyclovir to topical prednisilone and trifluridine."
     },
     "correctAnswer": "A",
-    "explanation": "",
+    "explanation": "All arms of the HEDS study had patients receiving topical antivirals.",
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p239_img10.png",
-    "highYield": null
+    "highYield": null,
+    "imageUrls": [
+      "/images/cornea-oq/p239_img9.png"
+    ]
   },
   {
     "id": 271,
@@ -4552,9 +4567,7 @@
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p239_img10.png",
     "highYield": null,
-    "imageUrls": [
-      "/images/cornea-oq/p239_img9.png"
-    ]
+    "imageUrls": null
   },
   {
     "id": 272,
@@ -4570,7 +4583,15 @@
     "explanation": "The treatment algorithm used in the HEDS study had all the patients with HSV epithelial keratitis on trifluridine 1% (Viroptic) 8x/day. One arm of the study then divided these patients into receiving oral acyclovir (400mg 5x/day) vs placebo. The study showed that there was no advantage to adding oral acyclovir on top of topical Viroptic. But there was no part of the HEDS study that involved treating epithelial keratitis with topical steroids! This would be like pouring gasoline on a fire. Epithelial keratitis is secondary to actively replicating HSV virus. Stromal keratitis is thought to be mainly an immune reaction. So, patients with stromal keratitis are treated with topical steroids for the immune reaction and topical antivirals to suppress a potential epithelial keratitis. But, patients with epithelial keratitis only receive topical antivirals.",
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p272_img7.png",
-    "highYield": null
+    "highYield": null,
+    "imageUrls": [
+      "/images/cornea-oq/p240_img1.png",
+      "/images/cornea-oq/p240_img2.png",
+      "/images/cornea-oq/p240_img3.png",
+      "/images/cornea-oq/p240_img4.png",
+      "/images/cornea-oq/p240_img5.png",
+      "/images/cornea-oq/p240_img6.png"
+    ]
   },
   {
     "id": 273,
@@ -4585,15 +4606,9 @@
     "correctAnswer": "D",
     "explanation": "Although most patients and corneal specialists believe there is an association with HSV outbreaks and environmental stressors, none were statistically associated in the HEDS study.",
     "respondentStats": null,
-    "imageUrl": "/images/cornea-oq/p240_img1.png",
+    "imageUrl": null,
     "highYield": null,
-    "imageUrls": [
-      "/images/cornea-oq/p240_img2.png",
-      "/images/cornea-oq/p240_img3.png",
-      "/images/cornea-oq/p240_img4.png",
-      "/images/cornea-oq/p240_img5.png",
-      "/images/cornea-oq/p240_img6.png"
-    ]
+    "imageUrls": null
   },
   {
     "id": 274,
@@ -4673,7 +4688,13 @@
     "explanation": "The slit-lamp photo depicts the classic dendrites of HSV epithelial keratitis which have been stained with rose bengal. Unlike fluorescein dye which stains epithelial basement membrane (e.g. in epithelial defects), rose bengal preferentially stains dead/devitalized corneal epithelial and conjunctival cells. Rose bengal binds equally well to virally-infected and non-infected devitalized cells and has the ability to inhibit HSV replication. Extra: A good memory tool: You put roses on a grave = rose bengal is for dead/devitalized cells Grass grows on the ground = fluorescein (green like grass) sticks to the basement membrane (\"ground\" that epithelial cells \"stand on\") This helpful tip is hot off the press! I give until it hurts, people.",
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p243_img1.png",
-    "highYield": null
+    "highYield": null,
+    "imageUrls": [
+      "/images/cornea-oq/p243_img2.png",
+      "/images/cornea-oq/p243_img3.png",
+      "/images/cornea-oq/p243_img4.png",
+      "/images/cornea-oq/p243_img6.png"
+    ]
   },
   {
     "id": 279,
@@ -4690,12 +4711,7 @@
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p243_img1.png",
     "highYield": null,
-    "imageUrls": [
-      "/images/cornea-oq/p243_img2.png",
-      "/images/cornea-oq/p243_img3.png",
-      "/images/cornea-oq/p243_img4.png",
-      "/images/cornea-oq/p243_img6.png"
-    ]
+    "imageUrls": null
   },
   {
     "id": 280,
@@ -4903,7 +4919,7 @@
       "D": "observation"
     },
     "correctAnswer": "A",
-    "explanation": "",
+    "explanation": "These 1-2 mm \"umbilicated\", dome-shaped, skin-colored papules are classic for molluscum contagiosum which is caused by a DNA poxvirus called \"molluscum contagiosum virus\" (MCV). MCV is spread via direct contact with infected individuals. Typically, these nodules involve the eyelid margin, but occasionally can be found on the conjunctiva itself. MCV is one of the common causes of chronic follicular conjunctivitis and is thought to be caused by shedding of virus particles from the eyelid (or conjunctival) nodule. Other causes of chronic follicular conjunctivitis include: inclusion conjunctivitis (Chlamydia), trachoma (Chlamydia), and toxic follicular conjunctivitis (e.g. glaucoma drops, antiviral drops). Spontaneous resolution can occur, but is oftentimes prolonged on the order of months to years. Faster recovery can be achieved by excision of the offending lesions, cryotherapy, or incision of the central portion of the lesion. One last high-yield pearl is that extensive molluscum lesions should prompt a workup for HIV infection",
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p256_img8.png",
     "highYield": null,
@@ -5541,7 +5557,14 @@
     "explanation": "The first suture anchors the graft to the bed. But it is the second suture that determines how the graft is going to \"fit\" in the bed. So after the first suture is placed, it is critical that the surgeon carefully place the second suture so that it is directly opposite the first. This can be done by grasping the tissue with 0.12 forceps opposite of the first suture, stretching the graft so that it is slightly taut, and then slightly moving it side to side over where the surgeon thinks the second suture should go. As the graft is moved slightly side to side, the surgeon can judge if it is directly opposite the first suture by how the graft is overlying the bed on either side of the graft (the areas where the third and fourth sutures will go). Extra: \"The second cardinal suture is considered the most important suture in keratoplasty, because it is crucial in determining lateral wound apposition, proper do- nor/recipient edge alignment, and corneal astigmatism.\"",
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p290_img1.png",
-    "highYield": null
+    "highYield": null,
+    "imageUrls": [
+      "/images/cornea-oq/p290_img2.png",
+      "/images/cornea-oq/p290_img3.png",
+      "/images/cornea-oq/p290_img4.png",
+      "/images/cornea-oq/p290_img5.png",
+      "/images/cornea-oq/p290_img6.png"
+    ]
   },
   {
     "id": 329,
@@ -5559,11 +5582,6 @@
     "imageUrl": "/images/cornea-oq/p290_img1.png",
     "highYield": null,
     "imageUrls": [
-      "/images/cornea-oq/p290_img2.png",
-      "/images/cornea-oq/p290_img3.png",
-      "/images/cornea-oq/p290_img4.png",
-      "/images/cornea-oq/p290_img5.png",
-      "/images/cornea-oq/p290_img6.png",
       "/images/cornea-oq/p291_img1.png",
       "/images/cornea-oq/p291_img2.png"
     ]
@@ -5710,7 +5728,16 @@
     "explanation": "A Gundersen flap involves incising and then rotating a piece of conjunctiva so that it covers the cornea. Because post operative examination of the cornea is affected by the overlying conjunctiva, it should not be done in cases where a detailed exam of the underlying cornea needs to be performed.",
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p300_img1.png",
-    "highYield": null
+    "highYield": null,
+    "imageUrls": [
+      "/images/cornea-oq/p300_img2.png",
+      "/images/cornea-oq/p300_img3.png",
+      "/images/cornea-oq/p300_img4.png",
+      "/images/cornea-oq/p300_img5.png",
+      "/images/cornea-oq/p300_img6.png",
+      "/images/cornea-oq/p300_img7.png",
+      "/images/cornea-oq/p300_img8.png"
+    ]
   },
   {
     "id": 339,
@@ -5727,15 +5754,7 @@
     "respondentStats": null,
     "imageUrl": "/images/cornea-oq/p300_img1.png",
     "highYield": null,
-    "imageUrls": [
-      "/images/cornea-oq/p300_img2.png",
-      "/images/cornea-oq/p300_img3.png",
-      "/images/cornea-oq/p300_img4.png",
-      "/images/cornea-oq/p300_img5.png",
-      "/images/cornea-oq/p300_img6.png",
-      "/images/cornea-oq/p300_img7.png",
-      "/images/cornea-oq/p300_img8.png"
-    ]
+    "imageUrls": null
   },
   {
     "id": 340,

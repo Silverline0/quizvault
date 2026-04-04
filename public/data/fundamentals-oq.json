@@ -1440,7 +1440,10 @@
     "explanation": "Aqueous humor leaves the eye by passing through the trabecular meshwork and then into Schlemm's canal. From there, aqueous flows into collector channels then to deep and midscleral venous plexuses and then into the episcleral venous plexus.",
     "respondentStats": null,
     "imageUrl": "/images/fundamentals-oq/p45_img1.png",
-    "highYield": null
+    "highYield": null,
+    "imageUrls": [
+      "/images/fundamentals-oq/p45_img2.png"
+    ]
   },
   {
     "id": 91,
@@ -1457,9 +1460,7 @@
     "respondentStats": null,
     "imageUrl": "/images/fundamentals-oq/p45_img1.png",
     "highYield": null,
-    "imageUrls": [
-      "/images/fundamentals-oq/p45_img2.png"
-    ]
+    "imageUrls": null
   },
   {
     "id": 92,
