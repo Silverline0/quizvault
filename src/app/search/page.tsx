@@ -121,7 +121,7 @@ export default function SearchPage() {
             // @ts-expect-error ring color
             "--tw-ring-color": "var(--accent-glow)",
           }}
-          autoFocus
+          autoFocus={typeof window !== "undefined" && !("ontouchstart" in window)}
         />
         {query && (
           <button

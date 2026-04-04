@@ -29,7 +29,7 @@ export default function SyncIndicator() {
 
   return (
     <div
-      className="fixed bottom-4 right-4 flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-medium shadow-lg z-50 transition-all duration-300"
+      className="fixed bottom-20 right-4 flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-medium shadow-lg z-40 transition-all duration-300"
       style={{
         backgroundColor: "var(--bg-card)",
         border: "1px solid var(--border)",

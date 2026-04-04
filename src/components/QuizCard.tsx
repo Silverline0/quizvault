@@ -80,11 +80,11 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
         >
           {question.question}
         </h2>
-        <div className="flex items-center gap-1 shrink-0">
+        <div className="flex items-center gap-0.5 shrink-0">
           {/* Flag button */}
           <button
             onClick={handleFlag}
-            className="w-9 h-9 rounded-full flex items-center justify-center transition-transform"
+            className="w-11 h-11 rounded-full flex items-center justify-center transition-transform"
             style={{
               backgroundColor: flagged ? "var(--error-bg)" : "transparent",
               transform: flagged ? "scale(1.1)" : "scale(1)",
@@ -101,7 +101,7 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
           {/* Bookmark button */}
           <button
             onClick={handleBookmark}
-            className="w-9 h-9 rounded-full flex items-center justify-center transition-transform"
+            className="w-11 h-11 rounded-full flex items-center justify-center transition-transform"
             style={{
               backgroundColor: bookmarked ? "var(--warning-bg)" : "transparent",
               transform: bookmarked ? "scale(1.1)" : "scale(1)",
@@ -208,7 +208,7 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
 
       {/* Keyboard hint */}
       {!showResult && showHints && (
-        <p className="text-xs mt-3 text-center" style={{ color: "var(--text-muted)" }}>
+        <p className="text-xs mt-3 text-center hidden md:block" style={{ color: "var(--text-muted)" }}>
           Press{" "}
           {optionKeys.map((k) => (
             <kbd key={k} className="px-1.5 py-0.5 rounded text-xs font-mono mx-0.5" style={{ backgroundColor: "var(--bg-secondary)" }}>

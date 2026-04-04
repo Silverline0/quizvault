@@ -280,7 +280,7 @@ export default function ExamPage() {
       {showResult && (
         <div
           className="fixed bottom-0 left-0 right-0 p-4 z-30"
-          style={{ backgroundColor: "var(--bg-primary)", borderTop: "1px solid var(--border)" }}
+          style={{ backgroundColor: "var(--bg-primary)", borderTop: "1px solid var(--border)", paddingBottom: "max(16px, env(safe-area-inset-bottom))" }}
         >
           <div className="max-w-2xl mx-auto">
             <button

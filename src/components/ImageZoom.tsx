@@ -33,7 +33,7 @@ export default function ImageZoom({ src, alt, className = "" }: ImageZoomProps) 
             className="rounded-full px-3 py-1.5 text-xs font-medium shadow-lg"
             style={{ backgroundColor: "var(--bg-card)", color: "var(--text-secondary)", opacity: 0.95 }}
           >
-            Click to zoom
+            Tap to zoom
           </span>
         </div>
       </div>

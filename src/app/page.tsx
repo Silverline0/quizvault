@@ -156,7 +156,7 @@ export default function HomePage() {
       {/* Quick stats */}
       {overallStats.total > 0 && !selectedCategory && (
         <div
-          className="grid grid-cols-4 gap-3 rounded-xl p-4 mb-6"
+          className="grid grid-cols-2 sm:grid-cols-4 gap-3 rounded-xl p-4 mb-6"
           style={{ backgroundColor: "var(--bg-card)", border: "1px solid var(--border)", boxShadow: "var(--shadow-sm)" }}
         >
           <div className="text-center">

@@ -316,17 +316,10 @@ export default function QuizPage() {
 
   return (
     <>
-      <QuizHeader title={setName} backHref="#" />
-      {/* Override back with session summary */}
-      <div className="absolute top-0 left-0 z-50">
-        <button
-          onClick={() => answeredCount > 0 ? setShowSessionSummary(true) : router.push("/")}
-          className="w-14 h-14 flex items-center justify-center"
-          style={{ color: "var(--text-primary)" }}
-        >
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><polyline points="15 18 9 12 15 6" /></svg>
-        </button>
-      </div>
+      <QuizHeader
+        title={setName}
+        onBack={() => answeredCount > 0 ? setShowSessionSummary(true) : router.push("/")}
+      />
 
       <div className="flex gap-6 max-w-5xl mx-auto px-4 py-4">
         {/* Main quiz column */}
@@ -365,7 +358,7 @@ export default function QuizPage() {
       {(showResult || answeredMap.size > 0) && (
         <div
           className="fixed bottom-0 left-0 right-0 p-4 z-30"
-          style={{ backgroundColor: "var(--bg-primary)", borderTop: "1px solid var(--border)" }}
+          style={{ backgroundColor: "var(--bg-primary)", borderTop: "1px solid var(--border)", paddingBottom: "max(16px, env(safe-area-inset-bottom))" }}
         >
           <div className="max-w-2xl mx-auto flex gap-3">
             {/* Previous button */}
