@@ -706,7 +706,7 @@
     "options": {
       "A": "placement of punctal plug",
       "B": "application of silver nitrate solution",
-      "C": "chronic dry eyes. When she uses artiﬁcial tears, her symptoms are relieved for only a few minutes. What glands produce the outermost layer of the tear ﬁlm to help retard tear ﬁlm evaporation? ! \" # placement of bandage contact lens",
+      "C": "placement of bandage contact lens",
       "D": "conjunctival cautery"
     },
     "correctAnswer": "D",
@@ -1144,7 +1144,7 @@
     "source": "cornea-bcsc",
     "question": "During treatment and recovery from a corneal abrasion, a patient develops a chalky white plaque covering the extent of the abrasion and obscuring the visual axis. What is the most likely medication being used?",
     "options": {
-      "A": "exams are normal for both eyes. Preoperative measurements for cataract surgery show normal axial length with white-to-white measurements of 14.5 mm in both eyes. During cataract surgery, what complication is the patient at increased risk for? ! \" # ciproﬂoxacin",
+      "A": "ciproﬂoxacin",
       "B": "neomycin-polymyxin-dexamethasone",
       "C": "gentamicin",
       "D": "polytrim-sulfamethoxazole"
@@ -1282,7 +1282,7 @@
   {
     "id": 66,
     "source": "cornea-bcsc",
-    "question": "A patient is referred to an ophthalmologist for treatment of herpes simplex keratoconjunctivitis OS. She has been treated by the referring doctor with 4 weeks of triﬂuorothymidine, 1 drop to the aﬀected eye 4 times a day (qid), as well as oral acyclovir. She reports little change in her previous symptoms of blurred vision, ocular redness, and irritation. On examination she has mild conjunctival hyperemia and diﬀuse punctate corneal erosions OS. What is the next appropriate step in this patient's management?",
+    "question": "What is the next appropriate step in this patient's management?",
     "options": {
       "A": "addition of prednisone 1% 1 drop qid",
       "B": "discontinuation of triﬂuorothymidine",
@@ -1844,7 +1844,7 @@
     "options": {
       "A": "improves wound healing/adherence of remaining tissues",
       "B": "decreases recurrence",
-      "C": "theoretically be improved by sophisticated measurements of corneal hysteresis? ! \" # decreases risk of metastasis",
+      "C": "decreases risk of metastasis",
       "D": "improves diagnostic pathology yield"
     },
     "correctAnswer": "B",

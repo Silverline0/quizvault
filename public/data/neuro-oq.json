@@ -130,7 +130,7 @@
   {
     "id": 9,
     "source": "neuro-oq",
-    "question": "T1 weighted images provide the best visualization of anatomy. In T1 images, fat is bright while CSF, vitreous, and air is dark. T2 images optimize the difference in water content between tissues and therefore is excellent for demonstrating pathology. In T2 images, fat is less bright than in T1, and CSF / aqueous is very bright. Bone is tricky because it depends on the location and type of bone. Compact bone without marrow is dark on T1 and T2 but bone with prominent bone marrow (which includes the adult calvarium) will be bright on T1 and somewhat bright on T2 due to fat content. FLAIR (or fluid attenuated inversion recovery) is a subset of T2 sequencing that attenuates the bright signal of CSF allowing for better visualization in the periventricular regions adjacent to the CSF. DWI (or diffusion weighted imaging) is a sequence which highlights recent vascular perfusion abnormalities. Thus, DWI is ideal for evaluation of cerebral infarctions. DWI can show a cerebrovascular accident (CVA) minutes after onset and will stay abnormal up to 3 weeks following a CVA.",
+    "question": "",
     "options": {
       "A": "23-year-old involved in a motor vehicle accident with double vision and periocular swelling in the right eye",
       "B": "40-year-old female with acute monocular vision loss and eye pain worse with eye movement",
@@ -162,7 +162,7 @@
   {
     "id": 11,
     "source": "neuro-oq",
-    "question": "A 25-year old obese female with properly-diagnosed idiopathic intracranial hypertension (IIH) has severe daily headaches for the last year, mild optic disc edema, and 20/20 central visual acuity OU. Three serial Humphrey visual fields (24-2) show only enlargement of the blind spot. She has seen three headache specialists and tried numerous unsuccessful treatments including over-the-counter NSAIDs, acetazolamide, topiramate, nortriptyline, and several 1-week courses of prednisone. Her headaches did improve for 12-24 hours following two different diagnostic lumbar punctures. What is the next best step in management of this patient?",
+    "question": "What is the next best step in management of this patient?",
     "options": {
       "A": "optic nerve sheath fenestration of both eyes",
       "B": "neurosurgical referral for possible lumboperitoneal shunt",
@@ -178,7 +178,7 @@
   {
     "id": 12,
     "source": "neuro-oq",
-    "question": "Serial \"therapeutic\" large volume lumbar taps were utilized in the past for treatment of IIH but this is no longer an accepted treatment of IIH. Long-term prednisone is unlikely to be effective for chronic IIH-related headache and has numerous serious side-effects. A 75-year old female comes in with vague chronically progressive visual complaints. Despite good uncorrected visual acuity (20/25) in both eyes, she claims that she can't see well and her husband states that she doesn't seem to understand what she sees. A mini-mental status exam reveals difficulty with concentration and short-term memory. The patient has difficulty with visuospatial tasks such as drawing a clock face. You suspect that she may suffer from the visual variant of Alzheimer's disease (VVAD). A recent MRI was unremarkable except for mild diffuse cortical atrophy. What would be the most helpful next test?",
+    "question": "What would be the most helpful next test?",
     "options": {
       "A": "CT of the brain with IV contrast",
       "B": "magnetic resonance angiography (MRA)",
@@ -194,7 +194,7 @@
   {
     "id": 13,
     "source": "neuro-oq",
-    "question": "A 60-year old female underwent pituitary adenoma resection 2 years ago followed immediately by brain radiation. She now presents with a 2 month history of episodes of intermittent binocular vertical and horizontal diplopia. On exam she has 20/25 visual acuity in both eyes but demonstrates intermittent spasm of the right medial rectus and right inferior rectus lasting anywhere from 15 seconds to 2 minutes. A follow-up MRI of the brain shows chronic changes related to her prior tumor resection and radiation but no other pathology. What is the best next step in this patient?",
+    "question": "What is the best next step in this patient?",
     "options": {
       "A": "perform a Tensilon (edrophonium) test",
       "B": "strabismus surgery",
@@ -258,7 +258,7 @@
   {
     "id": 17,
     "source": "neuro-oq",
-    "question": "Even if you hate neuro-anatomy, you should take 5 minutes to memorize the midline structures of the brain. Arrow A points to the “intracavernous” portion of the right internal carotid artery. Because of the loop and posterior turn that the internal carotid artery makes after passing anteriorly through the cavernous sinus, a coronal section through the cavernous sinus often shows two lumens of the internal carotid artery in the same section (in this image the dark circle above arrow A is also the right internal carotid artery). Because the internal carotid artery runs in the cavernous sinus, a rupture or leak of the intracavernous internal carotid artery causes a “direct” or “high flow” carotid cavernous fistula. The exam findings in these patients is often very dramatic including severe proptosis, diffuse ophthalmoplegia, central retinal vein occlusion, and major arterialization of the conjunctival vessels. Arrow B shows the left optic nerve as it enters the chiasm. Arrow C is pointing towards the pituitary gland overlying the sphenoid sinus (arrow D). A 45-year old hypertensive, diabetic female presents acutely with a pupil-involving cranial nerve 3 (CN III) palsy. Which of the following tests appropriate in the evaluation of cerebral aneurysm has the highest morbidity?",
+    "question": "Which of the following tests appropriate in the evaluation of cerebral aneurysm has the highest morbidity?",
     "options": {
       "A": "Catheter angiography",
       "B": "Magnetic resonance angiography (MRA)",
@@ -376,7 +376,7 @@
   {
     "id": 24,
     "source": "neuro-oq",
-    "question": "A 40-year old female comes in to your neuro-ophthalmology clinic for evaluation of recurrent right-sided headaches for 2 months. The headaches occur twice weekly, last for 1-4 hours and are associated with blurry vision in the right eye. She has no past ocular history aside from moderate hyperopia. The pain is 5-7/10 and often starts in the right periorbital region extending posteriorly to the right side of the face. The patient says she is not sure what triggers her headaches but they do seem to occur more frequently at night. Her vision usually gets blurry several minutes after the headache starts and lasts for about an hour after the headache subsides. She takes ibuprofen for the headache currently which \"helps a little.\" On exam her vision is 20/20 OU with a normal pupillary, visual field, and motility exam. Her intraocular pressures are 20 mmHg OU. Her slit lamp exam and undilated fundus exam are unremarkable except for some asymmetric cupping of the optic nerves. Her optic nerve cup-to-disc ratio is 0.45 OD and 0.3 OS. What is the next most appropriate action in the evaluation of this patient?",
+    "question": "What is the next most appropriate action in the evaluation of this patient?",
     "options": {
       "A": "Gonioscopy",
       "B": "Humphrey visual fields in both eyes",
@@ -392,7 +392,7 @@
   {
     "id": 25,
     "source": "neuro-oq",
-    "question": "A 70-year-old male presents with a 6-month history of recurrent bouts of intermittent bilateral blurring of vision. The vision loss lasts 10 seconds to 10 minutes but always returns to normal. Associated with this vision loss is the sensation of vertigo and difficulty with balance which occur with the episodes but then resolve completely. The patient denies any history of headaches but does have a sister with migraine headaches. The patient also denies jaw claudication, diplopia, myalgias, fever, and unintentional weight loss. A referring primary care physician has already ordered carotid dopplers and an MRI which were normal. His exam is essentially unremarkable. What is the next best management step in this case?",
+    "question": "What is the next best management step in this case?",
     "options": {
       "A": "Order an erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP)",
       "B": "Order a CT-angiogram (CTA) of the brain",
@@ -456,7 +456,7 @@
   {
     "id": 29,
     "source": "neuro-oq",
-    "question": "A 70-year-old male with a past medical history of hypertension, hypercholesterolemia, and diabetes presents with a 4-month history of a large central scotoma that appears in his right eye every time he is in a bright environment (walking outdoors on a sunny day, looking at a light indoors, etc). The scotoma generally lasts a matter of minutes once he exits the bright environment. He has had increasing intermittent periocular pain and ocular pain that improves with laying down and closing his eyes. He has no other ocular complaints. On exam his vision is 20/20 in both eyes with normal pupillary function and no afferent pupillary defect. The remainder of his exam was unremarkable aside from 3-4 mid-peripheral dot blot hemorrhages per quadrant in the right eye. What is the most appropriate diagnostic test in this setting?",
+    "question": "What is the most appropriate diagnostic test in this setting?",
     "options": {
       "A": "MRI of the brain",
       "B": "CT of the orbits",
@@ -520,7 +520,7 @@
   {
     "id": 33,
     "source": "neuro-oq",
-    "question": "A 40-year old female comes in to your neuro-ophthalmology clinic for evaluation of recurrent right-sided headaches for 2 months. The headaches occur twice weekly, last for 1-4 hours and are associated with blurry vision in the right eye. She has no past ocular history aside from moderate hyperopia. The pain is 5-7/10 and often starts in the right periorbital region extending posteriorly to the right side of the face. The patient says she is not sure what triggers her headaches but they do seem to occur more frequently at night. Her vision usually gets blurry several minutes after the headache starts and lasts for about an hour after the headache subsides. She takes ibuprofen for the headache currently which \"helps a little.\" On exam her vision is 20/20 OU with a normal pupillary, visual field, and motility exam. Her intraocular pressures are 20 mmHg OU. Her slit lamp exam and undilated fundus exam are unremarkable except for some asymmetric cupping of the optic nerves. Her optic nerve cup-to-disc ratio is 0.45 OD and 0.3 OS. What is the next most appropriate action in the evaluation of this patient?",
+    "question": "What is the next most appropriate action in the evaluation of this patient?",
     "options": {
       "A": "Gonioscopy",
       "B": "Humphrey visual fields in both eyes",
@@ -536,7 +536,7 @@
   {
     "id": 34,
     "source": "neuro-oq",
-    "question": "A 70-year-old male presents with a 6-month history of recurrent bouts of intermittent bilateral blurring of vision. The vision loss lasts 10 seconds to 10 minutes but always returns to normal. Associated with this vision loss is the sensation of vertigo and difficulty with balance which occur with the episodes but then resolve completely. The patient denies any history of headaches but does have a sister with migraine headaches. The patient also denies jaw claudication, diplopia, myalgias, fever, and unintentional weight loss. A referring primary care physician has already ordered carotid dopplers and an MRI which were normal. His exam is essentially unremarkable. What is the next best management step in this case?",
+    "question": "What is the next best management step in this case?",
     "options": {
       "A": "Order an erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP)",
       "B": "Order a CT-angiogram (CTA) of the brain",
@@ -600,7 +600,7 @@
   {
     "id": 38,
     "source": "neuro-oq",
-    "question": "A 70-year-old male with a past medical history of hypertension, hypercholesterolemia, and diabetes presents with a 4-month history of a large central scotoma that appears in his right eye every time he is in a bright environment (walking outdoors on a sunny day, looking at a light indoors, etc). The scotoma generally lasts a matter of minutes once he exits the bright environment. He has had increasing intermittent periocular pain and ocular pain that improves with laying down and closing his eyes. He has no other ocular complaints. On exam his vision is 20/20 in both eyes with normal pupillary function and no afferent pupillary defect. The remainder of his exam was unremarkable aside from 3-4 mid-peripheral dot blot hemorrhages per quadrant in the right eye. What is the most appropriate diagnostic test in this setting?",
+    "question": "What is the most appropriate diagnostic test in this setting?",
     "options": {
       "A": "MRI of the brain",
       "B": "CT of the orbits",
@@ -712,7 +712,7 @@
   {
     "id": 45,
     "source": "neuro-oq",
-    "question": "A 40-year-old male presents with a 1 year history of intermittent diarrhea and nystagmoid eye movements. His visual acuity, pupils, visual fields, and IOP are normal. Motility exam is complicated by his abnormal ocular oscillations but appears full. He demonstrates bilateral rhythmic convergent oscillations of his eyes with bilateral rhythmic contraction of his jaw muscles. Attempts to distract the patient to see if the nystagmus is volitional fail suggesting this is not self-induced. What is the treatment of choice for this patient?",
+    "question": "What is the treatment of choice for this patient?",
     "options": {
       "A": "Antibiotics",
       "B": "IV steroids",
@@ -955,7 +955,7 @@
   {
     "id": 60,
     "source": "neuro-oq",
-    "question": "16-month-old boy presents to your eye clinic because his parents noted his right eye \"shaking\" for the past month. Your exam shows fix, follow, intermittent maintain \"FF(M)\" vision OD and fix, follow, and maintain \"FFM\" vision OS. The pupil exam shows a trace APD OD. Motility is full and alignment is orthophoric based on alternate cover testing. Cycloplegic retinoscopy is +2.00 OD and -1.00 OS. External exam reveals a fine shimmering vertical nystagmus in the right eye with no nystagmus seen in the left eye. No head bobbing or torticollis is seen. Slit lamp exam and fundus exam is unremarkable. What is the next most appropriate step in the care of this patient?",
+    "question": "What is the next most appropriate step in the care of this patient?",
     "options": {
       "A": "Prescribe glasses and follow-up in 3 months for re-evaluation",
       "B": "Order an MRI of the brain and orbits under sedation",
@@ -971,7 +971,7 @@
   {
     "id": 61,
     "source": "neuro-oq",
-    "question": "The parents of a 4-year-old boy with torticollis and vertical shimmering nystagmus of the right eye since 1 year of age come to your clinic for a second opinion. The patient was diagnosed with spasmus nutans by another provider at presentation 3 years ago after a reportedly normal MRI. By matching Allen pictures, the patient has 20/100 vision OD and 20/50 vision OS. His visual field is full to confrontation with finger count techniques, motility normal, and alignment orthophoric by alternate cover testing. The patient was uncooperative for pupillary testing so it was difficult to assess for an APD although his pupils reacted to light bilaterally. External exam confirms a monocular vertical shimmering nystagmus of the right eye and torticollis with a right head tilt. His penlight anterior segment exam is grossly normal and dilated fundus exam reveals trace pallor of the right optic nerve. Cycloplegic retinoscopy is +1.00 sphere in both eyes. What is the next best step in the care of this patient?",
+    "question": "What is the next best step in the care of this patient?",
     "options": {
       "A": "Order an MRI of the brain and orbits under sedation",
       "B": "Reassure the parents and have the patient follow-up in one year",
@@ -1339,7 +1339,7 @@
   {
     "id": 84,
     "source": "neuro-oq",
-    "question": "A 14-month-old child presents to your clinic after his mom noted his eyes \"shaking\" since about 3 months of age. He is small for his age and is significantly delayed in meeting all of his milestones. His mom fears that he does not see well. On examination you note fixation with intermittent following in both eyes. His pupils react to light and do not show an afferent pupillary defect. He has grossly full motility in both eyes and no strabismus. He does have prominent pendular nystagmus. The macula, vessels, and peripheral retina examination is normal in both eyes. His optic nerves are displayed above along with a recent MRI section demonstrating an important finding. What is the next most appropriate step?",
+    "question": "What is the next most appropriate step?",
     "options": {
       "A": "Electroretinogram (ERG)",
       "B": "Genetic counseling",
@@ -1502,7 +1502,7 @@
   {
     "id": 94,
     "source": "neuro-oq",
-    "question": "An 80-year old Caucasian male comes in with a history of blurred vision in the right eye of unknown duration. He is a poor historian and just mentioned it to his daughter a week ago. You are the first eye care provider he has seen in over 20 years. He has a past medical history of poorly-controlled diabetes, hypertension, hypercholesterolemia, and admits to smoking 2 packs per day for 60 years. He denies jaw claudication, weight loss, headaches, and myalgias. His vision is count fingers OD and 20/25 OS with a brisk afferent pupillary defect (APD) OD. His fundus exam reveals 3+ optic nerve pallor OD that is worse superiorly and a normal appearing optic nerve with a 0.1 cup-to-disc ratio OS. Humphrey visual field (HVF) testing is unreliable in both eyes based on reliability parameters but reveals global depression OD and a seemingly full visual field OS. What would be the next best step?",
+    "question": "What would be the next best step?",
     "options": {
       "A": "Order an MRI and blood work",
       "B": "Advise the patient to control his hypertension, diabetes, and cholesterol to avoid a similar fate in the other eye",
@@ -1742,7 +1742,7 @@
   {
     "id": 109,
     "source": "neuro-oq",
-    "question": "n 18-year-old girl presents to your clinic as a referral from her optometrist for \"bilateral disc swelling.\" The patient's only complaint is a new-onset, mild headache starting 3 weeks ago. Her medical history is significant for acne vulgaris for which she is taking isotretinoin. Her visual acuity is 20/20 OU, her pupillary exam is normal, she has full ductions and versions, and her static perimetry is full OU. Her dilated exam is shown above. Which of the following represents the next best course of management?",
+    "question": "Which of the following represents the next best course of management?",
     "options": {
       "A": "acetaminophen or a NSAID for her mild headaches",
       "B": "oral acetazolamide for her mild headaches",
@@ -1790,7 +1790,7 @@
   {
     "id": 112,
     "source": "neuro-oq",
-    "question": "A 75-year-old male with a history of heavy alcohol and cigarette use comes to your clinic today with a 2-month history of progressive visual loss in both eyes to 20/100 best corrected with associated prominent photopsias in both eyes. Exam one month ago by an outside ophthalmologist found 20/50 vision in both eyes with global depression on a reliable 24-2 Humphrey visual field. An electroretinogram (ERG) was performed a week ago and showed marked reduction in amplitude of both rod and cone function. Aside from his vision and mild vitritis OU, his ocular exam today is unremarkable (including normal pupils and fundus OU). What would be the next best step in diagnosis of this patient?",
+    "question": "What would be the next best step in diagnosis of this patient?",
     "options": {
       "A": "optic nerve optical coherence tomography (OCT)",
       "B": "thyroid function studies",
@@ -1822,7 +1822,7 @@
   {
     "id": 114,
     "source": "neuro-oq",
-    "question": "Image C shows a glaucomatous optic nerve with prominent cupping and a focal notch at about 5 o’clock. Glaucoma is classically associated with nerve fiber layer type defects such as nasal steps, arcuate defects, and altitudinal defects. It would be highly atypical for an optic nerve with prominent glaucomatous cupping and notching of the neuro-retinal rim to demonstrate an isolated cecocentral visual field defect. According to the Ischemic Optic Neuropathy Decompression Trial, what is the 5-year risk of contralateral involvement in patients with acute monocular non-arteritic anterior ischemic optic neuropathy?",
+    "question": "According to the Ischemic Optic Neuropathy Decompression Trial, what is the 5-year risk of contralateral involvement in patients with acute monocular non-arteritic anterior ischemic optic neuropathy?",
     "options": {
       "A": "1-2%",
       "B": "12-19%",
@@ -1870,7 +1870,7 @@
   {
     "id": 117,
     "source": "neuro-oq",
-    "question": "A 22-year-old African American female presents with vision loss in the left eye over the past 2 days. She reports severe left eye pain that is worse with eye movement. Her examination shows 20/20 vision in the right eye and 20/25 vision in the left eye. She has normal color vision, alignment, IOP, and motility. Her pupils show a left afferent pupillary defect. Her right eye exam is essentially normal. Confrontation fields are diffusely constricted in the left eye. Slit lamp exam shows 2+ anterior chamber cell and moderate optic nerve swelling in the left eye. An MRI of the orbits with IV contrast is performed and shown above. What type of optic neuropathy does this patient have?",
+    "question": "What type of optic neuropathy does this patient have?",
     "options": {
       "A": "Demyelinating optic neuritis",
       "B": "Ischemic optic neuropathy",
@@ -1918,7 +1918,7 @@
   {
     "id": 120,
     "source": "neuro-oq",
-    "question": "A 22-year-old African American female presents with vision loss in the left eye over the past 2 days. She reports severe left eye pain that is worse with eye movement. Her examination shows 20/20 vision in the right eye and 20/25 vision in the left eye. She has normal color vision, alignment, IOP, and motility. Her pupils show a left afferent pupillary defect. Her right eye exam is essentially normal. Confrontation fields are diffusely constricted in the left eye. Slit lamp exam shows 2+ anterior chamber cell and moderate optic nerve swelling in the left eye. An MRI of the orbits with IV contrast is performed and shown above. What would NOT be considered in the differential for this patient’s optic neuropathy?",
+    "question": "What would NOT be considered in the differential for this patient’s optic neuropathy?",
     "options": {
       "A": "Demyelinating optic neuritis associated with multiple sclerosis",
       "B": "Granulomatosis with polyangiitis",
@@ -2190,7 +2190,7 @@
   {
     "id": 137,
     "source": "neuro-oq",
-    "question": "A 45-year old female with a 2-year history of hyperthyroidism presents with a 4-month history of progressive vision loss in both eyes. Her vision is 20/200 OD and count fingers OS with poorly reactive pupils. She appears proptotic with diffuse deficits in extraocular motility with severe -3 upgaze limitations OU. She has 2+ conjunctival injection and bilateral eyelid retraction (OS>OD). Fundus exam shows mild pallor of both optic nerves. A Humphrey visual field 24-2 reveals global depression in both eyes. What is the the most appropriate step in acute management of this patient?",
+    "question": "What is the the most appropriate step in acute management of this patient?",
     "options": {
       "A": "Immediate IV or PO steroids",
       "B": "Immediate orbital radiation",
@@ -2254,7 +2254,7 @@
   {
     "id": 141,
     "source": "neuro-oq",
-    "question": "A 25-year-old female with no past medical history develops a painless unilateral scotoma in the temporal aspect of her right eye for the last 2 weeks. She vividly describes a flashing ring of lights along the margin of the scotoma. On exam, her central vision is 20/20 in both eyes and there is no afferent pupillary defect. Fundus exam is unremarkable and the optic nerves look healthy. Humprey visual field in the left eye is normal and in the right eye shows a 10-degree- wide cecocentral scotoma centered on the physiologic blind spot. What is the most appropriate next step in the care of this patient?",
+    "question": "What is the most appropriate next step in the care of this patient?",
     "options": {
       "A": "multifocal ERG",
       "B": "immediate admission for intravenous steroids",
@@ -2398,7 +2398,7 @@
   {
     "id": 150,
     "source": "neuro-oq",
-    "question": "A 75-year-old male smoker with hypertension, diabetes, and peripheral vascular disease presents to your clinic because when he awoke two days ago he noted new onset visual field loss inferiorly in his right eye without associated eye pain. On examination he has 20/50 vision in the right eye and 20/20 vision in the left eye. He identified 3/9 color plates in the right eye, 9/9 color plates in the left eye, and had a right afferent pupillary defect. His visual field in the right eye and right optic nerve appearance are shown above (left-sided photos). His left eye had full visual fields. Which of the pictured optic nerves (A-D) would you expect to see on fundus exam of the left eye?",
+    "question": "Which of the pictured optic nerves (A-D) would you expect to see on fundus exam of the left eye?",
     "options": {
       "A": "Photo A",
       "B": "Photo B",
@@ -2414,7 +2414,7 @@
   {
     "id": 151,
     "source": "neuro-oq",
-    "question": "Of the pictures shown, image A shows a normal optic nerve head with a small cup-to-disc ratio (\"disc at risk\"). Image B shows a hypoplastic optic nerve head with a classic \"double ring sign.\" Image C shows a glaucomatous optic nerve with prominent cupping and a focal notch at about 5 o'clock. Image D shows mild to moderate temporal pallor. A patient has a normally reactive pupil in the right eye and a chronically-dilated and unreactive pupil in the left eye from a prior trauma. What findings would prove an afferent pupillary defect (APD) in the left eye?",
+    "question": "What findings would prove an afferent pupillary defect (APD) in the left eye?",
     "options": {
       "A": "it is only possible to check for an APD in the right eye",
       "B": "it is impossible to check for an APD in either eye",
@@ -2446,7 +2446,7 @@
   {
     "id": 153,
     "source": "neuro-oq",
-    "question": "70-year-old male with diabetes and poorly controlled hypertension comes in because \"he can't see well.\" He is a poor historian with regard to his past ocular history. On exam, his best corrected vision is 20/200 OD and 20/25 OS. There is a brisk afferent pupillary defect (APD) OD. There is 3+ optic nerve pallor OD and moderate disc swelling OS. Goldman visual field testing shows global depression OD and enlargement of the blind spot OS. What is the name of this constellation of findings and what is the most likely etiology in this case (given the visual field findings)?",
+    "question": "What is the name of this constellation of findings and what is the most likely etiology in this case (given the visual field findings)?",
     "options": {
       "A": "Pseudo Foster Kennedy syndrome; sequential non-arteritic anterior ischemic optic neuropathy (NAION)",
       "B": "Pseudo Foster Kennedy syndrome; frontal lobe intracranial mass",
@@ -2462,7 +2462,7 @@
   {
     "id": 154,
     "source": "neuro-oq",
-    "question": "A 70-year-old male comes in with a complaint that his vision is \"terrible\" in both eyes and getting worse over the last few years. During the history his wife quickly chimes in that he often \"doesn?t see things right in front of him\" and has trouble telling time on a clock face. He had a recent MRI of the brain for these symptoms which showed only mild generalized atrophy of the brain appropriate for his age. On examination he has 20/25 vision in both eyes. His pupils, motility, alignment, intraocular pressures, slit lamp exam and dilated fundus exam is normal. His ocular examination is essentially normal except that he missed 9/9 color plates in both eyes including the two color plates demonstrated above. When you point to the individual colors within the color plates, the patient seems to be able to identify colors accurately. What is the most likely diagnosis in this case?",
+    "question": "t see things right in front of him\" and has trouble telling time on a clock face. He had a recent MRI of the brain for these symptoms which showed only mild generalized atrophy of the brain appropriate for his age. On examination he has 20/25 vision in both eyes. His pupils, motility, alignment, intraocular pressures, slit lamp exam and dilated fundus exam is normal. His ocular examination is essentially normal except that he missed 9/9 color plates in both eyes including the two color plates demonstrated above. When you point to the individual colors within the color plates, the patient seems to be able to identify colors accurately. What is the most likely diagnosis in this case?",
     "options": {
       "A": "Posterior cortical atrophy",
       "B": "Cone degeneration",
@@ -2708,7 +2708,7 @@
   {
     "id": 169,
     "source": "neuro-oq",
-    "question": "A 75-year-old smoker with a history of HTN, DM, and hyperlipidemia presents with acute onset oscillopsia, disequilibrium, face / body numbness, and difficulty walking. Exam shows a left- sided Horner syndrome, right upper and lower extremity numbness, left sided facial numbness, nystagmus, and left upper and lower extremity ataxia. The patient is unable to walk without falling to the left hand side. The patient had an MRI performed (MRI slices shown above include a T2 sequence on left and a diffusion weighted image shown on the right) confirming the diagnosis. Occlusion of what blood vessel most likely led to this constellation of findings?",
+    "question": "Occlusion of what blood vessel most likely led to this constellation of findings?",
     "options": {
       "A": "The middle cerebral artery",
       "B": "The posterior inferior cerebellar artery",
@@ -2756,7 +2756,7 @@
   {
     "id": 172,
     "source": "neuro-oq",
-    "question": "Humphrey visual field testing can test the central 20 degrees (10-2 protocol), 48 x 54 degrees (vertical x horizontal) (24-2), or 60 degrees (30-2) depending on the study type chosen. Tangent screens are typically used to evaluate the central 30 degrees with the patient seated 1 meter in front of the screen, although the size of the testing field can be changed by moving the patient forward or backward. Goldman visual fields are used to evaluate the entire visual field (the machine can test up to 180 degrees horizontally which far outreaches the potential monocular visual field in humans). Lesions compressing the most anterior aspect of the optic chiasm at the crossroads of one optic nerve and the chiasm can result in what combination of visual field defects?",
+    "question": "Lesions compressing the most anterior aspect of the optic chiasm at the crossroads of one optic nerve and the chiasm can result in what combination of visual field defects?",
     "options": {
       "A": "Full field visual loss in one eye with a superotemporal deficit in the contralateral eye",
       "B": "Symmetric bitemporal hemianopia of both entire temporal fields",
@@ -2772,7 +2772,7 @@
   {
     "id": 173,
     "source": "neuro-oq",
-    "question": "A 19-year-old otherwise healthy male comes in with two weeks of decreased vision in the left eye that developed acutely over several days. His review of systems is otherwise normal including a lack of eye pain. On examination he has 20/200 best corrected vision in the left eye, a 1+ left afferent pupillary defect, and diminished color plates. The fundus exam is significant for the findings seen above. Is neuro-imaging required in these patients and what is the risk for development of multiple sclerosis (MS)?",
+    "question": "Is neuro-imaging required in these patients and what is the risk for development of multiple sclerosis (MS)?",
     "options": {
       "A": "No neuro-imaging required; No risk of MS over general population",
       "B": "Neuro-imaging required; No risk of MS over general population",
@@ -2804,7 +2804,7 @@
   {
     "id": 175,
     "source": "neuro-oq",
-    "question": "A 65-year old male undergoes 4-vessel coronary artery bypass grafting complicated by bleeding with hypotension. He is resuscitated, however, and seems to recover well initially. When he awakes sufficiently to communicate, he denies any vision problems but nurses say he doesn't seem to see anything. On exam he reads the 20/20 line of the near card quickly with both eyes but gets every letter wrong (and doesn't even appear to be looking at the card when testing). Likewise he doesn't identify the correct number of fingers on finger count testing nor does he identify consistently when a light is shined in either eye. His pupil exam is seemingly normal and the remainder of his ocular exam is unremarkable. Neuro-imaging demonstrates bilateral occipital lobe strokes. \"My vision is fine,\" the patient says. What is the name for this patient's odd behavior?",
+    "question": "What is the name for this patient's odd behavior?",
     "options": {
       "A": "Pulfrich phenomenon",
       "B": "Anton syndrome",
@@ -2820,7 +2820,7 @@
   {
     "id": 176,
     "source": "neuro-oq",
-    "question": "A 14-month-old child presents to your clinic after his mom noted his eyes \"shaking\" since 3 months of age. He is small for his age and is significantly delayed in meeting all of his milestones. His mom fears that he does not see well. On examination you note fixation with intermittent following in both eyes. His pupils react to light and show no afferent pupillary defect. He has grossly full motility in both eyes and no strabismus. He does have prominent pendular nystagmus. The macula, vessels, and peripheral retina examination is normal in both eyes. His optic nerves are displayed above along with a recent MRI section demonstrating an important finding. What is the most common hormonal abnormality in these patients?",
+    "question": "What is the most common hormonal abnormality in these patients?",
     "options": {
       "A": "Low thyroid stimulating hormone (TSH)",
       "B": "Low growth Hormone (GH)",
@@ -2871,7 +2871,7 @@
   {
     "id": 179,
     "source": "neuro-oq",
-    "question": "An otherwise-healthy 25-year old male is assaulted by \"two dudes\" while \"minding his own business.\" He was struck on the left side of the face and suffered immediate vision loss in the left eye. On testing, his vision in the right eye is 20/20 and left eye is 20/150. He has brisk pupillary reflexes without an afferent pupillary defect (APD). There is mild swelling in the left frontal region but no periocular swelling. Ocular motility is full and visual fields are full to confrontation with finger counting in both eyes. The slit lamp exam and fundus exam is unremarkable in both eyes. The patient says he knows the \"two dudes\" and he is going to sue them. Why does this patient definitely not have traumatic optic neuropathy (TON)?",
+    "question": "Why does this patient definitely not have traumatic optic neuropathy (TON)?",
     "options": {
       "A": "His vision should be worse than 20/150 with TON",
       "B": "His fundus exam did not show disc edema",
@@ -2935,7 +2935,7 @@
   {
     "id": 183,
     "source": "neuro-oq",
-    "question": "A 40-year-old otherwise healthy African American female comes in complaining of 1 year of intermittent jumping vision and binocular diplopia with images oblique to one another. Between episodes her vision is fine. Each episodes last anywhere from a “split second” to “minutes” and episodes have become more frequently recently. The patient astutely notices that the episodes are sometimes triggered when she looks down or tilts her head to the left. Above is a video showing pertinent exam findings. What is the diagnosis in this case? ( video missing )",
+    "question": "A 40-year-old otherwise healthy African American female comes in complaining of 1 year of intermittent jumping vision and binocular diplopia with images oblique to one another. Between episodes her vision is fine. Each episodes last anywhere from a “split second” to “minutes” and episodes have become more frequently recently. The patient astutely notices that the episodes are sometimes triggered when she looks down or tilts her head to the left. Above is a video showing pertinent exam findings. What is the diagnosis in this case?",
     "options": {
       "A": "Cyclotorsional nystagmus",
       "B": "Volitional nystagmus",
@@ -3054,7 +3054,7 @@
   {
     "id": 190,
     "source": "neuro-oq",
-    "question": "A mother brings in her 14-month-old boy for evaluation of heterochromia that she noted in the first several months of age. The child was the product of a healthy pregnancy. He was a large fetus and underwent a challenging vaginal birth but had normal APGAR scores afterwards. He is healthy except for weakness in his left upper extremity. Per mom, the child seems to see very well. Mom does have a history of idiopathic anterior uveitis but no other medical problems. On your ocular examination the child demonstrates normal vision and has an otherwise unremarkable examination with the exception of the findings seen in the photograph. Which of the following is the most likely etiology for his heterochromia?",
+    "question": "Which of the following is the most likely etiology for his heterochromia?",
     "options": {
       "A": "Fuchs heterochromic iridocyclitis",
       "B": "Waardenberg syndrome",
@@ -3086,7 +3086,7 @@
   {
     "id": 192,
     "source": "neuro-oq",
-    "question": "A 30-year-old female presents with a dilated left pupil that she first noticed while applying make-up one week ago. She denies any associated eye pain, headache, diplopia, or ptosis but she feels like her near vision is blurry in the left eye. She denies any recent eye drops, takes no medications, and has suffered no ocular trauma in the past. On examination, she has 20/20 vision OU at distance with no evidence of an afferent pupillary defect. Her right pupil measures 5 mm in the dark and 3 mm in the light while her left pupil is slightly irregular (oval), measures about 8 mm in the dark, and is sluggishly reactive to light to 7 mm. With near gaze the patient has sluggish constriction of the left pupil to about 4 mm. After relaxation of near gaze there is a delayed re-dilation of the left pupil relative to the normal right pupil. The remainder of her examination is unremarkable (including alignment and motility testing). Which of the following would confirm the most likely diagnosis in this patient?",
+    "question": "Which of the following would confirm the most likely diagnosis in this patient?",
     "options": {
       "A": "No pupillary response to pilocarpine 0.125% in the left eye",
       "B": "Dramatic pupillary constriction to pilocarpine 0.125% in the left eye",
@@ -3118,7 +3118,7 @@
   {
     "id": 194,
     "source": "neuro-oq",
-    "question": "A 38-year-old man presents to the emergency department with two days of photophobia. The patient reports no medical history and takes no medications. He denies trauma, headaches, or any other neurologic symptom. Deep tendon reflexes are intact. Vision is 20/25 in the right eye and 20/20 in the left eye. Extraocular motility is full. The patient’s pupillary examination in bright lighting conditions and pharmacologic testing is shown in the photo. The right pupil is poorly reactive to light and dilates slowly. Which of the following is an etiology of the patient’s condition?",
+    "question": "Which of the following is an etiology of the patient’s condition?",
     "options": {
       "A": "Syphilis",
       "B": "Carotid artery dissection",
@@ -3214,7 +3214,7 @@
   {
     "id": 200,
     "source": "neuro-oq",
-    "question": "A 40-year-old female presents after suddenly noticing a dilated right pupil while applying make- up. She raced to the emergency room where a head CT was performed and interpreted as normal. She denies any associated headache, ptosis, diplopia, recent drops, recent medications, and recent trauma. On exam the patient is alert and cooperative. She has normal visual acuity, color vision, alignment, pressures, and motility. In dark conditions her pupils measure 6mm OD and 5.5 mm OS while in bright light conditions the pupils measure 5.5 mm OD and 3 mm OS. The right pupil shows only trace reactivity and there is no APD in either eye on examination. The slit lamp exam shows a slightly irregular oval configuration to the right pupil but is otherwise unremarkable. The fundus exam is normal. What is the most appropriate next step?",
+    "question": "What is the most appropriate next step?",
     "options": {
       "A": "Magnetic resonance angiography (MRA) of the brain",
       "B": "Computed resonance angiography (CTA) of the brain",
@@ -3262,7 +3262,7 @@
   {
     "id": 203,
     "source": "neuro-oq",
-    "question": "A 60-year-old female presents with anisocoria which she noticed one week prior to presentation while looking in the mirror. Her right pupil is significantly smaller than her left. She also noticed drooping of her right eyelid for the past year. She feels like her vision is slightly blurry in her left eye for the past 6 months although admits that her current glasses are 2 years old. She has a history of migraine headaches for about 35 years which are usually left sided and last for several hours before subsiding. There is a strong family history of migraines. The patient denies any headaches in the last week. If your exam confirms the presence of anisocoria, what single finding is the most important in elucidating the underlying etiology of her anisocoria?",
+    "question": "If your exam confirms the presence of anisocoria, what single finding is the most important in elucidating the underlying etiology of her anisocoria?",
     "options": {
       "A": "The presence of ptosis",
       "B": "The effect of lighting conditions on her anisocoria",
@@ -3278,7 +3278,7 @@
   {
     "id": 204,
     "source": "neuro-oq",
-    "question": "30-year-old nurse presents with a dilated left pupil for the last 2 days. She denies any associated headache, diplopia, or ptosis. She also denies any recent eye drops and takes no medications. On examination, she has 20/20 vision OU with no evidence of an afferent pupillary defect. Her right pupil measures 5 mm in the dark and 3 mm in the light while her left pupil is perfectly round, measures 8 mm in the dark, and is non-reactive to light (confirmed with the slit lamp). The remainder of her examination is unremarkable (including alignment and motility testing. There is no constriction of the left pupil with near gaze. You suspect that the patient has placed dilating drops in her left eye. Which of the following would definitively confirm the diagnosis of pharmacologic dilation?",
+    "question": "Which of the following would definitively confirm the diagnosis of pharmacologic dilation?",
     "options": {
       "A": "No pupillary response to pilocarpine 0.125% in the left eye",
       "B": "Dramatic pupillary constriction to pilocarpine 0.125% in the left eye",
@@ -3310,7 +3310,7 @@
   {
     "id": 206,
     "source": "neuro-oq",
-    "question": "A 45-year-old female with chronic back and neck pain presents with a drooping of her right upper eyelid for the last 2 weeks. She first noted the problem after a visit to her chiropractor for manipulation. She also notes an associated moderate right sided headache although she has a history of migraines in the past. Her vision is 20/20 OU with no afferent pupillary defect. She has anisocoria that is greater in dark and the right pupil is smaller than the left. The remainder of her neurological and ophthalmic examination is normal aside from 2 mm of right upper eyelid ptosis. Apraclonidine 0.5% applied to both eyes resulted in reversal of anisocoria and resolution of her right upper eyelid ptosis. What is the most appropriate next step in the care of this patient?",
+    "question": "What is the most appropriate next step in the care of this patient?",
     "options": {
       "A": "MRI / MRA of the head and neck",
       "B": "Immediate anticoagulation",
@@ -3374,7 +3374,7 @@
   {
     "id": 210,
     "source": "neuro-oq",
-    "question": "A 30-year-old female presents with a dilated left pupil that she first noticed while applying make-up one week ago. She denies any associated diplopia or ptosis. She denies any recent eye drops, takes no medications, and has suffered no ocular trauma in the past. On examination, she has 20/20 vision OU at distance with no evidence of an afferent pupillary defect. Her right pupil measures 5 mm in the dark and 3 mm in the light while her left pupil is slightly irregular (oval), measures about 8 mm in the dark, and is sluggishly reactive to light to 7 mm. The remainder of her examination is unremarkable (including alignment and motility testing). Pilocarpine 0.125% is applied to both eyes and 30 minutes following drop administration there is no response in the right eye but dramatic constriction in the left eye to 3 mm. Which of the following findings / symptoms would NOT be expected in association with this patient's pupil disorder?",
+    "question": "Which of the following findings / symptoms would NOT be expected in association with this patient's pupil disorder?",
     "options": {
       "A": "Blurred near vision in the left eye",
       "B": "Headache / periorbital pain",
@@ -3425,7 +3425,7 @@
   {
     "id": 213,
     "source": "neuro-oq",
-    "question": "A 20-year-old otherwise healthy male comes in with a complaint of sudden loss of color vision in both eyes for the last 3 weeks. He had a head CT in the ER about a week ago which was normal. His neuro-ophthalmic examination shows 20/20 vision in both eyes with normal pupillary testing and no afferent pupillary defect. He identified 3/9 Ishihara color plates OU but in both eyes missed the color plates shown above. His confrontation visual fields were full. Motility and alignment were normal. Slit lamp examination and dilated fundus examination were normal with healthy appearing optic nerves in both eyes. Based on his history and examination, what is the next best step in management?",
+    "question": "Based on his history and examination, what is the next best step in management?",
     "options": {
       "A": "Reassurance that his color vision will return",
       "B": "MRI of the orbits and brain",
@@ -3477,7 +3477,7 @@
   {
     "id": 216,
     "source": "neuro-oq",
-    "question": "A 75-year-old female with a past medical history of mild heartburn only presents with 1 week of progressive and fluctuating binocular diplopia. At times the images seem vertical to one another and at other times horizontal. She also reports a 2-month history of progressive headaches and several episodes of transient vision loss in the left eye lasting seconds. Her exam shows mild left upper eyelid ptosis and a complex strabismus pattern with both a right hypertropia and an esotropia in primary gaze. Motility is full in the right eye but shows a -2 elevation and -2 abduction deficit in the left eye. Despite a normal appearing fundus exam (left eye color photo shown above), you order a fluorescein angiography (select images shown above). What is the most likely diagnosis?",
+    "question": "What is the most likely diagnosis?",
     "options": {
       "A": "Giant cell arteritis",
       "B": "Orbital involvement by varicella zoster virus",
@@ -3625,7 +3625,7 @@
   {
     "id": 225,
     "source": "neuro-oq",
-    "question": "70-year-old with a four year history of difficulty walking and postural instability presents with a complaint of difficulty opening his eyelids. The patient notes that at times when he closes his eyes, he can not re-open them easily. He is able to reproduce his symptoms in clinic and you clearly see that the patient is struggling using frontalis contraction to open his eyelids. Once open, his superior eyelids are only slightly ptotic. The remainder of his ocular examination, including motility and saccades ,is unremarkable aside from numerous (>20 per minute) square wave jerks. What is the most likely diagnosis in this patient?",
+    "question": "What is the most likely diagnosis in this patient?",
     "options": {
       "A": "Vascular dementia",
       "B": "Progressive supranuclear palsy",
@@ -3673,7 +3673,7 @@
   {
     "id": 228,
     "source": "neuro-oq",
-    "question": "A 70-year-old male with diabetes and hypertension develops binocular diplopia immediately following uncomplicated cataract surgery in the left eye. There was no strabismus noted on preoperative examination. The diplopia improves slightly over several months but still remains. Examination two months following surgery reveals 20/20 vision in both eyes. There is a -2 elevation deficit in the left eye. Alignment testing reveals a moderate right hypertropia in primary gaze which increases on upgaze and resolves on downgaze. What is the most likely cause of this patient's strabismus?",
+    "question": "What is the most likely cause of this patient's strabismus?",
     "options": {
       "A": "Retrobulbar injection",
       "B": "Thyroid associated ophthalmopathy",
@@ -3788,7 +3788,7 @@
   {
     "id": 235,
     "source": "neuro-oq",
-    "question": "50-year-old male presents with 4 months of progressive horizontal binocular diplopia. Exam shows normal visual acuity, color vision, pupils, IOP, and visual fields to confrontation. Motility exam shows a -2 left abduction deficit. Alternate cover alignment testing shows a 15 prism diopter esotropia in primary gaze that increases to 40 prism diopters in left gaze and decreases to 5 prism diopters in right gaze. Neurological examination is significant for diminished hearing and upper + lower facial weakness on the left hand side. Where is the most likely location of the lesion causing these deficits?",
+    "question": "Where is the most likely location of the lesion causing these deficits?",
     "options": {
       "A": "The left cerebellar hemisphere",
       "B": "The cerebellar flocculonodular lobe",
@@ -3804,7 +3804,7 @@
   {
     "id": 236,
     "source": "neuro-oq",
-    "question": "Inflammation in the petrous portion of the temporal bone can affect the 5th, 6th and 7th cranial nerve in Gradenigo's syndrome (usually a result of mastoiditis). Classically patients with Gradenigo's syndrome will develop severe ipsilateral trigeminal (V1-3) distribution pain in addition to a 6th nerve palsy. Many patients will also develop an ipsilateral complete facial nerve palsy. The abducens nerve travels with sympathetics in a portion of the cavernous sinus so an ipsilateral Horner's combined with a 6th nerve palsy is suggestive of cavernous sinus pathology. Likewise, any constellation of deficits of the 3rd, 4th, 6th, V1, V2 or the sympathetic nerves is also localizable to the cavernous sinus. The 6th nerve exits the ventral pons at the pontomedullary junction and is located adjacent to the cerebellopontine angle where cranial nerves 7 and 8 exit the brainstem; any combination of deficits of these nerves is suggestive of a mass lesion of the CPA (usually an acoustic neuroma or meningioma). Large CPA masses can also affect trigeminal sensation to the face and cornea. Which of the following findings would NOT be expected in a patient with a congenital right 4th nerve palsy?",
+    "question": "Which of the following findings would NOT be expected in a patient with a congenital right 4th nerve palsy?",
     "options": {
       "A": "Left head tilt",
       "B": "Right gaze preference",
@@ -3836,7 +3836,7 @@
   {
     "id": 238,
     "source": "neuro-oq",
-    "question": "Considering CCFs are high flow and DSFs are low flow connections, the sequelae tend to be more severe and dramatic with CCFs. CCFs often require urgent angiography with thrombosis while DSFs can at times be observed to see if they resolve spontaneously. The urgency and need for repair must be judged on a case-by-case basis because catheter angiography carries a serious complication rate of around 1% in the literature (ischemic stroke, hemorrhage, etc) A 60-year-old male with poorly controlled diabetes and hypertension presents with a 2 week history of binocular diplopia resulting in diagonally displaced images. The diplopia is constant but more prominent on downgaze. Exam shows no gross motility deficits but alternate cover testing reveals a 5 prism diopter right hypertropia which increases on right head tilt and left gaze. Double Maddox rod testing reveals 5 degrees of right incyclotorsion and 8 degrees of left excyclotorsion . What is the most likely diagnosis?",
+    "question": "What is the most likely diagnosis?",
     "options": {
       "A": "Right CN IV palsy",
       "B": "Bilateral CN IV palsy (right more than left)",
@@ -3868,7 +3868,7 @@
   {
     "id": 240,
     "source": "neuro-oq",
-    "question": "A 40-year-old male with no past medical history comes in with 2 weeks of virtually constant binocular diplopia with no other associated symptoms except for a headache. Per the patient's account, the diplopia consists of two horizontally separated images. It is present in all gazes but resolves when he is reading. Exam is remarkable for normal visual acuity and normal motility. Alignment testing with alternate cover reveals a comitant 6 prism diopter esotropia in primary, right, and left gaze. At near the patient is orthophoric. What is the next best step in the management of this patient?",
+    "question": "What is the next best step in the management of this patient?",
     "options": {
       "A": "MRI of the brain",
       "B": "Strabismus surgery",
@@ -3900,7 +3900,7 @@
   {
     "id": 242,
     "source": "neuro-oq",
-    "question": "A 50-year-old female with a history of hypothyroidism diagnosed 15 years prior presents with 1 month of progressive binocular diplopia, tearing, and bilateral ocular injection. Her external examination is shown above. There is normal orbicularis strength bilaterally. When the right superior eyelid is manually elevated, the left superior eyelid appearance remains unchanged. Her motility exam is marked by a -1 elevation deficit in the right eye along with a -2 elevation deficit and -1 abduction deficit in the left eye. Of the options provided, which is the most helpful test in this patient to confirm your suspected diagnosis?",
+    "question": "Of the options provided, which is the most helpful test in this patient to confirm your suspected diagnosis?",
     "options": {
       "A": "Acetylcholine receptor antibody panel",
       "B": "Thyroxine (T4)",
@@ -3916,7 +3916,7 @@
   {
     "id": 243,
     "source": "neuro-oq",
-    "question": "A 40-year-old male presents with a 1-year history of intermittent binocular diplopia that is becoming more frequent and more bothersome. Initially, it occurred only late in the evening when he was tired but now it takes great effort at all times to fuse the two diagonal images. There is no associated ptosis or anisocoria. Examination is remarkable for a comitant 10 prism diopter right hypertropia. A review of old pictures reveals that the patient had a previously unrecognized left head tilt in all of his childhood photos although it does not appear in photos taken in the last 20 years. A recent MRI of the brain is unremarkable and the patient is diagnosed with a congenital CN IV palsy. What principle explains the alignment measurements in this patient which at first glance don't seem to fit a unilateral superior oblique palsy?",
+    "question": "What principle explains the alignment measurements in this patient which at first glance don't seem to fit a unilateral superior oblique palsy?",
     "options": {
       "A": "Spread of comitance",
       "B": "Hering's Law",
@@ -3964,7 +3964,7 @@
   {
     "id": 246,
     "source": "neuro-oq",
-    "question": "A 65-year-old male poor historian who reports a vague past medical history of hypertension is referred to you after suffering a right 6th nerve palsy 2 months ago. The patient states that he awoke one morning with severe horizontal binocular diplopia and his right eye was \"stuck in.\" The patient has no primary care provider (PCP) so he went to the emergency department (ED). The ED physician diagnosed him at the time with a right 6th nerve palsy and told him to patch either eye for diplopia relief and follow-up with you. The patient reports that his diplopia improved over about a month following onset and is now almost completely resolved except for occasional double vision on far right gaze. His visual acuity is normal and the remainder of his exam (including slit lamp and fundoscopy) is remarkable for a 2 diopter esophoria in primary gaze, orthophoria in left gaze, and an 8 diopter intermittent esotropia in right gaze. What is the most appropriate next step?",
+    "question": "What is the most appropriate next step?",
     "options": {
       "A": "Send the patient to a general internist / primary care physician",
       "B": "Prescribe Fresnel prisms for his intermittent esotropia",
@@ -4028,7 +4028,7 @@
   {
     "id": 250,
     "source": "neuro-oq",
-    "question": "A 20-year-old female complains of intermittent binocular diplopia when she is reading late at night. Review of old photographs reveals a chronic right head tilt since early childhood. Alignment testing shows a left hypertropia that is worse on downgaze and right gaze. When testing each eye individually, eye movements appear full. When testing eye movements under binocular conditions there is a prominent up shoot of the left eye on far right gaze. Which of the following accurately describes her eye movement examination?",
+    "question": "Which of the following accurately describes her eye movement examination?",
     "options": {
       "A": "Abnormal ductions and versions",
       "B": "Normal ductions and versions",

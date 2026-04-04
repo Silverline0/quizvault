@@ -242,7 +242,7 @@
   {
     "id": 14,
     "source": "retina-bcsc",
-    "question": "A 45-year-old woman is brought to the emergency department with a 3- hour history of severe headache, accompanied by altered mental status, and decreased vision in her right eye. Her medical history includes chronic hypertension. Her right eyelid is mildly ptotic, and she has limitations in adduction and infraduction in the right eye only. Her right pupil is dilated and unreactive; her left pupil is normal. Dilated fundus examination of the right eye reveals a vitreous hemorrhage obscuring the posterior pole. The peripheral retina appears normal. What is the most appropriate next diagnostic test in the management of this patient?",
+    "question": "What is the most appropriate next diagnostic test in the management of this patient?",
     "options": {
       "A": "lumbar puncture",
       "B": "computed tomography (CT) and CT angiography (CTA) of the brain",
@@ -262,7 +262,7 @@
   {
     "id": 15,
     "source": "retina-bcsc",
-    "question": "An infant is noted to have leukocoria, microphthalmos, and elongated ciliary processes. What is the most likely diagnosis? one-third of patients with subarachnoid or subdural hemorrhage have associated intraocular hemorrhage, which may include intraretinal and subretinal bleeding. Terson syndrome occurs primarily in individuals between 30 and 50 years old, but it can occur at any age. In most cases, the visual function is unaﬀected once the hemorrhage clears. Spontaneous improvement generally occurs, although vitrectomy is occasionally required to clear the ocular media. Pupillary dysfunction with CN III palsy results from loss of parasympathetic input and produces a mid-dilated pupil that responds poorly to light. Patients may present with variable dysfunction of the levator palpebrae or extraocular muscles. Aneurysms that arise at the junction of the posterior communicating artery (PCoA) and internal carotid artery (ICA) are juxtaposed to CN III and are, therefore, in a position to produce a CN III palsy as the initial manifestation of aneurysmal expansion or rupture. Pupillary involvement occurs because the pupillomotor ﬁbers reside superﬁcially in the medial aspect of the nerve adjacent to the PCoA. Thus, until proven otherwise, the clinician must assume that a nontraumatic CN III palsy with pupillary involvement or evidence of progression to pupillary involvement is secondary to an aneurysm. If left untreated, subarachnoid hemorrhage has a high mortality rate (10 of aneurysmal SAHs die before they reach the hospital, 25 die within 24 hours, and 45 die within 30 days); as such, the most important diagnostic test is neuroimaging with noncontrast CT of the brain. A lumbar puncture is indicated for cases in which the initial CT results are negative but suspicion remains high. Although B-scan ultrasonography may be useful to evaluate the posterior pole, neuroimaging is the most important imaging study for the initial consideration. MRI is not as helpful as a noncontrast CT for detecting blood, and CTA is faster, which makes a CT and CTA slightly more optimal in the emergent management of this condition.",
+    "question": "An infant is noted to have leukocoria, microphthalmos, and elongated ciliary processes. What is the most likely diagnosis?",
     "options": {
       "A": "Coats disease",
       "B": "persistent fetal vasculature (PFV)",
@@ -766,7 +766,7 @@
     "options": {
       "A": "immediate globe exploration in the operating room",
       "B": "magnetic resonance imaging (MRI) of the brain and orbits",
-      "C": "Retinopathy Study (ETDRS), what therapy was demonstrated to be safe and eﬀective for the treatment of the condition illustrated? ! \" # placement of a fox shield on the eye and a plan for immediate globe exploration and possible repair of open globe",
+      "C": "placement of a fox shield on the eye and a plan for immediate globe exploration and possible repair of open globe",
       "D": "computed tomography (CT) scan of the brain and orbits"
     },
     "correctAnswer": "D",
@@ -1184,7 +1184,7 @@
     "source": "retina-bcsc",
     "question": "A 62-year-old man with a history of trabeculectomy in the right eye 1 year prior presents with pain and decreased vision in the right eye. On examination, he has diﬀuse conjunctival hyperemia, purulent material within the bleb, and 2+ cell in the anterior chamber and vitreous cavity. What is the most appropriate treatment?",
     "options": {
-      "A": "decreased central vision. An optical coherence tomography (OCT) scan is performed and the image is shown below. What complication is most likely to occur? ! \" # topical antibiotics",
+      "A": "topical antibiotics",
       "B": "topical steroids",
       "C": "intravitreal antibiotics with or without pars plana vitrectomy",
       "D": "subconjunctival antibiotics"
@@ -2165,7 +2165,7 @@
     "options": {
       "A": "syphilis",
       "B": "toxoplasmosis",
-      "C": "in his left eye while hammering a nail into a plank on his deck. His slit-lamp photograph is abnormal as shown. What test would be most useful to direct further management of this patient? ! \" # previous trauma",
+      "C": "previous trauma",
       "D": "cone dystrophy"
     },
     "correctAnswer": "A",
@@ -3423,7 +3423,7 @@
     "source": "retina-bcsc",
     "question": "What cells are targeted by the cell- mediated immune response against cell antigens in Vogt-Koyanagi- Harada disease?",
     "options": {
-      "A": "evaluating therapy for branch retinal vein occlusions, for what indication is intravitreal anti– vascular endothelial growth factor (anti-VEGF) therapy management proven eﬀective? ! \" # horizontal cells",
+      "A": "horizontal cells",
       "B": "ganglion cells",
       "C": "melanocytes",
       "D": "photoreceptors"
@@ -3901,7 +3901,7 @@
     "source": "retina-bcsc",
     "question": "What is the most common ocular vascular complication associated with hypertensive retinopathy? &",
     "options": {
-      "A": "visual acuity is 20/100. In addition to normal postoperative ﬁndings, the examination is signiﬁcant only for subtle foveal hypopigmentation. Macular optical coherence tomography (OCT) demonstrates the ﬁndings shown in the photo. What is the most likely diagnosis? ! & # retinal venous occlusion",
+      "A": "retinal venous occlusion",
       "B": "iris neovascularization",
       "C": "arteritic ischemic optic neuropathy",
       "D": "retinal venous macroaneurysm"
@@ -4055,7 +4055,7 @@
   {
     "id": 257,
     "source": "retina-bcsc",
-    "question": "A 24-year-old man from India presents with the ﬁnding in the photograph. He has similar ﬁndings in the other eye. The macula and optic nerves of both eyes were normal appearing. Laboratory tests show a normal fasting blood sugar, normal serum angiotensin converting enzyme, nonreactive rapid plasma reagin (RPR), negative antinuclear antibody (ANA), negative serum toxoplasmosis antibody, negative Lyme Western- blot, unremarkable chest x-ray, negative antineutrophil cytoplasmic antibody (ANCA), and negative sickle screen. He was born full-term during an uncomplicated pregnancy. What is the most likely diagnosis?",
+    "question": "What is the most likely diagnosis?",
     "options": {
       "A": "Coats disease",
       "B": "polypoidal choroidal vasculopathy",
@@ -4220,7 +4220,7 @@
       "A": "subretinal blood",
       "B": "pigment epithelial detachment",
       "C": "conﬂuent drusen",
-      "D": "acute onset, paracentral “ﬂashing lights” in 1 eye, nasal visual ﬁeld loss by confrontation in both eyes, and normal visual acuity in both eyes. Vitreous cells are present posteriorly in both eyes. The fundus is otherwise unremarkable."
+      "D": "subretinal hard exudate"
     },
     "correctAnswer": "B",
     "explanation": "Visual ﬁeld, multifocal electroretinogram (mfERG), and optical coherence tomography (OCT) testing reveal scotomas corresponding to focally decreased mfERG responses and outer retinal layer disruption in both eyes. What is this patient’s most likely diagnosis? ! % # subretinal hard exudate The characteristic lesion complex of idiopathic central serous chorioretinopathy is a ﬂuid-ﬁlled pigment epithelial detachment (\"classic PED\") under a localized serous retinal detachment. The presence of conﬂuent drusen, subretinal hemorrhage, or exudate, either in the retina or in the subretinal space, should lead to further investigation, as ICSC alone does not cause these. Either the diagnosis is incorrect or an ICSC-associated choroidal neovascularization should be suspected. & multiple evanescent white dot syndrome (MEWDS) B. 28% Your Answer serpiginous chorioretinopathy C. 1% acute posterior multifocal placoid pigment epitheliopathy (APMPPE) D. 59% Correct Answer BCSC Excerpt References Notes.",
@@ -4235,7 +4235,7 @@
   {
     "id": 266,
     "source": "retina-bcsc",
-    "question": "A 24-year-old woman presents with acute onset, paracentral ﬂashing lights in 1 eye, nasal visual ﬁeld loss by confrontation in both eyes, and normal visual acuity in both eyes. Vitreous cells are present posteriorly in both eyes. The fundus is otherwise unremarkable. Visual ﬁeld, multifocal electroretinogram (mfERG), and optical coherence tomography (OCT) testing reveal scotomas corresponding to focally decreased mfERG responses and outer retinal layer disruption in both eyes. What is this patient’s most likely diagnosis? subretinal hard exudate D.",
+    "question": "A 24-year-old woman presents with acute onset, paracentral ﬂashing lights in 1 eye, nasal visual ﬁeld loss by confrontation in both eyes, and normal visual acuity in both eyes. Vitreous cells are present posteriorly in both eyes. The fundus is otherwise unremarkable. Visual ﬁeld, multifocal electroretinogram (mfERG), and optical coherence tomography (OCT) testing reveal scotomas corresponding to focally decreased mfERG responses and outer retinal layer disruption in both eyes. What is this patient’s most likely diagnosis?",
     "options": {
       "A": "multiple evanescent white dot syndrome",
       "B": "intermediate uveitis (pars planitis)",
@@ -4455,7 +4455,7 @@
   {
     "id": 277,
     "source": "retina-bcsc",
-    "question": "A patient has a history of idiopathic macular hole in the right eye. The left eye has a posterior vitreous detachment. What is the risk of getting an idiopathic macular hole in the left eye? The follow-up interval for retinopathy of prematurity (ROP) screening is determined based on the disease features; more severe disease indicates a need for shorter follow-up intervals. A premature infant with immature vascularization in zone I should be reevaluated in 1 week or less, even in the absence of ROP. Screening Intervals Screening Intervals 1-Week or Less Follow-up zone I: immature vascularization only (stage 0); zone I: stage 1 or stage 2 ROP; immature ret ina (stage 0) extending into posterior zone II, near the boundary ofzone I and zone II; suspected A- ROP; and stage 3 ROP: zone I requires treatment not observation 1-to 2-Week Follow-up immature vascularization; posterior zone II stage 2 ROP: zone II unequivocally regressing ROP: zone I 2-Week Follow-up stage 1 ROP: zone II zone II: immature vascularization (stage 0); and zone II: unequivocally regressing ROP 2- to 3-Week Follow-up stage 1 or 2 ROP: zone III regressing ROP: zone III",
+    "question": "A patient has a history of idiopathic macular hole in the right eye. The left eye has a posterior vitreous detachment. What is the risk of getting an idiopathic macular hole in the left eye?",
     "options": {
       "A": "The left eye has a 50% risk of developing a macular hole.",
       "B": "The left eye has a 10% risk of developing a macular hole.",
@@ -4475,7 +4475,7 @@
   {
     "id": 278,
     "source": "retina-bcsc",
-    "question": "A 37-year-old White woman presents to the emergency department (ED) with 3 days of decreased vision in both eyes. She states that everything in her vision appears to have a magenta hue. Her past medical history is signiﬁcant for uncontrolled asthma, with an asthma attack a few days ago. She denies a history of diabetes mellitus, headache, weight loss, fevers, or chills. Her visual acuity is 20/80 in the right eye and count ﬁngers at 4 feet in the left eye. The fundus of both eyes is shown in the Figure. In the ED, her blood pressure is 138/88 and a complete blood cell count is normal. What is the most likely diagnosis?",
+    "question": "What is the most likely diagnosis?",
     "options": {
       "A": "Valsalva retinopathy",
       "B": "hypertensive retinopathy",
@@ -4639,7 +4639,7 @@
     "options": {
       "A": "ﬂuorescein angiography",
       "B": "telemedicine fundus photograph",
-      "C": "depression, what characteristics of a retinal detachment are most consistent with a tractional retinal detachment? ! % # a dilated fundus examination",
+      "C": "a dilated fundus examination",
       "D": "optical coherence tomography"
     },
     "correctAnswer": "C",
@@ -5133,7 +5133,7 @@
   {
     "id": 360,
     "source": "retina-bcsc",
-    "question": "A 47-year-old woman developed the sudden onset of severe headache and spots in both eyes. She had a head computed tomography (CT) scan without contrast that is read as normal. She is treated with pain medication, and the headache improves but persists for 2 more days. On examination, her visual acuity is 20/25 OU, her pupils react briskly without a relative aﬀerent pupillary defect, and her color vision, confrontation visual ﬁelds, and anterior segment slit-lamp examination are normal. The ophthalmologist notices a few cells in the vitreous and observes the fundus shown in the ﬁgures. What test is recommended next for this patient? & A clinical feature characteristic for dominant (familial) drusen is the distribution of drusen beyond the temporal vascular arcades and nasal optic nerve margin. A single missense mutation (Arg345Trp) on exon 10 in the EFEMP1 gene of some patients with dominant drusen results in a ﬁbrillin-like extracellular matrix protein expressed in the retinal pigment epithelium (RPE) and retina. The clinical ﬁndings typically ﬁrst manifest bilaterally in the third to fourth decade of life. Although usually asymptomatic, choroidal neovascularization may develop in this patient population and lead to loss of vision. In contrast to drusen of age-related macular degeneration (ARMD), the lesions of dominant drusen are typically small and round. Clumping and hyperplasia of the RPE and drusen clustering in the macula are features of ARMD, not familial drusen.",
+    "question": "A 47-year-old woman developed the sudden onset of severe headache and spots in both eyes. She had a head computed tomography (CT) scan without contrast that is read as normal. She is treated with pain medication, and the headache improves but persists for 2 more days. On examination, her visual acuity is 20/25 OU, her pupils react briskly without a relative aﬀerent pupillary defect, and her color vision, confrontation visual ﬁelds, and anterior segment slit-lamp examination are normal. The ophthalmologist notices a few cells in the vitreous and observes the fundus shown in the ﬁgures. What test is recommended next for this patient?",
     "options": {
       "A": "vitreous tap",
       "B": "lumbar puncture",
@@ -5173,7 +5173,7 @@
   {
     "id": 362,
     "source": "retina-bcsc",
-    "question": "A 42-year-old White man presents with 2 days of malaise and rapidly progressive vision loss in the right eye. He is HIV positive with a CD4 count of 5 cells/mm3. Visual acuity is 20/100 right eye and 20/25 left eye. Dilated fundus examination of both eyes is shown in the ﬁgures. What is the most likely diagnosis? aﬀects approximately 1 in 50,000 people worldwide. Other systemic disorders associated with angioid streaks include Paget disease of bone, beta thalassemia, sickle cell disease, and Ehlers-Danlos disease. Angioid streaks are typically more prominent adjacent to or can extend from the optic disc, in contrast to Bruch membrane ruptures from trauma or high myopia ( lacquer cracks ). Ulcerative colitis and Crohn disease are associated with uveitis but not angioid streaks. Oculocutaneous albinism can have depigmented skin spots, but not papules. Angioid streaks are not a feature of ocular cutaneous albinism. Angioid streaks Angioid streaks can be associated with numerous systemic diseases, the most common being pseudoxanthoma elasticum (PXE), also known as Groenblad-Strandberg syndrome. A popular mnemonic used to recall the more common associations is PEPSI PEPSI: Pseudoxanthoma elasticum, Ehler-Danlos syndrome, Paget disease of bone, Sickle cell disease and other hemoglobinopathies, I Idiopathic. Other systemic associations include abetalipoproteinemia, acromegaly, diabetes mellitus, facial angiomatosis, hemochromatosis, hemolytic anemia, hereditary spherocytosis, hypercalcinosis, hyperphosphatemia, lead poisoning, myopia, neuroﬁbromatosis, senile elastosis, Sturge- Weber syndrome, and tuberous sclerosis.",
+    "question": "A 42-year-old White man presents with 2 days of malaise and rapidly progressive vision loss in the right eye. He is HIV positive with a CD4 count of 5 cells/mm3. Visual acuity is 20/100 right eye and 20/25 left eye. Dilated fundus examination of both eyes is shown in the ﬁgures. What is the most likely diagnosis?",
     "options": {
       "A": "cryptococcosis",
       "B": "birdshot chorioretinopathy",
@@ -5195,7 +5195,7 @@
     "source": "retina-bcsc",
     "question": "In the context of ocular genetic disorders, what is the deﬁnition of pleiotropy? &",
     "options": {
-      "A": "toxoplasmosis, what physical examination ﬁnding should prompt HIV testing? ! & # Multiple genes give rise to the same phenotype.",
+      "A": "Multiple genes give rise to the same phenotype.",
       "B": "Mutations in both alleles cause a disease phenotype.",
       "C": "Diverse phenotypes share mutations in a common causative gene.",
       "D": "Mutations in a single allele cause a disease phenotype."
@@ -5876,7 +5876,7 @@
     "question": "Nine weeks after routine cataract surgery, a patient develops a steroid-responsive granulomatous uveitis/endophthalmitis, with a white plaque on her intraocular lens. What would be the most appropriate management of this condition? &",
     "options": {
       "A": "injection of vitreous antibiotics",
-      "B": "retinitis pigmentosa with congenital sensorineural hearing loss? ! & # sampling of the anterior chamber",
+      "B": "sampling of the anterior chamber",
       "C": "topical antibiotics and steroids",
       "D": "pars plana vitrectomy (PPV) and partial capsulectomy with intravitreal antibiotic injection"
     },
@@ -6696,7 +6696,7 @@
     "question": "An ophthalmologist examines the optical coherence tomography (OCT) image from a 56-year-old diabetic patient with nonproliferative diabetic retinopathy in both eyes. The patient has blurred vision in the eye illustrated by the ﬁgure. What condition is most likely the cause for this patient's visual reduction?",
     "options": {
       "A": "epiretinal membrane",
-      "B": "presenting feature of what retinal condition? ! \" # exudative macular degeneration",
+      "B": "exudative macular degeneration",
       "C": "vitreomacular traction syndrome",
       "D": "cystoid macular edema"
     },

@@ -1141,7 +1141,7 @@
   {
     "id": 72,
     "source": "lens-cataract-oq",
-    "question": "You have just examined a 65-year-old who has a cataract.  He had LASIK surgery 10 years ago.  His refraction is -1.50 sphere which gives him 20/40 vision.  His keratometry by Humphrey topography are 46/46.   On topography, you note that the center of the cornea is flatter than the periphery.  He states that he would like to see perfectly at a distance after the surgery without glasses. You have a 43 D / -1.00 spherical hard contact lens in the clinic.  You place this onto the eye and get an over-refraction of +1.00 sphere (20/40).  What average K should you insert into an IOL calculation formula?",
+    "question": "What average K should you insert into an IOL calculation formula?",
     "options": {
       "A": "42.5 D",
       "B": "43.5 D",
@@ -1269,7 +1269,7 @@
   {
     "id": 80,
     "source": "lens-cataract-oq",
-    "question": "A 30-year-old African American female with a past medical history of severe asthma requiring intermittent periods of oral corticosteroids presents with a complaint that her vision has been getting worse in both eyes when driving at night for the last year including prominent blurring of oncoming cars.  There is no family history of difficulty with night vision.  On exam in both eyes, you note 20/20 best corrected vision, an unremarkable ocular surface (without and with fluorescein stain usage), mild posterior subcapsular cataracts, and a dilated fundus exam remarkable only for scattered extramacular drusen. Which of the following would be the most useful test to identify the cause for her subjective visual disturbance?",
+    "question": "Which of the following would be the most useful test to identify the cause for her subjective visual disturbance?",
     "options": {
       "A": "Schirmer’s test",
       "B": "Fluorescein angiography (FA)",
@@ -1445,7 +1445,7 @@
   {
     "id": 91,
     "source": "lens-cataract-oq",
-    "question": "You have just broken the posterior capsule and completely aspirated the bag.  Your attending would like you to insert an anterior chamber intraocular lens (ACIOL) into the eye.  The technician asks what length you would like to use.  You say, \"Does it matter?\" Your attending glares at you and says, \"Yes\".  You are told that the horizontal white-to-white distance is 12.5 mm and the vertical is 11.5 mm.  Which of the following ACIOL lengths is best for this patient?",
+    "question": "\" Your attending glares at you and says, \"Yes\".  You are told that the horizontal white-to-white distance is 12.5 mm and the vertical is 11.5 mm.  Which of the following ACIOL lengths is best for this patient?",
     "options": {
       "A": "12.5 mm",
       "B": "13 mm",
@@ -1877,7 +1877,7 @@
   {
     "id": 118,
     "source": "lens-cataract-oq",
-    "question": "You are seeing a patient in consultation. They have had cataract surgery at another practice. You note bilateral guttata. You note that the intraocular lens that was implanted is subluxed with the edge of the optic in the visual axis. If the patient moves her eye from side-to-side, the lens also moves. The lens does not appear to be stable due to little capsular bag remaining.  You decide to explant this lens and iris-suture a 3-piece intraocular lens instead.  Which of the following suture material is most appropriate to fixate this new intraocular lens to the iris?",
+    "question": "Which of the following suture material is most appropriate to fixate this new intraocular lens to the iris?",
     "options": {
       "A": "9-0 or 10-0 Nylon",
       "B": "9-0 or 10-0 Plain Gut",
@@ -1961,7 +1961,7 @@
   {
     "id": 123,
     "source": "lens-cataract-oq",
-    "question": "A 56-year-old patient presents for evaluation of cataract surgery in the left eye.  The patient has been followed for many years due to amblyopia of both eyes and is currently treated for glaucoma.  Best-corrected visual acuity historically has been 20/60 and 20/80 in the right and left eyes respectively.  Slit lamp examination demonstrates deep set orbits, corneal diameters of 9.5 / 10 mm and a shallow anterior chamber.  Fundoscopic exam is unremarkable. The table shows the patient’s current refraction and pertinent biometric data. Compared to a routine surgery, cataract surgery in this patient carries a greater risk of which of the following?",
+    "question": "Compared to a routine surgery, cataract surgery in this patient carries a greater risk of which of the following?",
     "options": {
       "A": "Retinal detachment",
       "B": "Endophthalmitis",
@@ -2105,7 +2105,7 @@
   {
     "id": 132,
     "source": "lens-cataract-oq",
-    "question": "You are performing cataract surgery with topical and intracameral anesthesia on a 60-year-old man whose preoperative refraction was -7.00 D in the operative eye.  This eye is also status post vitrectomy for prior retinal detachment repair. His only medical history is benign prostatic hyperplasia for which he takes tamsulosin.  Six minutes into the case, you have finished nuclear extraction with an intact capsular bag, and did not note zonular laxity.  The patient begins to complain of significant pain during cortical removal.  His anterior chamber is deep, red reflex is normal, and vital signs are BP 130/70, HR 85, RR 16. What is the next step in management?",
+    "question": "What is the next step in management?",
     "options": {
       "A": "Continue with the procedure as a routine case",
       "B": "Introduce additional intracameral preservative-free lidocaine",
@@ -2201,7 +2201,7 @@
   {
     "id": 138,
     "source": "lens-cataract-oq",
-    "question": "You placed a 3-piece biconvex lens in the capsular bag and are ready to finish when your scrub tech peers through the assistant's scope and says \"Don't you have that lens in there backwards?\"  You take a second look and notice that the haptics are oriented such that they have an \"S\" type of configuration.  What is the correct response to your scrub tech?",
+    "question": "\"  You take a second look and notice that the haptics are oriented such that they have an \"S\" type of configuration.  What is the correct response to your scrub tech?",
     "options": {
       "A": "\"You need to go back to general surgery cases. That lens is in there properly.\"",
       "B": "\"You are right that it is in there backwards, but it will not affect the patient's final refraction.\"",
@@ -2428,7 +2428,7 @@
   {
     "id": 152,
     "source": "lens-cataract-oq",
-    "question": "A patient comes to see you 3 months after having cataract surgery in the left eye. She states that her left eye is irritated with an annoying foreign body sensation. On exam, her best corrected visual acuity is 20/20 and 20/70 in the right and left eyes respectively.  Her intraocular pressures (IOPs) are 20 mmHg and 3 mmHg in the right and left eyes respectively.  You observe some macular folds in the left eye which is confirmed by optical coherence tomography.  She states that she had an \"old-style\" cataract surgery OS by an Ophthalmologist who is 81-years-old.  You also note that the patient's left pupil is slightly superiorly displaced toward what appears to be an extracapsular cataract wound.  There appears to be a bleb overlying this cataract wound.  Which of the following options would be appropriate to improve the hypotony of this patient's left eye?",
+    "question": "Which of the following options would be appropriate to improve the hypotony of this patient's left eye?",
     "options": {
       "A": "prednisolone acetate 1% qid",
       "B": "bromfenac 0.07% daily",
@@ -2508,7 +2508,7 @@
   {
     "id": 157,
     "source": "lens-cataract-oq",
-    "question": "A 68-year-old man undergoes uneventful cataract surgery in the right eye. During his postoperative day one visit, he notes significantly improved vision, but complains of new onset diplopia. Examination demonstrates 20/30 and 20/25 vision in the right and left eyes respectively.  Motility examination is shown in the image. Preoperatively, the patient demonstrated no deviations, had full extraocular movements, and denied any history of strabismus or amblyopia. Which the following is the most likely cause of the patient’s diplopia?",
+    "question": "Which the following is the most likely cause of the patient’s diplopia?",
     "options": {
       "A": "Paretic muscle from local anesthesia",
       "B": "Unmasking of preexisting misalignment not previously symptomatic due to poor vision",
@@ -2524,7 +2524,7 @@
   {
     "id": 158,
     "source": "lens-cataract-oq",
-    "question": "An 81-year-old woman with a history of cataract extraction OU 6 months ago presents with worsening vision in the right eye over the past several weeks.  She states that other than a few floaters, her vision was excellent after cataract surgery until the onset of these recent symptoms. Her manifest refraction 1 month after cataract surgery was -0.25 sphere OU (20/20 OU).  On today’s exam, her manifest refraction is -1.75 sphere OD (20/50) and -0.25 sphere OS (20/20).  She denies any pain or recent trauma.  She has no symptoms in the left eye.  Her slit-lamp and anterior segment (AS) OCT exams are shown above.  Fundus exam is normal with no vitreous cell OU.  What is the recommended management?",
+    "question": "What is the recommended management?",
     "options": {
       "A": "observation",
       "B": "pars plana vitrectomy with partial posterior capsulotomy",
@@ -2543,7 +2543,7 @@
   {
     "id": 159,
     "source": "lens-cataract-oq",
-    "question": "An 81-year-old presents with progressively decreasing vision in the right eye over the past several months. Her past ocular history is significant for cataract surgery 7 years ago in both eyes. On exam, her best-corrected visual acuity is 20/40 and 20/20 in the right and left eyes respectively. Her intraocular pressures are 12 mmHg OU and her fundus exam is normal. Her slit-lamp and anterior segment imaging of the right eye are seen above. There is no intraocular inflammation. Which of the following statements is TRUE regarding this condition?",
+    "question": "Which of the following statements is TRUE regarding this condition?",
     "options": {
       "A": "Laser peripheral iridotomy is curative",
       "B": "Intraocular lens exchange is the best treatment option",
@@ -2594,7 +2594,7 @@
   {
     "id": 162,
     "source": "lens-cataract-oq",
-    "question": "A 74-year-old man presents for his post-operative year 1 visit after cataract surgery in the left eye.  A toric multifocal lens was used.  Manifest refraction has been stable at -2.00 + 0.25 @ 70.  The patient is unhappy with blurry vision at distance and decreased contrast sensitivity.  However, he is most bothered by persistent glare and haloes around lights.  You have prescribed the manifest refraction, have tried a variety of dry eye treatments and even pilocarpine, but his significant glare and halo complaints persist. He has no significant posterior capsular opacity, low angle kappa and alpha, and no macular issues.  He has undergone no other ocular procedures.  What treatment should be offered to this patient",
+    "question": "",
     "options": {
       "A": "Observation and reassurance that symptoms will resolve over time",
       "B": "Corneal refractive surgery with a plano target",
@@ -2610,7 +2610,7 @@
   {
     "id": 163,
     "source": "lens-cataract-oq",
-    "question": "A 76-year-old man presents for a post-operative appointment after cataract surgery. The patient had phacoemulsification with placement of a one-piece intraocular lens two weeks ago.  His intraocular pressure (IOP) has been elevated at each visit despite medical therapy.  Best corrected visual acuity is 20/20.  IOP is 37 mmHg by applanation.  The anterior chamber shows 3+ cell and an external photo is shown. The patient’s current medications include prednisolone, diclofenac, brimonidine-timolol, dorzolamide, and oral acetazolamide. What is the best next step in management of the patient?",
+    "question": "What is the best next step in management of the patient?",
     "options": {
       "A": "\"Burp\" the main wound and follow the patient closely",
       "B": "Surgical removal of retained nuclear material",
@@ -2690,7 +2690,7 @@
   {
     "id": 168,
     "source": "lens-cataract-oq",
-    "question": "You are seeing an 85 year old patient who had intracapsular cataract surgery 10 years ago. You note that there is about 1 clock hour of corneal edema inferiorly. You ask the patient to come back in a week. At this visit, the corneal edema has spread circumferentially to involve the nasal and temporal peripheral cornea in addition to the inferior. You ask her to return in a month. At the one month visit, the entire cornea peripherally has corneal edema. Curiously, the central cornea is clear. What is the name of this syndrome?",
+    "question": "What is the name of this syndrome?",
     "options": {
       "A": "Fuchs circumferential corneal edema",
       "B": "Brown-McLean syndrome",
@@ -2706,7 +2706,7 @@
   {
     "id": 169,
     "source": "lens-cataract-oq",
-    "question": "A 89-year-old woman is referred to you for \"corneal edema.\"  Her past ocular history is significant for cataract surgery OD in the 1970s where she was left aphakic.  She has been wearing an aphakic contact lens in the right eye ever since that cataract surgery. Her slit-lamp exam of the right eye is significant for edema of the peripheral 2 mm of her right cornea.  Underlying the edematous areas, there is occasional punctate brownish pigmentation.  The rest of her right cornea is completely clear.  There is a surgical iridectomy superiorly.  She is indeed aphakic and there is no vitreous seen in the anterior chamber.  Which of the following is true regarding this condition?",
+    "question": "Which of the following is true regarding this condition?",
     "options": {
       "A": "The edema typically begins approximately 3-6 months after intraocular surgery",
       "B": "This condition can be caused by mutations in ZEB1, SLC4A11, or LOXHD1 in some individuals",
@@ -2722,7 +2722,7 @@
   {
     "id": 170,
     "source": "lens-cataract-oq",
-    "question": "A 73-year-old patient presents to your office 9 months after cataract surgery with complaints of eye irritation in the left eye. He is s/p bilateral cataract surgery was uneventful. His visions are 20/20 in both eyes without correction. His pressures are 14 in both eyes. You note that he has limbal flush with trace to 1 cell in the anterior chamber of his left eye. You also note mild KP on the endothelium of the left eye. His right anterior chamber is unremarkable. He has no autoimmune diseases and has never had iritis before. On exam his IOL is well centered in the capsular bag and there is 2+ posterior capsular opacity in the left eye. You treat him with a two-month taper of pred forte and his symptoms and signs improve. He follows up six months later for the same condition with the same findings. You give him the same treatment with the same result. He now follows up one year after the initial presentation (third episode) with the same findings. Which of the following would be highest on your differential diagnosis?",
+    "question": "Which of the following would be highest on your differential diagnosis?",
     "options": {
       "A": "uveitis secondary to unknown underlying autoimmune condition",
       "B": "P. Acnes infection",

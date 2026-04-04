@@ -542,7 +542,7 @@
     "source": "glaucoma-bcsc",
     "question": "A 22-year-old myopic male presents with an intraocular pressure (IOP) of 35 mm Hg OD and 20 mm Hg OS. Slit-lamp examination of the anterior segment is normal and gonioscopy shows open angles in both eyes. The C:D ratio is 0.8, with a thin inferior rim OD, and is 0.7 OS, with a uniform rim. Visual ﬁeld testing shows a superior ﬁeld defect OD and is normal OS. Optical coherence tomography (OCT) shows thin retinal nerve ﬁber layer (RNFL) OU. What is the most likely diagnosis?",
     "options": {
-      "A": "is absolutely contraindicated in what scenario? ! \" # primary congenital glaucoma",
+      "A": "primary congenital glaucoma",
       "B": "juvenile open-angle glaucoma (JOAG)",
       "C": "pigmentary glaucoma",
       "D": "ocular hypertension"
@@ -903,7 +903,7 @@
     "question": "What class of glaucoma medications can induce uterine smooth muscle contraction and should therefore be avoided during pregnancy?",
     "options": {
       "A": "alpha agonists",
-      "B": "with an intraocular pressure (IOP) of 24 mm Hg OD and 26 mm Hg OS, a cup-to-disc ratio of 0.5 with healthy neuroretinal rims OU, full visual ﬁelds and a central corneal thickness (CCT) of 625 microns OU. What would the next most reasonable course of action be? ! \" # prostaglandin analogues",
+      "B": "prostaglandin analogues",
       "C": "carbonic anhydrase inhibitors",
       "D": "beta blockers"
     },
@@ -1080,7 +1080,7 @@
   {
     "id": 57,
     "source": "glaucoma-bcsc",
-    "question": "An 84-year-old Asian woman presents to the emergency room, reporting severe pain in her right eye for 4 hours. On examination, visual acuity is count ﬁngers in the right eye and 20/40 in the left eye. The right eye has conjunctival injection, a steamy cornea, and mid-dilated ﬁxed pupil. Intraocular pressure is 62 mm Hg OD and 22 mm Hg OS. The ophthalmologist determines that she has acute angle-closure glaucoma and plans to treat her high intraocular pressure with topical and systemic medication. Mannitol would have to be used with extreme caution if the patient had what medical problem?",
+    "question": "Mannitol would have to be used with extreme caution if the patient had what medical problem?",
     "options": {
       "A": "recent methamphetamine intoxication",
       "B": "recent myocardial infarction",
@@ -1202,7 +1202,7 @@
     "options": {
       "A": "Schedule a repeat examination in 1 year.",
       "B": "Start ocular hypotensive medical therapy OU.",
-      "C": "treating medically uncontrolled neovascular glaucoma (NVG) when the patient has good visual potential? ! \" # Obtain standard automated perimetry OU.",
+      "C": "Obtain standard automated perimetry OU.",
       "D": "Perform selective laser trabeculoplasty (SLT) OU."
     },
     "correctAnswer": "C",
@@ -2218,7 +2218,7 @@
   {
     "id": 117,
     "source": "glaucoma-bcsc",
-    "question": "Once the aqueous humor leaves the anterior chamber, what is the order of intraocular structures through which it passes in the pressure- sensitive outﬂow pathway? Open-angle glaucoma characteristically causes loss of the nerve ﬁber layer and ganglion cell layer, as illustrated in the ﬁgure. The remaining layers of the retina are normal. These pathologic changes explain the clinical ﬁndings of nerve ﬁber layer atrophy and eventual optic nerve changes. Experimental studies in primates show that the earliest structural changes in the retina with chronic elevation of intraocular pressure (IOP) are seen in the ganglion cell dendritic arbors and then the cell body. Eventually, the nerve axon (nerve ﬁber layer) degenerates. Today, optical coherence tomography (OCT) use to observe peripapillary retinal nerve ﬁber layer (RNFL) thickness has been established as a means of detecting and monitoring glaucoma. Recently, spectral-domain OCT (SD- OCT) has been used for quantitative assessment of macular thickness, with special attention to the macular RNFL, ganglion cell layer, and inner plexiform layer. However, whether this provides any advantages over assessment of the peripapillary RNFL is still under discussion.",
+    "question": "Once the aqueous humor leaves the anterior chamber, what is the order of intraocular structures through which it passes in the pressure- sensitive outﬂow pathway?",
     "options": {
       "A": "corneoscleral trabecular meshwork, juxtacanalicular meshwork, uveal trabecular meshwork, outlet or collector channels, Schlemm canal, episcleral veins",
       "B": "ciliary muscle, Schlemm canal, outlet or collector channels, scleral wall",
@@ -2238,7 +2238,7 @@
   {
     "id": 118,
     "source": "glaucoma-bcsc",
-    "question": "What is the critical slit-lamp ﬁnding in phacolytic glaucoma? Next, the aqueous passes through Schlemm canal which resembles a lymphatic vessel. It is a single channel (200-300 μm) lined by an endothelial layer with a discontinuous basement membrane. From Schlemm canal, approximately 25 to 30 collector channels arise and drain into the deep and midscleral venous plexi. Though not clearly delineated in the BCSC Glaucoma section, this is covered in the BCSC Fundamentals and Principles of Ophthalmology section. Eventually, via a complex system of vessels, the aqueous reaches the episcleral veins and subsequently ﬂows into the anterior ciliary and superior ophthalmic veins, which drain into the cavernous sinus. The pressure-insensitive uveoscleral outﬂow likely has many paths; however, the answer choice ciliary muscle, suprachoroidal space, scleral wall describes the predominant one. The aqueous passes from the anterior chamber into the ciliary muscle, then into supraciliary and suprachoroidal spaces and ﬁnally through intact sclera or along the nerves and vessels penetrating it. The uveoscleral pathway may account for up to 45 of total aqueous outﬂow. It is increased by cycloplegia, adrenergic agents, and prostaglandin analogues. It is decreased with age, glaucoma, and by miotics. One of the remaining incorrect answers has the incorrect order, and the other is a mix of structures from the pressure-sensitive and pressure- insensitive pathways.",
+    "question": "What is the critical slit-lamp ﬁnding in phacolytic glaucoma?",
     "options": {
       "A": "keratic precipitates on the corneal endothelium",
       "B": "large cells with debris and ﬂare in the anterior chamber",
@@ -2258,7 +2258,7 @@
   {
     "id": 119,
     "source": "glaucoma-bcsc",
-    "question": "A 62-year-old Asian female comes for a routine eye exam except she feels as though her vision has been slowly worsening over the past year. A complete ocular examination is performed. The anterior segment examination is unremarkable except for trace nuclear sclerosis in both eyes and an intraocular pressure measurement of 28 mm Hg OU. Gonioscopy reveals bilateral, relatively symmetric scattered peripheral anterior synechiae. The patient's ocular history is unremarkable. What is the most likely cause of this patient's gonioscopic ﬁndings?",
+    "question": "What is the most likely cause of this patient's gonioscopic ﬁndings?",
     "options": {
       "A": "acute primary angle closure",
       "B": "chronic angle closure",
@@ -2738,7 +2738,7 @@
   {
     "id": 144,
     "source": "glaucoma-bcsc",
-    "question": "A 60-year-old woman with history of primary angle-closure glaucoma, status post successful laser peripheral iridotomy in the past, has uncontrolled intraocular pressure (IOP) on medical treatment. The visual acuity is 20/25, there is synechial angle closure for 270 degrees, and the cup-to-disc (C:D) ratio is 0.9. What is the most appropriate intervention for this patient? less-pliable ghost cells (ﬁgure). These may have small fragments of denatured hemoglobin adherent to the inner surface of the cytoplasmic membrane (Heinz bodies). These spherical ghost cells may remain in the vitreous cavity for months and may occlude the trabecular meshwork by passing into the anterior chamber, leading to ghost cell glaucoma. Aspiration of the anterior chamber can conﬁrm the diagnosis with the demonstration of ghost cells with the Heinz bodies. Longer-term ﬁndings with the degeneration of vitreous RBCs include macrophage phagocytosis and cholesterol crystal formation from the lipids of the cell membranes, at times provoking areas of ﬁbrous and foreign-body, giant-cell reaction. The cholesterol crystals are freely mobile within the vitreous, which is often degenerated and liqueﬁed after a hemorrhage, leading to cholesterolosis bulbi.",
+    "question": "A 60-year-old woman with history of primary angle-closure glaucoma, status post successful laser peripheral iridotomy in the past, has uncontrolled intraocular pressure (IOP) on medical treatment. The visual acuity is 20/25, there is synechial angle closure for 270 degrees, and the cup-to-disc (C:D) ratio is 0.9. What is the most appropriate intervention for this patient?",
     "options": {
       "A": "cyclophotocoagulation",
       "B": "glaucoma ﬁltration surgery",
@@ -3398,7 +3398,7 @@
   {
     "id": 177,
     "source": "glaucoma-bcsc",
-    "question": "A 58-year-old patient with a history of below-knee amputation underwent a vitrectomy with endolaser 3 years prior for a tractional retinal detachment. He presents to the emergency resident clinic with elevated IOP of 68 mm Hg, severe pain, and decreased vision in the previously operated eye. The patient has a narrow anterior chamber peripherally and centrally, without iris bombé. Topical drops in the oﬃce do not lower the intraocular tensions signiﬁcantly, and an emergent laser peripheral iridotomy does not alleviate the elevation of pressure, pain, or blurry vision. A medication is given to the patient and it signiﬁcantly lowers the eye pressure over 30-60 minutes after administration. Although the patient's vision and eye pressure are improving, he suddenly develops confusion, abdominal pain, and a fruity scent to his breath. What medication was given to the patient to bring the intraocular tension down?",
+    "question": "What medication was given to the patient to bring the intraocular tension down?",
     "options": {
       "A": "inner pigmented epithelial cells",
       "B": "outer pigmented epithelial cells",
@@ -3461,7 +3461,7 @@
     "question": "A patient with pseudoexfoliation syndrome develops a worsening of glaucoma status related to a central retinal vein occlusion. What is the appropriate classiﬁcation for this glaucoma?",
     "options": {
       "A": "kinetic perimetry",
-      "B": "of lattice degeneration presents with mild distortion of the vision in the right eye for 2 weeks. On examination there are 1+ anterior chamber and vitreous cells, including pigment granules in the eye. The intraocular pressure (IOP) is 28. There are no keratic precipitates or posterior synechiae.",
+      "B": "diode laser cyclophotocoagulation",
       "C": "frequency doubling technology perimetry",
       "D": "tangent screen"
     },
@@ -3723,7 +3723,7 @@
       "A": "medication vs. observation",
       "B": "observation vs. laser treatment",
       "C": "ﬁltering surgery vs. medication",
-      "D": "meshwork (TM) is targeted when applying treatment with selective laser trabeculoplasty (SLT)? ! \" # laser treatment vs. ﬁltering surgery"
+      "D": "laser treatment vs. ﬁltering surgery"
     },
     "correctAnswer": "C",
     "explanation": "The Collaborative Initial Glaucoma Treatment Study was a multicenter randomized controlled trial that compared 607 patients with newly diagnosed open-angle glaucoma (OAG) with an IOP of 20 mm Hg or greater, and optic nerve damage, and/or visual ﬁeld loss in 1 or both eyes. Patients were randomized to initial treatment with ﬁltering surgery (trabeculectomy) or a stepped regimen of topical therapy (single drug to start, and addition of more if target IOP was not met, or if visual ﬁeld progression was noted). If treatment failed in either arm, argon laser trabeculoplasty (ALT) was performed. CITGS showed that aggressive intraocular pressure (IOP) lowering (35%) in patients with newly diagnosed glaucoma (excluding normal- tension glaucoma patients) had more stability of visual ﬁelds, regardless of the method used to achieve that eﬀect. Initially, the surgical arm of the study achieved lower IOPs; however, at 5 years, there was no statistically signiﬁcant diﬀerence between the 2 groups. The surgically treated cohort required cataract removal at a greater rate than the medically treated cohort.",

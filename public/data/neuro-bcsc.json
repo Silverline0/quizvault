@@ -62,7 +62,7 @@
   {
     "id": 5,
     "source": "neuro-bcsc",
-    "question": "What examination ﬁnding would suggest functional rather than organic vision loss in a patient with apparent no light perception (NLP) vision in both eyes? tomography is helpful for visualizing the retina or optic nerve anatomy and quantifying thickness of the retina or retinal nerve ﬁber layer, respectively. However, many retinopathies will eventually result in thinning of the retinal nerve ﬁber layer (and can even cause optic atrophy), and primary optic neuropathies can result in thinning of the retina around the macula. Fluorescein angiography may be helpful in distinguishing between pseudoedema and true edema of the optic nerve, and can also reveal certain retinal vascular and anatomic defects. However, ﬂuorescein angiography alone does not diﬀerentiate between all retinopathies and optic neuropathies. For example, macular edema may be present in optic neuropathies (such as neuroretinitis or severe papilledema). Decreased color vision out of proportion to visual acuity may suggest optic neuropathy, but in cases where there is decreased visual acuity and color vision, it may not be as clear-cut: Maculopathies can also cause decreased color vision. Electrophysiologic studies (electroretinogram [ERG] and visual evoked potentials [VEP]) can be very speciﬁc in localizing the etiology of the vision loss to the retina or optic nerve. For example, an abnormal ERG and VEP would be consistent with retinopathy, whereas a normal ERG and abnormal VEP is highly suggestive of an optic neuropathy.",
+    "question": "What examination ﬁnding would suggest functional rather than organic vision loss in a patient with apparent no light perception (NLP) vision in both eyes?",
     "options": {
       "A": "pupillary constriction with near viewing eﬀort",
       "B": "normal a-wave on full-ﬁeld electroretinography (ERG)",
@@ -122,7 +122,7 @@
   {
     "id": 8,
     "source": "neuro-bcsc",
-    "question": "A 30-year-old man presents with the ﬁnding shown in the ﬁgure. His visual function is normal at the time of the examination. What is the expected clinical course in this case? associated with optic disc edema or pallor. This example highlights the importance of using contrast in patients suspected of having an optic neuropathy or chiasmal syndrome. There is no evidence of proptosis. Unless the chiasmal lesion involves the orbital optic nerve, optic disc edema would not be expected in a patient with enhancement of the optic chiasm. The cavernous sinuses appear normal, making an abduction deﬁcit unlikely.",
+    "question": "A 30-year-old man presents with the ﬁnding shown in the ﬁgure. His visual function is normal at the time of the examination. What is the expected clinical course in this case?",
     "options": {
       "A": "acute onset of severe vision loss with minimal recovery",
       "B": "acute onset of vision loss, followed by variable levels of recovery",
@@ -262,7 +262,7 @@
   {
     "id": 15,
     "source": "neuro-bcsc",
-    "question": "Sildenaﬁl and tadalaﬁl have been shown to be eﬀective in treating pulmonary arterial hypertension. They also may increase the risk of nonarteritic ischemic optic neuropathy (NAION) in high-risk patients. Individuals may be taking this class of medications for the treatment of what disorder? The contrast-enhanced coronal T1-weighted MRI shows an enhancing lesion involving the right cavernous sinus without involvement of the optic chiasm, which would most likely cause subtle motility disorders that may be diagnosed by performing an alternate cover test. Blurred vision may be used by patients to describe a variety of symptoms, including double vision, suppression, or visual ﬁeld loss. Structures that pass through the cavernous sinus include cranial nerves III, IV, V1, and V2, as well as CN VI. Cranial nerve VI passes through the cavernous sinus itself, whereas cranial nerves III and IV pass through the lateral wall of the cavernous sinus. Slow-growing cavernous sinus lesions may cause subtle motility problems (such as a subtle sixth nerve palsy) so that in primary position, patients may be asymptomatic and only develop symptoms in certain positions of gaze (such as ipsilateral gaze). Ocular misalignments can be detected with alternate cover testing. Examination of the pupils may occasionally reveal anisocoria if the third nerve is involved or if there is an ipsilateral Horner syndrome; however, no relative aﬀerent pupillary defect would be expected. Measures of aﬀerent visual function such as Amsler grid testing and color vision testing would not be aﬀected by a cavernous sinus lesion.",
+    "question": "Sildenaﬁl and tadalaﬁl have been shown to be eﬀective in treating pulmonary arterial hypertension. They also may increase the risk of nonarteritic ischemic optic neuropathy (NAION) in high-risk patients. Individuals may be taking this class of medications for the treatment of what disorder?",
     "options": {
       "A": "angina",
       "B": "peptic ulcer disease",
@@ -680,7 +680,7 @@
   {
     "id": 36,
     "source": "neuro-bcsc",
-    "question": "What clinical ﬁnding is consistent with aberrant regeneration of CN III? lateral region of the brainstem disrupts the sensory pathways; therefore, Wallenberg syndrome is a type of stroke without paralysis. Patients can present with these signs and symptoms: ipsilateral loss of facial pain and temperature sensation (involvement of the descending tract of CN V) contralateral loss of hemibody pain and temperature sensation (involvement of the lateral spinothalamic tract) ipsilateral cerebellar ataxia (damage to spinocerebellar tracts) ipsilateral ﬁrst-order Horner syndrome ipsilateral ocular tilt reaction (head tilt toward the side of the lesion) In addition, patients can have dysarthria, dysphagia, vertigo, or persistent hiccups; there is no extremity weakness. Although the lateral medulla is in the distribution of the posterior inferior cerebellar artery (PICA), Wallenberg syndrome usually results from occlusion of the more proximal vertebral artery. Consequently, patients may experience lateropulsion, the sensation of being pulled toward the side of the lesion, which results from damage to the CN VIII nuclei. Patients may also manifest ocular lateropulsion; this eﬀect can be tested by examination of horizontal pursuit and saccadic movements, which will reveal a bias that produces hypermetric movements toward the side of the lesion and hypometric movements away from the side of the lesion. Vertical saccades may follow an elliptical path as the eyes deviate toward the side of the lesion during the vertical movement. Finally, this directional bias also can be observed by noting that the eyes turn toward the side of the lesion after visual ﬁxation is removed for a few seconds.",
+    "question": "What clinical ﬁnding is consistent with aberrant regeneration of CN III?",
     "options": {
       "A": "eyelid retraction with supraduction",
       "B": "pupillary mydriasis with adduction",
@@ -840,7 +840,7 @@
   {
     "id": 44,
     "source": "neuro-bcsc",
-    "question": "What visual ﬁeld defect is typical of Leber hereditary optic neuropathy? Ocular ﬁndings in neuroﬁbromatosis type 1 (NF1) include Lisch nodules (ﬁgure), prominent corneal nerves, and choroidal hamartomas. Lisch nodules are ﬂat or dome-shaped iris nodules, usually less than 1 mm and tan to dark brown in color. They are hamartomas (tissue normally found at the site, but in increased amounts). Schwann cells, ﬁbroblast-like cells, and mast cells have been identiﬁed in biopsies of Lisch nodules, supporting neural crest origin. Lisch nodules are present in 10 of children with NF1 at 1 year of age, but in nearly 100 by age 10. The presence of 2 or more Lisch nodules is one of the criteria for the diagnosis of NF1 (6 or more cafe-au-lait spots; 2 or more neuroﬁbromas; intertriginous freckling; optic nerve glioma; Lisch nodules; distinctive osseous lesions; ﬁrst-degree relative with NF1). The NF1 gene is located at chromosome 17 q11.20, and its product, neuroﬁbromin, is a tumor suppressant. The loss of neuroﬁbromin leads to cell and tumor growth. Lisch nodules diﬀer from iris mammillations, which are smaller, diﬀuse nodules on the iris surface, but which are the same color as the iris.",
+    "question": "What visual ﬁeld defect is typical of Leber hereditary optic neuropathy?",
     "options": {
       "A": "altitudinal ﬁeld defect",
       "B": "cecocentral scotoma",
@@ -959,7 +959,7 @@
   {
     "id": 50,
     "source": "neuro-bcsc",
-    "question": "A 48-year-old woman suddenly develops painful vision loss in her right eye. Two weeks later, she develops similar symptoms in her left eye. She is counting ﬁngers with the right eye and hand motion with the left eye, without a relative aﬀerent pupillary defect, but with sluggishly reactive pupils. Her dilated exam in the right eye is normal, but she has mild optic nerve head (ONH) edema in the left eye. MRI shows bilateral enhancement of the optic nerves. After treatment with IV methylprednisolone, she experiences only minimal vision recovery. What underlying condition is the most likely cause of her bilateral vision loss?",
+    "question": "What underlying condition is the most likely cause of her bilateral vision loss?",
     "options": {
       "A": "giant cell arteritis",
       "B": "multiple sclerosis (MS)",
@@ -1259,7 +1259,7 @@
   {
     "id": 65,
     "source": "neuro-bcsc",
-    "question": "A 32-year-old woman slipped on ice and sustained blunt head trauma. Her workup including a computed tomography (CT) scan, which was negative. Since then, she has experienced horizontal uncrossed diplopia, which is greater in left gaze. It does not vary with the time of day. The vision is 20/20 in each eye. When the right eye ﬁxes, the deviation in the primary position is 20 prism diopters of left esotropia, 10 prism diopters on right gaze, and 30 prism diopters on left gaze. When the left eye ﬁxes, the right esotropia in the primary position is 30 prism diopters, 20 prism diopters in right gaze, and 40 prism diopters in left gaze. What best explains the diﬀerence in the measurements dependent on which eye is ﬁxing? & The answer is the nasociliary nerve. The postganglionic sympathetic ﬁbers enter the cavernous sinus via the internal carotid artery and exit into the orbit with the nasociliary branch of the ophthalmic division of the trigeminal nerve.",
+    "question": "What best explains the diﬀerence in the measurements dependent on which eye is ﬁxing?",
     "options": {
       "A": "The patient has developed myasthenia gravis.",
       "B": "A secondary deviation is greater than a primary deviation.",
@@ -1619,7 +1619,7 @@
   {
     "id": 83,
     "source": "neuro-bcsc",
-    "question": "A 35-year-old man has vertical, binocular diplopia that seems worse when driving. He has a left hypertropia of 5 PD in primary gaze, absent on right gaze, increasing to 9 PD on left gaze with clockwise gaze- evoked nystagmus. There is no head tilt. What additional ﬁnding on examination would help to support the most likely diagnosis? & ODD can cause visual ﬁeld defects similar to those of glaucoma, and they tend to be nonprogressive. There is no proven treatment to prevent visual loss, and the prognosis is usually very good. Acetazolamide is a ﬁrst-line agent in treating idiopathic intracranial hypertension (IIH), which causes true papilledema (optic nerve head edema from increased intracranial pressure). Intravenous steroid is the initial treatment of choice for acute optic neuritis.",
+    "question": "A 35-year-old man has vertical, binocular diplopia that seems worse when driving. He has a left hypertropia of 5 PD in primary gaze, absent on right gaze, increasing to 9 PD on left gaze with clockwise gaze- evoked nystagmus. There is no head tilt. What additional ﬁnding on examination would help to support the most likely diagnosis?",
     "options": {
       "A": "slow left-eye adducting saccade",
       "B": "variable ptosis with sustained upgaze",
@@ -1639,7 +1639,7 @@
   {
     "id": 84,
     "source": "neuro-bcsc",
-    "question": "For 4 days, a 32-year-old man has had left visual loss and pain on eye movement. The right eye is normal. In the left eye, his visual acuity is hand- movements, his optic disc is swollen, and he has a relative aﬀerent pupillary defect (RAPD). His brain magnetic resonance imaging (MRI) scan with contrast is normal; his orbital MRI shows enhancement of the intraorbital left optic nerve. Three weeks later, he develops right-sided weakness and numbness, and spine MRI shows an enhancing lesion from T3 to T7. Based upon the most likely cause of his disorder, what long-term treatment would be preferred?",
+    "question": "Based upon the most likely cause of his disorder, what long-term treatment would be preferred?",
     "options": {
       "A": "azathioprine 150 mg by mouth daily",
       "B": "fractionated stereotactic radiotherapy to the spinal lesion",
@@ -2039,7 +2039,7 @@
   {
     "id": 104,
     "source": "neuro-bcsc",
-    "question": "A man with HIV infection that was untreated for several years developed rapid peripheral vision loss over 3 weeks. He is otherwise well, without fever or chills, although he is slightly confused. Visual acuity is 20/400 OU, pupils react briskly, and the fundus appears normal. What abnormality can be expected to be found in his cerebrospinal ﬂuid (CSF)? In patients with facial nerve palsy, the most crucial question is the status of the trigeminal nerve. Patients developing facial nerve palsy from stroke or intracranial surgery are also at risk of developing a trigeminal neuropathy that may eliminate their corneal sensitivity. The combination of an anesthetic cornea and lagophthalmos places these patients at a very high risk of developing corneal exposure and ulceration. Intact corneal sensation is protective for maintaining blink reﬂex and lacrimation, especially in patients who may lack concomitant upgaze with lid closure (Bell phenomenon). The risk of combined neurotrophic and neuroparalytic keratitis demands an aggressive approach that possibly includes early tarsorrhaphy or gold weight implant. Although an intact Bell phenomenon may help protect the cornea from exposure in some cases of lagophthalmos, corneal sensation is the most important exam ﬁnding to help determine risk of corneal ulceration. Lissamine green stain may highlight devitalized conjunctival epithelial cells, but this is not predictive for ulceration. Conjunctival culture to assess the ocular surface ﬂora is also not predictive of risk of corneal complications. &",
+    "question": "A man with HIV infection that was untreated for several years developed rapid peripheral vision loss over 3 weeks. He is otherwise well, without fever or chills, although he is slightly confused. Visual acuity is 20/400 OU, pupils react briskly, and the fundus appears normal. What abnormality can be expected to be found in his cerebrospinal ﬂuid (CSF)?",
     "options": {
       "A": "John Cunningham (JC) virus positivity",
       "B": "India ink–stained cysts",
@@ -2079,7 +2079,7 @@
   {
     "id": 106,
     "source": "neuro-bcsc",
-    "question": "A 10-year-old boy with a history of neuroﬁbromatosis type 1 presented with no light perception (NLP) vision, prominent and disﬁguring proptosis, and corneal scarring OD. Magnetic resonance imaging (MRI) revealed a fusiform enlargement of the optic nerve approaching the chiasm. What is the most likely preferred management of this lesion? The ﬁndings are characteristic of damage either to the iris sphincter muscle or its innervation from the parasympathetic system, as in Adie tonic pupil. Herpes zoster can give this same picture. Lesions at the dorsal midbrain also produce light near dissociation, but ﬁndings are bilateral and not vermiform in terms of constriction. Fascicular CN III lesions should give either ptosis and/or a motility deﬁcit along with the pupil dilation, and vermiform movements are again not present. Sympathetic denervation at the second-order neuron (ciliospinal center) leads to Horner syndrome with a miotic pupil. &",
+    "question": "A 10-year-old boy with a history of neuroﬁbromatosis type 1 presented with no light perception (NLP) vision, prominent and disﬁguring proptosis, and corneal scarring OD. Magnetic resonance imaging (MRI) revealed a fusiform enlargement of the optic nerve approaching the chiasm. What is the most likely preferred management of this lesion?",
     "options": {
       "A": "surgical resection",
       "B": "chemotherapy",
@@ -2577,7 +2577,7 @@
   {
     "id": 131,
     "source": "neuro-bcsc",
-    "question": "Stenosis of the carotid artery causes what visual symptom in its early stages? Most optic nerve gliomas (ONGs) exhibit a fusiform shape on computed tomography (CT) and MRI. Globular or multilobulated shapes may occur, but are less common. The optic nerve may also have a characteristic tortuosity or kinking. If mucinous degeneration has occurred, cystic spaces within the lesion may be evident. ONG is typically either isointense or hypointense to gray matter on precontrast T1-weighted MRI. Enhancement with gadolinium is the rule, although it is less intense than that seen in optic nerve sheath meningioma (ONSM). Tram-tracking is a classic sign of ONSM, due to tumor growth along the nerve sheath. Of note, fusiform shapes are also quite common with ONSM; the optic nerve should appear as a lucency on imaging of ONSM, as opposed to ONG. A dilated superior ophthalmic vein is usually a sign of orbital and cavernous sinus congestion and is classically seen in carotid- cavernous ﬁstula.",
+    "question": "Stenosis of the carotid artery causes what visual symptom in its early stages?",
     "options": {
       "A": "visual loss in the supine position",
       "B": "gaze-evoked visual loss",
@@ -2815,7 +2815,7 @@
   {
     "id": 143,
     "source": "neuro-bcsc",
-    "question": "A 23-year-old woman has a cough-induced headache, horizontal diplopia at distance ﬁxation, and downbeat nystagmus. She has not experienced trauma or recent illness. Her visual acuity and perimetry are normal. She was noted to have an esotropia. She has no optic-disc swelling. Her neurologist has prescribed numerous medications, but they have not produced successful headache suppression. Given the sagittal brain magnetic resonance imaging (MRI) scan shown, what treatment is most likely to relieve her symptoms? mind that the incidence will increase in areas of true visual ﬁeld loss). When the patient responds to a stimulus presented in the blind spot, it is a ﬁxation loss because the patient's blind spot is presumed to have moved from the previously plotted area into the seeing eye ﬁeld. A patient blinking during presentation of a light stimulus will cause the gaze-tracking strip to deﬂect oﬀ of the midline and may result in a false-negative error. &",
+    "question": "A 23-year-old woman has a cough-induced headache, horizontal diplopia at distance ﬁxation, and downbeat nystagmus. She has not experienced trauma or recent illness. Her visual acuity and perimetry are normal. She was noted to have an esotropia. She has no optic-disc swelling. Her neurologist has prescribed numerous medications, but they have not produced successful headache suppression. Given the sagittal brain magnetic resonance imaging (MRI) scan shown, what treatment is most likely to relieve her symptoms?",
     "options": {
       "A": "strabismus surgery",
       "B": "occipital nerve block",
@@ -2835,7 +2835,7 @@
   {
     "id": 144,
     "source": "neuro-bcsc",
-    "question": "A 56-year-old woman presents for evaluation of right eye irritation. She additionally reports a 3-day history of altered taste sensation and right-sided facial weakness, and is noted to have dense interpalpebral keratopathy, incomplete blink, and orbicularis oculi weakness on the right. Five (5) days later she presents with similar ﬁndings aﬀecting the left side. Infection with what organism is most likely the cause of these ﬁndings? CSF shunt would be used for raised intracranial pressure, which is not present in this patient.",
+    "question": "A 56-year-old woman presents for evaluation of right eye irritation. She additionally reports a 3-day history of altered taste sensation and right-sided facial weakness, and is noted to have dense interpalpebral keratopathy, incomplete blink, and orbicularis oculi weakness on the right. Five (5) days later she presents with similar ﬁndings aﬀecting the left side. Infection with what organism is most likely the cause of these ﬁndings?",
     "options": {
       "A": "Actinomyces israelii",
       "B": "Borrelia burgdorferi",
@@ -2855,7 +2855,7 @@
   {
     "id": 145,
     "source": "neuro-bcsc",
-    "question": "A 35-year-old previously healthy woman presents to a clinic with left third nerve palsy. She was examined in the emergency department 3 days prior for her symptoms, and she underwent computed tomography angiography (CTA) of the head; the result was reported as normal. She brings both the images on compact disc and a radiology report. Upon reading the report, the ophthalmologist notices that the reason for the examination was recorded as rule out stroke. What is the next step in management of this patient's condition?",
+    "question": "What is the next step in management of this patient's condition?",
     "options": {
       "A": "lumbar puncture",
       "B": "magnetic resonance imaging (MRI) brain/orbits with and without contrast",
@@ -2955,7 +2955,7 @@
   {
     "id": 150,
     "source": "neuro-bcsc",
-    "question": "A patient with superior oblique myokymia (SOM) is having more frequent symptoms of oscillopsia. She is concerned that she has a dangerous disease that needs treatment. What information can the ophthalmologist provide regarding the long-term management and prognosis of this condition? aﬀerent pupillary defect ipsilateral to the CN IV palsy D. 29 Correct Answer A lesion of the brachium of the superior colliculus will produce a relative aﬀerent pupillary defect in the absence of color vision loss or a visual ﬁeld defect. The relative aﬀerent pupillary defect will be ipsilateral to the CN IV palsy due to the decussation of nasal pupillary ﬁbers at the chiasm and the decussation of CN IV after it exits the brainstem. A contralateral Horner syndrome can occur due to the proximity of the descending sympathetic ﬁbers. A homonymous hemianopia would not occur with a pure brainstem injury. Ipsilateral facial weakness would not localize to the midbrain.",
+    "question": "A patient with superior oblique myokymia (SOM) is having more frequent symptoms of oscillopsia. She is concerned that she has a dangerous disease that needs treatment. What information can the ophthalmologist provide regarding the long-term management and prognosis of this condition?",
     "options": {
       "A": "SOM is frequently associated with serious neurological disease.",
       "B": "SOM is relentlessly progressive, but can be cured with medical treatment.",
@@ -3693,7 +3693,7 @@
   {
     "id": 235,
     "source": "neuro-bcsc",
-    "question": "A 45-year-old woman is brought to the emergency department with a 3-hour history of severe headache, accompanied by altered mental status, and decreased vision in her right eye. Her medical history includes chronic hypertension. Her right eyelid is mildly ptotic, and she has limitations in adduction and infraduction in the right eye only. Her right pupil is dilated and unreactive; her left pupil is normal. Dilated fundus examination of the right eye reveals a vitreous hemorrhage obscuring the posterior pole. The peripheral retina appears normal. What is the most appropriate next diagnostic test in the management of this patient? & peripheral retinal pigment deposition D.",
+    "question": "A 45-year-old woman is brought to the emergency department with a 3-hour history of severe headache, accompanied by altered mental status, and decreased vision in her right eye. Her medical history includes chronic hypertension. Her right eyelid is mildly ptotic, and she has limitations in adduction and infraduction in the right eye only. Her right pupil is dilated and unreactive; her left pupil is normal. Dilated fundus examination of the right eye reveals a vitreous hemorrhage obscuring the posterior pole. The peripheral retina appears normal. What is the most appropriate next diagnostic test in the management of this patient?",
     "options": {
       "A": "V-pattern esotropia",
       "B": "A-pattern exotropia",
@@ -4111,7 +4111,7 @@
   {
     "id": 256,
     "source": "neuro-bcsc",
-    "question": "Three weeks ago, a 49-year-old woman developed constant diplopia. She feels well and reports no new headache, fatigue, numbness, or weakness. Visual acuity is 20/20 OU, with equal pupils. Ductions are normal, and at distance there is a 15 PD exotropia in all positions of gaze. Stereopsis is poor even with prism correction. What is the most likely cause of her diplopia? & lesions do not aﬀect the VII or VIII nerve. Midbrain lesions develop more rostrally than the nuclei of the described cranial nerves, and thus aﬀect III and/or IV cranial nerves instead.",
+    "question": "Three weeks ago, a 49-year-old woman developed constant diplopia. She feels well and reports no new headache, fatigue, numbness, or weakness. Visual acuity is 20/20 OU, with equal pupils. Ductions are normal, and at distance there is a 15 PD exotropia in all positions of gaze. Stereopsis is poor even with prism correction. What is the most likely cause of her diplopia?",
     "options": {
       "A": "neck",
       "B": "orbit",
@@ -4191,7 +4191,7 @@
   {
     "id": 260,
     "source": "neuro-bcsc",
-    "question": "A 60-year-old woman presents with the sudden onset of left- sided eye pain accompanied by ipsilateral ptosis, impaired ocular motility–sparing abduction, and a ﬁxed and dilated (8 mm) pupil. What are head imaging studies most likely to show? & The case describes a woman taking highly active antiretroviral therapy (HAART) medication for HIV/AIDS. In her immunocompromised state, opportunistic infections such as cryptococcal meningitis causing papilledema must be considered. India-ink preparation of fresh cerebrospinal ﬂuid (CSF) will show the mucinous capsule of cryptococcus as a translucent halo surrounding the budding yeast, as shown in the Figure 1 Figure 1. Papilledema is the most common neuro-ophthalmic sign of cryptococcal meningitis. Serum or CSF testing for cryptococcal antigen is also indicated. Prompt recognition and treatment is indicated, because the mortality rate of treated CNS cryptococcosis is at least 25 -30 . Diﬀuse leptomeningeal enhancement on MRI can be seen in meningitis caused by viral, bacterial, or fungal infections (including Cryptococcus neoformans). Syphilis is a multisystem, chronic bacterial disease caused by the spirochete Treponema pallidum. Syphilis has been associated with numerous ophthalmic and neurologic manifestations. It can cause bilateral optic neuritis; however, this clinical case scenario is clearly due to cryptococcal infection.",
+    "question": "A 60-year-old woman presents with the sudden onset of left- sided eye pain accompanied by ipsilateral ptosis, impaired ocular motility–sparing abduction, and a ﬁxed and dilated (8 mm) pupil. What are head imaging studies most likely to show?",
     "options": {
       "A": "voluntary ﬂutter",
       "B": "spasm of the near reﬂex",
@@ -4351,7 +4351,7 @@
   {
     "id": 268,
     "source": "neuro-bcsc",
-    "question": "For 1 month, a 56-year-old man has noticed binocular double vision. His visual acuity is 20/20 in each eye at distance and near. Both pupils are 8 mm in diameter in the light and are sluggishly reactive, without a relative aﬀerent pupillary defect. With a near ﬁxation target, both pupils constrict briskly. His fundi are normal. Given his brain magnetic resonance imaging (MRI) scan shown, what is the most likely cause of his double vision? & This patient has retinal pigment epithelial clumping and depigmentation, termed salt and pepper retinopathy. This ﬁnding, combined with ptosis and ophthalmoplegia, led the ophthalmologist to her diagnosis of Kearns-Sayre syndrome, a variant of chronic progressive external ophthalmoplegia. The BCSC notes that Kearns-Sayre syndrome is an inherited mitochondrial myopathy. The literature suggests though while the condition is associated with mitochondrial mutation, most cases are sporadic. Optic neuropathy and vertigo are not manifestations of this syndrome, although cerebellar ataxia and hearing loss are. Cardiac conduction deﬁcits may be life- threatening if untreated.",
+    "question": "For 1 month, a 56-year-old man has noticed binocular double vision. His visual acuity is 20/20 in each eye at distance and near. Both pupils are 8 mm in diameter in the light and are sluggishly reactive, without a relative aﬀerent pupillary defect. With a near ﬁxation target, both pupils constrict briskly. His fundi are normal. Given his brain magnetic resonance imaging (MRI) scan shown, what is the most likely cause of his double vision?",
     "options": {
       "A": "retina to pretectal nuclei to Edinger-Westphal nuclei to sympathetic ganglion to pupilloconstrictor ﬁbers",
       "B": "retina to Edinger-Westphal nuclei to pretectal nuclei to ciliary ganglion to pupilloconstrictor ﬁbers",
@@ -4451,7 +4451,7 @@
   {
     "id": 273,
     "source": "neuro-bcsc",
-    "question": "A 50-year-old man presents with a sudden-onset and painless decrease in acuity to 20/70 in the right eye. What test would best distinguish a retinopathy from an optic neuropathy? & Patients with subacute or long-standing optic neuropathy may experience sound-induced photisms (sensations of color or light induced by a loud noise). These photisms are attributed to discharges from the lateral geniculate nucleus, which is also responsive to sound. In general, lesions aﬀecting the anterior optic radiations (ie, temporal lobe) typically cause formed hallucinations, whereas more posterior lesions (ie, parietal and occipital lobes) typically produce unformed hallucinations, there are many exceptions. Temporal lobe lesions most often produce olfactory and gustatory hallucinations, but they can also can cause complex, formed hallucinations in either the ipsilateral or the contralateral visual ﬁeld. Patients with occipital lobe lesions may describe white or colored ﬂashes of light, kaleidoscopic colors, moving discs, ﬂickering, or a hexagonal array (eg, chicken-wire or honeycomb patterns). Retinal vasospasm can cause transient loss of vision due to transient retinal ischemia, but it is not triggered by sound.",
+    "question": "A 50-year-old man presents with a sudden-onset and painless decrease in acuity to 20/70 in the right eye. What test would best distinguish a retinopathy from an optic neuropathy?",
     "options": {
       "A": "left frontal lobe",
       "B": "right parietal lobe",
@@ -4511,7 +4511,7 @@
   {
     "id": 276,
     "source": "neuro-bcsc",
-    "question": "A 50-year-old man complains of painless binocular vertical diplopia. He presents with a left head tilt and has an 8 prism- diopter (PD) right hypertropia in primary position. This hypertropia measures 12 PD in left gaze and 3 PD in right gaze. On right head tilt his hypertropia measures 13 PD and on left tilt it is 2 PD. What would suggest a congenital right fourth nerve palsy in this patient? & unilateral loss of vision. Examination ﬁndings may include decreased visual acuity; relative aﬀerent pupillary defect; proptosis; ophthalmoplegia; normal, atrophic, or swollen optic nerve head; and visible optociliary shunt vessels (also identiﬁed as tortuous vessels ). Orbital cavernous hemangiomas also occur more commonly in women. They are the most common benign neoplasm of the orbit. Findings include progressive proptosis, retinal striae, hyperopia, optic nerve compression, increased intraocular pressure, and strabismus. Orbital ﬁbrous dysplasia is a benign developmental disorder of bone. Computed tomography (CT) shows hyperostotic bone. Magnetic resonance imaging (MRI) shows lack of dural enhancement, which distinguishes ﬁbrous dysplasia from meningioma.",
+    "question": "A 50-year-old man complains of painless binocular vertical diplopia. He presents with a left head tilt and has an 8 prism- diopter (PD) right hypertropia in primary position. This hypertropia measures 12 PD in left gaze and 3 PD in right gaze. On right head tilt his hypertropia measures 13 PD and on left tilt it is 2 PD. What would suggest a congenital right fourth nerve palsy in this patient?",
     "options": {
       "A": "ﬂocculus of the cerebellum",
       "B": "dorsal midbrain",
@@ -4949,7 +4949,7 @@
   {
     "id": 299,
     "source": "neuro-bcsc",
-    "question": "For the past week, an 82-year- old woman with hypertension and hypercholesterolemia has noted painless transient visual loss in the left eye that culminates in sudden profound vision loss in the left eye on the day of presentation. She denies any headaches, jaw claudication, or scalp tenderness. Visual acuity is 20/25 OD and hand motions OS. She has a large (1.2 log unit) left relative aﬀerent pupillary defect. As expected, her color vision and perimetry are normal OD. The optic discs are shown. Erythrocyte sedimentation rate (ESR) is 78 mm/hr, and C-reactive protein (CRP) is 5.3 mg/dL (normal <0.5 mg/dL). What is the best next step in management? &",
+    "question": "For the past week, an 82-year- old woman with hypertension and hypercholesterolemia has noted painless transient visual loss in the left eye that culminates in sudden profound vision loss in the left eye on the day of presentation. She denies any headaches, jaw claudication, or scalp tenderness. Visual acuity is 20/25 OD and hand motions OS. She has a large (1.2 log unit) left relative aﬀerent pupillary defect. As expected, her color vision and perimetry are normal OD. The optic discs are shown. Erythrocyte sedimentation rate (ESR) is 78 mm/hr, and C-reactive protein (CRP) is 5.3 mg/dL (normal <0.5 mg/dL). What is the best next step in management?",
     "options": {
       "A": "serum FTA-ABS and if positive, lumbar puncture with CSF VDRL, followed by antibiotic therapy",
       "B": "single intramuscular injection of penicillin G",
@@ -5029,7 +5029,7 @@
   {
     "id": 303,
     "source": "neuro-bcsc",
-    "question": "A 60-year-old diabetic, hypertensive man presents to the emergency department complaining that he awoke that morning and noticed he couldn’t see anything out of the inferior portion of his right eye. He is very distraught because this has been his good eye ever since a similar sudden loss of the inferior ﬁeld of vision occurred in his other eye several months prior. Central vision in both eyes is 20/50. At the time of his ﬁrst episode, magnetic resonance imaging (MRI) of the head and orbits was negative at an outside emergency department. Review of systems is negative. His fundus photos are shown. What is the most likely diagnosis?",
+    "question": "What is the most likely diagnosis?",
     "options": {
       "A": "base-out prism in her distance spectacles or strabismus surgery",
       "B": "urgent intravenous corticosteroids (1 gram daily for 3 days, followed by oral steroid)",
@@ -5049,7 +5049,7 @@
   {
     "id": 304,
     "source": "neuro-bcsc",
-    "question": "A 68-year-old woman has a 2- month history of diplopia when she drives. She is otherwise healthy and denies fatigue, weight loss, nausea, and headache. Her visual acuity is 20/20 OU, her pupils are equal, and the motility examination demonstrates full lateral excursion in both eyes with mild limitation of elevation of both eyes. She has deep superior sulci. There is an esotropia of 12 PD in primary and lateral gazes with orthophoria at near. Facial sensation is symmetric with no ptosis or eyelid retraction, and anterior and posterior segments are normal. What is the preferred treatment for the most likely cause of her diplopia?",
+    "question": "What is the preferred treatment for the most likely cause of her diplopia?",
     "options": {
       "A": "ischemia",
       "B": "trauma",
@@ -5069,7 +5069,7 @@
   {
     "id": 305,
     "source": "neuro-bcsc",
-    "question": "Pupil-sparing third cranial nerve palsies are usually caused by what condition? oral pyridostigmine 60 mg 3 or 4 times a day D. 6 Your Answer This case describes a woman with divergence insuﬃciency secondary to sagging eye syndrome. Sagging eye syndrome is caused by degeneration of the lateral rectus- superior rectus band, leading to inferior displacement of the lateral rectus muscle. Patients develop diplopia due to a comitant esodeviation greater at distance than at near vision (usually orthophoric at near). While lateral eye movements remain full, there may be some limitation of supraduction, which can be asymmetric in some cases. In addition to the divergence insuﬃciency pattern esotropia, sagging eye syndrome often is associated with deep superior sulci, high lid creases, and ptosis from levator dehiscence. Since the esotropia is comitant and no worse in abduction (which would suggest a sixth nerve palsy), as well as being found in isolation, it is likely benign and can be treated optically with base-out prism over distance spectacles. Strabismus surgery is another treatment option. The incorrect answer choices address the diﬀerential diagnosis of new-onset esotropia: myasthenia gravis, which can be treated with pyridostigmine; Graves disease, in which the thyroid hormone abnormality can be treated by decreasing the thyroid antibody response with methimazole; and, in patients over 50 years old, giant cell arteritis, which is treated with high-dose steroid.",
+    "question": "Pupil-sparing third cranial nerve palsies are usually caused by what condition?",
     "options": {
       "A": "hepatitis C virus (HCV)",
       "B": "sarcoidosis",
@@ -5169,7 +5169,7 @@
   {
     "id": 310,
     "source": "neuro-bcsc",
-    "question": "How do optic nerve drusen change with increased age? & orbital apex D. 76 Correct Answer This patient has signs of a left optic neuropathy (left RAPD), aﬀecting at least the left cranial nerves (CNs III, V1, and VI), based on the ﬁndings of ptosis, limited ductions in all directions, and decreased corneal sensation. The combination of CN II and ophthalmoplegia localizes to the orbital apex. If CN II is unaﬀected, the location of the lesion would be expected in the ipsilateral cavernous sinus. The hallmark of ophthalmoplegia secondary to a lesion of the cavernous sinus is ipsilateral ocular motor nerve dysfunction involving any combination of third, fourth, ﬁfth, and sixth CNs and sympathetic ﬁbers. The oﬀending lesion may extend toward the optic foramen or into the orbital apex, in which case optic nerve function can be compromised. The designation orbital apex syndrome is then applied. A brain stem lesion can cause various craniopathies, but would not be expected to cause an optic neuropathy. A cortical lesion would not be expected to cause an optic neuropathy or unilateral ophthalmoplegia.",
+    "question": "How do optic nerve drusen change with increased age?",
     "options": {
       "A": "increased intracranial pressure",
       "B": "toxic injury",
@@ -5627,7 +5627,7 @@
   {
     "id": 334,
     "source": "neuro-bcsc",
-    "question": "A 75-year-old woman presents for a routine examination. In bright light her pupils measure 3.5 mm OD and 3 mm OS, and in dim light they measure 5 mm OD and 4.5 mm OS. Both pupils are briskly reactive to light. She has 1 mm ptosis OD, normal levator function, and normal ocular motility. What is the most appropriate next step? The patient’s examination result is concerning for a left Horner syndrome, which is characterized clinically by ipsilateral miosis, facial anhidrosis, and ptosis. A Horner syndrome can be caused an internal carotid dissection, which can lead to stroke or amaurotic episodes. Among the options provided, a roller coaster ride could increase the risk of a carotid dissection. The other options would not predispose a patient to a Horner syndrome or carotid dissection. A long commercial ﬂight could predispose to development of deep venous thrombosis. However, in the absence of a patent foramen ovale, this would not be expected to cause transient monocular vision loss, and it should not lead to a Horner syndrome. It is possible that dehydration due to prolonged exertion could predispose to hypoperfusion and related ischemia, such as a nonarteritic anterior ischemic optic neuropathy. Dehydration would not cause a Horner syndrome. Restrictive diets can lead to vitamin deﬁciencies and nutritional optic neuropathy but would not be expected to cause transient monocular vision loss or Horner syndrome.",
+    "question": "A 75-year-old woman presents for a routine examination. In bright light her pupils measure 3.5 mm OD and 3 mm OS, and in dim light they measure 5 mm OD and 4.5 mm OS. Both pupils are briskly reactive to light. She has 1 mm ptosis OD, normal levator function, and normal ocular motility. What is the most appropriate next step?",
     "options": {
       "A": "forced duction test",
       "B": "alternate cover testing",
@@ -5687,7 +5687,7 @@
   {
     "id": 337,
     "source": "neuro-bcsc",
-    "question": "A 24-year-old obese white woman with a body mass index (BMI) of 41 presents with a few seconds of vision blurring with spontaneous recovery, headache, and a swooshing sound in her ears. She is found to have mild papilledema and a normal magnetic resonance imaging/magnetic resonance venography (MRI/MRV) result. Lumbar puncture shows an opening pressure of 45 cm of water. What features of her presentation are associated with poor prognosis? The classic triad of spasmus nutans is nystagmus, head nodding, and torticollis. Spasmus nutans typically develops in the ﬁrst year of life, manifesting as intermittent, binocular, very small amplitude, high-frequency, pendular nystagmus. The nystagmus may be dissociated, even monocular. Spasmus nutans is a benign disorder and disappears after several years. However, nystagmus of spasmus nutans can be virtually impossible to distinguish from more ominous conditions of nystagmus of childhood. Therefore, most patients with presumed spasmus nutans should undergo neuroimaging to exclude a glioma of the anterior visual pathway and other parasellar or hypothalamic tumors. Patients with spasmus nutans can have strabismus, but this is not part of the classic triad. They would not be expected to have vertigo or reduced deep tendon reﬂexes.",
+    "question": "A 24-year-old obese white woman with a body mass index (BMI) of 41 presents with a few seconds of vision blurring with spontaneous recovery, headache, and a swooshing sound in her ears. She is found to have mild papilledema and a normal magnetic resonance imaging/magnetic resonance venography (MRI/MRV) result. Lumbar puncture shows an opening pressure of 45 cm of water. What features of her presentation are associated with poor prognosis?",
     "options": {
       "A": "pale nerve",
       "B": "cupped nerve",
@@ -5887,7 +5887,7 @@
   {
     "id": 347,
     "source": "neuro-bcsc",
-    "question": "A 31-year-old woman had subacute painful vision loss to counting ﬁngers in the right eye that recovered over the subsequent 3 months. One year later, visual acuity is 20/30 OD, 20/20 OS with a trace right relative aﬀerent pupillary defect and minimal right optic disc pallor. Visual evoked potential test results show markedly delayed P100 latency in both eyes. What abnormality is most likely present on magnetic resonance imaging (MRI) of the brain? This pregnant patient with pre-eclampsia is presenting with signs and symptoms of posterior reversible encephalopathy syndrome (PRES). PRES is characterized by headache, altered mental status, seizures, and visual disturbances (blurred vision, homonymous visual ﬁeld loss, cortical blindness, photopsias, and visual hallucinations). MRI shows T2-hyperintense vasogenic edema involving the white matter of the cerebral posterior regions, especially the parieto-occipital lobes; however, the frontal and temporal lobes, basal ganglia, and brainstem may be involved as well. Although vision loss can be bilateral and complete (cortical blindness), prognosis is excellent and patients usually recover all of their vision.",
+    "question": "A 31-year-old woman had subacute painful vision loss to counting ﬁngers in the right eye that recovered over the subsequent 3 months. One year later, visual acuity is 20/30 OD, 20/20 OS with a trace right relative aﬀerent pupillary defect and minimal right optic disc pallor. Visual evoked potential test results show markedly delayed P100 latency in both eyes. What abnormality is most likely present on magnetic resonance imaging (MRI) of the brain?",
     "options": {
       "A": "gram-positive cocci in clusters, resistant to methicillin",
       "B": "granulomatous lesions with noncaseating centers",
@@ -5927,7 +5927,7 @@
   {
     "id": 349,
     "source": "neuro-bcsc",
-    "question": "During what decade of life is a diagnosis of optic pathway glioma most likely? nonseptate fungal hyphae D. 91 Correct Answer A biopsy demonstrating nonseptate fungal hyphae would indicate rhinocerebral mucormycosis, which typically occurs in patients with diabetes mellitus or in immunocompromised patients. The initial infection spreads from the facial skin, nasal mucosa, paranasal sinuses, or hard palate. The fungus spreads to the nearby blood vessels, aﬀecting the orbital vessels, carotid arteries, cavernous sinuses, or jugular veins. Orbital and neurologic signs are produced by infarction, thrombosis, or hemorrhage. Untreated, rhinocerebral mucorrmycosis can lead to rapid deterioration, resulting in death within days. This patient has vision loss and ophthalmoplegia, indicating an orbital apex syndrome. Patients with orbital apex syndrome from mucorrmycosis have nearly a 100 chance of permanent vision loss and > 60 mortality rate, despite aggressive surgical debridement and administration of antifungal agents. Gram-positive cocci in clusters, resistant to methicillin, indicating methicillin-resistant Staphylococcus aureus (MRSA), atypical mycobacterial infection, and granulomatous lesions with noncaseating centers, such as sarcoidosis, carry some risk of mortality and morbidity, but not to the extent of rhinocerebral mucormycosis.",
+    "question": "During what decade of life is a diagnosis of optic pathway glioma most likely?",
     "options": {
       "A": "Miller Fisher variant of Guillain- Barré syndrome",
       "B": "abducens nuclear lesion",
@@ -6027,7 +6027,7 @@
   {
     "id": 354,
     "source": "neuro-bcsc",
-    "question": "A 32-year-old woman presents with gradual reduction in vision over 2 days. On examination, there is a relative aﬀerent pupillary defect with reduced color vision in 1 eye. There is no swelling of the optic nerve on visual examination. If this is typical isolated optic neuritis, when would she expect to recover vision? Chronic progressive external ophthalmoplegia (CPEO) is an inherited mitochondrial myopathy that causes slowly progressive, symmetric limitation in extraocular muscles (EOM) and ptosis with weakness of the orbicularis oculi muscles. CPEO and pigmentary retinopathy in a young patient should raise concern of Kearns-Sayre syndrome, a triad of CPEO, pigmentary retinopathy with visual ﬁeld loss, and heart block. It is therefore important to order an EKG and consider involving cardiology. Audiogram and otolaryngology consultation would be indicated in the management of Usher syndrome (retinitis pigmentosa and congenital neurosensory hearing loss). Lumbar puncture and neurology consultation would be indicated in the management of suspected multiple sclerosis, which can cause optic neuritis and/or ocular motility disorders. Renal imaging and urology consultation would be indicated in a patient with foveal hypoplasia from aniridia due to WAGR syndrome (Wilms tumor, aniridia, genitourinary malformation, and mental retardation).",
+    "question": "A 32-year-old woman presents with gradual reduction in vision over 2 days. On examination, there is a relative aﬀerent pupillary defect with reduced color vision in 1 eye. There is no swelling of the optic nerve on visual examination. If this is typical isolated optic neuritis, when would she expect to recover vision?",
     "options": {
       "A": "extension of the responsible lesion to the optic nerve",
       "B": "compression of the ipsilateral third cranial nerve",
@@ -6167,7 +6167,7 @@
   {
     "id": 361,
     "source": "neuro-bcsc",
-    "question": "What magnetic resonance imaging (MRI) sequence is best for detecting periventricular white matter changes in multiple sclerosis? Paraneoplastic syndromes such as cancer-associated retinopathy (CAR) present with constant photopsias, impaired color vision, nyctalopia, impaired dark adaptation, dimming, ring scotoma, and peripheral and/or central visual ﬁeld loss. The fundus can initially appear normal, but the ERG response shows markedly reduced amplitudes. As the disease progresses, the retinal arterioles become attenuated, the retinal pigment epithelium (RPE) thinned and mottled, and the optic discs pale. This patient has the typical features of CAR and should undergo workup for anti-retinal antibodies and to identify an occult malignancy. The diﬀerential diagnosis of this presentation includes other bilateral retinopathies with ERG abnormalities, including retinitis pigmentosa and its various syndromes, or mitochondrial myopathies such as Kearns-Sayre syndrome. Rod or rod-cone retinal dystrophies show similar abnormalities on ERG and can be associated with retinal pigmentation. Examination of family members is useful in determining the inheritance pattern. Pigmentary retinopathies such as Usher syndrome can be associated with hearing diﬃculties and require audiology consultation. Kearns-Sayre syndrome is associated with cardiac conduction blocks, a life-threatening complication, hence the need for cardiology consultation. These patients tend to present earlier in life than the patient in this case, and likely will have other retinal or ocular examination features to suggest the alternative diagnosis, for example, chronic progressive external ophthalmoplegia with motility dysfunction and progressive ptosis in Kearns-Sayre syndrome.",
+    "question": "What magnetic resonance imaging (MRI) sequence is best for detecting periventricular white matter changes in multiple sclerosis?",
     "options": {
       "A": "ﬁnger-touching test",
       "B": "mirror test",
@@ -6307,7 +6307,7 @@
   {
     "id": 368,
     "source": "neuro-bcsc",
-    "question": "A 57-year-old man developed severe left orbital pain, decreased vision in the left eye, and a vesicular rash involving the left upper face and eyelid. On examination, he had ophthalmoplegia. Visual acuity was 20/400 OS and there was a left aﬀerent pupillary defect (APD). Dilated fundus examination showed mild optic disc swelling without hemorrhages in the left eye, normal in the right. Where does this constellation of ﬁndings localize? calcarine branch C. 52 Correct Answer parieto-occipital branch D. 35 Your Answer The distal posterior cerebral artery terminates in the calcarine branch, which supplies the primary visual cortex. The other arteries are branches of the posterior cerebral artery as well but supply diﬀerent parts of the cortex.",
+    "question": "A 57-year-old man developed severe left orbital pain, decreased vision in the left eye, and a vesicular rash involving the left upper face and eyelid. On examination, he had ophthalmoplegia. Visual acuity was 20/400 OS and there was a left aﬀerent pupillary defect (APD). Dilated fundus examination showed mild optic disc swelling without hemorrhages in the left eye, normal in the right. Where does this constellation of ﬁndings localize?",
     "options": {
       "A": "ischemia to abducens nerve (CN6)",
       "B": "elevated intracranial pressure",
@@ -6487,7 +6487,7 @@
   {
     "id": 377,
     "source": "neuro-bcsc",
-    "question": "An asymptomatic, otherwise healthy 38-year-old patient has small, irregular pupils that react minimally to light stimulus. With attempted reading, the pupils become even smaller. What investigation, if any, should be performed to identify the cause of this condition? & also result from neurosyphilis. In addition, iris atrophy frequently occurs, portions of the iris transilluminate, and dilation is poor after instillation of mydriatic eyedrops. Argyll Robertson–like pupils are observed in widespread autonomic neuropathies, such as bilateral tonic pupils (chronic), diabetes mellitus, and chronic alcoholism, as well as in encephalitis and after panretinal photocoagulation. Serologic tests for syphilis, such as the serum Treponema pallidum enzyme immunoassay (TP-EIA), ﬂuorescent treponemal antibody absorption (FTA-ABS) test, rapid plasmin reagin (RPR), and Venereal Disease Research Laboratory test (VDRL), should be considered in the evaluation of patients with bilateral pupillary light-near dissociation with miosis, especially with retinal pigmentary changes. Herpes zoster PCR evaluation tests for the varicella zoster virus, which does not cause Argyll Robertson pupils. Enzyme-linked immunosorbent assay (ELISA) for Borrelia burgdorferi tests for Lyme disease, which does not cause the Argyll Robertson pupillary response. Quantiferon gold assay tests for Mycobacterium tuberculosis, which does not cause the Argyll Robertson pupillary response.",
+    "question": "An asymptomatic, otherwise healthy 38-year-old patient has small, irregular pupils that react minimally to light stimulus. With attempted reading, the pupils become even smaller. What investigation, if any, should be performed to identify the cause of this condition?",
     "options": {
       "A": "optic tract",
       "B": "ventral occipitotemporal",
@@ -6587,7 +6587,7 @@
   {
     "id": 382,
     "source": "neuro-bcsc",
-    "question": "A 75-year-old man reports that the vision in his right eye dims out whenever he goes outside into bright light and that his vision slowly improves once he goes back indoors. On examination, the ophthalmologist notices that the central retinal artery ﬂashes when gentle pressure is applied to the globe. What diagnostic test should be ordered? & This patient has new severe headaches with cerebral aneurysm risk factors, including cigarette smoking and polycystic kidney disease. Other predisposing factors include hypertension, arteriovenous malformations, coarctation of the aorta, and connective tissue diseases. Examination ﬁndings indicate either suddenly increased intracranial pressure or subarachnoid hemorrhage (perhaps both). This presentation is an emergency that requires immediate imaging. CT is preferred for detection of acute intracranial hemorrhage, and CT angiography can be performed at the same time to look for aneurysm. This patient should be sent to the nearest emergency department for this assessment.",
+    "question": "A 75-year-old man reports that the vision in his right eye dims out whenever he goes outside into bright light and that his vision slowly improves once he goes back indoors. On examination, the ophthalmologist notices that the central retinal artery ﬂashes when gentle pressure is applied to the globe. What diagnostic test should be ordered?",
     "options": {
       "A": "MRI of orbits with fat suppression",
       "B": "magnetic resonance imaging (MRI) of brain with diﬀusion- weighted imaging",

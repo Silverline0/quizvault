@@ -226,7 +226,7 @@
     "options": {
       "A": "magnetic resonance imaging (MRI) brain with and without contrast",
       "B": "lumbar puncture with opening pressure",
-      "C": "commonly results from surgical or traumatic shortening of what structure? ! \" # cytoplasmic staining pattern (c- ANCA), antinuclear antibody (ANA), angiotensin-converting enzyme (ACE), lysozyme, IgG4"
+      "C": "cytoplasmic staining pattern (c- ANCA), antinuclear antibody (ANA), angiotensin-converting enzyme (ACE), lysozyme, IgG4"
     },
     "correctAnswer": "C",
     "explanation": "T , free T , thyroid-stimulating hormone (TSH), thyroid- stimulating immunoglobulin D. 3 4 Pain with eye movement is commonly seen in optic neuritis but may also be found with orbital inﬂammation, particularly myositis. Her axial CT scan shows thickening of the left medial rectus muscle and tendon, supporting the diagnosis of myositis. The tendon is not generally involved in thyroid disease. Testing for non-Graves causes of myositis would be most appropriate. An MRI is not necessary for further evaluation of orbital myositis if the CT ﬁndings are as shown. A lumbar puncture with opening pressure is important in the diagnosis of idiopathic intracranial hypertension but not orbital myositis. Recurrent orbital myositis is sometimes associated with systemic disease, such as granulomatosis with polyangiitis, systemic lupus erythematosus, sarcoidosis, IgG4 disease, and lymphoma. orbital septum.",
@@ -280,7 +280,7 @@
   {
     "id": 16,
     "source": "oculoplastics-bcsc",
-    "question": "A 75-year-old man presents with a left lower eyelid lesion. He reports that the lesion appeared suddenly 3 weeks ago and has been rapidly growing in size. On examination, the ophthalmologist notes a 1.5 cm dome-shaped lesion with a central crater. What is the appropriate treatment for this lesion? The image depicts an inﬂamed nodule in the central portion of the right upper eyelid. Dacryoadenitis can certainly present with acute onset and inﬂammatory signs, but it aﬀects the lateral portion of the upper lid in the area of the lacrimal gland. Plexiform neuroﬁbroma classically presents with an S-shaped eyelid deformity, but may also present as an isolated nodule. However, neuroﬁbroma rarely causes inﬂammation. Molluscum contagiosum is a viral infection of the eyelid that presents as one or more pearly white, well-circumscribed nodules on the eyelid. Again, inﬂammation is not a typical feature. Chalazion frequently presents as an inﬂamed nodule. Oily secretions of the meibomian glands extrude into the surrounding eyelid soft tissue, inciting an inﬂammatory response that presents as swelling, redness, and tenderness. A secondary bacterial infection may also contribute to the inﬂammation. Chalazion is considered by some professionals to be an all- encompassing term that describes inﬂammation from one of the oil glands of the eyelid. Other experts divide these lesions into external hordeola (arising from the glands of Zeis) and internal hordeola (from the meibomian glands).",
+    "question": "A 75-year-old man presents with a left lower eyelid lesion. He reports that the lesion appeared suddenly 3 weeks ago and has been rapidly growing in size. On examination, the ophthalmologist notes a 1.5 cm dome-shaped lesion with a central crater. What is the appropriate treatment for this lesion?",
     "options": {
       "A": "Perform a shave biopsy to improve cosmesis.",
       "B": "Perform an incisional biopsy, followed by complete surgical excision.",
@@ -400,7 +400,7 @@
   {
     "id": 22,
     "source": "oculoplastics-bcsc",
-    "question": "A newborn was recently diagnosed with blepharophimosis syndrome. What is the most common epicanthal ﬁnding in this condition? movement of metallic foreign bodies, potentially resulting in signiﬁcant iatrogenic injury to the patient, which is one reason why MRI is contraindicated as the initial imaging modality in trauma. MR angiogram is also contraindicated for the same reason. One of the main disadvantages of CT is exposure to ionizing radiation. This is especially important in children. Large population studies of pediatric patients have concluded that a cumulative radiation dose above a certain threshold increases the risk of central nervous system (CNS) tumors and leukemia. In addition, not all CT studies carry the same radiation dose. As an example, a CT of the head carries a far lower radiation dose than CT angiography. MRI has signiﬁcantly better soft tissue detail than CT in the orbit. That said, the soft tissue resolution of orbital CT should not be discounted. Unlike the CNS, where the soft tissue variation is fairly minimal, orbital fat disappears on CT, acting as a kind of natural negative contrast and allowing other orbital structures (extraocular muscles, optic nerve, pathologic processes) to appear in reasonable detail. Because of the pressure on the eye necessary to perform a B scan, this imaging modality should be avoided, due to the possibility of an open globe injury.",
+    "question": "A newborn was recently diagnosed with blepharophimosis syndrome. What is the most common epicanthal ﬁnding in this condition?",
     "options": {
       "A": "epicanthus inversus",
       "B": "epicanthus palpebralis",
@@ -525,7 +525,7 @@
       "A": "indocyanine green angiography",
       "B": "magnetic resonance angiogram",
       "C": "ﬂuorescein angiography",
-      "D": "Stevens-Johnson syndrome presents for entropion evaluation and is noted to have vertical conjunctival shortening. What type of entropion best accounts for this clinical picture? ! \" # carotid Doppler ultrasonography"
+      "D": "carotid Doppler ultrasonography"
     },
     "correctAnswer": "B",
     "explanation": "The ﬁgure depicts dilated and \"arterialized\" episcleral vessels. The diﬀerential for this ﬁnding is broad and includes carotid- cavernous ﬁstulas, cavernous sinus thrombosis, venous malformations, and scleritis with vortex vein blockade. In a patient with a history of hypertension and a chronically red eye, a nontraumatic carotid-cavernous ﬁstula must be considered, and is the working diagnosis. Other ﬁndings that may support this entity include exophthalmos and elevated IOP. A magnetic resonance angiogram is the preferred diagnostic modality to evaluate for the presence of a ﬁstula. Carotid Doppler ultrasonography can be obtained in cases of suspected ocular ischemic syndrome, ﬂuorescein angiography is obtained to evaluate retinal artery pathology, and indocyanine green angiography is obtained to evaluate for disturbances in the choroidal circulation. cicatricial.",
@@ -980,7 +980,7 @@
   {
     "id": 51,
     "source": "oculoplastics-bcsc",
-    "question": "A 41-year-old man presents at a clinic with spontaneous right eye enophthalmos, a deep superior sulcus, and mild upper eyelid retraction that occurred 1 week ago. He has just returned from vacation in Australia, where he went scuba diving for the ﬁrst time. Since his return, he has had intermittent diplopia in upgaze. On examination, he is alert, oriented, and afebrile; all cranial nerves are intact. He is somewhat tender over the right maxillary sinus with percussion. What is the most likely cause of the spontaneous enophthalmos?",
+    "question": "What is the most likely cause of the spontaneous enophthalmos?",
     "options": {
       "A": "neuroﬁbromatosis with plexiform inﬁltration",
       "B": "silent sinus syndrome",
@@ -1000,7 +1000,7 @@
   {
     "id": 52,
     "source": "oculoplastics-bcsc",
-    "question": "What muscle causes glabellar folds? Silent sinus syndrome results from chronic subclinical sinusitis, which causes thinning of the bone of the involved sinus, leading to enophthalmos due to collapse of the orbital ﬂoor. The spontaneous collapse often occurs in association with a recent signiﬁcant change in atmospheric pressure, for example in airplane travel or scuba diving. Upper eyelid ptosis, deepening of the superior sulcus, and occasionally diplopia may occur. Patients can present with either eyelid retraction or ptosis. Treatment includes restoration of maxillary sinus aeration and reconstruction of the orbital ﬂoor. The entrapped maxillary sinus secretions are often sterile in nature. Osteoma is a nonepithelial tumor that can invade the orbit from the sinuses, nose, and facial bones. It is not typically spontaneous nor rapid in progression; thus, time to diagnosis may be slow. At the time of diagnosis, there may be extensive orbital involvement, a palpable orbital mass, and ocular muscle restriction. Plexiform neuroﬁbromas are tumors formed by diﬀuse proliferation of Schwann cells within nerve sheaths. They are often associated with von Recklinghausen disease (neuroﬁbromatosis 1), in which hamartomas may develop in the skin, eyes, central nervous system, and viscera. The most common orbital ﬁnding associated with plexiform neuroﬁbromatosis is inﬁltration of the lateral upper eyelid, which causes an S-shaped contour to the eyelid margin and possible proptosis. Pseudotumor cerebri (also known as idiopathic intracranial hypertension) can cause cranial nerve VI palsy, which causes horizontal deviations, not vertical deviations.",
+    "question": "What muscle causes glabellar folds?",
     "options": {
       "A": "frontalis muscle",
       "B": "corrugator supercilii muscles",
@@ -1080,7 +1080,7 @@
   {
     "id": 56,
     "source": "oculoplastics-bcsc",
-    "question": "A physician is asked to examine a patient with periorbital trauma. What would be the best way to determine whether there has been an avulsion of the medial or lateral canthal tendon? The clinical presentation is consistent with the so-called white- eyed blowout fracture (WEBOF) that occurs primarily in children and teenagers. Children have incompletely calciﬁed bones and are at risk for greenstick fractures of the orbital walls. This trapdoor fracture allows for herniation of an extraocular muscle into the adjacent paranasal sinus, followed by incarceration of the muscle within the narrow fracture as the bony trapdoor snaps shut. This results in severe muscle restriction on examination with only minimal external signs of injury, along with nausea and vomiting from the oculocardiac reﬂex. Of note, the nausea and vomiting is often misdiagnosed initially as concussion. Because of the muscle ischemia that occurs with WEBOF, urgent exploration with release of the entrapped muscle and fracture repair is indicated. Oral corticosteroids with delay of repair for 1- 2 weeks is a good option for more classic orbital fractures that occur in adults to allow orbital soft tissue edema to settle before orbital surgery. Strabismus surgery is indicated in any patient with residual signiﬁcant diplopia after fracture repair who has not improved after 6 months of observation, but is not a reasonable option for immediate management of orbital fracture.",
+    "question": "A physician is asked to examine a patient with periorbital trauma. What would be the best way to determine whether there has been an avulsion of the medial or lateral canthal tendon?",
     "options": {
       "A": "pulling the eyelid and palpating the insertions of the tendon",
       "B": "probing and irrigating the lacrimal outﬂow",
@@ -1203,7 +1203,7 @@
     "question": "What procedure is used during the surgical repair of most forms of ectropion? &",
     "options": {
       "A": "lateral canthus tightening",
-      "B": "rhabdomyosarcoma has the worst prognosis? ! \" # medial spindle repair",
+      "B": "medial spindle repair",
       "C": "medial canthus tightening",
       "D": "horizontal incision of lower lid anterior lamella"
     },
@@ -1304,7 +1304,7 @@
     "options": {
       "A": "epiphora",
       "B": "migration into the canaliculus",
-      "C": "the emergency department with blunt trauma to the right eyelid. He has a 1.5-cm horizontal laceration of the upper lid with prolapse of fat at the site of injury. What is the most important structure to evaluate prior to repair of the eyelid laceration? ! \" # loss of the silicone plug",
+      "C": "loss of the silicone plug",
       "D": "dacryocystitis"
     },
     "correctAnswer": "D",
@@ -1623,7 +1623,7 @@
     "question": "What is a characteristic ﬁnding of involutional ptosis?",
     "options": {
       "A": "lagophthalmos",
-      "B": "entropion, which leads to corneal irritation and abrasions. The ophthalmologist recommends surgical entropion repair with conjunctival reconstruction. The patient has poor oral hygiene and is therefore not a candidate for an autologous mucous-membrane graft.",
+      "B": "ipsilateral eyebrow depression",
       "C": "elevated eyelid crease",
       "D": "levator function of < 10 mm"
     },
@@ -1705,7 +1705,7 @@
       "A": "epithelial cells",
       "B": "mesenchymal cells",
       "C": "lymphocytes",
-      "D": "undergoes an uncomplicated repair of an orbital ﬂoor fracture. What is the appropriate postoperative management for this patient? ! \" # striated muscle cells"
+      "D": "striated muscle cells"
     },
     "correctAnswer": "B",
     "explanation": "Rhabdomyosarcoma arises from pleuripotent mesenchymal cells, not from extraocular muscles. The average age of onset is 5-7 years, and patients typically present with rapidly progressive, unilateral painless proptosis. There are 4 diﬀerent variants of rhabdomyosarcoma. Alveolar accounts for only 9% of orbital rhabdomyosarcomas and is the most malignant form. It has a tendency to develop in the inferior orbit. Embryonal is the most common type and accounts for more than 80% of cases. It has a predilection for a superonasal location in the orbit and has a very high survival rate (94%). Pleomorphic is the rarest form. It is also the most well- diﬀerentiated form and consequently has the highest survival rate (97%). The botryoid variant of rhabdomyosarcoma is quite rare. It is unique in that it does not occur as a primary orbital tumor, but rather invades the orbit from the adjacent paranasal sinuses or from the conjunctiva. Treatment of rhabdomyosarcoma requires surgical debulking, chemotherapy, and radiation. Intravenous corticosteroids should be infused for 24 hours to decrease orbital inﬂammation; ice packs should be used to reduce swelling.",
@@ -1800,7 +1800,7 @@
   {
     "id": 92,
     "source": "oculoplastics-bcsc",
-    "question": "An 85-year-old diabetic inpatient reports new-onset right-sided orbital pain and blurred vision. An ear-nose- throat (otolaryngologist) colleague has noted a necrotic eschar in the nasal cavity with overlying focal tissue necrosis. The patient was initially admitted for cancer chemotherapy. What would be the most likely diagnosis? Horizontal lower eyelid laxity destabilizes the eyelid margin and predisposes the patient to involutional ectropion or entropion. Once the lower eyelid retractors become disinserted, vertical laxity occurs, typically manifesting as entropion. A vicious cycle begins as the lashes rub and irritate the cornea, which then causes inner contracture and spasm of the orbicularis oculi muscle as a protective mechanism. Because of the vertical instability, the preseptal orbicularis overrides the pretarsal orbicularis, causing even more inturning of the lid margin and lashes. Orbicularis override is also referred to as spastic entropion. Cicatricial entropion and ectropion are deﬁned by shortening of either the anterior or posterior lamella. The anterior lamella consists of skin and orbicularis oculi muscle and any cicatrix in this layer (skin scarring from trauma, burns, surgery, etc.) will result in out-turning of the eyelid (ectropion). The posterior lamella is composed of tarsus and conjunctiva, and shortening (ocular cicatricial pemphigoid, Stevens-Johnson syndrome, etc.) will result in cicatricial entropion.",
+    "question": "An 85-year-old diabetic inpatient reports new-onset right-sided orbital pain and blurred vision. An ear-nose- throat (otolaryngologist) colleague has noted a necrotic eschar in the nasal cavity with overlying focal tissue necrosis. The patient was initially admitted for cancer chemotherapy. What would be the most likely diagnosis?",
     "options": {
       "A": "granulomatosis with polyangiitis (GPA), formerly known as Wegener granulomatosis",
       "B": "bacterial paranasal sinus infection",
@@ -2020,7 +2020,7 @@
   {
     "id": 103,
     "source": "oculoplastics-bcsc",
-    "question": "At an oﬃce visit, a 45-year-old man presents with a progressive, painless, downward, and inward displacement of the globe, which he has noticed for about 1.5 years. On examination, he has 3 mm of proptosis of the right globe when compared to the left. A ﬁrm, lobular mass is palpated near the superolateral orbital rim. Orbital computed tomography (CT) imaging reveals enlargement of the fossa of the lacrimal gland due to a well-circumscribed lesion. On biopsy, the neoplasm has a varied cellular structure consisting primarily of benign epithelial cells, stromal spindle- shaped cells, mucinous degeneration, and metaplasia. What is the most likely diagnosis? Orbital roof fractures are typically due to blunt forehead trauma. They are more prevalent in children whose frontal sinuses have not yet pneumatized (the mature frontal sinuses serve as an impact crumple zone in adults). Early diplopia is usually from a hematoma or orbital swelling. Muscle entrapment is very rare with orbital roof fractures. Optic neuropathy is uncommon. Delayed ecchymosis of the upper eyelid may be the presenting subtle sign of an orbital roof fracture in a young patient. Most orbital roof fractures do not require surgical intervention, unless the fracture is large enough to threaten brain function. &",
+    "question": "At an oﬃce visit, a 45-year-old man presents with a progressive, painless, downward, and inward displacement of the globe, which he has noticed for about 1.5 years. On examination, he has 3 mm of proptosis of the right globe when compared to the left. A ﬁrm, lobular mass is palpated near the superolateral orbital rim. Orbital computed tomography (CT) imaging reveals enlargement of the fossa of the lacrimal gland due to a well-circumscribed lesion. On biopsy, the neoplasm has a varied cellular structure consisting primarily of benign epithelial cells, stromal spindle- shaped cells, mucinous degeneration, and metaplasia. What is the most likely diagnosis?",
     "options": {
       "A": "pleomorphic adenoma",
       "B": "adenoid cystic carcinoma",
@@ -2045,7 +2045,7 @@
       "A": "amelanotic melanoma",
       "B": "molluscum contagiosum",
       "C": "herpetic blepharoconjunctivitis",
-      "D": "nasolacrimal duct (NLD)? ! % # basal cell carcinoma"
+      "D": "basal cell carcinoma"
     },
     "correctAnswer": "B",
     "explanation": "Molluscum contagiosum is a poxvirus infection of the epithelium resulting in dome-shaped, waxy epidermal nodules with a central umbilication. On histopathology, these lesions are very distinctive, with nodular thickening of the epithelium and necrotic cells at the center of the nodule being extruded at the skin surface. As the replicating virus ﬁlls the cytoplasm, a large viral inclusion (molluscum body) forms and displaces the nucleus to the cell periphery. These bodies are eosinophilic at the base of the lesion and become more basophilic as they migrate to the surface. The virus-ﬁlled cells shed into the fornix cause a follicular reaction of the conjunctiva. Eyelid lesions and a follicular conjunctivitis may be present in herpetic blepharoconjunctivitis, but herpetic lesions are vesicular rather than ﬂeshy and umbilicated. Basal cell carcinoma and amelanotic melanoma may also present with lesions of the eyelid margin, but these lesions do not typically have an associated conjunctivitis.",
@@ -2123,7 +2123,7 @@
     "question": "What is the most common eyelid ﬁnding associated with naso-orbital-ethmoid fractures?",
     "options": {
       "A": "widening of the vertical palpebral ﬁssure",
-      "B": "epiphora, what would a \"soft stop\" indicate during careful probing of the lower canaliculus, where the examiner uses lateral traction to straighten the canaliculus? ! \" # widening of the horizontal palpebral ﬁssure",
+      "B": "widening of the horizontal palpebral ﬁssure",
       "C": "rounding of the lateral canthus",
       "D": "telecanthus"
     },
@@ -2200,7 +2200,7 @@
   {
     "id": 112,
     "source": "oculoplastics-bcsc",
-    "question": "A patient arrives in the trauma bay after a motor vehicle crash in which he hit his face on the dashboard. He has ecchymosis and signiﬁcant swelling to his right eye. The eyelids are rock hard to the touch. He complains of blurry vision in the right eye. His visual acuity is 20/80 OD and 20/20 OS. He can see 6/11 color plates OD and 11/11 OS. IOP is 35 OD and 22 OS. What is the most appropriate next step? adenocarcinoma, meibomian gland carcinoma), which is a highly malignant and potentially lethal tumor that arises from the meibomian glands of the tarsal plate, the glands of Zeis associated with the eyelashes, or the sebaceous glands of the facial skin, eyebrow, or caruncle. Early in the course of the disease, patients can present with nonspeciﬁc ﬁndings of blepharitis, madarosis, and eyelid thickening. Since sebaceous carcinoma can arise from the tarsal plate or the eyelid margin, superﬁcial shave biopsies may miss the underlying tumor, and a full-thickness biopsy is recommended for diagnosis. The treatment of sebaceous carcinoma is wide excision or Mohs micrographic surgery. Because skip areas and pagetoid spread are common in sebaceous carcinoma, map biopsies of the conjunctiva may be considered. If pagetoid spread is present, then adjuvant cryotherapy may be used. External beam radiotherapy is not recommended for treatment of sebaceous carcinoma, as these tumors are relatively radioresistant.",
+    "question": "A patient arrives in the trauma bay after a motor vehicle crash in which he hit his face on the dashboard. He has ecchymosis and signiﬁcant swelling to his right eye. The eyelids are rock hard to the touch. He complains of blurry vision in the right eye. His visual acuity is 20/80 OD and 20/20 OS. He can see 6/11 color plates OD and 11/11 OS. IOP is 35 OD and 22 OS. What is the most appropriate next step?",
     "options": {
       "A": "Start maximum topical ocular antihypertensive drops and recheck the pressure in 30 minutes,",
       "B": "Obtain computed tomography (CT) of the orbits",
@@ -2220,7 +2220,7 @@
   {
     "id": 113,
     "source": "oculoplastics-bcsc",
-    "question": "A 60-year-old woman with poorly controlled diabetes presents with progressively worsening double vision and severe periorbital pain that began 2 days ago. One day prior, she noted that the double vision resolved. Severe vision loss to no light perception is noted on the left, along with a fundus examination consistent with an ophthalmic artery occlusion. Computed tomography (CT) of orbits shows extensive opaciﬁcation of the left maxillary sinus extending into the orbital apex. What would a biopsy most likely show?",
+    "question": "What would a biopsy most likely show?",
     "options": {
       "A": "metastatic lung cancer",
       "B": "nonseptate branching hyphae",
@@ -2500,7 +2500,7 @@
   {
     "id": 127,
     "source": "oculoplastics-bcsc",
-    "question": "A 30-year-old man was using an electric power saw on a piece of wood and hit a nail. He noticed a sharp pain in the left eye, with worsening vision over the next 2 days. He was not wearing goggles. He presents with visual acuity of 20/20 and redness and chemosis inferotemporally in his left eye 4 mm from the limbus. The pupil is round and reactive. Dilated examination is remarkable for a localized hemorrhage in the inferior vitreous, but no foreign body is visualized. What is the next appropriate step in management?",
+    "question": "What is the next appropriate step in management?",
     "options": {
       "A": "close observation",
       "B": "magnetic resonance imaging (MRI) of the orbits",
@@ -2520,7 +2520,7 @@
   {
     "id": 128,
     "source": "oculoplastics-bcsc",
-    "question": "An 8-year-old girl complains of excessive mattering from the right eye. Four years ago, following ocular trauma, she had an enucleation and placement of an implant. The right socket is shown in the ﬁgure. What is appropriate treatment for this condition? The history and appearance in this scenario are highly suggestive of an occult ocular or orbital foreign body (high- velocity projectile). Prior to a surgical intervention, urgent imaging is necessary to determine the extent of the injury and the presence or absence of a foreign body that may require removal. CT scanning is the study of choice, although plain ﬁlms may be used in select cases. Operative exploration without imaging is inappropriate in the event that an occult foreign body is present. Close observation would be inappropriate in this scenario, based on the high suspicion for a penetrating ocular injury and possible foreign body.",
+    "question": "An 8-year-old girl complains of excessive mattering from the right eye. Four years ago, following ocular trauma, she had an enucleation and placement of an implant. The right socket is shown in the ﬁgure. What is appropriate treatment for this condition?",
     "options": {
       "A": "urgent removal of the implant",
       "B": "placement of a scleral patch graft",
@@ -2564,7 +2564,7 @@
     "options": {
       "A": "for 2 weeks, wear eye shield over involved eye when sleeping",
       "B": "for 2 weeks, no blowing the nose",
-      "C": "cavernous-carotid ﬁstula is an indication for urgent surgical intervention? ! \" # for 2 weeks, head up and bed rest",
+      "C": "for 2 weeks, head up and bed rest",
       "D": "for 2 weeks, no extended periods of reading"
     },
     "correctAnswer": "B",
@@ -3143,7 +3143,7 @@
     "question": "What measurement assures that there will be suﬃcient tissue remaining after upper eyelid blepharoplasty?",
     "options": {
       "A": "15 mm of levator function",
-      "B": "the emergency room to repair an eyelid laceration in a 25- year-old man who was assaulted by 2 men. There is a horizontal laceration 16 mm above the margin, with yellow tissues protruding through the wound. What is the best next step in management? !",
+      "B": "20 mm of skin between the inferior border of the brow and the upper eyelid margin",
       "C": "palpebral ﬁssure measurement of 9 mm"
     },
     "correctAnswer": "B",
@@ -3460,7 +3460,7 @@
     "source": "oculoplastics-bcsc",
     "question": "How is notching of the eyelid minimized during the repair of a marginal eyelid laceration?",
     "options": {
-      "A": "myelogenous leukemia (AML) in remission presents with proptosis and a well- circumscribed lateral orbital mass on imaging. What is the most likely diagnosis? ! % # placement of tarsal sutures ﬁrst",
+      "A": "placement of tarsal sutures ﬁrst",
       "B": "precise suture placement and critical suture tension",
       "C": "placement of square knot at the eyelashes",
       "D": "tarsal sutures that extend through the conjunctiva"
@@ -3562,7 +3562,7 @@
     "options": {
       "A": "maxillary bone",
       "B": "lacrimal bone",
-      "C": "best treated by what method? ! \" # palatine bone",
+      "C": "palatine bone",
       "D": "ethmoidal bone"
     },
     "correctAnswer": "A",
@@ -3661,7 +3661,7 @@
     "question": "What inheritance pattern is associated with ﬁbrous dysplasia?",
     "options": {
       "A": "sporadic",
-      "B": "biopsy of a pigmented lesion of an older white patient. The pathology reveals lentigo maligna. What is the next step in management? ! \" # autosomal dominant",
+      "B": "autosomal dominant",
       "C": "autosomal recessive",
       "D": "gender-linked"
     },
@@ -3758,7 +3758,7 @@
   {
     "id": 190,
     "source": "oculoplastics-bcsc",
-    "question": "What orbital or adnexal structure is commonly involved in and/or is the nidus of preseptal cellulitis in adults? Orbital compartment syndrome (OCS) may occur in a variety of settings (eg, posttraumatic or postsurgical hemorrhage, abscess formation, noninfectious inﬂammation). Posttraumatic OCS usually results from hemorrhage. Large orbital fractures expand the orbital compartment into the adjacent paranasal sinuses, and this may be relatively protective against the development of OCS. However, if bleeding continues, blood will ﬁll this larger compartment, resulting in OCS. Therefore, it is important not to discount the possibility of OCS in patients with orbital fractures. Prompt lateral canthotomy and cantholysis should be performed by the emergency department physician, particularly if the ophthalmologist is not able to perform the procedure in a timely fashion. Inadequate cantholysis will not relieve the OCS, and complete release should be veriﬁed once the ophthalmologist has arrived. Conservative management with IV ﬂuids and pain management will only mask the pain noted in OCS. OCS is a clinical entity that can result in permanent visual loss if diagnosis is delayed. Therefore, deﬁnitive management should not be delayed by waiting for CT. OCS rarely manifests as a discrete hematoma on CT, but rather appears as an increased reticular signal in the intraconal fat. Posterior globe tenting may be seen on axial and parasagittal images, because the posterior sclera is distorted by proptosis and a stretched optic nerve. Bony orbital decompression is rarely needed in a patient with OCS. Use of intravenous mannitol may temporarily stabilize the OCS. If the OCS has not resolved, orbital surgery may be required.",
+    "question": "What orbital or adnexal structure is commonly involved in and/or is the nidus of preseptal cellulitis in adults?",
     "options": {
       "A": "lacrimal sac",
       "B": "trochlea",
@@ -3781,7 +3781,7 @@
     "question": "For 2 months, a 35-year-old man has had medial and inferior displacement of the right globe, with axial proptosis. Concurrently, he reports intermittent orbital pain. He claims that he had a benign tumor of the lacrimal gland partially removed 2 years ago. An orbital computed tomography (CT) scan was done and demonstrated a large lacrimal gland tumor with some irregular bony remodeling in the lacrimal gland fossa. For this patient, what is the most probable diagnosis?",
     "options": {
       "A": "pseudotumor of the lacrimal gland",
-      "B": "recommended for a 52-year-old man interested in nonsurgical treatment of prominent nasolabial folds? ! % # malignant mixed tumor of the lacrimal gland",
+      "B": "malignant mixed tumor of the lacrimal gland",
       "C": "adenoid cystic carcinoma of the lacrimal gland",
       "D": "recurrent benign mixed tumor of the lacrimal gland"
     },
@@ -3938,7 +3938,7 @@
   {
     "id": 199,
     "source": "oculoplastics-bcsc",
-    "question": "In patients with posterior lamellar eyelid deﬁciency, what is the primary principle of repair? Cavernous hemangioma is a common orbital lesion of young to middle-aged adults, with a female predilection. On MRI, a characteristic heterogeneous enhancement pattern is often seen during initial gadolinium infusion that becomes homogeneous as the study progresses; this feature greatly narrows the diﬀerential diagnosis. In atypical cases, speciﬁc MRI and magnetic resonance angiography (MRA) sequences may be very helpful in diﬀerentiating cavernous hemangioma from active venolymphatic or arteriovenous malformations, usually abrogating the need for and inherent risks of cerebral arteriography. Computed tomography has less-speciﬁc patterns: longstanding lesions may exhibit areas of calciﬁcation. Although a cavernous hemangioma is usually slowly enlarging, the presence of a compressive optic neuropathy typically requires intervention. Although some patients with early optic neuropathy may opt for observation to at least temporarily avoid the risks of treatment, surgical intervention should be oﬀered. While stereotactic radiotherapy, including gamma knife radiosurgery, may be an option for lesions that are diﬃcult to access in the orbital apex, anterior or mid-orbital lesions typically do well with excisional surgery. Observation with serial examinations and imaging is certainly a reasonable option if a cavernous hemangioma is found incidentally and the patient is asymptomatic. &",
+    "question": "In patients with posterior lamellar eyelid deﬁciency, what is the primary principle of repair?",
     "options": {
       "A": "full-thickness skin grafts",
       "B": "posterior lamellar spacer grafts",
@@ -4080,7 +4080,7 @@
     "source": "oculoplastics-bcsc",
     "question": "A child presents with a broad forehead and bilateral coronal suture synostosis. No abnormalities of the hands or feet are noted. Genetic testing shows a mutation in the ﬁbroblast growth factor receptor FGFR2 gene. What is the most likely diagnosis?",
     "options": {
-      "A": "distance 1 (MRD ) is 2 mm greater when in downgaze than in primary gaze, and in upgaze the eyelid covers the pupil almost completely. There is symmetric retropulsion of each globe. What is the most likely etiology of his ptosis? ! \" # Crouzon syndrome",
+      "A": "Crouzon syndrome",
       "B": "Apert syndrome",
       "C": "Saethre-Chotzen syndrome",
       "D": "Pfeiﬀer syndrome"
@@ -4161,7 +4161,7 @@
     "question": "A patient presents with a right lower lid lesion that is elevated and poorly demarcated, with superﬁcial scaling. Pathology from a biopsy is performed and shows squamous cell carcinoma conﬁned to the epidermis, without invasion of the dermal epidermal junction. What is the most appropriate management for this lesion?",
     "options": {
       "A": "observation",
-      "B": "orbitotomy would be most eﬀective in what procedure? ! \" # topical trichloroacetic acid",
+      "B": "topical trichloroacetic acid",
       "C": "topical hydroquinone",
       "D": "complete surgical excision"
     },
@@ -4218,7 +4218,7 @@
   {
     "id": 213,
     "source": "oculoplastics-bcsc",
-    "question": "A 25-year-old man who admits to intravenous (IV) drug use has a lesion on the left upper and lower lid (Figure 1). What additional diagnostic testing is most important for this patient? base. Exenteration should be considered for any aggressive tumor within the orbit that is not responsive to radiation or is too large to be removed entirely with excision. Intraocular tumors that extend into the orbit should be considered for exenteration if no systemic metastasis is found. Merkel cell carcinoma of the eyelid is a neuroendocrine tumor that presents as a painless, red nodule with overlying telangiectatic blood vessels. The tumor should be excised with or without chemotherapy/radiation. There is a high rate of tumor recurrence and metastasis. Mortality is high, at around 38 . Rhabdomyosarcoma was traditionally treated with exenteration in the past. However, the most recent guidelines recommend chemotherapy and radiation as ﬁrst-line treatment. Exenteration is considered for recurrent cases. Adenoid cystic carcinoma is a highly malignant tumor for which exenteration is often indicated. Median age of presentation is 40 years, and that carcinoma is more common in women. The tumor often erodes bone and invades nerves. Histologically, the tumor has a Swiss cheese appearance (cribriform pattern). Other types include basaloid, comedo, sclerosing, and tubular. The basaloid pattern has the worse prognosis. Severe orbital fungal infections are another indication for exenteration. &",
+    "question": "A 25-year-old man who admits to intravenous (IV) drug use has a lesion on the left upper and lower lid (Figure 1). What additional diagnostic testing is most important for this patient?",
     "options": {
       "A": "histopathology of lesion",
       "B": "liver function testing",
@@ -4281,7 +4281,7 @@
     "question": "A patient has sustained a full- thickness laceration to the central lower eyelid that involves the margin. What is the most appropriate management?",
     "options": {
       "A": "realignment of the tarsus with partial-thickness sutures and eversion of the eyelid margin with vertical mattress sutures",
-      "B": "located? ! \" # realignment of the tarsus with full-thickness sutures and eversion of the eyelid margin with vertical mattress sutures",
+      "B": "realignment of the tarsus with full-thickness sutures and eversion of the eyelid margin with vertical mattress sutures",
       "C": "realignment of the tarsus with partial-thickness sutures and ﬂush realignment of the eyelid margin with vertical mattress sutures",
       "D": "realignment of the tarsus with full-thickness sutures and ﬂush realignment of the eyelid margin with vertical mattress sutures"
     },
@@ -4659,7 +4659,7 @@
     "question": "What is the most common cause of orbital cellulitis among adults?",
     "options": {
       "A": "polymicrobial sinusitis",
-      "B": "for most cases of primary sebaceous gland carcinoma? ! \" # Haemophilus inﬂuenzae sinusitis",
+      "B": "Haemophilus inﬂuenzae sinusitis",
       "C": "fungal sinusitis",
       "D": "trauma"
     },
@@ -4696,7 +4696,7 @@
   {
     "id": 237,
     "source": "oculoplastics-bcsc",
-    "question": "An ophthalmologist is called to evaluate a patient in the emergency room who was transferred from another hospital. The patient has had progressive swelling of bilateral eyelids for the past several days. He has also had fevers, malaise, anorexia, and altered mental status. On examination, he has pronounced violaceous swelling of the left orbit, with areas of necrosis. The orbit is tight and requires immediate canthotomy/cantholysis. The left pupil is amaurotic, and vision in that eye is no light perception (NLP). His right eye has a reactive pupil with vision of 20/25. Blood cultures sent from the outside hospital are positive for Group A beta hemolytic streptococcus. What is the best next step in managing this patient's condition?",
+    "question": "What is the best next step in managing this patient's condition?",
     "options": {
       "A": "5098- 4d95- Take him to the operating room for urgent debridement.",
       "B": "Start him on oral antibiotics and a course of steroids.",
@@ -4720,7 +4720,7 @@
     "options": {
       "A": "5 mm ptosis, poor levator function, 3 mm residual ptosis with instillation of a drop of 2.5% phenylephrine hydrochloride",
       "B": "3 mm ptosis, normal levator function, persistence of ptosis with instillation of a drop of 2.5% phenylephrine hydrochloride",
-      "C": "changes and a history of renal transplantation presents with progressive external ophthalmoplegia and forehead numbness that has progressed over several months. What is the most likely diagnosis? !",
+      "C": "1 mm ptosis, poor levator function, persistence of ptosis with instillation of a drop of 2.5% phenylephrine hydrochloride",
       "D": "1 mm ptosis, normal levator function, resolution of ptosis with instillation of a drop of 2.5% phenylephrine hydrochloride"
     },
     "correctAnswer": "D",
@@ -4816,7 +4816,7 @@
   {
     "id": 243,
     "source": "oculoplastics-bcsc",
-    "question": "A 54-year-old non-smoking woman complains of 2 weeks of rapid-onset right-gaze pain, proptosis, and diplopia. Other than remission of breast carcinoma following mastectomy 5 years ago, her medical history is negative. The results of her thyroid function tests, including the thyroid- stimulating hormone (TSH) test, are normal. Orbital computed tomography (CT) scan reveals a 12 mm diameter irregular inﬁltrating mass within the body of the lateral rectus muscle. What is the most likely diagnosis? The Lockwood ligament is the inferior equivalent to the Whitnall ligament of the superior lid. The Lockwood ligament arises from the fusion of the sheath of the inferior rectus muscle and the capsulopalpebral fascia (or inferior tarsal muscle), as well as the check ligaments of the medial and lateral recti. The Lockwood ligament, in addition to being fused with the capsulopalpebral fascia (inferior tarsal muscle), is also fused to the inferior rectus muscle sheath. Therefore, vertical strabismus surgery that recesses or advances the muscle can alter the lid position. The orbicularis muscle does not insert into the tarsus and therefore does not aﬀect lid position. The Whitnall ligament is in the upper lid. &",
+    "question": "A 54-year-old non-smoking woman complains of 2 weeks of rapid-onset right-gaze pain, proptosis, and diplopia. Other than remission of breast carcinoma following mastectomy 5 years ago, her medical history is negative. The results of her thyroid function tests, including the thyroid- stimulating hormone (TSH) test, are normal. Orbital computed tomography (CT) scan reveals a 12 mm diameter irregular inﬁltrating mass within the body of the lateral rectus muscle. What is the most likely diagnosis?",
     "options": {
       "A": "lymphoma",
       "B": "metastatic breast carcinoma",
@@ -5216,7 +5216,7 @@
   {
     "id": 263,
     "source": "oculoplastics-bcsc",
-    "question": "What is the goal of orbital decompression surgery for Graves disease-related ophthalmopathy (thyroid eye disease)? The main concern in a patient presenting with a slowly progressive, superomedial (above the medial canthal tendon) orbital mass is an expanding skull base process. In children, this is typically due to encephalocele (inferior herniation of brain tissue), meningocele (herniation of the meninges), or meningoencephalocele (herniation of both); these lesions are especially common in congenital clefting syndromes. Dermoid cysts may also occur in this region. Dacryocystoceles often form below the medial canthal tendon, but if there is any concern for encephalocele, consider imaging before probing and irrigation. In adults, the most common cause is an expanding frontoethmoidal mucocele, which may have eroded through bone into the orbit and anterior cranial fossa (Fig. 1). It is crucial to obtain imaging of the area before proceeding with any type of surgical intervention in this clinical situation, in order to avoid any potential intracranial complications. In children, an MRI is preferred to computed tomography (CT) for 2 reasons: 1. It will provide better imaging of the skull base soft tissue than CT; 2. MRI avoids radiation exposure to a young child's brain.",
+    "question": "What is the goal of orbital decompression surgery for Graves disease-related ophthalmopathy (thyroid eye disease)?",
     "options": {
       "A": "resolution of the inﬂammatory etiology",
       "B": "reduction of stare from lid retraction",
@@ -5996,7 +5996,7 @@
   {
     "id": 303,
     "source": "oculoplastics-bcsc",
-    "question": "A patient has a small, painless, pink, pedunculated mass on the lower lid shown in the image. The area does not have any ulceration or discharge. What management is appropriate in this case? Adenoid cystic carcinoma (ACC) is the most common malignant epithelial tumor of the lacrimal gland. This highly malignant carcinoma may cause pain because of perineural invasion and bone destruction. The relatively rapid course, with a history of generally less than 1 year, and early onset of pain help diﬀerentiate ACC from pleomorphic adenoma, which is painless and characteristically exhibits progressive proptosis for more than a year. The tumor usually extends into the posterior orbit because of its capacity to inﬁltrate and its lack of true encapsulation. Most lacrimal gland masses represent nonspeciﬁc inﬂammation (dacryoadenitis). They present with acute inﬂammatory signs and usually respond to anti-inﬂammatory medication. They do not cause bony destruction or exhibit perineural invasion. The vast majority of orbital lymphoproliferative lesions are non- Hodgkin lymphoma (NHL). The typical lymphoproliferative lesion presents as a gradually progressive, painless mass, resulting in proptosis, a visible periocular mass, or ptosis. These tumors are often located anteriorly in the orbit or beneath the conjunctiva, where they may show the typical salmon-patch appearance. Lymphoproliferative lesions, whether benign or malignant, usually mold to surrounding orbital structures rather than invade them; consequently, disturbances of extraocular motility or visual function are unusual.",
+    "question": "A patient has a small, painless, pink, pedunculated mass on the lower lid shown in the image. The area does not have any ulceration or discharge. What management is appropriate in this case?",
     "options": {
       "A": "timolol ophthalmic gel 0.5% applied topically twice daily",
       "B": "cryotherapy or excision to eliminate the lesion and minimize the risk of viral spread",
@@ -6121,7 +6121,7 @@
       "A": "lacrimal ducts",
       "B": "levator aponeurosis",
       "C": "lacrimal artery",
-      "D": "evaluated for precocious puberty and acromegaly. She also has hearing loss and has had multiple broken bones. During the examination, the ophthalmologist ﬁnds unilateral proptosis. What is the preferred initial imaging study to deﬁne the expected lesion? ! \" # Whitnall ligament"
+      "D": "Whitnall ligament"
     },
     "correctAnswer": "A",
     "explanation": "The lacrimal sac ductules consist of 2 to 6 ductules that extend from the orbital lobe of the lacrimal gland, into the palpebral lobe, and join the palpebral lobe ducts. From there, 8 to 12 major palpebral lobe ductules drain into the lateral superior fornix cul- de-sac. They are located 4-5 mm above the superior margin of the upper tarsus. Therefore, dissection in this area can cause injury and, potentially, secondary dry eye. Whitnall ligament attaches laterally with septa transversing through the stroma of the lacrimal gland and attaches to the inner aspect of the lateral orbital wall. The horns of the levator aponeurosis diﬀer from Whitnall in that they lie more inferior and toward the canthi. The lateral horn inserts onto the lateral orbital tubercle, and it divides the lacrimal gland into orbital and palpebral lobes, attaching ﬁrmly to the orbital tubercle. The lacrimal artery lies within the stroma of the lacrimal gland and is unlikely to be injured during surgery within the conjunctival cul-de-sac.",
@@ -6476,7 +6476,7 @@
   {
     "id": 327,
     "source": "oculoplastics-bcsc",
-    "question": "Increased risk and severity of thyroid eye disease in patients with Graves hyperthyroidism are more likely in what group of patients? syndrome is usually mild. Horner syndrome classic triad consists of ptosis, miosis (small pupil that fails to dilate in darkness) and anhidrosis (reduces sweating on aﬀected side of face). Interruption of signal at the neuromuscular junction is found in myasthenia gravis (MG) myasthenia gravis (MG). In a positive ice test, the ptosis improves (temporarily), suggesting the diagnosis of MG. Myogenic ptosis is the most common type of congenital ptosis, is characterized by reduced levator function, and often demonstrates lid lag in downgaze. This is due to a poorly developed, poorly functioning muscle. Aponeurotic ptosis Aponeurotic ptosis is the most common type of acquired ptosis. In aponeurotic ptosis, the levator aponeurosis is thinned out or dehisced from its attachment to the tarsal plate. It is associated with a high or indistinct lid crease, normal levator function, and persistence or worsening of ptosis in downgaze (compare to myogenic). Most commonly this is an involutional (aging) change. RGP wear, as well as long-term vigorous eye rubbing, can lead to levator dehiscence; this can be considered a type of (chronic) traumatic ptosis as well. Acute traumatic ptosis can be caused by both blunt and sharp trauma. For example, overstretching of an eyelid with some amount of preexisting levator dehiscence with an eyelid speculum during cataract surgery may worsen the ptosis. Eyelid lacerations may involve the levator aponeurosis with sharp severing of the muscle as one of the sequelae of trauma. The presence of fat in an eyelid laceration is a classic indication for more extensive wound exploration and possible need for levator repair.",
+    "question": "Increased risk and severity of thyroid eye disease in patients with Graves hyperthyroidism are more likely in what group of patients?",
     "options": {
       "A": "patients with a high serum T4 level",
       "B": "patients in their 3rd decade of life",
@@ -6598,7 +6598,7 @@
     "options": {
       "A": "dermatochalasis",
       "B": "Meige syndrome",
-      "C": "landmark most closely corresponds to the level of the cribriform plate? ! \" # blepharochalasis",
+      "C": "blepharochalasis",
       "D": "benign essential blepharospasm"
     },
     "correctAnswer": "C",
@@ -6657,7 +6657,7 @@
     "question": "A 15-year-old patient has chronic tearing from the right eye. Probing on the right reveals a soft stop through the lower punctum and a hard stop through the upper punctum. What is the most likely site of obstruction?",
     "options": {
       "A": "upper canaliculus",
-      "B": "the lipid layer of the precorneal tear ﬁlm? ! \" # lower canaliculus",
+      "B": "lower canaliculus",
       "C": "lower nasolacrimal duct",
       "D": "common canaliculus"
     },
@@ -6759,7 +6759,7 @@
       "A": "anti-acetylcholine receptor antibody testing",
       "B": "examination for pupillary abnormalities",
       "C": "ice-pack test",
-      "D": "rapidly enlarging infantile (capillary) hemangioma. The ophthalmologist is concerned for Kasabach-Merritt syndrome. What laboratory test or tests should be ordered to conﬁrm that diagnosis? ! \" # edrophonium (Tensilon) testing"
+      "D": "edrophonium (Tensilon) testing"
     },
     "correctAnswer": "C",
     "explanation": "Considering the constellation of ptosis, breathing diﬃculties, and trouble swallowing, myasthenia gravis is a reasonable and somewhat urgent concern. After 2 minutes of cooling with an ice pack, improvement of ptosis can be seen in most patients with MG. If further testing is needed, the patient could undergo edrophonium (Tensilon) testing to conﬁrm the diagnosis. Edrophonium testing may be associated with rare but serious adverse eﬀects such as bradycardia, bronchospasm, cholinergic crisis, respiratory arrest, or syncopal episodes. Although antibody testing is useful, it will take time to get the results. Pupillary abnormalities are not associated with myasthenia gravis. thyroid stimulating hormone (TSH) and free T4 levels A. 1% factor V Leiden mutation B. 3% platelet count C. 77% Correct Answer hematocrit and reticulocyte count D. 15% Kasabach-Merritt syndrome is the sequestration of platelets within a large vascular lesion, such as a hemangioma, leading to thrombocytopenia. Therefore, a low platelet count would support the diagnosis. Hemangiomas would not aﬀect thyroid hormone levels or red blood cell counts. Factor V Leiden is a genetic disorder causing hypercoagulability.",
@@ -6877,7 +6877,7 @@
     "question": "A patient presents following Mohs surgery with a lower eyelid defect greater than 60 . What is the best technique to repair this large lower eyelid defect?",
     "options": {
       "A": "free tarsal graft from upper eyelid and full-thickness skin graft",
-      "B": "recently diagnosed with a low- grade isolated orbital lymphoma. What is the preferred treatment? ! \" # tarsoconjunctival ﬂap from upper eyelid with full-thickness skin graft",
+      "B": "tarsoconjunctival ﬂap from upper eyelid with full-thickness skin graft",
       "C": "direct primary closure of the lower eyelid",
       "D": "lateral canthotomy with rotational ﬂap"
     },
@@ -7276,7 +7276,7 @@
     "options": {
       "A": "It contains no mucosal folds.",
       "B": "It functions as a 2-way valve.",
-      "C": "between her lower lids. The pregnancy and delivery were uncomplicated, and the parent denies any symptoms. Clinical examination shows the presence of a punctum on the right lower lid, but punctal agenesis on the left lower lid. What symptom is most likely to develop? !",
+      "C": "It is located at the distal portion of the nasolacrimal duct.",
       "D": "It prevents reﬂux of tears from the lacrimal sac into the canaliculi."
     },
     "correctAnswer": "D",
@@ -7352,7 +7352,7 @@
   {
     "id": 371,
     "source": "oculoplastics-bcsc",
-    "question": "During evaluation of a patient for lower lid blepharoplasty, the ophthalmologist realizes that the patient's lid problem is compounded by a descended midface. To resuspend the midface, the ophthalmologist recommends vertical support. To achieve the best result, what structure will require surgical suspension? may show a deep, violaceous hue to the aﬀected skin. Subcutaneous tissue demonstrates a hardened wooden feel rather than ﬂuctuance. Studies have shown that periorbital necrotizing fasciitis may carry a lower mortality rate than necrotizing fasciitis in other anatomic locations, and may respond to conservative therapy with intravenous antibiotics alone, rather than aggressive debridement. Involvement of the lower face and neck appears to increase mortality and morbidity. If periorbital debridement is necessary, it is important to spare the epidermal and dermal layers as much as possible to minimize postoperative scarring (which can result in very severe lagophthalmos and exposure keratopathy). Histopathologic studies have shown that the infection is usually limited to deeper fascial layers and that skin- sparing debridement is eﬀective. Of note, certain streptococcal species also produce exotoxin, which may result in pulmonary and renal shutdown, with subsequent multi-organ failure. Patients with suspected necrotizing fasciitis should be monitored closely, in consultation with internal medicine and infectious disease physicians.",
+    "question": "During evaluation of a patient for lower lid blepharoplasty, the ophthalmologist realizes that the patient's lid problem is compounded by a descended midface. To resuspend the midface, the ophthalmologist recommends vertical support. To achieve the best result, what structure will require surgical suspension?",
     "options": {
       "A": "zygomaticus minor",
       "B": "suborbicularis oculi fat (SOOF)",
@@ -7434,7 +7434,7 @@
     "source": "oculoplastics-bcsc",
     "question": "A 1-year-old girl presents with severe ptosis and no levator function on the right side. She shows signs of amblyopia in the right eye. What is the most appropriate method of ptosis repair?",
     "options": {
-      "A": "treatment of punctal stenosis? ! \" # levator advancement",
+      "A": "levator advancement",
       "B": "brow lift",
       "C": "frontalis suspension",
       "D": "blepharoplasty"
@@ -7632,7 +7632,7 @@
   {
     "id": 385,
     "source": "oculoplastics-bcsc",
-    "question": "The upper eyelid defect shown in the ﬁgure is best repaired with what surgical procedure? Cutaneous malignant melanomas of the eyelids are rare. They may develop de novo or from a pre-existing nevus. Clinically, invasive melanoma is often preceded by a vertical growth phase, resulting in an elevated, indurated mass. Histologic features suggesting malignancy include nuclear enlargement, hyperchromasia, prominent nucleoli, or atypical mitotic ﬁgures. Melanoma invades the epidermis and lacks the polarity found in melanocytic nevi. There are 4 main histologic subtypes of dermal melanoma. The superﬁcial spreading variant is the most common type of cutaneous melanoma. It demonstrates a spreading intraepidermal growth pattern. The lentigo maligna subtype is the most common cutaneous melanoma aﬀecting the eyelids. It has a long pre-invasive phase, and carries the best prognosis. It appears histologically as a nest or line of atypical melanocytes, predominantly in the basal layers of the epidermis. Acral lentiginous melanoma involves the extremities and is not found on the eyelids. Nodular melanoma is histologically characterized by a minimal intraepidermal component and more pronounced vertical growth, making it more deeply invasive. It carries the worst prognosis.",
+    "question": "The upper eyelid defect shown in the ﬁgure is best repaired with what surgical procedure?",
     "options": {
       "A": "Cutler-Beard procedure",
       "B": "layered closure of tarsus, subcutaneous tissue, and skin",
@@ -7652,7 +7652,7 @@
   {
     "id": 386,
     "source": "oculoplastics-bcsc",
-    "question": "An ophthalmologist is called to evaluate a patient in the emergency department who was transferred from another hospital. The patient has had progressive swelling of the right eyelid for the past several days. He has also had fevers, malaise, anorexia, and altered mental status. On examination, he has pronounced violaceous swelling of the right orbit, with areas of necrosis. The orbit is tight and requires immediate canthotomy/cantholysis. The right pupil is amaurotic and vision in that eye is no light perception (NLP). His left eye has a reactive pupil with vision of 20/25. Blood cultures sent from the outside hospital are positive for Group A beta hemolytic streptococcus. What is the next step in management?",
+    "question": "What is the next step in management?",
     "options": {
       "A": "oral antibiotics and steroids",
       "B": "intravenous antibiotics and surgical debridement in the operating room",
@@ -7732,7 +7732,7 @@
   {
     "id": 390,
     "source": "oculoplastics-bcsc",
-    "question": "A 61-year-old woman has noted slowly progressive painless visual loss OD over the last 6 months. Her visual acuity is 20/80 OD and 20/20 OS. She has a right relative aﬀerent pupillary defect. She correctly identiﬁed 5 of 10 color plates OD and 10 of 10 OS. She has a central scotoma OD and normal perimetry OS. Fundoscopy shows a diﬀusely pale optic disc OD; the left disc is normal. Given the magnetic resonance imaging (MRI) scan with fat suppression and contrast shown, what diagnosis most likely accounts for her ﬁndings?",
+    "question": "Given the magnetic resonance imaging (MRI) scan with fat suppression and contrast shown, what diagnosis most likely accounts for her ﬁndings?",
     "options": {
       "A": "optic nerve glioma",
       "B": "optic nerve sheath meningioma",
@@ -7997,7 +7997,7 @@
       "A": "nasolacrimal duct (NLD) obstruction",
       "B": "canalicular dysgenesis",
       "C": "infectious conjunctivitis",
-      "D": "for evaluation of right upper eyelid ptosis. The clinical assessment shows that she has a margin–reﬂex distance 1 (MRD ) of 2.5 mm on the right and 3.0 mm on the left. The ophthalmologist notices that the right superior sulcus is deeper, compared to the left."
+      "D": "dacryoadenitis"
     },
     "correctAnswer": "A",
     "explanation": "Hertel exophthalmometry measurements demonstrate 4 mm of right enophthalmos. There is no history of trauma. What is the most likely radiographic ﬁnding? ! \" # dacryoadenitis Canalicular dysgenesis leads to impaired drainage of tears, resulting in epiphora without associated signs of dacryocystitis, such as redness, swelling, pain, or mucopurulence. Infectious conjunctivitis typically causes a red eye and presents with tearing and irritation. NLD obstruction, either as a primary congenital condition or secondary to edema of the nasal tissue during an upper respiratory illness, causes tearing. Presentation can range from minimal or no discharge to copious discharge and associated dacryocystitis. Dacryoadenitis is inﬂammation of the lacrimal gland. 1.",
@@ -8012,7 +8012,7 @@
   {
     "id": 404,
     "source": "oculoplastics-bcsc",
-    "question": "A 58-year-old patient presents for evaluation of right upper eyelid ptosis. The clinical assessment shows that she has a margin–reﬂex distance 1 (MRD ) of 2.5 mm on the right and 3.0 mm on the left. The ophthalmologist notices that the right superior sulcus is deeper, compared to the left. Hertel exophthalmometry measurements demonstrate 4 mm of right enophthalmos. There is no history of trauma. What is the most likely radiographic ﬁnding? dacryoadenitis D. 1 Your Answer Canalicular dysgenesis leads to impaired drainage of tears, resulting in epiphora without associated signs of dacryocystitis, such as redness, swelling, pain, or mucopurulence. Infectious conjunctivitis typically causes a red eye and presents with tearing and irritation. NLD obstruction, either as a primary congenital condition or secondary to edema of the nasal tissue during an upper respiratory illness, causes tearing. Presentation can range from minimal or no discharge to copious discharge and associated dacryocystitis. Dacryoadenitis is inﬂammation of the lacrimal gland.",
+    "question": "A 58-year-old patient presents for evaluation of right upper eyelid ptosis. The clinical assessment shows that she has a margin–reﬂex distance 1 (MRD ) of 2.5 mm on the right and 3.0 mm on the left. The ophthalmologist notices that the right superior sulcus is deeper, compared to the left. Hertel exophthalmometry measurements demonstrate 4 mm of right enophthalmos. There is no history of trauma. What is the most likely radiographic ﬁnding?",
     "options": {
       "A": "metastatic breast carcinoma",
       "B": "metastatic prostate carcinoma",
@@ -8212,7 +8212,7 @@
   {
     "id": 414,
     "source": "oculoplastics-bcsc",
-    "question": "An obese 27-year-old woman with headaches and horizontal diplopia presents to the clinic. After thorough evaluation and testing, the ophthalmologist diagnoses her with pseudotumor cerebri and begins treatment with acetazolamide. She promptly develops Stevens-Johnson syndrome (SJS) with ocular involvement, requiring a prolonged hospital stay. On her 6-month follow-up, this patient now has binocular vertical diplopia as well, with new limitation in supraduction on the right. What is the most likely cause of these ﬁndings?",
+    "question": "What is the most likely cause of these ﬁndings?",
     "options": {
       "A": "ocular surface disease from meibomian gland dysfunction",
       "B": "restrictive strabismus from symblepharon formation",
@@ -8312,7 +8312,7 @@
   {
     "id": 419,
     "source": "oculoplastics-bcsc",
-    "question": "A patient presents with progressive monocular vision loss. Orbital computed tomography (CT) reveals narrowing of the optic canal and diﬀuse hyperostotic bones of the orbit, and magnetic resonance imaging (MRI) indicates absence of dural enhancement. What is the most likely diagnosis? A palpable mass in the medial canthal area superior to the medial canthal tendon is suspicious for a lacrimal sac malignancy or a nonlacrimal-based mass such as a meningocele or mucocele. Distention of the lacrimal sac associated with chronic dacryocystitis would typically cause a palpable mass inferior to the medial canthal tendon. A lacrimal gland tumor would be located in the temporal aspect of the upper lid and superior orbit, not in the medial canthal area. While rare, lacrimal sac tumors are benign 45 of the time and malignant 55 of the time. Squamous cell papillomas and carcinomas are the most common tumors of the sac. A sphenoid wing meningioma would cause a mass in the temporal fossa.",
+    "question": "A patient presents with progressive monocular vision loss. Orbital computed tomography (CT) reveals narrowing of the optic canal and diﬀuse hyperostotic bones of the orbit, and magnetic resonance imaging (MRI) indicates absence of dural enhancement. What is the most likely diagnosis?",
     "options": {
       "A": "ﬁbrous dysplasia",
       "B": "meningioma",
@@ -8352,7 +8352,7 @@
   {
     "id": 421,
     "source": "oculoplastics-bcsc",
-    "question": "To avoid excessive skin removal during an upper lid blepharoplasty, a minimum of how much remaining skin is typically left between the inferior border of the brow and the upper eyelid margin? In this setting, zygomycosis (also termed phycomycosis or mucormycosis), which is the most common and devastating fungus of the orbit, is suspected. Patients present with an orbital apex syndrome with sinusitis. The fungus directly invades blood vessels, causing vessel thrombosis (even central retinal artery occlusion in rare cases). The tissue appears necrotic and a black eschar may be seen. Predisposing conditions include metabolic acidosis, uncontrolled diabetes mellitus, organ transplantation, renal failure, immunosuppression, and malignancies (such as lymphoma/leukemia). Microscopically nonseptate, large branching hyphae that stain with hematoxylin and eosin (unlike most fungi) are seen. Treatment is aggressive surgical debridement with intravenous amphotericin B. Even with aggressive treatment, outcomes can be poor. Intravenous antibiotics such as vancomycin, nasal decongestants, and consultation with an otolaryngologist are indicated for possible MRSA, or orbital cellulitis not responding to oral antibiotics, but the symptoms, the predisposing factor of uncontrolled diabetes, and the presence of an eschar require more aggressive action.",
+    "question": "To avoid excessive skin removal during an upper lid blepharoplasty, a minimum of how much remaining skin is typically left between the inferior border of the brow and the upper eyelid margin?",
     "options": {
       "A": "20 mm",
       "B": "15 mm",
@@ -8455,7 +8455,7 @@
     "question": "A 70-year-old woman presents with a left lower lid lesion. She has had multiple recurrent chalazia at the same location. Examination shows a yellowish lesion at the lid margin with loss of overlying eyelashes. What is the most likely diagnosis?",
     "options": {
       "A": "Merkel cell carcinoma",
-      "B": "system for the preseptal portion of the upper eyelid? ! \" # sebaceous gland carcinoma",
+      "B": "sebaceous gland carcinoma",
       "C": "oncocytoma",
       "D": "rosacea blepharitis"
     },
@@ -8617,7 +8617,7 @@
       "A": "holocrine oily secretion",
       "B": "exocrine aqueous secretion",
       "C": "apocrine oily secretion",
-      "D": "associated with the annulus of Zinn? ! \" # eccrine aqueous secretion"
+      "D": "eccrine aqueous secretion"
     },
     "correctAnswer": "A",
     "explanation": "Meibomian glands are modiﬁed sebaceous glands on the tarsus that have holocrine oily secretion. A holocrine gland forms the secretory product within the cytoplasm, and the secretion is released by the disruption of the plasma membrane and death of the cell. The glands of Zeis are located on the eyelid margin and are modiﬁed sebaceous glands that have holocrine oily secretion. Goblet cells also have holocrine mucus secretion. The glands of Krause and Wolfring are accessory lacrimal glands that have exocrine aqueous secretion. Exocrine glands secrete their product directly into the duct. The glands of Krause are located in the lateral part of the upper fornix. The glands of Wolfring are scattered along the proximal margin of tarsus. The glands of Moll are apocrine sweat glands, located near the eyelashes (cilia), that have eccrine secretion. An eccrine (or merocrine) gland is a sweat gland that produces water and sodium chloride that is secreted through exocytosis. An eccrine gland is composed of an intraepidermal spiral duct with a coiled acinar portion within the dermis. The glands of Moll are the only eccrine-secreting glands of the eyelid.",
@@ -8752,7 +8752,7 @@
   {
     "id": 441,
     "source": "oculoplastics-bcsc",
-    "question": "A 70-year-old patient presents with slowly progressive unilateral ptosis with a high lid crease, a deep superior sulcus, and normal levator function. Following instillation of phenylephrine, his lid position does not change. What is the preferred method of ptosis repair? The etiology of orbital inﬂammation can be infectious, autoimmune, vasculitic, granulomatous, or nonspeciﬁc. This patient's inﬂammation does not appear to have an infectious or toxic origin, which narrows down the diﬀerential of eyelid edema. Thyroid eye disease (autoimmune) should always be high in the diﬀerential for noninfectious orbital inﬂammatory disease, and ﬂuctuating eyelid edema is a typical ocular sign for TED. While bilateral intermittent eyelid edema may be of allergic etiology, the history provided does not lead the examiner toward an allergic cause, and a patient with concurrent heart palpitations is more likely to have a diagnosis of thyroid disease. Therefore, thyroid function testing would be a better choice in the initial management of this patient's condition. It is important to remember that while this patient’s eyelid edema is described as symmetric, thyroid eye disease is frequently asymmetric. Furthermore, the severity of clinical ﬁndings does not parallel the patient’s serum thyroid studies. Finally, bilateral upper eyelid dermatochalasis necessitating blepharoplasty would not be an intermittent symptom, and thus blepharoplasty does not ﬁt for the management of this patient. If a thyroid patient does require surgery, the usual order is orbital decompression, followed by strabismus surgery, followed by eyelid surgery.",
+    "question": "A 70-year-old patient presents with slowly progressive unilateral ptosis with a high lid crease, a deep superior sulcus, and normal levator function. Following instillation of phenylephrine, his lid position does not change. What is the preferred method of ptosis repair?",
     "options": {
       "A": "external levator advancement",
       "B": "Müller muscle-conjunctival resections",
@@ -9134,7 +9134,7 @@
     "source": "oculoplastics-bcsc",
     "question": "A 50-year-old patient is early in her course of docetaxel for breast cancer and presents complaining of tearing. What is the most appropriate response?",
     "options": {
-      "A": "irritation in the left eye. She has no past ocular history. Her presentation is shown in the ﬁgure. On examination, no symblepharon or forniceal shortening is observed. What is the underlying cause of the notable ﬁnding? ! \" # verruca vulgaris",
+      "A": "verruca vulgaris",
       "B": "syringoma",
       "C": "molluscum contagiosum",
       "D": "seborrheic keratosis"
@@ -9592,7 +9592,7 @@
   {
     "id": 483,
     "source": "oculoplastics-bcsc",
-    "question": "Into what structure do the lymphatics from the lateral upper eyelid palpebral conjunctiva drain? In general, CT evidence of orbital bone destruction from an adjacent lesion is an ominous sign and usually (though not always) suggests malignancy. In the area of the lacrimal gland, the 2 most common malignant processes that cause bone destruction are adenoid cystic carcinoma (the most common primary epithelial lacrimal gland malignancy) and metastatic disease (especially prostate cancer). The most common nonepithelial malignancy of the lacrimal gland is non-Hodgkin B-cell lymphoma, and the majority of such lesions are indolent extranodal marginal zone lymphomas (EMZL, also termed mucosa-associated lymphoid tissue, or MALT lymphomas); bone erosion from lymphoma occurs only in aggressive subtypes, such as diﬀuse large B-cell lymphoma, which are much less common than MALT lymphomas. Of note, 2 benign conditions may cause bone erosion in the lacrimal gland fossa: dermoid cyst and eosinophilic granuloma. Pleomorphic adenoma (benign mixed tumor) causes chronic remodeling of the bone known as fossa formation, but true bone erosion typically occurs only with malignant transformation. Plexiform neuroﬁbromas often are found near the superotemporal orbit, but are not expected to cause bony erosion.",
+    "question": "Into what structure do the lymphatics from the lateral upper eyelid palpebral conjunctiva drain?",
     "options": {
       "A": "cavernous hemangiomas",
       "B": "infantile (capillary) hemangioma",

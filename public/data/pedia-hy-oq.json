@@ -421,7 +421,7 @@
   {
     "id": 27,
     "source": "pedia-hy-oq",
-    "question": "A 3-year-old boy is brought in by his parents for the right “eye turning in”. The parents have noted this occurring intermittently, and it is most noticeable when the child is tracking an object. The parents say he does not complain of diplopia. LEA symbol visual acuity reveals 20/30 vision in each eye. Alternative cover testing shows a 6 PD E(T) in primary gaze. He has no visible abnormal head position in primary gaze. Motility exam is shown in the image. What is the best next step in management of this patient?",
+    "question": "What is the best next step in management of this patient?",
     "options": {
       "A": "Observation",
       "B": "MRI of the brain to evaluate for causes of a sixth nerve palsy",
@@ -453,7 +453,7 @@
   {
     "id": 29,
     "source": "pedia-hy-oq",
-    "question": "A father brings in his 12-year-old son who has a two year history of intermittent exotropia that has eventually become manifest over the past 6 months. You perform an examination and type into EPIC, \"20/20 OD, 20/20-2 OS; 30 PD XT in primary gaze with freely alternating fixation and 30 PD XT' ; CRx: +1.00 sphere OU; 40 sec of arc with prism correction.\" The father notices the difference in visual acuity between the two eyes and states that he read on the Internet that \"patching can strengthen a kid's lazy eye.\" Which of the following is the best response to this parent's inquiry?",
+    "question": "Which of the following is the best response to this parent's inquiry?",
     "options": {
       "A": "Your child would not benefit from amblyopia therapy because he is beyond the amblyogenic years.",
       "B": "Your child would not benefit from amblyopia therapy but would be a strabismus surgery candidate",
@@ -549,7 +549,7 @@
   {
     "id": 35,
     "source": "pedia-hy-oq",
-    "question": "A 3-year-old child presents to your clinic as a referral for possible partially accommodative esotropia. You measure 20 prism diopters of esotropia at distance with the appropriate cycloplegic refraction in place. The child has already completed amblyopia treatment with the referring Ophthalmologist. The mother of the patient will only allow you to operate on one (i.e. not both) of the child's eyes. You pull out a chart of amounts of muscle surgery as shown above. Which of the following is the most appropriate management for this patient?",
+    "question": "Which of the following is the most appropriate management for this patient?",
     "options": {
       "A": "defer surgery until you can convince the mother otherwise",
       "B": "recess the medial rectus 3.5 mm in one eye",
@@ -741,7 +741,7 @@
   {
     "id": 47,
     "source": "pedia-hy-oq",
-    "question": "A mother brings in her 2-year-old child with complaints of intermittent inward crossing of both eyes. You write down in your chart: \" 45 PD ET and 45 PD ET' \". The cycloplegic refraction shows +3.25 D sphere OD and +3.75 D OS. You prescribe the full cycloplegic refraction as treatment for this child. You re- examine the child in a few weeks and he still has 25 PD ET and 25 PD ET' with the glasses on. You decide to perform bilateral medial rectus recessions for this patient. What is the most appropriate counseling you should give the parents in this situation?",
+    "question": "What is the most appropriate counseling you should give the parents in this situation?",
     "options": {
       "A": "Your child will likely not have to wear glasses after this muscle surgery.",
       "B": "The objective of this surgery is to produce straight eyes with glasses on.",
@@ -901,7 +901,7 @@
   {
     "id": 57,
     "source": "pedia-hy-oq",
-    "question": "A 45-year-old man presents to your clinic 6 months after head trauma from motor vehicle accident. He has seen several eye doctors since the accident but unfortunately he continues to suffer from persistent diplopia. On examination in primary gaze you note a subtle right hypertropia measuring 2 prism diopters. The right hypertropia increases in left gaze and right head tilt. You also observe a left hypertropia in right gaze and left head tilt. On double maddox rod testing, you measure 25 degrees of excyclotorsion. Which of the following represents the most appropriate initial management for this patient's condition?",
+    "question": "Which of the following represents the most appropriate initial management for this patient's condition?",
     "options": {
       "A": "bilateral inferior oblique recessions",
       "B": "bilateral inferior rectus recessions",
@@ -949,7 +949,7 @@
   {
     "id": 60,
     "source": "pedia-hy-oq",
-    "question": "A patient with known Graves disease is followed in your adult strabismus clinic. You have examined him for 2 years and know that his thyroid associated ophthalmopathy (TAO) is no longer active and that his strabismus measurements (see alignment grid above) are stable. On display above is one coronal section from a recent orbital computed tomography (CT) scan. He complains of constant diplopia with images that are mostly horizontal to one another. He has normal vision in both eyes. Using your knowledge of TAO and his alignment, which of the following would be the most appropriate plan for surgical correction of this patient’s strabismus?",
+    "question": "Using your knowledge of TAO and his alignment, which of the following would be the most appropriate plan for surgical correction of this patient’s strabismus?",
     "options": {
       "A": "Right lateral rectus resection",
       "B": "Bilateral lateral rectus resection",
@@ -1001,7 +1001,7 @@
   {
     "id": 63,
     "source": "pedia-hy-oq",
-    "question": "A mother brings in her 3-year old child with complaints of intermittent inward crossing of both eyes. You write down in your chart: \" 30 PD ET and 45 PD ET' \". The cycloplegic refraction shows +2.25 D sphere OD and +2.75 D OS. You initially prescribe the full cycloplegic refraction in a single distance lens which results in orthotropia at distance. However, you still measure 15 PD ET' when the child wears these new glasses. Which of the following pictures shows the correct glasses that should be prescribed for this child?",
+    "question": "Which of the following pictures shows the correct glasses that should be prescribed for this child?",
     "options": {
       "A": "A",
       "B": "B",
@@ -1369,7 +1369,7 @@
   {
     "id": 86,
     "source": "pedia-hy-oq",
-    "question": "You are examining a 4-year-old child who has a history of congenital esotropia, but who never underwent strabismus surgery. Curiously, he can read the 20/25 line with both eyes open, but only the 20/60 line with either eye occluded. You also notice that he displays horizontal jerk nystagmus and alternating head movements when either eye is occluded. There is no nystagmus when there is no occlusion. What is the characteristic waveform of this child's nystagmus and which way does he turn his head when his right eye is occluded?",
+    "question": "What is the characteristic waveform of this child's nystagmus and which way does he turn his head when his right eye is occluded?",
     "options": {
       "A": "exponential INCREASE in slow phase velocity; turn head to the RIGHT",
       "B": "exponential INCREASE in slow phase velocity; turn head to the LEFT",
@@ -1513,7 +1513,7 @@
   {
     "id": 95,
     "source": "pedia-hy-oq",
-    "question": "You are evaluating a 4-year-old child referred by her pediatrician for abnormal eye movements. Unfortunately, the caretakers of the child cannot provide any birth or other relevant history since they just adopted the child. On exam, the child exhibits a horizontal right-beating nystagmus. There is no abnormal head posture. The child has 20/25 visual acuity OU on Snellen testing and no afferent pupillary defect OU. His cycloplegic refraction is +2.00 sphere OU and his fundus exam is normal. Which of the following would be most specific to confirm the child's most likely diagnosis?",
+    "question": "Which of the following would be most specific to confirm the child's most likely diagnosis?",
     "options": {
       "A": "determining if the nystagmus is purely uniplanar",
       "B": "recording the nystagmus waveform to determine if there is any pendular component",
@@ -1529,7 +1529,7 @@
   {
     "id": 96,
     "source": "pedia-hy-oq",
-    "question": "A 1-year-old baby boy presents to your clinic after his mother had noticed persistent abnormal head movements for the past few months. On exam, the child appears to be nodding his head at a rate of 2 Hz. His vision is CuSM OU, there is no afferent pupillary defect, he is orthotropic, and his dilated fundus exam is normal. You also notice a very fine, high-frequency horizontal nystagmus affecting the right eye more than the left eye. Which of the following would also be expected given the child's most likely diagnosis?",
+    "question": "Which of the following would also be expected given the child's most likely diagnosis?",
     "options": {
       "A": "alternating nystagmus with either eye occluded",
       "B": "stiff neck",
@@ -1545,7 +1545,7 @@
   {
     "id": 97,
     "source": "pedia-hy-oq",
-    "question": "A child with a history of congenital nystagmus and long-standing right head turn presents to you for surgical management. You decide you will perform the Kestenbaum procedure for this child. You write down the proposed amounts of recession/resection for each of the muscles as follows: RMRRec - 7.0 mm LMRRes - 8.4 mm LLRRec - 9.8 mm RLRRes - ? Unfortunately, you cannot read your handwriting for the amount of the right lateral rectus resection. What is the value of \"?\" for this child?",
+    "question": "What is the value of \"?\" for this child?",
     "options": {
       "A": "8.4 mm",
       "B": "5.6 mm",
@@ -1705,7 +1705,7 @@
   {
     "id": 107,
     "source": "pedia-hy-oq",
-    "question": "A 2-month-old child is brought to your office because his mother has noticed that his eyes \"look bigger than normal.\" On handlight exam, you notice similar findings for both eyes as seen in the photo above. The horizontal diameters of both corneas measure 13.5 mm. His irises are present and completely normal. On further questioning, the child's mother states that one of her siblings suffered from a similar ocular condition. Mutations in which of the following genes is most likely responsible for this child's condition?",
+    "question": "Mutations in which of the following genes is most likely responsible for this child's condition?",
     "options": {
       "A": "PITX2",
       "B": "GLC1A",
@@ -1929,7 +1929,7 @@
   {
     "id": 121,
     "source": "pedia-hy-oq",
-    "question": "A 13-year-old child presents to your clinic for a routine eye exam since his mother notes that he \"has to hold things very close to be able to see them.\" On exam, you note somewhat small crystalline lenses and a cycloplegic refraction of -9.00 OU. His intraocular pressures (IOPs) are 15 mmHg OU. His pediatrician note states that he is at the 2nd percentile of height and that he has \"stubby fingers and toes.\" Besides dispensing glasses, which of the following is generally recommended for patients with this disorder?",
+    "question": "His pediatrician note states that he is at the 2nd percentile of height and that he has \"stubby fingers and toes.\" Besides dispensing glasses, which of the following is generally recommended for patients with this disorder?",
     "options": {
       "A": "lensectomies",
       "B": "intermittent cycloplegic use",
@@ -1977,7 +1977,7 @@
   {
     "id": 124,
     "source": "pedia-hy-oq",
-    "question": "You are called by the pediatric ICU to consult on a 2-month-old child who was admitted with recurrent seizures. On external exam, the child has relatively deep-set eyes. Ocular examination is notable for the finding shown in the image. You review the child's medical record and find that he first experienced seizures at the age of 5 days. The consulting neurology note states that he is hypertonic in all major muscles tested. What is the underlying cause for this child's systemic and ocular disorders?",
+    "question": "What is the underlying cause for this child's systemic and ocular disorders?",
     "options": {
       "A": "Defective fibrillin-1 protein",
       "B": "Defect in latent transforming growth factor beta-binding protein 2 (LTBP2)",
@@ -2073,7 +2073,7 @@
   {
     "id": 130,
     "source": "pedia-hy-oq",
-    "question": "A 10-year-old child is referred by his rheumatologist for a third opinion regarding the child's diagnosis. On exam, the child's visual acuity is 5/200 and 20/60 in the right and left eyes respectively. His slit lamp exam is significant for significant band keratopathy and mutton fat keratic precipitates (KP) OU, 1+ anterior chamber cell, and the fundus exam seen in the photo above. His medical history is significant for polyarthritis and a recurrent pruritic skin rash. His father is concerned because he feels like he suffered a similar condition which left him legally blind. Which of the following is the most accurate diagnosis of this child's condition?",
+    "question": "Which of the following is the most accurate diagnosis of this child's condition?",
     "options": {
       "A": "psoriatic arthritis",
       "B": "oligoarticular juvenile idiopathic arthritis (JIA)",
@@ -2201,7 +2201,7 @@
   {
     "id": 138,
     "source": "pedia-hy-oq",
-    "question": "A 12-year-old girl is referred to your office after failing a school vision screening. Her best corrected visual acuity is 20/50 OD and 20/40 OS. Her mom states that her vision seems to have gotten slowly worse over the past couple of years. There is no afferent pupillary defect. She does not display any nystagmus. Her dilated fundus exam is seen in the photo above. You perform a neurological exam which is completely normal. Which of the following is true regarding this girl's most likely ocular condition?",
+    "question": "Which of the following is true regarding this girl's most likely ocular condition?",
     "options": {
       "A": "her condition is inherited in an autosomal recessive pattern",
       "B": "her condition can only be transmitted by females",
@@ -2265,7 +2265,7 @@
   {
     "id": 142,
     "source": "pedia-hy-oq",
-    "question": "You are examining a 1-year-old child who is referred to you for poor vision in his left eye. The child is a recent immigrant and you are the first physician he has ever encountered. He appears very \"sickly\" while you examine him. His exam is notable for the abnormality of the left eye seen in the photo above. You decide to order a MRI of the brain which is notable for \"absence of the septum pellucidum.\" Which of the following hormone levels is most commonly abnormal for children with his likely condition?",
+    "question": "You decide to order a MRI of the brain which is notable for \"absence of the septum pellucidum.\" Which of the following hormone levels is most commonly abnormal for children with his likely condition?",
     "options": {
       "A": "adrenocorticotropic hormone (ACTH)",
       "B": "antidiuretic hormone (ADH)",
@@ -2297,7 +2297,7 @@
   {
     "id": 144,
     "source": "pedia-hy-oq",
-    "question": "You are consulted to see a newborn baby because of a peculiar bluish swelling located in the nasal aspect of the right lower eyelid. The external appearance of the newborn is shown above. The child is afebrile and there is no erythema overlying the swelling and you do not suspect infection. The child is afebrile and vital signs are within normal limits. The mom reports that the infant has difficulty feeding and grunts when feeding. Which of the following represents the best course of management for this condition?",
+    "question": "Which of the following represents the best course of management for this condition?",
     "options": {
       "A": "Obtain imaging by ultrasound or computed tomography",
       "B": "Immediate passage of lacrimal probe +/- endoscopic marsupialization by Otolaryngology",
@@ -2457,7 +2457,7 @@
   {
     "id": 154,
     "source": "pedia-hy-oq",
-    "question": "You are performing an inpatient consult on a 5-year-old child who was admitted for an acute \"stroke-like\" episode after minor head trauma during a pee-wee football game. The child's mother states that he has been mainly using his right eye for most of his activities. You perform a dilated fundus exam which seems to show a more \"reddish\" color to the left posterior pole (see image). The child has a large purplish skin lesion around the left eyelid. You believe the child has a certain characteristic syndrome. Given this thought, which of the following brain abnormalities may be associated with these fundus findings?",
+    "question": "Given this thought, which of the following brain abnormalities may be associated with these fundus findings?",
     "options": {
       "A": "hemangioblastoma of the cerebellum",
       "B": "pinealoma",
@@ -2620,7 +2620,7 @@
   {
     "id": 164,
     "source": "pedia-hy-oq",
-    "question": "A 10-year-old boy is brought by his mother to your office for a 1-day history of increased \"right eye swelling.\" His mother says that her son has been \"very tired\" over the past day and his right eyelid has swollen significantly. He had recent dental work performed for caries. On examination, his vision is 20/40 and 20/20 in the right and left eyes respectively; he has 4 mm of right-sided proptosis; a 2+ afferent pupillary defect OD; and -2 restriction on all fields of gaze in the right eye. His CT orbits shows a 5-cm x 5-cm subperiosteal abscess (SPA) of the right lateral orbit. Which of the following is the most appropriate management for this child?",
+    "question": "Which of the following is the most appropriate management for this child?",
     "options": {
       "A": "intravenous broad-spectrum antibiotics; consider drainage in 24-48 hours",
       "B": "oral antibiotics (e.g. amoxicillin-clavulanic acid) for 10-14 days",

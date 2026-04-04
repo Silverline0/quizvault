@@ -556,7 +556,7 @@
   },
   {
     "id": 21,
-    "question": "You are called as an Ophthalmology consult for a 44-year-old Hawaiian farmer who has developed bilateral circumcorneal conjunctival injection and congestion. The rest of the ocular exam is normal. That patient was admitted for an acute onset of fever, vomiting, and muscle aches. His laboratory values are notable for an alanine aminotransferase of 112 |U/L and, aspartate aminotransferase of 140 IU/L, and creatinine of 1.9 mg/dl. Which of the following is the most appropriate treatment for this patient's condition?",
+    "question": "Which of the following is the most appropriate treatment for this patient's condition?",
     "options": [
       {
         "id": "A",
@@ -720,7 +720,7 @@
   },
   {
     "id": 27,
-    "question": "Disseminated choroiditis is the most common presentation of ocular TB, and presents with multiple deep, discrete, yellowish lesions between 0.5 and 3.0 mm in diameter. Disc edema, vitritis, and granulomatous anterior uveitis often accompany these choroidal tubercles. Treatment of TB consists of a prolonged course of multidrug therapy, such as rifampin, isoniazid, pyrazinamide, ethambutol A 28-year-old immigrant from Ghana presents to your clinic with poor vision OU. Slit- lamp exam reveals the presence of numerous organisms swimming in the anterior chamber of both eyes. The patient shows you one of his several, intensely-itchy skin bumps. Which of the following is the currently accepted form of treatment for this disease?",
+    "question": "Which of the following is the currently accepted form of treatment for this disease?",
     "options": [
       {
         "id": "A",
@@ -981,7 +981,7 @@
   },
   {
     "id": 36,
-    "question": "Obviously, it is unlikely you will need to know the various specific regimens to treatment potentially-systemic toxoplasmosis. But just know that these immunocompromised patients need systemic treatment A 10-year-old boy presents with poor vision in the right eye for the past 6 months. His birth history is unremarkable and he had a normal eve exam as a 5-year-old. His anterior segment exam is normal. His dilated fundus exam is shown above. Which of the following features is more consistent with this disease entity compared to retinoblastoma (Rb)?",
+    "question": "Which of the following features is more consistent with this disease entity compared to retinoblastoma (Rb)?",
     "options": [
       {
         "id": "A",
@@ -1096,7 +1096,7 @@
   },
   {
     "id": 40,
-    "question": "A 15-year-old teenager presents to your office with bilateral eye irritation. On slit-lamp exam, you note the presence of a mild follicular conjunctivitis OU as well as 1+ cell in the anterior chamber OU. Dilated fundus exam is normal. His review of systems is positive for lethargy, malaise, swollen lymph nodes, and a sore throat. Laboratory workup reveals elevated VCA IgM and EA titers (VCA=viral capsid antigen; EA=early antigen). Which of the following is the most appropriate systemic management for this patient?",
+    "question": "Which of the following is the most appropriate systemic management for this patient?",
     "options": [
       {
         "id": "A",
@@ -1843,7 +1843,7 @@
   },
   {
     "id": 67,
-    "question": "55-year-old man presents to your clinic for evaluation for cataract surgery. The patient states that the vision in his right eye is much more cloudy compared to his left eye. On slit-lamp examination, you note some iris atrophy, diffuse small keratitic precipitates, 1+ cell in the anterior chamber and anterior vitreous, and a dense posterior subcapsular cataract. There are no posterior synechiae. You note a difference in color between the two eyes. The dilated fundus exam shows a few old-looking chorioretinal scars. Which of the following biological agents has been shown to be associated with this patient's ocular condition?",
+    "question": "Which of the following biological agents has been shown to be associated with this patient's ocular condition?",
     "options": [
       {
         "id": "A",
@@ -1897,7 +1897,7 @@
   },
   {
     "id": 69,
-    "question": "A 45-year-old male presents with symptoms of sudden onset blurred vision and discomfort in his right eye. He notes he has had three similar episodes in the same eye in the past and he was diagnosed with acute angle-closure glaucoma and underwent laser peripheral iridotomy after his last episode. His right eye has an intraocular pressure of 57 mmHG. Clinical exam of the right eye is notable for mild corneal edema, a cluster of small and medium-sized keratic precipitates located inferotemporally, 1 + anterior chamber cellular reaction, a large and patent peripheral iridotomy, and a slightly dilated pupil. He has an open angle on gonioscopy. Clinical exam of his left eye is unremarkable. Based off this patient's most likely diagnosis, which of the following is TRUE in regards to this condition?",
+    "question": "Based off this patient's most likely diagnosis, which of the following is TRUE in regards to this condition?",
     "options": [
       {
         "id": "A",
@@ -2119,7 +2119,7 @@
   },
   {
     "id": 77,
-    "question": "The patient states that his left eye seems to be protruding more over the past couple of weeks with increasing eye pressure. On review of systems, he has been bothered by chronic congestion, intermittent bloody noses, persistent cough, joint pain, and a \"weird skin rash\" on his legs. On your exam, you note moderate restriction of ductions OS, 3 mm of proptosis by Hertel exophthalmometry OS, a few cotton-wool spots OS, and 1+ vitritis OS. Which of the following laboratory tests would be most helpful in confirming this patient's diagnosis?",
+    "question": "Which of the following laboratory tests would be most helpful in confirming this patient's diagnosis?",
     "options": [
       {
         "id": "A",
@@ -2146,7 +2146,7 @@
   },
   {
     "id": 78,
-    "question": "A 75-year-old man presents to your office with a \"tender right eye\". On your exam, you note findings consistent with a diffuse anterior scleritis of the right eye. He has been treated by his primary care physician with systemic antibiotics for the past 2 months for \"chronic sinusitis.\" On review of systems, he has been bothered by \"head stuffiness,\" bloody noses, and a persistent cough. On laboratory workup, he tests positive for an antibody directed against the antigen proteinase 3 (PR3). What is the most appropriate management for this patient?",
+    "question": "What is the most appropriate management for this patient?",
     "options": [
       {
         "id": "A",
@@ -2474,7 +2474,7 @@
   },
   {
     "id": 90,
-    "question": "A 35-year-old healthy woman presents with decreased vision and distortion in the both eyes for the past three weeks. On exam, her best corrected visual acuity (with a -3.00 sphere OU) was 20/50 and 20/70 in the right and left eyes respectively. Her fundus exam and fluorescein angiogram (FA) of the left eye are shown above. Similar findings are found for the right eye. Of note, there is a lack of vitreous cell and the lesions are confined to the posterior pole. Which of the following is the most likely cause of her decreased vision?",
+    "question": "Which of the following is the most likely cause of her decreased vision?",
     "options": [
       {
         "id": "A",
@@ -2528,7 +2528,7 @@
   },
   {
     "id": 92,
-    "question": "A 24-year-old woman presents to your office with acutely-decreased vision in the right eye. She says that she began to experience photopsias 2 days prior to presentation. On exam, her best corrected visual acuity is 20/50 OD and 20/20 OS. Her ocular exam is unremarkable on this initial visit except for a trace amount of vitritis OD. She is lost to follow-up, but reappears in your office 6 months later with the fundus abnormalities seen in the above photo. Her visual acuity is still 20/50 OD, but is now 20/40 OS. A similar fundus appearance is seen in the left eye. She is otherwise healthy. Which of the following is TRUE about this woman's ocular condition?",
+    "question": "Which of the following is TRUE about this woman's ocular condition?",
     "options": [
       {
         "id": "A",
@@ -2920,7 +2920,7 @@
   },
   {
     "id": 106,
-    "question": "A 36-year-old HIV+ male with a CD4 count of 29 cells/mm3 presents with new-onset visual disturbances in his left eye. He describes decreased visual acuity and has also noticed floaters in the left eye. He was diagnosed with HIV infection 1 year earlier, and has a history of noncompliance with his medications. He states he regularly takes trimethoprim- sulfamethoxazole, but no other medications. He is subsequently diagnosed with cytomegalovirus (CMV) retinitis. What is the most likely cause of this new intraocular infection?",
+    "question": "What is the most likely cause of this new intraocular infection?",
     "options": [
       {
         "id": "A",
@@ -3058,7 +3058,7 @@
   },
   {
     "id": 111,
-    "question": "A patient of yours presents for a routine annual follow-up. The patient has a history of poorly- controlled hypertension and was recently diagnosed with acquired immunodeficiency syndrome (AIDS). He recently started antiretroviral therapy (ART). Visual acuity remains 20/20, intraocular pressure is normal, and anterior segment examination is unremarkable, all in both eyes. On dilated fundus exam, however, you note the presence of a single cotton-wool spot along the superotemporal arcade in the left eye. How do you counsel the patient?",
+    "question": "How do you counsel the patient?",
     "options": [
       {
         "id": "A",
@@ -3472,7 +3472,7 @@
   },
   {
     "id": 126,
-    "question": "A 70-year-old man presents to your office with a \"red and sore\" right eye for the past few months. He has no significant past medical or ocular history except for cataract surgery OU 1 year ago. His visual acuity is 20/40- OD and intraocular pressure is 21 mmH OD. Slit-lamp examination of his right eye is significant for a whitish deposit behind part of the anterior capsular leaflet (arrow). Dilated fundus exam shows only some mild vitritis but without any retinal lesions. Which of the following is the most likely cause of this patient's symptoms?",
+    "question": "Which of the following is the most likely cause of this patient's symptoms?",
     "options": [
       {
         "id": "A",
@@ -3607,7 +3607,7 @@
   },
   {
     "id": 131,
-    "question": "The original ESCRS Endophthalmitis study (2007) examined the potential benefit of intracameral antibiotics cefuroxime) instilled at the end of cataract surgery, in the prevention of postoperative endophthalmitis. This was a very large (>16,000 patients), prospective randomized clinical trial. It found an approximate 5-fold increased risk of endophthalmitis in those patients who did not receive intracameral antibiotics. The incidence of post-operative endophthalmitis in those eyes receiving intracameral antibiotics was A 44-year-old African American patient presents to your office with complaints of mild pain, and redness of the left eye for the past week. His visual acuity is 20/40- OS and intraocular pressure is 21 mmHg OS. Slit-lamp examination of the left eye is seen above. He cannot remember what type of eye surgery he had in the past. There is trace anterior chamber cell OS. Dilated fundus exam of the left eye is normal except for 0.9 cupping. Which of the following is the most appropriate management for this patient?",
+    "question": "Which of the following is the most appropriate management for this patient?",
     "options": [
       {
         "id": "A",
@@ -3634,7 +3634,7 @@
   },
   {
     "id": 132,
-    "question": "You are called as an Ophthalmology consult for a 42-year-old recent-immigrant from China who complains of acute pain and decreased vision in both eyes. Slit-lamp exam reveals 3-4+ anterior chamber cell OU, 1-2 mm hypopyons OU, and mild corneal edema OU. Dilated fundus exam reveals marked vitritis OU, but without any chorioretinal lesions. This man is admitted to the Infectious Disease service because of the liver pathology seen in the CT scan above. Which of the following is the most likely involved causative organism?",
+    "question": "Which of the following is the most likely involved causative organism?",
     "options": [
       {
         "id": "A",
@@ -3715,7 +3715,7 @@
   },
   {
     "id": 135,
-    "question": "A 70-year-old Caucasian patient presents with complaints of moderate pain in the right eye for the past few months. He describes the right eye as being \"awfully sore.\" His vision is 20/60 and intraocular pressure is 18 mmHg OD. Slit-lamp exam shows 1+ corneal edema, 1+ cell with 3+ anterior chamber flare, 1 clock hour of iris neovascularization, and 3+ nuclear sclerosis (NS) in the right eye. The left eye is completely normal except for 1+ NS. Dilated fundus exam of the left eye is normal. The fundus exam of the right eye is shown in the photograph above. Which of the following diagnostic tests would be most useful in diagnosing this patient?",
+    "question": "Which of the following diagnostic tests would be most useful in diagnosing this patient?",
     "options": [
       {
         "id": "A",

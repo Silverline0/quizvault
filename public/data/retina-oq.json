@@ -229,7 +229,7 @@
   {
     "id": 15,
     "source": "retina-oq",
-    "question": "The foveola is defined histologically as the central floor of the fovea where the INL and GCL are absent. Clinically, the foveola is defined as the area within the fovea, approximately 0.35 mm in diameter, which corresponds to the foveal avascular zone. The macula is defined histologically as the area of the posterior retina with 2 or more ganglion cell layers. The fovea is defined histologically as the depression in the inner retinal surface where the photoreceptor layer consists entirely of cones. The umbo is defined histologically as the central concavity of the floor of the foveola. • Q15-Histologically the macula is defined as the region of the retina where a certain cell layer contains two or more rows of cells. Identify this certain cell layer on the spectral domain OCT shown above.",
+    "question": "",
     "options": {
       "D": "Layer D",
       "C": "Layer C",
@@ -876,7 +876,7 @@
   {
     "id": 55,
     "source": "retina-oq",
-    "question": "no laser. The main endpoint was \"severe vision loss\" which was defined as visual acuity of less than 5/200 for at least 4 months. It found that PRP reduced the chance of severe vision loss for HRPDR from 44% to 20%. Choice \"A\" describes some of the results from the ETDRS trial; choice \"C\" corresponds to the DRVS (Diabetic Retinopathy Vitrectomy Study); and choice \"D\" corresponds to the DCCT (Diabetes Control and Complications Trial). Memory aid : One possible way to remember that the DRS was talking about PRP is that both terms have 3 letters in them. Q-All of the following were criteria used to define clinically significant macular edema (CSME) in the ETDRS (Early Treatment Diabetic Retinopathy Study) EXCEPT:",
+    "question": "",
     "options": {
       "D": "a zone of thickening larger than 1 disc area in size any part of which is located within 1 disc diameter of the center of the macula",
       "C": "hard exudates at or within 500 microns of the center of the macula if associated with adjacent retinal thickening",
@@ -892,7 +892,7 @@
   {
     "id": 56,
     "source": "retina-oq",
-    "question": "In case anyone is curious. CSME criteria are (per BCSC 2014 retina pg 99): #1: thickening anywhere at or within 500 um of center of macula #2: exudate at or within one 500 um of fovea with associated thickening #3: >one disc diameter of thickening within one disc diameter of fovea Q-A 32-year-old poorly-controlled diabetic woman presents to your clinic for a dilated fundus exam. You note the presence of 2 quadrants of intraretinal hemorrhages, some scattered cotton-wool spots, rare venous beading (~1 quadrant total), and no macular edema, neovascularization or IRMA. Besides blood pressure and glucose control, what is the most appropriate follow-up time to re-examine this patient?",
+    "question": "Besides blood pressure and glucose control, what is the most appropriate follow-up time to re-examine this patient?",
     "options": {
       "D": "1 month",
       "C": "2-4 months",
@@ -1255,7 +1255,7 @@
   {
     "id": 78,
     "source": "retina-oq",
-    "question": "condition which causes idiopathic serous detachments of the retina. It typically presents between ages 35 and 55 with a 3:1 male-female ratio. Type-A personality, hypertension, Cushing syndrome, sleep apnea, psychopharmacologic medication use, corticosteroid use, and pregnancy are all associated with CSCR. The OCT in this case demonstrates a large amount of subretinal fluid, and fluorescein angiography demonstrates a classic “expansile dot” seen in CSCR . While photodynamic therapy (PDT) can be an effective treatment for CSCR, it does carry the risk of choroidal ischemia (answer D) and subsequent atrophy, which occurs in 4% of eyes. Retinal detachment (answer A), cataract progression (answer B), and optic neuropathy (answer C) are not known complications of PDT. Retinal degenerations associated with systemic diseases You are examining a 33-year-old woman with a history of breast cancer as part of her routine wellness exam. On dilated fundus exam, you see what is depicted in the photograph shown above. Both fundi have similar findings. All of the following entities are in the differential diagnosis for these retinal crystals EXCEPT:",
+    "question": "",
     "options": {
       "D": "thioridazine toxicity",
       "C": "methoxyflurane toxicity",
@@ -1466,7 +1466,7 @@
   {
     "id": 91,
     "source": "retina-oq",
-    "question": "A 17-year-old boy presents to your clinic for evaluation of some odd ocular findings detected by his pediatrician. His past medical history and review of systems are positive for burning pain in the extremities, renal insufficiency, hypertension, and reddish-purple skin blemishes. Your anterior segment exam is shown in the photo on the top-left while your posterior segment exam is shown in the photo on the top- right. This patient's condition is the result of a defect in which of the following enzymes?",
+    "question": "This patient's condition is the result of a defect in which of the following enzymes?",
     "options": {
       "D": "sphingomyelinase",
       "C": "glucocerebrosidase",
@@ -1485,7 +1485,7 @@
   {
     "id": 92,
     "source": "retina-oq",
-    "question": "A 4-year-old child is brought by her parents to your office because the child is having difficulty seeing in movie theaters. Her mom says that \"she trips all over the place when trying to get to her seat at the theaters.\" In addition, the mother states that \"she is just clumsy in general.\" The mother also states that she has foul-smelling stools and is much shorter than the other girls in her class. On dilated fundus exam, you see the diffuse pathology as seen in the photograph above. Which of the following is the most appropriate management for this patient?",
+    "question": "Which of the following is the most appropriate management for this patient?",
     "options": {
       "D": "vitamin A and E",
       "C": "low phytanic acid diet",
@@ -1517,7 +1517,7 @@
   {
     "id": 94,
     "source": "retina-oq",
-    "question": "A mother brings in her 12-year-old son who complains of acutely blurred central vision OU for the past 24 hours accompanied by a temporal headache. Best corrected visual acuity is 20/40- OU. The child notes some \"missing lines\" on Amsler grid testing in both eyes. Dilated fundus examination of the right eye is depicted in the photograph shown above. Similar findings are found in the fundus of the left eye. Which of the following medications may increase the risk of this child's presumptive ocular condition? (Please ignore the black dot artifact)",
+    "question": "A mother brings in her 12-year-old son who complains of acutely blurred central vision OU for the past 24 hours accompanied by a temporal headache. Best corrected visual acuity is 20/40- OU. The child notes some \"missing lines\" on Amsler grid testing in both eyes. Dilated fundus examination of the right eye is depicted in the photograph shown above. Similar findings are found in the fundus of the left eye. Which of the following medications may increase the risk of this child's presumptive ocular condition?",
     "options": {
       "D": "psoralens",
       "C": "tacrolimus ointment",
@@ -1629,7 +1629,7 @@
   {
     "id": 101,
     "source": "retina-oq",
-    "question": "A 55-year-old obese patient with a past medical history of hypertension sees you for complaints of new blurry vision in the right eye. His initial visual acuity is 20/100 OD. Dilated fundus examination is seen in the photograph above. You decide on observation only and to re-examine the patient in 3 months. On his 3 month follow- up, his visual acuity is 20/200 and his fluorescein angiogram demonstrates severe macular ischemia. Which of the following is the best course of management for this patient at this time according to the Branch Retinal Vein Occlusion Study (BVOS)?",
+    "question": "Which of the following is the best course of management for this patient at this time according to the Branch Retinal Vein Occlusion Study (BVOS)?",
     "options": {
       "D": "grid first, then scatter photocoagulation",
       "C": "scatter photocoagulation",
@@ -1776,7 +1776,7 @@
   {
     "id": 110,
     "source": "retina-oq",
-    "question": "She states that it began suddenly 1 hour ago. Her visual acuity is 20/25- and you detect an inferior field defect on confrontation visual fields. Her ocular exam is only significant for the finding seen in the photo above. Of note, she also has been experiencing severe hearing loss in both ears. She also went to her primary care physician yesterday for a new, severe \"migraine\" headache associated with some \"balance problems.\" Which of the following represents the best overall management choice for this patient?",
+    "question": "She also went to her primary care physician yesterday for a new, severe \"migraine\" headache associated with some \"balance problems.\" Which of the following represents the best overall management choice for this patient?",
     "options": {
       "D": "intravenous methylprednisone",
       "C": "oral acetazolamide",
@@ -2000,7 +2000,7 @@
   {
     "id": 124,
     "source": "retina-oq",
-    "question": "appearance of a central retinal vein occlusion (CRVO). This is demonstrated by the diffuse intraretinal hemorrhages, swollen optic nerve, and acutely-decreased vision. The CRUISE study1, published in 2010, investigated the effect of intravitreal ranibizumab (0.3 and 0.5 mg doses) versus sham injection on CRVO-associated macular edema involving the fovea. The treatment protocol consisted of monthly intravitreal ranibizumab injections for 6 months followed by a 6-month \"observation period\" during which all participants could receive additional injections according to a pre-specified reinjection protocol. This pivotal study showed that both ranibizumab dosages were highly effective in improving the vision of patients with CRVO-associated macular edema. Specifically, at the initial 6-month endpoint, the mean change from baseline visual acuity (the primary endpoint) was a gain of 12.7 and 14.9 letters in the ranibizumab groups compared to only 0.8 letters in the sham injection group. The drug groups also showed significant positive results for other visual parameters (e.g. gain of at least 15 letters) as well as quality-of-life scores. The same issue of Ophthalmology in which the CRUISE study was published also contained articles for the initial BRAVO2 and Ozurdex3 results. Briefly, the BRAVO trial was an analogous trial to CRUISE which enrolled patients with BRVO-associated macular edema. It showed similar results to the CRUISE trial. The Ozurdex trial (GENEVA) (Answer \"B\") showed the efficacy of a single dexamethasone intravitreal implant on macular edema associated with either BRVOs or CRVOs. Q-All of the following were identified by the \"Eye Disease Case-Control Study Group\" study as risk factors for developing a branch retinal vein occlusion (BRVO) EXCEPT:",
+    "question": "",
     "options": {
       "D": "increased body mass index",
       "C": "glaucoma",
@@ -2016,7 +2016,7 @@
   {
     "id": 125,
     "source": "retina-oq",
-    "question": "Diabetes associated with CRVO : A B C D (C&D are next to each other) Diabetes not associated with BRVO : A B C D (B&D are not next to each other) You can also remember B for BMI and BRVO (elevated BMI is a risk factor for BRVO but not CRVO) Q-A 22-year-old man presents to your office for a routine eye exam. On dilated fundus exam, the vascular abnormality seen in the photo above is present throughout the fundus of the left eye only. The patient states that he had a recent \"complicated tooth extraction\" where he bled profusely afterwards. Which of the following is TRUE regarding this patient's ocular condition?",
+    "question": "Which of the following is TRUE regarding this patient's ocular condition?",
     "options": {
       "D": "it may be associated with vascular malformations of the brain",
       "C": "there is leakage of these lesions on fluorescein angiography (FA)",
@@ -2227,7 +2227,7 @@
   {
     "id": 138,
     "source": "retina-oq",
-    "question": "Mutations in OAT are responsible for gyrate atrophy. This condition is characterized by geographic paving-stone-like areas of atrophy that coalesce to form a scalloped border between abnormal and normal RPE. Gyrate atrophy is an autosomal recessive condition. Mutations in OAT result in markedly-high elevations of ornithinewhich is toxic to the retina and choroid. Treatment consists of dietary arginine restriction (if possible) and vitamin B6 supplementation (if the patient is actually responsive to this therapy). Other findings in gyrate atrophy include: posterior subcapsular cataracts, and high myopia with high astigmatism. Visual acuity is usually normal in these patients until the age of 10 years. (memory aid = GOAT -gyrate OAT ) Q-Which of the following patients would benefit the least from AREDS (Age-Related Eye Disease Study) formulation vitamins?",
+    "question": "(memory aid = GOAT -gyrate OAT ) Q-Which of the following patients would benefit the least from AREDS (Age-Related Eye Disease Study) formulation vitamins?",
     "options": {
       "D": "has bilateral subfoveal geographic atrophy",
       "C": "has extensive intermediate drusen",
@@ -2259,7 +2259,7 @@
   {
     "id": 140,
     "source": "retina-oq",
-    "question": "related macular degeneration. Drusen can vary in size from small (< 64 microns) to intermediate (64-124 microns) to large (>124 microns). Drusen collect in the inner aspect of Bruch?s membrane and grow into the space between Bruch's and the RPE. It is this disruption of Bruch's membrane that allows vessels from the choriocapillaris to grow into the subretinal space and form what is commonly referred to as a \"choroidal neovascular membrane.\" Q-All of the following statements regarding the \"Treatment of Age-Related Macular Degeneration with Photodynamic Therapy\" (TAP) study are true EXCEPT:",
+    "question": "related macular degeneration. Drusen can vary in size from small (< 64 microns) to intermediate (64-124 microns) to large (>124 microns). Drusen collect in the inner aspect of Bruch?",
     "options": {
       "D": "there was no overall difference in visual acuity in eyes in which the classic CNV component was more than 0% but less than 50% of the entire lesion area",
       "C": "the benefit was greatest in eyes with predominantly classic choroidal neovascularization (CNV)",
@@ -2507,7 +2507,7 @@
   {
     "id": 155,
     "source": "retina-oq",
-    "question": "A 23-year-old female with no past ocular or medical history presents with 3 weeks of central visual loss and flashing lights in her right eye. She demonstrates 20/60 vision in the right eye and a mild right afferent pupillary defect. Her fundus examination is remarkable only for retinal pigment epithelium stippling in the right eye and mild disc edema. The left eye vision and exam is normal. An OCT is performed of both eyes (see image above: the superior image is from the right eye and inferior image is from the normal left eye). What is the most likely diagnosis?",
+    "question": "What is the most likely diagnosis?",
     "options": {
       "D": "Multiple evanescent white dot syndrome",
       "C": "Demyelinating optic neuritis",
@@ -2526,7 +2526,7 @@
   {
     "id": 156,
     "source": "retina-oq",
-    "question": "A 64-year-old Caucasian male is referred to your clinic for a 1-month history of blurry vision in his left eye. He denies any recent ocular or head trauma, and his ocular history includes trace nuclear sclerotic cataracts in both eyes. On exam, his best corrected visual acuity in the left eye measures 20/100 and does not improve with pinhole. Posterior examination does not show a posterior vitreous detachment, and retinal findings correlate with optical coherence tomography imaging shown above. What in-office test can be performed to confirm the diagnosis?",
+    "question": "What in-office test can be performed to confirm the diagnosis?",
     "options": {
       "D": "Marcus-Gunn test",
       "C": "Krimsky-Hirschberg test",
@@ -2625,7 +2625,7 @@
   {
     "id": 162,
     "source": "retina-oq",
-    "question": "A 21-year old student visits your office for complaints of acute blurry vision in the right eye. He is distraught because finals week is approaching and he needs to do well because he is applying to medical school. His dilated fundus exam and fluorescein angiogram (FA) are shown above. The patient begs you to help improve his vision immediately. Assuming that his point of leakage is 50 microns from the center of the fovea, what therapy has shown efficacy in previous studies for this ocular condition?",
+    "question": "Assuming that his point of leakage is 50 microns from the center of the fovea, what therapy has shown efficacy in previous studies for this ocular condition?",
     "options": {
       "D": "intravitreal triamcinolone",
       "C": "intravitreal anti-VEGF agents",
@@ -2657,7 +2657,7 @@
   {
     "id": 164,
     "source": "retina-oq",
-    "question": "A 57-year-old Caucasian man presents to your clinic complaining of a gradual increase in metamorphopsia of his right eye vision for the past 6 months. His ocular history includes moderate myopia in both eyes corrected with eyeglasses. At this visit, his best corrected visual acuity in the left eye measured 20/60 on Snellen, improving to 20/40 with pinhole. Anterior segment examination of the left eye showed a trace nuclear sclerotic cataract. Optical coherence tomography maging is shown above. What other ocular exam finding is most commonly seen in a patient with this condition?",
+    "question": "What other ocular exam finding is most commonly seen in a patient with this condition?",
     "options": {
       "D": "Retinal capillary hemangioma",
       "C": "Hollenhorst plaque",
@@ -2705,7 +2705,7 @@
   {
     "id": 167,
     "source": "retina-oq",
-    "question": "• A 78-year old woman undergoes phacoemulsification which is complicated by vitreous loss. An anterior vitrectomy is performed at that time and an intraocular lens is successfully implanted in the ciliary sulcus. However 3 weeks after the surgery, her vision is still 20/80 in the operated eye. Slit-lamp examination of the operated eye shows focal peaking of the pupil by a single vitreous strand going to the corneal wound. An optical coherence tomography (OCT) is taken and shown in the photograph above. Besides topical medications, which of the following is the best course of management for this patient?",
+    "question": "Besides topical medications, which of the following is the best course of management for this patient?",
     "options": {
       "D": "sub-Tenon injection of triamcinolone",
       "C": "intravitreal anti-VEGF agents",
@@ -3095,7 +3095,7 @@
   {
     "id": 191,
     "source": "retina-oq",
-    "question": "• You are following a perplexing case of a 11-year-old boy with progressive unilateral loss of vision in the right eye. On initial presentation, visual acuity OD was 20/100 and the fundus exam showed a multifocal chorioretinitis, mild vitritis, and mild optic nerve swelling. The boy was lost to follow-up and returned 1 month later with a visual acuity of hand motions OD. Dilated fundus exam at this later visit is shown in the photograph above. Which of the following agents is the most likely cause of this child's ocular disease?",
+    "question": "Which of the following agents is the most likely cause of this child's ocular disease?",
     "options": {
       "D": "Baylisascaris procyonis",
       "C": "Toxoplasmosis gondii",
@@ -3127,7 +3127,7 @@
   {
     "id": 193,
     "source": "retina-oq",
-    "question": "• A 19-year-old male comes in with two weeks of decreased vision in the left eye that developed acutely over several days. His review of systems is otherwise normal including a lack of eye pain. On examination he has 20/200 best corrected vision in the left eye, a 1+ left afferent pupillary defect, and diminished color plates. The fundus exam is significant for the findings seen above. The \"star\" appearance is due to resorption of fluid followed by deposition of exudates / lipids in what retinal layer?",
+    "question": "The \"star\" appearance is due to resorption of fluid followed by deposition of exudates / lipids in what retinal layer?",
     "options": {
       "D": "Inner segment / outer segment junction of the photoreceptor layer Category:",
       "C": "Nerve fiber layer",
@@ -3210,7 +3210,7 @@
   {
     "id": 198,
     "source": "retina-oq",
-    "question": "A 40-year-old man presents with macula-off retinal detachments in both eyes. On history, the patient states that this ocular condition is a \"family curse\" and has happened to at least one family member per generation. On review of systems, the patient states that he can bend many of his joints far beyond what is typically considered normal. On external exam, the patient's face appears abnormally flattened with a small jaw. He also has some difficulty hearing you during the exam. Which of the following is the most likely diagnosis for this patient?",
+    "question": "Which of the following is the most likely diagnosis for this patient?",
     "options": {
       "D": "Stickler syndrome",
       "C": "Marfan syndrome",
@@ -3434,7 +3434,7 @@
   {
     "id": 212,
     "source": "retina-oq",
-    "question": "While unusual, RP can occur without bone spicule formation and is termed retinitis pigmentosa sine pigmentum. Bone spicules result from dispersion of pigment in the retinal pigment epithelial layer which leads to the formation of clumps that look similar to bone under the microscope. Usually these cases of RP sine pigmentum have other fundus findings typical of RP including waxy pallor of the optic nerve and attenuated arterioles. Also, bone spicules can occur in many other diseases causing destruction of the retina (e.g., old trauma, diffuse unilateral subacute neuroretinitis, syphilis, etc). • An 8-year-old girl is referred to your clinic for the fundus findings seen above. The girl's best corrected visual acuity is 20/25 OU. All of the following are characteristics of this girl's ocular condition EXCEPT:",
+    "question": "",
     "options": {
       "D": "night blindness",
       "C": "autosomal recessive inheritance pattern",
@@ -3501,7 +3501,7 @@
   {
     "id": 216,
     "source": "retina-oq",
-    "question": "o bleeding problems (mildly deficient platelets) o neurological symptoms in early adulthood (e.g. ataxia, peripheral neuropathy) • Hermansky-Pudlak syndrome o albinism + platelet defect (easy bleeding/bruising) o associated with Puerto Rican descent in the United States o sometimes associated with pulmonary fibrosis, granulomatous colitis, and immunodeficiency • • A 42-year-old man presents to your clinic with symptoms of slowly declining central visual acuity over the past few years. His visual acuity measures 20/80- OU and his dilated fundus exam is seen above. Fluorescein angiogram (FA) reveals lack of choriocapillary filling and hyperfluorescence within these macular lesions, but relatively-normal choriocapillaris filling otherwise. You obtain an electrooculogram (EOG) and electroretinogram (ERG) which are both normal. His visual acuity was 20/20 OU on his last eye exam when he was 40-years-old. On further questioning, the patient states that \"every generation of my family has been affected by central vision loss in their forties.\" Which of the following is the most likely diagnosis?",
+    "question": "On further questioning, the patient states that \"every generation of my family has been affected by central vision loss in their forties.\" Which of the following is the most likely diagnosis?",
     "options": {
       "D": "Stargardt's disease",
       "C": "central areolar choroidal dystrophy",
@@ -3725,7 +3725,7 @@
   {
     "id": 230,
     "source": "retina-oq",
-    "question": "of complex retinal detachments such as those due to giant retinal tears or complicated by proliferative vitreoretinopathy. Properties of PFCL that contribute to its usefulness include: • High specific gravity relative to saline, resulting in excellent retinal tamponade • Low viscosity, allowing easy injection and removal • High boiling point, avoiding vaporization with endophotocoagulation during surgery • High surface tension, allowing the liquid to remain as a single bubble Subfoveal retained perfluorocarbon liquid (PFCL) is a rare but serious complication associated with retinal detachment repair. Optical coherence tomography reveals characteristic large hyporeflective spaces corresponding to retained PFCL bubbles. PFCL is toxic when in direct contact with the retina for prolonged periods and subfoveal PFCL may result in permanent vision loss. As such, the recommended treatment option is repeat vitrectomy and evacuation of the bubbles Q-Which of the following features distinguishes an exudative retinal detachment (RD) from tractional and rhegmatogenous retinal detachments?",
+    "question": "As such, the recommended treatment option is repeat vitrectomy and evacuation of the bubbles Q-Which of the following features distinguishes an exudative retinal detachment (RD) from tractional and rhegmatogenous retinal detachments?",
     "options": {
       "D": "extends early from the ora serrata to the disc",
       "C": "shifting subretinal fluid",
@@ -3757,7 +3757,7 @@
   {
     "id": 232,
     "source": "retina-oq",
-    "question": "These are the 5 most common indications for pars plana vitrectomy in diabetic patients: 1. Non-clearing (dense) vitreous hemorrhage 2. Tractional retinal detachment involving or threatening the macula 3. Diffuse diabetic macular edema associated with posterior hyaloidal traction 4. combined tractional and rhegmatogenous retinal detachment 5. Significant recurrent vitreous hemorrhage despite maximal panretinal photocoagulation Which of the following peripheral retinal findings carries an increased risk for retinal detachment?",
+    "question": "Significant recurrent vitreous hemorrhage despite maximal panretinal photocoagulation Which of the following peripheral retinal findings carries an increased risk for retinal detachment?",
     "options": {
       "D": "Peripheral retinal pigment epithelial hypertrophy",
       "C": "Peripheral cystoid degeneration",
@@ -3949,7 +3949,7 @@
   {
     "id": 244,
     "source": "retina-oq",
-    "question": "A 22-year-old college baseball player presents to your office after being struck in the left eye with a baseball. His initial visual acuity is 20/40 and his initial fundus examination is depicted in the photograph above. You decide on just observing this patient initially. However, 2 months later, the patient returns to your office with decreased visual acuity in this eye to 20/250. A fluorescein angiogram is performed on this day and shows progressive leakage of dye in the juxtafoveal portion of the original lesion. Which of the following represents the best course of management at this time?",
+    "question": "Which of the following represents the best course of management at this time?",
     "options": {
       "D": "intravitreal anti-VEGF agents",
       "C": "photodynamic therapy with intravitreal steroids",
@@ -4061,7 +4061,7 @@
   {
     "id": 251,
     "source": "retina-oq",
-    "question": "The lesion depicts the typical appearance of a choroidal rupture which is a tear in Bruch membrane, the overlying retinal pigment epithelium, or the fibrous tissue investing the choriocapillaris. There is also some adjacent fibrous scarring nasal to the choroidal rupture. Some common traits of choroidal rupture: Its typical pattern is concentric or curvilinear to the optic disc. Adjacent subretinal hemorrhage is common. • Delayed hemorrhage near the lesion is suspicious for secondary choroidal neovascularization (CNV). Occurs when the eye is compressed along its anterior-posterior axis. Single or multiple choroidal ruptures can occur at the time of the trauma. These ruptures can also occur in the periphery. No effective treatment for the choroidal rupture itself. However, secondary CNV can be treated with anti-VEGF agents. Q-The two most common locations of scleral rupture after a severe blunt injury to the eye are:",
+    "question": "",
     "options": {
       "D": "under the insertions of the rectus muscles and under the insertion of the inferior oblique muscle",
       "C": "at the equator and under the insertions of the rectus muscles",
@@ -4093,7 +4093,7 @@
   {
     "id": 253,
     "source": "retina-oq",
-    "question": "A 33-year-old car mechanic presents to the emergency room with an acute injury to his right eye. He says that he was working underneath a car when something \"sharp\" hit his right eye. His exam is significant for 360 degrees of hemorrhagic chemosis and an \"8-ball\" hyphema. The patient is struggling to keep his eyelid open due to the severe pain. There is no proptosis. Which of the following is an appropriate step in the management of this patient? A.Conjunctival cut-down in the emergency room to enable better visualization of the anterior segment B.CT scan of the orbits C.Pressure patch to protect the eye while awaiting globe exploration and repair in the operating room D.Having an assistant pry open the eyelids while you examine the extent of his ocular injury in the emergency room Vitreous Besides water, human vitreous is composed primarily of what two components?",
+    "question": "A.Conjunctival cut-down in the emergency room to enable better visualization of the anterior segment B.CT scan of the orbits C.Pressure patch to protect the eye while awaiting globe exploration and repair in the operating room D.Having an assistant pry open the eyelids while you examine the extent of his ocular injury in the emergency room Vitreous Besides water, human vitreous is composed primarily of what two components?",
     "options": {
       "D": "collagen and chondroitin sulfate",
       "C": "elastin and hyaluronic acid",
@@ -4189,7 +4189,7 @@
   {
     "id": 259,
     "source": "retina-oq",
-    "question": "• Among pre-op glaucoma suspects, the mean IOP was 19.5 ± 2.7 mm Hg in the vitrectomized eye, compared with 14.3 ± 3.0 mm Hg in the fellow eye (p = .0001). • Among eyes where glaucoma only developed after vitrectomy, the time interval between vitrectomy and the diagnosis of glaucoma was significantly longer (45.95 ± 44.79 months) in phakic eyes compared to nonphakic eyes (18.39 ± 13.76 months) (p = .0115). In other words, presence of the lens appeared protective against glaucoma. • Among eyes already being treated for glaucoma pre-op, the mean number of glaucoma medications was higher (2.9 ± 1.2) in the vitrectomized eye compared to the fellow (non-vitrectomized) eye (2.00 ± 1.4; p = .0215). Q-All of the following were conclusions of the Silicone Oil Study EXCEPT:",
+    "question": "",
     "options": {
       "D": "Hypotony was more common in the C3F8 group compared to the silicone oil group",
       "C": "silicone oil was equivalent to C3F8 in terms of achieving visual acuity of 5/200 or better",
@@ -4224,7 +4224,7 @@
   {
     "id": 261,
     "source": "retina-oq",
-    "question": "associated with retinal detachment repair. Optical coherence tomography reveals characteristic large hyporeflective spaces corresponding to retained PFCL bubbles. PFCL is toxic when in direct contact with the retina for prolonged periods and subfoveal PFCL may result in permanent vision loss. As such, the recommended treatment option is repeat vitrectomy and evacuation of the bubbles Q-A 55-year old phakic man presents complaining of poor vision two months after primary vitrectomy for a macula-involving rhegmatogenous retinal detachment due to a giant retinal tear. Optical coherence tomography discloses characteristic findings (see figure). What is the preferred treatment option for this patient?",
+    "question": "What is the preferred treatment option for this patient?",
     "options": {
       "D": "Vitrectomy",
       "C": "Intravitreal steroid",
@@ -4515,7 +4515,7 @@
   {
     "id": 279,
     "source": "retina-oq",
-    "question": "• presence of flap tears within the lattice • aphakia (not pseudophakia) Q-A 29-year-old woman presents to you for a routine eye exam. She has no visual complaints and has no past ocular history besides contact lens wear for low hyperopia. Her exam is significant for lattice degeneration in the peripheral retina of both eyes. There are two atrophic holes within the area of lattice degeneration in both eyes. What is this woman's risk of retinal detachment in either eye if she does not undergo prophylactic laser demarcation?",
+    "question": "What is this woman's risk of retinal detachment in either eye if she does not undergo prophylactic laser demarcation?",
     "options": {
       "D": "60%",
       "C": "25%",
@@ -4675,7 +4675,7 @@
   {
     "id": 289,
     "source": "retina-oq",
-    "question": "• Medium-to-high internal reflectivity (with irregular internal structure) Q-A 21-year old man is referred to your clinic by his optometrist with the diagnosis of \"rule out retinal detachment, right eye.\" Dilated fundus exam shows an exudative retinal detachment and the fluorescein angiogram (FA) shows a diffuse \"leopard-spot pattern\" without leakage. Incidentally, the patient is a +6.00 hyperope OU and has a family history of lung cancer. Which of the following conditions is most likely also present in this patient?",
+    "question": "Which of the following conditions is most likely also present in this patient?",
     "options": {
       "D": "uveal effusion syndrome",
       "C": "CAR (carcinoma-associated retinopathy)",
@@ -4857,7 +4857,7 @@
   {
     "id": 300,
     "source": "retina-oq",
-    "question": "You are following a 16-year old boy who suffered a penetrating ocular injury two months ago when hammering iron nails. His initial open globe repair was performed by another eye surgeon at an outside facility. On your initial exam of the child, two weeks after his injury, you noted a small foreign body located in the anterior vitreous. You have been performing serial electroretinograms (ERGs) as shown above. Based on this information, which of the following represents the best course of management?",
+    "question": "Based on this information, which of the following represents the best course of management?",
     "options": {
       "D": "removal of the foreign body",
       "C": "continued serial ERGs",

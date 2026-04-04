@@ -988,7 +988,7 @@
   {
     "id": 62,
     "source": "cornea-oq",
-    "question": "A 23-year-old patient presents to your clinic with sudden loss of vision and severe pain in the right eye.  On exam, there is significant stromal corneal edema paracentral inferiorly in the right eye.  The anterior chamber is deep and quiet.  There is no associated corneal epithelial defect.  You measure the intraocular pressure as 18 mmHg OU.  You obtain corneal topography of the left eye which shows an average keratometry value of 56 diopters and an \"I-S value\" of 2.6.  Which of the following is an appropriate management strategy for the right eye?",
+    "question": "Which of the following is an appropriate management strategy for the right eye?",
     "options": {
       "A": "fortified antibiotics",
       "B": "penetrating keratoplasty",
@@ -1089,7 +1089,7 @@
   {
     "id": 68,
     "source": "cornea-oq",
-    "question": "A 25-year-old patient with progressively blurred vision in both eyes over the last one year comes to your office and you perform a corneal topography (see above) that confirms your clinical suspicion.  You send the patient to a contact lens specialist and the next day the patient calls you with sudden onset of severe eye pain and blurred vision in the right eye.  When you examine the patient, you notice marked corneal edema paracentrally in the right eye adjacent to an area of corneal thinning without evidence of uveitis, endotheliitis, or an epithelial defect.  Which agent is part of the typical treatment regimen for this patient's condition?",
+    "question": "Which agent is part of the typical treatment regimen for this patient's condition?",
     "options": {
       "A": "Urgent penetrating keratoplasty",
       "B": "Topical hypo-osmotic saline",
@@ -1105,7 +1105,7 @@
   {
     "id": 69,
     "source": "cornea-oq",
-    "question": "A 25-year-old patient with a history of chronic eye rubbing and progressively blurred vision in both eyes over the last one year comes to your office. You perform a corneal topography (see above) that confirms your clinical suspicion. You send the patient to a contact lens specialist and the next day the patient calls you with sudden onset of severe eye pain and blurred vision in the right eye. When you examine the patient you notice marked corneal edema paracentrally in the right eye adjacent to an area of corneal thinning. What is the primary underlying pathophysiology of this patient's acute vision loss?",
+    "question": "What is the primary underlying pathophysiology of this patient's acute vision loss?",
     "options": {
       "A": "Sudden break in Bowman's layer",
       "B": "Sudden break in Descemet's membrane",
@@ -1124,7 +1124,7 @@
   {
     "id": 70,
     "source": "cornea-oq",
-    "question": "A 23-year-old keratoconus (KCN) patient presents to your clinic with complaints of decrease in vision. He states that he was in the Army when he was younger. Upon entry into the military he states that his vision was very good in both eyes. On exam his refraction in the right eye is -1.00 +3.50 x 172 which gives him 20/40 visual acuity. You examine the cornea and find it to be clear but possibly thin. Ultrasound pachymetry shows the cornea to be 500 microns. Which of the following is the best way to improve the patients vision?",
+    "question": "Which of the following is the best way to improve the patients vision?",
     "options": {
       "A": "soft toric contact lens",
       "B": "gas permeable contact lens",
@@ -1140,7 +1140,7 @@
   {
     "id": 71,
     "source": "cornea-oq",
-    "question": "A 25-year-old patient with chronic allergic conjunctivitis comes in with a complaint of progressively blurred vision in both eyes over the last one year. He is a soft contact lens wearer although he lost his lenses about 1 month ago. You are able to refract him from 20/80 to 20/25 in both eyes but he still feels that his vision is not \"sharp.\" On slit lamp examination in both eyes you notice curved iron lines in the mid-periphery of the cornea inferiorly. In the right eye there is also an area of corneal thinning paracentrally adjacent to a small stromal scar. You perform corneal topography which is displayed above (right eye only displayed although similar findings are present in the left eye). What is the most likely diagnosis?",
+    "question": "What is the most likely diagnosis?",
     "options": {
       "A": "Vernal keratoconjunctivitis",
       "B": "Contact lens overuse",
@@ -1571,7 +1571,7 @@
       "A": "Fuchs’ endothelial dystrophy",
       "B": "Posterior polymorphous corneal dystrophy",
       "C": "Iridocorneal endothelial syndrome (Chandler syndrome variant)",
-      "D": "Congenital hereditary endothelial dystrophy Answer: This most likely represents posterior polymorphous corneal dystrophy (PPCD) (Choice B), previously known as posterior polymorphous dystrophy (PPMD) or Schlichting dystrophy. This condition is marked by a diffuse abnormality of Descemet’s membrane, resulting in a multi- laminated appearance This condition can look like iridocorneal endothelial (ICE) syndrome, but ICE is usually unilateral and more likely to be appear in a middle-aged female patient . The changes in PPCD can be quite subtle: oftentimes, only an isolated group of vesicles may be noted on clinical exam. Most patients are asymptomatic, though some patients may develop corneal edema that can be medically managed in a manner similar to Fuch’s endothelial dystrophy. Mild localized swelling may be managed with anterior stromal micro puncture. The prognosis for penetrating and endothelial keratoplasty depends on the presence/absence of PAS and management of glaucoma. PPCD is known to recur in the graft in penetrating keratoplasty."
+      "D": "Congenital hereditary endothelial dystrophy"
     },
     "correctAnswer": "B",
     "explanation": "This most likely represents posterior polymorphous corneal dystrophy (PPCD) (Choice B), previously known as posterior polymorphous dystrophy (PPMD) or Schlichting dystrophy. This condition is marked by a diffuse abnormality of Descemet’s membrane, resulting in a multi- laminated appearance This condition can look like iridocorneal endothelial (ICE) syndrome, but ICE is usually unilateral and more likely to be appear in a middle-aged female patient . The changes in PPCD can be quite subtle: oftentimes, only an isolated group of vesicles may be noted on clinical exam. Most patients are asymptomatic, though some patients may develop corneal edema that can be medically managed in a manner similar to Fuch’s endothelial dystrophy. Mild localized swelling may be managed with anterior stromal micro puncture. The prognosis for penetrating and endothelial keratoplasty depends on the presence/absence of PAS and management of glaucoma. PPCD is known to recur in the graft in penetrating keratoplasty.",
@@ -2463,7 +2463,7 @@
   {
     "id": 150,
     "source": "cornea-oq",
-    "question": "A 30-year-old woman presents to you complaining of recurrent episodes of foreign body sensation, photophobia, burning, and tearing in both eyes for the past 5 years.  Each episode lasts for approximately 1 month.  Her slit-lamp exam is significant for the above corneal findings which are found in both eyes.  She has tried frequent artificial tears without relief.  She states that she cannot tolerate any form of corticosteroid including in eyedrops.  Which of the following is the best treatment choice for this patient's condition?",
+    "question": "Which of the following is the best treatment choice for this patient's condition?",
     "options": {
       "A": "fluorometholone 0.1%",
       "B": "epithelial debridement (e.g. superficial keratectomy)",
@@ -2674,7 +2674,7 @@
   {
     "id": 163,
     "source": "cornea-oq",
-    "question": "A 66-year-old Caucasian man presents to you with complaints of left eye pain especially when looking toward his right. He states that his left eye has been red and painful for the past few weeks, and he also has some mildly decreased vision in this eye. He describes this eye like \"a severe toothache that keeps me up at night.\" His slit-lamp exam of this eye is seen above and is notable for non-blanching of the engorged vessels with phenylephrine. Which of the following treatments is presently most controversial for this condition?",
+    "question": "Which of the following treatments is presently most controversial for this condition?",
     "options": {
       "A": "oral prednisone",
       "B": "oral cyclophosphamide",
@@ -3573,7 +3573,7 @@
   {
     "id": 217,
     "source": "cornea-oq",
-    "question": "A 29-year-old male patient with a history of soft contact lens wear is referred for evaluation and treatment of ten days of cloudy vision, photophobia, pain and redness in the right eye.  He reports he had eye irritation approximately two weeks ago and sought treatment four days later.  He was initially treated with fortified vancomycin and tobramycin every 2 hours, which failed to significantly improve his symptoms.  He has not worn his contact lenses since the initial symptoms started.  Slit-lamp photograph of the right eye is shown above. Which of the following treatment options represents a reasonable strategy at this time?",
+    "question": "Which of the following treatment options represents a reasonable strategy at this time?",
     "options": {
       "A": "Obtain cultures and change to topical fortified ceftazidime every 1 hour",
       "B": "Obtain cultures, continue topical fortified tobramycin every 1 hour and add topical moxifloxacin every 1 hour",
@@ -3676,7 +3676,7 @@
   {
     "id": 222,
     "source": "cornea-oq",
-    "question": "A 70-year-old man presents to you for a 3rd opinion regarding his chronically- irritated eyes.  He states that he has been diagnosed with \"anterior blepharitis\", but that he has found minimal relief with warm compresses, lid scrubs with baby shampoo, and erythromycin ointment.  His ocular exam is significant for erythema of the lid margins, cylindrical dandruff, madarosis, and meibomian gland dysfunction.  You examine some of the eyelashes under the microscope (see video above).  Which of the following most likely would improve this patient's chronic condition?",
+    "question": "Which of the following most likely would improve this patient's chronic condition?",
     "options": {
       "A": "oral doxycycline",
       "B": "corticosteroid gel to eyelid margins",
@@ -3939,7 +3939,7 @@
   {
     "id": 236,
     "source": "cornea-oq",
-    "question": "A 24-year-old man presents with 6 hours of discharge and blurry vision in the right eye.  He denies any recent fevers, chills, or other systemic symptoms.  He states that his eye was normal prior to onset of symptoms this morning.  Right eye exam is significant for copious purulent discharge, 3+ diffuse conjunctival injection and 3+ conjunctival papillae.  The cornea is clear without infiltrates or epithelial defects.  Left eye exam is normal.  The patient has a history of an anaphylactic reaction to cephalosporins.  What is the recommended management?",
+    "question": "What is the recommended management?",
     "options": {
       "A": "Oral azithromycin",
       "B": "Oral doxycycline plus oral azithromycin",
@@ -3976,7 +3976,7 @@
       "A": "serovars A-C",
       "B": "serovars D-K",
       "C": "serovars L1-L3",
-      "D": "serovars M2 A A Here is a summary of the serovars that are associated with the different Chlamydial diseases: • Trachoma:  serovars A-C. • Adult and neonatal inclusion conjunctivitis:  serovars D-K • lymphogranuloma venereum:  L1-L3,"
+      "D": "serovars M2"
     },
     "correctAnswer": "B",
     "explanation": "Some memorable mnemonics: • \"trAChoma\" --> serovars A-C (Courtesy of Dr Jorges Montes) • \"DicK\" - which references that adult/neonatal inclusion conjunctivitis are due to sexually transmitted disease.",
@@ -4430,7 +4430,7 @@
   {
     "id": 264,
     "source": "cornea-oq",
-    "question": "A 23-year-old patient presents for a contact lens exam follow-up.  He has been wearing contacts for 2 years.  He is in extended-wear lenses and sleeps in them.  For the last 2 weeks he has had mild irritation in the right eye.  On exam, you note three, 1 mm anterior stromal infilatrates in the inferior peripheral cornea 1 mm from the limbus.  You instill fluorescein and there is no staining of the lesions. There is no conjunctival injection, corneal thinning or anterior chamber cell. Which of the following is the most proper treatment?",
+    "question": "Which of the following is the most proper treatment?",
     "options": {
       "A": "Prescribe a broad-spectrum fluoroquinolone to be used every hour and see the patient in 2-3 days",
       "B": "Have the patient discontinue contact lenses. No antibiotics are necessary at this time pending serial examinations with close follow up.",
@@ -4541,7 +4541,7 @@
       "A": "increased effect (quicker time to stromal keratitis resolution)",
       "B": "decreased effect (longer time to stromal keratitis resolution)",
       "C": "no effect (no change in time to stromal keratitis resolution)",
-      "D": "increase in the amount of recurrence A; C Adding oral acyclovir showed no benefit. The treatment regimen for the stromal keratitis arm of the HEDS study was topical prednisolone q2 hours and topical trifluridine 4x/day. Mainly, stromal keratitis secondary to HSV is an autoimmune phenomenon. Therefore, the main treatment involves topical steroids. The topical antiviral was used to prevent an outbreak of epithelial keratitis. The stromal keratitis arm of the HEDS study showed that there was no benefit to adding oral acyclovir to topical prednisilone and trifluridine."
+      "D": "increase in the amount of recurrence"
     },
     "correctAnswer": "A",
     "explanation": "All arms of the HEDS study had patients receiving topical antivirals.",
@@ -5569,7 +5569,7 @@
   {
     "id": 329,
     "source": "cornea-oq",
-    "question": "What is the advantage of the procedure demonstrated in the video above compared to other surgeries for corneal endothelial disease? https://www.youtube.com/watch?v=pKq8b7wSJuc",
+    "question": "https://www.youtube.com/watch?v=pKq8b7wSJuc",
     "options": {
       "A": "easier donor graft preparation",
       "B": "decreased overall surgical times",
@@ -5690,7 +5690,7 @@
   {
     "id": 336,
     "source": "cornea-oq",
-    "question": "A 74-year-old patient with a history of two penetrating keratoplasties in his right eye and three penetrating keratoplasties in the left eye presents to you for consultation.  A review of his medical history is significant for an extended period of hospitalization for a severe allergic response to trimethoprim-sulfamethoxazole.  The visual acuity is hand motions in both eyes. Clinical examination of the right eye reveals dense stromal scarring.  Examination of the left eye is similar.  Which of the following would be an appropriate option for surgical intervention for the right eye?",
+    "question": "Which of the following would be an appropriate option for surgical intervention for the right eye?",
     "options": {
       "A": "Descemet’s stripping automated endothelial keratoplasty (DSAEK)",
       "B": "Descemet membrane endothelial keratoplasty (DMEK)",
