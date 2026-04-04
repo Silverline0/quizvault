@@ -3,6 +3,7 @@
 import { Question } from "@/lib/types";
 import { useCallback, useEffect, useState } from "react";
 import { isBookmarked, toggleBookmark } from "@/lib/store";
+import ImageZoom from "@/components/ImageZoom";
 
 interface QuizCardProps {
   question: Question;
@@ -76,16 +77,12 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
         </button>
       </div>
 
-      {/* Question image */}
+      {/* Question image with zoom */}
       {question.imageUrl && (
-        <div className="mb-5 rounded-xl overflow-hidden" style={{ border: "1px solid var(--border)" }}>
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
+        <div className="mb-5" style={{ border: "1px solid var(--border)", borderRadius: "var(--radius-lg)" }}>
+          <ImageZoom
             src={question.imageUrl}
-            alt={`Image for question ${question.id}`}
-            className="w-full max-h-72 object-contain"
-            style={{ backgroundColor: "var(--bg-secondary)" }}
-            loading="lazy"
+            alt={`Clinical image for question ${question.id}`}
           />
         </div>
       )}
@@ -153,7 +150,7 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
               key={key}
               onClick={() => handleSelect(key)}
               disabled={showResult}
-              className="w-full text-left px-4 py-3.5 rounded-xl flex items-center justify-between gap-3 transition-all duration-150"
+              className="option-card w-full text-left px-4 py-3.5 rounded-xl flex items-center justify-between gap-3"
               style={{
                 border: `2px solid ${borderColor}`,
                 backgroundColor: bgColor,

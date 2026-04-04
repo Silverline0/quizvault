@@ -2,6 +2,42 @@
 
 import { Question } from "@/lib/types";
 
+// Medical terms to auto-highlight in explanations
+const MEDICAL_TERM_PATTERNS = [
+  // Disease names (capitalized multi-word)
+  /\b(?:Sturge-Weber|Marfan|Down|Turner|Treacher Collins|Pierre Robin|Crouzon|Apert|Goldenhar|Axenfeld-Rieger|Peters|Duane|Brown|Möbius|Marcus Gunn|Horner|Adie|Argyll Robertson|Parinaud|Weber|Wallenberg|Foster Kennedy|Claude|Benedikt|Millard-Gubler)\s*(?:syndrome|anomaly|disease)?\b/gi,
+  // Drug names ending in common suffixes
+  /\b\w+(?:olol|prine|mab|nib|cillin|mycin|floxacin|cycline|pam|lam|zole|statin|sartan|dipine|pril|lukast|gliptin|tide|platin|rubicin)\b/gi,
+  // Anatomical structures
+  /\b(?:optic nerve|optic chiasm|optic disc|macula|fovea|retina|cornea|sclera|uvea|iris|ciliary body|choroid|vitreous|lens|conjunctiva|Bruch.s membrane|Descemet.s membrane|Bowman.s layer|trabecular meshwork|Schlemm.s canal|lamina cribrosa)\b/gi,
+  // Clinical signs
+  /\b(?:cherry[- ]red spot|cotton[- ]wool spots?|Kayser-Fleischer rings?|Bitot.s spots?|Roth spots?|Brushfield spots?|Lisch nodules?|drusen|papilledema|proptosis|ptosis|enophthalmos|exophthalmos|anisocoria|leukocoria)\b/gi,
+];
+
+function highlightKeyTerms(text: string): React.ReactNode {
+  // Build a combined regex from all patterns
+  const combined = new RegExp(
+    MEDICAL_TERM_PATTERNS.map(p => p.source).join('|'),
+    'gi'
+  );
+
+  const parts = text.split(combined);
+  const matches = text.match(combined);
+
+  if (!matches) return text;
+
+  const result: React.ReactNode[] = [];
+  parts.forEach((part, i) => {
+    result.push(part);
+    if (i < matches.length) {
+      result.push(
+        <span key={i} className="key-term">{matches[i]}</span>
+      );
+    }
+  });
+  return result;
+}
+
 interface ExplanationPanelProps {
   question: Question;
   wasCorrect: boolean;
@@ -44,10 +80,10 @@ export default function ExplanationPanel({ question, wasCorrect }: ExplanationPa
         )}
       </div>
 
-      {/* Explanation text */}
+      {/* Explanation text with key term highlighting */}
       {question.explanation && (
         <div className="text-sm leading-relaxed" style={{ color: "var(--text-secondary)" }}>
-          {question.explanation}
+          {highlightKeyTerms(question.explanation)}
         </div>
       )}
 

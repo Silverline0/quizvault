@@ -5,7 +5,8 @@ import { useCallback, useEffect, useState } from "react";
 import { Question, QuizMode } from "@/lib/types";
 import { loadQuestionSet } from "@/lib/quiz-engine";
 import { buildQuizQueue, getStartIndex } from "@/lib/quiz-engine";
-import { recordAnswer, saveLastPosition } from "@/lib/store";
+import { recordAnswer, saveLastPosition, saveLastActive, updateSpacedRep, startStudySession, endStudySession } from "@/lib/store";
+import { StudySession } from "@/lib/types";
 import QuizCard from "@/components/QuizCard";
 import ExplanationPanel from "@/components/ExplanationPanel";
 import QuestionCounter from "@/components/QuestionCounter";
@@ -29,7 +30,30 @@ export default function QuizPage() {
   const [finished, setFinished] = useState(false);
   const [setName, setSetName] = useState("");
   const [answeredMap, setAnsweredMap] = useState<Map<number, boolean>>(new Map());
-  const [answerRecord, setAnswerRecord] = useState<Map<number, string>>(new Map()); // index -> selected letter
+  const [answerRecord, setAnswerRecord] = useState<Map<number, string>>(new Map());
+  const [studySession, setStudySession] = useState<StudySession | null>(null);
+  const [questionStartTime, setQuestionStartTime] = useState(Date.now());
+
+  // Track last active set for "Continue where you left off"
+  useEffect(() => {
+    if (setId && mode) saveLastActive(setId, mode);
+  }, [setId, mode]);
+
+  // Start study session timer
+  useEffect(() => {
+    if (setId) {
+      const session = startStudySession(setId);
+      setStudySession(session);
+      return () => {
+        if (session.questionsAnswered > 0) endStudySession(session);
+      };
+    }
+  }, [setId]);
+
+  // Reset question timer on each new question
+  useEffect(() => {
+    setQuestionStartTime(Date.now());
+  }, [currentIndex]);
 
   // Load questions
   useEffect(() => {
@@ -77,23 +101,36 @@ export default function QuizPage() {
         return next;
       });
 
+      const timeSpent = Math.round((Date.now() - questionStartTime) / 1000);
+
       recordAnswer({
         questionId: currentQuestion.id,
         source: currentQuestion.source,
         selectedAnswer: selected,
         correct,
         timestamp: Date.now(),
+        timeSpent,
       });
+
+      // Update spaced repetition
+      updateSpacedRep(currentQuestion.id, currentQuestion.source, correct);
+
+      // Update study session
+      if (studySession) {
+        studySession.questionsAnswered++;
+        if (correct) studySession.correctCount++;
+      }
 
       if (mode === "sequential") {
         saveLastPosition(setId, currentIndex + 1);
       }
     },
-    [currentQuestion, currentIndex, mode, setId]
+    [currentQuestion, currentIndex, mode, setId, questionStartTime, studySession]
   );
 
   const handleNext = useCallback(() => {
     if (currentIndex + 1 >= questions.length) {
+      if (studySession) endStudySession(studySession);
       setFinished(true);
       return;
     }
