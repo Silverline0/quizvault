@@ -30,6 +30,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet" />
       </head>
       <body className="min-h-screen antialiased">
+        <script dangerouslySetInnerHTML={{ __html: `
+          try {
+            var s = JSON.parse(localStorage.getItem('quizvault_settings') || '{}');
+            if (s.fontSize) document.documentElement.setAttribute('data-fontsize', s.fontSize);
+            if (s.theme) document.documentElement.setAttribute('data-theme', s.theme);
+          } catch(e) {}
+        `}} />
         <Navbar />
         <main className="max-w-5xl mx-auto px-4 py-8">
           {children}

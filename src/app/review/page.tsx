@@ -103,8 +103,7 @@ export default function ReviewPage() {
   if (mistakes.length === 0) {
     return (
       <div className="max-w-2xl mx-auto text-center py-20">
-        <div className="text-5xl mb-4">🎉</div>
-        <h1 className="text-2xl font-bold mb-2" style={{ color: "var(--text-primary)" }}>No Mistakes!</h1>
+        <h1 className="text-2xl font-bold mb-2" style={{ color: "var(--text-primary)" }}>No Mistakes</h1>
         <p className="mb-6" style={{ color: "var(--text-secondary)" }}>
           You haven&apos;t gotten any questions wrong yet, or you&apos;ve corrected them all.
         </p>

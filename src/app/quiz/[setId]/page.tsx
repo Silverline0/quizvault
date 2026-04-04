@@ -281,9 +281,8 @@ export default function QuizPage() {
     const accuracy = answeredCount > 0 ? Math.round((correctCount / answeredCount) * 100) : 0;
     return (
       <div className="max-w-lg mx-auto text-center py-16 px-4">
-        <div className="text-6xl mb-6">{accuracy >= 80 ? "🎉" : accuracy >= 50 ? "👍" : "📚"}</div>
         <h1 className="text-2xl font-bold mb-2" style={{ color: "var(--text-primary)" }}>
-          Session Complete!
+          Session Complete
         </h1>
         <p className="text-lg mb-1" style={{ color: "var(--text-secondary)" }}>
           {correctCount} / {answeredCount} correct

@@ -202,9 +202,8 @@ export default function ExamPage() {
 
     return (
       <div className="max-w-lg mx-auto text-center py-12 px-4">
-        <div className="text-6xl mb-4">{passed ? "🎉" : "📚"}</div>
         <h1 className="text-2xl font-bold mb-1" style={{ color: "var(--text-primary)" }}>
-          {passed ? "Exam Passed!" : "Keep Studying"}
+          {passed ? "Exam Passed" : "Keep Studying"}
         </h1>
         <p className="text-sm mb-6" style={{ color: "var(--text-muted)" }}>
           {answeredCount} of {questions.length} answered

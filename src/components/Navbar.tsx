@@ -6,7 +6,7 @@ import { usePathname } from "next/navigation";
 
 type Theme = "light" | "dark" | "sepia";
 const THEME_CYCLE: Theme[] = ["light", "dark", "sepia"];
-const THEME_LABELS: Record<Theme, string> = { light: "☾", dark: "☀", sepia: "◐" };
+const THEME_LABELS: Record<Theme, string> = { light: "Dark", dark: "Sepia", sepia: "Light" };
 
 const NAV_LINKS = [
   { href: "/", label: "Home" },
@@ -14,7 +14,7 @@ const NAV_LINKS = [
   { href: "/exam", label: "Exam" },
   { href: "/review", label: "Review" },
   { href: "/stats", label: "Stats" },
-  { href: "/settings", label: "⚙" },
+  { href: "/settings", label: "Settings" },
 ];
 
 export default function Navbar() {

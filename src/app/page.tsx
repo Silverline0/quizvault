@@ -13,9 +13,9 @@ import StreakCalendar from "@/components/StreakCalendar";
 import { getDecayWarnings } from "@/lib/store";
 
 const MODES: { id: QuizMode; label: string; desc: string; icon: string }[] = [
-  { id: "sequential", label: "Sequential", desc: "In order, resume where you left off", icon: "→" },
-  { id: "random", label: "Random", desc: "Shuffled, no repeats", icon: "🔀" },
-  { id: "mistakes", label: "Mistakes", desc: "Review what you got wrong", icon: "✗" },
+  { id: "sequential", label: "Sequential", desc: "In order, resume where you left off", icon: "" },
+  { id: "random", label: "Random", desc: "Shuffled, no repeats", icon: "" },
+  { id: "mistakes", label: "Mistakes", desc: "Review what you got wrong", icon: "" },
 ];
 
 export default function HomePage() {
@@ -254,7 +254,6 @@ export default function HomePage() {
                   className={`text-left px-4 py-4 rounded-xl transition-all hover:shadow-md cat-${cat.id}`}
                   style={{ border: "1px solid var(--border)", boxShadow: "var(--shadow-sm)" }}
                 >
-                  <div className="text-2xl mb-1">{cat.icon}</div>
                   <div className="font-semibold text-sm" style={{ color: "var(--text-primary)" }}>{cat.name}</div>
                   <div className="text-xs mt-0.5" style={{ color: "var(--text-muted)" }}>
                     {totals ? `${totals.count} Qs · ${totals.sets} bank${totals.sets > 1 ? "s" : ""}` : ""}
@@ -274,7 +273,7 @@ export default function HomePage() {
             Back
           </button>
           <h2 className="text-lg font-bold mb-1" style={{ color: "var(--text-primary)" }}>
-            {currentCategory?.icon} {currentCategory?.name}
+            {currentCategory?.name}
           </h2>
           <p className="text-sm mb-4" style={{ color: "var(--text-muted)" }}>Choose a question bank</p>
           <div className="space-y-3">
@@ -320,7 +319,6 @@ export default function HomePage() {
                   onClick={(e) => disabled && e.preventDefault()}
                   className="block px-4 py-5 rounded-xl text-center transition-all hover:shadow-md"
                   style={{ backgroundColor: "var(--bg-card)", border: "1px solid var(--border)", opacity: disabled ? 0.4 : 1, cursor: disabled ? "not-allowed" : "pointer", boxShadow: "var(--shadow-sm)" }}>
-                  <div className="text-2xl mb-2">{m.icon}</div>
                   <div className="font-semibold text-sm" style={{ color: "var(--text-primary)" }}>{m.label}</div>
                   <div className="text-xs mt-1" style={{ color: "var(--text-muted)" }}>{m.desc}</div>
                   {m.id === "mistakes" && (mistakeCounts[selectedSet] || 0) > 0 && (

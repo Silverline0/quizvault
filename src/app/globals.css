@@ -182,12 +182,13 @@ body {
 .rounded-full:not(button):not([class*="w-6"]):not([class*="w-8"]):not([class*="w-11"]) { border-radius: 4px !important; }
 
 /* ── Font size responsive ─────────────────────────────── */
-[data-fontsize="small"] .quiz-question { font-size: 0.95rem !important; }
-[data-fontsize="small"] .quiz-option { font-size: 0.85rem !important; }
-[data-fontsize="small"] .quiz-explanation { font-size: 0.8rem !important; }
-[data-fontsize="large"] .quiz-question { font-size: 1.35rem !important; }
-[data-fontsize="large"] .quiz-option { font-size: 1.05rem !important; }
-[data-fontsize="large"] .quiz-explanation { font-size: 0.95rem !important; }
+[data-fontsize="small"] .quiz-question { font-size: 0.9rem !important; line-height: 1.4 !important; }
+[data-fontsize="small"] .quiz-option { font-size: 0.8rem !important; }
+[data-fontsize="small"] .quiz-explanation { font-size: 0.75rem !important; }
+
+[data-fontsize="large"] .quiz-question { font-size: 1.5rem !important; line-height: 1.5 !important; }
+[data-fontsize="large"] .quiz-option { font-size: 1.15rem !important; }
+[data-fontsize="large"] .quiz-explanation { font-size: 1.05rem !important; }
 
 /* ── Paper grain texture ──────────────────────────────── */
 body::before {
