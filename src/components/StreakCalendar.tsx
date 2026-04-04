@@ -55,19 +55,30 @@ export default function StreakCalendar() {
         </span>
       </div>
 
-      <div className="flex gap-0.5 justify-end">
-        {weeks.map((week, wi) => (
-          <div key={wi} className="flex flex-col gap-0.5">
-            {week.map((cell) => (
-              <div
-                key={cell.date}
-                className="w-3 h-3 rounded-sm transition-colors"
-                style={{ backgroundColor: getColor(cell.count) }}
-                title={`${cell.date}: ${cell.count} questions`}
-              />
-            ))}
-          </div>
-        ))}
+      <div className="flex gap-0.5">
+        {/* Day labels */}
+        <div className="flex flex-col gap-0.5 mr-1 justify-between py-0.5">
+          {["Sun", "", "Tue", "", "", "", "Sat"].map((label, i) => (
+            <div key={i} className="h-3 flex items-center">
+              <span className="text-[9px] leading-none" style={{ color: "var(--text-muted)" }}>{label}</span>
+            </div>
+          ))}
+        </div>
+        {/* Grid */}
+        <div className="flex gap-0.5 flex-1 justify-end">
+          {weeks.map((week, wi) => (
+            <div key={wi} className="flex flex-col gap-0.5">
+              {week.map((cell) => (
+                <div
+                  key={cell.date}
+                  className="w-3 h-3 transition-colors"
+                  style={{ backgroundColor: getColor(cell.count) }}
+                  title={`${cell.date}: ${cell.count} questions`}
+                />
+              ))}
+            </div>
+          ))}
+        </div>
       </div>
 
       <div className="flex items-center gap-1 mt-2 justify-end">

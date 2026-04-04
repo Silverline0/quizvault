@@ -127,54 +127,70 @@ export default function HomePage() {
       {lastActiveSet && lastActive.position !== undefined && lastActive.position > 0 && !selectedCategory && (
         <Link
           href={`/quiz/${lastActive.setId}?mode=${lastActive.mode || "sequential"}`}
-          className="block rounded-xl p-4 mb-6 transition-all hover:shadow-lg animate-fade-in"
+          className="block p-5 mb-6 transition-all hover:shadow-lg animate-fade-in"
           style={{
-            backgroundColor: "var(--accent-light)",
-            border: "2px solid var(--accent)",
-            boxShadow: "var(--shadow-glow)",
+            backgroundColor: "var(--bg-card)",
+            border: "1px solid var(--border)",
+            boxShadow: "var(--shadow-md)",
           }}
         >
+          <div className="flex items-center justify-between mb-3">
+            <p className="text-sm font-bold" style={{ color: "var(--text-primary)" }}>Continue Studying</p>
+            <span className="text-xs font-mono" style={{ color: "var(--text-muted)" }}>
+              {lastActive.position}/{lastActiveSet.questionCount}
+            </span>
+          </div>
+          {/* Progress bar */}
+          <div className="w-full h-1.5 mb-3 overflow-hidden" style={{ backgroundColor: "var(--border)" }}>
+            <div
+              className="h-full transition-all"
+              style={{
+                width: `${Math.round((lastActive.position / lastActiveSet.questionCount) * 100)}%`,
+                backgroundColor: "var(--accent)",
+              }}
+            />
+          </div>
           <div className="flex items-center justify-between">
             <div>
-              <p className="text-xs font-semibold uppercase tracking-wider mb-1" style={{ color: "var(--accent)" }}>
-                Continue studying
-              </p>
-              <p className="font-bold" style={{ color: "var(--text-primary)" }}>
+              <p className="font-bold text-lg" style={{ color: "var(--text-primary)" }}>
                 {lastActiveSet.name}
               </p>
-              <p className="text-xs mt-0.5" style={{ color: "var(--text-secondary)" }}>
-                Question {lastActive.position + 1} of {lastActiveSet.questionCount} · {lastActive.mode} mode
+              <p className="text-xs mt-0.5" style={{ color: "var(--text-muted)" }}>
+                Question {lastActive.position + 1} of {lastActiveSet.questionCount} - {lastActive.mode} mode
               </p>
             </div>
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="2.5">
-              <line x1="5" y1="12" x2="19" y2="12" /><polyline points="12 5 19 12 12 19" />
-            </svg>
+            <span
+              className="px-4 py-2 text-sm font-semibold"
+              style={{ backgroundColor: "var(--accent)", color: "white" }}
+            >
+              Resume
+            </span>
           </div>
         </Link>
       )}
 
-      {/* Quick stats */}
+      {/* Quick stats with colored bottom accents */}
       {overallStats.total > 0 && !selectedCategory && (
-        <div
-          className="grid grid-cols-2 sm:grid-cols-4 gap-3 rounded-xl p-4 mb-6"
-          style={{ backgroundColor: "var(--bg-card)", border: "1px solid var(--border)", boxShadow: "var(--shadow-sm)" }}
-        >
-          <div className="text-center">
-            <div className="text-xl font-bold font-display" style={{ color: "var(--accent)" }}>{overallStats.uniqueQuestions}</div>
-            <div className="text-xs" style={{ color: "var(--text-muted)" }}>Answered</div>
-          </div>
-          <div className="text-center">
-            <div className="text-xl font-bold font-display" style={{ color: "var(--success)" }}>{overallStats.accuracy}%</div>
-            <div className="text-xs" style={{ color: "var(--text-muted)" }}>Accuracy</div>
-          </div>
-          <div className="text-center">
-            <div className="text-xl font-bold font-display" style={{ color: "var(--warning)" }}>{overallStats.streak}</div>
-            <div className="text-xs" style={{ color: "var(--text-muted)" }}>Streak</div>
-          </div>
-          <div className="text-center">
-            <div className="text-xl font-bold font-display" style={{ color: "var(--text-primary)" }}>{studyTime.totalHours}h</div>
-            <div className="text-xs" style={{ color: "var(--text-muted)" }}>Study time</div>
-          </div>
+        <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-6">
+          {[
+            { label: "Questions Answered", value: overallStats.uniqueQuestions, color: "var(--accent)" },
+            { label: "Accuracy %", value: `${overallStats.accuracy}%`, color: "var(--success)" },
+            { label: "Current Streak", value: overallStats.streak, color: "var(--warning)" },
+            { label: "Total Study Time", value: `${studyTime.totalHours}h`, color: "var(--text-muted)" },
+          ].map((stat) => (
+            <div
+              key={stat.label}
+              className="p-4 overflow-hidden"
+              style={{
+                backgroundColor: "var(--bg-card)",
+                border: "1px solid var(--border)",
+                borderBottom: `3px solid ${stat.color}`,
+              }}
+            >
+              <div className="text-xs mb-1" style={{ color: "var(--text-muted)" }}>{stat.label}</div>
+              <div className="text-2xl font-bold font-display" style={{ color: "var(--text-primary)" }}>{stat.value}</div>
+            </div>
+          ))}
         </div>
       )}
 
@@ -251,12 +267,15 @@ export default function HomePage() {
                 <button
                   key={cat.id}
                   onClick={() => { setSelectedCategory(cat.id); setSelectedSet(null); }}
-                  className={`text-left px-4 py-4 rounded-xl transition-all hover:shadow-md cat-${cat.id}`}
+                  className={`text-left px-4 py-3 transition-all hover:shadow-md flex items-center gap-3 cat-${cat.id}`}
                   style={{ border: "1px solid var(--border)", boxShadow: "var(--shadow-sm)" }}
                 >
-                  <div className="font-semibold text-sm" style={{ color: "var(--text-primary)" }}>{cat.name}</div>
-                  <div className="text-xs mt-0.5" style={{ color: "var(--text-muted)" }}>
-                    {totals ? `${totals.count} Qs · ${totals.sets} bank${totals.sets > 1 ? "s" : ""}` : ""}
+                  <span className={`w-10 h-10 shrink-0 cat-icon-${cat.id}`} style={{ borderRadius: "50%" }} />
+                  <div>
+                    <div className="font-semibold text-sm" style={{ color: "var(--text-primary)" }}>{cat.name}</div>
+                    <div className="text-xs mt-0.5" style={{ color: "var(--text-muted)" }}>
+                      {totals ? `${totals.count} Qs · ${totals.sets} bank${totals.sets > 1 ? "s" : ""}` : ""}
+                    </div>
                   </div>
                 </button>
               );

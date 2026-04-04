@@ -125,8 +125,8 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
         </div>
       )}
 
-      {/* Options — bordered cards with circled letter badge + radio circle */}
-      <div className="space-y-3">
+      {/* Options — 2x2 grid on desktop, single column on mobile */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
         {optionKeys.map((key) => {
           const isSelected = selectedAnswer === key;
           const isCorrect = key === question.correctAnswer;
@@ -182,7 +182,7 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
               key={key}
               onClick={() => handleSelect(key)}
               disabled={showResult}
-              className="option-card w-full text-left px-4 py-3.5 rounded-xl flex items-center gap-3"
+              className="option-card w-full text-left px-4 py-3.5 flex items-center gap-3"
               style={{
                 border: `2px solid ${borderColor}`,
                 backgroundColor: bgColor,
@@ -190,17 +190,13 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
                 cursor: showResult ? "default" : "pointer",
               }}
             >
-              {/* Circled letter badge */}
-              <span
-                className="w-8 h-8 rounded-full flex items-center justify-center text-xs font-bold shrink-0 transition-colors"
-                style={{ backgroundColor: letterBg, color: letterColor }}
-              >
-                {key}
-              </span>
+              {/* Radio circle on left */}
+              {radioContent}
+              {/* Letter + text */}
               <span className="quiz-option flex-1 text-sm md:text-base leading-relaxed" style={{ color: "var(--text-primary)" }}>
+                <span className="font-semibold" style={{ color: letterColor === "white" ? letterColor : "var(--text-muted)" }}>{key}.</span>{" "}
                 {question.options[key]}
               </span>
-              {radioContent}
             </button>
           );
         })}

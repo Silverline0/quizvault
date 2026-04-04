@@ -220,6 +220,17 @@ body::before {
 [data-theme="sepia"] .badge-bcsc { background: #e8dfc8; color: #6b5230; }
 [data-theme="sepia"] .badge-ophthoq { background: #e0d4c0; color: #5a3e28; }
 
+/* ── Category gradient icons (circles) ────────────────── */
+.cat-icon-fundamentals { background: linear-gradient(135deg, #818cf8, #6366f1); }
+.cat-icon-cornea { background: linear-gradient(135deg, #38bdf8, #0ea5e9); }
+.cat-icon-lens-cataract { background: linear-gradient(135deg, #fbbf24, #f59e0b); }
+.cat-icon-glaucoma { background: linear-gradient(135deg, #4ade80, #22c55e); }
+.cat-icon-retina { background: linear-gradient(135deg, #c084fc, #a855f7); }
+.cat-icon-uveitis { background: linear-gradient(135deg, #fb7185, #f43f5e); }
+.cat-icon-neuro { background: linear-gradient(135deg, #a78bfa, #7c3aed); }
+.cat-icon-oculoplastics { background: linear-gradient(135deg, #fb923c, #f97316); }
+.cat-icon-pediatrics { background: linear-gradient(135deg, #2dd4bf, #14b8a6); }
+
 /* ── Category gradient cards ──────────────────────────── */
 .cat-fundamentals { background: linear-gradient(135deg, #f0f4ff 0%, #e8eeff 100%); }
 .cat-cornea { background: linear-gradient(135deg, #f0faff 0%, #e0f4ff 100%); }
