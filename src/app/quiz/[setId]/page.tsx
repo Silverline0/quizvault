@@ -1,11 +1,12 @@
 "use client";
 
 import { useParams, useSearchParams } from "next/navigation";
-import { useCallback, useEffect, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import { Question, QuizMode } from "@/lib/types";
 import { loadQuestionSet } from "@/lib/quiz-engine";
 import { buildQuizQueue, getStartIndex } from "@/lib/quiz-engine";
 import { recordAnswer, saveLastPosition, saveLastActive, updateSpacedRep, startStudySession, endStudySession } from "@/lib/store";
+import { getSetting } from "@/lib/settings";
 import { StudySession } from "@/lib/types";
 import QuizCard from "@/components/QuizCard";
 import ExplanationPanel from "@/components/ExplanationPanel";
@@ -36,7 +37,16 @@ export default function QuizPage() {
   const [studySession, setStudySession] = useState<StudySession | null>(null);
   const [questionStartTime, setQuestionStartTime] = useState(Date.now());
   const [showSessionSummary, setShowSessionSummary] = useState(false);
+  const sessionEndedRef = useRef(false);
   const router = useRouter();
+
+  // Safe session end — prevents double-counting
+  const safeEndSession = useCallback(() => {
+    if (studySession && !sessionEndedRef.current) {
+      sessionEndedRef.current = true;
+      endStudySession(studySession);
+    }
+  }, [studySession]);
 
   // Track last active set for "Continue where you left off"
   useEffect(() => {
@@ -49,7 +59,10 @@ export default function QuizPage() {
       const session = startStudySession(setId);
       setStudySession(session);
       return () => {
-        if (session.questionsAnswered > 0) endStudySession(session);
+        if (session.questionsAnswered > 0 && !sessionEndedRef.current) {
+          sessionEndedRef.current = true;
+          endStudySession(session);
+        }
       };
     }
   }, [setId]);
@@ -116,8 +129,10 @@ export default function QuizPage() {
         timeSpent,
       });
 
-      // Update spaced repetition
-      updateSpacedRep(currentQuestion.id, currentQuestion.source, correct);
+      // Update spaced repetition (if enabled in settings)
+      if (getSetting("spacedRepEnabled")) {
+        updateSpacedRep(currentQuestion.id, currentQuestion.source, correct);
+      }
 
       // Update study session
       if (studySession) {
@@ -134,7 +149,7 @@ export default function QuizPage() {
 
   const handleNext = useCallback(() => {
     if (currentIndex + 1 >= questions.length) {
-      if (studySession) endStudySession(studySession);
+      safeEndSession();
       setFinished(true);
       return;
     }
@@ -148,7 +163,7 @@ export default function QuizPage() {
       setSelectedAnswer(null);
       setShowResult(false);
     }
-  }, [currentIndex, questions.length, answeredMap, answerRecord]);
+  }, [currentIndex, questions.length, answeredMap, answerRecord, safeEndSession]);
 
   const handlePrev = useCallback(() => {
     if (currentIndex <= 0) return;
@@ -185,6 +200,7 @@ export default function QuizPage() {
     const newAnsweredMap = new Map(answeredMap);
     const newAnswerRecord = new Map(answerRecord);
     let newCorrectCount = correctCount;
+    let newlyAdded = 0;
 
     for (let i = 0; i < currentIndex; i++) {
       if (!newAnsweredMap.has(i)) {
@@ -194,6 +210,7 @@ export default function QuizPage() {
         newAnsweredMap.set(i, true);
         newAnswerRecord.set(i, q.correctAnswer || "A");
         newCorrectCount++;
+        newlyAdded++;
 
         recordAnswer({
           questionId: q.id,
@@ -208,19 +225,20 @@ export default function QuizPage() {
     setAnsweredMap(newAnsweredMap);
     setAnswerRecord(newAnswerRecord);
     setCorrectCount(newCorrectCount);
-    setAnsweredCount((prev) => prev + count - answeredMap.size);
+    setAnsweredCount((prev) => prev + newlyAdded);
 
     if (mode === "sequential") {
       saveLastPosition(setId, currentIndex);
     }
   }, [currentIndex, questions, answeredMap, answerRecord, correctCount, mode, setId]);
 
-  // Keyboard: ArrowRight/Enter for next, ArrowLeft for previous
+  // Keyboard: Next/Prev using remapped keys from settings
   useEffect(() => {
+    const keyMap = getSetting("keyMap");
     const handler = (e: KeyboardEvent) => {
-      if (e.key === "ArrowLeft") {
+      if (e.key === keyMap.prev || e.key === "ArrowLeft") {
         handlePrev();
-      } else if ((e.key === "Enter" || e.key === "ArrowRight") && showResult) {
+      } else if ((e.key === "Enter" || e.key === keyMap.next || e.key === "ArrowRight") && showResult) {
         handleNext();
       }
     };
@@ -404,7 +422,7 @@ export default function QuizPage() {
           correctCount={correctCount}
           startTime={studySession.startTime}
           onClose={() => {
-            if (studySession) endStudySession(studySession);
+            safeEndSession();
             router.push("/");
           }}
           onContinue={() => setShowSessionSummary(false)}

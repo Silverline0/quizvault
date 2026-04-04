@@ -3,6 +3,7 @@
 import { useEffect, useState, useCallback } from "react";
 import { Question, Manifest } from "@/lib/types";
 import { recordAnswer, updateSpacedRep } from "@/lib/store";
+import { getSetting } from "@/lib/settings";
 import QuizCard from "@/components/QuizCard";
 import ExplanationPanel from "@/components/ExplanationPanel";
 import QuizHeader from "@/components/QuizHeader";
@@ -107,7 +108,9 @@ export default function ExamPage() {
         correct,
         timestamp: Date.now(),
       });
-      updateSpacedRep(currentQuestion.id, currentQuestion.source, correct);
+      if (getSetting("spacedRepEnabled")) {
+        updateSpacedRep(currentQuestion.id, currentQuestion.source, correct);
+      }
     },
     [currentQuestion]
   );

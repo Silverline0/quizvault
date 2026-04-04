@@ -82,7 +82,7 @@ export default function ExplanationPanel({ question, wasCorrect }: ExplanationPa
 
       {/* Explanation text with key term highlighting */}
       {question.explanation && (
-        <div className="text-sm leading-relaxed" style={{ color: "var(--text-secondary)" }}>
+        <div className="quiz-explanation text-sm leading-relaxed" style={{ color: "var(--text-secondary)" }}>
           {highlightKeyTerms(question.explanation)}
         </div>
       )}

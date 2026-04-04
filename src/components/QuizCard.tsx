@@ -75,7 +75,7 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
       {/* Question header */}
       <div className="flex items-start justify-between gap-3 mb-5">
         <h2
-          className="text-lg md:text-xl font-semibold leading-relaxed flex-1"
+          className="quiz-question text-lg md:text-xl font-semibold leading-relaxed flex-1"
           style={{ color: "var(--text-primary)" }}
         >
           {question.question}
@@ -197,7 +197,7 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
               >
                 {key}
               </span>
-              <span className="flex-1 text-sm md:text-base leading-relaxed" style={{ color: "var(--text-primary)" }}>
+              <span className="quiz-option flex-1 text-sm md:text-base leading-relaxed" style={{ color: "var(--text-primary)" }}>
                 {question.options[key]}
               </span>
               {radioContent}

@@ -41,6 +41,14 @@ export default function Navbar() {
     const preferred = saved || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
     setTheme(preferred);
     document.documentElement.setAttribute("data-theme", preferred);
+
+    // Listen for theme changes from Settings page
+    const observer = new MutationObserver(() => {
+      const current = document.documentElement.getAttribute("data-theme") as Theme;
+      if (current && current !== theme) setTheme(current);
+    });
+    observer.observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+    return () => observer.disconnect();
   }, []);
 
   const cycleTheme = () => {

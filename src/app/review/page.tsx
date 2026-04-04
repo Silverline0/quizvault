@@ -87,7 +87,7 @@ export default function ReviewPage() {
     };
     window.addEventListener("keydown", handler);
     return () => window.removeEventListener("keydown", handler);
-  });
+  }, [showResult, reviewMode]);
 
   if (loading) {
     return (

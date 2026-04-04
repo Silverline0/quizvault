@@ -175,6 +175,14 @@ body {
   animation: scale-in 0.3s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
+/* ── Font size responsive ─────────────────────────────── */
+[data-fontsize="small"] .quiz-question { font-size: 0.95rem !important; }
+[data-fontsize="small"] .quiz-option { font-size: 0.85rem !important; }
+[data-fontsize="small"] .quiz-explanation { font-size: 0.8rem !important; }
+[data-fontsize="large"] .quiz-question { font-size: 1.35rem !important; }
+[data-fontsize="large"] .quiz-option { font-size: 1.05rem !important; }
+[data-fontsize="large"] .quiz-explanation { font-size: 0.95rem !important; }
+
 /* ── Paper grain texture ──────────────────────────────── */
 body::before {
   content: "";
