@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import { Manifest, QuizMode, Category, QuestionSet } from "@/lib/types";
+import { Manifest, QuizMode, Category, QuestionSet, badgeClass } from "@/lib/types";
 import {
   getStats, getMistakes, getLastPosition, exportProgress, importProgress,
   clearProgress, getLastActive, getWeakAreas, getDueForReview,
@@ -306,7 +306,7 @@ export default function HomePage() {
                 <div className="flex items-center gap-2 mb-1">
                   <span className="font-semibold text-sm" style={{ color: "var(--text-primary)" }}>{s.name}</span>
                   {s.source && (
-                    <span className={`text-xs font-medium px-2 py-0.5 rounded-full ${s.source === "BCSC" ? "badge-bcsc" : "badge-ophthoq"}`}>
+                    <span className={`text-xs font-medium px-2 py-0.5 rounded-full ${badgeClass(s.source)}`}>
                       {s.source}
                     </span>
                   )}

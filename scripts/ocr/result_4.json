@@ -1,0 +1,112 @@
+[
+ {
+  "task_id": "p172_n20_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Color fundus photograph, no text of any kind. Shows optic disc with vessels and an inferotemporal pale/whitish lesion with adjacent dark pigmented area. No caption, no question, no labels."
+ },
+ {
+  "task_id": "p174_n24_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Textbook figure with caption only. Two panels labeled A and B (fluorescein angiograms). Caption reads: 'Figure 9-58 Vogt-Koyanagi-Harada syndrome. A, Early arteriovenous phase fluorescein angiogram showing multiple pinpoint foci of hyperfluorescence in the posterior pole of the left eye of a patient in the acute uveitic stage. B, Late arteriovenous phase fluorescein angiogram showing fluorescein pooling in multiple serous retinal detachments in the posterior pole in the same eye. (Courtesy of Ramana S. Moorthy, MD.)' No question stem or options."
+ },
+ {
+  "task_id": "p175_n79_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Two-panel image: left is a fluorescein angiogram, right is a color fundus photo, both showing a lesion temporal to the disc. 'OPHTHOQUESTIONS focus your knowledge' watermark on the lower right. No question text, no caption, no options."
+ },
+ {
+  "task_id": "p206_n13_0",
+  "type": "question",
+  "question": "35. What type of glaucoma is associated with a higher risk for post-trabeculectomy hypotony maculopathy?",
+  "options": {
+   "A": "steroid-induced glaucoma",
+   "B": "angle-recession glaucoma",
+   "C": "pigmentary glaucoma",
+   "D": "pseudoexfoliative glaucoma"
+  },
+  "answer": "C",
+  "answerEvidence": "text '40% Correct Answer' printed to the right of option C; header also states '40% of respondents answered correctly' with C. 40% in the response breakdown",
+  "explanation": "Risk factors for hypotony maculopathy include young age and myopia, both of which are typical characteristics of patients with pigmentary glaucoma. Judicious use of antimetabolites and placement of additional and/or tighter scleral flap sutures are advisable in patients with this type of glaucoma. The other types of glaucoma listed (pseudoexfoliative, angle-recession, steroid-induced) are not associated with a higher risk of hypotony maculopathy after trabeculectomy.",
+  "confidence": "high",
+  "notes": "Question-bank screenshot with per-option response percentages (A 11%, B 29%, C 40%, D 17%). A checkmark appears at the top left of the stem. Handwritten purple annotation over the 'Discussion' bar reads approximately 'hypotony maculopathy: - young age - myopia -> pigmentary glaucoma' (handwriting, partly illegible). Explanation text is highlighted in green/yellow in the source; highlighting not reproduced."
+ },
+ {
+  "task_id": "p207_n11_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Clinical photograph of a young child's face with an erythematous rash over the forehead, cheeks and perioral area; eyes obscured by a black privacy bar. 'OPHTHOQUESTIONS focus your knowledge' watermark bottom right. No question text or options; only the very top of a following letter (possibly 'A') is visible at the bottom edge."
+ },
+ {
+  "task_id": "p211_n39_0",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Bulleted reference excerpt on visual field reliability indices (fixation losses, false-positive response rate, false-negative response rate, gaze tracker), heavily highlighted in green and yellow. Top line is cut off. No question or options."
+ },
+ {
+  "task_id": "p212_n42_0",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Textbook table: 'Table 15-4 Indications for Surgical Intervention in Traumatic Hyphema', with sections for preventing optic atrophy, corneal blood staining, peripheral anterior synechiae, and hyphema in sickle cell hemoglobinopathies. 'Surgical Intervention' and 'Evidence of early corneal blood staining' highlighted in red. No question or options."
+ },
+ {
+  "task_id": "p230_n53_0",
+  "type": "question",
+  "question": "63- A mother brings in her 3-year old child with complaints of intermittent inward crossing of both eyes. You write down in your chart: \" 30 PD ET and 45 PD ET' \". The cycloplegic refraction shows +2.25 D sphere OD and +2.75 D OS. You initially prescribe the full cycloplegic refraction in a single distance lens which results in orthotropia at distance. However, you still measure 15 PD ET' when the child wears these new glasses. Which of the following pictures shows the correct glasses that should be prescribed for this child?",
+  "options": {
+   "A": "A",
+   "B": "B",
+   "C": "C",
+   "D": "D"
+  },
+  "answer": "B",
+  "answerEvidence": "explanation paragraph below the options begins with a bold 'B.' followed by the rationale",
+  "explanation": "B. This child has an esotropia which is greater at near than at distance. He also has a moderate amount of hyperopia in both eyes. This situation is typical of non-refractive accommodative esotropia where there exists a high AC/A (\"accommodative convergence to accommodation\") ratio. In addition, the esotropia at near persists despite the child wearing the full cycloplegic refraction.\n\nThe usual treatment for this condition is the prescription of bifocal glasses, where the bifocal segment is either a +2.50 or +3.00 add. In addition, the bifocal segment should be of the \"executive\" type where the line bisects the pupil. Lastly, the vertical height of the bifocal segment should not exceed that of the distance segment.",
+  "confidence": "medium",
+  "notes": "The options are literally listed as 'A.A', 'B.B', 'C.C', 'D.D' - i.e. the option text is just the letter, referring to pictures of glasses that are NOT visible in this crop. Question is therefore not answerable from this image alone without the referenced pictures. Handwritten red annotation to the right of the options reads approximately: 'high AC/C [AC/A] Et', 'Et > in Near > D', 'give Bifocal lens ->', 'Executive type' (handwriting, partly illegible). Top of image is cut off mid-sentence: 'myectomy, IO anterior transposition.' belongs to a previous item. Bottom of image is cut off with a red hand-drawn arrow continuing off-page."
+ },
+ {
+  "task_id": "p244_n3_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Flowchart/algorithm diagram (blue boxes) for management of lid defects: branches into 'Full thickness, margin involving' (Small <25% to 50%, Medium 50% to 75%, Large >75% with Upper Lid / Lower Lid sub-branches) and 'Only anterior lamellar defect' (primary closure, healing by secondary intention, skin graft, flaps). Text-heavy diagram, no question stem or answer options. Bottom of the diagram is slightly cut off."
+ },
+ {
+  "task_id": "p244_n3_1",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Reference excerpt (Wikipedia-style, with citation superscripts and blue hyperlinks) headed 'Etiology', listing factors linked to the development of punctal stenosis: congenital, idiopathic, inflammatory, mechanical, infectious, iatrogenic (topical and systemic medications), and systemic diseases. 'docetaxel' is highlighted in orange. No question or options."
+ },
+ {
+  "task_id": "p244_n3_2",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Two lines of prose only: 'In oculopharyngeal dystrophy, the presentation is later in life, around 5th to 6th decade of life. It is an autosomal dominant inherited disease. Presentation is progressive'. Sentence is cut off mid-thought at the end; a yellow-highlighted heading above is cropped off at the top. No question or options."
+ },
+ {
+  "task_id": "p244_n3_3",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Continuation fragment of prose, highlighted in red/yellow: 'dysphagia followed by muscle weakness, ptosis, and CPEO symptoms. This disease is seen in patients of French-Canadian ancestry.' Begins mid-sentence. No question or options."
+ },
+ {
+  "task_id": "p244_n3_4",
+  "type": "explanation",
+  "confidence": "medium",
+  "notes": "Reference excerpt headed 'Differential diagnosis' - a bulleted list contrasting OPMD with ocular myasthenia gravis, mitochondrial myopathy (CPEO, MNGIE), oculopharyngodistal myopathy, myotonic dystrophy, polymyositis, inclusion body myositis, autosomal dominant distal myopathy, and congenital fibrosis of the extraocular muscles (CFEOM). Text is very small/low resolution - readable but required squinting. No question or options."
+ },
+ {
+  "task_id": "p254_n55_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Textbook four-panel figure (A-D) with caption: 'Figure 5-6 Carotid-cavernous fistula. A, Carotid-cavernous fistula presenting with left proptosis and arterialization of the conjunctival and episcleral vessels. B, T1-weighted axial MRI shows an enlarged left superior ophthalmic vein (arrow). C, T1-weighted coronal MRI shows diffuse enlargement of the superior oblique and all 4 rectus muscles in the left orbit. D, External photograph after endovascular closure of the carotid-cavernous fistula. (Courtesy of Bobby S. Korn, MD, PhD.)' Parts of the caption are yellow-highlighted. Top line of preceding body text is cropped. No question or options."
+ },
+ {
+  "task_id": "p285_n1_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Histopathology photomicrograph (H&E) of a thin tissue layer with two leader lines labeled '1' and '2' pointing to structures. No caption, no question text, no answer options - the labels are unexplained within this image."
+ }
+]

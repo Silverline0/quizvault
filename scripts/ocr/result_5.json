@@ -1,0 +1,102 @@
+[
+ {
+  "task_id": "p285_n1_1",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "H&E histopathology photomicrograph of an epithelial surface with an underlying basophilic cellular lesion and stroma. No text, labels, caption, question stem or options anywhere in the image."
+ },
+ {
+  "task_id": "p285_n3_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Six-panel histopathology plate labeled A-F (H&E). Panel letters are the only text; no caption, no question, no options."
+ },
+ {
+  "task_id": "p286_n4_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Annotated histology micrograph. Visible labels only: 'Epithelium', 'Lymphatic channel', 'Substantia propria' (yellow-highlighted), 'Blood vessel'. Labels are anatomic pointers, not question text."
+ },
+ {
+  "task_id": "p293_n19_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Clinical slit-lamp/external photograph of an eye with a salmon-pink conjunctival lesion. Caption text below reads 'Figure 14-18   Conjunctival lymphoma.' No question stem or options."
+ },
+ {
+  "task_id": "p294_n69_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Textbook figure with caption: 'Figure 13-10  Epidermoid (epidermal inclusion) cyst in the dermis. The cyst lining resembles epidermis but does not contain skin appendages. The lumen contains keratin. (Courtesy of Nasreen A. Syed, MD.)'. Running head at top is cut off ('CHAPTER 13: Eyelids 243'). No question or options."
+ },
+ {
+  "task_id": "p296_n74_0",
+  "type": "unusable",
+  "confidence": "high",
+  "notes": "Image is a completely blank, uniform light-green square. No content of any kind to transcribe."
+ },
+ {
+  "task_id": "p296_n74_1",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "High-resolution close-up photograph of a green/hazel iris and pupil on a black background. Decorative/clinical image with no text, labels, question or options."
+ },
+ {
+  "task_id": "p389_n63_0",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Prose plus bulleted list, no question or options. Verbatim text: 'Pharmacologic Therapy / Antibiotics / Although multiple antibiotics display in vitro activity against Brucella species, clinical response has been demonstrated with only a limited number of agents. Drugs that display clinical activity with low relapse rates include the following:' bullets: 'Doxycycline', 'Gentamicin', 'Streptomycin', 'Rifampin', 'Trimethoprim-sulfamethoxazole (TMP-SMZ)'. Small low-resolution screenshot."
+ },
+ {
+  "task_id": "p439_n2_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Labeled orbital-apex anatomy illustration with caption. Labels: Levator palpebrae superioris muscle, Optic nerve, Superior oblique muscle, Ophthalmic artery, Medial rectus muscle, Superior rectus muscle, Superior orbital fissure, Oculomotor foramen, Lateral rectus muscle, Annulus of zinn, Inferior rectus muscle. Caption 'Figure 1-15  Origin of the extraocular muscles...' with a yellow-highlighted sentence about superior rectus and medial rectus being juxtaposed to the optic nerve sheath. No question or options."
+ },
+ {
+  "task_id": "p439_n2_1",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Textbook callout box, no question or options. Header 'INTERVENTIONS FOR A DISCONTINUOUS CAPSULORRHEXIS' with bullets: 'use of a push-pull instrument (eg, a Kuglen hook) to retract the iris and check the extent of a radial tear'; 'hydrodissection and hydrodelineation, performed gently and without excessive pressure'; 'use of \"low-flow\" phacoemulsification settings (ie, lower infusion pressure, vacuum, and aspiration flow rate) to minimize fluctuations of anterior chamber depth'; 'liberal use of OVD to prevent anterior chamber collapse'."
+ },
+ {
+  "task_id": "p440_n1_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Color fundus photograph showing diffuse retinal hemorrhages and a hyperemic/indistinct optic disc. No text, caption, question or options."
+ },
+ {
+  "task_id": "p440_n1_1",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Textbook prose excerpt, no question or options. Verbatim: 'Neovascular glaucoma / This common, severe type of secondary angle closure is characterized by anterior segment neovascularization along with a fibrovascular membrane on the surface of the iris, pupillary margin, and trabecular meshwork. It is caused by a variety of disorders that involve retinal or ocular ischemia or ocular inflammation (Table 10-2), most commonly diabetic retinopathy, central retinal vein occlusion (CRVO), branch retinal vein occlusion (BRVO), and ocular' — text is cut off mid-sentence at the bottom edge; 'central retinal vein occlusion (CRVO)' is yellow-highlighted."
+ },
+ {
+  "task_id": "p443_n1_0",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Table, not a question. 'Table 11-1  American Uveitis Society Criteria for Diagnosis of Acute Retinal Necrosis' with rows: 'One or more foci of retinal necrosis with discrete borders, located in the peripheral retina(a)' (the latter clause yellow-highlighted); 'Rapid progression in the absence of antiviral therapy'; 'Circumferential spread'; 'Occlusive vasculopathy with arteriolar involvement'; 'Prominent vitritis, anterior chamber inflammation'; 'Optic neuropathy/atrophy, scleritis, pain supportive but not required'. Footnote: 'Macular lesions do not exclude diagnosis in the presence of peripheral retinitis.'"
+ },
+ {
+  "task_id": "p446_n8_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Labeled lacrimal drainage system diagram. Labels: Punctum, Canaliculus 8-10 mm, Common canaliculus, Valve of Rosenmuller, Anterior lacrimal crest, Lacrimal sac 12-15 mm (yellow-highlighted measurement), Middle turbinate, Nasolacrimal duct 12-18 mm, Inferior turbinate, Ampulla. Bottom edge slightly cropped. No question or options."
+ },
+ {
+  "task_id": "p450_n3_0",
+  "type": "question",
+  "question": "Why do nanophthalmic eyes have increased complications in the immediate post-operative period after cataract surgery?",
+  "options": {
+   "A": "deep anterior chamber leads to endothelial damage",
+   "B": "zonular laxity leads to vitreous loss",
+   "C": "higher incidence of posterior polar cataracts leads to vitreous loss",
+   "D": "inelastic sclera leads to choroidal detachments"
+  },
+  "answer": "D",
+  "answerEvidence": "explicit text 'A: D' in blue bold immediately below the answer options, above the explanation",
+  "explanation": "Nanophthalmos describes an abnormally small eye that has normal internal organization. This condition contrasts with microphthalmos which is a small, disorganized eye.\n\nPatients with nanophthalmos have high hyperopia (e.g. +7.00-15.00 D), a short axial length (e.g. 15-20 mm), crowded anterior segments, and thick/rigid sclera. These properties lead to constriction of blood flow through scleral vessels and predispose the eye to choroidal detachments and hemorrhages.\n\nFor intraocular (mainly glaucoma) surgery, many surgeons will create prophylactic draining sclerotomies to minimize choroidal effusion formation.  Nanophthalmic eyes can also have shallow anterior chambers that can lead to a higher incidence of endothelial damage.",
+  "confidence": "high",
+  "notes": "Stem is prefixed 'Q1-' in the source; prefix omitted from the transcribed stem. Radio buttons next to all four options are unfilled - the answer comes solely from the 'A: D' text marker. Bold emphasis and pink/red highlighting in the explanation are not preserved in the plain text. A further heading beginning 'Extra' is cut off at the bottom edge of the image, so any additional content below is not captured."
+ }
+]

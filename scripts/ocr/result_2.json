@@ -1,0 +1,192 @@
+[
+ {
+  "task_id": "p073_n82_0",
+  "type": "question",
+  "question": "A 60-year old male with no past ocular history undergoes a 6-hour cardiac bypass surgery. When he awakes from surgery he is found to have hand motion vision in both eyes. Aside from his abnormal vision, sluggish pupillary function, and pupillary light-near dissociation, his exam is unremarkable (including his dilated fundus exam). What is the most likely diagnosis?",
+  "options": {
+   "A": "Posterior ischemic optic neuropathy",
+   "B": "Arteritic anterior ischemic optic neuropathy",
+   "C": "Non-arteritic anterior ischemic optic neuropathy",
+   "D": "Dorsal midbrain syndrome"
+  },
+  "answer": "A",
+  "answerEvidence": "option A rendered in green text with a green filled checkmark icon at the right of the row",
+  "explanation": "",
+  "confidence": "high",
+  "notes": "Screenshot of a question-bank app. A horizontal divider appears just below option D at the very bottom edge; if a fifth option exists it is not visible in this crop."
+ },
+ {
+  "task_id": "p075_n86_0",
+  "type": "question",
+  "question": "A 15-year-old girl brought to the emergency department by her concerned parents about her sudden onset of bilateral loss of vision. Her neurological and ophthalmic examinations are unremarkable.\n\nWhich of the following criteria will confirm the diagnosis of non-organic vision loss?",
+  "options": {
+   "A": "Abnormal proprioceptive tests, including the finger-touching test",
+   "B": "Absence of relative afferent pupillary defect",
+   "C": "No eye movement with the mirror test",
+   "D": "Eye movement with rotation of an optokinetic drum"
+  },
+  "answer": "D",
+  "answerEvidence": "hand-drawn black tick mark immediately to the right of the fourth option ('Eye movement with rotation of an optokinetic drum')",
+  "explanation": "",
+  "confidence": "high",
+  "notes": "Options are NOT lettered in the source (header reads 'CHOOSE THE CORRECT ANSWER'); letters A-D assigned by displayed top-to-bottom order."
+ },
+ {
+  "task_id": "p077_n91_0",
+  "type": "question",
+  "question": "A mother brings in her 3-year old child with complaints of intermittent inward crossing of both eyes. You write down in your chart: \" 30 PD ET and 45 PD ET' \".  The cycloplegic refraction shows +2.25 D sphere OD and +2.75 D OS.  You initially prescribe the full cycloplegic refraction in a single distance lens which results in orthotropia at distance.  However, you still measure 15 PD ET' when the child wears these new glasses.  Which of the following pictures shows the correct glasses that should be prescribed for this child?",
+  "options": {
+   "A": "A",
+   "B": "B",
+   "C": "C",
+   "D": "D"
+  },
+  "answer": "B",
+  "answerEvidence": "option row 'B. B' printed in bold green text (correct-answer highlight); a response-percentage bar also shows 76% for B, 9% A, 7% C, 7% D",
+  "explanation": "",
+  "confidence": "medium",
+  "notes": "Question refers to an embedded figure panel at top showing four pairs of spectacles labeled A (flat-top segment bifocals, small segs), B (large/executive straight-across bifocals), C (round segment bifocals), D (plain lenses, no segment). Option text is literally just the letters A/B/C/D pointing to that figure. Part of the stem is highlighted in yellow. Answer taken from the green-colored option label, not from the percentage bar."
+ },
+ {
+  "task_id": "p083_n98_0",
+  "type": "question",
+  "question": "Compared to plasma, human aqueous humor has a relative paucity of which component?",
+  "options": {
+   "A": "hydrogen ions",
+   "B": "ascorbate",
+   "C": "bicarbonate",
+   "D": "chloride ions"
+  },
+  "answer": "C",
+  "answerEvidence": "option C rendered in green text with a green filled checkmark icon at the right of the row",
+  "explanation": "",
+  "confidence": "medium",
+  "notes": "A fifth option row begins at the very bottom edge of the image but is cropped so that only the tops of a few letters are visible ('[?]'); it could not be transcribed. Options A-D and the marked answer are fully legible."
+ },
+ {
+  "task_id": "p084_n100_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Watercolor illustration of a sagittal cross-section of the globe (sclera/choroid/retina layers, lens tilted superiorly, optic nerve). No text, no question, no labels."
+ },
+ {
+  "task_id": "p088_n8_0",
+  "type": "question",
+  "question": "A 5-year-old child is referred to you for \"small pupils.\" On exam, the child's pupils are small and displaced superotemporally OU. You also note that both his crystalline lenses are subluxed. Given a tentative diagnosis of \"ectopia lentis et pupillae,\" in which direction would his lenses be displaced?",
+  "options": {
+   "A": "superonasally",
+   "B": "superotemporally",
+   "C": "inferonasally",
+   "D": "inferotemporally"
+  },
+  "answer": "C",
+  "answerEvidence": "option C rendered in green text with a green filled checkmark icon at the right of the row",
+  "explanation": "",
+  "confidence": "high",
+  "notes": "A divider line appears below option D at the bottom edge; no further option text is visible."
+ },
+ {
+  "task_id": "p091_n20_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Clinical slit-lamp/anterior-segment photograph of an eye showing a hazy cornea/lens with a whitish stellate opacity and yellow-brown material; no question text or labels."
+ },
+ {
+  "task_id": "p093_n23_0",
+  "type": "question",
+  "question": "Which of the following statements regarding fornix-based versus limbal-based trabeculectomies is true?",
+  "options": {
+   "A": "the limbal-based approach is associated with a higher rate of wound leaks compared to the fornix-based approach",
+   "B": "the fornix-based approach is technically more difficult compared to the limbal-based approach",
+   "C": "the limbal-based approach has a greater chance of producing a diffuse low bleb compared to a fornix-based approach",
+   "D": "the fornix-based approach promotes filtration of fluid more posteriorly compared to the limbal-based approach"
+  },
+  "answer": "D",
+  "answerEvidence": "explicit text 'Correct Answer:' followed by 'D' below the option list",
+  "explanation": "In fornix-based trabeculectomies, the initial conjunctival incision is actually made at the limbus (yes, this terminology typically confuses new residents being first exposed to filtering surgery). Due to better exposure at the limbus, the fornix-based approach is technically easier and can be done easily without an assistant.\n\nIn contrast, for limbal-based filters, the conjunctival incision is made 8-10 mm posterior to the limbus (i.e. in the fornix) which is technically more difficult due to poorer exposure.\n\nThere is a greater incidence of wound leaks in fornix-based filters since the edge of the wound is at the limbus. However, fornix-based filters are thought to produce lower, more diffuse blebs since the subconjunctival scar (created by the suture line) is anterior to the scleral flap.  This promotes fluid flow posterior to the flap resulting in a lower, more diffuse filtering bleb.  In contrast, the scar in limbal-based filters is posterior to the scleral flap -- therefore, these blebs are typically more focal and elevated.  The advantage of limbal-based filters is that wound closure is less prone to leaks since the suture line is far from the limbus.",
+  "confidence": "high",
+  "notes": "Explanation text carries yellow highlighter marks and bold emphasis in the source; transcribed as plain text. Each option row has a grey 'x' icon at the right (UI element, not an answer marker)."
+ },
+ {
+  "task_id": "p094_n26_0",
+  "type": "question",
+  "question": "3. A child has uncontrolled glaucoma secondary to the condition shown in the picture. If glaucoma surgery is needed, what is a particular intraoperative risk?",
+  "options": {
+   "A": "hyphema",
+   "B": "exposure of tube under conjunctiva",
+   "C": "leakage from trabeculectomy flap",
+   "D": "choroidal hemorrhage"
+  },
+  "answer": "D",
+  "answerEvidence": "text '69% Correct Answer' printed to the right of option D; header also states '69% of respondents answered correctly' with per-option tallies A. 25%, B. 0%, C. 0%, D. 69%",
+  "explanation": "Encephalofacial angiomatosis (also called Sturge-Weber syndrome) is a capillary malformation of the leptomeninges with or without ocular or facial involvement. This patient has the classic manifestations of a port-wine stain and associated glaucoma manifesting as an enlarged cornea. Encephalofacial angiomatosis glaucoma is difficult to treat. Surgery is indicated in early-onset cases and when medical treatment is inadequate. Multiple operations are typically necessary. A particular risk of glaucoma surgery in encephalofacial angiomatosis is intraoperative or postoperative exudation or hemorrhage from anomalous choroidal vessels; this complication is caused by rapid ocular decompression. The other complications (hyphema, exposure of tube under conjunctiva, leakage from trabeculectomy flap) are not particularly higher in encephalofacial angiomatosis glaucoma.",
+  "confidence": "medium",
+  "notes": "Screenshot layout is jumbled: a small thumbnail of a child's face with a facial port-wine stain and an inline broken-image URL text ('https://qas.aao.org/full/image.axd?id=5f6f7b39-b74f-4041-a496-dd5ee2f[?]4fa&t=637395002051470000') overlap option B's text. Option A is annotated '25% Your Answer' (the user's selection, not the key). Explanation is split across two panels of the screenshot; joined here."
+ },
+ {
+  "task_id": "p094_n27_0",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Photograph of a computer screen showing a lecture slide titled 'LASER PARAMETERS' with a bulleted list (Argon Laser Iridoplasty; Spot size: 200-500 micrometers; Duration: 0.2-0.5 seconds; Power 150-300 mWatt; Lens: none or Goldmann 3 mirror; Note: larger spot size and longer duration). No question or options."
+ },
+ {
+  "task_id": "p096_n32_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Clinical photograph: retroillumination/red-reflex view of a dilated pupil with transillumination defects radiating through the iris; a partial letter 'S' watermark at bottom-left. No question text."
+ },
+ {
+  "task_id": "p102_n49_0",
+  "type": "question",
+  "question": "What treatment for tuberculosis causes \"orange-red\" tears?",
+  "options": {
+   "A": "isoniazid",
+   "B": "ethambutol",
+   "C": "pyrazinamide",
+   "D": "rifampin"
+  },
+  "answer": "D",
+  "answerEvidence": "option D rendered in green text with a green filled checkmark icon at the right of the row",
+  "explanation": "",
+  "confidence": "high",
+  "notes": "A divider line appears below option D at the bottom edge; no further option text is visible."
+ },
+ {
+  "task_id": "p102_n51_0",
+  "type": "question",
+  "question": "A 32-year-old Nigerian presents with bilateral blurred vision. On examination, there are confluent yellow-white areas with associated flame-shaped hemorrhages in both eyes and perivascular sheathing and her CD4 count is 42 (normal 500-1500 cells/ul) (see image).\n\nWhich of the following is the most appropriate initial management?",
+  "options": {
+   "A": "Intravitreal acyclovir",
+   "B": "Panretinal photo",
+   "C": "Intravenous gancyclovir",
+   "D": "Intravenous methylprednisolone"
+  },
+  "answer": "C",
+  "answerEvidence": "hand-drawn black tick mark immediately to the right of the third option ('Intravenous gancyclovir')",
+  "explanation": "",
+  "confidence": "medium",
+  "notes": "Options are NOT lettered in the source (header reads 'CHOOSE THE CORRECT ANSWER'); letters A-D assigned by displayed top-to-bottom order. Option B reads literally 'Panretinal photo' in the source - the word appears truncated there, transcribed verbatim without completion. The stem includes an embedded fundus photograph showing confluent yellow-white retinal lesions with hemorrhage. Bottom option row is slightly clipped at the image edge but fully readable."
+ },
+ {
+  "task_id": "p103_n54_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Fundus photograph labeled 'A' in the lower-left corner, showing a pale/edematous posterior pole with a stellate (star-shaped) exudate pattern temporal to the disc. No question text or options."
+ },
+ {
+  "task_id": "p104_n55_0",
+  "type": "question",
+  "question": "A 45-year-old patient presents to your office with a 1-week history of idiopathic uveitis in the right eye. He is currently taking prednisolone acetate 1% OD qid. His original level of anterior chamber inflammation was graded as 3+ and his IP was 33 mmHg. On his follow-up exam today, his intraocular pressure (IP) is 28 mmHg and there is 2+ cell in the anterior chamber in his right eye. Which of the following is the most appropriate management choice?",
+  "options": {
+   "A": "decrease PF to adaily: start timolol 0.5% bid",
+   "B": "decrease PF to qdaily; start latanoprost qhs",
+   "C": "increase PF to q2 hours; start pilocarpine 1% bid",
+   "D": "increase PF to q2 hours; start brimonidine bid"
+  },
+  "answer": "D",
+  "answerEvidence": "explicit text 'Answer : D' printed below the options",
+  "explanation": "This patient's elevated IOP is not likely the result of a corticosteroid-response since he has only been taking them for 1 week. The more likely cause of this elevated IOP is inadequate suppression of inflammation; therefore, his topical corticosteroids should be increased to eliminate this residual inflammation.\n\nProstaglandin-analogs and miotics (i.e. pilocarpine) should probably be avoided in cases of active inflammation due to reports of them exacerbating inflammation and/or causing cystoid macular edema.",
+  "confidence": "medium",
+  "notes": "Stem is highlighted in yellow. Source uses 'IP' (not 'IOP') in the stem in both places - transcribed verbatim, not corrected. Option A reads literally 'adaily' (verified at 6x zoom) where option B reads 'qdaily'; the source spelling is preserved. The explanation's last line sits at the bottom edge but is fully legible."
+ }
+]

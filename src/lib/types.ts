@@ -9,6 +9,11 @@ export interface Question {
   imageUrl?: string | null;
   imageUrls?: string[];
   highYield?: boolean | null;
+  /** Promotion Exam recalls carry their exam year and section. */
+  year?: string;
+  subspecialty?: string;
+  /** Page in the source PDF, kept so a recall can be traced back. */
+  pdfPage?: number;
 }
 
 export interface QuestionSet {
@@ -18,8 +23,23 @@ export interface QuestionSet {
   file: string;
   questionCount: number;
   category?: string;
-  source?: "BCSC" | "OphthoQ";
+  source?: QuestionSource;
 }
+
+export type QuestionSource = "BCSC" | "OphthoQ" | "Promotion";
+
+/**
+ * Badge class per source. Kept beside the union so adding a source without a
+ * badge is a compile error rather than a silently mislabelled chip.
+ */
+export const SOURCE_BADGE: Record<QuestionSource, string> = {
+  BCSC: "badge-bcsc",
+  OphthoQ: "badge-ophthoq",
+  Promotion: "badge-promotion",
+};
+
+export const badgeClass = (source?: string): string =>
+  SOURCE_BADGE[source as QuestionSource] ?? "badge-neutral";
 
 export interface Category {
   id: string;

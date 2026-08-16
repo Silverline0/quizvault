@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState, useCallback, useRef } from "react";
-import { Question, Manifest, QuestionSet } from "@/lib/types";
+import { Question, Manifest, QuestionSet, badgeClass } from "@/lib/types";
 
 interface SearchResult {
   question: Question;
@@ -208,7 +208,7 @@ export default function SearchPage() {
                         </p>
                         <div className="flex items-center gap-2 mt-1">
                           <span
-                            className={`text-xs px-2 py-0.5 font-medium ${r.setInfo.source === "BCSC" ? "badge-bcsc" : "badge-ophthoq"}`}
+                            className={`text-xs px-2 py-0.5 font-medium ${badgeClass(r.setInfo.source)}`}
                           >
                             {r.setInfo.name}
                           </span>

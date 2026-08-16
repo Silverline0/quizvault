@@ -1,0 +1,172 @@
+[
+ {
+  "task_id": "p108_n62_0",
+  "type": "question",
+  "question": "You are called to see a 3-day-old child for possible neonatal conjunctivitis of both eyes. During the course of your complete eye exam, you detect a mild amount of intraretinal hemorrhages OU on dilated fundus exam. The child otherwise appears healthy and attentive. Which of the following is the most appropriate management for this child?",
+  "options": {
+   "A": "observation only",
+   "B": "hematologic workup for possible coagulation disorder",
+   "C": "imaging for other evidence of non-accidental trauma",
+   "D": "report this incident immediately to child protective services"
+  },
+  "answer": "A",
+  "answerEvidence": "option A rendered in green text with a filled green circular check mark at the right of the row",
+  "explanation": "",
+  "confidence": "high",
+  "notes": "OphthoQuestions-style screenshot. Screenshot ends just after option D at a horizontal divider line, so a further option (E) may exist below the crop; only A-D are visible."
+ },
+ {
+  "task_id": "p110_n71_0",
+  "type": "question",
+  "question": "What is the term for an extra set of eyelashes growing from the meibomian gland orifices?",
+  "options": {
+   "A": "distichiasis",
+   "B": "aberrant lashes",
+   "C": "Fuchs lashes",
+   "D": "trichiasis"
+  },
+  "answer": "A",
+  "answerEvidence": "option A rendered in green text with a filled green circular check mark at the right of the row",
+  "explanation": "",
+  "confidence": "high",
+  "notes": "Includes a clinical photo of an eyelid with the caption 'Photo courtesy of Dr. Sarah Jacobs' and an OPHTHO QUESTIONS watermark. Screenshot ends after option D at a divider line; a further option may be cut off."
+ },
+ {
+  "task_id": "p113_n82_0",
+  "type": "question",
+  "question": "A 60-year old male with no past ocular history undergoes a 6-hour cardiac bypass surgery. When he awakes from surgery he is found to have hand motion vision in both eyes. Aside from his abnormal vision, sluggish pupillary function, and pupillary light-near dissociation, his exam is unremarkable (including his dilated fundus exam). What is the most likely diagnosis?",
+  "options": {
+   "A": "Posterior ischemic optic neuropathy",
+   "B": "Arteritic anterior ischemic optic neuropathy",
+   "C": "Non-arteritic anterior ischemic optic neuropathy",
+   "D": "Dorsal midbrain syndrome"
+  },
+  "answer": "A",
+  "answerEvidence": "option A rendered in green text with a filled green circular check mark at the right of the row",
+  "explanation": "",
+  "confidence": "high",
+  "notes": "Screenshot ends after option D at a divider line; a further option may be cut off below the crop."
+ },
+ {
+  "task_id": "p114_n85_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Colour fundus photograph (dark disc/central lesion with surrounding dense reddish haemorrhage on an orange-tan fundus). No question text, options, labels, or captions of any kind."
+ },
+ {
+  "task_id": "p118_n95_0",
+  "type": "question",
+  "question": "A five-year-old underwent a biopsy of a lower lid lesion she has had since birth. Examination of the specimen confirms a keratin-filled cavity within the dermis (red arrow) lined by keratinized stratified squamous epithelium (green arrow) (see image). Which of the following is the most likely diagnosis?",
+  "options": {
+   "A": "Squamous cell papilloma",
+   "B": "Chalazion",
+   "C": "Keratoacanthoma",
+   "D": "Epidermoid cyst"
+  },
+  "answer": "D",
+  "answerEvidence": "hand-drawn black check mark (ink annotation) placed immediately to the right of the last option, 'Epidermoid cyst'",
+  "explanation": "",
+  "confidence": "medium",
+  "notes": "Options are NOT lettered in the source - they appear as an unlabelled vertical list under the header 'CHOOSE THE CORRECT ANSWER'; letters A-D were assigned by display order. Includes a histopathology image with red and green arrows. The screenshot bottom edge is immediately below the last option, so an additional option could have been cropped off."
+ },
+ {
+  "task_id": "p120_n98_0",
+  "type": "question",
+  "question": "Compared to plasma, human aqueous humor has a relative paucity of which component?",
+  "options": {
+   "A": "hydrogen ions",
+   "B": "ascorbate",
+   "C": "bicarbonate",
+   "D": "chloride ions"
+  },
+  "answer": "C",
+  "answerEvidence": "option C rendered in green text with a filled green circular check mark at the right of the row",
+  "explanation": "",
+  "confidence": "medium",
+  "notes": "A fifth option row is present at the very bottom edge but only the top few pixels of its glyphs are visible and it is illegible, so it was not transcribed. Answer marking for C is unambiguous."
+ },
+ {
+  "task_id": "p143_n17_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Two side-by-side slit-lamp close-ups of an inferior corneal/limbal region. Only accompanying text is a file-repository caption: 'No higher resolution available.' and 'Marginal_keratitis.png (473 x 173 pixels, file size: 86 KB, MIME type: image/png)'. No question, no options."
+ },
+ {
+  "task_id": "p143_n17_1",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Two side-by-side cobalt-blue slit-lamp photos showing green fluorescein staining inferiorly. Only text is 'No higher resolution available.' and 'Marginal_keratitis_after_fluorscein_staining.png (473 x 173 pixels, file size: 54 KB, MIME type: image/png)' (source spelling 'fluorscein' kept). No question, no options."
+ },
+ {
+  "task_id": "p143_n17_2",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Dark slit-lamp photograph with a slit beam across the cornea. No text, caption, question, or options anywhere in the image."
+ },
+ {
+  "task_id": "p143_n17_3",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "External/slit-lamp colour photo of an injected eye with a dense white corneal opacity/infiltrate. No text, caption, question, or options."
+ },
+ {
+  "task_id": "p144_n18_0",
+  "type": "question",
+  "question": "Infectious crystalline keratopathy has an unusual frosted branch appearance in corneal grafts. Which of the following organisms is most commonly associated with infectious crystalline keratopathy after corneal transplant?",
+  "options": {
+   "A": "Streptococcus pneumoniae",
+   "B": "Staphylococcus aureus",
+   "C": "Streptococcus viridans",
+   "D": "Staphylococcus epidermidis"
+  },
+  "answer": "C",
+  "answerEvidence": "bold text 'A:C' printed directly below the option list",
+  "explanation": "Infectious crystalline keratopathy (ICK) is characterized by white, branching stromal deposits resembling snowflakes with no or minimal inflammatory signs (e.g. redness, pain). The classic scenario is a patient who has undergone a penetrating keratoplasty (PKP) and is therefore taking chronic topical corticosteroids. The most commonly involved organism is Streptococcus viridans (an alpha-hemolytic Strep species) although other organisms can also cause this entity. Treatment initially consists of topical vancomycin, cessation of corticosteroids, and possible broad spectrum systemic antibiotic use. Cases resistant to treatment may eventually require a repeat PKP.",
+  "confidence": "high",
+  "notes": "Stem is prefixed 'Q-' in the source. Explanation text carries green/yellow/red highlighter marks (kept as plain text). The top of a following question ('Q- What is the most ... of infectious crystalline keratopathy?') is partially visible at the very bottom edge and was not transcribed."
+ },
+ {
+  "task_id": "p144_n18_1",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Slit-lamp photograph with figure caption: 'Figure 1: Slit lamp photograph demonstrating Infectious crystalline keratopathy within a corneal graft. A white crystalline branching opacity located near a peripheral suture (arrow) with little associated inflammatory infiltrate can be identified.' No question or options."
+ },
+ {
+  "task_id": "p146_n9_0",
+  "type": "question",
+  "question": "What is the most common quadrant for scleral rupture in an open globe caused by blunt trauma?",
+  "options": {
+   "A": "inferonasal",
+   "B": "inferotemporal",
+   "C": "superonasal",
+   "D": "superotemporal"
+  },
+  "answer": "C",
+  "answerEvidence": "bold 'C.' beginning the explanation paragraph immediately below the option list",
+  "explanation": "C. According to the BCSC Fundamentals book, the most common site of scleral rupture following blunt trauma is the superonasal quadrant near the limbus.\n\nOther sites that are common for scleral rupture following blunt trauma are:\n\n- In a circumferential arc parallel to the corneal limbus in the quadrant opposite the side of impact\n- At the insertion of the rectus muscles\n- At the equator of the globe",
+  "confidence": "high",
+  "notes": "Question is numbered 127 in the source. Explanation may continue below the bottom edge of the crop."
+ },
+ {
+  "task_id": "p146_n9_1",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Prose explanation block only - no stem, no options. Begins 'C. This is relevant for patients who have sustained blunt trauma to the eyes...' and covers scleral thickness (0.3 mm posterior to recti insertions, 1.0 mm around the optic nerve head, 0.4-0.5 mm at the equator, 0.6 mm anterior to muscle insertions) plus a 'Comments:' mnemonic. Content matches question 126 (thinnest part of the sclera), which appears in sibling image p146_c06a96a3c7.jpg."
+ },
+ {
+  "task_id": "p146_n9_2",
+  "type": "question",
+  "question": "Where is the thinnest part of the sclera?",
+  "options": {
+   "A": "1 mm anterior to the extraocular muscle insertions",
+   "B": "2 mm anterior to the extraocular muscle insertions",
+   "C": "just posterior to the extraocular muscle insertions",
+   "D": "at the extraocular muscle insertions"
+  },
+  "answer": null,
+  "answerEvidence": "none visible",
+  "explanation": "",
+  "confidence": "high",
+  "notes": "Question is numbered 126 in the source. No answer marker anywhere in this image - the area below the options is blank white. The sibling image p146_423433b374.jpg contains an explanation block that opens with a bold 'C.' and discusses scleral thickness, but that marker is not present in this image, so answer left null."
+ }
+]

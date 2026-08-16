@@ -1,0 +1,212 @@
+[
+ {
+  "task_id": "p002_n2_0",
+  "type": "question",
+  "question": "A 26-year-old man undergoes uneventful primary LASIK for simple myopia OU. On post-operative day 1, his uncorrected visual acuity is 20/20- OU, his slit-lamp exam is unremarkable, and the patient states that he has only a mild foreign body sensation. He calls your office on post-operative day 3 complaining of increased pain and light sensitivity. Which of the following would be evidence that he is experiencing infectious keratitis rather than diffuse lamellar keratitis (DLK)?",
+  "options": {
+   "A": "His timing of developing acute pain and photophobia",
+   "B": "The inflammation is primarily confined to the flap interface",
+   "C": "The disease process is more intense at the periphery and decreases toward the center",
+   "D": "More diffuse (rather than focal) inflammation around the flap periphery"
+  },
+  "answer": "A",
+  "answerEvidence": "a solitary letter 'A' printed at the far left below a horizontal rule beneath the options; no 'Correct Answer' label is visible",
+  "explanation": "",
+  "confidence": "low",
+  "notes": "Photograph of a screen (glare visible); stem is hand-highlighted in pink/orange. Each option has a grey 'X' icon (the question-bank strike-out control, not an answer marker) - none of the options is circled or highlighted. The lone 'A' below the divider is the only candidate answer marker and the image is cut off just below it, so the answer needs human verification."
+ },
+ {
+  "task_id": "p022_n57_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Color fundus photograph labeled 'A' in the lower-left corner: hyperemic optic disc with blurred margins, and a yellow-white radiating/star-shaped lesion temporal to the disc. No question text, options, or caption present."
+ },
+ {
+  "task_id": "p035_n90_0",
+  "type": "question",
+  "question": "What is the term for an extra set of eyelashes growing from the meibomian gland orifices?",
+  "options": {
+   "A": "distichiasis",
+   "B": "aberrant lashes",
+   "C": "Fuchs lashes",
+   "D": "trichiasis"
+  },
+  "answer": "A",
+  "answerEvidence": "option A is rendered in green text with a green circled checkmark icon to its right",
+  "explanation": "",
+  "confidence": "high",
+  "notes": "Question includes an external eye photograph (OPHTHO QUESTIONS watermark) with the caption 'Photo courtesy of Dr. Sarah Jacobs'. A partial page marker '71-' is printed in the left margin outside the question card."
+ },
+ {
+  "task_id": "p047_n11_0",
+  "type": "question",
+  "question": "You have just completed the capsulorhexis of your cataract surgery when the eye suddenly becomes tense and you lose the red reflex.  The lens starts to move anteriorly.  What is the next thing that you should do?",
+  "options": {
+   "A": "Finish nuclear removal as quickly as you can",
+   "B": "Inject balanced salt solution to fill the anterior chamber",
+   "C": "Inject viscoelastic, put finger over eye, and then close the wound with a suture",
+   "D": "Perform posterior sclerotomies and flush out anterior chamber"
+  },
+  "answer": "C",
+  "answerEvidence": "bold text 'Correct Answer: C' printed below the options",
+  "explanation": "This patient is experiencing a suprachoroidal hemorrhage (expulsive hemorrhage).  Recognizing this condition early is crucial. The wound should be closed with a suture as quickly as possible.  While awaiting the suture from the scrub tech, you can fill the anterior chamber with viscoelastic.  These maneuvers prevent intraocular contents from being expulsed.",
+  "confidence": "high",
+  "notes": "Item is numbered '5.' in the source. Options B, C and D have faint grey highlighting over parts of the text (source formatting artifact, not an answer marker)."
+ },
+ {
+  "task_id": "p047_n12_0",
+  "type": "question",
+  "question": "A 50-year-old man presents to the clinic complaining of significant irritation of the eyes. He says he doesn't usually use drops of any kind but often has redness and irritation of the eyes, especially when it's windy outside.\n\nWhich of the following tests will assess both basic and reflex tear production in this patient?",
+  "options": {
+   "A": "Schirmer I",
+   "B": "Tear film break up time",
+   "C": "Dye disappearance test",
+   "D": "Schirmer II"
+  },
+  "answer": "A",
+  "answerEvidence": "a hand-drawn black checkmark next to the first option, 'Schirmer I'",
+  "explanation": "",
+  "confidence": "high",
+  "notes": "Options carry no letters in the source (header reads 'CHOOSE THE CORRECT ANSWER'); letters A-D assigned by display order. The checkmark sits slightly above the 'Schirmer I' baseline but is clearly on that row."
+ },
+ {
+  "task_id": "p047_n13_0",
+  "type": "question",
+  "question": "Which of the following organisms has the capacity to cause keratitis in the presence of intact ocular defenses?",
+  "options": {
+   "A": "Pseudomonas aeruginosa",
+   "B": "Staphylococcus aureus",
+   "C": "Hemophilus influenzae",
+   "D": "Streptococcus epidermidis"
+  },
+  "answer": "C",
+  "answerEvidence": "a hand-drawn black checkmark immediately to the right of the third option, 'Hemophilus influenzae'",
+  "explanation": "",
+  "confidence": "high",
+  "notes": "Options carry no letters in the source ('CHOOSE THE CORRECT ANSWER' header); letters A-D assigned by display order. Source spellings kept verbatim ('Hemophilus influenzae', 'Streptococcus epidermidis')."
+ },
+ {
+  "task_id": "p050_n21_0",
+  "type": "question",
+  "question": "Which of the following statements regarding fornix-based versus limbal-based trabeculectomies is true?",
+  "options": {
+   "A": "the limbal-based approach is associated with a higher rate of wound leaks compared to the fornix-based approach",
+   "B": "the fornix-based approach is technically more difficult compared to the limbal-based approach",
+   "C": "the limbal-based approach has a greater chance of producing a diffuse low bleb compared to a fornix-based approach",
+   "D": "the fornix-based approach promotes filtration of fluid more posteriorly compared to the limbal-based approach"
+  },
+  "answer": "D",
+  "answerEvidence": "bold label 'Correct Answer:' followed by 'D' on the next line, below the options",
+  "explanation": "In fornix-based trabeculectomies, the initial conjunctival incision is actually made at the limbus (yes, this terminology typically confuses new residents being first exposed to filtering surgery). Due to better exposure at the limbus, the fornix-based approach is technically easier and can be done easily without an assistant.\n\nIn contrast, for limbal-based filters, the conjunctival incision is made 8-10 mm posterior to the limbus (i.e. in the fornix) which is technically more difficult due to poorer exposure.\n\nThere is a greater incidence of wound leaks in fornix-based filters since the edge of the wound is at the limbus. However, fornix-based filters are thought to produce lower, more diffuse blebs since the subconjunctival scar (created by the suture line) is anterior to the scleral flap.  This promotes fluid flow posterior to the flap resulting in a lower, more diffuse filtering bleb.  In contrast, the scar in limbal-based filters is posterior to the scleral flap -- therefore, these blebs are typically more focal and elevated.  The advantage of limbal-based filters is that wound closure is less prone to leaks since the suture line is far from the limbus.",
+  "confidence": "high",
+  "notes": "Explanation text has yellow hand-highlighting over several phrases (does not change the wording). Each option shows a grey 'X' strike-out icon (UI control, not an answer marker). Explanation may continue below the bottom edge of the crop."
+ },
+ {
+  "task_id": "p052_n31_0",
+  "type": "question",
+  "question": "A 44-year-old man presents to the emergency room with right eye decreased vision following a motor vehicle accident in which he suffered blunt trauma to his right eye. On examination his IOP is 60mmHg OD, 18mmHg OS. Fundoscopic exam is significant for a vitreous hemorrhage. Paracentesis was performed, draining 0.4 ml of fluid from the anterior chamber, which contained cellular debris and macrophages leading to eventual buildup in the trabecular network.\n\nWhich of the following types of glaucoma is the most likely diagnosis in this case?",
+  "options": {
+   "A": "Hemosiderotic",
+   "B": "Ghost cell",
+   "C": "Neovascular",
+   "D": "Hemolytic"
+  },
+  "answer": "D",
+  "answerEvidence": "a hand-drawn black checkmark to the right of the fourth option, 'Hemolytic'",
+  "explanation": "",
+  "confidence": "high",
+  "notes": "Options carry no letters in the source ('CHOOSE THE CORRECT ANSWER' header); letters A-D assigned by display order."
+ },
+ {
+  "task_id": "p053_n32_0",
+  "type": "question",
+  "question": "A 45-year-old man presents with acute severe pain in the left eye.  His intraocular pressure is 50 mmHg OS and 16 mmHg OD. Slit-lamp exam OS shows a shallow anterior chamber with a subluxated lens that appears to be occluding the pupil.\n\nWhich of the following procedures is most appropriate for this patient in the clinic?",
+  "options": {
+   "A": "1 laser peripheral iridotomy (PI) located at 6 o'clock",
+   "B": "2 laser peripheral PI 90 degrees away from each other",
+   "C": "1 laser PI located at 12 o'clock",
+   "D": "2 laser peripheral PI 180 degrees apart from each other"
+  },
+  "answer": "D",
+  "answerEvidence": "a hand-drawn black checkmark to the right of the fourth option, '2 laser peripheral PI 180 degrees apart from each other'",
+  "explanation": "",
+  "confidence": "high",
+  "notes": "Options carry no letters in the source ('CHOOSE THE CORRECT ANSWER' header); letters A-D assigned by display order. Small screenshot, text is fine but legible."
+ },
+ {
+  "task_id": "p056_n40_0",
+  "type": "question",
+  "question": "A 32-year-old Nigerian presents with bilateral blurred vision. On examination, there are confluent yellow-white areas with associated flame-shaped hemorrhages in both eyes and perivascular sheathing and her CD4 count is 42 (normal 500-1500 cells/ul) (see image).\n\nWhich of the following is the most appropriate initial management?",
+  "options": {
+   "A": "Intravitreal acyclovir",
+   "B": "Panretinal photo",
+   "C": "Intravenous gancyclovir",
+   "D": "Intravenous methylprednisolone"
+  },
+  "answer": "C",
+  "answerEvidence": "a hand-drawn black checkmark to the right of the third option, 'Intravenous gancyclovir'",
+  "explanation": "",
+  "confidence": "high",
+  "notes": "Includes an embedded fundus photograph showing confluent yellow-white retinal lesions with hemorrhage. Options carry no letters in the source; letters A-D assigned by display order. Option B reads 'Panretinal photo' - truncated in the source itself; transcribed as shown. Source spelling 'gancyclovir' kept verbatim."
+ },
+ {
+  "task_id": "p056_n41_0",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Color fundus photograph labeled 'A' in the lower-left corner: hyperemic/swollen optic disc with a yellow-white radiating star-shaped lesion temporal to the disc. No question text or options. Appears to be the same photograph as task p022_n57_0, cropped slightly differently."
+ },
+ {
+  "task_id": "p061_n50_0",
+  "type": "question",
+  "question": "A 32-year-old woman presents with ocular pain and photophobia for 1 week. Her visual acuity is 20/30 OU, and IOP is 50 mm Hg OU. Slit-lamp findings are presented below. (see image).\n\nWhat is the most likely etiology of this patient's condition?",
+  "options": {
+   "A": "HLA-B27 related uveitis",
+   "B": "Fuch's heteromatic iridocyclitis",
+   "C": "Herpes uveitis",
+   "D": "Sarcoidosis"
+  },
+  "answer": "C",
+  "answerEvidence": "a hand-drawn black checkmark to the right of the third option, 'Herpes uveitis'",
+  "explanation": "",
+  "confidence": "medium",
+  "notes": "DISPUTED MARKING: a handwritten Arabic annotation in blue ink sits beside the options reading 'ع الغالب هذي غلط، !؟' (roughly 'this is probably wrong, ?!'), i.e. the annotator questions the checkmarked answer. The checkmark on 'Herpes uveitis' is the only answer marker present. Includes a two-panel slit-lamp image (diffuse and slit view) with arrows pointing to pigmented keratic precipitates. Options carry no letters in the source; letters A-D assigned by display order. Source spelling 'Fuch's heteromatic iridocyclitis' kept verbatim."
+ },
+ {
+  "task_id": "p062_n52_0",
+  "type": "question",
+  "question": "A 32-year-old woman reports one week of floaters in her left eye. She denies flashes of light or sudden trauma. On examination, the ophthalmologist notices a mild anterior chamber reaction and peripheral snowballs and snowbanks in the affected eye. What tests would be most appropriate to order?",
+  "options": {
+   "A": "HLA-B27, RPR, and magnetic resonance imaging (MRI)",
+   "B": "magnetic resonance imaging (MRI), Toxoplasma IgG and IgM, and Lyme titers",
+   "C": "Toxoplasma IgG and IgM, serum angiotensin converting enzyme (ACE), and rapid plasma reagin (RPR)",
+   "D": "Lyme titers, MRI, and RPR"
+  },
+  "answer": "D",
+  "answerEvidence": "below a horizontal rule under the options, the line 'D. Lyme titers, MRI, and RPR not C' is repeated as an answer annotation",
+  "explanation": "The findings noted suggest pars planitis.\nThe differential diagnosis for this includes sarcoidosis, syphilis, toxocariasis, lyme disease, multiple sclerosis, and tuberculosis.\n\nToxoplasmosis does not cause pars planitis, nor does HLA-B27-associated uveitis.",
+  "confidence": "medium",
+  "notes": "Answer is not labeled 'Correct Answer'; it is the option-D line repeated below a divider with the trailing words 'not C'. Explanation is a bullet list (one bullet is empty in the source) with colored/bold emphasis; the final bullet is in blue. Parts of the stem and explanation are colored red/bold in the source."
+ },
+ {
+  "task_id": "p063_n54_0",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Scanned textbook excerpt headed 'Treatment of Globe Retraction' discussing rectus muscle recession in Duane retraction syndrome. No question stem or answer options present. A cut-off line of text is visible at the very top edge."
+ },
+ {
+  "task_id": "p064_n56_0",
+  "type": "question",
+  "question": "You are called to see a 3-day-old child for possible neonatal conjunctivitis of both eyes. During the course of your complete eye exam, you detect a mild amount of intraretinal hemorrhages OU on dilated fundus exam. The child otherwise appears healthy and attentive. Which of the following is the most appropriate management for this child?",
+  "options": {
+   "A": "observation only",
+   "B": "hematologic workup for possible coagulation disorder",
+   "C": "imaging for other evidence of non-accidental trauma",
+   "D": "report this incident immediately to child protective services"
+  },
+  "answer": "A",
+  "answerEvidence": "option A is rendered in green text with a green circled checkmark icon to its right",
+  "explanation": "",
+  "confidence": "high",
+  "notes": "Mobile/narrow screenshot with a scrollbar on the right; content below option D is cut off (no explanation visible)."
+ }
+]

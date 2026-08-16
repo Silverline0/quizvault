@@ -1,0 +1,1741 @@
+[
+ {
+  "id": 1,
+  "source": "promotion-2017",
+  "question": "A case of Fuch's dystrophy, asking which of the following is true?",
+  "options": {
+   "A": "Male = Female",
+   "B": "AR",
+   "C": "If thickness of stroma increased more than 10%, patient will develop corneal edema."
+  },
+  "correctAnswer": "C",
+  "explanation": "- A is wrong because it is more in post-menopausal women o The classic history for Fuchs' endothelial dystrophy is a patient, more commonly a woman, in the fourth to fifth decade of life, with symptoms of reduced or fluctuating vision, glare, or in some cases recurrent foreign body sensation. o Patients classically experience morning blurry vision, as evaporation at the corneal surface is unable to occur overnight with eyelids closed, and the cornea swells during the night. Patients may have a family history of a corneal transplantation in one or more family members. - B is wrong because Fuchs' dystrophy is often inherited in an autosomal dominant manner. - C is closest to be true although I didn't find any source with this statement o The most common signs of Fuchs' Dystrophy include: Guttata on Descemet's membrane: the guttata tend to be central and slowly become more prominent peripherally Stromal edema; Endothelial folds; Epithelial microcysts, Epithelial bullae, Sub-epithelial fibrosis; Stromal haze and scar formation; Vascular ingrowth into the cornea",
+  "year": "2017",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 300
+ },
+ {
+  "id": 2,
+  "source": "promotion-2017",
+  "question": "What is the cause of a shield ulcer?",
+  "options": {
+   "A": "Giant papillae",
+   "B": "Trauma"
+  },
+  "correctAnswer": "A",
+  "explanation": "- In VKC: the allergic entity typically occurs in children within the first 2 decades of life during the spring or fall. - Classic ocular signs include: (1) giant papillary conjunctivitis; (2) \"Horner- Trantas dots\" which are jellylike limbal nodules representing degenerated eosinophils; and a (3) \"shield ulcer\" which is a corneal epithelial defect involving the upper half of the cornea. - The palpebral form of vernal has giant papillae. - The limbal form of vernal has Horner- Trantas dots. - Mast cell stabilizers take at least 2 weeks to reach effect. - The exact cause of shield ulcer in VKC is not fully understood, but it is believed to be related to the mechanical trauma caused by the giant papillae on the upper tarsal conjunctiva, which rub against the cornea and damage the epithelium. - Another possible cause is the toxic effect of the inflammatory mediators and enzymes released by the eosinophils and mast cells that infiltrate the cornea in VKC. - A third possible cause is the secondary infection by bacteria or fungi that can colonize the ulcerated area and worsen the inflammation. - According to AAO2023: Corneal epithelial damage resulting from constant rubbing by superior tarsal giant papillae and cytotoxic agents secreted by eosinophils (major basic protein and eosinophil cationic protein) may lead to the formation of oval-shaped noninfectious ulcers, so-called shield ulcers, in the superior or central cornea.",
+  "year": "2017",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 301,
+  "imageUrl": "/images/promotion/p301_28a4ab65cc.png"
+ },
+ {
+  "id": 3,
+  "source": "promotion-2017",
+  "question": "A 38 yrs old presented with infiltrate near limbus associated with pain and photophobia, asking what is the diagnosis?",
+  "options": {
+   "A": "Rosacea acne",
+   "B": "Rheumatoid arthritis"
+  },
+  "correctAnswer": "A",
+  "explanation": "Although incomplete question with no pic and other choices - It could be infected pinguicula or PUK or marginal keratitis, but I think it is more toward phylectenular keratoconjunctivitis - Phlyctenular keratoconjunctivitis is postulated to occur secondary to an allergic, hypersensitivity reaction at the cornea or conjunctiva, following re-exposure to an infectious antigen that the host has been previously sensitized to. - Antigens of Staphylococcus aureus and Mycobacterium tuberculosis are most commonly associated. - Phlyctenular keratoconjunctivitis may have an association with ocular rosacea, a skin condition that may have a similar underlying type IV hypersensitivity origin. Reference: Eyewiki",
+  "year": "2017",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 301
+ },
+ {
+  "id": 4,
+  "source": "promotion-2017",
+  "question": "What is the name of the iron deposition at the head of pterygium?",
+  "options": {
+   "A": "Ferry line",
+   "B": "Stocker busacca"
+  },
+  "correctAnswer": "B",
+  "explanation": "- With respect to its associated pterygium, where is the Stocker line found? Just anterior to the leading edge of the pterygium - Is the presence of a Stocker line an indication for pterygium removal? No-just the opposite. A Stocker line forms when the pterygium is stable; i.e., it indicates a lack of growth. Reference: Very informative file from AAO: https://www.aao.org/Assets/aedd828b-faef-",
+  "year": "2017",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 302,
+  "imageUrl": "/images/promotion/p302_eb180ce4d1.png",
+  "imageUrls": [
+   "/images/promotion/p302_f5e4c032a7.png"
+  ]
+ },
+ {
+  "id": 5,
+  "source": "promotion-2017",
+  "question": "Picture of eye showing conjunctival mass inferonasal red in color s/p strabismus sx, asking what is the possible diagnosis?",
+  "options": {
+   "A": "Inclusion cyst",
+   "B": "Pyogenic granuloma"
+  },
+  "correctAnswer": "B",
+  "explanation": "Reference: OphthoQ",
+  "year": "2017",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 302,
+  "imageUrl": "/images/promotion/p303_ba27caf3a5.png"
+ },
+ {
+  "id": 6,
+  "source": "promotion-2017",
+  "question": "A given picture of a prolapsed iris, asking what is the initial step to do?",
+  "options": {
+   "A": "Eye shield",
+   "B": "Call anesthesia for pre-op assessment",
+   "C": "Antibiotics",
+   "D": "NPO"
+  },
+  "correctAnswer": "A",
+  "explanation": "Once a ruptured globe is diagnosed, further examination should be deferred until the time of surgical repair in the operating room. This is to avoid placing any pressure on the globe and risking extrusion of intraocular contents. Diagnosis should be made by penlight, indirect ophthalmoscope, or, if possible, slit lamp examination (with minimal manipulation). Once the diagnosis is made, the following measures should be taken:",
+  "year": "2017",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 303
+ },
+ {
+  "id": 7,
+  "source": "promotion-2017",
+  "question": "A histopathologic picture of corneal layers, k reading was high, which of the following would be stained:",
+  "options": {
+   "A": "Iron",
+   "B": "Calcium",
+   "C": "Amyloid"
+  },
+  "correctAnswer": "A",
+  "explanation": "There is no attached histopathology picture or pentacam, maybe they meant keratoconnus Keratoconus is characterized by preferential inferior steepening with I-S values above 1.4 and extremely high Kmax value (more than 50 D) One of the early KC signs is: Fleischer ring, an iron deposit often present within the epithelium around the base of the cone. It is brown in color and best visualized with a cobalt blue filter Now to test your knowledge, which stain is used in iron pigmentation? Yes you are right it is Prussian blue (it stains focal intraepithelial iron deposition (Fleischer ring)) OphthoQ; https://www.aao.org/education/image/keratoconus-27 Postoperative endophthalmitis is the most frequent category, accounting for more than 70% of all cases.; Post cataract [phaco] surgery endophthalmitis is 0.05 to 0.1% (1:1000 - 2000); In the question, the patient started to have these symptoms 8 weeks post op which indicates chronic endophthalmitis type (cut off is 6 weeks, below is acute, more is chronic); Chronic type is mostly caused by Propionibacterium acnes, and associated with: Granulomatous uveitis with large precipitates on cornea or IOL o White intracapsular plaque with P. acnes o; Treatment: a combination of removal or exchange of the IOL, total capsulectomy, vitrectomy and intravitreal vancomycin",
+  "year": "2017",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 304
+ },
+ {
+  "id": 8,
+  "source": "promotion-2017",
+  "question": "A case of MK (central ulcer with feathery margin), asking what is the best next step?",
+  "options": {
+   "A": "KOH, and giemsa stain",
+   "B": "KOH, giemsa stain, and natamycin 5%",
+   "C": "Natamycin 5%",
+   "D": "Topical antibiotic"
+  },
+  "correctAnswer": "A",
+  "explanation": "- This is a mycotic (fungal) keratitis not MK according to the mentioned features - In warmer climates the rule is that the most common organisms are filamentous fungi, like Fusarium spp and Aspergillus spp. with a strong relationship to trauma. - With filamentary fungi, the corneal lesions have a white/gray infiltrate with feathery borders. There might be satellite lesions with a hypopyon and conjunctival injection as well as purulent secretions. Ulcers caused by yeast are plaque-like and slightly more defined, similar to bacterial keratitis. - For a definitive diagnosis, scrapings taken from deep within the lesion should be made and inoculated in Sabouraud agar. The shortcoming is that it can take up to 3 weeks to grow and identify the organism. For a faster result, smears with special stains such as Gomori, PAS, acridine orange, calcofluor white or KOH should be performed. The drawback is that not all laboratories have these stains available, so, again we might need to rely on the patient's evolution and the physician's clinical acumen. If all labs and cultures are negative, corneal biopsy should be considered to obtain a specimen. - The following is my summary from the BSC2022 microbiology lecture: Reference: https://eyewiki.aao.org/Fungal_Keratitis BSC2022 lecture",
+  "year": "2017",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 304,
+  "imageUrl": "/images/promotion/p305_74c3d265aa.png"
+ },
+ {
+  "id": 9,
+  "source": "promotion-2017",
+  "question": "After an attack of VZV 2 months ago, a patient presented complaining of redness, photophobia, decrease vision, and blurry vision of the same involved eye. The examination showed a disciform lesion with vascularization and an intact epithelial defect. What medication you would start the patient on?",
+  "options": {
+   "A": "Prednisolone acetate",
+   "B": "Trifluridine"
+  },
+  "correctAnswer": "A",
+  "explanation": "- Varicella-zoster virus (VZV) causes both chickenpox (varicella) and shingles (herpes zoster). - After an episode of chickenpox, the virus travels in a retrograde manner to the dorsal root and cranial nerve sensory ganglia, where it may remain dormant for decades, with reactivation thought to occur after VZV-specific cell-mediated immunity has faded. - Vesicles involving the tip or side of the nose precede the development of ophthalmic herpes zoster (Hutchinson sign). - A prodromal phase precedes the appearance of the rash. It lasts 3-5 days and is characterized by tiredness, fever, malaise and headache. - Within 24 hours, groups of vesicles appear and these become confluent over 2-4 days. - The vesicles often pass through a pustular phase before they crust and dry after 2-3 weeks. - Acute epithelial keratitis develops in over 50% of patients within 2 days of the onset of the rash and usually resolves spontaneously within a few days. Dendritic lesions are smaller and finer than herpes simplex dendrites and have tapered ends without terminal bulbs - Nummular keratitis usually develops at the site of epithelial esions about 10 days after the onset of the rash. They are fine granular subepithelial deposits surrounded by a halo of stromal haze. - Stromal (interstitial) keratitis develops 3 weeks (in 5%) after the onset of the rash and significant scarring can occur. - Disciform keratitis (immune-mediated endotheliitis) is less common than with herpes simplex infection but may lead to corneal decompensation. Treatment is with topical steroids. Reference: - Kanski, Chapter 7, P227",
+  "year": "2017",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 305
+ },
+ {
+  "id": 10,
+  "source": "promotion-2017",
+  "question": "What is the most …. For PKP poor prognosis?",
+  "options": {
+   "A": "Superficial corneal vascularization",
+   "B": "Previous graft rejection of other eye"
+  },
+  "correctAnswer": "B",
+  "explanation": "No explanation was provided in the source document. Actually I didn't find much resources mentioning exactly what are the most poor prognostic factors for PKP. For penetrating keratoplasty (PKP), risk factors for rejection include: Preoperative inflammation; Corneal neovascularization (> 2 quadrants) *deep stromal neovascularization; Young recipient age; Iris synechiae to the graft margin; Large grafts; History of inflammatory disease; Prior ocular surgery; Loose sutures; Prior graft rejection; Prior use of glaucoma medications or surgery",
+  "year": "2017",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 306
+ },
+ {
+  "id": 11,
+  "source": "promotion-2017",
+  "question": "A picture of a sup-nasal subluxated lens, asking what the effect of this is subluxated lens:",
+  "options": {
+   "A": "Induced myopia",
+   "B": "Hyperopia",
+   "C": "Emmetropia"
+  },
+  "correctAnswer": "A",
+  "explanation": "Another correct answer is astigmatism - A sublaxated lens can cause astigmatism or myopia depending on the degree and direction of the displacement. - A sublaxated lens can induce irregular astigmatism due to the tilt or decentration of the lens, which creates optical aberrations and changes the shape of the optical interfaces. - The power of the lens can be increased by osmotic changes, and changes in lens position or shape (anterior lens dislocation). - A sublaxated lens can also induce myopia if the lens moves forward or backward, which changes the effective power of the eye and shifts the focal point in front of the retina. Reference: Eyewiki",
+  "year": "2017",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 308
+ },
+ {
+  "id": 12,
+  "source": "promotion-2017",
+  "question": "Picture attached showing a disc with NVD, asking what is the possible diagnosis?",
+  "options": {
+   "A": "High risk PDR",
+   "B": "Moderate DR",
+   "C": "Advanced DR"
+  },
+  "correctAnswer": "A",
+  "explanation": "If it meets the criteria of severe PDR with high risk features I adopted this drawing from ophthoQ based on An International Clinical Disease Severity Scale for diabetic retinopathy Reference: OphthoQ",
+  "year": "2017",
+  "subspecialty": "Retina",
+  "pdfPage": 309,
+  "imageUrl": "/images/promotion/p309_415e7d93b1.png"
+ },
+ {
+  "id": 13,
+  "source": "promotion-2017",
+  "question": "NSAID would be most useful in which case (Note: they didn't specify in the question whether it is drops or oral treatment)?",
+  "options": {
+   "A": "Intermediate uveitis",
+   "B": "Chronic anterior uveitis",
+   "C": "CME"
+  },
+  "correctAnswer": "C",
+  "explanation": "- NSAIDS - Topical or systemic indomethacin inhibits cyclooxygenase enzyme that decreases the production of prostaglandins. - Ketorolac tromethamine 0.5%, indomethacin 1%, nepafenac 0.1%, bromfenac 0.07%, and diclofenac 1% are used postoperatively for aphakic or pseudophakic CME - As a primary treatment modality for ocular inflammatory diseases, NSAIDSs are generally ineffective in both local and systemic formulations; however, an exception might be some cases of non-necrotizing anterior scleritis. - NSAIDs might also provide some utility as an adjunct to other forms of therapy, such as the use of topical NSAIDs in the treatment of macular edema. - The following is taken from article published in 2005 ( so some information might be outdated) - Regarding intermediate uveitis: Reference: - https://eyewiki.aao.org/Cystoid_Macular_Edema - https://eyewiki.aao.org/Treatment_of_Uveitis",
+  "year": "2017",
+  "subspecialty": "Retina",
+  "pdfPage": 309,
+  "imageUrl": "/images/promotion/p310_99e75cc0ed.png",
+  "imageUrls": [
+   "/images/promotion/p310_62b97eecdf.png",
+   "/images/promotion/p310_3c51030e31.png"
+  ]
+ },
+ {
+  "id": 14,
+  "source": "promotion-2017",
+  "question": "A Case of active Fuchs Heterochromic Iridocyclitis (Iris atrophy, mild cells, flares). The patient wants to do a cataract surgery, what you should discuss with the patient regarding the Post op complications?",
+  "options": {
+   "A": "Hyphema",
+   "B": "Risk of post op inflammation",
+   "C": "Zonular laxity"
+  },
+  "correctAnswer": "A",
+  "explanation": "- Fuchs uveitis syndrome (formerly Fuchs heterochromic iridocyclitis) is a relatively rare, insidious, and chronic form of uveitis that is typically unilateral. - There is no race or sex predilection, and it often manifests in young to middle adulthood. - It is characterized by iris heterochromia, low-grade anterior chamber inflammation, posterior subcapsular cataracts, and IOP elevation. The heterochromia is caused by loss of iris pigment in the affected eye, which is usually hypochromic in dark irides and hyperchromic in light irides. - The low-grade inflammation is often accompanied by small, stellate, pancorneal KPs. - Despite the low-grade inflammation, these patients are classically asymptomatic and present with a nonhyperemic eye. - Fuchs uveitis syndrome has variously been associated with toxoplasmosis, CMV, herpes simplex, and rubella - Secondary OAG occurs in approximately 15% of patients with this disease. - Gonioscopic examination reveals multiple fine vessels that cross the trabecular meshwork. These vessels are usually not accompanied by a fibrous membrane and typically do not result in PAS formation and secondary angle closure. - The vessels are fragile and may cause an anterior chamber hemorrhage, either spontaneously or resulting from trauma. A classic finding is anterior chamber hemorrhage after a paracentesis during intraocular surgery (Amsler sign). - Treatment of Fuchs uveitis syndrome is directed at controlling the IOP with topical ocular hypotensive medications. IOP control may be difficult, and the IOP does not necessarily correlate with the degree of inflammation. Corticosteroids are generally not effective in treating the low-grade chronic inflammation, and their use can elevate the IOP. Reference: AAO2023 Glaucoma P142",
+  "year": "2017",
+  "subspecialty": "Uveitis",
+  "pdfPage": 314
+ },
+ {
+  "id": 15,
+  "source": "promotion-2017",
+  "question": "What do JIA present with?",
+  "options": {
+   "A": "Posterior synechia",
+   "B": "Hypopyon",
+   "C": "Retinal vasculitis",
+   "D": "Mutton fat KPs"
+  },
+  "correctAnswer": "A",
+  "explanation": "The signs of inflammation include fine KPs, band keratopathy, flare and cells, posterior synechiae, and cataract. Reference: AAO2023 Uveitis P142",
+  "year": "2017",
+  "subspecialty": "Uveitis",
+  "pdfPage": 314
+ },
+ {
+  "id": 16,
+  "source": "promotion-2017",
+  "question": "A patient presented with bilateral recurrent conjunctivitis follicular and urethritis, asking what is the treatment?",
+  "options": {
+   "A": "IV ceftriaxone",
+   "B": "Oral macrolide"
+  },
+  "correctAnswer": "A",
+  "explanation": "- Follicular conjunctivitis? This is not related to reactive arthritis which I believe it is the diagnosis. - Reactive arthritis may be considered in any case of chronic, nonfollicular, mucopurulent conjunctivitis with negative culture results. - Reactive arthritis (formerly called Reiter syndrome) is a systemic disorder characterized by the classic triad of ocular (conjunctivitis/episcleritis, iridocyclitis, or keratitis), urethral, and joint inflammation. - The most common ocular finding in reactive arthritis is a bilateral papillary conjunctivitis with mucopurulent discharge, which has been reported in 30%-60% - Look at this similar question from ophthaQ: Reference: AAO2023, P37 Oculo",
+  "year": "2017",
+  "subspecialty": "Uveitis",
+  "pdfPage": 315,
+  "imageUrl": "/images/promotion/p316_d371b557cf.jpg"
+ },
+ {
+  "id": 17,
+  "source": "promotion-2017",
+  "question": "A question asking where the nasolacrimal duct open into?",
+  "options": {
+   "A": "Inferior turbinate",
+   "B": "2.4 cm in children and 4 cm in adults"
+  },
+  "correctAnswer": "B",
+  "explanation": "- Here answer is B because it is correct, but I think the following this is the correct phrasing of this MCQ (from our PART 1 file): - - For many years, the standard method of measuring the visual dysfunction that occurs with glaucomatous injury has been assessment of the visual field with perimetry - Glaucomatous cups are associated with both generalized and focal ophthalmologic signs. o General signs include large optic cup asymmetry of the optic cups, and; progressive enlargement of the cup.; o Focal signs include; notching of the rim; vertical elongation of the cup; cupping to the rim margin; RNFL hemorrhage, and; nerve fiber layer loss.",
+  "year": "2017",
+  "subspecialty": "Uveitis",
+  "pdfPage": 318,
+  "imageUrl": "/images/promotion/p319_b142de5c0a.jpg"
+ },
+ {
+  "id": 18,
+  "source": "promotion-2017",
+  "question": "A case of a patient S/P trap, who presented with low IOP, no leak, shallow AC (They did not specify if there is lenticulo corneal touch), and despite maximum conservative management, what is the best next step in the management:",
+  "options": {
+   "A": "Cycloplegia",
+   "B": "Drain choroidal",
+   "C": "Reform the AC",
+   "D": "B Scan to check for choroidal detachment"
+  },
+  "correctAnswer": "D",
+  "explanation": "No explanation was provided in the source document. - I'm not sure if answer D was written like this or just written B scan. - Previous years answer: Since its low IOP + flat AC >> either leak (No leak from the question) or over filtration or choroidal detachment You need to include/exclude detachment by either; examination or b-scan before you can make an action If there is no lenticulo-corneal touch, no hurry for AC; reformation, which might get deepen by cyclo in case of choroidal detachment.; See this algorithm: - For Treatment of Bleb Leak: Decreasing topical steroids can promote fibrosis and healing.; Aqueous suppressants reduce the flow through the defect, allowing the leak to seal through epithelialization.; Placement of an oversized contact lens can provide a scaffold for re- epithelialization and may also tamponade the leak.; Suturing the site of the leak may be necessary if conservative measures fail. - Choroidal effusions: Choroidal detachment: abnormal presence of fluid or blood in the suprachoroidal space. Serous choroidal detachments, also known as choroidal; effusions Occur at any time in the postoperative period when IOP is low (develop in the setting of post-operative hypotony, most frequently 2-5 days surgery) with blebs of any size. More in elderly with low IOP compared to hypotony maculopathy (because; scan helps to differentiate choroidal effusions from retinal; Fundus examination discloses the classic grayish dome-shaped; effusions, anchored in the region of the vortex veins. Choroidal detachments can be distinguished from retinal; detachments based on their more anterior location, extension to the ora serrata, and unique morphology resulting from the choroid's strong attachments at the sites of the vortex veins.; detachments and serous from hemorrhagic effusions detect small accumulation not readily; apparent on examination (though not significant) Cycloplegics to deepen the anterior chamber.; If overfiltration or a bleb leak is the cause, decreasing steroids promot healing and fibrosis.; If ciliary body inflammation (and aqueous hyposecretion) is the cause, increasing steroids is beneficial.; Injecting viscoelastic into the anterior chamber can temporarily elevate the IOP and hasten recovery.; If conservative management fails, the effusion can be drained in the operating room through posterior sclerotomies.; The scleral flap is often reinforced at the same time to increase resistance to outflow",
+  "year": "2017",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 320
+ },
+ {
+  "id": 19,
+  "source": "promotion-2017",
+  "question": "Which of the following is a contraindication of a laser trabeculoplasty ?",
+  "options": {
+   "A": "Pigmentary",
+   "B": "Open angle glaucoma",
+   "C": "Normal tension glaucoma",
+   "D": "Angle recession"
+  },
+  "correctAnswer": "D",
+  "explanation": "No explanation was provided in the source document. - In laser trabeculoplasty (LTP), laser energy is applied to the trabecular meshwork in discrete spots, usually covering 180°-360° per treatment. The goal of LTP is to reduce IOP by increasing outflow facility. - LTP is indicated to lower IOP in patients with: open-angle glaucoma or ocular hypertension.",
+  "year": "2017",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 321
+ },
+ {
+  "id": 20,
+  "source": "promotion-2017",
+  "question": "Which of the following is highly suggestive of glaucoma daily variation?",
+  "options": {
+   "A": "4-6 difference",
+   "B": "One spike at 4 Am",
+   "C": "Baseline IOP of 22",
+   "D": "Daily variation of 10 mmHg"
+  },
+  "correctAnswer": "D",
+  "explanation": "Reference: OphthoQ",
+  "year": "2017",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 322,
+  "imageUrl": "/images/promotion/p323_a962dc7e63.jpg"
+ },
+ {
+  "id": 21,
+  "source": "promotion-2017",
+  "question": "Picture showing inadvertent superior bleb, with shallow AC, low IOP, what would you do next?",
+  "options": {
+   "A": "Seidel test",
+   "B": "B scan"
+  },
+  "correctAnswer": "A",
+  "explanation": "- It looks like bleb leak although nothing mentioned if the pt has symptoms of excessive tearing or now and the bleb elevation. - Bleb leaks can occur at any point in the postoperative course. - In the early postoperative period, leaks most commonly occur at the incision site. - Unrecognized buttonholes and flap suture erosion through the conjunctiva can also lead to leaks. - They are often symptomatic (patients report experiencing excessive tearing) and can be found by performing a Seidel test. - In addition to hypotony, patients with a leak may have a shallow or normal anterior chamber depth and a low-lying bleb. - Untreated leaks can lead to early bleb fibrosis and infection. See this algorithm: Reference: AAO 2023 - Glaucoma P265",
+  "year": "2017",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 323,
+  "imageUrl": "/images/promotion/p324_4334712cc4.jpg"
+ },
+ {
+  "id": 22,
+  "source": "promotion-2017",
+  "question": "A case of a diabetic patient with ketoacidosis, asking what is the effect of IOP during the ketoacidosis phase?",
+  "options": {
+   "A": "Increase IOP",
+   "B": "Decrease IOP",
+   "C": "Not changed"
+  },
+  "correctAnswer": "B",
+  "explanation": "- both by DKA itself or DKA as a result of treatment by glycerin - This diagram adopted from ophthaQ Reference: Eyewiki + ophthoQ",
+  "year": "2017",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 324,
+  "imageUrl": "/images/promotion/p324_defe98a7ad.png",
+  "imageUrls": [
+   "/images/promotion/p325_c905a042b0.jpg"
+  ]
+ },
+ {
+  "id": 23,
+  "source": "promotion-2017",
+  "question": "A case of a pregnant woman (Gestational Age: 8 weeks) who is known to have glaucoma, asking which of the following medications is safe for her to use?",
+  "options": {
+   "A": "Brimondine",
+   "B": "Timolol"
+  },
+  "correctAnswer": "A",
+  "explanation": "All glaucoma medications are FDA class C (except for brimonidine and dipivefrin which are class B). However, nursing mothers should not given brimonidine or timolol since these are concentrated in the breast milk and can have severe adverse effects on the child. Reference: OphthoQ",
+  "year": "2017",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 325
+ },
+ {
+  "id": 24,
+  "source": "promotion-2017",
+  "question": "A picture of follicular reaction of upper tarsus, asking what medication causes this picture exclusively?",
+  "options": {
+   "A": "Latanoprost",
+   "B": "Timolol",
+   "C": "Ceftriaxone",
+   "D": "Pilocarpine"
+  },
+  "correctAnswer": "D",
+  "explanation": "Reference: AAO: Cornea: CHAPTER 4: Conditions Associated With Ocular Surface Disorders, P103",
+  "year": "2017",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 325,
+  "imageUrl": "/images/promotion/p326_ffbeef929a.jpg"
+ },
+ {
+  "id": 25,
+  "source": "promotion-2017",
+  "question": "A case of a patient who presented with high IOP and who is S/P office procedure. B-scan showed (may be exudative RD, or choroidal detachment), asking which of the following procedures you think is the cause?",
+  "options": {
+   "A": "Yag capsulotomy",
+   "B": "PRP",
+   "C": "IVA"
+  },
+  "correctAnswer": "B",
+  "explanation": "- Adverse effects of scatter PRP include choroidal detachment as well as decreases in night vision, color vision, contrast sensitivity, peripheral vision, and, in rare cases, pupillary dilation. Some patients may experience a transient loss of 1 or 2 lines of visual acuity or increased glare following treatment. Other transient adverse effects include loss of accommodation, loss of corneal sensitivity, and photopsias. Macular edema may also be precipitated or worsened by PRP. Reference: AAO 2022 - P106 Retina and Vitreous",
+  "year": "2017",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 326
+ },
+ {
+  "id": 26,
+  "source": "promotion-2017",
+  "question": "What device would you use to measure the IOP in a supine position?",
+  "options": {
+   "A": "Perkins",
+   "B": "Goldman",
+   "C": "Pneumo"
+  },
+  "correctAnswer": "B",
+  "explanation": "I believe it is an except question as both Perkins and Pneumo \"can be\" used in supine position), If it is not \"except\" question and Schiøtz tonometry is choice D then I would choose it because it is the only one that is used only while the patient is supine. If it is not except question and Schiøtz not in the choices I will choose Perkins) - The Perkins tonometer is a portable Goldmann applanation tonometer that can be used with the patient in either the upright or supine positions - Pneumatonometer can be used with the patient in sitting, lateral decubitus, or supine body positions. - Although Schiøtz tonometry is now rarely used in the developed world, it remains the only form of tonometry that does not require electrical power. - Schiøtz tonometry determines IOP by measuring the amount of corneal indentation produced by a known weight. Measurements are taken with the patient supine. - Look at this table that I made by chatGPT using information in eyewiki: Reference: https://www.aao.org/education/bcscsnippetdetail.aspx?id=eaf2d8dd-ed51-4d1c-",
+  "year": "2017",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 328,
+  "imageUrl": "/images/promotion/p329_c7b60f497c.png"
+ },
+ {
+  "id": 27,
+  "source": "promotion-2017",
+  "question": "A glaucoma patient did a visual field, and he sees only central vision, which visual felid would you order to have more accurate results:",
+  "options": {
+   "A": "10-2 VF",
+   "B": "24-2 VF"
+  },
+  "correctAnswer": "A",
+  "explanation": "- For patients with advanced visual field loss or with paracentral defects, testing of the central field with the 10-2 or C8 pattern is appropriate. Reference: AAO",
+  "year": "2017",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 330
+ },
+ {
+  "id": 28,
+  "source": "promotion-2017",
+  "question": "In hyperopic anisometropia, what is minimum amblyogenic anisometropia refractive error?",
+  "options": {
+   "A": "1.25",
+   "B": "0.5",
+   "C": "2.00",
+   "D": "5.00"
+  },
+  "correctAnswer": "A",
+  "explanation": "closest answer - Anisometropic amblyopia, dissimilar refractive errors in the 2 eyes cause 1 retinal image to be chronically defocused. - Levels of anisometropia that commonly lead to amblyopia are greater than 1.50 diopters (D) of anisohyperopia, 2.00 D of anisoastigmatism, and 3.00 D of anisomyopia. - See this table: Reference: AAO2023, pediatric, P58",
+  "year": "2017",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 331,
+  "imageUrl": "/images/promotion/p332_d2a5d24667.jpg"
+ },
+ {
+  "id": 29,
+  "source": "promotion-2017",
+  "question": "A patient with hyperopia wearing plus glasses having squint, what do you think the measured angle would be:",
+  "options": {
+   "A": "The measured angle will be less than the true with glasses.",
+   "B": "The measured angle will be more than the true with glasses.",
+   "C": "Not affected"
+  },
+  "correctAnswer": "A",
+  "explanation": "- Because of uncorrected hyperopia, the patient must accommodate to focus the retinal image. Accommodation is accompanied by the other components of the near reflex, namely convergence and miosis. If the patient's fusional divergence mechanism is insufficient to compensate for the increased convergence tonus, esotropia results. The angle of esotropia is approximately the same at distance and near fixation and is generally between 20Δ and 30Δ. Patients with refractive accommodative esotropia have an average of +4.00 diopters (D) of hyperopia. - This child has residual (albeit less) esotropia after full correction of his hyperopia. This situation describes \"partially accommodative esotropia.\" In this situation, surgery can be undertaken to correct the residual ET. However, parents must be warned that the goal of surgery is NOT to get the child out of glasses. Actually, these children will still need glasses to maintain orthotropia. - artially accommodative esotropia is similar to accommodative esotropia in that a significant component of the esotropia results from accommodative convergence. However, unlike pure accommodative esotropia, patients with partially accommodative esotropia show a reduction in the angle of esotropia when wearing glasses but have a residual esotropia despite provision of the full hyperopic correction. Reference: AAO2023, Pediatric, P96",
+  "year": "2017",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 332,
+  "imageUrl": "/images/promotion/p333_1b77b3ed08.jpg"
+ },
+ {
+  "id": 30,
+  "source": "promotion-2017",
+  "question": "A child presented with a unilateral proptosis, feverish, CBC showed eosinophilia, what is the diagnosis",
+  "options": {
+   "A": "Orbital cellulitis",
+   "B": "Idiopathic orbital pseudotumor"
+  },
+  "correctAnswer": "B",
+  "explanation": "- I think this question is the same as what had in the Part I exam; here is the question:",
+  "year": "2017",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 333,
+  "imageUrl": "/images/promotion/p333_2a1c665033.jpg",
+  "imageUrls": [
+   "/images/promotion/p334_61315313e5.jpg"
+  ]
+ },
+ {
+  "id": 31,
+  "source": "promotion-2017",
+  "question": "A picture for a child with: OD: XT on HT and poor vision (20\\400) OS: (20\\20) On left eye cover test, right eye is showing XT with no movement. What is the most likely diagnosis?",
+  "options": {
+   "A": "Dragged macula",
+   "B": "Optic atrophy",
+   "C": "Retinal dystrophy",
+   "D": "Macular dystrophy"
+  },
+  "correctAnswer": "D",
+  "explanation": "? Maybe D I couldn't find any supporting resource, but it seems he has eccentric fixation as he is using a non-foveal point of the retina for fixation which resulted in poor visual acuity",
+  "year": "2017",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 336
+ },
+ {
+  "id": 32,
+  "source": "promotion-2017",
+  "question": "Child after cylogel refraction had been agitated and feverish, what to do?",
+  "options": {
+   "A": "Reassure and observe for few hours",
+   "B": "IV treatment"
+  },
+  "correctAnswer": "A",
+  "explanation": "although other options are not written esp if mentioned supportive treatment would be more correct) For me it is A until proven otherwise. If developed during cyclo, discontinue the drug, with supportive measures as necessary (so stop it and give paracetamol).; Cycloplegic agents act by paralyzing the sphincter muscle of the iris, and thereby producing iris dilation, and by paralyzing the ciliary muscle, which inactivates accommodation.; Local allergic reactions to cycloplegic drugs may include conjunctivitis, edematous eyelids, and dermatitis.; Cycloplegic agents may also cause nonallergic systemic symptoms, which may be more common in children with lighter irides; these include fever, dry mouth, flushing, tachycardia, constipation, urinary retention, nausea, dizziness, and delirium.; The side effects of systemic absorption in children consist of rapid pulse, fever, flushing, and mouth dryness.; Treatment is discontinuation of the drug, with supportive measures as necessary; See the following similar question from last minutes optics:",
+  "year": "2017",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 336
+ },
+ {
+  "id": 33,
+  "source": "promotion-2017",
+  "question": "Picture of aniridia. Patient has vision of 20/200 and IOP of 30 mmHg. What else he might have?",
+  "options": {
+   "A": "Optic disc hypoplasia.",
+   "B": "Blood in schlemm's canal"
+  },
+  "correctAnswer": "A",
+  "explanation": "Aniridia is a disease marked by bilateral hypoplastic irides, foveal hypoplasia with poor visual acuity, and frequent nystagmus. Other associated common features include glaucoma, optic nerve hypoplasia, cataracts, and the development of diffuse corneal scarring later in life from limbal stem cell deficiency. The disease is caused by PAX6 gene mutations and can be hereditary or arise de novo. In those cases of hereditary aniridia there is no increased risk for Wilms tumor (also known as nephroblastoma) over the general population. In patients with seemingly sporadic aniridia, up to one third of patients will develop Wilms tumor and most are diagnosed with the tumor by 5 years of age. All children with sporadic aniridia should undergo genetic testing for the Wilms tumor genetic defect. Most patients with aniridia will have photosensitivity simply due to the large amount of light entering the eye. Reference: OphthoQ",
+  "year": "2017",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 337
+ },
+ {
+  "id": 34,
+  "source": "promotion-2017",
+  "question": "A picture of a patient with XT at primary position, limited adduction of the right eye with up shooting, what's your diagnosis?",
+  "options": {
+   "A": "Duane type 1",
+   "B": "Duane type 2 with up shooting",
+   "C": "Bilateral IOOA",
+   "D": "Duane type 1 with up shooting"
+  },
+  "correctAnswer": "B",
+  "explanation": "In Duane retraction syndrome (DRS) there is failure of innervation of the lateral rectus by a hypoplastic sixth nerve nucleus, with anomalous innervation of the lateral rectus by fibres from the third nerve. Why the answer is type 2? Because in type 1 (which is the most common), the patient has: Limited or absent abduction: Normal or mildly limited adduction. In the primary position, straight or slight esotropia. But type 2 (the least common), the patient will have: Limited adduction. Normal or mildly limited abduction. In primary position, straight or slight exotropia (see the attached picture) Why then he has an up-shoot or down-shoot in adduction? In some cases, this is produced by a tight lateral rectus muscle slipping over or under the globe to produce an anomalous vertical movement. What are the other DRS Clinical features? A face turn is typical and confers BSV with the face in the turned position, thus avoiding amblyopia. Complete or partial restriction of abduction. Restricted adduction, usually partial. Retraction of the globe on adduction as a result of cocontraction of the medial and lateral recti with resultant narrowing of the palpebral fissure. Deficiency of convergence in which the affected eye remains fixed in the primary position while the unaffected eye is converging. Reference: Kanski P735",
+  "year": "2017",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 338,
+  "imageUrl": "/images/promotion/p338_4acafaa26e.jpg"
+ },
+ {
+  "id": 35,
+  "source": "promotion-2017",
+  "question": "A 38-year-old with chin up and a picture for a patient with right Brown syndrome. What is the highest diagnostic test?",
+  "options": {
+   "A": "A pattern XT",
+   "B": "V pattern XT",
+   "C": "Normal passive elevation test on abduction",
+   "D": "Restricted passive elevation test on adduction"
+  },
+  "correctAnswer": "D",
+  "explanation": "So in the question possibly there will be an attached picture showing straight eyes in primary position, but adduction and elevation gaze of the affected eye will be restricted. This is brown, and it is important to know that all types have limited elevation in adduction, and other features differ according to the severity. In mild cases: No hypotropia in primary position or down-shoot in adduction. In moderate cases: Down-shoot in adduction In sever cases: Down-shoot in adduction. Hypotropia in the primary position + Chin-up head posture + Face turn away from the affected eye (to avoid the hypotropia allows for binocular fusion and comfortable vision) A positive, forced duction test confirms the diagnosis. A 'V' pattern is said to be significant when the difference between upgaze and downgaze is ≥15 Δ. Note that brown syndrome can cause V pattern. An 'A' pattern is considered significant if the difference between upgaze and downgaze is ≥10 Δ. Reference: Kanski P738 X-linked retinoschisis is linked to mutations in the RS1 gene, which encodes retinoschisin, a protein secreted by photoreceptors and involved in intercellular adhesion and likely retinal cellular organization. On histopathological examination, the splitting in X-linked retinoschisis occurs predominantly in the nerve fiber layer.; Patients typically present at school age complaining of poor vision or difficulty in school; On fundoscopic examination, 98-100% of patients have foveal schisis, noted as a spoke wheel pattern radiating from the fovea and a domelike elevation of a thin",
+  "year": "2017",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 339,
+  "imageUrl": "/images/promotion/p339_955db32afd.jpg"
+ },
+ {
+  "id": 36,
+  "source": "promotion-2017",
+  "question": "Attached picture showing Duane Syndrome with overshooting, asking what is the appropriate surgical management of this patient?",
+  "options": {
+   "A": "Y splitting of medial rectus",
+   "B": "Y splitting of lateral rectus",
+   "C": "MR recession"
+  },
+  "correctAnswer": "B",
+  "explanation": "In Duane syndrome: An up-shoot or down-shoot (leash phenomenon) in adduction may be present; this is produced by a tight lateral rectus muscle slipping over or under the globe to produce an anomalous vertical movement. Surgery cannot cure Duane Retraction Syndrome, but it can o correct for the deviation in the primary position, thereby improving a compensatory head position that can occur in some individuals. o improve the leash phenomenon Indications for Surgery (at least one of the following characteristics): o * an abnormal head position greater than or equal to 15 degrees o * a significant deviation in the primary position o * Severe induced ptosis: a reduction of greater than or equal to 50% of the width of the palpebral fissure on adduction See the surgical treatment options: Reference: https://eyewiki.aao.org/Duane_Retraction_Syndrome",
+  "year": "2017",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 340,
+  "imageUrl": "/images/promotion/p341_2884d8b25e.png"
+ },
+ {
+  "id": 37,
+  "source": "promotion-2017",
+  "question": "Picture attached showing a boy with a chin-up posture, asking what could be the cause?",
+  "options": {
+   "A": "V esotropia",
+   "B": "A exotropia",
+   "C": "Monocular elevation deficiency (MED)"
+  },
+  "correctAnswer": "C",
+  "explanation": "Answer A and B would have chin down posture - MED, brown syndrome, and A pattern esotropia have a chin up posture) - In monocular elevation deficiency: there is a profound inability to elevate one eye across the horizontal plane, from abduction to adduction (See pic) with Chin elevation may be present. - Know that indications for surgical treatment of monocular elevation deficiency include a large hypotropia on primary gaze and a chin-up head position. There are two main causes of monocular elevation deficiency: (1) Tight inferior rectus; and (2) Weak elevators of the eye (i.e. superior rectus / inferior oblique). This is why this condition used to be called double- elevator palsy. In strabismus surgery, one of the concepts is to release the restriction if there is a restriction. So we need to determine if the patient's monocular elevation deficiency is due to a tight inferior rectus or if it is due to weakly- innervated elevators. Thus, to differentiate the etiology, one would perform forced ductions. If there is restriction on forced ductions, then an inferior rectus; recession is appropriate. In the absence of restriction, one would transpose the medial and; lateral recti to the superior rectus. This is called the Knapp",
+  "year": "2017",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 342
+ },
+ {
+  "id": 38,
+  "source": "promotion-2017",
+  "question": "You are doing a retinoscopy for a myopic patient; how would you know if reached the neutralization point?",
+  "options": {
+   "A": "Beam become broader and faster",
+   "B": "Skew movement of the reflex",
+   "C": "Smaller beam"
+  },
+  "correctAnswer": "A",
+  "explanation": "Reference: BSC Optometry (Objective Refraction Lecture), 2022",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 346,
+  "imageUrl": "/images/promotion/p347_1c61c17516.png"
+ },
+ {
+  "id": 39,
+  "source": "promotion-2017",
+  "question": "You are doing a retinoscopy for a hyperopic patient; how would you know if reached the neutralization point?",
+  "options": {
+   "A": "Beam become broader and faster",
+   "B": "Skew movement of the reflex",
+   "C": "Smaller beam"
+  },
+  "correctAnswer": "A",
+  "explanation": "same as previous question Reference: BSC Optometry (Objective Refraction Lecture), 2022",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 347
+ },
+ {
+  "id": 40,
+  "source": "promotion-2017",
+  "question": "A question with refraction given 4.00 + 1.25 x90 (K reading given: 44 D @ 90 and 42 D @ 180), asking what type of astigmatism is this?",
+  "options": {
+   "A": "WTR",
+   "B": "ATR",
+   "C": "Oblique"
+  },
+  "correctAnswer": "A",
+  "explanation": "- So you can solve this question by seeing the refraction or the K readings. - For the refraction make the cylinder positive (here is it is already positive) then look to the axis; since it is 90 so it is within the range of the WTR astigmatism (60 to 120). - For the K readings it is steepest (44 D) at the 90 axis, so it is WTA. Reference: AAO Self assessment Others",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 347,
+  "imageUrl": "/images/promotion/p347_620b1fc2c6.png"
+ },
+ {
+  "id": 41,
+  "source": "promotion-2017",
+  "question": "Which of the following fungi is non-septate?",
+  "options": {
+   "A": "Mucor",
+   "B": "Aspergillosis",
+   "C": "Fusarium",
+   "D": "Curvularia"
+  },
+  "correctAnswer": "A",
+  "explanation": "Nonseptate filamentous fungi include Mucor, Absidia, and Rhizopus. These fungi can cause life- threatening infections (\"mucormycosis\") of the paranasal sinuses, brain, and orbit, typically in immunocompromised patients. Septate fungi include Fusarium, Aspergillus, and Curvularia. A nice mnemonic is: \"F.A.C.t.S\" Reference: OphthaQ",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 348
+ },
+ {
+  "id": 42,
+  "source": "promotion-2017",
+  "question": "Child his mother noticed that he got confused between green and red colors, and between … and Violet. what is his problem:",
+  "options": {
+   "A": "tritanopia",
+   "B": "Protanopia",
+   "C": "Achromatopsia",
+   "D": "Dichromacy"
+  },
+  "correctAnswer": "C",
+  "explanation": "Colour vision depends on three populations of retinal cones, each with a specific peak sensitivity: blue (tritan) at 414-424 nm, green (deuteran) at 522-539 nm and red (protan) at 549-570 nm. Any given cone pigment may be deficient (e.g. protanomaly - red weakness) or entirely absent (e.g. protanopia - red blindness). Trichromats possess all three types of cones (although not necessarily functioning perfectly), while absence of one or two types of cones renders an individual a dichromat or monochromat, respectively. Those with red-green deficiency caused by abnormality of red-sensitive cones are protanomalous, those with abnormality of green-sensitive cones are deuteranomalous and those with blue-green deficiency caused by abnormality of blue- sensitive cones are tritanomalous. Achromatopsia is a group of congenital disorders in which colours cannot be perceived and visual acuity is reduced. In rod monochromatism (AR) visual acuity is poor, typically 6/60. There is congenital nystagmus and photophobia. Colour vision is totally absent, all colours appearing as shades of grey. Blue cone monochromatism (XLR) features only slightly sub- normal acuity at 6/6-6/9, but colour vision is completely absent. Reference: Kanski",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 350
+ },
+ {
+  "id": 43,
+  "source": "promotion-2017",
+  "question": "4yrs Old with left head turn Since 3 yrs ago , when fixating by right eye the deviation is 15 PD and when fixating by left the deviation is 35 PD . wt is the dx ?",
+  "options": {
+   "A": "Left duane type 1",
+   "B": "Right duane type 2"
+  },
+  "correctAnswer": "A",
+  "explanation": "In Duane retraction syndrome (DRS) there is failure of innerva- tion of the lateral rectus by a hypoplastic sixth nerve nucleus, with anomalous innervation of the lateral rectus by fibres from the third nerve. The condition is often bilateral. Up to half of patients have associated systemic defects such as deafness, external ear abnormalities, speech disorder and skeletal abnormalities. Classification (Huber) Type I, the most common, is characterized by (Fig. 18.62): I. Limited or absent abduction. II. Normal or mildly limited adduction. III. In the primary position, straight or slight esotropia. Type II, the least common, is characterized by (Fig. 18.63): I. Limited adduction. II. Normal or mildly limited abduction. III. In primary position, straight or slight exotropia. Type III is characterized by: I. Limited adduction and abduction. II. In the primary position, straight or slight esotropia. III. In some cases phenotypic variants have been allied to differing genotypes. Reference: Kanski Cataract can be Caused by:",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 351
+ },
+ {
+  "id": 44,
+  "source": "promotion-2017",
+  "question": "Best describe Cataract in narrow angle glaucoma:",
+  "options": {
+   "A": "Post Sub Capsular",
+   "B": "Lens fibers metaplasia",
+   "C": "Lens become more brown in Color",
+   "D": "Ant Sub Capsular pigmentation"
+  },
+  "correctAnswer": "C",
+  "explanation": "? The mechanism of phacomorphic glaucoma is typically multifactorial. However, by definition, a significant component of the pathologic angle narrowing is related to the acquired mass effect of the cataractous lens itself. As seen in the primary angle-closure (PAC) spectrum, pupillary block often plays an important role in this condition. Phacomorphic narrowing of the angle generally occurs slowly with formation of the cataract. Posterior Capsular opacification stems from the continued viability of lens epithelial cells that remain after removal of the nucleus and cortex. Opaque secondary membranes are formed by proliferating lens epithelial cells, fibroblastic metaplasia, and collagen deposition. Reference: AAO Glaucoma and Lens sections lacrimal gland ducts drained in:",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 352
+ },
+ {
+  "id": 45,
+  "source": "promotion-2017",
+  "question": "3 prism diopter base Out Over the right eye , what is equivalent to it:",
+  "options": {
+   "A": "2 pd bi Od and 1 pd bi OS =3",
+   "B": "2 pd bO Od and 1 pd bi OS",
+   "C": "1.5 pd bO Od and 1.5 pd bi OS"
+  },
+  "correctAnswer": "B",
+  "explanation": "The source also notes: Ideal answer= (BO OU 1.5 AND 1.5)",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 353
+ },
+ {
+  "id": 46,
+  "source": "promotion-2017",
+  "question": "picture of baby 3 month Old , with 23 IOP OO , what other Characteristic of the disease",
+  "options": {
+   "A": "Microdontia",
+   "B": "Cataract",
+   "C": "parent not affected",
+   "D": "males affected in the family"
+  },
+  "correctAnswer": "C",
+  "explanation": "Although most cases of PCG occur sporadically, a familial pattern of inheritance is seen in 10%-40% of cases. The inheritance is usually autosomal recessive with incomplete or vari- able penetrance. Higher rates of familial inheritance are seen in children from the Middle East and central Europe. Reference: AAO Glaucoma Section Origin of AC flare",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 353
+ },
+ {
+  "id": 47,
+  "source": "promotion-2017",
+  "question": "Regarding increase intracranial pressure",
+  "options": {
+   "A": "Scintiling Scotoma",
+   "B": "Synchoronus pulse noise inside head",
+   "C": "unilateral throbbing headache",
+   "D": "decrease headache in the morning"
+  },
+  "correctAnswer": "B",
+  "explanation": "symptoms and signs of elevated ICP. Headache is common. Other symptoms may include neck and back pain, transient visual obscurations, diplopia (sec- ondary to abducens nerve paresis), pulsatile tinnitus (pulse synchronous bruit), and nausea. Reference: AAO Neuropthalmology Section",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 354
+ },
+ {
+  "id": 48,
+  "source": "promotion-2017",
+  "question": "Regarding HLA B-27",
+  "options": {
+   "A": "present in both eyes",
+   "B": "never associated with retinal Vasculitis ( IBD might haVe VaSCulitiS)",
+   "C": "present acute, Severe hypopn",
+   "D": "treated with all types of anti-TNF"
+  },
+  "correctAnswer": "C",
+  "explanation": "The paradigm for HLA-B27-associated AAU is a young man with acute-onset unilateral ocular pain and photophobia with redness and visual blur. Visual acuity in the affected eye is usually somewhat (but not markedly) reduced. Ocular examination is characteristically difficult because of photophobia. There is marked ciliary injection and severe AAU with small keratic precipitates inferiorly, anterior chamber (AC) cells 2-4+, often with fibrinous coagulum inferiorly, and sometimes with an hypopyon. Fibrin may form a web within the AC, the aqueous humor may be plasmoid (full of leaked plasma proteins so that normal thermal flow is sluggish), and incipient posterior synechiae are common (Fig. 7.14.1). The intraocular pressure is reduced, usually less than 10 mm Hg. Reference: Yanoff and Duker",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 354
+ },
+ {
+  "id": 49,
+  "source": "promotion-2017",
+  "question": "Topical anti glaucoma that aggravate pupil block in Chronic angle Closure",
+  "options": {
+   "A": "Miotics",
+   "B": "BB",
+   "C": "Prostaglandins",
+   "D": "Alpha agonists"
+  },
+  "correctAnswer": "A",
+  "explanation": "The effect of miotics is to pull the peripheral iris away from the anterior chamber angle. However, strong miotics may also cause the zonular fibers of the lens to relax, allowing the lens-iris interface to move forward. Furthermore, their use results in greater iris-lens contact, thus potentially increasing pupillary block. Reference: AAO glaucoma Section",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 354
+ },
+ {
+  "id": 50,
+  "source": "promotion-2017",
+  "question": "what is the deposit in Schnyder dystrophy",
+  "options": {
+   "A": "Lipid and glycoprotein",
+   "B": "Cholesterol and phospholipids",
+   "C": "Collagen"
+  },
+  "correctAnswer": "B",
+  "explanation": "Pathologically, the opacities are accumulations of unesterified and esterified cholesterol and phospholipids. Reference: AAO External disease Section",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 355
+ },
+ {
+  "id": 51,
+  "source": "promotion-2017",
+  "question": "what type of laser is used to Cauterize a Corneal neovascularization",
+  "options": {
+   "A": "Excimer",
+   "B": "Argon blue",
+   "C": "Krypton red",
+   "D": "Yellow laser"
+  },
+  "correctAnswer": "B",
+  "explanation": "Argon laser treatment with and without fluorescein, photodynamic therapy with verteporfin, and subconjunctival and topical bevacizumab have been reported to reduce corneal neo- vascularization and lipid deposition. Reference: AAO External disease and cornea Section",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 355
+ },
+ {
+  "id": 52,
+  "source": "promotion-2017",
+  "question": "True about Mittendorf dot",
+  "options": {
+   "A": "presestant fetal vasculeture",
+   "B": "progressive",
+   "C": "posterior capsule opacity nasaly",
+   "D": "most common hyloid anomaly"
+  },
+  "correctAnswer": "C",
+  "explanation": "Mittendorf dot is a common anomaly observed in many healthy eyes. A small, dense white spot generally located inferonasal to the posterior pole of the lens, a Mittendorf dot is a remnant of the posterior pupillary membrane of the tunica vasculosa lentis Reference: AAO External disease and cornea Section",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 355
+ },
+ {
+  "id": 53,
+  "source": "promotion-2017",
+  "question": "which electromagnatic radiation cause exfoliation Syndrome",
+  "options": {
+   "A": "Xray",
+   "B": "Infrared",
+   "C": "Ultraviolet",
+   "D": "Microwave"
+  },
+  "correctAnswer": "B",
+  "explanation": "Infrared radiation, if intense as in glassblowers, may rarely cause true exfoliation of the anterior lens capsule rhOmatOid pt NSAID knOwn treatment Of ( irVan gaS VS ant diffuSed SCleritiS Patient haS bilateral COnjunCtiVitiS fOr 1 year >>> inCluSiOn COnjunCtiVitiS Reference: Kanski SenariOS Of diffrent pt with refraCtiVe errOrS : -4.5 ( the reSt waS high myOpe , KC ,",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 355
+ },
+ {
+  "id": 54,
+  "source": "promotion-2017",
+  "question": "After IO recession , patient developed restricted elevation, +ve FDT.. What is likely injured:",
+  "options": {
+   "A": "Intermuscular septum",
+   "B": "Anterior tenon capsule",
+   "C": "Posterior tenon capsule *Adherence Syndrome",
+   "D": "NV bundle of IO"
+  },
+  "correctAnswer": "C",
+  "explanation": "Tears in the Tenon capsule with prolapse of orbital fat into the sub-Tenon space can cause formation of a fibrofatty scar that may restrict ocular motility. Surgery involv- ing the inferior oblique muscle is particularly prone to this complication because of the proximity of the fat space to the posterior border of the inferior oblique muscle. If recognized at the time of surgery, the prolapsed fat can be excised and the rent closed with absorbable sutures. Meticulous surgical technique usually prevents this serious complication. Reference: AAO pediatric Section After eom sx he has decrease in palpebral fissure which was not there before the sx",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 356
+ },
+ {
+  "id": 55,
+  "source": "promotion-2017",
+  "question": "Old age man with blind painful eye IOP 45, What to do next:",
+  "options": {
+   "A": "topical Cycloplegia",
+   "B": "diode Cyclophotocoagulation",
+   "C": "tube Shunt"
+  },
+  "correctAnswer": "A",
+  "explanation": "cyclodestructive procedures can be used in painful eyes with poor vision potential in an attempt to provide comfort by lowering the IOP. However, there is a small risk of sympathetic ophthalmia with cyclodestructive procedures; thus, eyes without light perception should be treated with caution. The combination of corticosteroid and cycloplegic therapy can be very ef- fective in controlling pain in such eyes. Reference: AAO Glaucoma Section",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 357
+ },
+ {
+  "id": 56,
+  "source": "promotion-2017",
+  "question": "38 year old with chin up and a picture for a patient with right Brown syndrome What is the highest diagnostic test ?",
+  "options": {
+   "A": "A pattern XT",
+   "B": "V pattern XT (it Could be but i don't think it iS diagnostic )",
+   "C": "Normal passive elevation test On abduction",
+   "D": "Restricted passive elevation test On adduction"
+  },
+  "correctAnswer": "D",
+  "explanation": "An unequivocally positive forced duction test demonstrating restricted passive el- evation in adduction is essential for the diagnosis. Retropulsion of the globe during this test stretches the superior oblique tendon and accentuates the restriction. In restrictions involving the inferior rectus muscle or its surrounding tissues, by contrast, the limitation of passive elevation is accentuated by forceps-induced proptosis of the eye rather than by retropulsion. Attempts at elevation straight upward usually cause divergence (V pattern) due to lateral diversion of the globe as it meets resistance from the tight superior oblique tendon (see Fig 12-5). This finding is an important point of distinction from inferior oblique muscle paralysis, which is more likely to exhibit an A pattern. In adduction, the palpebral fissure widens and overdepression in adduction can be observed in severe cases of Brown syndrome (see Chapter 11, Table 11-2). This differs from overdepression in adduction in true superior oblique muscle overaction, which occurs less abruptly with increasing ad- duction. In mild Brown syndrome, no hypotropia is present in primary position. Severe cases of Brown syndrome with a primary position hypotropia are often accompanied by a chin-up head position or a head turn away from the side of the affected eye. Brown's syndrome vs inferior oblique palsy - Both will present with deficient elevation in adduction - Brown syndrome characterized by o +ve forced duction testing o V patterns o No or minimal SO overaction o No torsion o Negative head tilt test o Explanation failure of elevation in adduction due to a restriction from the trochlea-superior oblique (SO) complex.; affected eye cannot move up and in because of this trochlea restriction, so in upgaze in a Brown patient, one gets a divergence pattern (the affected eye cannot move in so it moves out), hence a V-pattern.; The superior oblique muscle is fine in Brown syndrome so there is no over-action or under-action - Inferior oblique palsy is characterized by o -ve Forced duction testing o A pattern o SO overaction o Intorsion o +ve Head tilt test o Explanation there is often secondary superior oblique muscle over-action; The secondary superior oblique muscle over-action leads to the A pattern, the intorsion of the eye, and the positive tilt test.",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 357
+ },
+ {
+  "id": 57,
+  "source": "promotion-2017",
+  "question": "scenario of pt with Distortion & asthenopia caused by :",
+  "options": {
+   "A": "PluS, Cylinder pOwer",
+   "B": "High Vertex distance",
+   "C": "LOw Vertix distance",
+   "D": "CrOwding phenOmina"
+  },
+  "correctAnswer": "A",
+  "explanation": "? Asthenopic symptoms include fatigue, headache, \"eyestrain,\" double vision, fluctuating visual acuity, and lengthening of the clearest reading distance. They suggest hyperopic refractive errors, presbyopia, \"accommodative spasm,\" or the possibility that the patient's existing glasses contain a stronger myopic correction (or a weaker hyperopic correction) than is necessary. Reference: AAO Optics section",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 359
+ },
+ {
+  "id": 58,
+  "source": "promotion-2017",
+  "question": "Calcification in RB :",
+  "options": {
+   "A": "NeCrOSiS",
+   "B": "Hg",
+   "C": "RPE metaplaSia"
+  },
+  "correctAnswer": "A",
+  "explanation": "Calcification within retinoblastoma is dystrophic and occurs within regions of necrosis. Intralesional calcification is found with other cancers including malignancies of the breast, prostate, and lung. In children, both neuroblastoma and Wilms tumor can display intralesional calcification. 0can%20display%20intralesional%20calcification. Reference: https://jamanetwork.com/journals/jamaophthalmology/fullarticle/422488#:~:t ext=Calcification%20within%20retinoblastoma%20is%20dystrophic,tumor%2",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 359
+ },
+ {
+  "id": 59,
+  "source": "promotion-2017",
+  "question": "a 7 y/o child diagnosed since 2 yrs of JIA ANA+ how frequent should follow up ?",
+  "options": {
+   "A": "3 mOnthS",
+   "B": "6 mOnthS",
+   "C": "9 months",
+   "D": "12 months"
+  },
+  "correctAnswer": "A",
+  "explanation": "Reference: AAO Uveitis Section",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 359
+ },
+ {
+  "id": 60,
+  "source": "promotion-2017",
+  "question": "pic of child showing limited elevation of right eye best next step :",
+  "options": {
+   "A": "FOrCe duCtiOn test",
+   "B": "Knapp prOCedure"
+  },
+  "correctAnswer": "A",
+  "explanation": "Generally, versions are tested first; both eyes' movements into the 9 diagnostic positions of gaze are assessed. Limitations of movement and asymmetric excursion of the 2 eyes (such as \"overaction\") are noted. Spinning the child or the doll's head maneuver may be used to elicit vestibular-stimulated eye movements. If versions are not full, the examiner should test duction movements for each eye separately near within 20 to 40 cm. Patient prefer distance at 40 cm: Reference: AAO Pediatric section \"assessment of eye movements\" patient can see 20/20. Want reading glass. With +3 lens he can see 20/30 at",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 360
+ },
+ {
+  "id": 61,
+  "source": "promotion-2017",
+  "question": "39 years old ptient with family hx of glaucoma presented to clinic as a routine checkup. Examination showed : IOP =16 mmgh , CDR = 0.8 and automated VF showed altitudinal defect. what is the most likely diagnosis :",
+  "options": {
+   "A": "Normal tension glaucoma",
+   "B": "Ocular hypertension",
+   "C": "Primary Opne ange galucoma"
+  },
+  "correctAnswer": "A",
+  "explanation": "Ocular hypertension is defined as a condition in which IOP is elevated above an arbitrary cutoff value, typically 21 mm Hg, in the absence of optic nerve, retinal nerve fiber layer, or visual field abnormalities. Controversy remains as to whether normal-tension glaucoma (NTG) represents a distinct disease entity or whether it is simply POAG developing in individuals with IOP within the statistically normal range. Glaucoma can develop at any level of IOP within the range ob- served in the general population NTG can be mimicked by conditions other than glaucoma. It is therefore essential to dis- tinguish glaucoma from other optic neuropathies (eg, optic nerve drusen, ischemic optic neuropathy) because appropriate therapy will differ (Table 7-2). Visual field defects in some of these conditions may appear similar to those seen with NTG and can even be progressive. The most common pattern of visual field loss in NAION is an altitudinal defect, but any pattern may be observed. Reference: AAO Glaucoma and NeuroOphtha Section",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 361
+ },
+ {
+  "id": 62,
+  "source": "promotion-2017",
+  "question": "Regarding prognosis of PAN, which of the following is true?",
+  "options": {
+   "A": "reath with in 1 year Of diagnosis",
+   "B": "if treated 5 year Survival is 50%",
+   "C": "Ocular involvment indicate poor prognosis",
+   "D": "Steroids low the risk of relapse is rare"
+  },
+  "correctAnswer": "B",
+  "explanation": "The 5-year mortality rate of untreated PAN is 90%. Although systemic corticosteroid use may reduce this rate to 50%, combination therapy with IMT, such as cyclophosphamide, improves 5-year survival to 80% and may induce long- term remission of the disease. Reference: AAO uveitis Sections the concept of OCT involves the use of:",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 361
+ },
+ {
+  "id": 63,
+  "source": "promotion-2017",
+  "question": "Autofleuroscence will help to identify :",
+  "options": {
+   "A": "RPE",
+   "B": "PR",
+   "C": "RPE and PR@"
+  },
+  "correctAnswer": "C",
+  "explanation": "Although lipofuscin in the RPE is the main source of autofluorescence from the fundus, accumulation of fluorophore in the subretinal space is another important sig- nal source for the evaluation of some diseases, such as central serous chorioretinopathy. After the disease is present for a few months, the detachment becomes lighter and slightly more yellow in color, and the detachment also becomes hyperautofluorescent. Upon OCT imaging, an accumulation of material was found on the back surface of the retina in eyes with central serous chorioretinopathy with hyperautofluorescent detachments. It is thought that the photoreceptor outer segments are typically phagocytized and processed by the RPE, but if the retina has been physically elevated by fluid, the photoreceptors become separated from the RPE, thus impeding phagocytosis. This mechanism of disease pathophysiol- ogy may also be seen in vitelliform deposits in vitelliform macular dystrophy, adult vi- telliform lesions, the yellow material that builds up under chronic retinal detachments caused by optic pit maculopathy, and pockets of retained subretinal fluid after detach- ment surgery. Reference: AAO Retina Section",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 362
+ },
+ {
+  "id": 64,
+  "source": "promotion-2017",
+  "question": "best slit lamp technique to sses the endothelium",
+  "options": {
+   "A": "SpeCular",
+   "B": "RetrOilluminatiOn",
+   "C": "DiffuSed"
+  },
+  "correctAnswer": "A",
+  "explanation": "Specular reflection Specular reflections are normal light reflexes bouncing off a surface (see Fig 2-2B). An example is the bright round or oval spot seen reflected from the ocular surface in a typical flash photograph of an eye. These mirror images of the light source can be annoying, and it is tempting to ignore them during slit-lamp examination. However, the clarity and sharpness of these reflections from the tear film give clues to the condition of the underlying tissue. A faint reflection also comes from the posterior corneal surface. The examiner can enhance this specular reflection by placing a light beam at an appropriate angle, revealing the corneal endothelium. no choices Reference: AAO Cornea Section pathology ( corneal dystrophy most likely lattice ) which of the following associated with condition",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 363
+ },
+ {
+  "id": 65,
+  "source": "promotion-2017",
+  "question": "Day 1 Post phaco with diffuse corneal edema and normal IOP. Cause ?",
+  "options": {
+   "A": "Toxins from Irrigating fluid",
+   "B": "Collapse of the AC and IOL touch",
+   "C": "Corneal decompensation due to fuch's dystrophy"
+  },
+  "correctAnswer": "A",
+  "explanation": "Toxic anterior segment syndrome (TASS) is an acute sterile postoperative inflammation. The symptoms and signs of TASS may mimic those of infectious endophthalmitis and include photophobia, severe reduction in visual acuity, corneal edema, and marked anterior chamber reaction, occasionally with hypopyon (Fig 11-17). However, TASS presents within 12 to 48 hours of surgery. potentially distinguishing features of TASS include diffuse, limbus-to-limbus corneal edema; anterior chamber fibrinous exudate; a dilated, irregular, or nonreactive pupil; and elevated IOP. The pathologic changes are limited to the anterior chamber. Pain is typically much milder than that experienced with an infection. Other causes of TASS include surgical glove residue or talc on instruments or IOLs; use of a denatured OVD; substitution of sterile water for balanced salt solution; intraocu- lar use of inappropriate irrigating solutions, antibiotics, or anesthetics; and inadvertent in- troduction of substances into the anterior chamber. Reference: AAO lens section",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 367
+ },
+ {
+  "id": 66,
+  "source": "promotion-2017",
+  "question": "Intra-op PCR with dropped nucleus. Appropriate management:",
+  "options": {
+   "A": "Inject triamcinolone",
+   "B": "Increase irrigation to rapidly aspirate the vitreous",
+   "C": "Try to phacoemulsify the lens in anterior vitreous"
+  },
+  "correctAnswer": "A",
+  "explanation": "If a small tear appears in the posterior capsule during aspiration of the cortex and the vitreous face remains intact, the surgeon can attempt to remove the residual cortex without expanding the tear. Using low-flow I/A and compartmentalizing the vitreous with an OVD If most of the nucleus remains and the capsular tear is large, further attempts at phacoemulsification should be abandoned. To extract the remaining nuclear fragments mechanically, the surgeon can enlarge the incision and remove the nucleus with a lens loop or spoon in a manner that minimizes vitreous traction and further damage to the capsule. Insertion of a second instrument or lens glide behind the nuclear remnant may help prevent the remnant from being dislocated into the vitreous. Alternatively, an OVD can be introduced posterior to the fragment in an effort to float it anteriorly, or the nucleus can be elevated into the anterior chamber with an instrument or nuclear spear. Retrieval of nuclear fragments from the deep vitreous is not recommended. If vitreous prolapse occurs, it is best to remove all vitreous from the anterior cham- ber during the initial surgery. Doing so will facilitate the removal of residual cortex and the subsequent placement of an IOL. In addition, a vitrectomy can reduce the chance of vitreoretinal traction or vitreous adherence to the IOL, the iris, or the incision. Vitreous loss during cataract surgery is associated with an increased risk of retinal detachment, cystoid macular edema, and endophthalmitis. The vitreous may be stained with unpreserved or washed triamcinolone for better visualization. It is important to avoid manually externalizing and cutting vitreous through the incision, because this causes excessive vitreoretinal traction, which increases the risk of retinal tears and retinal detachment. A 2-port bimanual anterior vitrectomy can be per- formed with separate infusion and aspirating/cutting instruments inserted through new, properly sized limbal incisions (Fig 10-6A; Video 10-7). Alternatively, the aspiration/cut- ting instrument may be placed through a pars plana incision while irrigation is continued through the limbus Reference: AAO lens section",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 368,
+  "imageUrl": "/images/promotion/p368_c607f4beec.png"
+ },
+ {
+  "id": 67,
+  "source": "promotion-2017",
+  "question": "Patient with Mucopolysaccharidosis , finding :",
+  "options": {
+   "A": "optic atrophy",
+   "B": "Cataract"
+  },
+  "correctAnswer": "A",
+  "explanation": "Reference: AAO Retina Section - Choroidal hemangioma o Dome-shaped o Acoustic solidity o High, regular internal reflectivity composed of tightly packed blood vessels o benign and *never* metastasize. o Treatment; Observation with serial fundus photographs; Small lesions causing no visual symptoms; most viable current treatment is photodynamic therapy (PDT; unresponsive to PDT; radiation therapy (e.g. brachytherapy or external beam radiation) - Choroidal melanoma o smooth, dome-shaped o \"Collar button\" (\"mushroom shape\") configuration present in <25% cases; pathognomonic o Low-to-medium, regular internal reflectivity - Retinoblastoma o An intraretinal tumour is a homogeneous, dome-shaped white lesion (that becomes irregular, often with white flecks of calcification. o Advanced forms display high, irregular internal reflectivity. due to the focal areas of calcification; necrosis and hemorrhage within the tumor contribute to its internal heterogeneity.",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 369,
+  "imageUrl": "/images/promotion/p369_c7a1bfb0f9.png"
+ },
+ {
+  "id": 68,
+  "source": "promotion-2017",
+  "question": "pic of necrotizing scleritis, appropriate Management:",
+  "options": {
+   "A": "topical steroid",
+   "B": "Topical cyclosporine",
+   "C": "Systemic Methotrexate",
+   "D": "Hydroxychlorquine"
+  },
+  "correctAnswer": "C",
+  "explanation": "Topical therapy is usually not sufficient to treat scleritis; therefore, treatment is systemic. It can range from oral nonsteroidal anti-inflammatory drugs (NSAIDs) to systemic immuno- modulatory agents. Reference: AAO Uveitis section",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 371
+ },
+ {
+  "id": 69,
+  "source": "promotion-2017",
+  "question": "Kc pt with refraction -9+3x 90 , vertex distance: 10 mm, Keratometry reading 46 at 90 and 43 at 180, We want to give him rigid gas permeable lens 1 D steeper than flattest K? Fridman optics SAM-FAP RULE",
+  "options": {
+   "A": "-5",
+   "B": "-6",
+   "C": "-7",
+   "D": "-8"
+  },
+  "correctAnswer": "C",
+  "explanation": "Reference: Friedmann which of the following regarding microbial keratitis is true? Pseudomonas infection if there is a history of trauma with contaminated soil (ACANTHAMEBA BACILUS); staph aureus attach to the surface receptor after trauma to the cornea causing injured epithelium ( PSEUDOMONAS ); Fungal can penetrate intact corneal epithelium ( DESCEMENT ENDOTHILIUM )",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 371,
+  "imageUrl": "/images/promotion/p371_9f5d4cc94e.png",
+  "imageUrls": [
+   "/images/promotion/p372_a0bd6843c2.png"
+  ]
+ },
+ {
+  "id": 70,
+  "source": "promotion-2017",
+  "question": "In advance cataract to assess macular function:",
+  "options": {
+   "A": "2 light separation",
+   "B": "Red discrimination ."
+  },
+  "correctAnswer": "A",
+  "explanation": "Reference: Friedmann Review Questions",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 373,
+  "imageUrl": "/images/promotion/p373_6f173535c3.png"
+ },
+ {
+  "id": 71,
+  "source": "promotion-2017",
+  "question": "a picture of Maddox rod, the right represented by white - left by red. Red line up White tilted down, the patient is most likely to have:",
+  "options": {
+   "A": "Rt hypophroia",
+   "B": "Rt 6th nerve plasy",
+   "C": "Cyclodeviation and hyperdeviation",
+   "D": "Horizontal diplopia"
+  },
+  "correctAnswer": "C",
+  "explanation": "When using a maddox rod for diplopia, the light/line will always be opposite of the direction of the eye in question. Esotropias (crossed eyes) will have an uncrossed maddox rod test (vertical line will be ipsilateral to eye over which maddox rod is placed, typically right eye). Exotropias (uncrossed eyes) will have a crossed maddox rod findings. (Right eye with maddox rod will show vertical line to left of white light... as pt sees it). Right hypertropia will show line below (if maddox over right eye). Right excyclotorsion will show line \"intorted\" from the pt's point of view as they see it with maddox over right eye, etc. etc. Reference: My notes from OphthaQuestions",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 374,
+  "imageUrl": "/images/promotion/p374_4732f53584.jpg"
+ },
+ {
+  "id": 72,
+  "source": "promotion-2017",
+  "question": "35 yrs retinitis pigmentosa with recent decrease VA OD 20/40 OS 20/20 .. What is most likely cause of his decrease VA?",
+  "options": {
+   "A": "Waxy disc pallor",
+   "B": "Glaucoma",
+   "C": "CME",
+   "D": "Progressive RP"
+  },
+  "correctAnswer": "C",
+  "explanation": "Abnormal permeability of the perifoveal retinal capillaries may occur in a wide variety of conditions, including diabetic retinopathy, central retinal vein occlusion (CRVO), branch retinal vein occlusion (BRVO), any type of uveitis (particularly pars planitis), and reti- nitis pigmentosa Reference: AAO retina section",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 374
+ },
+ {
+  "id": 73,
+  "source": "promotion-2017",
+  "question": "Pt with mass above medical canthal tendon, most likely diagnosis ?",
+  "options": {
+   "A": "Upper canalinculitis",
+   "B": "Lacrimal sac tumor",
+   "C": "Common canalinulitis"
+  },
+  "correctAnswer": "B",
+  "explanation": "Primary lacrimal sac tumors are rare and should be considered for any mass that pre- sents above the medial canthal tendon. Reference: AAO Oculofacial plastic section",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 375
+ },
+ {
+  "id": 74,
+  "source": "promotion-2017",
+  "question": "Pt with facial N palsy , what important thing you will do for ocular complication ?",
+  "options": {
+   "A": "Corneal sensation",
+   "B": "6 CN"
+  },
+  "correctAnswer": "A",
+  "explanation": "Corneal sensation is supplied by the ophthalmic division of the fifth (trigeminal) cra- nial nerve. Corneal esthesiometry is typically used clinically to evaluate for neurotrophic keratopathy. Reference: AAO Cornea section",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 375
+ },
+ {
+  "id": 75,
+  "source": "promotion-2017",
+  "question": "Sx is planned for palpebral lacrimal gland biopsy . What structure is most likely to be damaged ?",
+  "options": {
+   "A": "Lacrimal ductules",
+   "B": "greater petrosal artery"
+  },
+  "correctAnswer": "A",
+  "explanation": "Biopsy of the lacrimal gland is preferentially performed on the orbital lobe to avoid damage to the secretory ductules.. Reference: AAO Oculofacial plastic section",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 375
+ },
+ {
+  "id": 76,
+  "source": "promotion-2017",
+  "question": "fundus pic with ROP born at 29w and now 32 ( looks posterior zone 2 stage 2 no plus ) what to do ?",
+  "options": {
+   "A": "IVAV",
+   "B": "Observe and f/u",
+   "C": "Laser to avascular retina",
+   "D": "increase oxygen sat to 100%"
+  },
+  "correctAnswer": "B",
+  "explanation": "- The stages of ROP: o Stage 0: immature vascularization (no ROP) o Stage 1: demarcation line (i.e. has no height) o Stage 2: ridge with or without small tufts of fibrovascular proliferation o Stage 3: ridge with extraretinal fibrovascular proliferation o Stage 4: subtotal retinal detachment (4A - extrafoveal RD; 4B - RD including fovea o Stage 5: total retinal detachment - zones or location of involvement of ROP o Zone I (i.e. posterior pole): circle (centered on the optic disc) with a radius of 30 degrees (i.e. approximately twice the disc-to-fovea distance) o Zone II: from edge of zone I to point tangetial to nasal oral serrata and around to area near the temporal equator o Zone III: residual cresent anterior to zone II - Extent of disease o specified as hours of the clock as the examiner looks into the eye - \"Plus disease\" o when vascular shunting is so severe that the posterior pole veins are enlarged and the arteries are tortuous. - Cryotherapy for Retinopathy of Prematurity (CRYO-ROP) o defined \"threshold disease\" 5 contiguous or 8 total clock-hours of stage 3 in zone I or II with plus disease. - Early Treatment for Retinopathy of Prematurity (ETROP) o further classified ROP into either type 1 or type 2 disease. Type 1 ROP; Zone I, any stage with plus disease; Zone I, stage 3 without plus disease; Zone II, stage 2 or 3 with plus disease; Type 2 ROP; Zone I, stage 1 or 2 without plus disease; Zone II, stage 3 without plus disease",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 376
+ },
+ {
+  "id": 77,
+  "source": "promotion-2017",
+  "question": "another fundus pic of ROP born at 25w , wt is 540g .. ( looks zone 1 stage 3 with plus) What to do ?",
+  "options": {
+   "A": "IVAV",
+   "B": "Observe and f/u",
+   "C": "Laser to avascular retina"
+  },
+  "correctAnswer": "C",
+  "explanation": "- The stages of ROP: o Stage 0: immature vascularization (no ROP) o Stage 1: demarcation line (i.e. has no height) o Stage 2: ridge with or without small tufts of fibrovascular proliferation o Stage 3: ridge with extraretinal fibrovascular proliferation o Stage 4: subtotal retinal detachment (4A - extrafoveal RD; 4B - RD including fovea o Stage 5: total retinal detachment - zones or location of involvement of ROP o Zone I (i.e. posterior pole): circle (centered on the optic disc) with a radius of 30 degrees (i.e. approximately twice the disc-to-fovea distance) o Zone II: from edge of zone I to point tangetial to nasal oral serrata and around to area near the temporal equator o Zone III: residual cresent anterior to zone II - Extent of disease o specified as hours of the clock as the examiner looks into the eye - \"Plus disease\" o when vascular shunting is so severe that the posterior pole veins are enlarged and the arteries are tortuous. - Cryotherapy for Retinopathy of Prematurity (CRYO-ROP) o defined \"threshold disease\" 5 contiguous or 8 total clock-hours of stage 3 in zone I or II with plus disease. - Early Treatment for Retinopathy of Prematurity (ETROP) o further classified ROP into either type 1 or type 2 disease. Type 1 ROP; Zone I, any stage with plus disease; Zone I, stage 3 without plus disease; Zone II, stage 2 or 3 with plus disease; Type 2 ROP; Zone I, stage 1 or 2 without plus disease; Zone II, stage 3 without plus disease",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 377
+ },
+ {
+  "id": 78,
+  "source": "promotion-2017",
+  "question": "pic of baby 3 yrs with ( looks central leukoma both eyes ) has iop 45 OU , what other finding ?",
+  "options": {
+   "A": "Microphthalmia",
+   "B": "Abnormal lens location",
+   "C": "Retinal dystrophy",
+   "D": "Peripheral retinal degeneration"
+  },
+  "correctAnswer": "B",
+  "explanation": "Peters anomaly type I is characterized by iridocorneal adhesions and a corneal opac- ity that is usually avascular and may be central, eccentric, or less commonly total. The syndrome is associated with mutations in PITX2, FOXC1, CYP1B1, PAX6, and other genes. Peters anomaly type II is characterized by corneolenticular adhesions and/or cata- ract, along with a central or total corneal opacity that is usually vascularized (Fig 5-4). Peters anomaly type II is presumed to be due to a developmental failure in separation of the invaginating lens vesicle from the overlying surface ectoderm. Mutations in the gene FOXE3 have been implicated in lens malformation in Peters anomaly type II. The same genetic mutation can cause Peters type I to occur in one eye and type II in the contralateral eye. High-frequency ultrasonography can be very useful in differentiating Peters types I and II, and sclerocornea. Glaucoma is present in 50% of Peters anomaly cases. Additional associated ocular abnormalities include microcornea, aniridia, retinal detachment, and PFV. The progno- sis for vision rehabilitation with corneal transplantation is better for patients with Peters anomaly type I than for those with type II Peters type I affects the cornea alone, type II shows both corneal and lens abnormalities. Central corneal opacity of variable density (Fig. 11.68A and B).; Posterior corneal defect involving the posterior stroma,; Descemet membrane and endothelium with or without irido; corneal or lenticulocorneal (Fig. 11.68C) adhesions; Glaucoma occurs in about 50% due to associated angle anomaly. Onset is usually in infancy but occasionally in childhood or later.",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 378
+ },
+ {
+  "id": 79,
+  "source": "promotion-2017",
+  "question": "pathology slide of angle with black spot at TM .. In female with unilateral glaucoma .. cause ?",
+  "options": {
+   "A": "DM",
+   "B": "Blunt truama",
+   "C": "Penetrating trauma",
+   "D": "Viral"
+  },
+  "correctAnswer": "B",
+  "explanation": "Angle recession is a common finding after blunt trauma and involves a tear between the longitudinal and circular muscle fibers of the ciliary body. Although angle recession is not necessarily associated with immediate IOP elevation and glaucoma, it is a sign of probable damage to the trabecular meshwork. Traumatic glaucoma is chronic and usually unilateral and may occur immediately after the ocular trauma or months to years later. It resembles POAG in presentation and clinical course but can be distinguished by its classic gonio- scopic findings widening of the ciliary body band; absent or torn iris processes; white, glistening scleral spur; irregular and dark pigmentation in the angle; PAS at the border of the recession",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 379
+ },
+ {
+  "id": 80,
+  "source": "promotion-2017",
+  "question": "35 yrs with fundus photo looks CRVO and FFA: CRVO but most likely no NVD or NVE. What to do?",
+  "options": {
+   "A": "PRP",
+   "B": "Blood workup for thrombophilia and autoantibodies",
+   "C": "observe",
+   "D": "IVAV"
+  },
+  "correctAnswer": "B",
+  "explanation": "If the evaluation indicates that common risk factors for CRVO are absent, or if the patient is less than 50 years of age, a thorough investigation should be considered, possibly including a workup for thrombophilia. Reference: AAO Retina Section",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 380
+ },
+ {
+  "id": 81,
+  "source": "promotion-2017",
+  "question": "fundus photo of PVR ,, hx of recurrence wt is true. If the patient is phakic ?",
+  "options": {
+   "A": "Heparin with 5fu in addition to SO has dramatic great prognosis .",
+   "B": "Best prognosis is by Vitrectomy",
+   "C": "low risk of cataract"
+  },
+  "correctAnswer": "B",
+  "explanation": "The introduction of new surgical techniques and instrumentation and improved knowledge of the pathophysiology of abnormal vitreoretinal structural changes have resulted in a steady improvement in the anatom- ical and visual results of vitreous surgery. Some of the results reported for the most common indications of vitrectomy are given in Table 6.12.1 and represent significant advances in the surgical treatment of retinal disorders. The most common cataract that is induced by pars plana vitrectomy in phakic patients is a nuclear cataract. - >90% patients over age 50 will develop nuclear cataract within 2 years of vitrectomy. - vitrectomy increase the long-term risk of open-angle glaucoma by 10-20%. Reference: AAO Retina Section and OphthoQuestions Pattern of VF deficit - Cecocentral and/or central defects o classically seen in early toxic optic neuropathy; nutritional optic neuropathy - Global depression o severe end-stage toxic optic neuropathy o Acute ingestion of methanol or ethylene glycol - Arcuate defects o nerve fiber bundle defects caused by glaucoma; optic nerve drusen - Ring scotomas o classic for retinitis pigmentosa, o acquired rod predominant degenerations such as vitamin A deficiency; melanoma associated retinopathy",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 380,
+  "imageUrl": "/images/promotion/p380_6136968c37.png"
+ },
+ {
+  "id": 82,
+  "source": "promotion-2017",
+  "question": "young child with right limited adduction, XT , narrow palpebral fissure OD and upshoot , what sx ?",
+  "options": {
+   "A": "Right LR recession with Y splitting",
+   "B": "LR recession + MR resection",
+   "C": "SR recession",
+   "D": "LR recession with IO weakening"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document. - three types of Duane syndrome: o Type 1: limited abduction (Most common) o Type 2: limited adduction o Type 3: limited adduction and abduction o synergistic divergence sometimes classified as a fourth type of Duane syndrome; there is exotropia and the affected eye actually abducts even further on attempted adduction (\"the ocular splits\") surgery is reserved for patients who exhibit o a primary position deviation o an abnormal compensatory head posture o significant globe retraction, or large up/downshoots o the goal of any surgery would be to allow for binocularity in primary gaze - Surgeries performed include o For Type 1 most common surgery of type 1 Duane's syndrome is medial rectus recession on the involved side; if >20PD deviation -> Bilateral MR recession; SR recession + MR recession o Type 2; LR recession o For significant upshoot/downshoot; Y-splitting of LR o For significant glob retraction; Recession of antagonistic co-contracting muscle",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 382
+ },
+ {
+  "id": 83,
+  "source": "promotion-2017",
+  "question": "bleb photo with turbid fluid , asymptomatic pt with 20/20 VA , iop is 5 mmhh , what next to do ?",
+  "options": {
+   "A": "Observation",
+   "B": "Bleb revision",
+   "C": "B-Scan",
+   "D": "Topical antibiotic"
+  },
+  "correctAnswer": "D",
+  "explanation": "Bleb-related infection (Fig 13-16) is a potentially vision-threatening complication after trabeculectomy, occurring in 1.5%-6.0% of patients. Patients typically present with tearing, irritation, pain, and/or blurry vision. Risk factors for infection include untreated blepharitis, presence of an inferior bleb, bleb leak, and thin-walled blebs (which tend to occur with localized blebs). The use of MMC and 5-FU is also a risk factor, as these agents are associated with a higher incidence of thin-walled blebs and bleb leaks. One proposed classification scheme divides bleb-related infection into 3 stages, al- though these stages represent a continuum of infection: stage 1: erythema around the bleb, bleb infiltrate stage 2: anterior chamber inflammation stage 3: hypopyon and/or intravitreal involvement Stage 1 and stage 2 bleb-related infection (blebitis) can be treated with topical fluoroqui- nolones or fortified topical and subconjunctival antibiotics as needed. Stage 3, indicated by the presence of a hypopyon or intravitreal involvement (bleb- related endophthalmitis), warrants either a vitreous tap with injection of antibiotics or a vitrectomy. Patients with stage 1 and stage 2 bleb-related infection tend to fare well, while those with stage 3 tend to have poor visual outcomes. Reference: AAO Glaucoma Section",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 383
+ },
+ {
+  "id": 84,
+  "source": "promotion-2017",
+  "question": "CT over MRI ?",
+  "options": {
+   "A": "Bone and calcium",
+   "B": "Good in claustrophobia",
+   "C": "Something about artifact .",
+   "D": "visualization of orbital apex"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 383
+ },
+ {
+  "id": 85,
+  "source": "promotion-2017",
+  "question": "pathology slide of pt has stromal vascularization with descemet lines , surrounded by lymphocyte and F.B giant cell , most likely dx ?",
+  "options": {
+   "A": "Moorens",
+   "B": "Pseudomonas",
+   "C": "Fungal",
+   "D": "herpetic"
+  },
+  "correctAnswer": "D",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 384
+ },
+ {
+  "id": 86,
+  "source": "promotion-2017",
+  "question": "75 yrs with sudden decrease VA , fundus showed plaque in vessel and BRAO .. What is most valuable to establish dx ?",
+  "options": {
+   "A": "ESR and C-RP",
+   "B": "Carotid US",
+   "C": "OCT",
+   "D": "FFA"
+  },
+  "correctAnswer": "D",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 384
+ },
+ {
+  "id": 87,
+  "source": "promotion-2017",
+  "question": "pt has stromal herpetic keratitis , what is treatment that decrease progression of stromal keratitis ?",
+  "options": {
+   "A": "Topical antiviral alone",
+   "B": "Topical antiviral and topical steroid",
+   "C": "Topical antiviral , oral antiviral and topical steroid .",
+   "D": "topical and oral antiviral"
+  },
+  "correctAnswer": "B",
+  "explanation": "Eyewiki: Thus, the standard of care for treatment of HSK involves topical steroids, which broadly inhibit the damaging immune response, often in combination with oral antiviral medication to block potential viral replication. (topical steroid + oral antiviral)",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 384
+ },
+ {
+  "id": 88,
+  "source": "promotion-2017",
+  "question": "scenario of middle age man with slowly progressive unilateral proptosis and diplopia, not related to URTI , CT: homogenous well circumscribed mass with moderate enhancement ,, dx ?",
+  "options": {
+   "A": "Cavernous hemangioma",
+   "B": "metastatic lung ca",
+   "C": "schwannoma",
+   "D": "lymphangioma"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 384
+ },
+ {
+  "id": 89,
+  "source": "promotion-2017",
+  "question": "pic of child with right lower lid temporal bluish mass , increasing with cold ,, dx ?",
+  "options": {
+   "A": "Rhabdomyosarcoma",
+   "B": "lymphatic malformation"
+  },
+  "correctAnswer": "B",
+  "explanation": "40. other scenario of a child has changing size of a mass , dx ? a. Lymphangioma",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 384
+ },
+ {
+  "id": 90,
+  "source": "promotion-2017",
+  "question": "closing her eyes , what other features ?",
+  "options": {
+   "A": "Lid lag on down gaze",
+   "B": "Worsen ptosis with cold",
+   "C": "Worsen when she looks up ."
+  },
+  "correctAnswer": "C",
+  "explanation": "Myasthenia gravis",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 385
+ },
+ {
+  "id": 91,
+  "source": "promotion-2017",
+  "question": "pic of 3 year old child with superotemoral mass ( looks dermoid cyst ) What thing to be cautious about during sx ?",
+  "options": {
+   "A": "Rupture",
+   "B": "Deep levator resection",
+   "C": "hemorrhage"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 385
+ },
+ {
+  "id": 92,
+  "source": "promotion-2017",
+  "question": "22 IOP means:",
+  "options": {
+   "A": "Geassus distripution",
+   "B": "> than 2 standard deviation higher",
+   "C": "Normal in most people"
+  },
+  "correctAnswer": "B",
+  "explanation": "lOP has a non-Gaussian distribution with a skew toward higher pressures, especially in individuals older than 40 years .The value 21 mm Hg (greater than 2 standard deviations above the mean) was traditionally used both to separate normal and abnormal pressures and to define which patients required ocular hypotensive therapy.",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 385
+ },
+ {
+  "id": 93,
+  "source": "promotion-2017",
+  "question": "3 days post Trabeculectomy with flat bleb and IOP 40 mmhg with pain and shallow AC and patent PI and normal fundus. cause:",
+  "options": {
+   "A": "Aqueous misdirction",
+   "B": "Bleb leak"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 385
+ },
+ {
+  "id": 94,
+  "source": "promotion-2017",
+  "question": "day 1 post phaco with 700 micron corneal thickness, and 24 IOP ... measurement will be:",
+  "options": {
+   "A": "Falsely high",
+   "B": "Falsely low",
+   "C": "measure IOP after applying NAC"
+  },
+  "correctAnswer": "A",
+  "explanation": "Corneal thickness has been shown to affect IOP readings, with thin corneas resulting in a falsely low IOP, and thick corneas resulting in a falsely high IOP. 46. hypopyon:",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 385
+ },
+ {
+  "id": 95,
+  "source": "promotion-2017",
+  "question": "received multiple subtenon steroid which anesthesia is C/I in phaco?(same Q in provision)",
+  "options": {
+   "A": "Topical intracameral",
+   "B": "Retrbulbar",
+   "C": "Peribulbar"
+  },
+  "correctAnswer": "C",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 386
+ },
+ {
+  "id": 96,
+  "source": "promotion-2017",
+  "question": "70 Yrs Old Immunocompetent with floaters, vitreous cells, peripheral vasculitis and large retinitis (ARN picture):",
+  "options": {
+   "A": "Herpetic necrotizing inflammation",
+   "B": "Bechet",
+   "C": "CMV",
+   "D": "toxoplasmosis"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 386
+ },
+ {
+  "id": 97,
+  "source": "promotion-2017",
+  "question": "Which subtype of BCC has the Highest recurrence if not completely removed:",
+  "options": {
+   "A": "Nodular",
+   "B": "Morpheform",
+   "C": "pigmented"
+  },
+  "correctAnswer": "B",
+  "explanation": "Histologic types of BCC at higher risk for recurrence include morpheaform (sclerotic), micronodular, infiltrative, and superficial (multicentric).",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 386
+ },
+ {
+  "id": 98,
+  "source": "promotion-2017",
+  "question": "Treatment of basal cell carcinoma:",
+  "options": {
+   "A": "surgical excision with frozen section and free margin",
+   "B": "antimetabolite local",
+   "C": "brachytherapy",
+   "D": "radiation at 2500 beam wavelength"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 386
+ },
+ {
+  "id": 99,
+  "source": "promotion-2017",
+  "question": "Seen in bruchs membrane of Angoid streak:",
+  "options": {
+   "A": "Ca+",
+   "B": "lipid",
+   "C": "iron",
+   "D": "collagen"
+  },
+  "correctAnswer": "A",
+  "explanation": "Histopathologic studies have shown extensive calcification and thickening of Bruch's membrane and the intervening interstitial space between capillaries. Histopathologic break's in Bruch's membrane correspond to the clinical location of angioid streaks. Ingrowth of fibrovascular tissue may occur from the choroid into the sub retinal pigment epithelial space, Eye Wiki",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 386
+ },
+ {
+  "id": 100,
+  "source": "promotion-2017",
+  "question": "optic nerve drusen is associated with:",
+  "options": {
+   "A": "Alagile syndrome",
+   "B": "GCA",
+   "C": "Pseudotumor"
+  },
+  "correctAnswer": "A",
+  "explanation": "Eyewiki: They can be associated with retinitis pigmentosa, angioid streaks, Usher syndrome, Noonan syndrome and Alagille syndrome.",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 386
+ },
+ {
+  "id": 101,
+  "source": "promotion-2017",
+  "question": "Pic of a child with high IOP and no bufthalmus. What gene is affected?",
+  "options": {
+   "A": "Myocilin gene",
+   "B": "CYP1B1",
+   "C": "OPTN",
+   "D": "LOXL1"
+  },
+  "correctAnswer": "B",
+  "explanation": "The prevalence is higher in cultures with consanguinity, particularly those with a high carrier rate of CYP1B1 gene (GLC3A locus on chromosome 2p21). There appears to be no association with adult primary open-angle glaucoma. Eye Wiki",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 387
+ },
+ {
+  "id": 102,
+  "source": "promotion-2017",
+  "question": "Pic of Multiple large Soft drusen + OCT:",
+  "options": {
+   "A": "Early",
+   "B": "intermediate",
+   "C": "Advanced",
+   "D": "no AMD"
+  },
+  "correctAnswer": "B",
+  "explanation": "Classification Early ARMD: Defined by the presence of numerous small (<63 microns, \"hard\") or intermediate (≥63 microns but <125 microns, \"soft\") drusen. Note: Small drusen are frequently seen in those 50 and older, and can represent an epiphenomenon of aging (therefore, intermediate drusen are more specific for ARMD Intermediate ARMD: Macular disease characterized by either extensive drusen of small or intermediate size, or any drusen of large size (≥125 microns). Advanced ARMD: Defined by the presence of either geographic atrophy or choroidal neovascular membrane (along with its sequelae, such as subretinal or sub-RPE hemorrhage or serous fluid, and subretinal fibrosis). 29 months. • Eye Wiki",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 387,
+  "imageUrl": "/images/promotion/p387_adbd613ddb.png"
+ },
+ {
+  "id": 103,
+  "source": "promotion-2017",
+  "question": "FFA of Indian: with VH & periphral NV (Eale'. Which test?",
+  "options": {
+   "A": "Tuberculin test",
+   "B": "VDRL",
+   "C": "FTA-ABS"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 387
+ },
+ {
+  "id": 104,
+  "source": "promotion-2017",
+  "question": "Moreen ulcer:",
+  "options": {
+   "A": "Unilateral in young",
+   "B": "Hepatitis C related mooren is Treated with Interferon effectively c. progression toward the sclera"
+  },
+  "correctAnswer": "B",
+  "explanation": "Systemic immunosuppression using cyclophosphamide, azathioprine, or methotrexate can be attempted if conjunctival resection yields no improvement . Interferon alpha 2b has been used in patients who had hepatitis C and concomitant Mooren's ulceration. In more aggressive cases, oral corticosteroids, cyclosporine A, and methotrexate have also been used with some success Eye Wiki",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 387
+ },
+ {
+  "id": 105,
+  "source": "promotion-2017",
+  "question": "Large descemts detachment Management:",
+  "options": {
+   "A": "Nylon suture >>>>>>",
+   "B": "Silicon oil in AC",
+   "C": "Leave large amount of viscoelastic"
+  },
+  "correctAnswer": "A",
+  "explanation": "Eyewiki: Transcorneal interrupted suturing using a 10/00 monofilament Nylon suture has been described, frequently associated with intracameral injection of air/gas.",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 388
+ },
+ {
+  "id": 106,
+  "source": "promotion-2017",
+  "question": "Europian society recommendation to prevent post-op endophthalmitis post phaco:",
+  "options": {
+   "A": "Intracameral cefuroxime",
+   "B": "Preop levofloxacin",
+   "C": "vancomycin with irrigating fluid"
+  },
+  "correctAnswer": "A",
+  "explanation": "Intracameral injection of cefuroxime during phacoemulsification is considered effective in preventing endophthalmitis.",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 388
+ },
+ {
+  "id": 107,
+  "source": "promotion-2017",
+  "question": "CIN characteristic:",
+  "options": {
+   "A": "Dysplasia : they classify CIN into mild moderate severe based on degree of dysplasia",
+   "B": "Hyperplasia",
+   "C": "hyperkeratosis",
+   "D": "acanthosis"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 388,
+  "imageUrl": "/images/promotion/p388_88eb6c9a63.png"
+ },
+ {
+  "id": 108,
+  "source": "promotion-2017",
+  "question": "Which one is a Main. Branch of facial nerve",
+  "options": {
+   "A": "Zygomatic",
+   "B": "Zygmatofecial branch",
+   "C": "Infra-orbital branch",
+   "D": "Temporal - parital branch"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 389,
+  "imageUrl": "/images/promotion/p389_f3dca963d9.png"
+ },
+ {
+  "id": 109,
+  "source": "promotion-2017",
+  "question": "Rounding of medial canthus:",
+  "options": {
+   "A": "Medial canthal avulsion (long asessment)",
+   "B": "medial wall fracture",
+   "C": "tumor",
+   "D": "Dacryocystitis"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 389
+ },
+ {
+  "id": 110,
+  "source": "promotion-2017",
+  "question": "BRVO macular edema ttt:",
+  "options": {
+   "A": "VA less than 20/40 >3 months >> TRUE ( as per BVOS )",
+   "B": "500 thickness from FAZ",
+   "C": "Hard exudate",
+   "D": "5 DD ischemia"
+  },
+  "correctAnswer": "A",
+  "explanation": "63. Brucella treatment",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 389
+ },
+ {
+  "id": 111,
+  "source": "promotion-2017",
+  "question": "year-old patient underwent complicated cataract and DSAEK. 3 months later VA is not improved. Which of the following is the best to maximize vision improvement?",
+  "options": {
+   "A": "PTK",
+   "B": "Endothelial stem cell transplant",
+   "C": "Repeat DSAEK",
+   "D": "Treat cystoid macular edema"
+  },
+  "correctAnswer": "D",
+  "explanation": "No explanation was provided in the source document. potential acuity estimation; computerized corneal topography; anterior segment OCT; trial of gas permeable contact lens the most site of resistance in aqueous flow: Juxtacanalicular; uveal meshwork; corneosclearal; schlemm canal",
+  "year": "2017",
+  "subspecialty": "Optics",
+  "pdfPage": 390
+ }
+]

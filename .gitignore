@@ -33,6 +33,15 @@ patch_*.py
 # Parser metadata (internal)
 public/data/_*.json
 public/data/*.sh
+public/data/*.bak
+
+# Audit artifacts: page renders written by scripts/verify_promotion.py
+scripts/_verify/
+scripts/promotion_rejects.json
+scripts/promotion_orphan_images.json
+scripts/promotion_screenshot_only.json
+scripts/promotion_ocr_refused.json
+scripts/ocr/batch_*.json
 
 # Environment
 .env

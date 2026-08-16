@@ -215,10 +215,16 @@ body::before {
 /* ── Source badges (theme-aware) ──────────────────────── */
 .badge-bcsc { background: #dbeafe; color: #1d4ed8; }
 .badge-ophthoq { background: #ede9fe; color: #6d28d9; }
+.badge-promotion { background: #d1fae5; color: #047857; }
+.badge-neutral { background: #e5e7eb; color: #4b5563; }
 [data-theme="dark"] .badge-bcsc { background: #1e3a5f; color: #93c5fd; }
 [data-theme="dark"] .badge-ophthoq { background: #2e1a4a; color: #c4b5fd; }
+[data-theme="dark"] .badge-promotion { background: #10352a; color: #6ee7b7; }
+[data-theme="dark"] .badge-neutral { background: #33383f; color: #d1d5db; }
 [data-theme="sepia"] .badge-bcsc { background: #e8dfc8; color: #6b5230; }
 [data-theme="sepia"] .badge-ophthoq { background: #e0d4c0; color: #5a3e28; }
+[data-theme="sepia"] .badge-promotion { background: #dce4cc; color: #3f5a30; }
+[data-theme="sepia"] .badge-neutral { background: #e4ddcc; color: #5c5346; }
 
 /* ── Category gradient icons (circles) ────────────────── */
 .cat-icon-fundamentals { background: linear-gradient(135deg, #818cf8, #6366f1); }
@@ -230,6 +236,7 @@ body::before {
 .cat-icon-neuro { background: linear-gradient(135deg, #a78bfa, #7c3aed); }
 .cat-icon-oculoplastics { background: linear-gradient(135deg, #fb923c, #f97316); }
 .cat-icon-pediatrics { background: linear-gradient(135deg, #2dd4bf, #14b8a6); }
+.cat-icon-promotion { background: linear-gradient(135deg, #64748b, #334155); }
 
 /* ── Category gradient cards ──────────────────────────── */
 .cat-fundamentals { background: linear-gradient(135deg, #f0f4ff 0%, #e8eeff 100%); }
@@ -241,7 +248,9 @@ body::before {
 .cat-neuro { background: linear-gradient(135deg, #f8f0ff 0%, #ede0ff 100%); }
 .cat-oculoplastics { background: linear-gradient(135deg, #fff8f0 0%, #ffeedc 100%); }
 .cat-pediatrics { background: linear-gradient(135deg, #f0fffc 0%, #d8fff4 100%); }
+.cat-promotion { background: linear-gradient(135deg, #f6f8fb 0%, #e6ecf4 100%); }
 
+[data-theme="dark"] .cat-promotion,
 [data-theme="dark"] .cat-fundamentals,
 [data-theme="dark"] .cat-cornea,
 [data-theme="dark"] .cat-lens-cataract,
@@ -263,6 +272,7 @@ body::before {
 [data-theme="sepia"] .cat-neuro { background: linear-gradient(135deg, #ece0d4 0%, #e4d4c0 100%) !important; }
 [data-theme="sepia"] .cat-oculoplastics { background: linear-gradient(135deg, #f0e8d0 0%, #e8dcc0 100%) !important; }
 [data-theme="sepia"] .cat-pediatrics { background: linear-gradient(135deg, #eee4d0 0%, #e4d8c0 100%) !important; }
+[data-theme="sepia"] .cat-promotion { background: linear-gradient(135deg, #eee9dc 0%, #e2dccb 100%) !important; }
 
 /* ── Scrollbar ────────────────────────────────────────── */
 ::-webkit-scrollbar { width: 5px; }

@@ -1,0 +1,112 @@
+[
+ {
+  "task_id": "p450_n3_1",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Diagram of 10 corneal topography colour maps with captions only (Round, Oval, Superior steepening, Inferior steepening, Irregular, Symmetric bowtie, Symmetric bowtie with skewed radial axes, Asymmetric bowtie with inferior steepening (AB/IS), Asymmetric bowtie with superior steepening (AB/SS), Asymmetric bowtie with skewed radial axes (AB/SRAX)). No question text, no options."
+ },
+ {
+  "task_id": "p450_n4_0",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Prose excerpt with red/blue headings defining 'Photoablation' and 'Photodisruption' (excimer vs YAG lasers). No question stem or options. A cut-off line of text begins at the very bottom edge of the crop."
+ },
+ {
+  "task_id": "p451_n5_0",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Lecture slide titled \"DESCEMET'S MEMBRANE (10-12 MM)\" with a 5-item bulleted list (PAS positive, ant/post zones, Hassall Henle warts, C. Guttata). Reference material, not a question."
+ },
+ {
+  "task_id": "p451_n7_0",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Reference table: 'Table 1 - Possible Etiologies of Cicatricial Conjunctivitis' with 8 columns (Autoimmune Conditions, Conjunctival Diseases, Infections, Malignancies, Medications, Systemic Inflammatory Pathologies, Trauma, Other). Bottom row ('Linear IgA disease') is cut off at the image edge."
+ },
+ {
+  "task_id": "p452_n9_0",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Two lines of prose giving a mnemonic for the order of recurrence of dystrophies in grafts (Reis-Bucklers > Lattice > Granular > Macular). No question or options."
+ },
+ {
+  "task_id": "p452_n10_0",
+  "type": "question",
+  "question": "Clinical presentations of iridocorneal endothelial syndrome share in common the proliferation of what tissue?",
+  "options": {
+   "A": "corneal endothelium",
+   "B": "corneal epithelial basement membrane",
+   "C": "corneal stroma",
+   "D": "corneal epithelium"
+  },
+  "answer": "A",
+  "answerEvidence": "Option A is highlighted in green and the text '81% Correct Answer' appears to its right; a black checkmark sits beside the question number 54.",
+  "explanation": "",
+  "confidence": "high",
+  "notes": "Question-bank screenshot numbered 54. A response-percentage block appears above the options ('81% of respondents answered correctly. A. 81% B. 3% C. 0% D. 12%'); these are respondent percentages, not answer markers. An 'Explanation & Notes' section with a 'Discussion' box is visible but contains no readable text in this crop."
+ },
+ {
+  "task_id": "p455_n5_0",
+  "type": "explanation",
+  "confidence": "low",
+  "notes": "Very small image with text rotated 90 degrees: a numbered list of three study/research questions (photocoagulation for DME, photocoagulation for diabetic retinopathy, aspirin for preventing progression of diabetic retinopathy). These are study objectives, not multiple-choice options — no answer options and no answer marker. Low confidence due to tiny rotated text."
+ },
+ {
+  "task_id": "p455_n5_1",
+  "type": "explanation",
+  "confidence": "medium",
+  "notes": "Text rotated 90 degrees, small: trial-results prose under three yellow-highlighted headings ('Macular edema results:', 'Early scatter photocoagulation results:', 'Aspirin use results:'). Prose only, no question or options. Medium confidence due to rotation and small size."
+ },
+ {
+  "task_id": "p456_n47_0",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Two lines of prose with red and yellow highlighting about traumatic retinal breaks / retinal dialysis in the inferotemporal quadrant, followed by a bold 'Extra:' heading cut off at the bottom edge. No question or options."
+ },
+ {
+  "task_id": "p459_n12_0",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Small bulleted excerpt on 'Fleurette' (photoreceptor differentiation, retinocytoma, fleur-de-lis pattern) with yellow highlighting. No question or options."
+ },
+ {
+  "task_id": "p459_n12_1",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Textbook reference table/flow chart of retinoblastoma genetic counselling risks: header row 'If parent was' with Bilateral / Unilateral / Unaffected columns and rows for chance of offspring having retinoblastoma, laterality, focality, and chance of next sibling having retinoblastoma; footnote '*If parent is a carrier, then 45%'. Grid-style reference data rather than a clinical image; contains arrows so it is a table-diagram hybrid. No question text."
+ },
+ {
+  "task_id": "p460_n1_0",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Textbook table 'Table 10-2 Features Associated With Horner Syndrome, Based on Lesion Location' with two columns (Location or Etiology of Lesion / Common Symptoms or Specific Features) grouped into Central (first order), Preganglionic (second order), Postganglionic (third order). Reference excerpt, not a question."
+ },
+ {
+  "task_id": "p461_n2_0",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Bulleted differential-diagnosis list for downbeat nystagmus with yellow highlighting on 'paraneoplastic syndrome' and 'lithium'. A partially cut-off line appears at the top edge. No question or options."
+ },
+ {
+  "task_id": "p585_n17_0",
+  "type": "question",
+  "question": "In what embryonic tissue type does Axenfeld-Rieger syndrome cause abnormalities?",
+  "options": {
+   "A": "mesoderm",
+   "B": "ectoderm",
+   "C": "neural crest",
+   "D": "endoderm"
+  },
+  "answer": "C",
+  "answerEvidence": "Option C is shaded green with '74% Correct Answer' printed to its right; option B is shaded pink and labelled '16% Your Answer', and a red X sits beside the question number 26.",
+  "explanation": "",
+  "confidence": "medium",
+  "notes": "Question-bank screenshot numbered 26 with the note '74% of respondents answered correctly.' Percentages beside A (3%) and D (2%) are respondent shares. Rendered small, so text was read at low resolution — hence medium confidence."
+ },
+ {
+  "task_id": "p585_n17_1",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Reference table 'Derivatives of Embryonic Tissues' listing structures under Ectoderm (Neuroectoderm, Neural crest cells, Surface ectoderm) and Mesoderm. Small blue print but legible; no question or options."
+ }
+]

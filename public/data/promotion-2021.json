@@ -1,0 +1,384 @@
+[
+ {
+  "id": 1,
+  "source": "promotion-2021",
+  "question": "Alkali burn to cornea , which of the folloing has the worst prognosis:",
+  "options": {
+   "A": "Stromal haze with iris not visible",
+   "B": "Limbal ischemia 30%",
+   "C": "A/C reaction"
+  },
+  "correctAnswer": "A",
+  "explanation": "Based on Roper Hall classification, choice A is considered to be a Grade III (Guarded prognosis). Limbal ischemia of 30% is considered <1/3 (Grade II)/",
+  "year": "2021",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 127,
+  "imageUrl": "/images/promotion/p127_6c90208c7b.png"
+ },
+ {
+  "id": 2,
+  "source": "promotion-2021",
+  "question": "Keratitis with feathery margins, organism penetrates intact corneal epithelium:",
+  "options": {
+   "A": "Fusarium",
+   "B": "Candida",
+   "C": "Pseudomonas"
+  },
+  "correctAnswer": "A",
+  "explanation": "Most likely A A keratitis with feathery margins is a hint towards a fungal entity. Pseudomonas aeruginosa can invade corneal epithelial cells and translocates multilayered corneal epithelia in vitro, but it does not penetrate the intact corneal epithelium in vivo. stromal herpetic tx:",
+  "year": "2021",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 127
+ },
+ {
+  "id": 3,
+  "source": "promotion-2021",
+  "question": "OphthQuestions: pic or cornea with lines/folds, post refractive surgery, how many weeks post op? Another question: macrostriea, how many weeks post op would you see them:",
+  "options": {
+   "A": "1-2",
+   "B": "2-3",
+   "C": "6-8",
+   "D": "9-10"
+  },
+  "correctAnswer": "A",
+  "explanation": "Post-LASIK Corneal Flap Striae: Flap folds, or striae, may decrease visual quality or acuity after LASIK. When present, most folds are noted on the first postoperative day, and almost all occur within the first week. Reference: AAO Refractive Surgery Book ( Page 113)",
+  "year": "2021",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 128,
+  "imageUrl": "/images/promotion/p128_1019834726.jpg",
+  "imageUrls": [
+   "/images/promotion/p128_3fef3f2479.jpg",
+   "/images/promotion/p128_4ac7b7ee0f.png"
+  ]
+ },
+ {
+  "id": 4,
+  "source": "promotion-2021",
+  "question": "Patient for cataract surgery and he is emmittope, which of the following is correct regarding implanting 0 diptor IOL",
+  "options": {
+   "A": "Aphakia increase risk of RD and breaks",
+   "B": "There is no difference"
+  },
+  "correctAnswer": "A",
+  "explanation": "Aphakia/pseudophakia is a known independent risk factor for the development of retinal breaks and/or detachment in eyes without preexisting retinal pathology. MK picture (maginal, scar, and central infiltrate) which one would you treat?",
+  "year": "2021",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 129
+ },
+ {
+  "id": 5,
+  "source": "promotion-2021",
+  "question": "pt wants LASIK, manifest -10, cyclo -9.5, keratometry 39 and thick corneas?",
+  "options": {
+   "A": "do LAISK for manifest",
+   "B": "do for cyclo",
+   "C": "do for 9.75",
+   "D": "not indicated for this patient"
+  },
+  "correctAnswer": "D",
+  "explanation": "٩٣ is the steepeness of the cornea He is myopic which means the focus of light in front of retina which means his cornea is powerful So we have to weaken the cornea to get the light on the retina His K is 39 When we want to weaken the cornea we reduce the K But the K must be within 35-50 So if we calculate 10D of correction x 0.8 K for each diopter ٨ K reduction He will have K 31 which is beyond the safe target between 35-50 So its contraindicated for him Reference: Dr. Mohannad Altobaigi ectopia lentis ST marfan:",
+  "year": "2021",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 129
+ },
+ {
+  "id": 6,
+  "source": "promotion-2021",
+  "question": "Aquas misdirection presentation, what you will see:",
+  "options": {
+   "A": "Shallow central AC",
+   "B": "Iris bombe"
+  },
+  "correctAnswer": "A",
+  "explanation": "Aqueous misdirection is a challenging form of secondary angle closure that presents with elevated intraocular pressure (IOP) and shallowing of the central and peripheral anterior chamber despite the presence of a peripheral iridotomy. High iop s/p GDI, cause? encapsulated GDI; inflamed TM",
+  "year": "2021",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 194
+ },
+ {
+  "id": 7,
+  "source": "promotion-2021",
+  "question": "After trauma patient had 25% hyphema that resolved within one week, for several months he had IOP of 5 might, then all of a sudden he had high IOP of 57mmgh, what could be the cause:",
+  "options": {
+   "A": "angle recession",
+   "B": "ghost cell glaucoma",
+   "C": "spontaneous closure of cyclodialysis cleft"
+  },
+  "correctAnswer": "A",
+  "explanation": "angle-recession glaucoma A history of hyphema or trauma to the glaucomatous eye can often be found in patients with angle-recession glaucoma.",
+  "year": "2021",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 194
+ },
+ {
+  "id": 8,
+  "source": "promotion-2021",
+  "question": "DME and PSC, tx?",
+  "options": {
+   "A": "Focal laser then phaco after 3 months if DME resolved",
+   "B": "Focal laser then phaco after 1 month",
+   "C": "phaco then focal after 1 week"
+  },
+  "correctAnswer": "A",
+  "explanation": "A similar question is found in OphthaQuestions.",
+  "year": "2021",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 195
+ },
+ {
+  "id": 9,
+  "source": "promotion-2021",
+  "question": "diabetic with high iop, fainted after Diamox, wil find:",
+  "options": {
+   "A": "low blood ph",
+   "B": "high urine bicarb",
+   "C": "High blood glucose"
+  },
+  "correctAnswer": "A",
+  "explanation": "Low blood ph due to metabolic acidosis",
+  "year": "2021",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 195
+ },
+ {
+  "id": 10,
+  "source": "promotion-2021",
+  "question": "old diabetic lady, occasional unilateral blurry vision with halos around lights and pain. All exam norma (iop normal, no PDR findings). Gonio finding?",
+  "options": {
+   "A": "PAS",
+   "B": "Narrow angle",
+   "C": "NVG"
+  },
+  "correctAnswer": "B",
+  "explanation": "This patient might had previous attacks of angle-closure. aqueous misdirection not responsive to topical:",
+  "year": "2021",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 196
+ },
+ {
+  "id": 11,
+  "source": "promotion-2021",
+  "question": "IOP benefit in aphakic pt?",
+  "options": {
+   "A": "prevent CME",
+   "B": "prevents RD"
+  },
+  "correctAnswer": "B",
+  "explanation": "?",
+  "year": "2021",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 196
+ },
+ {
+  "id": 12,
+  "source": "promotion-2021",
+  "question": "High IOP not controlled with meds, s/p melanoma tx, tx?",
+  "options": {
+   "A": "Trabeculectomy",
+   "B": "GDI C"
+  },
+  "correctAnswer": "A",
+  "explanation": "D D B Refrence : self assessment Hemolytic glaucoma is similar to ghost cell glaucoma except that in hemolytic glaucoma, macrophages phagocytize RBC debris and then occlude the trabecular meshwork. The macrophages appear as reddish cells in the aqueous and the trabecular meshwork has a reddish-brown discoloration. Ghost-cell glaucoma occurs in association with vitreous hemorrhage. Red blood cells (RBCs) degenerate in the vitreous, migrate forward to the anterior chamber (AC) through a disrupted anterior hyaloid face (usually due to vitrectomy, cataract surgery, or trauma), and then obstruct the trabecular meshwork. The degenerated RBCs appear as tan-colored spheres known as ghost cells, which contain clumps of denatured hemoglobin. Ghost cells are more rigid than normal RBCs When the lens is displaced anteriorly, it can cause pupillary block. The initial treatment is 2 laser iridotomies 180 degrees apart. With this approach, if one iridotomy becomes occluded from the displacement of the lens, the other can still prevent pupillary block Reference: Ophtho question What#s the predicted percentage of decrease nerve fiber loss for each 1 mmgh decrease in IOP?",
+  "year": "2021",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 196
+ },
+ {
+  "id": 13,
+  "source": "promotion-2021",
+  "question": "Jerk Nystagmus OS with large left head turn, Frensel prism glasses options to reduce the head turn:",
+  "options": {
+   "A": "Base In OD, Base in OS",
+   "B": "Base out OD, base out OS",
+   "C": "Base In OD, Base out OS",
+   "D": "Base out OD, base in OS"
+  },
+  "correctAnswer": "C",
+  "explanation": "You want to turn the prisms toward the null point (right gaze)",
+  "year": "2021",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 214
+ },
+ {
+  "id": 14,
+  "source": "promotion-2021",
+  "question": "3 yr old boy Patient refered from peadiatric after he was diagnosed with Usher syndrome based on hearing loss and vestibular finding . On examination you found XT 35 PD .. what is the most appropriate next diagnostics step ?",
+  "options": {
+   "A": "Double madox rod",
+   "B": "Ct brain",
+   "C": "genetic testing"
+  },
+  "correctAnswer": "C",
+  "explanation": "ERG is better The XT that he has is most likely sensory. It depends on the type of Usher syndrome. It could be Cogan syndrome also. - Cogan syndrome: rare systemic autoimmune vasculitis characterized by intraocular inflammation and vestibuloauditory dysfunction (particularly neurosensory) developing within months of each other. The disease primarily occurs in young adults, with both sexes affected equally; children can also be affected. Investigations: ESR and CRP elevated WBC, Antibodies to inner ear antigens may be detectable, MRI may show inner ear and other abnormalities. - Usher syndrome: the most common name used to describe the association of RP with congenital sensorineural hearing loss, whether partial or profound. There are 3 types of Usher syndrome, with types 1 and 2 being more common than type 3. Type 1 have early and profound deafness, RP, extinguished ERG, and vestibular areflexia. Patients with type 2 are born with moderate to severe hearing loss and develop RP within the second decade of life but have normal vestibular function. Patients with type 3 have progressive hearing loss, RP of variable severity, and sporadic vestibular function.",
+  "year": "2021",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 214,
+  "imageUrl": "/images/promotion/p214_2fdbe9b751.jpg"
+ },
+ {
+  "id": 15,
+  "source": "promotion-2021",
+  "question": "unilateral RB with normal parents, chance of sibling having RB?",
+  "options": {
+   "A": "1-2%",
+   "B": "5-10%",
+   "C": "20-30%",
+   "D": "50-75%"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2021",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 214,
+  "imageUrl": "/images/promotion/p215_0ec81a71d9.png",
+  "imageUrls": [
+   "/images/promotion/p215_295dca3edf.png",
+   "/images/promotion/p215_9dc83d76fd.png"
+  ]
+ },
+ {
+  "id": 16,
+  "source": "promotion-2021",
+  "question": "lower lid lesion excision (pic, less than 1 third of lid), how to repair?",
+  "options": {
+   "A": "primary closure",
+   "B": "semicircular",
+   "C": "upper lid tranconj flap"
+  },
+  "correctAnswer": "A",
+  "explanation": "Since the defect is <33%, the answer is primary closure. - Direct closure is used for defects less than 33% of the lid width. - For defects that involve 33-50% of the lid width, the eyelid can be freed with a lateral canthotomy and then a semicircular flap (a.k.a. Tenzel flap) is rotated into the defect. - The Cutler-Beard procedure is used when the upper eyelid defect is greater than 50% of the eyelid width. - Greater than 50% defects of the lower eyelid are repaired with a modified Hughes procedure.",
+  "year": "2021",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 232
+ },
+ {
+  "id": 17,
+  "source": "promotion-2021",
+  "question": "Orbital cellulitis with black eschar on nose, organism:",
+  "options": {
+   "A": "Mucor",
+   "B": "Staph aureus"
+  },
+  "correctAnswer": "A",
+  "explanation": "Black eschar is a sign of mucromycosis. Invasive fungal sinusitis (also known as phycomycosis or mucormycosis) is the most common and the most virulent fungal disease involving the orbit. CT of inferior orbital wall fracture tx:",
+  "year": "2021",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 233,
+  "imageUrl": "/images/promotion/p233_a6ef04fbde.png"
+ },
+ {
+  "id": 18,
+  "source": "promotion-2021",
+  "question": "Mechanism of TAO:",
+  "options": {
+   "A": "cell mediated",
+   "B": "autoantigen on fibroblast"
+  },
+  "correctAnswer": "B",
+  "explanation": "the presumed mechanism is activation of orbital fibroblasts by Graves' disease-related autoantibodies, which lead to the release of T cell chemoattractants, initiating an interaction which ultimately results in fibroblasts expressing extracellular matrix molecules, biologic materials proliferating and differentiating into myofibroblasts or lipofibroblasts and deposition of glycosaminoglycans which bind water that lead to swelling, congestion in addition to connective tissue remodeling. This results in extraocular muscle enlargement and orbital fat expansion. Reference: https://eyewiki.org/Thyroid_Eye_Disease Orbital vs preseptal what's the difference:",
+  "year": "2021",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 234
+ },
+ {
+  "id": 19,
+  "source": "promotion-2021",
+  "question": "Picture of VF showing bilateral homonomus hemianopia with macula sparing where is the lesion:",
+  "options": {
+   "A": "Occipital",
+   "B": "lateral geniculate",
+   "C": "temporal",
+   "D": "frontal"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2021",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 259,
+  "imageUrl": "/images/promotion/p260_cfe8f56c66.png"
+ },
+ {
+  "id": 20,
+  "source": "promotion-2021",
+  "question": "Patient known MS presented with diplopia and you found (INO ) later the patient developed XT AND IMPAIRED ALL HORIZONTAL movements . Where is the lesion ?",
+  "options": {
+   "A": "Bilateral PPRF",
+   "B": "left and right MLF"
+  },
+  "correctAnswer": "B",
+  "explanation": "This is most likely a case of bilateral INO cause by a lesion in the right and left MLF causing a combination of INO and a complete horizontal gaze palsy",
+  "year": "2021",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 260
+ },
+ {
+  "id": 21,
+  "source": "promotion-2021",
+  "question": "50 yr old patient with high Iop in the right eye and stellate kp and corneal edema on gonio there is also kp's he admits to having a previous similar episode months ago. What is the most important initial treatment that can be instituted in the ER ?",
+  "options": {
+   "A": "Topical steroid",
+   "B": "b blockers ( they didn't mention topical or oral)"
+  },
+  "correctAnswer": "A",
+  "explanation": "also Beta-blockers if they are topical This a case of Glaucomatocyclitic Crisis/Posner-Schlossman Syndrome, treatment includes: - Topical β-blocker (e.g., timolol 0.5% daily or b.i.d.), topical α-2 agonist (e.g., brimonidine 0.1% to 0.2% b.i.d. to t.i.d.), topical CAI (e.g., dorzolamide 2% b.i.d. to t.i.d.). - Short course (1 week) of topical steroids (e.g., prednisolone acetate 1% q.i.d.) - Oral indomethacin (e.g., 75 to 150 mg p.o. daily) or topical NSAIDs (e.g., ketorolac q.i.d.). - Consider a systemic CAI (e.g., acetazolamide 500 mg sequel p.o. b.i.d.) if IOP is significantly increased and unresponsive to topical therapy (rare). - Hyperosmotic agents (e.g., mannitol 20% 1 to 2 g/kg i.v. over 45 minutes) or anterior chamber paracentesis can be considered when the IOP is determined to be dangerously high for the involved optic nerve. - Consider a cycloplegic agent (e.g., cyclopentolate 1% t.i.d.) if the patient is symptomatic. Reference: The Wills Eye Manual (Page 418)",
+  "year": "2021",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 260,
+  "imageUrl": "/images/promotion/p193_6949343312.jpg"
+ },
+ {
+  "id": 22,
+  "source": "promotion-2021",
+  "question": "Unformed hallucinations with congruence VF defect the lesion is in:",
+  "options": {
+   "A": "Occipital lobe",
+   "B": "Temporal lobe",
+   "C": "Parietal lobe"
+  },
+  "correctAnswer": "A",
+  "explanation": "Hallucinations are defined as perceptions that occur in the absence of a corresponding external sensory stimulus. Visual hallucinations can be classified as unformed/simple (e.g., dots, flashes, zig-zags) or formed/complex (actual objects or people). Occipital lobe lesions will show unformed hallucinations while temporal lobe lesions will show formed hallucinations.",
+  "year": "2021",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 261,
+  "imageUrl": "/images/promotion/p261_8faf427c23.jpg",
+  "imageUrls": [
+   "/images/promotion/p261_203c910e80.jpg"
+  ]
+ },
+ {
+  "id": 23,
+  "source": "promotion-2021",
+  "question": "conj lymphoma slide and picture no mention of systemic involvement",
+  "options": {
+   "A": "chemo",
+   "B": "complete excision",
+   "C": "radiation"
+  },
+  "correctAnswer": "C",
+  "explanation": "? Unless a tumor is small enough to be removed completely, incisional biopsy is indicated for histologic diagnosis. Local low- dose or ultra- low- dose external- beam radiation therapy is often curative for lesions confined to the conjunctiva; intralesional INF- α2b or rituximab may also be effective. Intravenous rituximab is increasingly being administered for both local and systemic disease. Systemic chemotherapy is required for the treatment of systemic lymphoma. - seborrheic keratosis pathology slide Reference: Pic from yanoff ocular pathology NA Young man with conjunctivitis, and pathology slide showed:",
+  "year": "2021",
+  "subspecialty": "Pathology",
+  "pdfPage": 289,
+  "imageUrl": "/images/promotion/p289_5b2ccfc558.png",
+  "imageUrls": [
+   "/images/promotion/p289_651dfae030.png",
+   "/images/promotion/p290_76aa66fc1b.png"
+  ]
+ },
+ {
+  "id": 24,
+  "source": "promotion-2021",
+  "question": "Cardiac bypass:",
+  "options": {
+   "B": "NAION",
+   "C": "ION",
+   "D": "Posterior optic neuropathy",
+   "E": "Midbrain"
+  },
+  "correctAnswer": "C",
+  "explanation": "Perioperative posterior ischemic optic neuropathy (PION) is a rare but devastating condition. Visual impairment is commonly bilateral, profound, and irreversible. The most frequently associated triggering events are spine surgeries, other orthopedic surgeries, cardiac bypass surgeries, and radical neck dissection. Reference: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7585472/ Indirect ophthalmoscopy with reflection what to do",
+  "year": "2021",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 295
+ }
+]

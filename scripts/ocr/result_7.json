@@ -1,0 +1,176 @@
+[
+ {
+  "task_id": "p585_n17_2",
+  "type": "question",
+  "question": "What is the most common cause of posterior keratoconus?",
+  "options": {
+   "A": "congenital anomaly",
+   "B": "involutional change",
+   "C": "result of trauma",
+   "D": "complication of laser in situ keratomileusis (LASIK)"
+  },
+  "answer": "A",
+  "answerEvidence": "option A row shaded green with the label '69% Correct Answer' at its right; a green check mark also appears to the left of the stem",
+  "explanation": "Most cases of posterior keratoconus are unilateral and sporadic. An autosomal recessive form of disease is associated with bilateral corneal changes, short stature, intellectual disability, cleft lip and palate, and vertebral anomalies. Acquired posterior keratoconus can also occur, usually following trauma.\nPosterior keratoconus is considered part of the anterior segment dysgenesis spectrum of developmental anomalies, resulting from abnormalities of neural crest migration and differentiation during embryonic development. The entities included in this spectrum are posterior embryotoxon, Axenfeld-Rieger syndrome, Peters anomaly, posterior keratoconus, and iridoschisis.",
+  "confidence": "high",
+  "notes": "OphthoQuestions-style screenshot; stem is numbered '24.' in the source. Banner reads '69% of respondents answered correctly.' Per-option percentages (69/14/4/6) also shown. Explanation is under the 'Discussion' tab; other tabs (BCSC Excerpt, References, Notes) are not expanded."
+ },
+ {
+  "task_id": "p585_n17_3",
+  "type": "question",
+  "question": "An otherwise normal, healthy child presents with a flat cornea with nonprogressive central opacification. What is the likely cause of the corneal abnormality?",
+  "options": {
+   "A": "failure of neural crest migration",
+   "B": "failure of embryonic fissure closure",
+   "C": "failure of regression of a component of fetal vessels within the eye",
+   "D": "disruption in branchial arch development"
+  },
+  "answer": "A",
+  "answerEvidence": "option A row shaded green with the label '61% Correct Answer' at its right",
+  "explanation": "Peters anomaly is an anterior segment dysgenesis syndrome that results when neural crest cells do not properly migrate or differentiate during embryologic development. In this anomaly, a localized defect of Descemet membrane and corneal endothelium is present centrally or paracentrally. Iris strands and (in severe cases) the lens may adhere to the posterior corneal surface. Associated findings may include cornea plana (in which the corneal curvature is flattened) and sclerocornea.\nThe other listed developmental disruptions do not lead to Peters anomaly. Syndromes including Treacher-Collins and Goldenhar may develop due to disruption in branchial arch development. Colobomas are formed when the embryonic fissure fails to close during development. Persistent fetal vasculature results when the primary vascular vitreous fails to regress.",
+  "confidence": "high",
+  "notes": "OphthoQuestions-style screenshot; stem is numbered '10.' in the source. Banner reads '61% of respondents answered correctly.' Per-option percentages (61/4/23/6) also shown."
+ },
+ {
+  "task_id": "p587_n21_0",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Lecture slide titled 'PLACIDO-DISC KERATOSCOPE' with four bullet points about placido disc keratoscopy plus two illustrative images (mire spacing diagram labelled Flatter/Steeper, and a photo of a placido disc). No question stem and no answer options."
+ },
+ {
+  "task_id": "p587_n21_1",
+  "type": "figure",
+  "confidence": "high",
+  "notes": "Line-art diagram of placido disc mire patterns with four labels only: 'Placido disc', 'Astigmatism', 'Normal Aspheric cornea With minimal astigmatism', 'Keratoconus'. No question text, no options, no prose."
+ },
+ {
+  "task_id": "p597_n39_0",
+  "type": "question",
+  "question": "What is the spherical equivalent of a +2.00 +5.50 x100 toric lens?",
+  "options": {
+   "A": "+3.75",
+   "B": "+7.50",
+   "C": "+2.00",
+   "D": "+4.75"
+  },
+  "answer": "D",
+  "answerEvidence": "option D row shaded green with the label '90% Correct Answer' at its right",
+  "explanation": "The spherical equivalent is the \"average\" power of a toric lens. The lens in question has +2.00 D of power in the 100 degree meridian and +7.50 D of power in the 10 degree meridian. The average is +4.75, which is the spherical equivalent power. For a lens described in spherocylindrical notation, the spherical equivalent can be determined by adding the spherical power + 1/2 of the cylinder power.",
+  "confidence": "high",
+  "notes": "OphthoQuestions-style screenshot; stem is numbered '6.' in the source. Banner reads '90% of respondents answered correctly.' Note: this is the same item as task p608_n62_0 (duplicate screenshot elsewhere in the batch). Text verified at 3x zoom."
+ },
+ {
+  "task_id": "p597_n39_1",
+  "type": "question",
+  "question": "What is the spherical equivalent of +1.00 - 2.00 x 90?",
+  "options": {
+   "A": "+2.00",
+   "B": "+3.00",
+   "C": "-1.00",
+   "D": "plano"
+  },
+  "answer": "D",
+  "answerEvidence": "option D row shaded green with the label '88% Correct Answer' at its right",
+  "explanation": "The spherical equivalent is the dioptric power of the circle of least confusion for a spherocylindrical lens. In other words, the spherical equivalent is the dioptric midpoint of a spherocylindrical lens where the horizontal and vertical dimensions of the blurred image are approximately equal. The goal of refraction is to choose a lens that places the circle of least confusion on the retina. Spherical equivalent is calculated by adding the sphere and half of the cylinder. In this case, +1.00 sphere added to ½*(-2.00) is 0.",
+  "confidence": "high",
+  "notes": "OphthoQuestions-style screenshot; stem is numbered '9.' in the source. Banner reads '88% of respondents answered correctly.' The final explanation line uses the '½' glyph, transcribed as-is. Text verified at 3x zoom."
+ },
+ {
+  "task_id": "p600_n44_0",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Textbook prose excerpt (single bullet) about vestibular schwannoma / acoustic neuroma damaging the sixth nerve at the pontomedullary junction, referencing Fig. 19.76. The phrase 'acoustic neuroma' is highlighted with a blue selection box. No question and no options."
+ },
+ {
+  "task_id": "p602_n49_0",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Reference table: 'Table 10.3: Mode of action of ocular hypotensive drugs' — six drug classes (beta-blockers, adrenaline/dipivefrine, brimonidine/apraclonidine, prostaglandins, miotics, carbonic anhydrase inhibitors) with arrow columns for aqueous secretion, trabecular outflow and uveoscleral outflow. No question and no options."
+ },
+ {
+  "task_id": "p608_n61_0",
+  "type": "question",
+  "question": "What type of astigmatism does a patient with a refraction of + 1.00 + 2.00 x 75 degrees have?",
+  "options": {
+   "A": "mixed astigmatism",
+   "B": "against-the-rule astigmatism",
+   "C": "oblique astigmatism",
+   "D": "with-the-rule astigmatism"
+  },
+  "answer": "D",
+  "answerEvidence": "option D row shaded green with the label '52% Correct Answer' at its right",
+  "explanation": "Astigmatism is typically caused by a toric-shaped cornea. Regular astigmatism is present when one meridian of the cornea is the flattest and perpendicular (90 degrees away) from one meridian that is the steepest. With-the-rule astigmatism, the more common type of astigmatism in children, is corrected with a plus cylinder between 60 and 120 degrees. In against-the-rule astigmatism, the astigmatism can be corrected with a plus cylinder between 150 and 30 degrees. Oblique astigmatism is corrected with a plus cylinder between 31 to 59 and 121 to 149 degrees. In irregular astigmatism, the steep and flat meridians of the cornea are not perpendicular to each other. In these patients, cylindrical lenses often do little to improve vision, and rigid gas permeable contact lenses should be tried to reach best vision.\nOne way of classifying astigmatism is by the location of the focal lines within the eye. Simple astigmatism refers to one focal line on the retina and one line either in front of the retina (simple myopic astigmatism) or behind the retina (simple hyperopic astigmatism). In compound astigmatism, both focal lines are either in front of the retina (compound myopic astigmatism) or behind the retina (compound hyperopic astigmatism). In mixed astigmatism, the focal lines are on both sides of the retina (straddling the retina).",
+  "confidence": "high",
+  "notes": "OphthoQuestions-style screenshot; stem is numbered '5.' in the source. Banner reads '52% of respondents answered correctly.' Per-option percentages (3/7/33/52) also shown. A black bar (redaction/artifact) crosses the very bottom edge of the image below the explanation."
+ },
+ {
+  "task_id": "p608_n62_0",
+  "type": "question",
+  "question": "What is the spherical equivalent of a +2.00 +5.50 x100 toric lens?",
+  "options": {
+   "A": "+3.75",
+   "B": "+7.50",
+   "C": "+2.00",
+   "D": "+4.75"
+  },
+  "answer": "D",
+  "answerEvidence": "option D row shaded green with the label '90% Correct Answer' at its right",
+  "explanation": "The spherical equivalent is the \"average\" power of a toric lens. The lens in question has +2.00 D of power in the 100 degree meridian and +7.50 D of power in the 10 degree meridian. The average is +4.75, which is the spherical equivalent power. For a lens described in spherocylindrical notation, the spherical equivalent can be determined by adding the spherical power + 1/2 of the cylinder power.",
+  "confidence": "high",
+  "notes": "OphthoQuestions-style screenshot; stem is numbered '6.' in the source. Duplicate of task p597_n39_0 (same item, larger/cleaner screenshot). Banner reads '90% of respondents answered correctly.'"
+ },
+ {
+  "task_id": "p609_n64_0",
+  "type": "question",
+  "question": "Compared to plasma, human aqueous humor has a relative paucity of which component?",
+  "options": {
+   "A": "hydrogen ions",
+   "B": "ascorbate",
+   "C": "bicarbonate",
+   "D": "chloride ions"
+  },
+  "answer": "C",
+  "answerEvidence": "explicit text row 'Correct Answer: C' in the metadata block; option C is also printed in bold green",
+  "explanation": "aqueous humor has an excess of hydrogen, chloride, and ascorbate.\n\nIt has a deficit of bicarbonate compared to plasma and is essentially protein-free (i.e. 1/200th to 1/500th the protein of plasma) which explains its optical clarity. The relative lack of protein also demonstrates the integrity of the blood-aqueous barrier of the eye.\n\nThe protein composition of the aqueous includes albumin (~50% of aqueous protein), growth factors, enzymes (e.g. carbonic anhydrase, lysozyme), prostaglandins, cAMP, steroid hormones, catecholamines, and hyaluronic",
+  "confidence": "medium",
+  "notes": "OphthoQuestions website screenshot (Category: Glaucoma; Topic: Intraocular Pressure and Aqueous Humor Dynamics; High Yield: Yes; Your Answer: C; Correct Answer: C). Stem is unnumbered. Per-option response-percentage bars (12/16/57/16) are shown but the answer is confirmed by the explicit 'Correct Answer: C' line, not the bars. The explanation is CUT OFF at the bottom edge of the image mid-sentence after 'and hyaluronic' — transcribed only as far as visible. Verified at 3x zoom."
+ },
+ {
+  "task_id": "p610_n66_0",
+  "type": "question",
+  "question": "A patient is suspected to have Propionibacterium acnes endophthalmitis after cataract surgery. What antibiotic is recommended for vitreous injection?",
+  "options": {
+   "A": "gentamicin",
+   "B": "moxifloxacin",
+   "C": "vancomycin",
+   "D": "trimethoprim/sulfamethoxazole"
+  },
+  "answer": "C",
+  "answerEvidence": "option C row shaded green with the label '80% Correct Answer' at its right",
+  "explanation": "The intravitreal or endocapsular antibiotic that is appropriate for the treatment of P acnes (a gram-positive anaerobic bacillus) is vancomycin. P acnes endophthalmitis often presents with mild inflammation postoperatively, and the hallmark feature is a whitish intracapsular plaque (or plaques). Suspicion can be confirmed with Gram stain and/or anaerobic cultures, which should be held for at least 2 weeks because P acnes is a slow-growing organism. Although intravitreal or endocapsular injection of vancomycin may initially help, inflammation frequently recurs, and curative therapy often requires vitrectomy, with or without capsulectomy and with or without intraocular lens (IOL) removal.",
+  "confidence": "high",
+  "notes": "OphthoQuestions-style screenshot; stem is numbered '5.' in the source. Banner reads '80% of respondents answered correctly.' 'Propionibacterium acnes' / 'P acnes' appear in italics in the source."
+ },
+ {
+  "task_id": "p620_n70_0",
+  "type": "question",
+  "question": "Retinitis pigmentosa and deafness occur in all of the following disorders except",
+  "options": {
+   "A": "Usher's syndrome",
+   "B": "Alstrom's syndrome",
+   "C": "Refsum's disease",
+   "D": "Cockayne's syndrome"
+  },
+  "answer": "C",
+  "answerEvidence": "green checked box beside option C while options A, B and D carry red X boxes; the explanation below also begins 'c. Refsum's disease'",
+  "explanation": "c. Refsum's disease—there is no deafness in this RP variant",
+  "confidence": "high",
+  "notes": "Question-bank text layout prefixed with 'Q'. Explanation header is printed in red. No answer percentages shown."
+ },
+ {
+  "task_id": "p625_n42_0",
+  "type": "explanation",
+  "confidence": "high",
+  "notes": "Lecture slide titled 'Laurence-Moon-Biedl syndrome or Laurence-Moon-Biedl-Bardet' listing four numbered features (obesity/hypogenitalism, decreased mental activity, pigmental retinitis, bone/inner organ abnormalities) alongside four clinical photographs (patient face with eyes redacted, feet and hand showing polydactyly). Source watermark 'http://www.primehealthchannel.com'. Wording of the list is transcribed in the source's own (non-standard) English. No question stem and no options."
+ }
+]

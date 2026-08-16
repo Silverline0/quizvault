@@ -1,0 +1,1245 @@
+[
+ {
+  "id": 1,
+  "source": "promotion-2025",
+  "question": "Male with chronic conjunctivitis, shortening of fornix. Biopsy description: IGG deposit in BM (No photos). Diagnosis?",
+  "options": {
+   "A": "OCP",
+   "B": "SJS"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 2
+ },
+ {
+  "id": 2,
+  "source": "promotion-2025",
+  "question": "child with Oil droplet reflection on retro illumination with hearing loss. This patient needs consultation under which specialty?",
+  "options": {
+   "A": "Nephrologist",
+   "B": "Endocrine",
+   "C": "Cardio"
+  },
+  "correctAnswer": "A",
+  "explanation": "Alport syndrome",
+  "year": "2025",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 3
+ },
+ {
+  "id": 3,
+  "source": "promotion-2025",
+  "question": "Patient with KC planned for CXL. What is the Minimum corneal thickness before UV light?",
+  "options": {
+   "A": "200",
+   "B": "300",
+   "C": "400"
+  },
+  "correctAnswer": "C",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 3
+ },
+ {
+  "id": 4,
+  "source": "promotion-2025",
+  "question": "Patient post phaco (-0.25 OU), what would you expected after you do a successful DSEK?",
+  "options": {
+   "A": "Spherical aberration",
+   "B": "Induced astigmatism",
+   "C": "Hyperopic shift",
+   "D": "Myopic shift"
+  },
+  "correctAnswer": "C",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 3
+ },
+ {
+  "id": 5,
+  "source": "promotion-2025",
+  "question": "Case with severe pseudomembranes, and fibrin-rich, wood-like deposits what is the mechanism?",
+  "options": {
+   "A": "Plasminogen 1 deficiency",
+   "B": "Deficiency of transferring",
+   "C": "Overexpression of collagenase"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 4
+ },
+ {
+  "id": 6,
+  "source": "promotion-2025",
+  "question": "A patient with globe trauma. Which of the following need to be examined thoroughly ?",
+  "options": {
+   "A": "Parallel to the limbus at the opposite site of the trauma",
+   "B": "Rectus muscle insertion",
+   "C": "Superionasal quadrant proximal to the limbus",
+   "D": "The equator"
+  },
+  "correctAnswer": "A",
+  "explanation": "The source is undecided between A and B.",
+  "year": "2025",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 4
+ },
+ {
+  "id": 7,
+  "source": "promotion-2025",
+  "question": "patient with history of herpatic epithelial keratitis with dendrites. Now he comes with stromal edema KPs and AC cells, no CED or fluorescein uptake. What is the management?",
+  "options": {
+   "A": "PF TOPICAL WITH oral antiviral",
+   "B": "PF topical with topical antiviral",
+   "C": "steroid oral with oral antiviral",
+   "D": "steroid oral with topical antiviral"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 4
+ },
+ {
+  "id": 8,
+  "source": "promotion-2025",
+  "question": "Patient with hx of eye pain when he wakes up in the morning, on examination, he was hard to fit on the SLE due to obesity, fluoresceine showed diffuse punctate staining. What is the diagnosis?",
+  "options": {
+   "A": "Floppy eyelid syndrome",
+   "B": "Thygeson Superficial Punctate Keratitis"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 5
+ },
+ {
+  "id": 9,
+  "source": "promotion-2025",
+  "question": "Chemical injury with hazy cornea, clear iris details, and less than 1/3 limbal ischemia, what's the grade?",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "correctAnswer": "B",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 5
+ },
+ {
+  "id": 10,
+  "source": "promotion-2025",
+  "question": "Patient with history of severe alkali burn and increasing conjunctivilization and keratinization. What is the best option for him?",
+  "options": {
+   "A": "LKP",
+   "B": "PKP",
+   "C": "KPRO",
+   "D": "Limbal epithelial transplantation"
+  },
+  "correctAnswer": "D",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 6
+ },
+ {
+  "id": 11,
+  "source": "promotion-2025",
+  "question": "Picture of a superiorly dislocated lens, of 7 years old, referred because of low school performance. What systemic manifestations are associated with this disease? (Exact wording and exact photo)",
+  "options": {
+   "A": "Aortic root dilatation",
+   "B": "Mental retardation",
+   "C": "Short stature",
+   "D": "Thromboembolism"
+  },
+  "correctAnswer": "A",
+  "explanation": "No musculoskeletal in choices",
+  "year": "2025",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 6,
+  "imageUrl": "/images/promotion/p007_cd169549ad.png"
+ },
+ {
+  "id": 12,
+  "source": "promotion-2025",
+  "question": "A 50-year-old man presents to the clinic complaining of significant irritation of the eyes. He says he doesn't usually use drops of any kind but often has redness and irritation of the eyes, especially when it's windy outside. Which of the following tests will assess both basic and reflex tear production in this patient?",
+  "options": {
+   "A": "Schirmer I",
+   "B": "Tear film break up time",
+   "C": "Dye disappearance test",
+   "D": "Schirmer II"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 7
+ },
+ {
+  "id": 13,
+  "source": "promotion-2025",
+  "question": "hx of an 8 years old boy k/c of sickle cell presented with traumatic hyphema, asking which one of the following is important based on your decision?",
+  "options": {
+   "A": "VA",
+   "B": "IOP",
+   "C": "Ultrasonography"
+  },
+  "correctAnswer": "B",
+  "explanation": "17. A patient wants to do LASIK. His manifest refraction is -10, cyclorefraction is -",
+  "year": "2025",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 8,
+  "imageUrl": "/images/promotion/p008_5b304ad46c.png"
+ },
+ {
+  "id": 14,
+  "source": "promotion-2025",
+  "question": "50, the K reading is 40 with thick cornea and no irregularities, asking what is appropriate?",
+  "options": {
+   "A": "Do LAISK for manifest",
+   "B": "Do for cyclo",
+   "C": "Do for 9.75",
+   "D": "Not indicated for this patient"
+  },
+  "correctAnswer": "D",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 8
+ },
+ {
+  "id": 15,
+  "source": "promotion-2025",
+  "question": "Child with hx of trauma to the eye, he fell on the edge of a couch and he was seen at that time no CED , he comes after 3 days with redness and photophobia, no stain uptake, what is the dx",
+  "options": {
+   "A": "Iridocyclitis",
+   "B": "Recurrent erosion"
+  },
+  "correctAnswer": "A",
+  "explanation": "19. Case describing a marginal keratitis (from 4 to 8o'clock). What will you look for in exam?",
+  "year": "2025",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 9
+ },
+ {
+  "id": 16,
+  "source": "promotion-2025",
+  "question": "RA case with a stromal thinning that progressed from 10% to 50% despite frequent lubrication, what is the treatment:",
+  "options": {
+   "A": "Conj recession",
+   "B": "MTX",
+   "C": "Tectonic graft",
+   "D": "Increase lubrication"
+  },
+  "correctAnswer": "A",
+  "explanation": "22. Patient with late \"wave-like\"staining of the cornea, what is the most likely diagnosis?",
+  "year": "2025",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 9
+ },
+ {
+  "id": 17,
+  "source": "promotion-2025",
+  "question": "In hyphema, what is NOT true?",
+  "options": {
+   "A": "It causes high IOP",
+   "B": "It is associated with blunt trauma",
+   "C": "It requires bed rest",
+   "D": "Risk of rebleeding is after 3 weeks"
+  },
+  "correctAnswer": "D",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 10
+ },
+ {
+  "id": 18,
+  "source": "promotion-2025",
+  "question": "Infectious keratitis secondary to trauma with -ve scraping and culture , what to do?",
+  "options": {
+   "A": "Corneal biopsy",
+   "B": "Viral culture",
+   "C": "Give steroids"
+  },
+  "correctAnswer": "A",
+  "explanation": "25. Which of the following is true regarding the use of excimer laser in LASIK surgery?",
+  "year": "2025",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 10
+ },
+ {
+  "id": 19,
+  "source": "promotion-2025",
+  "question": "Case of RRD macula on. What will influence the time of surgery?",
+  "options": {
+   "A": "Macula status",
+   "B": "Duration",
+   "C": "Age",
+   "D": "Tear size"
+  },
+  "correctAnswer": "A",
+  "explanation": "The source is undecided between A and B. vs D (Not sure if they meant in this specific case or in general)",
+  "year": "2025",
+  "subspecialty": "Retina",
+  "pdfPage": 11
+ },
+ {
+  "id": 20,
+  "source": "promotion-2025",
+  "question": "Hydroxychloroquine toxicity earliest sign?",
+  "options": {
+   "A": "OCT showing parafoveal loss of outer retinal layers",
+   "B": "Central scotoma on Amsler grid",
+   "C": "RPE mottling on funduscopic images",
+   "D": "bone-spicules at mid periphery (I think)"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Retina",
+  "pdfPage": 11
+ },
+ {
+  "id": 21,
+  "source": "promotion-2025",
+  "question": "Which of the following causes hyper reflectivity of the Inner 1/3rd of the retinal layers including half of the Inner nuclear layer",
+  "options": {
+   "A": "CRVO",
+   "B": "CRAO",
+   "C": "CSCR",
+   "D": "POAG"
+  },
+  "correctAnswer": "B",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Retina",
+  "pdfPage": 12
+ },
+ {
+  "id": 22,
+  "source": "promotion-2025",
+  "question": "Pic of choroidal lesion (most likely choroidal melanoma with this similar pic ). Which of the following is the best to reach the diagnosis?",
+  "options": {
+   "A": "UBM",
+   "B": "A-scan",
+   "C": "OCT"
+  },
+  "correctAnswer": "B",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Retina",
+  "pdfPage": 12,
+  "imageUrl": "/images/promotion/p012_31ac6df5a4.png"
+ },
+ {
+  "id": 23,
+  "source": "promotion-2025",
+  "question": "A patient post phaco had PCO and planned for Yag PI which of the following is a risk for RRD?",
+  "options": {
+   "A": "AL more than 25",
+   "B": "Old age",
+   "C": "Female",
+   "D": "Hydrogel IOL"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Retina",
+  "pdfPage": 13
+ },
+ {
+  "id": 24,
+  "source": "promotion-2025",
+  "question": "A patient presented to the ER. The doctor noticed multiple needle marks on his arms on examination there was signs of endophthalmitis and a choroidal lesion. What is the most likely organism?",
+  "options": {
+   "A": "Bacillus",
+   "B": "Klebsiella"
+  },
+  "correctAnswer": "A",
+  "explanation": "no candida in the choices 32. A case of patient with uncontrolled AF. He presented with sudden visual loss OU. One eye has LP vision and the other to have HM. What is expected on examination?",
+  "year": "2025",
+  "subspecialty": "Retina",
+  "pdfPage": 13
+ },
+ {
+  "id": 25,
+  "source": "promotion-2025",
+  "question": "Pt with BRVO which of the following is an indication for treatment of the macular edema?",
+  "options": {
+   "A": "VA 20/40 or worse for more than 3 months",
+   "B": "Macular thickening within 500um of the fovea",
+   "C": "Macular exudate within 500um of the foveal",
+   "D": "Extent of non-perfusion"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Retina",
+  "pdfPage": 14
+ },
+ {
+  "id": 26,
+  "source": "promotion-2025",
+  "question": "Diabetic retinopathy Q: Dot-blot hemorrhage, microaneurysms and cotton wool spot in all 4 quadrants:",
+  "options": {
+   "A": "Mild NPDR",
+   "B": "Moderate NPDR",
+   "C": "Severe NPDR",
+   "D": "PDR"
+  },
+  "correctAnswer": "C",
+  "explanation": "35. BRVO predictive investigation of visual outcome:",
+  "year": "2025",
+  "subspecialty": "Retina",
+  "pdfPage": 14
+ },
+ {
+  "id": 27,
+  "source": "promotion-2025",
+  "question": "Which of the following hypertensive retinal lesions are indicative of an ischemic retinopathy?",
+  "options": {
+   "A": "Microaneurysms and IRMA (intraretinal microvascular abnormalities)",
+   "B": "Venous beading and new retinal vessels",
+   "C": "Blot hemorrhages and IRMA",
+   "D": "Hard exudates and new retinal vessels"
+  },
+  "correctAnswer": "B",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Retina",
+  "pdfPage": 15
+ },
+ {
+  "id": 28,
+  "source": "promotion-2025",
+  "question": "Pic of ROP zone 1 with plus disease (exact picture). Based on a recent study, what is the best treatment modality?",
+  "options": {
+   "A": "Cryo",
+   "B": "Laser",
+   "C": "Bevacizumab injection",
+   "D": "Dexamethasone injection"
+  },
+  "correctAnswer": "C",
+  "explanation": "38. 5 days S/p phaco presented with pain, redness and hypopyon, what is the most likely diagnosis?",
+  "year": "2025",
+  "subspecialty": "Retina",
+  "pdfPage": 15,
+  "imageUrl": "/images/promotion/p015_6a6cf60d4c.png"
+ },
+ {
+  "id": 29,
+  "source": "promotion-2025",
+  "question": "Case of acue endophthalmitis s/p phaco with VA HM. What will you do?",
+  "options": {
+   "A": "Pars plana tap and inject of antibiotics and obtain cultures",
+   "B": "Topical antibiotics",
+   "C": "Start steroids"
+  },
+  "correctAnswer": "A",
+  "explanation": "no option for PPV",
+  "year": "2025",
+  "subspecialty": "Retina",
+  "pdfPage": 16
+ },
+ {
+  "id": 30,
+  "source": "promotion-2025",
+  "question": "Patient suddenly presented with severe pain and IOP of 60 and cloudy cornea. What is the appropriate treatment (no more history)?",
+  "options": {
+   "A": "Surgical PI",
+   "B": "topical hypotensive",
+   "C": "hyperosmotic agents",
+   "D": "Yag PI"
+  },
+  "correctAnswer": "B",
+  "explanation": "The source is undecided between B and C.",
+  "year": "2025",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 16
+ },
+ {
+  "id": 31,
+  "source": "promotion-2025",
+  "question": "Argon laser Iridoplasty settings:",
+  "options": {
+   "C": "0.5 msec, 500um, 250mw",
+   "D": "0.5 msec, 500um, 800mw"
+  },
+  "correctAnswer": "C",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 17
+ },
+ {
+  "id": 32,
+  "source": "promotion-2025",
+  "question": "Aniridia child, on medications but not controlled, next step:",
+  "options": {
+   "A": "Beta blockers",
+   "B": "Laser trabeculoplaty",
+   "C": "Trab with MMC",
+   "D": "Observation"
+  },
+  "correctAnswer": "C",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 17
+ },
+ {
+  "id": 33,
+  "source": "promotion-2025",
+  "question": "Congenital glaucoma, Gonioscopy finding:",
+  "options": {
+   "A": "Anterior Iris insertion",
+   "B": "Iridocorneal adhesion",
+   "C": "Samplosi line",
+   "D": "Posterior embrotoxin"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 17
+ },
+ {
+  "id": 34,
+  "source": "promotion-2025",
+  "question": "What can give a false low IOP on GAT?",
+  "options": {
+   "A": "Corneal edema",
+   "B": "Increased scleral rigidity",
+   "C": "Corneal scar",
+   "D": "Too much fluoresceine"
+  },
+  "correctAnswer": "A",
+  "explanation": "They removed stromal edema option from previous years",
+  "year": "2025",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 18
+ },
+ {
+  "id": 35,
+  "source": "promotion-2025",
+  "question": "Case about an old patient with decrease of vision since a long time presenting with pain and high IOP. Description: a mature cataract with mild cells and flare, no KPs, open angle, what type of glaucoma?",
+  "options": {
+   "A": "Phacolytic",
+   "B": "Fuchs",
+   "D": "Phacoantigenic",
+   "E": "Psoner schlossmsn"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 18
+ },
+ {
+  "id": 36,
+  "source": "promotion-2025",
+  "question": "High IOP 8 weeks post-glaucoma device implant. What is the most common explanation?",
+  "options": {
+   "A": "Steroid induced",
+   "B": "Persistent postoperative inflammation",
+   "C": "Encapsulation of extraocular reservoir",
+   "D": "Progressive glaucoma"
+  },
+  "correctAnswer": "C",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 18
+ },
+ {
+  "id": 37,
+  "source": "promotion-2025",
+  "question": "Patient presented to clinic has IOP 26 OD 25 OS, CDR 0.5 with healthy neural rim. CCT is 620. What is the management?",
+  "options": {
+   "A": "Observe",
+   "B": "Anti glaucoma",
+   "C": "Proceed for surgery"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 19
+ },
+ {
+  "id": 38,
+  "source": "promotion-2025",
+  "question": "What do you do after placing an anterior segment IOL after PC Rupture and Anterior vitrectomy. What will you do?",
+  "options": {
+   "A": "surgical PI intraop at 6 o'clock",
+   "B": "surgical PI intraop at 12 o'clock",
+   "C": "laser PI post-op at 6 o'clock",
+   "D": "laser PI post-op at 12 o'clock."
+  },
+  "correctAnswer": "B",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 19
+ },
+ {
+  "id": 39,
+  "source": "promotion-2025",
+  "question": "What is the expected reduction in the rate of nerve fiber loss with each 1 mmg reduction in intraocular pressure in glaucoma patients?",
+  "options": {
+   "A": "30%",
+   "B": "10%",
+   "C": "5%",
+   "D": "20%"
+  },
+  "correctAnswer": "B",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 19
+ },
+ {
+  "id": 40,
+  "source": "promotion-2025",
+  "question": "patient presented post treatment of malignancy with high IOP on full topical. VA20/100. What to do for him?",
+  "options": {
+   "A": "laser trabeculoplasty",
+   "B": "trans-scleral cyclophotocoagulation",
+   "C": "Glaucoma drainage device"
+  },
+  "correctAnswer": "B",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 20
+ },
+ {
+  "id": 41,
+  "source": "promotion-2025",
+  "question": "Immune competent has HZO he developed iridocyclitis. Treatment ?",
+  "options": {
+   "A": "topical trifluridine + topical steroid",
+   "B": "topical steroid + oral antiviral",
+   "C": "oral steroid + oral antiviral",
+   "D": "topical steroid + topical antiviral"
+  },
+  "correctAnswer": "B",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Uveitis",
+  "pdfPage": 20
+ },
+ {
+  "id": 42,
+  "source": "promotion-2025",
+  "question": "Male with unilateral floaters and loss of vision. Fundus showed subretinal yellow-white lesion with overlying vitritis (no picture. Only descripition). What is the diagnosis?",
+  "options": {
+   "A": "Toxoplasmosis",
+   "B": "ARN",
+   "C": "Behcet"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Uveitis",
+  "pdfPage": 20
+ },
+ {
+  "id": 43,
+  "source": "promotion-2025",
+  "question": "40 y.o african, pilot, Hx of rash past months, complain of sudden VL with AC +2 , on exam he has +2 disc edema in the left eye, Right eye is normal. What is the management (no more details or photos):",
+  "options": {
+   "A": "topical PF and IV penicillin G and treat sexual partner",
+   "B": "IV steroid.",
+   "C": "Doxycycline for 6 weeks"
+  },
+  "correctAnswer": "A",
+  "explanation": "Syphilis",
+  "year": "2025",
+  "subspecialty": "Uveitis",
+  "pdfPage": 21
+ },
+ {
+  "id": 44,
+  "source": "promotion-2025",
+  "question": "Patient complains of intermittent blurry vision. Complains of photophobia. Diffuse stellate KP's with +1 cells, iop 24. Cataract is beginning to develop and has hypopigmented iris in one eye. No posterior synechia. What is the diagnosis?",
+  "options": {
+   "A": "Fuchs iridocyclitis",
+   "B": "Phacolytic",
+   "C": "Phaco antigenic"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Uveitis",
+  "pdfPage": 21
+ },
+ {
+  "id": 45,
+  "source": "promotion-2025",
+  "question": "Young patient (24-30 years old) patient complaining of photopsia on fundus exam multiple white yellow placoid choroidal lesions in the posterior pole, otherwise normal exam. What is the diagnosis",
+  "options": {
+   "A": "VKH",
+   "B": "serpiginous choroiditis",
+   "C": "Acute Posterior Multifocal Placoid Pigment Epitheliopathy",
+   "D": "Toxoplasmosis"
+  },
+  "correctAnswer": "C",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Uveitis",
+  "pdfPage": 21
+ },
+ {
+  "id": 46,
+  "source": "promotion-2025",
+  "question": "A case of a 32 years old male patient who had RD repaired by PPV and silicone oil tamponade years ago. Later, he underwent cataract removal with silicone oil removal. Afterwards, he developed high IOP unresponsive to treatments. The surgeon planned for a tube drainage implan. What is the most common complication?",
+  "options": {
+   "A": "Hypotony",
+   "B": "High IOP due to tube blockage",
+   "C": "Malignant glaucoma",
+   "D": "Suprachoroidal hemorrhage"
+  },
+  "correctAnswer": "A",
+  "explanation": "57. Photo of Neuroretinitis in child. What would help you in the diagnosis? (Same picture):",
+  "year": "2025",
+  "subspecialty": "Uveitis",
+  "pdfPage": 22
+ },
+ {
+  "id": 47,
+  "source": "promotion-2025",
+  "question": "50 something female with fundus photo of optic disc swelling, VA 20/100 & decreased color vision(Same picture and VF)",
+  "options": {
+   "A": "Acute optic neuritis",
+   "B": "Anterior ischemic optic neuropathy",
+   "C": "GCA",
+   "D": "Infiltration optic neuropathy"
+  },
+  "correctAnswer": "B",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 23
+ },
+ {
+  "id": 48,
+  "source": "promotion-2025",
+  "question": "Scenario of patient with HVF showing Superonasal VF OD superitemporal OS (pie in the sky). Lesion site?",
+  "options": {
+   "A": "optic tract",
+   "B": "lateral geniculate",
+   "C": "Occipital lobe",
+   "D": "parietal lobe"
+  },
+  "correctAnswer": "C",
+  "explanation": "? (no temporal lobe on the choices)",
+  "year": "2025",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 24
+ },
+ {
+  "id": 49,
+  "source": "promotion-2025",
+  "question": "Female with tingling sensation and decreased VA, poor CV since 2 weeks. Fundus is normal. What is the next step?",
+  "options": {
+   "A": "start iv steroid then oral taper",
+   "B": "MRI brain with contrast",
+   "C": "NMO and Anti-MOG workup",
+   "D": "Refer to neurology for lumbar puncture"
+  },
+  "correctAnswer": "B",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 24
+ },
+ {
+  "id": 50,
+  "source": "promotion-2025",
+  "question": "This exact picture with no info. What is the expected VA?",
+  "options": {
+   "A": "better that 20/80",
+   "B": "20/20 to LP",
+   "C": "CF to HM",
+   "D": "NLP"
+  },
+  "correctAnswer": "B",
+  "explanation": "optic nerve hypoplasia",
+  "year": "2025",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 25,
+  "imageUrl": "/images/promotion/p025_24aaba9e9c.png"
+ },
+ {
+  "id": 51,
+  "source": "promotion-2025",
+  "question": "Patient has intermittent ptosis. Which of the following will indicate brain imaging?",
+  "options": {
+   "A": "Intermittent diplopia",
+   "B": "fatigue, dysphagia, dyspnea",
+   "C": "lid retraction on infraduction",
+   "D": "Decrement response in repetitive nerve stimulation"
+  },
+  "correctAnswer": "C",
+  "explanation": "R/O Aberrent regeneration",
+  "year": "2025",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 25
+ },
+ {
+  "id": 52,
+  "source": "promotion-2025",
+  "question": "DM, HTN 70 y/o, Isolated 6th n palsy with ET 30 PD, seen after 6 weeks and ET became 40 PD. What to do?",
+  "options": {
+   "A": "CT/CTA with contrast",
+   "B": "MRI with contrast",
+   "C": "CBC, ESR, CRP",
+   "D": "Refer to IM to control comorbidities"
+  },
+  "correctAnswer": "B",
+  "explanation": "?",
+  "year": "2025",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 26
+ },
+ {
+  "id": 53,
+  "source": "promotion-2025",
+  "question": "Female with decrease in vision in the morning, transient vision loss when stands up or bends forward. She gained 6 kg recently. Picture provided showing Bilateral optic disc edema asking what does the patient has (same picture)",
+  "options": {
+   "A": "Papilledema",
+   "B": "Posterior optic neuropathy"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 26
+ },
+ {
+  "id": 54,
+  "source": "promotion-2025",
+  "question": "78 y/o male c/o recurring headaches with blurred vision episodes lasting 1 minute, question didn't mention his systemic history, his exam was normal. Asking about next step?",
+  "options": {
+   "A": "observation",
+   "B": "ESR, CRP, temporal artery biopsy",
+   "C": "ESR, CRP, CBC, Ecg, holter, CT/CTA"
+  },
+  "correctAnswer": "C",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 27
+ },
+ {
+  "id": 55,
+  "source": "promotion-2025",
+  "question": "Young patient came to the ER after a motor vehicle accident with left sided headache and left eye ptosis. What will you do for him?",
+  "options": {
+   "A": "CT/CTA of the neck in the emergency room",
+   "B": "MRI/MRA after 1 week",
+   "C": "Refer to neurology tomorrow",
+   "D": "Refer to ophthalmology to be seen in 1 week"
+  },
+  "correctAnswer": "A",
+  "explanation": "69. A case of GCA with vision loss in one eye. He is not interested on being started on steroids. What to tell the patient to convince him to take the treatment?",
+  "year": "2025",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 27
+ },
+ {
+  "id": 56,
+  "source": "promotion-2025",
+  "question": "Patient with type 1 Duane with severe left head turn + up shooting in adduction. What is the proper intervention?",
+  "options": {
+   "A": "Medial rectus recession with y-splitting of lateral rectus",
+   "B": "BMR rec",
+   "C": "Lateral rectus resection"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 28
+ },
+ {
+  "id": 57,
+  "source": "promotion-2025",
+  "question": "Picture of morning glory. Associated with?",
+  "options": {
+   "A": "Hyperextended joint",
+   "B": "Preauricular skin tag",
+   "C": "Extra digit",
+   "D": "Basal sphenoic enceophalocele"
+  },
+  "correctAnswer": "D",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 28
+ },
+ {
+  "id": 58,
+  "source": "promotion-2025",
+  "question": "What is the expected AHP for this child? 20 XT 45XT 45 XT 45 XT 55 XT",
+  "options": {
+   "A": "chin down",
+   "B": "chin up",
+   "C": "Right Head turn",
+   "D": "Left Head tilt"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 28
+ },
+ {
+  "id": 59,
+  "source": "promotion-2025",
+  "question": "10 yrs old with accommodative ET With +6.00 CYCLOREF, while wearing full cyclorefraction he had Persistent XT 10 PD. What is the best management?",
+  "options": {
+   "A": "Fresnel prism",
+   "B": "Bifocals",
+   "C": "Decrease hyperopic correction",
+   "D": "Observe"
+  },
+  "correctAnswer": "C",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 29
+ },
+ {
+  "id": 60,
+  "source": "promotion-2025",
+  "question": "6 years old child, S/P: BMR for esotropia. Presented with VA 20/20, and 6 PD ET. What will W4DT show?",
+  "options": {
+   "A": "He will see 5 dots at near and distance",
+   "B": "He will see 4 dots at near and distance",
+   "C": "He will see 2 dots at 3m and 4 at 1m",
+   "D": "He will see 4 dots at 3m and 2 at 1m"
+  },
+  "correctAnswer": "C",
+  "explanation": "Monofixation syndrome",
+  "year": "2025",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 29
+ },
+ {
+  "id": 61,
+  "source": "promotion-2025",
+  "question": "Ophthalmogiat examining a child asked him to looked up and right. Which yoke muscles are working in this direction?",
+  "options": {
+   "A": "Rt SR & Lt IR",
+   "B": "Rt IR & Lt SR",
+   "C": "Rt IO & Lt SR",
+   "D": "Rt SR & Lt IO"
+  },
+  "correctAnswer": "D",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 29
+ },
+ {
+  "id": 62,
+  "source": "promotion-2025",
+  "question": "Mother brought her child with hx of removal of an extra finger and she is currently trying to decrease his weight. Fundus exam showed attenuated retinal vessels and a blunted foveal reflex. What is the diagnosis?",
+  "options": {
+   "A": "Bardet-Beidl syndrome",
+   "B": "Locken syndrome",
+   "C": "Joubert syndrome",
+   "D": "Alstrom syndrome"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 30
+ },
+ {
+  "id": 63,
+  "source": "promotion-2025",
+  "question": "patient with hx of ET Post BLR came 2 weeks post op with XT 10, patient has intermittent diplopia and asking what could be done?",
+  "options": {
+   "A": "Re-assurance",
+   "B": "Surgery",
+   "C": "Bi- focal"
+  },
+  "correctAnswer": "A",
+  "explanation": "78. A mother brought her 8-month-old child due to reddish swelling in the right upper eye lid that is increasing to the point where he cannot open his eyes completely. What is the management:",
+  "year": "2025",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 30
+ },
+ {
+  "id": 64,
+  "source": "promotion-2025",
+  "question": "Case of child with ET or XT and dull reflex compared to the other eye and ask about what to do next?",
+  "options": {
+   "A": "CT",
+   "B": "Fundus exam"
+  },
+  "correctAnswer": "B",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 31
+ },
+ {
+  "id": 65,
+  "source": "promotion-2025",
+  "question": "Lymphangioma case. What will appear on imaging?",
+  "options": {
+   "A": "flow voids",
+   "B": "Homogenous enhancement",
+   "C": "Calcification",
+   "D": "Fluid-fluid level"
+  },
+  "correctAnswer": "D",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 31
+ },
+ {
+  "id": 66,
+  "source": "promotion-2025",
+  "question": "Picture of a patient with left upper lid retraction, scleral show and hypotropia what muscle mostly effected?",
+  "options": {
+   "A": "Inferior",
+   "B": "Superior",
+   "C": "Lateral",
+   "D": "Medial"
+  },
+  "correctAnswer": "A",
+  "explanation": "TED",
+  "year": "2025",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 31
+ },
+ {
+  "id": 67,
+  "source": "promotion-2025",
+  "question": "patient has proptosis conjunctival redness, resistance on retropulsion. First thing to do (Case described TED)?",
+  "options": {
+   "A": "CT orbit",
+   "B": "Brain MRI",
+   "C": "TFT",
+   "D": "Anti-Ach receptor Ab"
+  },
+  "correctAnswer": "A",
+  "explanation": "The source is undecided between A and C.",
+  "year": "2025",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 32
+ },
+ {
+  "id": 68,
+  "source": "promotion-2025",
+  "question": "female pregnant has mass for 3 years now its progressing. CT description shows well defined intraconal mass (no photo)",
+  "options": {
+   "A": "Cavernous hemangioma",
+   "B": "Lymphangioma",
+   "C": "Capillary hemangioma"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 32
+ },
+ {
+  "id": 69,
+  "source": "promotion-2025",
+  "question": "Case of a patient with proptosis and blood cultures showing mucor and collection on imaging in the orbital apex and near cavernous sinus. What is the management?",
+  "options": {
+   "A": "Enucleation",
+   "B": "IV amphotericin B and contact ENT for debridement",
+   "C": "Ocular decompression"
+  },
+  "correctAnswer": "B",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 32
+ },
+ {
+  "id": 70,
+  "source": "promotion-2025",
+  "question": "Boy has Ptosis with Poor levator function and good bell's palsy what to do?",
+  "options": {
+   "A": "Levator resection",
+   "B": "Frontalis sling",
+   "C": "Mullerectomy"
+  },
+  "correctAnswer": "B",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 33
+ },
+ {
+  "id": 71,
+  "source": "promotion-2025",
+  "question": "Indication for decompression in active TED?",
+  "options": {
+   "A": "diplopia in supraduction",
+   "B": "Compressive optic neuropathy",
+   "C": "Cosmesis"
+  },
+  "correctAnswer": "B",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 33
+ },
+ {
+  "id": 72,
+  "source": "promotion-2025",
+  "question": "lower lid lesion excision (pic, less than 1 third of lid), how to repair?",
+  "options": {
+   "A": "primary closure",
+   "B": "semicircular",
+   "C": "upper lid tranconj flap"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 33
+ },
+ {
+  "id": 73,
+  "source": "promotion-2025",
+  "question": "Child Lt Hypertropia with right head tilt for a long time. No Excyclotorsion. What is the management:",
+  "options": {
+   "A": "Left IO weakening",
+   "B": "Right SR recession",
+   "C": "Right IR resection",
+   "D": "Left SO resection"
+  },
+  "correctAnswer": "A",
+  "explanation": "89. A child with multiple skin hyperpigmented spots. CT scan: fusiform optic nerve leasion. What is the diagnosis?",
+  "year": "2025",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 34
+ },
+ {
+  "id": 74,
+  "source": "promotion-2025",
+  "question": "This exact picture on the lower lid. What is the diagnosis?",
+  "options": {
+   "A": "SCC",
+   "B": "Seborrheic",
+   "C": "BCC",
+   "D": "specious carcinoma"
+  },
+  "correctAnswer": "C",
+  "explanation": "Peripheral palisading",
+  "year": "2025",
+  "subspecialty": "Pathology",
+  "pdfPage": 35,
+  "imageUrl": "/images/promotion/p036_e50a3c4592.png"
+ },
+ {
+  "id": 75,
+  "source": "promotion-2025",
+  "question": "What is the term for an extra set of eyelashes growing from the meibomian gland orifices?",
+  "options": {
+   "A": "distichiasis",
+   "B": "aberrant lashes",
+   "C": "Fuchs lashes",
+   "D": "trichiasis"
+  },
+  "correctAnswer": "A",
+  "explanation": "Transcribed from a screenshot in the source document.",
+  "year": "2025",
+  "subspecialty": "Pathology",
+  "pdfPage": 35,
+  "imageUrl": "/images/promotion/p035_78901c1b7d.png",
+  "ocr": true
+ },
+ {
+  "id": 76,
+  "source": "promotion-2025",
+  "question": "Pathology slide (similar to this picture, showed arrow with thickness of the lesion 2.4 mm). What is the most likely diagnosis?",
+  "options": {
+   "A": "Nevus",
+   "B": "Melanoma",
+   "C": "PAM",
+   "D": "Normal conjunctiva"
+  },
+  "correctAnswer": "A",
+  "explanation": "vs (?B due to thickness)",
+  "year": "2025",
+  "subspecialty": "Pathology",
+  "pdfPage": 36,
+  "imageUrl": "/images/promotion/p037_621ef39bd8.png"
+ },
+ {
+  "id": 77,
+  "source": "promotion-2025",
+  "question": "30 y/o African American patient with hilar lymphadenopathy, presented with acuteeye pain and photophobia. What is the content of the finding that is depicted in the photo?",
+  "options": {
+   "A": "Macrophages",
+   "B": "Lymphocytes",
+   "C": "Epithelioid cells",
+   "D": "polymorphic nuclear (PMN) cells"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Pathology",
+  "pdfPage": 37,
+  "imageUrl": "/images/promotion/p037_e42df3aae8.png"
+ },
+ {
+  "id": 78,
+  "source": "promotion-2025",
+  "question": "You are performing Jackson cross cylinder refraction with four steps, first you start with sphere then cylinder axis and magnitude of astigmatism what is the next step?",
+  "options": {
+   "A": "Refine the sphere",
+   "B": "Duochrome Red green to see if you gave over minus",
+   "C": "Record VA"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Optics",
+  "pdfPage": 38
+ },
+ {
+  "id": 79,
+  "source": "promotion-2025",
+  "question": "A patient with glasses: -8 OD, -4 OS, how many prism diopter of deviation will be induced of both eyes if the patient looks 1 cm below optical center?",
+  "options": {
+   "A": "0",
+   "B": "4",
+   "C": "8",
+   "D": "12"
+  },
+  "correctAnswer": "B",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2025",
+  "subspecialty": "Optics",
+  "pdfPage": 38,
+  "imageUrl": "/images/promotion/p039_82ddd8ed9b.png",
+  "imageUrls": [
+   "/images/promotion/p039_91fd73e4a5.png"
+  ]
+ }
+]

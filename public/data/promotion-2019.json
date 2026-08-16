@@ -1,0 +1,857 @@
+[
+ {
+  "id": 1,
+  "source": "promotion-2019",
+  "question": "A Chemical injury with less than 1/3 limbal ischemia, what's the grade?",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "correctAnswer": "B",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2019",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 136
+ },
+ {
+  "id": 2,
+  "source": "promotion-2019",
+  "question": "- Centripetally means from the periphery towards the center. - Corneal blood staining often clears slowly, starting in the periphery which poses a problem in children at risk of amblyopia. What's responsible for corneal clarity?",
+  "options": {
+   "A": "Water content kept at 88%",
+   "B": "how keratocytes are arranged"
+  },
+  "correctAnswer": "B",
+  "explanation": "#OQ Factors maintain transparency of the cornea: 1-lattice arrangement of collagen fibrils embedded in the extracellular matrix is partly responsible for the transparency of the cornea 2-size of the lattice elements is smaller than the wavelength of visible light. 3-water content of the corneal stroma is kept at approximately 78%",
+  "year": "2019",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 137,
+  "imageUrl": "/images/promotion/p138_b46582ca7a.jpg"
+ },
+ {
+  "id": 3,
+  "source": "promotion-2019",
+  "question": "Trauma the ended with conj laceration and ballooning of conj, what will you do?",
+  "options": {
+   "A": "B scan",
+   "B": "conj suturing",
+   "C": "conj periotomy and exploration in OR"
+  },
+  "correctAnswer": "C",
+  "explanation": "#aao Conj ballooning means conjunctival laceration/hemorrhage? Or exposed uvea, vitreous, retinal tissue ? If it is still unclear whether the globe has been penetrated, exploration in the operating room can be considered.",
+  "year": "2019",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 140,
+  "imageUrl": "/images/promotion/p140_4f03610357.jpg",
+  "imageUrls": [
+   "/images/promotion/p140_652166e652.jpg"
+  ]
+ },
+ {
+  "id": 4,
+  "source": "promotion-2019",
+  "question": "What happens to amount of corneal tissue with ablation zone increase?",
+  "options": {
+   "A": "Increase",
+   "B": "decrease",
+   "C": "no change"
+  },
+  "correctAnswer": "A",
+  "explanation": "#AAO",
+  "year": "2019",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 141,
+  "imageUrl": "/images/promotion/p141_904f6e3083.jpg"
+ },
+ {
+  "id": 5,
+  "source": "promotion-2019",
+  "question": "You're repairing open globe, cannot reach posterior edge, what to do?",
+  "options": {
+   "A": "Leave it to heal on its own",
+   "B": "do vitrectomy and when the eye is soft repair the posterior edge",
+   "C": "put glue"
+  },
+  "correctAnswer": "A",
+  "explanation": "Reference: Prof. Hani Almezini grand round lecture",
+  "year": "2019",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 141
+ },
+ {
+  "id": 6,
+  "source": "promotion-2019",
+  "question": "What is the most important step in globe injury?",
+  "options": {
+   "A": "Check under muscle insertion",
+   "B": "check parallel to the limbus in opposite direction to the trauma"
+  },
+  "correctAnswer": "A",
+  "explanation": "? I would go with A because it is hidden",
+  "year": "2019",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 141
+ },
+ {
+  "id": 7,
+  "source": "promotion-2019",
+  "question": "On amiodaron and with corneal findings (image was not provided) what to do next?",
+  "options": {
+   "A": "Observe",
+   "B": "stop medication",
+   "C": "change medication",
+   "D": "lower the dose"
+  },
+  "correctAnswer": "B",
+  "explanation": "The antiarrhythmic medication amiodarone is the most common cause of corneal verticillata. Because it is unusual for these deposits to result in reduction of vision or ocular symptoms, treatments such as superficial keratectomy with excimer laser are not necessary. It is acceptable for the patient to continue taking the recommended dose of systemic medication. The patient should be monitored by the ophthalmologist. Reference: Cornea AAO book",
+  "year": "2019",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 142
+ },
+ {
+  "id": 8,
+  "source": "promotion-2019",
+  "question": "What's the disease caused by mast cell and IgE?",
+  "options": {
+   "A": "VKC",
+   "B": "Contact dermatitis"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2019",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 142
+ },
+ {
+  "id": 9,
+  "source": "promotion-2019",
+  "question": "Fundus image of 2 choroidal lesions, what's the most diagnostic test?",
+  "options": {
+   "A": "OCT",
+   "B": "A scan",
+   "C": "FFA",
+   "D": "ICG"
+  },
+  "correctAnswer": "B",
+  "explanation": "Missing question - in section of choroidal melanoma and metastasis they mentioned Ultrasound is the primary diagnostic test that confirms the diagnosis of melanoma Reference: #eyewiki + article + OQ https://www.researchgate.net/profile/Ahmad-Mansour-",
+  "year": "2019",
+  "subspecialty": "Retina",
+  "pdfPage": 162
+ },
+ {
+  "id": 10,
+  "source": "promotion-2019",
+  "question": "Image marking the fovea, what is special about this area?",
+  "options": {
+   "A": "Containing cones only",
+   "B": "contain 2 GC",
+   "C": "INL and GCL literally displaced"
+  },
+  "correctAnswer": "B",
+  "explanation": "#AAO macula, which is 5-6 mm in diameter, as the area between the temporal vascular arcades. Histologically, it is the region with more than 1 layer of ganglion cell nuclei Image showing disc collaterals, what's the diagnosis?",
+  "year": "2019",
+  "subspecialty": "Retina",
+  "pdfPage": 165,
+  "imageUrl": "/images/promotion/p165_1cf91eb6af.jpg",
+  "imageUrls": [
+   "/images/promotion/p165_a7afcb68df.jpg"
+  ]
+ },
+ {
+  "id": 11,
+  "source": "promotion-2019",
+  "question": "Patient with hx of trauma then developed superonasal VF defect, what's the cause?",
+  "options": {
+   "A": "Horseshoe tear",
+   "B": "retinal dialysis",
+   "C": "RRD"
+  },
+  "correctAnswer": "B",
+  "explanation": "#kanski + yanoff + eyerounds #retina A retinal dialysis (Fig. 22.23A) is a break occurring at the ora serrata, caused by traction from the relatively inelastic vitreous gel along the posterior aspect of the vitreous base. The tear may be associated with avulsion of the vitreous base, giving rise to an overhanging !bucket-handle\"#appearance A traumatic dialysis occurs most frequently in the inferotemporal quadrants (hence superionasal field defect) They most commonly occur in the inferotemporal quadrant of the retinal periphery (The inferotemporal quadrant is vulnerable to even minor trauma because it is the weakest part of the peripheral retina and because this portion of the globe is anatomically more exposed than other portions). The second most common location of retinal dialyses is superonasal.",
+  "year": "2019",
+  "subspecialty": "Retina",
+  "pdfPage": 167,
+  "imageUrl": "/images/promotion/p167_6fb2629d47.jpg"
+ },
+ {
+  "id": 12,
+  "source": "promotion-2019",
+  "question": "IV drug abuser with signs of endogenous Endo, what's the organism?",
+  "options": {
+   "A": "Bacillus",
+   "B": "Klebsiella"
+  },
+  "correctAnswer": "A",
+  "explanation": "Bacillus species are mostly seen in IV drugs users diagnosis? Reference: https://eyewiki.aao.org/Endophthalmitis#Endogenous_Bacterial_Endophthalmitis Child with hx fo trauma by his brother, picture shows optic nerve avulsion, what's the",
+  "year": "2019",
+  "subspecialty": "Retina",
+  "pdfPage": 168,
+  "imageUrl": "/images/promotion/p168_8e2d3f68a1.jpg"
+ },
+ {
+  "id": 13,
+  "source": "promotion-2019",
+  "question": "Percentage of patients who have panuveitis and develops proliferative vitreoretinopathy (PVR)?",
+  "options": {
+   "A": "30%",
+   "B": "50%",
+   "C": "80%"
+  },
+  "correctAnswer": "A",
+  "explanation": "- Panuveitis and infectious uveitis are the entities most frequently associated with RRD, although pars planitis and posterior uveitis can also be associated with rhegmatogenous or tractional retinal detachments. - Uveitis is often still active in eyes that present with RRD. - Up to 30% of patients with uveitis and RRD may have proliferative vitreoretinopathy (PVR) at presentation Reference: #eyewiki",
+  "year": "2019",
+  "subspecialty": "Uveitis",
+  "pdfPage": 183
+ },
+ {
+  "id": 14,
+  "source": "promotion-2019",
+  "question": "An HIV patient came complaining of floaters and decrease of vision, he stopped his medications 4 months ago because he is fed up. The exam shows stellate KPs, and white retinal dots, CD4 count is 48, what medication to give?",
+  "options": {
+   "A": "Acyclovir",
+   "B": "gancyclovir",
+   "C": "steroid"
+  },
+  "correctAnswer": "B",
+  "explanation": "#eyewiki + wills eye Cytomegalovirus (CMV) Retinitis is an acquired immunodeficiency syndrome (AIDS)-related opportunistic infection that can lead to blindness, Risk factors include HIV, CD4 count less than 50, or severe systemic immunosuppression Treatment: -Oral therapy with valganciclovir 900 mg p.o. b.i.d. for induction (21 days), followed by 900 mg p.o. daily for maintenance. -Alternatively, intravenous ganciclovir 5 mg/kg b.i.d. or foscarnet 90 mg/kg b.i.d. may be used, followed by oral therapy valganciclovir (900 mg p.o. b.i.d. to complete 3-week induction, then 900 mg p.o. daily). Patients with progression of retinitis despite induction or who have disease that threatens the macula may benefit from intravitreal antiviral injections, but systemic therapy is still necessary to prevent the involvement of the fellow eye. The goal of treatment is quiescent retinitis (nonprogressive areas of RPE atrophy with a stable opacified border). HIV patient with CMV and you treated him with systemic medication and gancyclovir implant, how will you monitor the disease?",
+  "year": "2019",
+  "subspecialty": "Uveitis",
+  "pdfPage": 183
+ },
+ {
+  "id": 15,
+  "source": "promotion-2019",
+  "question": "I couldn#t find another resource supporting the same info regarding monitoring the response of treatment of CMV retinitis as stated by OQ Patient with decrease of vision and diplopia and image provided showing hyperemic and occlusive vasculitis and FFA confirming hot disc and leakage from vasculitis, what will you find also?",
+  "options": {
+   "A": "CNS vasculitis,",
+   "B": "pericarditis,",
+   "C": "nephritis"
+  },
+  "correctAnswer": "A",
+  "explanation": "#eyewiki retinal vasculitis may be early manifestation of generalized vasculitis of the central nervous system (CNS), one needs to remember to evaluate and monitor the CNS vasculature (i.e. employing magnetic resonance imaging with contrast) as well when indicated",
+  "year": "2019",
+  "subspecialty": "Uveitis",
+  "pdfPage": 184,
+  "imageUrl": "/images/promotion/p184_513fe32677.png",
+  "imageUrls": [
+   "/images/promotion/p185_33a46f3ded.jpg",
+   "/images/promotion/p185_90e0f739bc.jpg"
+  ]
+ },
+ {
+  "id": 16,
+  "source": "promotion-2019",
+  "question": "Strongest HLA association?",
+  "options": {
+   "A": "HLA-B27 and ankylosing spondylitis",
+   "B": "HLA-A29 and birdshot",
+   "C": "HLA-B27 and psoriasis"
+  },
+  "correctAnswer": "B",
+  "explanation": "#nature journal The association between HLA-A29 and birdshot chorioretinopathy is the strongest association between HLA and disease ever described https://www.nature.com/articles/eye1990133.pdf",
+  "year": "2019",
+  "subspecialty": "Uveitis",
+  "pdfPage": 185,
+  "imageUrl": "/images/promotion/p185_074716a7d6.jpg"
+ },
+ {
+  "id": 17,
+  "source": "promotion-2019",
+  "question": "Female with bilateral high IOP and bilateral KPs (picture was provided)? Whats the diagnosis?",
+  "options": {
+   "A": "Fuch's",
+   "B": "sarcoidosis",
+   "C": "herpetic"
+  },
+  "correctAnswer": "B",
+  "explanation": "Herpes simplex virus (HSV): associated uveitis is a common cause of unilateral hypertensive anterior uveitis. Fuchs Heterochromic Iridocyclitis: low-grade unilateral anterior inflammation with stellate keratic precipitates (KP), iris heterochromia, and prominent iris and angle vessels that bleed after paracentesis (Amsler sign). Reference: https://eyewiki.org/Sarcoid_Uveitis#cite_note-IWOS-8 Patient with snowballs and snowbank, what test will you order?",
+  "year": "2019",
+  "subspecialty": "Uveitis",
+  "pdfPage": 185,
+  "imageUrl": "/images/promotion/p185_ec5ba24d6c.jpg",
+  "imageUrls": [
+   "/images/promotion/p186_1e6eeb3fbb.png"
+  ]
+ },
+ {
+  "id": 18,
+  "source": "promotion-2019",
+  "question": "Patient with recurrent attacks of high IOP, mild reaction only, what's the diagnosis?",
+  "options": {
+   "A": "Posner",
+   "B": "fuch's"
+  },
+  "correctAnswer": "A",
+  "explanation": "Posner-Schlossman Syndrome (PSS), also known as glaucomatocyclitic crisis, is a disease typified by acute, unilateral, recurrent attacks of elevated intraocular pressure (IOP) accompanied by mild anterior chamber inflammation Reference: https://eyewiki.aao.org/Glaucomatocyclitic_Crisis_(Posner- Schlossman_Syndrome) A 40-year old Caucasian female presents with acute vision loss in the right eye",
+  "year": "2019",
+  "subspecialty": "Uveitis",
+  "pdfPage": 186
+ },
+ {
+  "id": 19,
+  "source": "promotion-2019",
+  "question": "Best method to measure IOP in the presence of scar?",
+  "options": {
+   "A": "GAT",
+   "B": "tonopen",
+   "C": "perkins tonometer"
+  },
+  "correctAnswer": "B",
+  "explanation": "#AAO Mackay-Marg type (eg, Tono-Pen, Reichert Technologies) These devices are particularly useful in patients with corneal scars or edema, as the measurement tip is small enough to be applied only on areas of normal cornea.",
+  "year": "2019",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 199
+ },
+ {
+  "id": 20,
+  "source": "promotion-2019",
+  "question": "High IOP in a patient who is diabetic and peripheral vascular disease, how to lower IOP?",
+  "options": {
+   "A": "Systemic hyperosmotic agent",
+   "B": "topical hypotensive agent",
+   "C": "PI"
+  },
+  "correctAnswer": "B",
+  "explanation": "#wills eye The Q is alluding to an NVG presentation, usually we start topical anti-glaucoma medications first If need for IOP reduction is urgent or refractory to medical therapies, consider an osmotic agent (e.g., mannitol 1 to 2 g/kg i.v. over 45 minutes).If retinal ischemia is thought to be responsible for the NV, then treat with PRP and/or anti-VEGF intravitreal injections.",
+  "year": "2019",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 201
+ },
+ {
+  "id": 21,
+  "source": "promotion-2019",
+  "question": "Patient presented to emergency room with hx of trauma to the eye and vitreous hemorrhe and high IOP, you did paracentesis and it showed cullular debris and macrophages, what's the diagnosis?",
+  "options": {
+   "A": "Hemolytic glaucoma",
+   "B": "ghost cell",
+   "C": "NVG",
+   "D": "hemosedretic"
+  },
+  "correctAnswer": "A",
+  "explanation": "- Hemosiderotic Glaucoma is a late onset glaucoma following intraocular hemorrhage secondary to iron deposition resulting in damage to the trabecular meshwork. This extremely rare glaucoma is more chronic, does not have ghost cells in the AC, and is characteristically associated with a slight discoloration of the trabecular meshwork. It most often occurs many years after the original injury, in contrast to ghost cell glaucoma, which occurs within weeks to months after the original injury. - Hemolytic Glaucoma is a type of secondary glaucoma where the trabecular meshwork is obstructed by macrophages containing RBC debris and hemosiderin after vitreous hemorrhage. - In ghost cell glaucoma, little to no RBC debris and few to no macrophages are found in the trabecular meshwork. ghost cells in the AC. Patient with angle closure glaucoma, you did PI, still high IOP, patient has mild cataract, what is the next step? Do phaco because it is phacomorphic make sure of the patency of the PI and augment if needed",
+  "year": "2019",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 201
+ },
+ {
+  "id": 22,
+  "source": "promotion-2019",
+  "question": "Patient has headache and Halo around light, then she is fine, what will you find on gonio?",
+  "options": {
+   "A": "Narrow angle",
+   "B": "PAS",
+   "C": "NVA"
+  },
+  "correctAnswer": "A",
+  "explanation": "Narrow angle has risk of angle closure temporarily. Unlike PAS and NVG, angle is closed permanently Reference: ﻛﯾﺳﻲ you are examining a pleasant 78-year-old woman who is a new patient to your clinic.",
+  "year": "2019",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 202,
+  "imageUrl": "/images/promotion/p202_bcf86e8813.jpg",
+  "imageUrls": [
+   "/images/promotion/p202_1aafd6de31.jpg",
+   "/images/promotion/p202_7c3f66858e.jpg",
+   "/images/promotion/p196_fdedae8b6e.jpg"
+  ]
+ },
+ {
+  "id": 23,
+  "source": "promotion-2019",
+  "question": "Child with hx of trauma and limitation of upgaze, then showed you CT scan with large orbital floor fracture and herniation of IR muscle, what to do next?",
+  "options": {
+   "A": "Immediate repair",
+   "B": "weight 5 days",
+   "C": "wait 3 weeks for healing",
+   "D": "give steroid"
+  },
+  "correctAnswer": "B",
+  "explanation": "#wills #oculo controversial Q even in AAO there no clear cut indications therefore I will stick to Wills eye indications since they categorize the indications for each time of intervention *Immediate Repair (Within 24 to 48 hours) If there is clinical evidence of muscle entrapment with nonresolving: bradycardia, heart block, nausea, vomiting, or syncope (most often encountered in children with WEBOF). Patients with muscle entrapment require urgent orbital exploration to release any incarcerated muscle to decrease the chance of permanent restrictive strabismus from muscle ischemia and fibrosis, as well as to alleviate systemic symptoms from the oculocardiac reflex. *Repair in 1 to 2 Weeks Persistent, symptomatic diplopia in primary or downgaze that has not improved over 1 to 2 weeks. CT may show muscle distortion or herniation around fractures. Forced ductions may be useful in identifying bony restriction. Note that diplopia may take more than two weeks to improve or resolve. Some surgeons will wait 6 to 8 weeks before offering surgical repair for persistent diplopia. Large orbital floor fractures (>50%) or large combined medial wall and orbital floor fractures that are likely to cause cosmetically unacceptable globe dystopia (enophthalmos and/or hypoglobus) over time. Globe dystopia at initial presentation is indicative of a large fracture. It is also reasonable to wait several months to see if enophthalmos develops before offering repair. There is no clear evidence that early repair is more effective in preventing or reversing globe malposition compared to delayed repair. However, many surgeons prefer early repair simply because dissection planes and abnormal (fractured) bony anatomy are more easily discernable before posttraumatic fibrosis sets in. It may be prudent to avoid early surgery for prevention of possible globe malposition in older patients, patients with significant medical comorbidities, or patients on anticoagulation therapy for significant cardiovascular conditions. Complex trauma involving the orbital rim or displacement of the lateral wall and/or the zygomatic arch. Complex fractures of the midface (zygomatic complex, Le Fort II) or skull base (Le Fort III). Nasoethmoidal complex fractures. Superior or superomedial orbital rim fractures involving the frontal sinuses. Delayed Repair Old fractures that have resulted in enophthalmos or hypoglobus can be repaired at any later date. For me i would go with waiting for 5 days and reassess since there are no signs of oculcardiac reflex hild with history of trauma, on exam he has tenderness on palpation, what is the most likely diagnosis?",
+  "year": "2019",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 218,
+  "imageUrl": "/images/promotion/p218_801211bae1.jpg"
+ },
+ {
+  "id": 24,
+  "source": "promotion-2019",
+  "question": "Child hit his upper cheek to the end of the table, no complaint apart from photophobia, normal exam including no uptake of stain, what's the most likely cause?",
+  "options": {
+   "A": "Anterior Uveitis",
+   "B": "recurrent CED"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2019",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 220
+ },
+ {
+  "id": 25,
+  "source": "promotion-2019",
+  "question": "#wills #eyewiki Traumatic Iritis: It is a subtype of anterior uveitis Trauma is one of the most common causes of anterior uveitis Symptoms: Dull, aching, or throbbing pain, photophobia, tearing, occasionally floaters, and onset of symptoms usually within 1 to 3 days of trauma. Patient trauma to the windshield and later develop diplopia only at near, what is the diagnosis?",
+  "options": {
+   "A": "Convergence insufficiency",
+   "B": "oculomotor dysfunction",
+   "C": "fixation instability"
+  },
+  "correctAnswer": "A",
+  "explanation": "#eyewiki #ped Acquired etiologies of convergence insufficiency may include fatigue, drugs (parasympatholytic), uveitis, Adie tonic pupil, glasses inducing a base-out prism effect, postexanthematous encephalitis, or traumatic injury Symptoms of convergence insufficiency include eye strain, double vision (diplopia), headaches , blurred vision at near, eye fatigue (asthenopia), tension in and around the eyes, print moving on page, and frequent loss of place when reading",
+  "year": "2019",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 220
+ },
+ {
+  "id": 26,
+  "source": "promotion-2019",
+  "question": "Patient is Ortho at distant and exophoria at near, +0.25 refraction, what not to give?",
+  "options": {
+   "A": "Pencil push ups",
+   "B": "stereogram",
+   "C": "base out prism therapy",
+   "D": "give plus lens more than his refraction"
+  },
+  "correctAnswer": "D",
+  "explanation": "#AAO Convergence insufficiency (CI) is an exodeviation that is greater at near fixation than at distance fixation. It is characterized by poor fusional convergence amplitudes and a remote near point of convergence Nonsurgical management: 1-Correction of refractive errors: Correction of even mild myopia may improve control of the exodeviation. Mild-to-moderate degrees of hyperopia are not routinely corrected in children with intermittent exotropia because refractive correction may worsen the deviation. Children with marked hyperopia (> +4.00 D) may be unable to sustain accommodation, which results in a blurred retinal image and manifest exotropia. In these patients, correction of refractive errors with glasses or contacts may improve retinal image clarity and help control the exodeviation. In some cases, overcorrection of myopia by 2.00-4.00 D can stimulate accommodative convergence to help control the exodeviation. 2-Occlusion therapy 3-Base in Prisms 4-Orthoptic exercises: Treatment of symptomatic CI typically involves orthoptic exercises such as stereograms, $pencil push-ups,\"",
+  "year": "2019",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 222
+ },
+ {
+  "id": 27,
+  "source": "promotion-2019",
+  "question": "A case of a child with a hx of insect bite to the lid, mother used topical antibiotic drops, still he is worsening. The motility is full, pupil normal, no proptosis, what's the next step?",
+  "options": {
+   "A": "Steroid",
+   "B": "Oral augmentin"
+  },
+  "correctAnswer": "B",
+  "explanation": "- From the scenario, pt has mild preseptal cellulitis > oral Abx - *indications of moderate-to-severe preseptal cellulitis which necessitates admission for IV Abx as following: o Patient appears toxic. o Patient may be noncompliant with outpatient treatment and follow up. o Child 5 years or younger. o No noticeable improvement or worsening after 24 to 48 hours of oral antibiotics. Reference: wills eye",
+  "year": "2019",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 223,
+  "imageUrl": "/images/promotion/p223_f12ff125e4.jpg"
+ },
+ {
+  "id": 28,
+  "source": "promotion-2019",
+  "question": "A 9-year-old child with orbital cellulitis, fever, malaise, CT shows large superior SPA, what's the next step?",
+  "options": {
+   "A": "Admit for drainage",
+   "B": "Admit for IV antibiotics and observe"
+  },
+  "correctAnswer": "A",
+  "explanation": "- not all subperiosteal abscesses (SPAs) require surgical drainage. - Isolated medial or inferior SPAs in children younger than 9 years with underlying isolated ethmoid sinusitis, intact vision, and only moderate proptosis typically respond to medical therapy. - Management may consist of careful observation unless any of the following criteria are present: patient aged 9 years or older; presence of frontal sinusitis; non-medial SPA location; large SPA; suspicion of anaerobic infection (eg, presence of gas in abscess on CT); recurrence of SPA after prior drainage; evidence of chronic sinusitis (eg, nasal polyps); acute optic nerve or retinal compromise; infection of dental origin (anaerobic infection more likely)",
+  "year": "2019",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 224
+ },
+ {
+  "id": 29,
+  "source": "promotion-2019",
+  "question": "Which one can be used to assess vision in preverbal child?",
+  "options": {
+   "A": "Snellen",
+   "B": "Allen",
+   "C": "HOTV",
+   "D": "Teller"
+  },
+  "correctAnswer": "D",
+  "explanation": "Teller's acuity cards The screen consist of a homogenous surface on one side and is alternated randomly with black white stripes on the other side. The baby is faced towards the screen and the observer records the direction of head movement and eye movements in response to the patterned stimulus. The test is suitable for testing visual acuity in infants upto 4 months of age as older infants are easily distracted Reference: #eyewiki Pediatrician refers patient because he suspects child abuse, what's the sign?",
+  "year": "2019",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 224,
+  "imageUrl": "/images/promotion/p224_a42636296c.jpg"
+ },
+ {
+  "id": 30,
+  "source": "promotion-2019",
+  "question": "usher syndrome, interment XT, cyclo no significant referaction, how would confirm dx?",
+  "options": {
+   "A": "Genetic test",
+   "B": "CT brain"
+  },
+  "correctAnswer": "A",
+  "explanation": "Usher Syndrome characterized by progressive vision and hearing loss. Usher syndrome has been classified into three major subtypes: I, II, and III. While all three types involve progressive vision loss due to retinitis pigmentosa (RP), they are categorized according to the genes responsible and the onset and severity of the signs and symptoms. Usher Syndrome Type I is the most severe subtype. It is characterized by profound congenital hearing loss, RP, and absent vestibular function. Usher Syndrome Type II is less severe. Patients with this subtype have moderate-to-severe congenital hearing loss, RP, and normal vestibular function. Usher Syndrome Type III involves progressive hearing loss, RP, and varying degrees of vestibular dysfunction. Onset for type III is typically within the second to fourth decades of life. These patients also tend to have better vision than the other subtypes. Reference: https://eyewiki.org/Usher_Syndrome#Diagnosis",
+  "year": "2019",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 225
+ },
+ {
+  "id": 31,
+  "source": "promotion-2019",
+  "question": "African boy, with light skin and blond hair and grey eyes, mother and father normal but the father's brother has similar condition, mother is pregnant and asking what's the risk for her next child?",
+  "options": {
+   "A": "<1%",
+   "B": "25%",
+   "C": "50%",
+   "D": "75%"
+  },
+  "correctAnswer": "B",
+  "explanation": "All seven types of albinism are inherited in an autosomal recessive manner and are thus found in both males and females, which is in contrast to that of X-linked recessive inheritance of ocular albinism Reference: https://eyewiki.org/Albinism#Genetic_Classification",
+  "year": "2019",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 225,
+  "imageUrl": "/images/promotion/p225_362cdc8554.jpg"
+ },
+ {
+  "id": 32,
+  "source": "promotion-2019",
+  "question": "Tests both basic and reflex tearing?",
+  "options": {
+   "A": "Shirmer 1",
+   "B": "Shirmer 2",
+   "C": "Tear breakup time"
+  },
+  "correctAnswer": "A",
+  "explanation": "No explanation was provided in the source document.",
+  "year": "2019",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 241
+ },
+ {
+  "id": 33,
+  "source": "promotion-2019",
+  "question": "#OQ Lower lid ulcerated mass, you took biopsy, what's the diagnosis?",
+  "options": {
+   "A": "Squamous",
+   "B": "basal",
+   "C": "seborric keratosis",
+   "D": "sebacious"
+  },
+  "correctAnswer": "A",
+  "explanation": "# eyewiki + Moran CORE + BCC lecture Based on full Q in above pic, The ulcerating SCC has a red base with well defined, hardened and everted edges The histopathologic features of SCC depend on the degree of differentiation of the tumor. -In well-differentiated tumors: the cells are polygonal with abundant acidophilic cytoplasm and hyperchromatic nuclei with various sizes and staining properties, dyskeratotic cells, and intercellular bridges. -Poorly differentiated SCC: shows pleomorphism with anaplastic cells, abnormal mitotic figures, little or no evidence of keratinization, and loss of intercellular bridges. Variants of SCC are spindle and adenoid SCC",
+  "year": "2019",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 241,
+  "imageUrl": "/images/promotion/p241_b96100cb52.jpg",
+  "imageUrls": [
+   "/images/promotion/p242_176add9787.jpg",
+   "/images/promotion/p080_a592a35d78.png",
+   "/images/promotion/p242_62a54d4f31.jpg"
+  ]
+ },
+ {
+  "id": 34,
+  "source": "promotion-2019",
+  "question": "Uveal melanoma metastasize to what?",
+  "options": {
+   "A": "Lung",
+   "B": "liver",
+   "C": "submental",
+   "D": "pre auricular"
+  },
+  "correctAnswer": "B",
+  "explanation": "#eyewiki Uveal melanoma systemic metastasis is most commonly found in the liver with 80%-90% of initial extra-scleral tumors identified at this site",
+  "year": "2019",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 243
+ },
+ {
+  "id": 35,
+  "source": "promotion-2019",
+  "question": "thickness of the defect 3- location See the attached picture Female with ptosis and difficulty swallowing, what's the inheritance pattern?",
+  "options": {
+   "A": "Sporadic",
+   "B": "X linked",
+   "C": "Autosomal dominant"
+  },
+  "correctAnswer": "C",
+  "explanation": "#AAO + eyewiki Dx: Oculopharyngeal Muscular Dystrophy Right answer: the inheritance pattern is typically autosomal dominant Oculopharyngeal Muscular Dystrophy : typically a late-onset genetic autosomal dominantly inherited disease of skeletal muscles. OPMD primarily involves the extra ocular muscles (oculo-) and the pharynx (-pharyngeal) but often involves the proximal muscles of the extremities as well. It is associated with progressive blepharoptosis (ptosis) and dysphagia. Other voluntary muscles may become affected over time. Muscle groups typically affected apart from eyelid elevator and extra ocular muscles include the proximal muscles of the lower limbs, and to a lesser extent, upper limbs as well. Symptom onset is typically in the 5th decade of life although in some cases can present earlier and more severely affected as well. See the pic for important DDx Women with proptosis and hyperobic shift, what's the diagnosis?",
+  "year": "2019",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 244
+ },
+ {
+  "id": 36,
+  "source": "promotion-2019",
+  "question": "Patient has a skin scar, what type of collagen?",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "correctAnswer": "C",
+  "explanation": "#OQ + amboss If they ask about type of collagen found in stromal wound healing (not skin) it is type 3 Type 1 - Sclera and K Stroma Type 2 - Vitreous Type 3 - Stromal Wound Healing Type 4 - Basement Membranes (Descemet's, Lens Capsule)",
+  "year": "2019",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 246,
+  "imageUrl": "/images/promotion/p246_d775feaa34.jpg"
+ },
+ {
+  "id": 37,
+  "source": "promotion-2019",
+  "question": "However if the Q was for skin scar the answer could be type 1 (late scar formation) or 3 collagen (early scar formation) You were called to see patient with orbital cellulitis who started to have sudden drop in vision, what's the most important next step?",
+  "options": {
+   "A": "Ask about duration of visual loss",
+   "B": "measure IOP",
+   "C": "ask for CT"
+  },
+  "correctAnswer": "C",
+  "explanation": "#eyewiki Although completing the Hx and physical examination is essential before any further steps but since the Q is pointing to suspected orbital cellulitis case with signs of optic nerve damage, orbital CT scan would be required because it might change the management plan based on size and locations of subperoistal abscess So for me i would go with CT Computed tomography (CT) of the orbit is the imaging modality of choice for patients with orbital cellulitis. Most of the time, CT is readily available and will give the clinician information regarding the presence of sinusitis, subperiosteal abscess, stranding of orbital fat, or intracranial involvement. Nevertheless, in cases of mild to moderate orbital cellulitis with no optic nerve involvement, the initial management of the patient remains medical. Imaging is warranted in children and in cases of poor response to intravenous antibiotics with progression of orbital signs in order to confirm the presence of complications such as subperiosteal abscess or intracranial involvement",
+  "year": "2019",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 246,
+  "imageUrl": "/images/promotion/p246_f49755607e.jpg"
+ },
+ {
+  "id": 38,
+  "source": "promotion-2019",
+  "question": "Child with low birth weight and prematurity, what tumor you will find?",
+  "options": {
+   "A": "Capillary hemangioma",
+   "B": "lymphangioma",
+   "C": "hemqngiopericytoma",
+   "D": "AV malformation"
+  },
+  "correctAnswer": "A",
+  "explanation": "The source flags this recall as incomplete. will choose it Here summary for each from kanski: 1- Capillary haemangioma: is the most common tumour of the orbit and periorbital area in childhood. Girls are affected more commonly than boys (3:1). It can be superficial, presenting as a red, raised lesion, it can be deep, presenting as a dark blue lesion that may extend into the orbit or may present both of the above components. Capillary hemangiomas involving the eyelids may induce astigmatic anisometropic and amblyopia causing severe vision loss if left untreated. The diagnosis is made clinically, however in extensive cases imaging helps delineate the extent of orbital involvement. The natural course of the capillary hemangioma is initial enlargement in the first year of life followed by spontaneous regression in the following years 2- Lymphangioma: is a rare hamartomatous vascular tumour that tends to enlarge and infiltrate diffusely with time. Some authorities believe lymphangiomas to be a variant of venous orbital anomaly (varices) across a single spectrum and the term !combined venous-lymphatic malformations of the orbit\"#has been suggested. Although usually isolated from the main circulation, bleeding into the lumen may occur with subsequent formation of blood-filled !chocolate cysts\"#that regress spontaneously with time. Presentation is usually in early childhood. 3-Hemangiopericytoma: is a rare mesenchymal tumor, typically located in the retrobulbar intraconal space of the orbit, that is generally slow-growing, but has malignant potential.",
+  "year": "2019",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 247
+ },
+ {
+  "id": 39,
+  "source": "promotion-2019",
+  "question": "40 or 50 year old male, unilateral proptosis and pain, image of unilateral proptosis and CT scan showing enlarged muscles, what is the pathophysiology of the disease?",
+  "options": {
+   "A": "Granulomatous inflammation with casseating center",
+   "B": "epitheloid histeocytes",
+   "C": "cell mediated reaction",
+   "D": "autoantigen against fibroblast"
+  },
+  "correctAnswer": "D",
+  "explanation": "This presentation can be Thyroid eye disease or orbital myositis - Thyroid eye disease pathophysiology: the presumed mechanism is activation of orbital fibroblasts by Graves' disease-related autoantibodies - Orbital myositis pathophysiology: circulating antibodies against eye muscle antigens Orbital_Inflammatory_Syndrome,_Orbital_Pseudotumor)#Pathophysiology Reference: https://eyewiki.aao.org/Nonspecific_Orbital_Inflammation_(Idiopathic_Orbital_Inflammation,_",
+  "year": "2019",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 248
+ },
+ {
+  "id": 40,
+  "source": "promotion-2019",
+  "question": "In TED, what's the order of surgeries?",
+  "options": {
+   "A": "Decompression",
+   "B": "Strabismus",
+   "C": "lid"
+  },
+  "correctAnswer": "A",
+  "explanation": "Decompression then strabismus then lid",
+  "year": "2019",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 248,
+  "imageUrl": "/images/promotion/p248_86f031c72f.jpg"
+ },
+ {
+  "id": 41,
+  "source": "promotion-2019",
+  "question": "TED, when will you go for decompresDsion?",
+  "options": {
+   "A": "Pain",
+   "B": "vision affected"
+  },
+  "correctAnswer": "B",
+  "explanation": "Sign of optic nerve compression",
+  "year": "2019",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 248,
+  "imageUrl": "/images/promotion/p249_baa92ef702.jpg"
+ },
+ {
+  "id": 42,
+  "source": "promotion-2019",
+  "question": "Cavernous sinus thrombosis: not alert, what would you give now?",
+  "options": {
+   "A": "ABX",
+   "B": "Anticoagulants"
+  },
+  "correctAnswer": "A",
+  "explanation": "Causes such as septic CST that may be acutely life-threatening must be recognized and managed emergently. Intravenous antibiotics must be started immediately for the treatment of an underlying infection. Though controversial, anticoagulation is recommended. Otolaryngology should be consulted to evaluate for the need for surgical drainage of the primary infection. wearing a helmet, but when you see him he has a large ecchymosis over his brow and left upper lid, 20/800 vision in the left eye, impaired color perception in the left eye, Reference: https://eyewiki.org/Cavernous_Sinus_Syndrome a 23-year-old man suffers a closed head injury from a motorcycle accident. He was",
+  "year": "2019",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 249
+ },
+ {
+  "id": 43,
+  "source": "promotion-2019",
+  "question": "muscles, often the medial recti. It can be induced by rotating an OKN drum downwards; the upward refixation saccade brings the two eyes towards each other in a convergence movement. There is classically associated retraction of the globe into the orbit. It is a component of Parinaud dorsal midbrain syndrome Hx of optic neuritis, positive MRI, what's the management?",
+  "options": {
+   "A": "IV steroid alone,",
+   "B": "IV steroid followed by oral,",
+   "C": "start interferon,",
+   "D": "nothing just observe"
+  },
+  "correctAnswer": "B",
+  "explanation": "#eyewiki Treatment involves 1000 mg IV methylprednisolone daily for 3 days followed by an 11 day oral prednisone taper. This treatment has been shown to accelerate visual recovery, but not improve long-term outcomes In myasthenia, characteristic of ptosis? #kanski Ptosis in MG is insidious, bilateral and frequently asymmetrical Typically, worse at the end of the day; Worse on prolonged (60 second) upgaze due to fatigue The 2022 American College of Rheumatology/EULAR classification criteria for GCA[75] include the presence of: Age ≥50 years at diagnosis is an absolute requirement.; Score of ≥6 points, considering:; positive temporal artery biopsy or temporal artery halo sign on ultrasound (+5); erythrocyte sedimentation rate ≥50 mm/hour or C reactive protein ≥10 mg/L (+3); sudden visual loss (+3); morning stiffness in shoulders or neck, jaw or tongue claudication, new temporal",
+  "year": "2019",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 267
+ },
+ {
+  "id": 44,
+  "source": "promotion-2019",
+  "question": "What is the finding in ocular motor aprexia?",
+  "options": {
+   "A": "Abnormal Horizontal saccade",
+   "B": "abnormal vertical saccade",
+   "C": "abnormal horizontal smooth pursuit",
+   "D": "abnormal vertical pursuit"
+  },
+  "correctAnswer": "A",
+  "explanation": "#eyewiki + AAO defect in, or absence of, the ability to perform voluntary eye movements. Affected patients are unable to willingly draw their eyes to an object that grabs their attention but can otherwise freely gaze left and right. When their attention is drawn, patients with OMA exhibit head thrusting or blinking in order to bring the object into their gaze. Congenital ocular motor apraxia (as described by Cogan) is idiopathic and is characterized by increased latency and intermittent failure of horizontal saccadic initiation, Vertical eye movements are normal",
+  "year": "2019",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 269,
+  "imageUrl": "/images/promotion/p269_36daa498c3.jpg",
+  "imageUrls": [
+   "/images/promotion/p269_dbcc2f5d86.jpg"
+  ]
+ },
+ {
+  "id": 45,
+  "source": "promotion-2019",
+  "question": "Patient with adduction deficit and abducting nystagmus, then later developed bilateral exotropia and abduction defect OU, where is the lesion?",
+  "options": {
+   "A": "Right MLF and left PRP",
+   "B": "right and left MLF"
+  },
+  "correctAnswer": "B",
+  "explanation": "#eyewiki WEBINO Location of lesion: Bilateral INO Wall-Eyed Bilateral Internuclear Ophthalmoplegia exists when there is bilateral damage to the MLF. This damage causes a primary position exotropia (eyes are looking at the opposite $wall.\", thus the possibly outdated term $wall-eyed\"). The most common etiology is infarction of the midbrain in older patients and demyelinating disease in young patients.",
+  "year": "2019",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 269
+ },
+ {
+  "id": 46,
+  "source": "promotion-2019",
+  "question": "Others: Which muscle produces the vertical wrinkles?",
+  "options": {
+   "A": "Curregator",
+   "B": "procereous"
+  },
+  "correctAnswer": "A",
+  "explanation": "Which patient will most likely have this (forgot the disease)?",
+  "year": "2019",
+  "subspecialty": "Optics",
+  "pdfPage": 270,
+  "imageUrl": "/images/promotion/p270_4aacafffd5.jpg"
+ },
+ {
+  "id": 47,
+  "source": "promotion-2019",
+  "question": "Which will tell you that it is non-organic visual loss?",
+  "options": {
+   "A": "Absence of APD",
+   "B": "no movement with mirror test",
+   "C": "movement with optokinetic drum"
+  },
+  "correctAnswer": "C",
+  "explanation": "Mirror test A large mirror is slightly and slowly tilted forward and backward and rotated from side to side in front of the patient (Video 14-1). As in the OKN test, if the patient reports seeing nothing but the examiner notes eye movement with the mirror, then a subjective- objective mismatch has been documented. Because a relative afferent pupil defect can be absent in bilateral disease, it does not prove nonorganic vision loss Reference: Neurophtha AAO book Which nerve affected in IIH?",
+  "year": "2019",
+  "subspecialty": "Optics",
+  "pdfPage": 270
+ },
+ {
+  "id": 48,
+  "source": "promotion-2019",
+  "question": "Refraction: -8 OD, -4 OS, how many prism diopter will be induced if the patient looks 1 cm below center?",
+  "options": {
+   "A": "0",
+   "B": "4",
+   "C": "8",
+   "D": "12"
+  },
+  "correctAnswer": "C",
+  "explanation": "8pd for right eye, 4 for the left eye but clinically insignificant 4pd for left eye int clinically significant Reference: Prisms lecture",
+  "year": "2019",
+  "subspecialty": "Optics",
+  "pdfPage": 280,
+  "imageUrl": "/images/promotion/p281_d0c2be8a75.png"
+ },
+ {
+  "id": 49,
+  "source": "promotion-2019",
+  "question": "You are performing Jackson cross cylinder refraction, what's the third step?",
+  "options": {
+   "A": "Cylinder axis",
+   "B": "cylinder power"
+  },
+  "correctAnswer": "B",
+  "explanation": "find sphere then axis and power of cylinder adjust sphere Reference: Subjective refraction lecture",
+  "year": "2019",
+  "subspecialty": "Optics",
+  "pdfPage": 281,
+  "imageUrl": "/images/promotion/p279_8d50d04917.png"
+ },
+ {
+  "id": 50,
+  "source": "promotion-2019",
+  "question": "What is the red line?",
+  "options": {
+   "A": "Visual axis",
+   "B": "optical axis",
+   "C": "kappa",
+   "D": "pupillary axis"
+  },
+  "correctAnswer": "D",
+  "explanation": "- The optical axis is composed of an imaginary line perpendicular to the cornea that intersects the center of the entrance pupil. - the visual axis is an imaginary line that connects the object in space, the center of the entrance and exit pupil, and the center of the fovea. - The pupillary axis is defined as the line that joints the center of the entrance pupil to a point located at the anterior corneal surface, where the local tangent is perpendicular surgery/pupillary-axis-kappa-angle/ Reference: https://eyewiki.aao.org/Optical_Axes_and_Angle_Kappa , https://www.gatinel.com/recherche-formation/centering-corneal-based-refractive-",
+  "year": "2019",
+  "subspecialty": "Optics",
+  "pdfPage": 281
+ },
+ {
+  "id": 51,
+  "source": "promotion-2019",
+  "question": "What's the percentage of glucose that goes into kreb cycle in the lens?",
+  "options": {
+   "A": "3",
+   "B": "10",
+   "C": "20",
+   "D": "37"
+  },
+  "correctAnswer": "A",
+  "explanation": "Because of the low oxygen tension in the lens, only about 3% of the lens glucose passes through the citric acid cycle to produce ATP; however, even this low level of aerobic metabolism produces approximately 25% of the ATP of the lens. Reference: Lens and cataract AAO book What's the distance from the anterior corneal surface and the fovea in schematic eye?",
+  "year": "2019",
+  "subspecialty": "Optics",
+  "pdfPage": 282
+ },
+ {
+  "id": 52,
+  "source": "promotion-2019",
+  "question": "What's the diagnosis?",
+  "options": {
+   "A": "Chlamydia",
+   "B": "Nisseria"
+  },
+  "correctAnswer": "A",
+  "explanation": "Chlamydia trachomatis Follicular Conjunctivitis Reference: https://brieflands.com/articles/zjrms-2181.html",
+  "year": "2019",
+  "subspecialty": "Pathology",
+  "pdfPage": 290,
+  "imageUrl": "/images/promotion/p079_57a4788c12.png",
+  "imageUrls": [
+   "/images/promotion/p291_7a8540570a.png"
+  ]
+ },
+ {
+  "id": 53,
+  "source": "promotion-2019",
+  "question": "Pathology slide of Homer wright rossete, what's the sign that will tell you about prognosis?",
+  "options": {
+   "A": "Mitotic activity",
+   "B": "degree of necrosis",
+   "C": "optic nerve invasion"
+  },
+  "correctAnswer": "C",
+  "explanation": "THe poorer prognosis characteristics of invasion of the choroid, optic nerve and/or orbit strongly correlate with increased oxidative stress. Reference: Yanoff ocular pathology",
+  "year": "2019",
+  "subspecialty": "Pathology",
+  "pdfPage": 291,
+  "imageUrl": "/images/promotion/p291_2a7e78094a.jpg",
+  "imageUrls": [
+   "/images/promotion/p291_43810faa47.png"
+  ]
+ }
+]
