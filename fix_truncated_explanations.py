@@ -32,8 +32,8 @@ FILE_MAP = [
     ("lens-cataract-oq.json", "3- Lens and Cataract OphthoQ.pdf"),
 ]
 
-# Characters that mark a properly-ended explanation (colon included intentionally)
-GOOD_ENDINGS = set('.?!"\u2019):')
+# Characters that mark a properly-ended explanation
+GOOD_ENDINGS = set('.?!"\u2019)')
 
 SECTION_HEADERS = [
     'Structure and Function', 'Examination Techniques',
@@ -261,6 +261,18 @@ def find_continuation(explanation, pdf_norm):
             # Clean
             cont = clean_text(cont_raw)
             found_any = True
+
+            # Skip if continuation is ONLY answer options (A.xxx B.xxx C.xxx D.xxx)
+            # This catches cases where the needle matched inside the PDF's
+            # question/answer section rather than in explanation text
+            if cont and re.match(
+                r'^(?:[\u2022\u25cf\s]*)?[A-D][\.\)]\s.*?'
+                r'(?:[\u2022\u25cf\s]*)?[A-D][\.\)]\s.*?'
+                r'(?:[\u2022\u25cf\s]*)?[A-D][\.\)]',
+                cont, re.DOTALL
+            ):
+                found_any = True
+                continue
 
             if len(cont) > 3:
                 if best_cont is None or len(cont) < len(best_cont):
