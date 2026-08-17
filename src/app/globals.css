@@ -226,6 +226,18 @@ body::before {
 [data-theme="sepia"] .badge-promotion { background: #dce4cc; color: #3f5a30; }
 [data-theme="sepia"] .badge-neutral { background: #e4ddcc; color: #5c5346; }
 
+/* ── Reviewer second opinion ──────────────────────────── */
+/* Agreement is quiet; disagreement is deliberately loud and a different hue
+   from every correct/incorrect colour in the app, so it never reads as a verdict
+   on the answer the reader just gave. */
+.review-note { border: 1px solid transparent; }
+.review-agrees { background: #f0f7f4; color: #14532d; border-color: #bcdccb; }
+.review-differs { background: #f5f0ff; color: #5b21b6; border-color: #d6c8f5; }
+[data-theme="dark"] .review-agrees { background: #16261d; color: #86efac; border-color: #2a4636; }
+[data-theme="dark"] .review-differs { background: #241a3a; color: #c4b5fd; border-color: #3f2f66; }
+[data-theme="sepia"] .review-agrees { background: #e6e6cf; color: #3f5230; border-color: #cfd0b4; }
+[data-theme="sepia"] .review-differs { background: #eae0ee; color: #573b6b; border-color: #d3c2da; }
+
 /* ── Figure placement caveat ──────────────────────────── */
 .figure-caveat { background: #fffbeb; color: #92400e; }
 [data-theme="dark"] .figure-caveat { background: #3a2f14; color: #fcd34d; }

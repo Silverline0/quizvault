@@ -35,6 +35,26 @@ export interface Question {
    * own figure is doubtful or missing. Links only — nothing is rehosted.
    */
   referenceLinks?: ReferenceLink[];
+  /** Second opinion from an independent reviewer. */
+  review?: QuestionReview;
+  /** This question's key came from a reviewer, not from the exam recall. */
+  reviewerAnswered?: boolean;
+  reviewConfidence?: "high" | "medium" | "low";
+  reviewConcern?: string;
+  /** What the source compiler wrote where an answer should have been. */
+  sourceHint?: string;
+}
+
+/**
+ * An independent reviewer's second opinion. Never overwrites `correctAnswer`:
+ * the exam's key is what the exam marks, and a reviewer is not the exam.
+ */
+export interface QuestionReview {
+  answer: string;
+  agrees: boolean;
+  confidence: "high" | "medium" | "low";
+  explanation: string;
+  concern?: string;
 }
 
 export interface ReferenceLink {

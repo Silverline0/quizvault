@@ -1,0 +1,638 @@
+[
+ {
+  "id": 1,
+  "source": "promotion-unkeyed",
+  "question": "According to (Subfoveal Macular Photocoagulation Study), which of the following patients should receive an urgent argon laser: (Jeffery)",
+  "options": {
+   "A": "A 65 year old man with VA of 20/400 and subfoveal CNVM of 3 disc diameter.",
+   "B": "An 85 year old woman with VA of 20/100 and subfoveal CNVM of 1 disc diameter.",
+   "C": "A 65 year old woman with VA of 20/400 and subfoveal CNVM of 3 disc diameter.",
+   "D": "A 65 year old man with VA of 20/100 and subfoveal CNVM of 3 disc diameter."
+  },
+  "correctAnswer": "B",
+  "explanation": "The Macular Photocoagulation Study subfoveal arm only supported laser for lesions within its size ceiling of about 3.5 disc AREAS with well-demarcated classic borders and vision in the 20/40 to 20/320 range, and the benefit was greatest for small lesions, because photocoagulating the fovea causes an immediate drop in acuity that only pays off later against the natural history. A lesion of 3 disc DIAMETERS is roughly 9 disc areas, far outside the treatable range, which eliminates options A, C and D and leaves the 1 disc diameter subfoveal membrane with 20/100 vision in option B. This is a historical item only: subfoveal thermal laser has been abandoned in favour of intravitreal anti-VEGF therapy, which preserves rather than destroys foveal tissue.",
+  "year": "2014",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 568,
+  "reviewerAnswered": true,
+  "reviewConfidence": "medium",
+  "sourceHint": "Previously Answered As B",
+  "imageUrl": "/images/promotion/p568_ad6c234cf3.png"
+ },
+ {
+  "id": 2,
+  "source": "promotion-unkeyed",
+  "question": "Regarding ocular TB. ONE FALSE:",
+  "options": {
+   "A": "Gamma interferon test is sensitive.",
+   "B": "Latent TB is non-infectious.",
+   "C": "Latent TB affects mainly the vessels.",
+   "D": "INH challenging test may diagnose ocular TB."
+  },
+  "correctAnswer": "C",
+  "explanation": "Latent tuberculosis means viable but contained bacilli with no clinical or radiographic evidence of active disease anywhere, so it does not by definition 'affect the vessels'; the retinal vasculitis of presumed ocular TB, along with choroidal granulomas and serpiginous-like choroiditis, is a manifestation of active or immune-mediated ocular disease, and the tissue most often involved is the highly vascular choroid rather than the retinal vessels. The other statements are defensible: interferon-gamma release assays have good sensitivity and, unlike the tuberculin skin test, are unaffected by BCG vaccination; a person with latent TB is not infectious; and a therapeutic trial of antituberculous therapy with sustained improvement is used as supportive evidence for presumed ocular TB when direct proof is unobtainable. I am flagging this one as low confidence because option A is also attackable, since IGRAs cannot distinguish latent from active infection and are usually taught as more specific than sensitive.",
+  "year": "2014",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 571,
+  "reviewerAnswered": true,
+  "reviewConfidence": "low",
+  "reviewConcern": "Genuinely ambiguous polarity: a defensible case can be made for A as the false statement."
+ },
+ {
+  "id": 3,
+  "source": "promotion-unkeyed",
+  "question": "Patient developed shallow AC, 24 hours posttrabeculectomy.ONE TRUE:",
+  "options": {
+   "A": "Plus power lens can reduce his hyperopia.",
+   "B": "Malignant glaucoma is the cause.",
+   "C": "Flat AC with lens-corneal touch is an indication of surgery revision."
+  },
+  "correctAnswer": "C",
+  "explanation": "A flat anterior chamber with lens-corneal or iris-corneal touch (Spaeth grade 2 to 3) is a surgical emergency: contact threatens irreversible endothelial decompensation and permanent peripheral anterior synechiae, so the chamber must be reformed and the underlying leak, overfiltration or misdirection addressed rather than observed. Option B is wrong because malignant glaucoma is only one of several causes and is far from the commonest at 24 hours; overfiltration, a wound or bleb leak with a positive Seidel test, choroidal effusion and pupillary block all come first, and the differentiating feature is that aqueous misdirection presents with a shallow chamber and HIGH pressure, whereas leak and overfiltration give a shallow chamber with hypotony. Option A is muddled: forward lens-iris movement in a shallow chamber typically produces a MYOPIC shift, while hypotony with choroidal folds and a shortened globe produces hyperopia, and in either case a spectacle lens is a temporising refractive fix, not a management of the flat chamber.",
+  "year": "2014",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 573,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high"
+ },
+ {
+  "id": 4,
+  "source": "promotion-unkeyed",
+  "question": "According to Optic Neuritis Treatment Trial. ONE FALSE :",
+  "options": {
+   "A": "IV methylprednisolone doesn't change the visual outcome.",
+   "B": "Oral prednisone hasten the symptoms, but doesn't decrease recurrence.",
+   "C": "Optic neuritis patients can be left without treatment.",
+   "D": "No need for MRI in the typical cases."
+  },
+  "correctAnswer": "D",
+  "explanation": "The single most durable lesson of the Optic Neuritis Treatment Trial is that MRI IS needed, because the number of white matter lesions at presentation is the strongest predictor of conversion to multiple sclerosis (roughly a quarter with no lesions versus a large majority with two or more over 15 years) and it drives the decision about disease-modifying therapy; so saying no MRI is needed in typical cases is the false statement. The trial also showed that intravenous methylprednisolone followed by an oral taper speeds visual recovery but leaves the final acuity essentially unchanged, that untreated observation is an acceptable option for vision alone, and that oral prednisone in standard dose used ALONE was associated with a higher rate of recurrent optic neuritis, which is why that regimen is avoided. Option B is loosely worded but is not the intended false answer.",
+  "year": "2014",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 589,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high",
+  "sourceHint": "?D",
+  "imageUrl": "/images/promotion/p590_9377872c27.png",
+  "imageUrls": [
+   "/images/promotion/p590_419b1c8977.png"
+  ]
+ },
+ {
+  "id": 5,
+  "source": "promotion-unkeyed",
+  "question": "(Case scenario) a female patient, post refractive sx. c/o photophobia at the night. All are possible management except : (From Kenneith Wright)",
+  "options": {
+   "A": "Miotics drops.",
+   "B": "Turn on interior reading light in car",
+   "C": "Increase the ablation zone diameter.",
+   "D": "Wear polarized glasses"
+  },
+  "correctAnswer": "D",
+  "explanation": "Night-time glare, haloes and starbursts after keratorefractive surgery arise when the scotopic pupil dilates beyond the effective optical zone, so every legitimate remedy either shrinks the pupil or enlarges the zone. Weak miotics such as low-dose pilocarpine or brimonidine keep the pupil inside the treated zone, switching on the car's interior light raises ambient illumination and constricts the pupil, and a retreatment that enlarges the optical zone with a broader transition removes the mismatch at its source. Polarised lenses do the opposite of what is wanted at night: they cut light transmission, further dilating the pupil and worsening scotopic symptoms, and they are generally advised against for night driving, which makes option D the management that does not belong.",
+  "year": "2014",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 590,
+  "reviewerAnswered": true,
+  "reviewConfidence": "medium"
+ },
+ {
+  "id": 6,
+  "source": "promotion-unkeyed",
+  "question": "Regarding post PKP decrease visual acuity in a patient with aphakic bullous keratopathy. The most common cause for this decrease in VA is?",
+  "options": {
+   "A": "Glaucoma",
+   "B": "-CME",
+   "C": "-uveitis"
+  },
+  "correctAnswer": "B",
+  "explanation": "In eyes grafted for aphakic or pseudophakic bullous keratopathy, cystoid macular oedema is the commonest reason the vision disappoints even when the graft itself is crystal clear, because these eyes have already had complicated or older-generation cataract surgery with vitreous disturbance and chronic low-grade inflammation, and the transplant adds a fresh inflammatory insult. The practical corollary is to examine the macula with OCT before blaming the graft, and to treat with topical steroid and a nonsteroidal agent, adding acetazolamide or periocular steroid for refractory cases. Glaucoma is a genuine and frequent comorbidity in these eyes and uveitis contributes, but neither is the leading single cause of reduced acuity in this specific group.",
+  "year": "2014",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 598,
+  "reviewerAnswered": true,
+  "reviewConfidence": "medium"
+ },
+ {
+  "id": 7,
+  "source": "promotion-unkeyed",
+  "question": "amsler grid held at 33 cm measures how many degrees :",
+  "options": {
+   "A": "-5",
+   "B": "-10",
+   "C": "-20",
+   "D": "-30"
+  },
+  "correctAnswer": "C",
+  "explanation": "The standard Amsler chart is a 10 by 10 cm grid of 5 mm squares, and at the prescribed 33 cm reading distance each small square subtends 1 degree, so the whole chart covers the central 20 degrees of visual field, that is 10 degrees of eccentricity in every direction from the central fixation dot. That is the practical reason the test is worn with the reading correction and held at a fixed distance: change the distance and the angular subtense, and therefore the field being sampled, changes with it. Choosing 10 degrees is the common trap, since 10 degrees is the RADIUS of the tested field rather than its full extent.",
+  "year": "2014",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 603,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high"
+ },
+ {
+  "id": 8,
+  "source": "promotion-unkeyed",
+  "question": "In papilledema, one false?",
+  "options": {
+   "A": "Can happen in hours ( true)",
+   "B": "Starts superiorly inferiorly nasally then temporally?",
+   "C": "Goes away in weeks to months",
+   "D": "High water marks indicates atrophic papilledema"
+  },
+  "correctAnswer": "D",
+  "explanation": "High-water marks are the concentric chorioretinal folds and residual retinal pigment epithelial lines left at the outer limit reached by subretinal fluid from a previously swollen disc, so they are a marker of CHRONIC or resolved papilledema rather than a specific indicator of the atrophic end stage; postpapilledema optic atrophy is recognised instead by pallor, gliosis, disc drusen-like bodies and optociliary shunt vessels. The remaining statements are conventional teaching: papilledema can appear within hours when intracranial pressure rises abruptly, the swelling is described as involving the superior and inferior poles first, then nasal, with the temporal margin last (mirrored in the Frisen grades, where the halo has a temporal gap early), and once the pressure is normalised the disc typically settles over about six to eight weeks. This is a weak recall and my answer rests largely on elimination, hence the low confidence.",
+  "year": "2014",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 612,
+  "reviewerAnswered": true,
+  "reviewConfidence": "low",
+  "reviewConcern": "Answer reached mainly by elimination; option D is arguably true and options B and C are each defensible as the intended false statement."
+ },
+ {
+  "id": 9,
+  "source": "promotion-unkeyed",
+  "question": "Systemic lymphoma is least likely associated:",
+  "options": {
+   "A": "Eyelid",
+   "B": "Conjunctiva",
+   "C": "Orbit"
+  },
+  "correctAnswer": "B",
+  "explanation": "Among ocular adnexal lymphomas, the conjunctival ones carry the lowest rate of concurrent or subsequent systemic disease; they are typically indolent extranodal marginal zone (MALT) lymphomas presenting as a salmon-pink patch that is often localised and controlled with radiotherapy alone. Eyelid lymphoma sits at the other end, with the highest association with systemic lymphoma and a greater share of aggressive histologies such as diffuse large B-cell and mantle cell, and orbital disease falls in between. Whatever the site, every patient still needs full systemic staging with imaging and haematology referral, since the site only shifts the prior probability rather than excluding dissemination.",
+  "year": "2014",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 626,
+  "reviewerAnswered": true,
+  "reviewConfidence": "medium"
+ },
+ {
+  "id": 10,
+  "source": "promotion-unkeyed",
+  "question": "A 4 year old child with a history of infantile ET surgically corrected at the age of 12 months has VA of 20/30 with both eyes open but only 20/60 when each eye is tested monocularly. The most likely reason is:",
+  "options": {
+   "A": "Bilateral amblyopia.",
+   "B": "Latent nystagmus.",
+   "C": "Crowding phenomenon.",
+   "D": "Binocular summation."
+  },
+  "correctAnswer": "B",
+  "explanation": "Better acuity with both eyes open than with either eye alone is the signature of manifest latent nystagmus, which is strongly associated with infantile esotropia and absent binocular fusion: occluding one eye triggers a jerk nystagmus with the fast phase toward the viewing eye, degrading monocular acuity, while binocular viewing damps it. The practical correction is to fog the non-tested eye with a high plus lens or a translucent occluder rather than to patch it, so that binocular viewing conditions and the damped nystagmus are preserved. Bilateral amblyopia would not improve when both eyes are opened, crowding refers to worse acuity for a line of letters than for isolated optotypes, and binocular summation improves acuity by only about one line, not the doubling of the minimum angle of resolution seen here.",
+  "year": "2014",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 630,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high"
+ },
+ {
+  "id": 11,
+  "source": "promotion-unkeyed",
+  "question": "Regarding the lens, all true except:",
+  "options": {
+   "A": "Zonular fibers are composed of collagen filaments that merge with the capsule.",
+   "B": "Lens epithelium resides beneath the anterior and equatorial capsule.",
+   "C": "Lens capsule is composed of basement membrane and stains positive"
+  },
+  "correctAnswer": "A",
+  "explanation": "Zonular fibres are bundles of FIBRILLIN-rich elastic microfibrils, not collagen, which is why fibrillin-1 mutations in Marfan syndrome produce zonular weakness and superotemporal lens dislocation; they arise from the nonpigmented ciliary epithelium and insert into the lens capsule near the equator. Option B is true: the lens epithelium is a single cuboidal layer beneath the anterior and equatorial capsule only, with no epithelium posteriorly, which is why posterior capsule opacification requires cells to migrate from the equatorial bow. Option C is also true: the capsule is the thickest basement membrane in the body, composed largely of type IV collagen and laminin and staining strongly with periodic acid-Schiff.",
+  "year": "2014",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 636,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high"
+ },
+ {
+  "id": 12,
+  "source": "promotion-unkeyed",
+  "question": "Which of the following is NOT associated with granulomatous uveitis:",
+  "options": {
+   "A": "Sarcoidosis. (Granulomatous)",
+   "B": "Fuchs iridocylcitis.",
+   "C": "Brucellosis. (granulomatous)",
+   "D": "Herpes uveitis. (Both granulomatous and non-granulomatous)"
+  },
+  "correctAnswer": "B",
+  "explanation": "Fuchs heterochromic iridocyclitis is classified as a NON-granulomatous anterior uveitis: its keratic precipitates are small to medium, stellate with fine fibrillar extensions, and scattered diffusely over the whole endothelium rather than forming mutton-fat deposits in Arlt's triangle, and posterior synechiae are characteristically absent. Sarcoidosis is the archetypal granulomatous uveitis with mutton-fat precipitates, Koeppe and Busacca iris nodules and candle-wax retinal exudates; brucellosis is likewise granulomatous; and herpetic uveitis may present either way, often with granulomatous precipitates accompanied by sectoral iris atrophy and raised intraocular pressure. The stellate precipitates of Fuchs are sometimes described as granulomatous-like in newer literature, but standard classification still places the condition in the non-granulomatous group.",
+  "year": "2014",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 647,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high",
+  "sourceHint": "all are granulomatous (old Q) In many textbooks only mutton-"
+ },
+ {
+  "id": 13,
+  "source": "promotion-unkeyed",
+  "question": "stereoacuity which is wrong:",
+  "options": {
+   "A": "tested monocularly",
+   "B": "the images fall on the fovea"
+  },
+  "correctAnswer": "A",
+  "explanation": "Stereoacuity is by definition a binocular function: it depends on the small horizontal disparity between the two retinal images being fused by cortical binocular cells, so it cannot be measured with one eye occluded. Monocular depth cues (motion parallax, overlap, relative size, shading) remain available with one eye, but they are not stereopsis, and monocular clues are precisely what good stereo tests are designed to eliminate. Option B is essentially correct for fine stereopsis, which depends on images falling on or very near corresponding foveal points with only a slight disparity.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 525,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high"
+ },
+ {
+  "id": 14,
+  "source": "promotion-unkeyed",
+  "question": "upper eyelid lateral lesion mostly metastesize to which group of lymph node:",
+  "options": {
+   "A": "submental",
+   "B": "preauricular (parotid)",
+   "C": "cervical"
+  },
+  "correctAnswer": "B",
+  "explanation": "Lymphatic drainage of the eyelids splits laterally and medially: the lateral two-thirds of the upper lid and the lateral third of the lower lid drain to the preauricular (superficial parotid) nodes, while the medial upper lid and medial two-thirds of the lower lid drain to the submandibular nodes. A lateral upper lid malignancy such as sebaceous or squamous carcinoma therefore seeds the preauricular/parotid basin first, which is why that region is palpated at every eyelid tumour visit and is the target of sentinel node mapping. Submental nodes drain the central lower lip and chin, not the eyelid, and cervical nodes are a second-echelon station reached only after the parotid or submandibular group.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 526,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high",
+  "imageUrl": "/images/promotion/p526_20a646c82d.jpg",
+  "imageUrls": [
+   "/images/promotion/p526_3448b4315a.jpg"
+  ]
+ },
+ {
+  "id": 15,
+  "source": "promotion-unkeyed",
+  "question": "which of the following associated with RB homer w rossete:",
+  "options": {
+   "A": "ganglion cells defrentiation",
+   "B": "optic nerve extension",
+   "C": "uveal extention"
+  },
+  "correctAnswer": "A",
+  "explanation": "Homer Wright rosettes are rings of tumour cells surrounding a central tangle of neural filaments (neuropil) with no lumen, and they signify neuroblastic or neuronal differentiation; they are shared with neuroblastoma and medulloblastoma and are not specific to retinoblastoma. The lumen-containing Flexner-Wintersteiner rosette, whose central space is bounded by a terminal-bar apparatus, is the one that indicates photoreceptor differentiation and is far more characteristic of retinoblastoma, while fleurettes indicate the most advanced photoreceptor differentiation. Optic nerve and uveal extension are routes of tumour spread and high-risk histopathologic features; they are graded independently of rosette formation and have no defining relationship to any one rosette type.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 527,
+  "reviewerAnswered": true,
+  "reviewConfidence": "medium"
+ },
+ {
+  "id": 16,
+  "source": "promotion-unkeyed",
+  "question": "scenario of a man with anisocoria, one larger with slugish reaction which is true:",
+  "options": {
+   "A": "adies pupil",
+   "B": "traumatic iris sphincter damage",
+   "C": "3rd nerve plasy",
+   "D": "all of the above"
+  },
+  "correctAnswer": "D",
+  "explanation": "When the anisocoria is greater in light and the larger pupil reacts poorly, the lesion is on the efferent parasympathetic side or in the iris itself, and all three listed entities produce exactly that picture. Adie tonic pupil gives a large pupil with a sluggish, segmental light reaction and light-near dissociation from postganglionic ciliary ganglion damage; traumatic sphincter rupture gives an irregular, poorly reacting pupil with sphincter tears visible on slit-lamp; third nerve palsy gives a dilated, poorly reactive pupil, usually with ptosis and a motility deficit. Because the stem gives only the pupil finding and no ptosis, motility, slit-lamp, or pharmacologic data, none of the three can be excluded, so all of the above is the correct choice.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 527,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high"
+ },
+ {
+  "id": 17,
+  "source": "promotion-unkeyed",
+  "question": "all of the following are true association except",
+  "options": {
+   "A": "Alport's syndrome: posterior lenticonus",
+   "B": "Mystonic dystrophy Christmas tree cataract",
+   "C": "Wilson's disease sun flower cataract",
+   "D": "Amidarone anterior subcapsular"
+  },
+  "correctAnswer": "A",
+  "explanation": "Alport syndrome is classically paired with ANTERIOR lenticonus, an axial conical bulge of the anterior lens surface caused by a defective type IV collagen lens capsule that is abnormally thin; the associated dot-and-fleck retinopathy completes the picture. Posterior lenticonus is the one seen in Lowe (oculocerebrorenal) syndrome and, most often, as an isolated sporadic unilateral finding in otherwise healthy children. The other three pairings are correct: myotonic dystrophy gives the polychromatic iridescent Christmas-tree cataract, Wilson disease gives the copper sunflower cataract, and amiodarone deposits whorl-like anterior subcapsular opacities in addition to its corneal verticillata.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 529,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high"
+ },
+ {
+  "id": 18,
+  "source": "promotion-unkeyed",
+  "question": "Which of the following topical anesthetic is a long acting ester",
+  "options": {
+   "A": "Propacaine",
+   "B": "Cocaine",
+   "C": "Tetracaine",
+   "D": "Bupivacaine"
+  },
+  "correctAnswer": "C",
+  "explanation": "Local anaesthetics divide by the linkage between the aromatic ring and the amine chain: esters have a single i in the name before the -caine, amides have two. Tetracaine is an ester and is the long-acting member of that family, with an onset of about a minute and surface anaesthesia lasting up to 20 minutes or more, which is why it stings more and is more epitheliotoxic than the alternatives. Proparacaine and cocaine are also esters but short to intermediate acting, and bupivacaine, although genuinely long-acting, is an AMIDE and is used for injection rather than as a topical agent, which makes it the classic trap in this item.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 530,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high"
+ },
+ {
+  "id": 19,
+  "source": "promotion-unkeyed",
+  "question": "Which of the following is false about the conjunctiva:",
+  "options": {
+   "A": "Goblet cells are more inferonasal",
+   "B": "Goblet cell are present in the conjunctival substantia propria",
+   "C": "Conjunctiva contain accessory lacrimal gland",
+   "D": "bulbar conjunctival is loosely adherent to episclera"
+  },
+  "correctAnswer": "B",
+  "explanation": "Goblet cells are unicellular mucin-secreting glands that sit WITHIN the conjunctival epithelium, discharging MUC5AC directly onto the ocular surface; they are not found in the substantia propria, which is the underlying vascular connective tissue stroma. What does lie in the substantia propria are the accessory lacrimal glands of Krause (fornices) and Wolfring (tarsal border), so option C is true. Option A is true because goblet cell density is highest inferonasally, in the fornices and around the plica and caruncle, and option D is true because the bulbar conjunctiva is only loosely attached to the underlying episclera except at the limbus, which is what permits ballooning chemosis and conjunctival autograft harvesting.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 530,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high"
+ },
+ {
+  "id": 20,
+  "source": "promotion-unkeyed",
+  "question": "Which is true about iron deposits in the cornea:",
+  "options": {
+   "A": "Fleisher ring is found at the cone of keratoconus.",
+   "B": "Stocker's line is found at the edge of trabeculectomy blebs.",
+   "C": "Ferry's line is found in front of ptryguim",
+   "D": "Iron deposition in the cornea due to aging is Hanle's line"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Fleischer ring is epithelial iron encircling the base of the keratoconic cone, best seen with a cobalt blue filter, so option A is the true statement. The other three are deliberately scrambled: the Stocker line is the vertical iron line at the advancing head of a pterygium, the Ferry line is the iron line at the edge of a filtering bleb, and the age-related horizontal iron line at the junction of the upper two-thirds and lower third of the cornea is the Hudson-Stahli line, not any Hanle line. All of these deposits are ferritin within basal epithelial cells and share the same mechanism, iron pooling in the tear film where the surface contour is irregular and tear break-up is abnormal.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 531,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high",
+  "imageUrl": "/images/promotion/p531_4675196057.jpg"
+ },
+ {
+  "id": 21,
+  "source": "promotion-unkeyed",
+  "question": "Optic chiasm relation, All true except:",
+  "options": {
+   "A": "Inferior to lamina",
+   "B": "Superior to infundibulum",
+   "C": "Medial to internal carotid artery",
+   "D": "Inferior to cavernous sinus"
+  },
+  "correctAnswer": "D",
+  "explanation": "The cavernous sinuses lie LATERAL to the chiasm and sella, not above it, so calling the chiasm inferior to the cavernous sinus is the false relation. The genuine relations are that the chiasm sits in the floor of the third ventricle just behind and below the lamina terminalis, above and slightly in front of the pituitary stalk and diaphragma sellae, and medial to the supraclinoid internal carotid arteries on each side. These relations explain the classic lesion patterns: a pituitary mass compresses from below producing superior bitemporal loss, while a carotid aneurysm compressing the chiasm laterally damages the uncrossed fibres and produces nasal field loss.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 532,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high"
+ },
+ {
+  "id": 22,
+  "source": "promotion-unkeyed",
+  "question": "All true about retino blastoma except.",
+  "options": {
+   "A": "survival and vision depends on the initial presentation",
+   "B": "The first tumour to describe the genetic of malignancy",
+   "C": "Survival is 70% in low-middle income countries",
+   "D": "NVI and shallow AC are associated with poor histopathology"
+  },
+  "correctAnswer": "C",
+  "explanation": "The stark global inequality of retinoblastoma outcome is the teaching point: survival exceeds 95 to 99 percent in high-income countries with screening and early presentation, but falls dramatically in resource-poor settings, where children present late with proptosis and extraocular disease and mortality approaches or exceeds 50 percent, so quoting a comfortable 70 percent for low-income settings understates the problem. The other statements are sound: presenting stage drives both survival and globe or vision salvage, retinoblastoma is the prototype tumour for cancer genetics through Knudson's two-hit hypothesis and the cloning of RB1 as the first tumour suppressor gene, and clinical features such as iris neovascularisation, glaucoma and a shallow anterior chamber correlate with high-risk histopathology (massive choroidal invasion, postlaminar optic nerve invasion, anterior segment seeding). Note that recent multinational data put three-year survival near 80 percent in lower-middle-income and near 57 percent in low-income countries, so the exact figure in option C is arguable even though it remains the statement the examiner intended as false.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 532,
+  "reviewerAnswered": true,
+  "reviewConfidence": "medium"
+ },
+ {
+  "id": 23,
+  "source": "promotion-unkeyed",
+  "question": "Regarding the optic nerve, which is FALSE",
+  "options": {
+   "A": "Upon entering the cranial fossa medial to internal carotid artery",
+   "B": "Enters the cranial fossa with the ophthalmic artery",
+   "C": "Fibers are more in fetal than adult",
+   "D": "The longest course is in the cranium"
+  },
+  "correctAnswer": "D",
+  "explanation": "The optic nerve's longest segment is the intraorbital one, roughly 25 to 30 mm for an orbit only about 18 mm deep, which is why the nerve runs a redundant sinuous course that permits proptosis and free eye movement; the intracranial segment is only about 10 mm and the intracanalicular part about 5 to 10 mm. The remaining statements are true: within the optic canal the nerve is accompanied by the ophthalmic artery (running inferolaterally in its dural sheath), and once intracranial it lies medial to the internal carotid artery as it approaches the chiasm. Fibre counts are indeed higher in fetal life, around 3.5 million axons at mid-gestation, pruned by apoptosis to roughly 1.2 million by birth and adulthood.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 533,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high"
+ },
+ {
+  "id": 24,
+  "source": "promotion-unkeyed",
+  "question": "Regarding nerve fiber layer, all true except",
+  "options": {
+   "A": "Begin at lamina cribraosa",
+   "B": "End at chiasm",
+   "C": "Mad by bipolar axon",
+   "D": "Injured by glucoma"
+  },
+  "correctAnswer": "C",
+  "explanation": "The retinal nerve fibre layer is made of the unmyelinated AXONS OF RETINAL GANGLION CELLS, not of bipolar cells; bipolar cells are the intermediate neuron of the vertical pathway and their axons terminate in the inner plexiform layer, never leaving the eye. Those ganglion cell axons run in the RNFL, turn into the optic disc, become myelinated only after passing the lamina cribrosa, and continue as the optic nerve to the chiasm, so options A and B are acceptable descriptions of where the fibre bundles begin and end. Option D is true and clinically central: glaucoma damages these axons in an arcuate, bundle-respecting pattern, which is what RNFL thinning on OCT and the corresponding arcuate field defects measure.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 533,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high"
+ },
+ {
+  "id": 25,
+  "source": "promotion-unkeyed",
+  "question": "all statement regarding benign intracranial hypertension are true EXEPT:",
+  "options": {
+   "A": "is typically found in young obese females",
+   "B": "may result from chronic mastoiditis",
+   "C": "is associated with features of hydrocephalus on a CT scan",
+   "D": "is associated with visual disturbances that can be improved with LP shunt"
+  },
+  "correctAnswer": "C",
+  "explanation": "Idiopathic intracranial hypertension is defined in part by NORMAL neuroimaging: the ventricles are normal or slit-like, never hydrocephalic, and the presence of hydrocephalus or a mass sends you looking for a secondary cause instead. The supportive imaging signs are the opposite of hydrocephalus, namely an empty sella, flattened posterior globes, distended perioptic subarachnoid spaces and transverse sinus stenosis. The other statements hold: the classic patient is a young obese woman of childbearing age, chronic otitis or mastoiditis can cause otitic hydrocephalus through lateral sinus thrombosis, and CSF diversion by lumboperitoneal or ventriculoperitoneal shunt is a recognised option for progressive visual loss when medical therapy fails.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 534,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high"
+ },
+ {
+  "id": 26,
+  "source": "promotion-unkeyed",
+  "question": "the FALSE statement of cephalosporine is:",
+  "options": {
+   "A": "they are bactericidal",
+   "B": "cefuroxime is a third generation cephalosporine",
+   "C": "these drugs are effective against gram negative bacilli",
+   "D": "they are effective against B lactamase producing staphylococci"
+  },
+  "correctAnswer": "B",
+  "explanation": "Cefuroxime is a SECOND generation cephalosporin, not a third; it is worth knowing precisely because intracameral cefuroxime is the agent used for endophthalmitis prophylaxis at the end of cataract surgery. Third generation agents are ceftriaxone, cefotaxime and ceftazidime, the last being the classic intravitreal partner for vancomycin because of its antipseudomonal cover. The other statements are correct: cephalosporins are bactericidal beta-lactams that inhibit cell wall cross-linking, gram-negative bacillary cover broadens as you move from first to third generation, and their relative stability to staphylococcal penicillinase is exactly what makes first generation agents such as cefazolin useful against methicillin-sensitive Staphylococcus aureus.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 534,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high"
+ },
+ {
+  "id": 27,
+  "source": "promotion-unkeyed",
+  "question": "which of the following is true for perforating ocular injury:",
+  "options": {
+   "A": "is a partial thickness injury",
+   "B": "has a single entrance wound only",
+   "C": "has exit wound only",
+   "D": "the globe integrity is disrupted in tow place due to an entrance and exit site(through and through injury)"
+  },
+  "correctAnswer": "D",
+  "explanation": "In the standardised BETT terminology a PERFORATING injury means the wall of the globe is breached in two places by the same object, with both an entrance and an exit wound, whereas a PENETRATING injury has an entrance wound only. A partial-thickness wound is a lamellar laceration and does not qualify as an open globe at all, and no injury has an exit wound without an entrance, so options A, B and C are all definitionally impossible. The distinction matters practically because perforating injuries carry a worse prognosis, with a posterior exit site that often requires delayed vitrectomy and a higher risk of proliferative vitreoretinopathy and retinal detachment.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 535,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high"
+ },
+ {
+  "id": 28,
+  "source": "promotion-unkeyed",
+  "question": "In pregnancy uveitis , false ?",
+  "options": {
+   "A": "Steroid use is safe",
+   "B": "Mycophenolate mofetil is safe",
+   "C": "Methotrexate is teratogenic"
+  },
+  "correctAnswer": "B",
+  "explanation": "Mycophenolate mofetil is a recognised human teratogen, associated with a distinctive embryopathy of microtia, cleft lip and palate and ocular malformations plus first-trimester pregnancy loss, and it carries a pregnancy prevention programme requiring effective contraception and a washout of about six weeks before conception; it is therefore emphatically NOT safe in pregnancy. Methotrexate is likewise an abortifacient and teratogen and must be stopped months in advance, so option C is true. Corticosteroids remain the mainstay for uveitis in pregnancy, given locally or at the lowest effective systemic dose (prednisolone is largely inactivated by placental 11-beta-hydroxysteroid dehydrogenase), with azathioprine and, if needed, ciclosporin or anti-TNF agents as the accepted steroid-sparing options.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 536,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high",
+  "imageUrl": "/images/promotion/p536_cedf1d1628.jpg"
+ },
+ {
+  "id": 29,
+  "source": "promotion-unkeyed",
+  "question": "Peribulbar VS retrobulbar. TRUE:",
+  "options": {
+   "A": "less perforation",
+   "B": "less amount required",
+   "C": "faster action"
+  },
+  "correctAnswer": "A",
+  "explanation": "The whole point of the peribulbar technique is that the needle stays outside the muscle cone and is kept short and shallow, so the risk of globe perforation, optic nerve injury, retrobulbar haemorrhage and brainstem anaesthesia from inadvertent optic nerve sheath injection is lower than with a retrobulbar block. The trade-offs run the other way for the other two options: because the anaesthetic must diffuse into the cone from outside, peribulbar blocks need a LARGER volume (typically 6 to 10 mL versus 3 to 5 mL) and have a SLOWER onset, often requiring a supplementary injection and a longer wait for akinesia. That is the standard comparison to remember whenever an exam contrasts the two blocks.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 536,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high",
+  "imageUrl": "/images/promotion/p537_1c4fd93e65.jpg"
+ },
+ {
+  "id": 30,
+  "source": "promotion-unkeyed",
+  "question": "Regarding Sphenoid bone all true except",
+  "options": {
+   "A": "formanen rotundum is part of the lesser wing",
+   "B": "Pterygoid canal is Medial to foramen rotundum",
+   "C": "Articulate with basi occipit"
+  },
+  "correctAnswer": "A",
+  "explanation": "The foramen rotundum, which transmits the maxillary division of the trigeminal nerve, lies in the GREATER wing of the sphenoid, alongside foramen ovale and foramen spinosum; the lesser wing carries the optic canal and forms the upper border of the superior orbital fissure. Option B is correct in that the pterygoid (vidian) canal, carrying the nerve of the pterygoid canal to the pterygopalatine fossa, lies medial and inferior to foramen rotundum. Option C is also correct: the body of the sphenoid articulates posteriorly with the basiocciput at the spheno-occipital synchondrosis, a joint that fuses in the late teens and is a landmark in skull base imaging and surgery.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 537,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high",
+  "imageUrl": "/images/promotion/p537_77dbac3f1d.png"
+ },
+ {
+  "id": 31,
+  "source": "promotion-unkeyed",
+  "question": "Regarding Wavelength all true except:",
+  "options": {
+   "A": "it Changes with density of media",
+   "B": "Is cycle of a waveform",
+   "C": "Inversely proportional to the frequency"
+  },
+  "correctAnswer": "B",
+  "explanation": "Wavelength is a DISTANCE, the spatial separation between two successive corresponding points such as crest to crest, so calling it the cycle of a waveform confuses it with frequency, which is the number of cycles passing a point per second. The other two statements are standard optics: wavelength and frequency are inversely related through the wave equation, and when light passes into an optically denser medium its speed falls while its frequency is invariant, so the wavelength shortens in proportion to the refractive index. That last point is the reason laser wavelengths are quoted in air or vacuum and why photon energy, which follows frequency, does not change as light crosses an interface.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 537,
+  "reviewerAnswered": true,
+  "reviewConfidence": "medium"
+ },
+ {
+  "id": 32,
+  "source": "promotion-unkeyed",
+  "question": "factors which make the RPE attached. All true except.",
+  "options": {
+   "A": "apical junction system",
+   "B": "IOP?",
+   "C": "Viscoelastic tamponade of the vitreous",
+   "D": "Intercellular matrix surrounding the photoreceptors"
+  },
+  "correctAnswer": "A",
+  "explanation": "There are no junctional complexes binding the retinal pigment epithelium to the photoreceptors; the apical junctional complex of the RPE joins neighbouring RPE cells to one another and forms the outer blood-retinal barrier, so it is not one of the forces holding the neurosensory retina down. The genuine adhesive forces are the interphotoreceptor matrix that ensheathes the outer segments and interdigitates with RPE microvilli, the active fluid transport (metabolic pump) of the RPE working with the oncotic pull of the choroid, the hydrostatic push of intraocular pressure, and the viscoelastic tamponade of the formed vitreous. Their loss is what makes hypotony, RPE pump failure and vitreous liquefaction predispose to detachment, and it is why silicone oil or gas tamponade substitutes for the vitreous surgically.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 538,
+  "reviewerAnswered": true,
+  "reviewConfidence": "medium",
+  "imageUrl": "/images/promotion/p538_8aada51310.jpg"
+ },
+ {
+  "id": 33,
+  "source": "promotion-unkeyed",
+  "question": "Adenovirus infection in human, one false:",
+  "options": {
+   "A": "Uncommon cause of ocular infection",
+   "B": "Pseudomembrane",
+   "C": "True membrane",
+   "D": "3 types: Epidemic Keratoconjumctivitis, Follicular conjunctivitis, Pharyngoconjunctival fever"
+  },
+  "correctAnswer": "A",
+  "explanation": "Adenovirus is the single most COMMON cause of infectious conjunctivitis worldwide, so calling it an uncommon cause of ocular infection is the false statement. Its classic ocular syndromes are the three listed: epidemic keratoconjunctivitis (serotypes 8, 19, 37) with subepithelial infiltrates and preauricular adenopathy, pharyngoconjunctival fever (serotypes 3, 7) with fever and sore throat in children, and non-specific follicular conjunctivitis. Severe cases form inflammatory pseudomembranes and, less often, true membranes that bleed when peeled and can leave conjunctival scarring and symblepharon, so both B and C are legitimate features.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 540,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high"
+ },
+ {
+  "id": 34,
+  "source": "promotion-unkeyed",
+  "question": "All of the followings regarding slit lamp examination are true except:",
+  "options": {
+   "A": "Direct illumination are used to detect gross pathology",
+   "B": "Corneal section is seen by direct illumination",
+   "C": "Slit beam is used to illuminate cornea from behind in scleral scatter",
+   "D": "Guttate is seen by retroillumination"
+  },
+  "correctAnswer": "C",
+  "explanation": "In sclerotic (scleral) scatter the beam is decentred onto the LIMBUS and the light is then trapped inside the cornea by total internal reflection, so the cornea is lit from within its own edge, not from behind; any opacity scatters that trapped light and glows against a dark pupil. Illumination from behind is retroillumination, which uses light returning from the iris or the fundus red reflex, and that is a genuinely useful way to see corneal guttae as dark refractile spots (though specular reflection with its beaten-metal appearance remains the classic technique for them), so option D is acceptable. Direct illumination, whether a wide diffuse beam for a gross survey or a narrow optic section for depth localisation, keeps the illuminated and observed areas coincident, so options A and B are also true as written.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 541,
+  "reviewerAnswered": true,
+  "reviewConfidence": "medium"
+ },
+ {
+  "id": 35,
+  "source": "promotion-unkeyed",
+  "question": "Regarding Pinhole, which is false",
+  "options": {
+   "A": "Increase the depth of field",
+   "B": "Increase the depth of focus",
+   "C": "When 2 mm or less impairs the image quality."
+  },
+  "correctAnswer": "C",
+  "explanation": "A pinhole degrades image quality once it becomes SMALLER than roughly 1 mm, not at 2 mm; the optimum clinical aperture is about 1.2 mm, which is the compromise between blur-circle reduction and diffraction. Above that size the pinhole admits too many peripheral rays and stops correcting refractive blur; below about 1 mm diffraction spreads the light and both acuity and brightness fall. The two true statements follow from the same geometry: narrowing the entrance pupil shrinks the blur circle, which increases depth of focus at the retina and depth of field in object space, which is also why a pinhole improves vision in refractive error and irregular astigmatism but not in macular or optic nerve disease.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 542,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high"
+ }
+]

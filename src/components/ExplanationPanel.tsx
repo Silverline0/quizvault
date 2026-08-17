@@ -108,6 +108,46 @@ export default function ExplanationPanel({ question, wasCorrect }: ExplanationPa
         </div>
       )}
 
+      {/* Reviewer's second opinion — its own colour, and never the app's key */}
+      {question.review && (
+        <div
+          className={`mt-4 p-3 rounded-lg review-note ${question.review.agrees ? "review-agrees" : "review-differs"}`}
+        >
+          <p className="text-xs font-semibold mb-1">
+            {question.review.agrees
+              ? "Reviewer agrees with this answer"
+              : `Reviewer disagrees — they answer ${question.review.answer}. The exam key above is ${question.correctAnswer}.`}
+            <span className="ml-2 font-normal opacity-75">
+              ({question.review.confidence} confidence)
+            </span>
+          </p>
+          <p className="text-sm leading-relaxed">{question.review.explanation}</p>
+          {question.review.concern && (
+            <p className="text-xs mt-1.5 opacity-90">{question.review.concern}</p>
+          )}
+        </div>
+      )}
+
+      {/* Provenance for reviewer-answered recalls */}
+      {question.reviewerAnswered && (
+        <div className="mt-4 p-3 rounded-lg review-note review-differs">
+          <p className="text-xs font-semibold mb-1">
+            The source never answered this one — the key above is a reviewer&apos;s
+            <span className="ml-1 font-normal opacity-75">
+              ({question.reviewConfidence} confidence)
+            </span>
+          </p>
+          {question.sourceHint && (
+            <p className="text-xs opacity-90">
+              What the compiler wrote instead: &ldquo;{question.sourceHint}&rdquo;
+            </p>
+          )}
+          {question.reviewConcern && (
+            <p className="text-xs mt-1 opacity-90">{question.reviewConcern}</p>
+          )}
+        </div>
+      )}
+
       {/* Reference images, for questions whose own figure is doubtful or absent */}
       {question.referenceLinks && question.referenceLinks.length > 0 && (
         <div className="mt-4 pt-3" style={{ borderTop: "1px solid var(--border)" }}>
