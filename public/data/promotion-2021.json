@@ -15,7 +15,13 @@
   "pdfPage": 127,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p127_6c90208c7b.png",
-  "pageScanUrl": "/images/promotion-pages/page_127.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_127.jpg",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "On the Roper-Hall grading of chemical injury, stromal haze dense enough to obscure iris detail, with total epithelial loss, is grade III with a guarded prognosis, whereas 30 percent limbal ischaemia is less than one-third and therefore grade II, which carries a good prognosis. Limbal ischaemia is the single most important prognostic variable because it reflects destruction of limbal stem cells, but at 30 percent it has not yet crossed into the poor-prognosis range. Anterior chamber reaction is not part of the grading and does not predict outcome; grade IV, an opaque cornea with more than half the limbus ischaemic, would be worse than anything offered here."
+  }
  },
  {
   "id": 2,
@@ -30,7 +36,13 @@
   "explanation": "Most likely A A keratitis with feathery margins is a hint towards a fungal entity. Pseudomonas aeruginosa can invade corneal epithelial cells and translocates multilayered corneal epithelia in vitro, but it does not penetrate the intact corneal epithelium in vivo. stromal herpetic tx:",
   "year": "2021",
   "subspecialty": "Anterior Segment",
-  "pdfPage": 127
+  "pdfPage": 127,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Feathery, indistinct infiltrate margins with satellite lesions are the signature of filamentous fungal keratitis, and Fusarium and Aspergillus are the organisms capable of invading an intact corneal epithelium and even penetrating an intact Descemet membrane to reach the anterior chamber. Candida is a yeast, produces a more discrete suppurative infiltrate resembling bacterial keratitis, and requires a compromised ocular surface such as chronic keratopathy or steroid use. Pseudomonas gives a rapidly progressive, soupy mucopurulent ulcer with stromal melt and needs an epithelial defect, classically under a contact lens."
+  }
  },
  {
   "id": 3,
@@ -53,7 +65,14 @@
    "/images/promotion/p128_3fef3f2479.jpg",
    "/images/promotion/p128_4ac7b7ee0f.png"
   ],
-  "pageScanUrl": "/images/promotion-pages/page_128.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_128.jpg",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Macrostriae are full-thickness folds resulting from slippage of the LASIK flap, and they are almost always evident on the first postoperative day, with essentially all cases declaring themselves within the first week or two. Recognising them early matters because lifting, refloating and stretching the flap, sometimes with hypotonic saline or sutures, becomes progressively less successful once the folds become fixed, leaving visually significant irregular astigmatism. Microstriae by contrast are fine fibrillary folds in Bowman layer, often visually insignificant and managed conservatively.",
+   "concern": "The option set is expressed in weeks whereas macrostriae are typically a day-one finding, so the recall is imprecise; 1 to 2 weeks is nonetheless the only option consistent with the natural history."
+  }
  },
  {
   "id": 4,
@@ -67,7 +86,14 @@
   "explanation": "Aphakia/pseudophakia is a known independent risk factor for the development of retinal breaks and/or detachment in eyes without preexisting retinal pathology. MK picture (maginal, scar, and central infiltrate) which one would you treat?",
   "year": "2021",
   "subspecialty": "Anterior Segment",
-  "pdfPage": 129
+  "pdfPage": 129,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "The reason to implant a plano intraocular lens in an eye that needs no refractive power is that the implant, with an intact capsule, acts as a mechanical barrier limiting forward vitreous movement and the traction on the vitreous base that produces retinal breaks and detachment. Aphakia, particularly with a disrupted posterior capsule, carries a higher detachment risk than pseudophakia, so leaving the eye aphakic is not equivalent. There is also the practical benefit of a stable capsular bag should further anterior segment surgery ever be needed.",
+   "concern": "The stem is garbled and the correct option is phrased as a statement about aphakia rather than as a benefit of the implant, but the underlying teaching point, that pseudophakia is safer than aphakia for detachment risk, is clearly what is being tested."
+  }
  },
  {
   "id": 5,
@@ -83,7 +109,13 @@
   "explanation": "٩٣ is the steepeness of the cornea He is myopic which means the focus of light in front of retina which means his cornea is powerful So we have to weaken the cornea to get the light on the retina His K is 39 When we want to weaken the cornea we reduce the K But the K must be within 35-50 So if we calculate 10D of correction x 0.8 K for each diopter ٨ K reduction He will have K 31 which is beyond the safe target between 35-50 So its contraindicated for him Reference: Dr. Mohannad Altobaigi ectopia lentis ST marfan:",
   "year": "2021",
   "subspecialty": "Anterior Segment",
-  "pdfPage": 129
+  "pdfPage": 129,
+  "review": {
+   "answer": "D",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Myopic LASIK flattens the cornea by roughly 0.8 D of keratometry for each dioptre treated, so correcting about 10 D on a cornea starting at 39 D would leave a postoperative K near 31, far below the accepted lower limit of about 34 to 35 D. That degree of oblate flattening produces poor optical quality, night glare and an unstable refraction regardless of how thick the cornea is, so adequate pachymetry does not rescue the case. The manifest versus cycloplegic debate is a red herring here, and the appropriate alternative for this degree of myopia is a phakic intraocular lens."
+  }
  },
  {
   "id": 6,
@@ -97,7 +129,13 @@
   "explanation": "Aqueous misdirection is a challenging form of secondary angle closure that presents with elevated intraocular pressure (IOP) and shallowing of the central and peripheral anterior chamber despite the presence of a peripheral iridotomy. High iop s/p GDI, cause? encapsulated GDI; inflamed TM",
   "year": "2021",
   "subspecialty": "Glaucoma",
-  "pdfPage": 194
+  "pdfPage": 194,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Aqueous misdirection, or malignant glaucoma, shallows the anterior chamber uniformly, centrally as well as peripherally, with raised intraocular pressure and a patent peripheral iridotomy, and that patent iridotomy is what distinguishes it from pupillary block. In iris bombe the peripheral iris is bowed forward while the central chamber stays relatively deep, and an iridotomy relieves it. Management of aqueous misdirection is cycloplegia with aqueous suppressants, then Nd:YAG hyaloidotomy or pars plana vitrectomy with disruption of the anterior hyaloid; miotics make it worse and must be stopped."
+  }
  },
  {
   "id": 7,
@@ -112,7 +150,14 @@
   "explanation": "angle-recession glaucoma A history of hyphema or trauma to the glaucomatous eye can often be found in patients with angle-recession glaucoma.",
   "year": "2021",
   "subspecialty": "Glaucoma",
-  "pdfPage": 194
+  "pdfPage": 194,
+  "review": {
+   "answer": "C",
+   "agrees": false,
+   "confidence": "high",
+   "explanation": "The diagnostic thread here is the several months of intraocular pressure of 5 after blunt trauma. Sustained post-traumatic hypotony is the signature of a cyclodialysis cleft, which shunts aqueous into the suprachoroidal space, and when such a cleft closes, spontaneously or after treatment, the pressure rebounds abruptly and often dramatically because ciliary body secretion has been suppressed and outflow through a chronically underused trabecular meshwork has downregulated. Angle recession glaucoma behaves in the opposite way, developing insidiously months to years after injury with no intervening hypotonous phase, and ghost cell glaucoma follows a vitreous haemorrhage, with degenerated red cells reaching the anterior chamber within weeks rather than after months of pressure of 5.",
+   "concern": "The source answer of angle recession does not account for the months of hypotony, which is the pivotal clue in the stem. Abrupt marked pressure rise after prolonged post-traumatic hypotony is the classic presentation of cyclodialysis cleft closure, and the distinction matters clinically because these spikes are usually transient and are managed with aqueous suppressants while avoiding miotics, not with glaucoma surgery."
+  }
  },
  {
   "id": 8,
@@ -127,7 +172,14 @@
   "explanation": "A similar question is found in OphthaQuestions.",
   "year": "2021",
   "subspecialty": "Glaucoma",
-  "pdfPage": 195
+  "pdfPage": 195,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Cataract surgery reliably worsens pre-existing diabetic macular oedema, so where the cataract is not so dense as to prevent assessment and treatment, the macula is treated first, the oedema is confirmed resolved, and only then is the lens removed. Roughly three months is the interval that allows the macula to settle and the treatment response to be judged. One month is generally too short to confirm resolution, and operating first with macular treatment a week later exposes an already oedematous macula to the surgical inflammatory insult.",
+   "concern": "Focal laser has largely been superseded by anti-VEGF therapy for centre-involving diabetic macular oedema, so the drug has changed even though the sequencing principle being tested has not."
+  }
  },
  {
   "id": 9,
@@ -142,7 +194,14 @@
   "explanation": "Low blood ph due to metabolic acidosis",
   "year": "2021",
   "subspecialty": "Glaucoma",
-  "pdfPage": 195
+  "pdfPage": 195,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Acetazolamide inhibits carbonic anhydrase in the proximal renal tubule, so bicarbonate is not reabsorbed and is lost in the urine, producing a hyperchloraemic metabolic acidosis with a low blood pH. That acidosis is what generates the malaise, paraesthesiae, fatigue and, in this patient, the syncope, and diabetics are more vulnerable because their buffering reserve may already be reduced. Acetazolamide does not raise blood glucose, so that option is simply wrong.",
+   "concern": "The urinary bicarbonate option is also literally true, since bicarbonaturia is the mechanism producing the acidosis, but the systemic finding that explains the collapse, and the one the question intends, is the low blood pH."
+  }
  },
  {
   "id": 10,
@@ -157,7 +216,13 @@
   "explanation": "This patient might had previous attacks of angle-closure. aqueous misdirection not responsive to topical:",
   "year": "2021",
   "subspecialty": "Glaucoma",
-  "pdfPage": 196
+  "pdfPage": 196,
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Episodic blurring with coloured haloes around lights and intermittent pain, in an eye that is entirely normal between attacks including a normal pressure, is the story of intermittent or subacute angle closure, and the expected gonioscopic finding is an occludable narrow angle. The haloes arise from corneal epithelial oedema during the pressure spike and clear as the angle reopens. Peripheral anterior synechiae may accumulate after repeated attacks but are a consequence rather than the defining finding, and neovascularisation of the angle would demand proliferative retinopathy, which this patient does not have. The management point is laser peripheral iridotomy before a full attack occurs."
+  }
  },
  {
   "id": 11,
@@ -171,7 +236,14 @@
   "explanation": "?",
   "year": "2021",
   "subspecialty": "Glaucoma",
-  "pdfPage": 196
+  "pdfPage": 196,
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "The intraocular lens, with an intact capsule, acts as a physical barrier limiting forward movement of the vitreous and the traction on the vitreous base that generates retinal breaks, which is why pseudophakia carries a lower detachment risk than aphakia. Cystoid macular oedema is driven mainly by inflammation, prostaglandin release and vitreous incarceration in the wound rather than by the presence or absence of an implant, so preventing CME is not the reason to implant a lens.",
+   "concern": "The stem reads IOP where it almost certainly means IOL; answered on that reading. It duplicates the concept tested in the 2021 anterior segment and 2022 retina items in this same batch."
+  }
  },
  {
   "id": 12,
@@ -185,7 +257,14 @@
   "explanation": "D D B Refrence : self assessment Hemolytic glaucoma is similar to ghost cell glaucoma except that in hemolytic glaucoma, macrophages phagocytize RBC debris and then occlude the trabecular meshwork. The macrophages appear as reddish cells in the aqueous and the trabecular meshwork has a reddish-brown discoloration. Ghost-cell glaucoma occurs in association with vitreous hemorrhage. Red blood cells (RBCs) degenerate in the vitreous, migrate forward to the anterior chamber (AC) through a disrupted anterior hyaloid face (usually due to vitrectomy, cataract surgery, or trauma), and then obstruct the trabecular meshwork. The degenerated RBCs appear as tan-colored spheres known as ghost cells, which contain clumps of denatured hemoglobin. Ghost cells are more rigid than normal RBCs When the lens is displaced anteriorly, it can cause pupillary block. The initial treatment is 2 laser iridotomies 180 degrees apart. With this approach, if one iridotomy becomes occluded from the displacement of the lens, the other can still prevent pupillary block Reference: Ophtho question What#s the predicted percentage of decrease nerve fiber loss for each 1 mmgh decrease in IOP?",
   "year": "2021",
   "subspecialty": "Glaucoma",
-  "pdfPage": 196
+  "pdfPage": 196,
+  "review": {
+   "answer": "B",
+   "agrees": false,
+   "confidence": "low",
+   "explanation": "In an eye treated for uveal melanoma, medically uncontrolled pressure is usually neovascular, arising from radiation retinopathy and anterior segment ischaemia, and the first moves are panretinal photocoagulation and anti-VEGF alongside maximal medical therapy. When surgery is needed, most surgeons avoid a full-thickness filtration procedure in an eye that has harboured an intraocular malignancy because of the risk of transscleral tumour seeding, and cyclophotocoagulation is often preferred. Of the two options recorded, a glaucoma drainage implant is generally favoured over trabeculectomy in neovascular glaucoma, where trabeculectomy has a high failure rate.",
+   "concern": "This item is corrupted. The option list is truncated and the attached explanation belongs to entirely different questions about ghost cell and haemolytic glaucoma, so the recorded answer cannot be relied on. Treat my pick as a best reading only, and note that the real teaching point, avoiding fistulising surgery in an eye with intraocular malignancy in favour of cyclodestruction, may not even be represented among the offered options."
+  }
  },
  {
   "id": 13,
@@ -201,7 +280,13 @@
   "explanation": "You want to turn the prisms toward the null point (right gaze)",
   "year": "2021",
   "subspecialty": "Pediatrics",
-  "pdfPage": 214
+  "pdfPage": 214,
+  "review": {
+   "answer": "C",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "A large left face turn means the eyes are held in right gaze in order to fixate, so the null zone lies in dextroversion. To keep the eyes in that null zone while the head is straight, the image of a straight-ahead target must be displaced to the right, and because a prism displaces the image toward its apex, both prisms need apex to the right and base to the left. Base left is base-in for the right eye and base-out for the left eye. The shorthand worth memorising is that the bases point in the direction of the face turn and the apices toward the null point, which is the same logic that underlies Kestenbaum surgery."
+  }
  },
  {
   "id": 14,
@@ -234,7 +319,14 @@
    }
   ],
   "figureFinding": "Usher syndrome — sensorineural hearing loss plus vestibular dysfunction with retinitis pigmentosa: bone-spicule pigmentation, attenuated arterioles, waxy pale disc, and constricted fields. Confirmation is by genetic testing.",
-  "pageScanUrl": "/images/promotion-pages/page_214.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_214.jpg",
+  "review": {
+   "answer": "C",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Usher syndrome is retinitis pigmentosa combined with congenital sensorineural hearing loss, and type 1, the form with profound deafness plus vestibular areflexia as described here, is confirmed by identifying biallelic mutations, most often in MYO7A. At three years of age the fundus may still look near normal, so molecular confirmation is the diagnostically decisive step and it also guides prognosis and family counselling. Double Maddox rod measures cyclotorsion and has no role, and CT of the brain does not address an inherited retinal and cochlear disease; the exotropia here is sensory.",
+   "concern": "A full-field ERG is the traditional confirmatory test in a young child, since it is extinguished long before fundus changes appear, and would arguably be the better next step. It is not among the options, so genetic testing is the best available answer."
+  }
  },
  {
   "id": 15,
@@ -272,7 +364,13 @@
    }
   ],
   "figureFinding": "Retinoblastoma — leukocoria / white fundus tumor. Question is purely genetic counselling (unilateral sporadic RB, unaffected parents: sibling risk about 1-2%).",
-  "pageScanUrl": "/images/promotion-pages/page_214.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_214.jpg",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "With unilateral retinoblastoma, unaffected parents and no family history, the disease is sporadic and somatic in roughly 85 percent of cases, so the risk to a sibling is low, on the order of 1 to 2 percent. The residual risk exists because a minority of unilateral cases still carry a germline mutation, and because a rare unaffected parent carries a low-penetrance or mosaic allele. Figures approaching 50 percent apply to the offspring of a patient with heritable disease, which is usually bilateral or multifocal. Germline testing of the proband is what converts these population estimates into a precise risk for the family."
+  }
  },
  {
   "id": 16,
@@ -287,7 +385,13 @@
   "explanation": "Since the defect is <33%, the answer is primary closure. - Direct closure is used for defects less than 33% of the lid width. - For defects that involve 33-50% of the lid width, the eyelid can be freed with a lateral canthotomy and then a semicircular flap (a.k.a. Tenzel flap) is rotated into the defect. - The Cutler-Beard procedure is used when the upper eyelid defect is greater than 50% of the eyelid width. - Greater than 50% defects of the lower eyelid are repaired with a modified Hughes procedure.",
   "year": "2021",
   "subspecialty": "Oculoplastics",
-  "pdfPage": 232
+  "pdfPage": 232,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Full-thickness eyelid defects of up to about a third of the lid, or somewhat more in an elderly patient with lax tissue, are closed directly with layered repair and accurate realignment of the lid margin. Between roughly a third and a half, a lateral canthotomy with cantholysis and a Tenzel semicircular rotation flap is used, and beyond half a lower lid defect requires a lid-sharing procedure such as the modified Hughes tarsoconjunctival flap, with the Cutler-Beard being its upper lid counterpart. Choosing a flap for a small defect adds unnecessary morbidity, and lid-sharing procedures in a child risk occlusion amblyopia."
+  }
  },
  {
   "id": 17,
@@ -304,7 +408,13 @@
   "pdfPage": 233,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p233_a6ef04fbde.png",
-  "pageScanUrl": "/images/promotion-pages/page_233.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_233.jpg",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "A black necrotic eschar on the nose, palate or turbinates with orbital involvement is invasive fungal rhino-orbital disease, classically mucormycosis, which is angioinvasive and infarcts tissue, producing exactly that eschar. It occurs in diabetic ketoacidosis, haematological malignancy, transplant patients and other immunocompromised states, and it is a combined medical and surgical emergency requiring urgent biopsy, systemic amphotericin B, aggressive debridement and correction of the underlying acidosis. Staphylococcus aureus causes ordinary bacterial orbital cellulitis, which is suppurative rather than necrotic and does not form an eschar."
+  }
  },
  {
   "id": 18,
@@ -318,7 +428,13 @@
   "explanation": "the presumed mechanism is activation of orbital fibroblasts by Graves' disease-related autoantibodies, which lead to the release of T cell chemoattractants, initiating an interaction which ultimately results in fibroblasts expressing extracellular matrix molecules, biologic materials proliferating and differentiating into myofibroblasts or lipofibroblasts and deposition of glycosaminoglycans which bind water that lead to swelling, congestion in addition to connective tissue remodeling. This results in extraocular muscle enlargement and orbital fat expansion. Reference: https://eyewiki.org/Thyroid_Eye_Disease Orbital vs preseptal what's the difference:",
   "year": "2021",
   "subspecialty": "Oculoplastics",
-  "pdfPage": 234
+  "pdfPage": 234,
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Thyroid-associated orbitopathy is driven by autoantibodies directed at the TSH receptor, acting in concert with the IGF-1 receptor, on orbital fibroblasts. Their activation causes secretion of hydrophilic glycosaminoglycans, which draw in water and expand the muscles and orbital fat, and differentiation of a fibroblast subset into adipocytes and myofibroblasts. T cells are recruited and participate, so cell-mediated immunity is not absent, but the initiating and defining event is the autoantigen on the fibroblast, which is why blocking the IGF-1 receptor with teprotumumab works."
+  }
  },
  {
   "id": 19,
@@ -335,7 +451,13 @@
   "year": "2021",
   "subspecialty": "Neuro-Ophthalmology",
   "pdfPage": 259,
-  "imageUrl": "/images/promotion/p260_cfe8f56c66.png"
+  "imageUrl": "/images/promotion/p260_cfe8f56c66.png",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "A highly congruous homonymous hemianopia that spares the macula localises to the occipital cortex. Macular sparing is attributed to the very large cortical representation of the macula at the occipital pole together with its dual blood supply from the middle cerebral as well as the posterior cerebral artery, so a posterior cerebral artery occlusion leaves the pole perfused. Lateral geniculate lesions produce incongruous or wedge-shaped sectoranopias, temporal lesions produce incongruous superior pie-in-the-sky defects, and the frontal lobe produces a gaze deviation rather than a hemianopic field loss."
+  }
  },
  {
   "id": 20,
@@ -349,7 +471,14 @@
   "explanation": "This is most likely a case of bilateral INO cause by a lesion in the right and left MLF causing a combination of INO and a complete horizontal gaze palsy",
   "year": "2021",
   "subspecialty": "Neuro-Ophthalmology",
-  "pdfPage": 260
+  "pdfPage": 260,
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "In a young patient with multiple sclerosis, an internuclear ophthalmoplegia that progresses to a large primary-position exotropia with severe bilateral adduction failure is wall-eyed bilateral internuclear ophthalmoplegia, from demyelination of both medial longitudinal fasciculi in the midbrain. The exotropia is the discriminating feature and follows from loss of the medial rectus tone that normally holds the eyes aligned. Bilateral PPRF lesions would give a conjugate horizontal gaze palsy with the eyes usually straight, and would not explain the internuclear ophthalmoplegia the patient started with.",
+   "concern": "The recall states that all horizontal movements were impaired, which strictly would require additional PPRF or abducens nucleus involvement, since abduction is preserved in a pure INO. Taking the exotropia and the preceding INO as the key findings, bilateral MLF remains the best answer."
+  }
  },
  {
   "id": 21,
@@ -381,7 +510,14 @@
    }
   ],
   "figureFinding": "Posner-Schlossman syndrome (glaucomatocyclitic crisis): unilateral markedly high IOP with corneal (microcystic) edema, few fine non-pigmented keratic precipitates on the endothelium and open angle with KP on gonioscopy, in a patient with a prior identical episode.",
-  "pageScanUrl": "/images/promotion-pages/page_260.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_260.jpg",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "low",
+   "explanation": "Stellate keratic precipitates with a markedly raised pressure, minimal inflammation and a history of identical self-limited episodes is Posner-Schlossman syndrome, a glaucomatocyclitic crisis in which a trabeculitis, probably cytomegalovirus-driven in many cases, obstructs outflow. Because the pressure rise is a consequence of that inflammation, a short course of topical corticosteroid is the treatment that addresses the cause. Aqueous suppressants are given alongside it, that is a topical beta-blocker, alpha-2 agonist or carbonic anhydrase inhibitor, while prostaglandin analogues and miotics are avoided in this setting.",
+   "concern": "This one is genuinely debatable. With corneal oedema from a very high pressure, lowering the pressure is at least as urgent as treating the inflammation, and many clinicians would call a topical aqueous suppressant the more important first move. The beta-blocker option is written without specifying route, and a systemic beta-blocker would not be an appropriate emergency-room choice, which is probably why the source favoured the steroid. In practice both are started together."
+  }
  },
  {
   "id": 22,
@@ -423,7 +559,13 @@
    }
   ],
   "figureFinding": "Occipital (striate cortex) lesion: congruous homonymous hemianopia on visual fields, often with macular sparing, accompanied by unformed/elementary hallucinations (flashes, zig-zags, patterns) confined to the hemianopic field.",
-  "pageScanUrl": "/images/promotion-pages/page_261.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_261.jpg",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Unformed or simple hallucinations, meaning flashes, sparkles, zigzags and coloured shapes, arise from the primary visual cortex in the occipital lobe, and a congruous homonymous defect also localises posteriorly, so both halves of the stem point the same way. Formed, complex hallucinations of faces, figures and scenes are characteristic of temporal lobe pathology, where the associated field defects are markedly incongruous. Parietal lesions give inferior-predominant homonymous defects with asymmetric optokinetic responses rather than simple photopsias."
+  }
  },
  {
   "id": 23,
@@ -443,7 +585,13 @@
   "imageUrls": [
    "/images/promotion/p289_651dfae030.png",
    "/images/promotion/p290_76aa66fc1b.png"
-  ]
+  ],
+  "review": {
+   "answer": "C",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Conjunctival lymphoma is usually an extranodal marginal zone MALT lymphoma, and for disease confined to the conjunctiva external beam radiotherapy is the mainstay and is frequently curative, with low-dose and increasingly ultra-low-dose protocols used to limit cataract and dry eye. Incisional biopsy for histology and immunophenotyping, together with systemic staging, must come first, since reactive lymphoid hyperplasia looks identical clinically. Complete excision is realistic only for a small well-circumscribed lesion, and systemic chemotherapy or rituximab is reserved for systemic disease."
+  }
  },
  {
   "id": 24,
@@ -459,6 +607,13 @@
   "explanation": "Perioperative posterior ischemic optic neuropathy (PION) is a rare but devastating condition. Visual impairment is commonly bilateral, profound, and irreversible. The most frequently associated triggering events are spine surgeries, other orthopedic surgeries, cardiac bypass surgeries, and radical neck dissection. Reference: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7585472/ Indirect ophthalmoscopy with reflection what to do",
   "year": "2021",
   "subspecialty": "Miscellaneous",
-  "pdfPage": 295
+  "pdfPage": 295,
+  "review": {
+   "answer": "C",
+   "agrees": true,
+   "confidence": "low",
+   "explanation": "Perioperative ischaemic optic neuropathy is the recognised cause of visual loss after cardiopulmonary bypass, related to prolonged hypotension, anaemia, haemodilution, raised venous pressure and long operative times, and it is often bilateral, severe and irreversible. It is distinguished from spontaneous non-arteritic anterior ischaemic optic neuropathy of the crowded disc by its perioperative setting, and the posterior variant is defined by a normal disc at onset with pallor appearing weeks later. A midbrain lesion would not produce an isolated optic neuropathy.",
+   "concern": "The option list is corrupted, with no option A and with overlapping labels, so the item cannot be answered cleanly. The distinction worth learning is that the anterior form predominates after cardiac surgery whereas the posterior form predominates after prolonged prone spine surgery; if the original options separated anterior from posterior, that is almost certainly the point of the question."
+  }
  }
 ]

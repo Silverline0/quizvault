@@ -19,7 +19,14 @@
   "imageUrls": [
    "/images/promotion/p123_97f298c655.png"
   ],
-  "pageScanUrl": "/images/promotion-pages/page_123.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_123.jpg",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Macrostriae are full-thickness folds caused by slippage of the LASIK flap, and they are almost always apparent on the first postoperative day, with virtually all cases presenting inside the first week. Early recognition is essential because lifting, refloating and stretching the flap, sometimes with hypotonic saline or sutures, becomes far less effective once the folds have set, leaving visually significant irregular astigmatism. The later time points do not fit the natural history at all.",
+   "concern": "The option set is expressed in weeks whereas macrostriae are typically a day-one finding, so 1 to 2 weeks is chosen as the only option consistent with the early time course."
+  }
  },
  {
   "id": 2,
@@ -63,7 +70,13 @@
    }
   ],
   "figureFinding": "Conjunctival lymphoma — a smooth, mobile, salmon-pink patch of bulbar conjunctiva or fornix. Localized disease with no systemic involvement is treated with external beam radiotherapy.",
-  "pageScanUrl": "/images/promotion-pages/page_123.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_123.jpg",
+  "review": {
+   "answer": "D",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "A salmon-pink conjunctival infiltrate is lymphoid tissue, and a large lesion confined to the conjunctiva with no systemic disease is treated with external beam radiotherapy once incisional biopsy has established histology and immunophenotype and systemic staging has been completed. Observation is inappropriate for a confirmed lymphoma, complete excision is unrealistic for a large diffuse lesion and would leave positive margins, and systemic chemotherapy is reserved for systemic disease. Reactive lymphoid hyperplasia is clinically indistinguishable, which is precisely why the biopsy comes first."
+  }
  },
  {
   "id": 3,
@@ -81,7 +94,13 @@
   "pdfPage": 124,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p124_c86db6deca.jpg",
-  "pageScanUrl": "/images/promotion-pages/page_124.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_124.jpg",
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "A large central infiltrate in a markedly inflamed eye is presumed infectious keratitis threatening the visual axis, and that is the classic indication to scrape for smear and culture before starting fortified therapy. Marginal keratitis is a sterile staphylococcal hypersensitivity infiltrate sitting near the limbus with a clear zone of separation from it, and scraping it yields nothing; a scar is inactive tissue with nothing to grow. The usual thresholds for culturing are a central location, size of about 2 mm or more, deep stromal involvement, an atypical appearance, or failure of empirical treatment."
+  }
  },
  {
   "id": 4,
@@ -113,7 +132,14 @@
    }
   ],
   "figureFinding": "Ocular cicatricial pemphigoid (mucous membrane pemphigoid): cicatrizing conjunctivitis with subepithelial fibrosis, fornix foreshortening, symblepharon and ultimately keratinization/ankyloblepharon. Mechanism is a type II hypersensitivity — autoantibody against the beta-4 subunit of alpha-6/beta-4 integrin in the basement membrane, with complement activation.",
-  "pageScanUrl": "/images/promotion-pages/page_124.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_124.jpg",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "low",
+   "explanation": "Ocular cicatricial pemphigoid is an autoantibody-mediated type II hypersensitivity reaction, in which autoantibodies, typically against the beta-4 subunit of integrin in the epithelial basement membrane zone, bind a fixed cell-surface or matrix antigen and trigger complement activation and inflammatory cell recruitment. The result is subepithelial fibrosis with fornix foreshortening, symblepharon, entropion with trichiasis and eventual keratinisation, and the diagnosis is confirmed by conjunctival biopsy with direct immunofluorescence showing linear deposition at the basement membrane zone. Type I is immediate IgE-mediated allergy, type III is immune complex deposition, and type IV is the delayed cell-mediated response of contact dermatitis and phlyctenulosis.",
+   "concern": "The record is corrupted: the stem is missing and the second option is a fragment of the following question rather than a genuine answer choice. The medicine, that ocular cicatricial pemphigoid is a type II hypersensitivity, is solid regardless."
+  }
  },
  {
   "id": 5,
@@ -150,7 +176,13 @@
    }
   ],
   "figureFinding": "Total limbal stem cell deficiency after a chemical burn: conjunctivalization and superficial vascularization of the cornea, late conjunctival scarring/fibrosis with keratinization, and corneal haze — treated with limbal epithelial (stem cell) transplantation.",
-  "pageScanUrl": "/images/promotion-pages/page_124.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_124.jpg",
+  "review": {
+   "answer": "C",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Conjunctival scarring with keratinisation and corneal haze eight months after a chemical burn is limbal stem cell deficiency, in which conjunctival epithelium with its vessels and goblet cells replaces the corneal epithelium. The surface must be rehabilitated with limbal stem cell transplantation, a limbal autograft from the healthy fellow eye in unilateral injury or cultivated limbal epithelial transplantation, before any keratoplasty is contemplated. Penetrating or lamellar keratoplasty performed on a stem-cell-deficient surface will not epithelialise and will fail. A keratoprosthesis is reserved for end-stage bilateral disease in which stem cell grafting has failed or is not feasible."
+  }
  },
  {
   "id": 6,
@@ -166,7 +198,13 @@
   "explanation": "No explanation was provided in the source document.",
   "year": "2022",
   "subspecialty": "Anterior Segment",
-  "pdfPage": 125
+  "pdfPage": 125,
+  "review": {
+   "answer": "D",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "When scrapings are negative and a post-traumatic ulcer is not resolving, the organisms being missed are typically deep or sequestered, fungi and Acanthamoeba in particular, and the next step is to obtain deeper tissue by corneal biopsy for histology and culture on appropriate media. Confocal microscopy, where available, is a sensible non-invasive adjunct beforehand. A trial of topical or systemic corticosteroid in an undiagnosed infectious keratitis risks fulminant progression and perforation, and viral culture is a narrow test for an organism that a history of trauma with an ulcer does not particularly suggest."
+  }
  },
  {
   "id": 7,
@@ -182,7 +220,13 @@
   "explanation": "No explanation was provided in the source document.",
   "year": "2022",
   "subspecialty": "Anterior Segment",
-  "pdfPage": 125
+  "pdfPage": 125,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "A mature or hypermature cataract with a heavy anterior chamber reaction, raised pressure and an intact capsule is phacolytic glaucoma, in which high-molecular-weight lens proteins leak through a microscopically intact capsule and are engulfed by macrophages that then obstruct the trabecular meshwork. The absence of keratic precipitates is the deliberate clue separating it from phacoantigenic uveitis, which follows capsular rupture and is granulomatous with keratic precipitates. Phacomorphic glaucoma is an angle closure from an intumescent lens and would show a shallow chamber, and lens particle glaucoma requires free cortical material in the anterior chamber after capsular disruption from surgery or trauma. Definitive treatment is cataract extraction once pressure and inflammation are controlled."
+  }
  },
  {
   "id": 8,
@@ -196,7 +240,13 @@
   "explanation": "If the diagnosis is in question, a spot of argon laser photocoagulation is applied to the area overlying the iris. - Eyewiki",
   "year": "2022",
   "subspecialty": "Anterior Segment",
-  "pdfPage": 125
+  "pdfPage": 125,
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Epithelial downgrowth appears as a translucent membrane with a scalloped advancing edge across the endothelium, angle and iris, and the classic confirmatory test is to apply low-energy argon laser burns to the part of the sheet lying on the iris surface, where the epithelium blanches white while normal iris does not. This both confirms the diagnosis and maps the extent before any surgical intervention. A dye test at the wound, that is a Seidel test, detects the fistula or wound leak that often accompanies downgrowth but does not identify the membrane itself; anterior segment OCT and specular or confocal microscopy are useful adjuncts."
+  }
  },
  {
   "id": 9,
@@ -233,7 +283,13 @@
    }
   ],
   "figureFinding": "Intraoperative (expulsive) suprachoroidal haemorrhage during cataract surgery: rock-hard eye, shallowing anterior chamber, posterior capsule bulging forward, loss of the red reflex and the lens/iris/vitreous prolapsing out of the wound. Immediate management is to close all wounds and pressurize the eye.",
-  "pageScanUrl": "/images/promotion-pages/page_125.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_125.jpg",
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "A suddenly firm eye with loss of the red reflex, a shallowing chamber and forward displacement of the lens and iris during surgery is an expulsive suprachoroidal haemorrhage, and the immediate action is to close the incision and restore a closed, pressurised globe so that the rising intraocular pressure tamponades the bleeding, using digital pressure and rapid sutures. Continuing to remove the lens or injecting fluid risks extrusion of intraocular contents. Posterior sclerotomy was historically advocated but is no longer the first move and can worsen the bleed; drainage, if ever needed, is done later, usually at 7 to 14 days once the clot has liquefied."
+  }
  },
  {
   "id": 10,
@@ -255,7 +311,13 @@
   "imageUrls": [
    "/images/promotion/p126_343b853093.jpg"
   ],
-  "pageScanUrl": "/images/promotion-pages/page_126.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_126.jpg",
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "An anterior chamber intraocular lens sits with its haptics at roughly 3 and 9 o'clock and impedes aqueous flow enough that a peripheral iridectomy is required to prevent pupillary block and iris bombe, and it is made at the time of surgery rather than deferred, because the pressure can spike on the first postoperative day. A superior position at 12 o'clock keeps it clear of the haptics and, being covered by the upper lid, avoids the glare and dysphotopsia that an inferior iridectomy produces. Relying on a postoperative laser iridotomy leaves the patient unprotected in the interim and may be difficult through a hazy, inflamed eye."
+  }
  },
  {
   "id": 11,
@@ -286,7 +348,13 @@
    }
   ],
   "figureFinding": "Traumatic hyphema — layered blood in the anterior chamber after blunt trauma, and a rebleed (fresh bright red blood over an older dark clot). The exam point is that rebleeding happens in the first 3-5 days, NOT after the third week.",
-  "pageScanUrl": "/images/promotion-pages/page_127.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_127.jpg",
+  "review": {
+   "answer": "D",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Rebleeding after traumatic hyphema characteristically occurs in the first few days, most often between days 2 and 5 and almost always within the first week, as the clot retracts and lyses, and it is the single event that most worsens prognosis. A rebleed in the third week would be distinctly uncommon, making that the false statement the question is asking you to identify. The other three are true: most hyphemas follow blunt trauma, most are managed conservatively with rest, head elevation, a shield, cycloplegia and topical steroid, and larger hyphemas raise the pressure and can cause glaucoma. Watch particularly for corneal blood staining and screen for sickle cell haemoglobinopathy, in which even moderate pressure elevation is dangerous."
+  }
  },
  {
   "id": 12,
@@ -319,7 +387,14 @@
    }
   ],
   "figureFinding": "Diabetic macular oedema (leaking microaneurysms, circinate exudates, cystoid thickening on OCT) coexisting with a posterior subcapsular cataract — DME is treated first, then phaco once the oedema has resolved.",
-  "pageScanUrl": "/images/promotion-pages/page_153.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_153.jpg",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Cataract surgery in a diabetic eye with active macular oedema reliably worsens the oedema, so the macula is treated first and the lens is removed once the oedema has settled, with roughly three months allowed to judge the response and confirm stability. One month is generally too short to establish resolution, and operating first with macular treatment a week later exposes an oedematous macula to the surgical inflammatory insult. The exception that reverses the priority is a cataract so dense that the macula cannot be assessed or treated, in which case surgery goes first, often with anti-VEGF given at the time of operation.",
+   "concern": "Focal laser has largely been replaced by anti-VEGF for centre-involving diabetic macular oedema; the sequencing principle is what is being tested."
+  }
  },
  {
   "id": 13,
@@ -335,7 +410,13 @@
   "explanation": "It is preferable that the patient receive an IOL when possible; the lens implant serves as a barrier to movement of the vitreous base and associated traction on the retina. - AAO",
   "year": "2022",
   "subspecialty": "Retina",
-  "pdfPage": 154
+  "pdfPage": 154,
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Even when no refractive power is required, implanting the lens is worthwhile because the implant and an intact capsule act as a barrier to forward vitreous movement and to the traction on the vitreous base that produces retinal breaks, and aphakia carries a higher detachment risk than pseudophakia. That matters most in exactly this patient, a high myope whose baseline detachment risk is already elevated. Cystoid macular oedema is driven by inflammation and vitreous incarceration rather than by the presence of an implant, and corneal decompensation relates to endothelial trauma and to anterior chamber lenses, not to a plano posterior chamber implant."
+  }
  },
  {
   "id": 14,
@@ -372,7 +453,13 @@
    }
   ],
   "figureFinding": "Retinoblastoma — leukocoria / white fundus tumour. Same genetic counselling point as promotion-2021#15: sporadic unilateral RB with unaffected parents gives siblings roughly 1-2% risk.",
-  "pageScanUrl": "/images/promotion-pages/page_154.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_154.jpg",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Unilateral retinoblastoma with unaffected parents and no family history is sporadic and somatic in roughly 85 percent of cases, so the risk to a sibling is small, on the order of 1 to 2 percent. The residual risk reflects the minority of unilateral cases that do carry a germline mutation and the rare unaffected parent with a low-penetrance or mosaic allele. Risks near 50 percent apply to the offspring of a patient with heritable disease, which is typically bilateral or multifocal, and germline testing of the proband converts these population figures into a precise risk for the family."
+  }
  },
  {
   "id": 15,
@@ -387,7 +474,14 @@
   "explanation": "Genetic Testing: Definitive diagnosis of Usher Syndrome type 1 involves identifying a homozygous proband mutation in the setting of positive symptoms and family history. The first gene to identify using single-gene sequencing is MYO7A. - Eyewiki",
   "year": "2022",
   "subspecialty": "Retina",
-  "pdfPage": 154
+  "pdfPage": 154,
+  "review": {
+   "answer": "C",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Usher syndrome is retinitis pigmentosa with congenital sensorineural hearing loss, and type 1, the form with profound deafness plus vestibular areflexia as described here, is confirmed by identifying biallelic mutations, MYO7A being the first gene to sequence. At three years the fundus may still look near normal, so molecular confirmation is the decisive diagnostic step and it also guides prognosis and family counselling. Double Maddox rod measures cyclotorsion and is irrelevant, and CT of the brain does not address an inherited retinal and cochlear disorder; the exotropia is sensory, secondary to poor vision.",
+   "concern": "A full-field ERG remains the traditional confirmatory test in a young child, being extinguished long before fundus changes appear, and would arguably be the better next step, but it is not among the options."
+  }
  },
  {
   "id": 16,
@@ -403,7 +497,14 @@
   "explanation": "No explanation was provided in the source document.",
   "year": "2022",
   "subspecialty": "Retina",
-  "pdfPage": 154
+  "pdfPage": 154,
+  "review": {
+   "answer": "D",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Current screening for hydroxychloroquine retinopathy rests on two primary tests, automated visual fields and spectral domain OCT, using the 10-2 pattern for most patients with the 24-2 or 30-2 added for patients of Asian descent, in whom the damage is often extramacular. Of the options offered, OCT is the primary objective structural test, showing parafoveal outer retinal and ellipsoid zone loss, the flying saucer appearance, before the patient is symptomatic. Full-field ERG only becomes abnormal in advanced widespread disease, and fluorescein angiography has no screening role at all.",
+   "concern": "Multifocal ERG is a legitimate and sensitive objective adjunct, endorsed for corroborating equivocal fields, so a reasonable case can be made for it; SD-OCT remains the primary structural screening test and the intended answer."
+  }
  },
  {
   "id": 17,
@@ -420,7 +521,14 @@
   "pdfPage": 155,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p155_7609efb330.png",
-  "pageScanUrl": "/images/promotion-pages/page_155.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_155.jpg",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "low",
+   "explanation": "Schwartz-Matsuo syndrome is a rhegmatogenous retinal detachment, usually with a peripheral break or dialysis and often post-traumatic, in which photoreceptor outer segments migrate through the break into the anterior chamber and obstruct the trabecular meshwork, raising the pressure. The cells seen in the anterior chamber are mistaken for uveitis, and neither corticosteroids nor pressure-lowering drops resolve the problem; the pressure normalises once the detachment is repaired. Think of it whenever raised pressure and anterior chamber cells accompany a detachment, because the treatment is retinal surgery rather than glaucoma surgery.",
+   "concern": "The record is corrupted, with the stem missing and the second option carrying a fragment of the actual question. Answered on the reading that the question asked for the diagnosis in a retinal detachment with raised pressure unresponsive to antiglaucoma therapy."
+  }
  },
  {
   "id": 18,
@@ -435,7 +543,14 @@
   "explanation": "AAO:",
   "year": "2022",
   "subspecialty": "Retina",
-  "pdfPage": 155
+  "pdfPage": 155,
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "An exudative detachment with a leopard-spot pattern on fluorescein angiography and no frank leakage points to chronic disturbance at the level of the choroid and retinal pigment epithelium, and uveal effusion syndrome is the classic entity, with serous choroidal and retinal detachment, shifting subretinal fluid, and the mottled hyper- and hypofluorescence of long-standing RPE change; it is associated with nanophthalmos, hyperopia and abnormally thickened sclera. Cancer-associated retinopathy is a paraneoplastic photoreceptor degeneration that presents with photopsias, nyctalopia, ring scotomas and an extinguished ERG, not with an exudative detachment, so the cancer history is the distractor here.",
+   "concern": "Worth flagging that bilateral diffuse uveal melanocytic proliferation, a paraneoplastic syndrome of systemic carcinoma including lung cancer, also produces exudative detachment with a leopard-spot or giraffe pattern. It would become the answer if the malignancy were the patient's own rather than a family member's, and if the third option is a garbled rendering of a diffuse uveal melanocytic process rather than simple choroidal pigmentation."
+  }
  },
  {
   "id": 19,

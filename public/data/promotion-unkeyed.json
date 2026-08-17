@@ -236,6 +236,345 @@
  {
   "id": 13,
   "source": "promotion-unkeyed",
+  "question": "The most common cranial nerve palsy associated with nasopharyngeal carcinoma is:",
+  "options": {
+   "A": "V",
+   "B": "VI",
+   "C": "VII",
+   "D": "VIII"
+  },
+  "correctAnswer": "B",
+  "explanation": "Nasopharyngeal carcinoma spreads superiorly through the foramen lacerum into the petroclival region and cavernous sinus, where the abducens nerve has the longest and most exposed intracranial course, so a sixth nerve palsy is the commonest cranial neuropathy and is often the presenting sign in a patient whose nasal symptoms have been dismissed. Trigeminal involvement is the next most frequent and produces the classic numb cheek from maxillary division compression, but it trails the sixth. Facial and vestibulocochlear deficits occur late and usually reflect extensive skull base disease or treatment effect, and the ear symptom that actually brings these patients in is a conductive loss from a middle ear effusion rather than a true eighth nerve palsy.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 469,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high",
+  "sourceHint": "Answered previously as B",
+  "pageScanUrl": "/images/promotion-pages/page_469.jpg"
+ },
+ {
+  "id": 14,
+  "source": "promotion-unkeyed",
+  "question": "The management of bleb leak includes all of the following EXCEPT:",
+  "options": {
+   "A": "Topical antibiotics.",
+   "B": "Bandage contact lens.",
+   "C": "Light patch.",
+   "D": "Holding steroids."
+  },
+  "correctAnswer": "C",
+  "explanation": "Conservative management of a bleb leak is aqueous suppression to reduce flow through the defect, a prophylactic topical antibiotic against blebitis, a large-diameter bandage contact lens or symblepharon ring to tamponade the leak, and reduction or withdrawal of topical corticosteroid so the conjunctival epithelium can heal; if those fail, autologous blood injection, cyanoacrylate glue or surgical revision follow. What is applied mechanically is a pressure patch, since a loose or light patch does nothing to appose the leaking edges, which makes that the odd one out.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 485,
+  "reviewerAnswered": true,
+  "reviewConfidence": "low",
+  "sourceHint": "?B",
+  "reviewConcern": "This is a soft item. 'Light patch' may be a transcription of 'tight patch' or 'pressure patch', in which case all four options are legitimate management steps. The compiler's hint pointed to the bandage contact lens, which is unambiguously a standard treatment, so I have diverged from it.",
+  "pageScanUrl": "/images/promotion-pages/page_485.jpg"
+ },
+ {
+  "id": 15,
+  "source": "promotion-unkeyed",
+  "question": "Purtscher-like retinopathy has been associated with multiple clinical entities, including acute pancreatitis, pancreatic adenocarcinoma, renal failure, preeclampsia/HELLP Syndrome and childbirth, connective tissue disord",
+  "options": {
+   "A": "33% of all lattice degeneration will develop RRD b.33% of all RRD has lattice degeneration",
+   "C": "Need prophylactic retinopexy if present with retinal hole",
+   "D": "Only treated if associated PVD makes break and traction over the edge"
+  },
+  "correctAnswer": "D",
+  "explanation": "Lattice degeneration is common, present in something like 8 to 10 percent of the population, and the overwhelming majority of lattice eyes never detach, so a figure of a third progressing to rhegmatogenous detachment is far too high; the roughly one in three figure belongs to the converse statement, that about a quarter to a third of detachments occur in eyes with lattice. Prophylactic retinopexy for asymptomatic lattice, with or without atrophic round holes, has not been shown to reduce detachment risk in a phakic eye without other risk factors and is generally not advised. Treatment is indicated when a posterior vitreous detachment produces a symptomatic break with persistent vitreoretinal traction on its edge, which is the situation option D describes.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 493,
+  "reviewerAnswered": true,
+  "reviewConfidence": "medium",
+  "sourceHint": "most probably D according to the table from AAO",
+  "reviewConcern": "Options A and B have been merged into a single option A, so the reader sees a false statement and a roughly true one under the same letter; the options should be split before this ships. The stem is also entirely bleed-through text about Purtscher-like retinopathy and must be replaced with the real lattice degeneration stem.",
+  "imageUrl": "/images/promotion/p494_1982dd1ae3.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_493.jpg"
+ },
+ {
+  "id": 16,
+  "source": "promotion-unkeyed",
+  "question": "Lens dislocation in homocystinuria is usually bilateral and in 60% of cases occurs in the inferior or nasal direction. AAO Q59: Regarding Retinoblastoma, all are true EXCEPT:",
+  "options": {
+   "A": "2 mutations in ch 13 should be present",
+   "B": "They are susceptible for other malignancies in the future",
+   "C": "Certain classification is to determine the survival"
+  },
+  "correctAnswer": "C",
+  "explanation": "Knudson's two-hit model requires both copies of RB1 at 13q14 to be inactivated before a retinoblastoma develops, and survivors of the heritable form carry that first hit in every cell, which is why they face a lifetime excess of second malignancies, particularly osteosarcoma, soft tissue sarcoma, melanoma and pinealoblastoma. What the ocular classifications do not predict is patient survival: Reese-Ellsworth was built to predict globe salvage after external beam radiotherapy and the International Classification of Retinoblastoma predicts eye preservation with chemoreduction. Survival is driven by extraocular extension, optic nerve invasion beyond the lamina cribrosa and metastasis, which is what the separate International Retinoblastoma Staging System addresses.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 498,
+  "reviewerAnswered": true,
+  "reviewConfidence": "medium",
+  "reviewConcern": "The stem is preceded by bleed-through text about lens dislocation in homocystinuria that should be stripped before shipping.",
+  "pageScanUrl": "/images/promotion-pages/page_498.jpg"
+ },
+ {
+  "id": 17,
+  "source": "promotion-unkeyed",
+  "question": "The primary action is extorsion; secondary actions are elevation and abduction. Kanski Q80: in lid laceration involving superior canaliculus one TRUE",
+  "options": {
+   "A": "If possible should be repaired",
+   "B": "After 72h from injury it's is not possible to repair because you cant localize the cut edges",
+   "C": "Need to be repaired only if the inferior canaliculus is involved",
+   "D": "Usually associated with fatal injuries"
+  },
+  "correctAnswer": "A",
+  "explanation": "Any canalicular laceration should be repaired if at all possible, with fine apposition of the pericanalicular tissue over a silicone stent; the upper canaliculus is not disposable, since a proportion of patients drain preferentially through it and an unrepaired upper system can leave epiphora and lid notching. Repair is ideally performed within 24 to 48 hours, but delayed repair days later remains feasible, because the cut medial edge can usually be identified by careful inspection under magnification, probing, or irrigating the opposite punctum until fluid or air appears at the cut end, so the claim that repair becomes impossible after 72 hours is far too absolute. Canalicular lacerations follow dog bites, hooks and blunt medial lid avulsion; they are not markers of fatal injury and they are certainly not repaired only when the lower canaliculus is also cut.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 504,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high",
+  "sourceHint": "most probably B - kanski",
+  "reviewConcern": "The stem is preceded by bleed-through text about inferior oblique actions. This answer diverges from the compiler's hint of B, which overstates the Kanski timing advice as an absolute cut-off.",
+  "imageUrl": "/images/promotion/p504_f2344533b5.png",
+  "pageScanUrl": "/images/promotion-pages/page_504.jpg"
+ },
+ {
+  "id": 18,
+  "source": "promotion-unkeyed",
+  "question": "regarding intraocular drug, all true except :",
+  "options": {
+   "A": "disruption of blood aqueous barrier may lead to drug inactivity",
+   "B": "can be actively transported via vitreous",
+   "C": "pigmentation may bind to the drug and prolong its presence",
+   "D": "excretion mainly trans-scleral"
+  },
+  "correctAnswer": "D",
+  "explanation": "Drug leaves the vitreous by two routes: anteriorly, diffusing into the posterior and then anterior chamber to exit with aqueous through the conventional outflow pathways, and posteriorly, across the retina and retinal pigment epithelium, a route that includes active transport of organic anions such as the penicillins. Trans-scleral movement is a minor pathway and is not the main route of elimination, which makes that the false statement. The other three hold up: melanin in the uvea and pigment epithelium binds many drugs and prolongs their intraocular residence, active outward transport across the retina is real, and breakdown of the blood-aqueous barrier floods the eye with protein that binds drug and reduces the free, pharmacologically active fraction.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 512,
+  "reviewerAnswered": true,
+  "reviewConfidence": "medium",
+  "sourceHint": "most probably A",
+  "reviewConcern": "This diverges from the compiler's hint of A. Option A's phrase 'drug inactivity' is loosely worded, so the item remains arguable.",
+  "imageUrl": "/images/promotion/p512_fcb929ec0d.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_512.jpg"
+ },
+ {
+  "id": 19,
+  "source": "promotion-unkeyed",
+  "question": "In Case of open globe injury, regarding the corneal epithelial healing all of the following are true except :-",
+  "options": {
+   "A": "Miosis happen at the edge of the wound site?",
+   "B": "epinephrine decrease epithelial healing",
+   "C": "Small ultraviolet light increase epithelium mitosis",
+   "D": "Epithelial mitosis increased by fibroncine"
+  },
+  "correctAnswer": "A",
+  "explanation": "Corneal epithelial healing runs through a latent phase, a migration phase and only then a proliferative phase: cells at the leading edge flatten, dissolve their hemidesmosomes and slide across the defect, and mitosis at that leading edge is actually suppressed while migration is under way, with proliferation occurring behind the front and at the limbal stem cell niche. That makes the claim about mitosis at the wound edge the false statement. Fibronectin deposited on the wound bed is a well-established promoter of epithelial adhesion, spreading and healing, low-dose ultraviolet exposure has long been described as stimulating epithelial mitosis while larger doses inhibit it, and adrenergic agents that raise intracellular cyclic AMP, epinephrine among them, retard epithelial migration and division.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 515,
+  "reviewerAnswered": true,
+  "reviewConfidence": "medium",
+  "reviewConcern": "Option A is transcribed as 'Miosis' with a trailing question mark; if the original word was not 'mitosis' the meaning of the option changes.",
+  "pageScanUrl": "/images/promotion-pages/page_515.jpg"
+ },
+ {
+  "id": 20,
+  "source": "promotion-unkeyed",
+  "question": "Regarding the ERG which of the following is responsible of oscillatory movement?",
+  "options": {
+   "A": "RPE",
+   "B": "amacrine cells",
+   "C": "Horizontal cells",
+   "D": "Ganglion cell"
+  },
+  "correctAnswer": "B",
+  "explanation": "Oscillatory potentials are the small high-frequency wavelets riding on the ascending limb of the b-wave, and they are generated in the inner plexiform layer, principally by amacrine cell feedback circuitry. They are among the earliest electroretinographic abnormalities in diabetic retinopathy and in central retinal vein occlusion, both inner retinal ischaemic conditions, which is the clinical reason to know them. The retinal pigment epithelium generates the c-wave and the light rise of the electro-oculogram, horizontal cells contribute to the slow PIII and to shaping the b-wave rather than to the oscillations, and ganglion cells are essentially silent on the full-field ERG, appearing instead in the pattern ERG and the photopic negative response.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 516,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high",
+  "imageUrl": "/images/promotion/p516_f082ca745a.png",
+  "pageScanUrl": "/images/promotion-pages/page_516.jpg"
+ },
+ {
+  "id": 21,
+  "source": "promotion-unkeyed",
+  "question": "While you refracting the patient you find him plano at 67 cm. what is the refraction of the patient?",
+  "options": {
+   "A": "Plano",
+   "B": "1.25",
+   "C": "+2.00",
+   "D": "1.50"
+  },
+  "correctAnswer": "D",
+  "explanation": "Retinoscopy measures the eye's refraction relative to the examiner's position, so the dioptric value of the working distance must be subtracted from the gross finding. A working distance of 67 cm corresponds to 1.50 D; neutralising with no lens in the trial frame means the gross result is plano and the net refraction is minus 1.50 D. Answering plano ignores the working distance correction altogether, and a plus answer applies that correction in the wrong direction.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 516,
+  "reviewerAnswered": true,
+  "reviewConfidence": "medium",
+  "reviewConcern": "The options are written without signs; the intended answer is minus 1.50 D.",
+  "imageUrl": "/images/promotion/p517_07f6d8c181.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_516.jpg"
+ },
+ {
+  "id": 22,
+  "source": "promotion-unkeyed",
+  "question": "which one of these is true regarding inflammation of meibomian gland :",
+  "options": {
+   "A": "external hordeolum",
+   "B": "chalazion"
+  },
+  "correctAnswer": "B",
+  "explanation": "The meibomian glands are modified sebaceous glands embedded in the tarsal plate, so obstruction of one and the sterile lipogranulomatous inflammation that follows is a chalazion, a firm, painless, deeply seated nodule best appreciated on lid eversion. An external hordeolum, the common stye, is an acute staphylococcal infection of the glands of Zeis or Moll at the lash line, superficial and pointing anteriorly through the skin. The meibomian counterpart of a stye is the internal hordeolum, an acute infection of the meibomian gland pointing through the tarsal conjunctiva, which is what distinguishes it from the chronic, non-infectious chalazion.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 517,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high",
+  "imageUrl": "/images/promotion/p517_db6d0b486b.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_517.jpg"
+ },
+ {
+  "id": 23,
+  "source": "promotion-unkeyed",
+  "question": "Which of the following statements is not correct about vortex veins:",
+  "options": {
+   "A": "There are usually about 4-7 in each eye.",
+   "B": "They drain the venous system of the rerna.",
+   "C": "They drain the venous system of the choroid and anterior uvea.",
+   "D": "They are visible in posterior segment examinaron"
+  },
+  "correctAnswer": "B",
+  "explanation": "The vortex veins drain the uveal venous circulation, meaning choroid, ciliary body and iris, and they exit through oblique scleral canals a few millimetres behind the equator, where their ampullae are readily seen on indirect ophthalmoscopy of the mid-periphery. The retina drains through the central retinal vein, which leaves the eye within the optic nerve, so the statement that vortex veins drain the retina is the incorrect one. There are typically four to seven, roughly one or two per quadrant, and their number and position matter surgically because scleral buckling or drainage of subretinal fluid close to an ampulla risks choroidal haemorrhage or effusion.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 518,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_518.jpg"
+ },
+ {
+  "id": 24,
+  "source": "promotion-unkeyed",
+  "question": "chemical burn( one is true):",
+  "options": {
+   "A": "chemical material with ph more than 7 mean acidic",
+   "B": "alkaline destrucron less than acids",
+   "C": "the destrucron depend on PH rather than concentraron",
+   "D": "bleach is a common cause of alkaline burn"
+  },
+  "correctAnswer": "D",
+  "explanation": "Household bleach, sodium hypochlorite, has a pH around 11 to 12 and is one of the commoner domestic alkalis to reach the eye, alongside ammonia in cleaning products, lye in drain cleaner and lime in cement and plaster. The other options invert established facts: a pH above 7 is alkaline rather than acidic, and alkalis are more destructive than acids because they saponify cell membrane lipids and penetrate rapidly into stroma and anterior chamber, whereas acids coagulate surface protein and to some extent barricade themselves out. Severity depends on concentration, volume and contact time as well as pH, so setting pH against concentration is a false dichotomy.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 519,
+  "reviewerAnswered": true,
+  "reviewConfidence": "low",
+  "reviewConcern": "Option C is a live alternative if the examiners intended the teaching that pH predicts severity better than the identity of the agent, and some texts describe bleach as causing only mild ocular injury.",
+  "pageScanUrl": "/images/promotion-pages/page_519.jpg"
+ },
+ {
+  "id": 25,
+  "source": "promotion-unkeyed",
+  "question": "stromal collagen which is true:",
+  "options": {
+   "A": "collagen types1,5,6",
+   "B": "collagen types 3 and 2",
+   "C": "collagen types 5, 8",
+   "D": "collagen types 4,3 and 1"
+  },
+  "correctAnswer": "A",
+  "explanation": "The corneal stroma is built predominantly of type I collagen fibrils, with type V co-assembled into those fibrils to regulate their uniformly small diameter and type VI forming the filamentous network of the interfibrillar matrix; that uniform fibril diameter and regular lattice spacing, held by the proteoglycans, is what keeps the stroma transparent. Type IV is the basement membrane collagen of the epithelial and endothelial basal laminae, type VIII is the major collagen of Descemet membrane, and types II and III are cartilage and reticular collagens with no meaningful role in the normal adult stroma, which rules out the other three combinations.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 520,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_520.jpg"
+ },
+ {
+  "id": 26,
+  "source": "promotion-unkeyed",
+  "question": "about lens all true except:",
+  "options": {
+   "A": "lens transparency due to crystallin proren which is insoluble",
+   "B": "Ant. Y suture upright posiron",
+   "C": "lens fibers from lens epithelium",
+   "D": "lens epithilium is simple Cuboidal"
+  },
+  "correctAnswer": "A",
+  "explanation": "Lens transparency depends on the crystallins being water-soluble and packed at very high concentration in short-range order, so that scattered light cancels by destructive interference; when they aggregate into high-molecular-weight water-insoluble complexes, light scatters and cataract results, which means calling the crystallins insoluble reverses the physiology. The other statements hold: the fetal nucleus carries an upright Y suture anteriorly and an inverted Y posteriorly, secondary lens fibres are generated throughout life from the epithelial cells at the equatorial bow, and the lens epithelium is a single cuboidal layer confined to the anterior surface beneath the capsule.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 521,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high",
+  "imageUrl": "/images/promotion/p521_2c169c15e6.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_521.jpg"
+ },
+ {
+  "id": 27,
+  "source": "promotion-unkeyed",
+  "question": "When to do screening of DM type 1:",
+  "options": {
+   "A": "At the time of diagnosis",
+   "B": "1 year",
+   "C": "5 years after diagnosis",
+   "D": "3 years after diagnosis"
+  },
+  "correctAnswer": "C",
+  "explanation": "Type 1 diabetes has a datable onset and clinically significant retinopathy essentially does not appear within the first five years, so the first dilated fundus examination is recommended five years after diagnosis, with annual review thereafter. Type 2 diabetes is the opposite case: the onset date is unknown and a substantial minority already have retinopathy when the diagnosis is made, so screening begins immediately. Examining a newly diagnosed type 1 patient yields nothing, and the paediatric caveat is worth remembering, since screening is generally deferred until the child is around ten years old or has entered puberty, whichever comes first.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 522,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_522.jpg"
+ },
+ {
+  "id": 28,
+  "source": "promotion-unkeyed",
+  "question": "Brown's syndrome which is false:",
+  "options": {
+   "A": "mainly adduction defect",
+   "B": "posistive forced duction test",
+   "C": "short SO tendon",
+   "D": "SO swelling by truma"
+  },
+  "correctAnswer": "A",
+  "explanation": "Brown syndrome is a restriction of elevation in adduction caused by a tight, short or non-sliding superior oblique tendon-trochlea complex; adduction itself is full, which makes 'mainly adduction defect' the false statement. The forced duction test is positive, demonstrating mechanical resistance to elevating the adducted eye, and that finding is what separates Brown syndrome from inferior oblique palsy, in which forced ductions are free. Acquired Brown syndrome from trauma, trochleitis or an inflammatory arthropathy reflects swelling of the tendon or its sheath at the trochlea, may be intermittent, and is sometimes accompanied by a palpable or audible click.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 525,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_525.jpg"
+ },
+ {
+  "id": 29,
+  "source": "promotion-unkeyed",
+  "question": "about Yoke muscles which is false combination:",
+  "options": {
+   "A": "Rt SO , Lf IO",
+   "B": "Rt SR , Lf IO",
+   "C": "Rt IR , Lf SO",
+   "D": "Rt LR , Lf MR"
+  },
+  "correctAnswer": "A",
+  "explanation": "Yoke muscles are the pair that carry the two eyes together into a given field of gaze, and the vertical pairings are right superior rectus with left inferior oblique, right inferior rectus with left superior oblique, right superior oblique with left inferior rectus, and right inferior oblique with left superior rectus. Pairing the right superior oblique with the left inferior oblique is therefore the false combination: the right superior oblique depresses the adducted right eye in down-and-left gaze, where its yoke is the left inferior rectus, while the left inferior oblique elevates the adducted left eye in up-and-right gaze, where its yoke is the right superior rectus. The remaining three combinations are correct, including the horizontal pair of right lateral rectus with left medial rectus for right gaze.",
+  "year": "2015",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 525,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_525.jpg"
+ },
+ {
+  "id": 30,
+  "source": "promotion-unkeyed",
   "question": "stereoacuity which is wrong:",
   "options": {
    "A": "tested monocularly",
@@ -251,7 +590,7 @@
   "pageScanUrl": "/images/promotion-pages/page_525.jpg"
  },
  {
-  "id": 14,
+  "id": 31,
   "source": "promotion-unkeyed",
   "question": "upper eyelid lateral lesion mostly metastesize to which group of lymph node:",
   "options": {
@@ -273,7 +612,7 @@
   "pageScanUrl": "/images/promotion-pages/page_526.jpg"
  },
  {
-  "id": 15,
+  "id": 32,
   "source": "promotion-unkeyed",
   "question": "which of the following associated with RB homer w rossete:",
   "options": {
@@ -291,7 +630,7 @@
   "pageScanUrl": "/images/promotion-pages/page_527.jpg"
  },
  {
-  "id": 16,
+  "id": 33,
   "source": "promotion-unkeyed",
   "question": "scenario of a man with anisocoria, one larger with slugish reaction which is true:",
   "options": {
@@ -310,7 +649,7 @@
   "pageScanUrl": "/images/promotion-pages/page_527.jpg"
  },
  {
-  "id": 17,
+  "id": 34,
   "source": "promotion-unkeyed",
   "question": "all of the following are true association except",
   "options": {
@@ -329,7 +668,7 @@
   "pageScanUrl": "/images/promotion-pages/page_529.jpg"
  },
  {
-  "id": 18,
+  "id": 35,
   "source": "promotion-unkeyed",
   "question": "Which of the following topical anesthetic is a long acting ester",
   "options": {
@@ -348,7 +687,7 @@
   "pageScanUrl": "/images/promotion-pages/page_530.jpg"
  },
  {
-  "id": 19,
+  "id": 36,
   "source": "promotion-unkeyed",
   "question": "Which of the following is false about the conjunctiva:",
   "options": {
@@ -367,7 +706,7 @@
   "pageScanUrl": "/images/promotion-pages/page_530.jpg"
  },
  {
-  "id": 20,
+  "id": 37,
   "source": "promotion-unkeyed",
   "question": "Which is true about iron deposits in the cornea:",
   "options": {
@@ -387,7 +726,7 @@
   "pageScanUrl": "/images/promotion-pages/page_531.jpg"
  },
  {
-  "id": 21,
+  "id": 38,
   "source": "promotion-unkeyed",
   "question": "Optic chiasm relation, All true except:",
   "options": {
@@ -406,7 +745,7 @@
   "pageScanUrl": "/images/promotion-pages/page_532.jpg"
  },
  {
-  "id": 22,
+  "id": 39,
   "source": "promotion-unkeyed",
   "question": "All true about retino blastoma except.",
   "options": {
@@ -425,7 +764,7 @@
   "pageScanUrl": "/images/promotion-pages/page_532.jpg"
  },
  {
-  "id": 23,
+  "id": 40,
   "source": "promotion-unkeyed",
   "question": "Regarding the optic nerve, which is FALSE",
   "options": {
@@ -444,7 +783,7 @@
   "pageScanUrl": "/images/promotion-pages/page_533.jpg"
  },
  {
-  "id": 24,
+  "id": 41,
   "source": "promotion-unkeyed",
   "question": "Regarding nerve fiber layer, all true except",
   "options": {
@@ -463,7 +802,7 @@
   "pageScanUrl": "/images/promotion-pages/page_533.jpg"
  },
  {
-  "id": 25,
+  "id": 42,
   "source": "promotion-unkeyed",
   "question": "all statement regarding benign intracranial hypertension are true EXEPT:",
   "options": {
@@ -482,7 +821,7 @@
   "pageScanUrl": "/images/promotion-pages/page_534.jpg"
  },
  {
-  "id": 26,
+  "id": 43,
   "source": "promotion-unkeyed",
   "question": "the FALSE statement of cephalosporine is:",
   "options": {
@@ -501,7 +840,7 @@
   "pageScanUrl": "/images/promotion-pages/page_534.jpg"
  },
  {
-  "id": 27,
+  "id": 44,
   "source": "promotion-unkeyed",
   "question": "which of the following is true for perforating ocular injury:",
   "options": {
@@ -520,7 +859,7 @@
   "pageScanUrl": "/images/promotion-pages/page_535.jpg"
  },
  {
-  "id": 28,
+  "id": 45,
   "source": "promotion-unkeyed",
   "question": "In pregnancy uveitis , false ?",
   "options": {
@@ -539,7 +878,7 @@
   "pageScanUrl": "/images/promotion-pages/page_536.jpg"
  },
  {
-  "id": 29,
+  "id": 46,
   "source": "promotion-unkeyed",
   "question": "Peribulbar VS retrobulbar. TRUE:",
   "options": {
@@ -558,7 +897,7 @@
   "pageScanUrl": "/images/promotion-pages/page_536.jpg"
  },
  {
-  "id": 30,
+  "id": 47,
   "source": "promotion-unkeyed",
   "question": "Regarding Sphenoid bone all true except",
   "options": {
@@ -577,7 +916,7 @@
   "pageScanUrl": "/images/promotion-pages/page_537.jpg"
  },
  {
-  "id": 31,
+  "id": 48,
   "source": "promotion-unkeyed",
   "question": "Regarding Wavelength all true except:",
   "options": {
@@ -595,7 +934,7 @@
   "pageScanUrl": "/images/promotion-pages/page_537.jpg"
  },
  {
-  "id": 32,
+  "id": 49,
   "source": "promotion-unkeyed",
   "question": "factors which make the RPE attached. All true except.",
   "options": {
@@ -615,7 +954,7 @@
   "pageScanUrl": "/images/promotion-pages/page_538.jpg"
  },
  {
-  "id": 33,
+  "id": 50,
   "source": "promotion-unkeyed",
   "question": "Adenovirus infection in human, one false:",
   "options": {
@@ -634,7 +973,7 @@
   "pageScanUrl": "/images/promotion-pages/page_540.jpg"
  },
  {
-  "id": 34,
+  "id": 51,
   "source": "promotion-unkeyed",
   "question": "All of the followings regarding slit lamp examination are true except:",
   "options": {
@@ -653,7 +992,7 @@
   "pageScanUrl": "/images/promotion-pages/page_541.jpg"
  },
  {
-  "id": 35,
+  "id": 52,
   "source": "promotion-unkeyed",
   "question": "Regarding Pinhole, which is false",
   "options": {
@@ -671,7 +1010,7 @@
   "pageScanUrl": "/images/promotion-pages/page_542.jpg"
  },
  {
-  "id": 36,
+  "id": 53,
   "source": "promotion-unkeyed",
   "question": "Pic of haab stria in a 20 year old, what test would aid in the diagnosis ?",
   "options": {
@@ -691,7 +1030,7 @@
   "pageScanUrl": "/images/promotion-pages/page_397.jpg"
  },
  {
-  "id": 37,
+  "id": 54,
   "source": "promotion-unkeyed",
   "question": "Which electomagnatic radiation cause exfoliation syndrome :",
   "options": {
@@ -711,7 +1050,7 @@
   "pageScanUrl": "/images/promotion-pages/page_398.jpg"
  },
  {
-  "id": 38,
+  "id": 55,
   "source": "promotion-unkeyed",
   "question": "After eom sx he has decrease in palpebral fissure which was not there before the sx :",
   "options": {
@@ -730,7 +1069,7 @@
   "pageScanUrl": "/images/promotion-pages/page_399.jpg"
  },
  {
-  "id": 39,
+  "id": 56,
   "source": "promotion-unkeyed",
   "question": "pic of child showing limited elevation of right eye :",
   "options": {
@@ -748,7 +1087,7 @@
   "pageScanUrl": "/images/promotion-pages/page_405.jpg"
  },
  {
-  "id": 40,
+  "id": 57,
   "source": "promotion-unkeyed",
   "question": "Picture of a patient with XT at primary position, limited adduction of the right eye with up shooting what's your diagnosis ?",
   "options": {
@@ -767,7 +1106,7 @@
   "pageScanUrl": "/images/promotion-pages/page_407.jpg"
  },
  {
-  "id": 41,
+  "id": 58,
   "source": "promotion-unkeyed",
   "question": "When you are measuring cyclo refraction for a child if you are near to the neutralization Point what do you notice ?",
   "options": {
@@ -785,7 +1124,7 @@
   "pageScanUrl": "/images/promotion-pages/page_407.jpg"
  },
  {
-  "id": 42,
+  "id": 59,
   "source": "promotion-unkeyed",
   "question": "30 y/o male notice progressive unilateral change of color, IOP 44mmHg on 4 anti glaucoma medications. What is the next step in management ?",
   "options": {
@@ -804,7 +1143,7 @@
   "pageScanUrl": "/images/promotion-pages/page_408.jpg"
  },
  {
-  "id": 43,
+  "id": 60,
   "source": "promotion-unkeyed",
   "question": "7 y/o boy k/c of VCK with corneal ulcer 4x4 mm with translucent base, on medication for long time with no improvement , What is the next best management ?",
   "options": {
@@ -823,7 +1162,201 @@
   "pageScanUrl": "/images/promotion-pages/page_408.jpg"
  },
  {
-  "id": 44,
+  "id": 61,
+  "source": "promotion-unkeyed",
+  "question": "35 y/o present after 3 months Hx of ocular trauma (pic. of gonioscopy showing hyphema) lOP 33 mmHg,What is the most appropriate next step in management ?",
+  "options": {
+   "A": "Pilocarpin",
+   "B": "Observation",
+   "D": "Anterior chamber wash"
+  },
+  "correctAnswer": "D",
+  "explanation": "Three months after blunt trauma, persistent blood in the anterior chamber and angle with an IOP of 33 mm Hg points to a red-cell-related secondary glaucoma - ghost cell glaucoma from degenerated erythrocytes migrating forward from the vitreous, or a haemolytic picture - in which the trabecular meshwork is mechanically obstructed by cells and macrophages. Observation is not defensible at this pressure after this long, and pilocarpine is the wrong drug class: miotics do little for an obstructed meshwork and are relatively contraindicated after blunt trauma with angle recession because they can worsen outflow and stir up inflammation. Anterior chamber washout, with removal of the vitreous reservoir if that is the source, is the definitive step once medical therapy fails or the pressure has been this high for this long. In real practice aqueous suppressants would be started first, which is why this key should be read with caution.",
+  "year": "2016",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 409,
+  "reviewerAnswered": true,
+  "reviewConfidence": "low",
+  "reviewConcern": "Option C is absent from the recall (the letters jump A, B, D) and the standard first-line answer, topical aqueous suppressants, is very likely the option that was lost. The gonioscopy image could not be reviewed.",
+  "imageUrl": "/images/promotion/p409_1baba061f0.png",
+  "pageScanUrl": "/images/promotion-pages/page_409.jpg"
+ },
+ {
+  "id": 62,
+  "source": "promotion-unkeyed",
+  "question": "35 y/o male DM & HTN Pt. for a long time he is on insulin, 2 pack/day smoker for the past 10 years,OS BCVA 20/100 or 20/200 AC WNL Fundus exam showing localised Vit. Hg not showing the retina below it, no clinical sings ",
+  "options": {
+   "A": "Severe Diabetic retinopathy",
+   "B": "Iodiopathic Vit. Hg",
+   "C": "PDR",
+   "D": "High Risk PDR"
+  },
+  "correctAnswer": "C",
+  "explanation": "A spontaneous vitreous haemorrhage in a diabetic eye is proliferative disease until proved otherwise, since neovascular tissue bleeding into the vitreous is the only common diabetic mechanism; severe NPDR by definition has no new vessels and cannot bleed into the vitreous, and calling it idiopathic ignores the risk profile in front of you. High-risk PDR is a defined entity from the Diabetic Retinopathy Study - NVD of at least a quarter to a third of a disc area, any NVD with preretinal or vitreous haemorrhage, or NVE of at least half a disc area with haemorrhage - and establishing it requires visible neovascularisation. Because the blood obscures the retina and no new vessels are documented, the defensible label is PDR; the eye is followed with serial B-scan and given panretinal photocoagulation as soon as a view returns.",
+  "year": "2016",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 409,
+  "reviewerAnswered": true,
+  "reviewConfidence": "medium",
+  "reviewConcern": "Some examiners treat any vitreous haemorrhage in a diabetic as evidence of high-risk PDR, so option D is a live alternative.",
+  "pageScanUrl": "/images/promotion-pages/page_409.jpg"
+ },
+ {
+  "id": 63,
+  "source": "promotion-unkeyed",
+  "question": "Regarding prognosis of PAN, which of the following is true ?",
+  "options": {
+   "A": "Death with in 1 year of diagnosis",
+   "B": "If treated 5-year survival is 50% (decrease the risk of relapse by 50%, AAO (",
+   "C": "Ocular involvement indicate poor prognosis",
+   "D": "Steroids decrease the risk of relapse"
+  },
+  "correctAnswer": "B",
+  "explanation": "Untreated polyarteritis nodosa carries a 5-year survival of roughly 13 percent, and corticosteroid treatment raises that to about half, with cyclophosphamide pushing it higher still. That makes the statement that treated patients have roughly a 50 percent 5-year survival the classic teaching figure. Death within a year of diagnosis describes only the most fulminant untreated cases rather than the rule, and ocular involvement is not itself the prognostic driver: renal, cardiac, gastrointestinal and central nervous system involvement are what determine survival in this vasculitis.",
+  "year": "2016",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 410,
+  "reviewerAnswered": true,
+  "reviewConfidence": "medium",
+  "reviewConcern": "Option B carries a stray parenthetical about relapse risk that appears to belong to option D, and option D (steroids reduce relapse) is arguably also true, which softens the item.",
+  "pageScanUrl": "/images/promotion-pages/page_410.jpg"
+ },
+ {
+  "id": 64,
+  "source": "promotion-unkeyed",
+  "question": "3 prism diopter base out over the right eye , what is equivalent to it:",
+  "options": {
+   "A": "2 pd bi od and 1pd bi os",
+   "B": "2 pd bo od and 1pd bi os",
+   "C": "1.5 pd bo od and 1.5 pd bi os"
+  },
+  "correctAnswer": "C",
+  "explanation": "Prism before either eye acts on the vergence demand of the pair, so a required amount of base-out can be divided between the two eyes, and 3 prism dioptres base-out over the right eye is conventionally split as 1.5 base-out before each eye. Splitting is preferred because it halves the peripheral distortion, chromatic aberration, image displacement and cosmetic thickness that a single large prism produces. Base-in before the fellow eye would not be equivalent: base-out right combined with base-in left puts both bases toward the same side of space, giving a yoked or version prism that shifts both images together and leaves the vergence demand unchanged.",
+  "year": "2016",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 412,
+  "reviewerAnswered": true,
+  "reviewConfidence": "medium",
+  "reviewConcern": "Option C reads '1.5 bo od and 1.5 bi os'; the 'bi' is almost certainly a transcription slip for 'bo', since only an equal base-out split is equivalent. Taken literally, no option is correct.",
+  "pageScanUrl": "/images/promotion-pages/page_412.jpg"
+ },
+ {
+  "id": 65,
+  "source": "promotion-unkeyed",
+  "question": "after an attack of VZV 2 month ago, pt came complaining of redness, photophobia and blurry vision in the eye of the same side. No epithelial defect What is your Treatment ?",
+  "options": {
+   "A": "Trifliridine",
+   "B": "Prednisone acetate",
+   "C": "Gancyclovir",
+   "D": "ciprofloxacin"
+  },
+  "correctAnswer": "B",
+  "explanation": "Two months after herpes zoster ophthalmicus, redness, photophobia and blurred vision with an intact epithelium is the classic picture of zoster stromal keratitis or anterior uveitis, both immune-mediated and both treated with a topical corticosteroid such as prednisolone acetate on a slow taper, usually with oral antiviral cover in the earlier phase. Trifluridine and ganciclovir gel are directed at active epithelial viral replication, and trifluridine in particular is frankly toxic to the epithelium with prolonged use; there is no epithelial defect here to treat. Ciprofloxacin addresses bacterial keratitis, which does not fit an intact epithelium or this time course.",
+  "year": "2016",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 414,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high",
+  "imageUrl": "/images/promotion/p415_d8f9b0f338.png",
+  "pageScanUrl": "/images/promotion-pages/page_414.jpg"
+ },
+ {
+  "id": 66,
+  "source": "promotion-unkeyed",
+  "question": "what is the most common cause of failure in treatment of herpetic ocular disease:",
+  "options": {
+   "A": "Allergic reaction",
+   "B": "Viral resistance",
+   "C": "Poor bioavailability",
+   "D": "Increase hepatic clearance"
+  },
+  "correctAnswer": "C",
+  "explanation": "Aciclovir has an oral bioavailability of only about 10 to 20 percent, and topical antivirals penetrate the cornea poorly, so inadequate drug concentration at the target tissue, compounded by the five-times-daily dosing burden and the poor adherence that follows, is the usual reason herpetic ocular disease fails to respond. This is precisely why valaciclovir and famciclovir, with far better absorption, were developed. True antiviral resistance from thymidine kinase-deficient mutants is well described but rare outside immunocompromised hosts, hepatic clearance is not a limiting factor at standard doses, and allergy leads to drug discontinuation rather than to treatment failure.",
+  "year": "2016",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 419,
+  "reviewerAnswered": true,
+  "reviewConfidence": "medium",
+  "reviewConcern": "Some question banks key this as viral resistance, so the item is arguable.",
+  "pageScanUrl": "/images/promotion-pages/page_419.jpg"
+ },
+ {
+  "id": 67,
+  "source": "promotion-unkeyed",
+  "question": "Diabetic VH, normal B scan no TRD, what is the next step:",
+  "options": {
+   "A": "urgent PPV",
+   "B": "Yag hyaloidotomy",
+   "C": "Close observation",
+   "D": "IVAV"
+  },
+  "correctAnswer": "C",
+  "explanation": "A diabetic vitreous haemorrhage with an attached retina on B-scan is followed rather than operated on: most such haemorrhages clear enough over weeks to allow panretinal photocoagulation, and serial ultrasound is what guards against tractional detachment developing behind the blood. Vitrectomy becomes the answer when the haemorrhage fails to clear, when ultrasound shows traction threatening or involving the macula, or in a type 1 diabetic with dense bilateral haemorrhage where earlier surgery has been shown to help. YAG hyaloidotomy is a technique for a discrete premacular subhyaloid haemorrhage, not for diffuse vitreous blood, and anti-VEGF may hasten clearing but is an adjunct rather than the defined next step.",
+  "year": "2016",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 428,
+  "reviewerAnswered": true,
+  "reviewConfidence": "medium",
+  "pageScanUrl": "/images/promotion-pages/page_428.jpg"
+ },
+ {
+  "id": 68,
+  "source": "promotion-unkeyed",
+  "question": "pt reading through +14 reading glasses complain after 1 her form reading what the cause",
+  "options": {
+   "A": "Exotopia",
+   "B": "Esophoria",
+   "C": "Diplopia"
+  },
+  "correctAnswer": "A",
+  "explanation": "A +14 add puts the reading material about 7 cm from the eyes, a convergence demand of roughly 30 prism dioptres, far beyond what almost anyone can sustain; worse, converging eyes look through the nasal part of a strong plus lens, which adds a base-out prismatic effect and increases the demand further. Fusion breaks down into a manifest exodeviation after sustained near work, which is why high-add low-vision readers are dispensed with base-in prism incorporated or with one eye occluded. Esophoria is the wrong direction, since the induced effect is a convergence burden rather than an excess of convergence, and diplopia is the symptom that follows the exodeviation rather than its cause.",
+  "year": "2016",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 435,
+  "reviewerAnswered": true,
+  "reviewConfidence": "low",
+  "reviewConcern": "The stem is garbled and it is unclear whether the examiners wanted the mechanism (exodeviation) or the resulting symptom, so option C is a live alternative.",
+  "pageScanUrl": "/images/promotion-pages/page_435.jpg"
+ },
+ {
+  "id": 69,
+  "source": "promotion-unkeyed",
+  "question": "keratoconus patient vision with glasses 20/40 started on RGP lens and his vision improved to distant 20/20 Patient now complaining his near vision was better with glasses What is the explanation of his near vision:",
+  "options": {
+   "A": "decrees vortex distant with CL (because of increased accommodative demand)",
+   "B": "Base out prism effect of CL",
+   "C": "Increase depth of perception with glasses"
+  },
+  "correctAnswer": "A",
+  "explanation": "Moving a minus correction from the spectacle plane onto the cornea abolishes the vertex distance, and for a myope that increases the accommodative demand at near: the spectacle-corrected myope enjoys a reduced accommodative requirement which disappears in contact lenses. The same shift also removes the base-in prismatic help that minus spectacles provide when the eyes converge, so convergence demand rises too. A keratoconic moved into rigid gas permeable lenses therefore gains distance acuity from the regularised anterior surface while finding near work harder. A rigid lens does not induce base-out prism in this setting, and depth of focus is if anything better with the sharper retinal image the contact lens delivers.",
+  "year": "2016",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 435,
+  "reviewerAnswered": true,
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_435.jpg"
+ },
+ {
+  "id": 70,
+  "source": "promotion-unkeyed",
+  "question": "a pt prefers CL over glasses, why?",
+  "options": {
+   "A": "Has severe strabismus with face turn",
+   "B": "Ptosis",
+   "C": "Congenital nystagmus"
+  },
+  "correctAnswer": "C",
+  "explanation": "Contact lenses are the classical optical choice in congenital nystagmus: they move with the eye so the correction stays centred whatever the eye position, and lid and corneal contact appears to dampen the nystagmus through trigeminal afferent feedback, improving acuity beyond the purely refractive effect. Spectacles in a nystagmus patient with an eccentric null point force viewing through the lens periphery, adding prismatic and aberrational error. Ptosis is the one situation where spectacles are actually preferred, since a ptosis crutch mounts on the frame, and a face turn from strabismus is usually managed with prism or surgery rather than by changing lens modality.",
+  "year": "2016",
+  "subspecialty": "Miscellaneous",
+  "pdfPage": 436,
+  "reviewerAnswered": true,
+  "reviewConfidence": "medium",
+  "reviewConcern": "Option A is a reasonable alternative, since an anomalous head posture also degrades spectacle optics.",
+  "pageScanUrl": "/images/promotion-pages/page_436.jpg"
+ },
+ {
+  "id": 71,
   "source": "promotion-unkeyed",
   "question": "A case of a slowly progressive proptosis, APD, asking what does MRI show (I remember that it was an optic nerve meningioma)?",
   "options": {
@@ -843,7 +1376,7 @@
   "pageScanUrl": "/images/promotion-pages/page_318.jpg"
  },
  {
-  "id": 45,
+  "id": 72,
   "source": "promotion-unkeyed",
   "question": "Which of the following would affect the measurement of IOP by Goldmann Applanation Tonometer (GAT)?",
   "options": {
@@ -866,7 +1399,7 @@
   "pageScanUrl": "/images/promotion-pages/page_327.jpg"
  },
  {
-  "id": 46,
+  "id": 73,
   "source": "promotion-unkeyed",
   "question": "A Cardinal picture showing a narrowing of palpebral fissure of right eye with overshooting, what is most likely dx?",
   "options": {
@@ -885,7 +1418,7 @@
   "pageScanUrl": "/images/promotion-pages/page_339.jpg"
  },
  {
-  "id": 47,
+  "id": 74,
   "source": "promotion-unkeyed",
   "question": "An attached picture of a girl with a ?head tilt to left side with a limitation of gaze (Poor recall of which gaze is limited; adduction or abduction), asking what is the diagnosis?",
   "options": {
@@ -905,7 +1438,7 @@
   "pageScanUrl": "/images/promotion-pages/page_341.jpg"
  },
  {
-  "id": 48,
+  "id": 75,
   "source": "promotion-unkeyed",
   "question": "23 y/o with intermittent extropia with poor control with 45 pd at distant and at near 25. Refraction +2 , What is the next step in management:",
   "options": {
@@ -925,7 +1458,7 @@
   "pageScanUrl": "/images/promotion-pages/page_357.jpg"
  },
  {
-  "id": 49,
+  "id": 76,
   "source": "promotion-unkeyed",
   "question": "pig lesion of conj looks like melanoma ttt?",
   "options": {
@@ -947,7 +1480,7 @@
   "pageScanUrl": "/images/promotion-pages/page_363.jpg"
  },
  {
-  "id": 50,
+  "id": 77,
   "source": "promotion-unkeyed",
   "question": "peripheral corneal scar , initial management:",
   "options": {
@@ -967,7 +1500,7 @@
   "pageScanUrl": "/images/promotion-pages/page_371.jpg"
  },
  {
-  "id": 51,
+  "id": 78,
   "source": "promotion-unkeyed",
   "question": "a low vision patient reading through +14 reading glasses complain after 1 hour from reading. what the induced effect by high convex lenses:",
   "options": {
@@ -987,7 +1520,7 @@
   "pageScanUrl": "/images/promotion-pages/page_373.jpg"
  },
  {
-  "id": 52,
+  "id": 79,
   "source": "promotion-unkeyed",
   "question": "which patient most likely will prefer Contact lens over glasses:",
   "options": {
@@ -1008,7 +1541,7 @@
   "pageScanUrl": "/images/promotion-pages/page_374.jpg"
  },
  {
-  "id": 53,
+  "id": 80,
   "source": "promotion-unkeyed",
   "question": "Dial Clock pic with line at 12-6 is bold. where is the astigmatic axis :",
   "options": {
@@ -1028,7 +1561,7 @@
   "pageScanUrl": "/images/promotion-pages/page_375.jpg"
  },
  {
-  "id": 54,
+  "id": 81,
   "source": "promotion-unkeyed",
   "question": "topo with oblique astigmatism, where to cut suture?",
   "options": {
@@ -1049,7 +1582,7 @@
   "pageScanUrl": "/images/promotion-pages/page_376.jpg"
  },
  {
-  "id": 55,
+  "id": 82,
   "source": "promotion-unkeyed",
   "question": "pic female face with cloudy cornea ( looks no buphthalmos ) and poor vision since childhood , what is the cause?",
   "options": {
@@ -1069,7 +1602,7 @@
   "pageScanUrl": "/images/promotion-pages/page_376.jpg"
  },
  {
-  "id": 56,
+  "id": 83,
   "source": "promotion-unkeyed",
   "question": "pathology slide of cornea , looks abnormal proliferation in epithelium, ?thin stroma , what other feature ?",
   "options": {
@@ -1088,7 +1621,7 @@
   "pageScanUrl": "/images/promotion-pages/page_379.jpg"
  },
  {
-  "id": 57,
+  "id": 84,
   "source": "promotion-unkeyed",
   "question": "another fundus photo of PVR ,, hx of recurrence wt is true ?",
   "options": {
@@ -1107,7 +1640,7 @@
   "pageScanUrl": "/images/promotion-pages/page_380.jpg"
  },
  {
-  "id": 58,
+  "id": 85,
   "source": "promotion-unkeyed",
   "question": "female with nasopharyngeal CA and limited abduction OS ( poor function ) for 1 month ,, what sx ?",
   "options": {
@@ -1126,7 +1659,7 @@
   "pageScanUrl": "/images/promotion-pages/page_381.jpg"
  },
  {
-  "id": 59,
+  "id": 86,
   "source": "promotion-unkeyed",
   "question": "pt has 3 D of amplitude for accommodation , and what dioptric power is needed to see at 25 cm ?",
   "options": {
@@ -1146,7 +1679,7 @@
   "pageScanUrl": "/images/promotion-pages/page_383.jpg"
  },
  {
-  "id": 60,
+  "id": 87,
   "source": "promotion-unkeyed",
   "question": "Emmetropic patient with accommodative amplitude of +1.5, he needs to work comfortably 50cm away from computer screen. What glasses would you give?",
   "options": {
@@ -1166,7 +1699,7 @@
   "pageScanUrl": "/images/promotion-pages/page_391.jpg"
  },
  {
-  "id": 61,
+  "id": 88,
   "source": "promotion-unkeyed",
   "question": "Patient was just prescribed a pair of glasses came complaining that the ground appear to be slanted down, what is the most likely cause?",
   "options": {
@@ -1185,7 +1718,7 @@
   "pageScanUrl": "/images/promotion-pages/page_391.jpg"
  },
  {
-  "id": 62,
+  "id": 89,
   "source": "promotion-unkeyed",
   "question": "Typical scenario of patient with pseudotumor cerebri. Which is correct?",
   "options": {
@@ -1204,7 +1737,7 @@
   "pageScanUrl": "/images/promotion-pages/page_391.jpg"
  },
  {
-  "id": 63,
+  "id": 90,
   "source": "promotion-unkeyed",
   "question": "In piggyback lens, which position cause interlenticular opacification?",
   "options": {
@@ -1225,7 +1758,7 @@
   "pageScanUrl": "/images/promotion-pages/page_391.jpg"
  },
  {
-  "id": 64,
+  "id": 91,
   "source": "promotion-unkeyed",
   "question": "73: 50 Y.O diabetic PT complaining of headache for 2 days, On examination you found dilated left pupil; limitation of adduction, elevation and suppression of the left eye; Lt ptosis ; VA 20/20 OU , what would be the appr",
   "options": {
@@ -1244,7 +1777,7 @@
   "pageScanUrl": "/images/promotion-pages/page_391.jpg"
  },
  {
-  "id": 65,
+  "id": 92,
   "source": "promotion-unkeyed",
   "question": "74 & 75: PT complaining of photophobia on exam dilated RT pupil more in light, slow Re-dilatation movement after near, Slit lamp showed segmental pupillary palsy,, Diagnosis:",
   "options": {
@@ -1261,7 +1794,7 @@
   "pageScanUrl": "/images/promotion-pages/page_392.jpg"
  },
  {
-  "id": 66,
+  "id": 93,
   "source": "promotion-unkeyed",
   "question": "76: KC with 20/40 with glasses , 20/20 with CL. Near is not good Why? choices:",
   "options": {
@@ -1279,7 +1812,7 @@
   "pageScanUrl": "/images/promotion-pages/page_392.jpg"
  },
  {
-  "id": 67,
+  "id": 94,
   "source": "promotion-unkeyed",
   "question": "77: PRK and LASIK. Which one is correct:",
   "options": {
@@ -1299,7 +1832,7 @@
   "pageScanUrl": "/images/promotion-pages/page_392.jpg"
  },
  {
-  "id": 68,
+  "id": 95,
   "source": "promotion-unkeyed",
   "question": "80: a disease which progress in months:",
   "options": {
@@ -1319,7 +1852,7 @@
   "pageScanUrl": "/images/promotion-pages/page_392.jpg"
  },
  {
-  "id": 69,
+  "id": 96,
   "source": "promotion-unkeyed",
   "question": "82: Corneal slide showing hyphae. Management?",
   "options": {
@@ -1338,7 +1871,7 @@
   "pageScanUrl": "/images/promotion-pages/page_393.jpg"
  },
  {
-  "id": 70,
+  "id": 97,
   "source": "promotion-unkeyed",
   "question": "Lens absorbs which wave length in nanometer",
   "options": {
@@ -1358,7 +1891,7 @@
   "pageScanUrl": "/images/promotion-pages/page_393.jpg"
  },
  {
-  "id": 71,
+  "id": 98,
   "source": "promotion-unkeyed",
   "question": "patient found to be aphakic in one eye, what is the effect of unilateral aphakia with glasses :",
   "options": {
@@ -1377,7 +1910,7 @@
   "pageScanUrl": "/images/promotion-pages/page_393.jpg"
  },
  {
-  "id": 72,
+  "id": 99,
   "source": "promotion-unkeyed",
   "question": "diabetic patient , presented with conj injections , diplopia , CT showed diffuse infiltration in orbit , nasal mucosa thickened , she was afebrile , normal CBC and differentials, what to do :",
   "options": {
@@ -1396,7 +1929,7 @@
   "pageScanUrl": "/images/promotion-pages/page_394.jpg"
  },
  {
-  "id": 73,
+  "id": 100,
   "source": "promotion-unkeyed",
   "question": "which of the following is an indication of subperiosteal drainage?",
   "options": {
@@ -1415,7 +1948,7 @@
   "pageScanUrl": "/images/promotion-pages/page_395.jpg"
  },
  {
-  "id": 74,
+  "id": 101,
   "source": "promotion-unkeyed",
   "question": "Post phaco and 10-0 nylon suture at 180 .. which is of the following is accurate:",
   "options": {
@@ -1433,7 +1966,7 @@
   "pageScanUrl": "/images/promotion-pages/page_395.jpg"
  },
  {
-  "id": 75,
+  "id": 102,
   "source": "promotion-unkeyed",
   "question": "diabetic patient presenting with pain os with ptosis, dilated pupil, limited adduction, elevation and depression. What is the most likely etiology:",
   "options": {
@@ -1452,7 +1985,7 @@
   "pageScanUrl": "/images/promotion-pages/page_396.jpg"
  },
  {
-  "id": 76,
+  "id": 103,
   "source": "promotion-unkeyed",
   "question": "Which one is contraindicated to give cyclosporine:",
   "options": {
@@ -1472,7 +2005,7 @@
   "pageScanUrl": "/images/promotion-pages/page_396.jpg"
  },
  {
-  "id": 77,
+  "id": 104,
   "source": "promotion-unkeyed",
   "question": "a case of subperiosteal abcess, unilateral proptosis, limited EOM with vision loss. Management:",
   "options": {
@@ -1491,7 +2024,7 @@
   "pageScanUrl": "/images/promotion-pages/page_396.jpg"
  },
  {
-  "id": 78,
+  "id": 105,
   "source": "promotion-unkeyed",
   "question": "102: 11 month old child with chronic epiphora and discharge. Exam showed mucous coming from left punctum when the doctor press on ithe nasal side. What is the management:",
   "options": {
@@ -1510,7 +2043,7 @@
   "pageScanUrl": "/images/promotion-pages/page_397.jpg"
  },
  {
-  "id": 79,
+  "id": 106,
   "source": "promotion-unkeyed",
   "question": "103: Which of the following is a pre-malignant lesion:",
   "options": {
@@ -1527,7 +2060,7 @@
   "pageScanUrl": "/images/promotion-pages/page_397.jpg"
  },
  {
-  "id": 80,
+  "id": 107,
   "source": "promotion-unkeyed",
   "question": "104: a case of basal cell carcinoma. Which of the following subtypes has the highest likelihood of recurrence if it is not excised with free margins:",
   "options": {
@@ -1545,7 +2078,7 @@
   "pageScanUrl": "/images/promotion-pages/page_397.jpg"
  },
  {
-  "id": 81,
+  "id": 108,
   "source": "promotion-unkeyed",
   "question": "S/p Lasik with macro striae when was the operation in weeks:",
   "options": {
@@ -1564,7 +2097,7 @@
   "pageScanUrl": "/images/promotion-pages/page_149.jpg"
  },
  {
-  "id": 82,
+  "id": 109,
   "source": "promotion-unkeyed",
   "question": "Patient with PVD and vitreous hge following trauma When will he experience symptoms of RD in months:",
   "options": {
@@ -1583,7 +2116,7 @@
   "pageScanUrl": "/images/promotion-pages/page_171.jpg"
  },
  {
-  "id": 83,
+  "id": 110,
   "source": "promotion-unkeyed",
   "question": "motor cycle trauma, pt had diplopia, hypertropia more on down gaze, restriction of dextro-depression, what muscle is most likely entrapped",
   "options": {
@@ -1603,7 +2136,7 @@
   "pageScanUrl": "/images/promotion-pages/page_228.jpg"
  },
  {
-  "id": 84,
+  "id": 111,
   "source": "promotion-unkeyed",
   "question": "The optic canal transmits the optic nerve from the orbit into the intracranial cavity. The optic canal passes through which bone?",
   "options": {
@@ -1622,7 +2155,7 @@
   "pageScanUrl": "/images/promotion-pages/page_256.jpg"
  },
  {
-  "id": 85,
+  "id": 112,
   "source": "promotion-unkeyed",
   "question": "A picture of conjunctival lymphoma (Salmon patch) with a histopathological slide showing numerous lymphocytes. What is the most appropriate treatment",
   "options": {
@@ -1641,7 +2174,7 @@
   "pageScanUrl": "/images/promotion-pages/page_293.jpg"
  },
  {
-  "id": 86,
+  "id": 113,
   "source": "promotion-unkeyed",
   "question": "Picture of enlarged corneal nerve, what is the cause?",
   "options": {
@@ -1664,7 +2197,7 @@
   "pageScanUrl": "/images/promotion-pages/page_139.jpg"
  },
  {
-  "id": 87,
+  "id": 114,
   "source": "promotion-unkeyed",
   "question": "Best method to measure IOP in patient who is post Lasik 6 weeks, but you did OCT and no fluid found in the interface?",
   "options": {
@@ -1684,7 +2217,7 @@
   "pageScanUrl": "/images/promotion-pages/page_199.jpg"
  },
  {
-  "id": 88,
+  "id": 115,
   "source": "promotion-unkeyed",
   "question": "Picture showing small pigmented lesion of the lower lid, you removed it, how will you repair the lower lid?",
   "options": {
@@ -1702,7 +2235,7 @@
   "pageScanUrl": "/images/promotion-pages/page_244.jpg"
  },
  {
-  "id": 89,
+  "id": 116,
   "source": "promotion-unkeyed",
   "question": "Visual field defect in NAION?",
   "options": {
@@ -1722,7 +2255,7 @@
   "pageScanUrl": "/images/promotion-pages/page_271.jpg"
  },
  {
-  "id": 90,
+  "id": 117,
   "source": "promotion-unkeyed",
   "question": "Patient had trauma and ended with RD and you did PPV with perfluoropropane and patient has broken tooth and the dentist wants to use nitric oxide, for how long patient has to wait to treat his tooth?",
   "options": {
@@ -1742,7 +2275,7 @@
   "pageScanUrl": "/images/promotion-pages/page_282.jpg"
  },
  {
-  "id": 91,
+  "id": 118,
   "source": "promotion-unkeyed",
   "question": "IOL of 0 power, in a myopic patient, what's the benefit of implant Vs leaving pt aphakic?",
   "options": {
@@ -1764,7 +2297,7 @@
   "pageScanUrl": "/images/promotion-pages/page_129.jpg"
  },
  {
-  "id": 92,
+  "id": 119,
   "source": "promotion-unkeyed",
   "question": "Visual hallucinations patient had brought the visual field testing from another place the visual field showed homonymus field defect that respect the midline where is the site of the lesion",
   "options": {
@@ -1785,7 +2318,7 @@
   "pageScanUrl": "/images/promotion-pages/page_260.jpg"
  },
  {
-  "id": 93,
+  "id": 120,
   "source": "promotion-unkeyed",
   "question": "you're referacting a pt, then you had a wide with the movement beam?",
   "options": {
@@ -1805,7 +2338,7 @@
   "pageScanUrl": "/images/promotion-pages/page_278.jpg"
  },
  {
-  "id": 94,
+  "id": 121,
   "source": "promotion-unkeyed",
   "question": "30 y/o African american patient with hilar lymphadenopathy, presented with acute eye pain and photophobia. What is the content of the finding that is depicted in the photo?",
   "options": {
@@ -1831,7 +2364,7 @@
   "pageScanUrl": "/images/promotion-pages/page_120.jpg"
  },
  {
-  "id": 95,
+  "id": 122,
   "source": "promotion-unkeyed",
   "question": "Patient with right eye mild ptosis and miosis, and left hypertropia, where is the lesion?",
   "options": {
@@ -1851,7 +2384,7 @@
   "pageScanUrl": "/images/promotion-pages/page_025.jpg"
  },
  {
-  "id": 96,
+  "id": 123,
   "source": "promotion-unkeyed",
   "question": "You did refraction with Retinoscopy without lens, showed wide beam and fast (with) movement in all directions, What's the refraction?",
   "options": {

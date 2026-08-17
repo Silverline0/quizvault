@@ -919,7 +919,14 @@
   "pdfPage": 246,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p246_d775feaa34.jpg",
-  "pageScanUrl": "/images/promotion-pages/page_246.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_246.jpg",
+  "review": {
+   "answer": "A",
+   "agrees": false,
+   "confidence": "low",
+   "explanation": "The collagen type depends on the tissue and the stage of healing. Normal dermis and a mature, remodelled skin scar are predominantly type I collagen, so a patient who simply has a skin scar is best answered as type I. Type III is the collagen that predominates transiently in granulation tissue and early wound repair, and it is also the classic answer for corneal stromal wound healing and for hypertrophic scars and keloids. Type II is vitreous and cartilage, and type IV is basement membrane, including Descemet membrane and the lens capsule.",
+   "concern": "The recall does not specify timing, so both answers are defensible. If the original stem asked about early wound healing, a hypertrophic scar or corneal stromal healing, type III is correct and the source answer stands. For a mature skin scar the predominant collagen is type I. Given the ambiguity, do not treat my pick as an override."
+  }
  },
  {
   "id": 37,
@@ -937,7 +944,14 @@
   "pdfPage": 246,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p246_f49755607e.jpg",
-  "pageScanUrl": "/images/promotion-pages/page_246.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_246.jpg",
+  "review": {
+   "answer": "C",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Vision loss in orbital cellulitis means the optic nerve is being compromised, and the decision that follows is essentially surgical: is there a drainable subperiosteal or orbital abscess, or intracranial extension. Contrast-enhanced CT of the orbits and sinuses is the imaging modality of choice and is the step that changes management, which is why it outranks the alternatives here. Asking about the duration of visual loss adds little once the drop is documented, and although IOP is part of the bedside examination it is a supporting datum rather than the decisive next step.",
+   "concern": "One clinical caveat worth teaching: if the orbit is tense with a rising IOP and a relative afferent pupillary defect, that is orbital compartment syndrome and lateral canthotomy with cantholysis must be done at the bedside without waiting for the scan. Measuring IOP is therefore not a wrong instinct, just not the answer to what most changes management."
+  }
  },
  {
   "id": 38,
@@ -953,7 +967,13 @@
   "explanation": "The source flags this recall as incomplete. will choose it Here summary for each from kanski: 1- Capillary haemangioma: is the most common tumour of the orbit and periorbital area in childhood. Girls are affected more commonly than boys (3:1). It can be superficial, presenting as a red, raised lesion, it can be deep, presenting as a dark blue lesion that may extend into the orbit or may present both of the above components. Capillary hemangiomas involving the eyelids may induce astigmatic anisometropic and amblyopia causing severe vision loss if left untreated. The diagnosis is made clinically, however in extensive cases imaging helps delineate the extent of orbital involvement. The natural course of the capillary hemangioma is initial enlargement in the first year of life followed by spontaneous regression in the following years 2- Lymphangioma: is a rare hamartomatous vascular tumour that tends to enlarge and infiltrate diffusely with time. Some authorities believe lymphangiomas to be a variant of venous orbital anomaly (varices) across a single spectrum and the term !combined venous-lymphatic malformations of the orbit\"#has been suggested. Although usually isolated from the main circulation, bleeding into the lumen may occur with subsequent formation of blood-filled !chocolate cysts\"#that regress spontaneously with time. Presentation is usually in early childhood. 3-Hemangiopericytoma: is a rare mesenchymal tumor, typically located in the retrobulbar intraconal space of the orbit, that is generally slow-growing, but has malignant potential.",
   "year": "2019",
   "subspecialty": "Oculoplastics",
-  "pdfPage": 247
+  "pdfPage": 247,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Infantile capillary haemangioma is strongly associated with prematurity and low birth weight, and also with female sex, multiple gestation and older maternal age. It typically appears within the first weeks of life, proliferates through the first year and then involutes, and the ophthalmic urgency is amblyopia from induced astigmatism or occlusion. Lymphangioma is a hamartomatous vascular malformation presenting with spontaneous haemorrhage and chocolate cysts, with no prematurity link; haemangiopericytoma, now classed as solitary fibrous tumour, is an adult orbital tumour; and an arteriovenous malformation is congenital but not tied to birth weight."
+  }
  },
  {
   "id": 39,
@@ -969,7 +989,14 @@
   "explanation": "This presentation can be Thyroid eye disease or orbital myositis - Thyroid eye disease pathophysiology: the presumed mechanism is activation of orbital fibroblasts by Graves' disease-related autoantibodies - Orbital myositis pathophysiology: circulating antibodies against eye muscle antigens Orbital_Inflammatory_Syndrome,_Orbital_Pseudotumor)#Pathophysiology Reference: https://eyewiki.aao.org/Nonspecific_Orbital_Inflammation_(Idiopathic_Orbital_Inflammation,_",
   "year": "2019",
   "subspecialty": "Oculoplastics",
-  "pdfPage": 248
+  "pdfPage": 248,
+  "review": {
+   "answer": "D",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Enlarged extraocular muscles on CT with proptosis points to thyroid eye disease, whose pathogenesis is autoantibody activation of orbital fibroblasts through the TSH receptor acting with the IGF-1 receptor, driving glycosaminoglycan deposition and adipogenesis. Caseating granulomas describe tuberculosis and epithelioid histiocytes describe sarcoidosis, neither of which fits this picture. T cells are recruited in thyroid orbitopathy, so cell-mediated immunity is not absent, but the defining and testable mechanism is the autoantibody-fibroblast interaction, which is also the target of teprotumumab.",
+   "concern": "Pain and strict unilaterality would more typically suggest orbital myositis, whose mechanism is antibodies against eye muscle antigens rather than a fibroblast autoantigen. That option is not offered, so D remains the best available answer."
+  }
  },
  {
   "id": 40,
@@ -1002,7 +1029,13 @@
    }
   ],
   "figureFinding": "Thyroid eye disease - proptosis with upper and lower lid retraction and enlarged extraocular muscles on CT; the rehabilitative surgical sequence is decompression, then strabismus surgery, then eyelid surgery.",
-  "pageScanUrl": "/images/promotion-pages/page_248.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_248.jpg",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "The sequence in thyroid eye disease is decompression, then strabismus surgery, then eyelid surgery, and it follows from each step altering the next. Decompression changes globe position and therefore changes the deviation, and strabismus surgery, particularly inferior rectus recession, changes lid position. Operating on the lids first locks in a result that the earlier steps would have undone. All of this is deferred until the disease has been inactive and the measurements stable for several months, the one exception being sight-threatening compressive optic neuropathy."
+  }
  },
  {
   "id": 41,
@@ -1040,7 +1073,13 @@
    }
   ],
   "figureFinding": "Thyroid eye disease with compressive (dysthyroid) optic neuropathy: proptosis, enlarged recti crowding the orbital apex on CT — the sight-threatening indication for urgent orbital decompression.",
-  "pageScanUrl": "/images/promotion-pages/page_248.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_248.jpg",
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "The urgent indication for orbital decompression in thyroid eye disease is dysthyroid optic neuropathy, meaning compressive optic nerve involvement with falling acuity, colour desaturation, an afferent pupillary defect or field loss, typically when high-dose steroids have failed. Pain alone reflects active inflammation and is treated medically with corticosteroids, and now with teprotumumab or orbital radiotherapy, rather than surgically. Sight-threatening corneal exposure from severe proptosis is the other urgent indication; rehabilitative decompression for proptosis is done electively once the disease is quiet."
+  }
  },
  {
   "id": 42,
@@ -1054,7 +1093,13 @@
   "explanation": "Causes such as septic CST that may be acutely life-threatening must be recognized and managed emergently. Intravenous antibiotics must be started immediately for the treatment of an underlying infection. Though controversial, anticoagulation is recommended. Otolaryngology should be consulted to evaluate for the need for surgical drainage of the primary infection. wearing a helmet, but when you see him he has a large ecchymosis over his brow and left upper lid, 20/800 vision in the left eye, impaired color perception in the left eye, Reference: https://eyewiki.org/Cavernous_Sinus_Syndrome a 23-year-old man suffers a closed head injury from a motorcycle accident. He was",
   "year": "2019",
   "subspecialty": "Oculoplastics",
-  "pdfPage": 249
+  "pdfPage": 249,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Septic cavernous sinus thrombosis is usually spreading staphylococcal or streptococcal infection from the paranasal sinuses or mid-face, and immediate broad-spectrum intravenous antibiotics with staphylococcal and anaerobic cover are the life-saving intervention, alongside urgent ENT assessment for drainage of the primary focus. Anticoagulation is used by many centres and is reasonable, but the evidence base is weak, the practice remains controversial, and it is adjunctive rather than definitive. In an obtunded patient the antibiotics go in first and are not delayed for imaging or cultures beyond what can be obtained immediately."
+  }
  },
  {
   "id": 43,
@@ -1070,7 +1115,13 @@
   "explanation": "#eyewiki Treatment involves 1000 mg IV methylprednisolone daily for 3 days followed by an 11 day oral prednisone taper. This treatment has been shown to accelerate visual recovery, but not improve long-term outcomes In myasthenia, characteristic of ptosis? #kanski Ptosis in MG is insidious, bilateral and frequently asymmetrical Typically, worse at the end of the day; Worse on prolonged (60 second) upgaze due to fatigue The 2022 American College of Rheumatology/EULAR classification criteria for GCA[75] include the presence of: Age ≥50 years at diagnosis is an absolute requirement.; Score of ≥6 points, considering:; positive temporal artery biopsy or temporal artery halo sign on ultrasound (+5); erythrocyte sedimentation rate ≥50 mm/hour or C reactive protein ≥10 mg/L (+3); sudden visual loss (+3); morning stiffness in shoulders or neck, jaw or tongue claudication, new temporal",
   "year": "2019",
   "subspecialty": "Neuro-Ophthalmology",
-  "pdfPage": 267
+  "pdfPage": 267,
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "The Optic Neuritis Treatment Trial regimen is intravenous methylprednisolone for three days followed by an oral prednisone taper of about eleven days. The oral component follows rather than replaces the intravenous course because standard-dose oral prednisone used alone was associated with a higher rate of recurrent optic neuritis. Steroids accelerate visual recovery without improving final acuity; the abnormal MRI matters because it marks high risk of conversion to multiple sclerosis, and that patient is referred to neurology for a disease-modifying agent rather than having interferon started in the eye clinic, while pure observation forgoes the recovery benefit."
+  }
  },
  {
   "id": 44,
@@ -1113,7 +1164,13 @@
    }
   ],
   "figureFinding": "Congenital (Cogan-type) ocular motor apraxia: inability to initiate voluntary HORIZONTAL saccades, with compensatory jerky head thrusts (and blinking) that drag the eyes across via the vestibulo-ocular reflex. Vertical saccades and pursuit are spared.",
-  "pageScanUrl": "/images/promotion-pages/page_269.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_269.jpg",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Congenital ocular motor apraxia, as described by Cogan, is a failure to initiate voluntary horizontal saccades, which the child compensates for with the characteristic head thrust and blinking that drags the eyes onto the target. Vertical saccades are normal, and that preservation is the discriminating feature which excludes the vertical options. Smooth pursuit is a separate system mediated through parieto-occipital pathways and is not the defect here, and the vestibulo-ocular reflex is intact, which is precisely why the head thrust works."
+  }
  },
  {
   "id": 45,
@@ -1127,7 +1184,14 @@
   "explanation": "#eyewiki WEBINO Location of lesion: Bilateral INO Wall-Eyed Bilateral Internuclear Ophthalmoplegia exists when there is bilateral damage to the MLF. This damage causes a primary position exotropia (eyes are looking at the opposite $wall.\", thus the possibly outdated term $wall-eyed\"). The most common etiology is infarction of the midbrain in older patients and demyelinating disease in young patients.",
   "year": "2019",
   "subspecialty": "Neuro-Ophthalmology",
-  "pdfPage": 269
+  "pdfPage": 269,
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Adduction failure with abducting nystagmus in the fellow eye is an internuclear ophthalmoplegia from a medial longitudinal fasciculus lesion, and when the second MLF is involved you get bilateral INO with a large-angle exotropia in primary position, the wall-eyed bilateral internuclear ophthalmoplegia or WEBINO. The usual causes are demyelination in a young patient and midbrain infarction in an older one. A PPRF lesion produces a conjugate horizontal gaze palsy toward the side of the lesion, which does not account for a primary-position exotropia, so the mixed MLF and PPRF option does not fit.",
+   "concern": "The recalled phrase abduction defect in both eyes does not fit pure bilateral MLF disease, in which abduction is preserved and merely shows nystagmus. Taking the exotropia as the key finding, bilateral MLF is still the best answer, but the recall is imprecise."
+  }
  },
  {
   "id": 46,
@@ -1144,7 +1208,13 @@
   "pdfPage": 270,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p270_4aacafffd5.jpg",
-  "pageScanUrl": "/images/promotion-pages/page_270.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_270.jpg",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "The corrugator supercilii draws the brows medially and downward and produces the vertical glabellar frown lines between the brows, the so-called eleven lines, which is why it is the botulinum toxin target for that area. The procerus runs vertically over the nasal root and pulls the medial brow down, producing the horizontal crease across the bridge of the nose. Transverse forehead lines come from the frontalis and crow's feet from the orbicularis oculi."
+  }
  },
  {
   "id": 47,
@@ -1159,7 +1229,13 @@
   "explanation": "Mirror test A large mirror is slightly and slowly tilted forward and backward and rotated from side to side in front of the patient (Video 14-1). As in the OKN test, if the patient reports seeing nothing but the examiner notes eye movement with the mirror, then a subjective- objective mismatch has been documented. Because a relative afferent pupil defect can be absent in bilateral disease, it does not prove nonorganic vision loss Reference: Neurophtha AAO book Which nerve affected in IIH?",
   "year": "2019",
   "subspecialty": "Optics",
-  "pdfPage": 270
+  "pdfPage": 270,
+  "review": {
+   "answer": "C",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Optokinetic nystagmus cannot be generated without vision, so a patient who claims blindness yet follows a rotating optokinetic drum has demonstrated sight, which establishes non-organic visual loss. An absent relative afferent pupillary defect proves nothing when the claimed loss is bilateral and symmetric, because a RAPD is a comparative test between the two eyes. The mirror test is a valid technique, but it is a positive response, that is eye movement tracking the tilted mirror, that documents the mismatch; no movement is exactly what genuine blindness would produce."
+  }
  },
  {
   "id": 48,
@@ -1178,7 +1254,14 @@
   "pdfPage": 280,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p281_d0c2be8a75.png",
-  "pageScanUrl": "/images/promotion-pages/page_280.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_280.jpg",
+  "review": {
+   "answer": "B",
+   "agrees": false,
+   "confidence": "medium",
+   "explanation": "Prentice's rule gives prism in dioptres as decentration in centimetres multiplied by lens power, so at 1 cm below the optical centre the right lens induces 8 prism dioptres and the left 4, both base down, because a minus lens behaves like prisms with their bases at the periphery. What the patient actually experiences, and what is clinically meaningful, is the difference between the two eyes, a vertical imbalance of 4 prism dioptres. This is the classic anisometropic reading problem managed with a slab-off, a Fresnel prism or separate reading glasses; 8 is the single-eye value and 12 the sum, both offered as distractors.",
+   "concern": "The recall does not state which eye is being asked about. If the original stem asked for the prism induced in the right eye alone, 8 is correct and the source answer stands. Because the stem asks for one number describing the patient, the induced vertical imbalance of 4 is the better reading of the question."
+  }
  },
  {
   "id": 49,
@@ -1195,7 +1278,13 @@
   "pdfPage": 281,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p279_8d50d04917.png",
-  "pageScanUrl": "/images/promotion-pages/page_281.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_281.jpg",
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Jackson cross cylinder refinement runs in a fixed order: establish the best sphere first, then refine the cylinder axis, then refine the cylinder power, then rebalance the sphere. Axis must precede power because the cross cylinder cannot give a reliable power endpoint while the axis is still wrong. The third step is therefore cylinder power, and remember that for every 0.50 D change in cylinder power the sphere is adjusted by 0.25 D in the opposite direction to hold the spherical equivalent constant."
+  }
  },
  {
   "id": 50,
@@ -1211,7 +1300,14 @@
   "explanation": "- The optical axis is composed of an imaginary line perpendicular to the cornea that intersects the center of the entrance pupil. - the visual axis is an imaginary line that connects the object in space, the center of the entrance and exit pupil, and the center of the fovea. - The pupillary axis is defined as the line that joints the center of the entrance pupil to a point located at the anterior corneal surface, where the local tangent is perpendicular surgery/pupillary-axis-kappa-angle/ Reference: https://eyewiki.aao.org/Optical_Axes_and_Angle_Kappa , https://www.gatinel.com/recherche-formation/centering-corneal-based-refractive-",
   "year": "2019",
   "subspecialty": "Optics",
-  "pdfPage": 281
+  "pdfPage": 281,
+  "review": {
+   "answer": "D",
+   "agrees": true,
+   "confidence": "low",
+   "explanation": "The pupillary axis is the line perpendicular to the corneal surface that passes through the centre of the entrance pupil, and it is what you approximate clinically with the corneal light reflex or by sighting down a direct ophthalmoscope. The visual axis joins the fixation target to the fovea through the nodal points, the optical axis is the line through the centres of curvature of all the refracting surfaces, and angle kappa is the angle between the pupillary axis and the visual axis rather than a line at all, which makes the kappa option a category error.",
+   "concern": "This is a figure-dependent item and I cannot see which line is drawn in red, so the answer is inferred from the option set rather than read off the image. Note also that the source's own definitions are transposed: the line it labels optical axis is in fact the pupillary axis."
+  }
  },
  {
   "id": 51,
@@ -1227,7 +1323,13 @@
   "explanation": "Because of the low oxygen tension in the lens, only about 3% of the lens glucose passes through the citric acid cycle to produce ATP; however, even this low level of aerobic metabolism produces approximately 25% of the ATP of the lens. Reference: Lens and cataract AAO book What's the distance from the anterior corneal surface and the fovea in schematic eye?",
   "year": "2019",
   "subspecialty": "Optics",
-  "pdfPage": 282
+  "pdfPage": 282,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "The lens sits in a low-oxygen environment and runs mainly on anaerobic glycolysis, so only about 3 percent of the glucose entering the lens passes through the citric acid cycle. Because oxidative phosphorylation is so much more efficient per molecule of glucose, that small fraction still supplies roughly a quarter of lens ATP, which is the point of the question. The remainder is handled largely by anaerobic glycolysis, with smaller contributions from the pentose phosphate pathway and the sorbitol pathway, the latter being the route responsible for osmotic diabetic cataract."
+  }
  },
  {
   "id": 52,
@@ -1247,7 +1349,14 @@
   "imageUrls": [
    "/images/promotion/p291_7a8540570a.png"
   ],
-  "pageScanUrl": "/images/promotion-pages/page_290.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_290.jpg",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "low",
+   "explanation": "Chlamydial conjunctivitis is the follicular one, with a chronic follicular reaction, superior pannus, and basophilic intracytoplasmic inclusion bodies within epithelial cells on Giemsa staining, accompanied by lymphocytes and plasma cells. Neisseria gonorrhoeae produces a hyperacute, copiously purulent, papillary conjunctivitis with marked preauricular adenopathy and a real risk of corneal melt and perforation, and its smear shows gram-negative intracellular diplococci inside neutrophils. Read the slide accordingly: inclusion bodies with a lymphoplasmacytic follicular infiltrate is chlamydia, sheets of neutrophils containing diplococci is Neisseria.",
+   "concern": "I cannot see the slide, so this rests on the source's description of a follicular conjunctivitis rather than on the image itself."
+  }
  },
  {
   "id": 53,
@@ -1266,6 +1375,12 @@
   "imageUrl": "/images/promotion/p291_2a7e78094a.jpg",
   "imageUrls": [
    "/images/promotion/p291_43810faa47.png"
-  ]
+  ],
+  "review": {
+   "answer": "C",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "In retinoblastoma the histopathological features that predict metastatic risk are those showing extension beyond the retina: post-laminar optic nerve invasion, and above all tumour reaching the cut surgical margin, together with massive choroidal invasion, scleral or extrascleral extension and anterior segment involvement. Optic nerve invasion is the route to the subarachnoid space and central nervous system, which is why it drives the decision to give adjuvant chemotherapy. Brisk mitotic activity and necrosis with calcification are near-universal in retinoblastoma and do not independently stratify prognosis, and rosettes indicate degree of differentiation rather than outcome, with Flexner-Wintersteiner rosettes being the more tumour-specific form."
+  }
  }
 ]
