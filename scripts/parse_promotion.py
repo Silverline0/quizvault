@@ -1067,6 +1067,58 @@ def bind_images(questions, extra_anchors, barriers, by_page):
     return used, orphans
 
 
+# A stem that names its own picture: these questions are unanswerable without
+# the figure, so a missing one is a hard failure rather than a cosmetic gap.
+DEMANDS_FIGURE_RE = re.compile(
+    r"\b(photo(graph)?\s+(shown|above|attached)|pictured\s+above|exact\s+pict"
+    r"|picture\s+(shown|above|attached|of)|image\s+(shown|above|showing)"
+    r"|shown\s+(in\s+the\s+)?(photo|picture|image|figure)|see\s+(the\s+)?pic"
+    r"|as\s+shown|attached\s+(picture|photo|image)"
+    r"|exactly\s+this\s+(picture|photo|image)|this\s+exact\s+(picture|photo|image)"
+    r"|same\s+(exact\s+)?(picture|photo|pic))", re.I)
+
+
+def reclaim_demanded_figures(questions, extra_anchors, by_page):
+    """
+    Give a figure back to a question that explicitly asks for one.
+
+    Boundary anchors stop drift, but any figure they claim is displayed nowhere.
+    When a published question names its own picture, has none, and exactly one
+    figure sits unshown within its span on its own page, that figure is far more
+    likely to be the one it means than to belong to the silent recall that
+    happens to bracket it.
+    """
+    published = sorted(questions, key=lambda q: (q.page, q.y0))
+    silent = [a for a in extra_anchors if a.images]
+    held = {}
+    for a in silent:
+        for path in a.images:
+            held.setdefault(path, a)
+
+    reclaimed = 0
+    for idx, q in enumerate(published):
+        if q.images or not DEMANDS_FIGURE_RE.search(q.stem):
+            continue
+        nxt = published[idx + 1] if idx + 1 < len(published) else None
+        end_y = nxt.y0 if (nxt and nxt.page == q.page) else 10 ** 6
+
+        candidates = []
+        for (iy0, iy1, xref, path) in by_page.get(q.page, []):
+            owner = held.get(path)
+            if owner is None or path not in owner.images:
+                continue
+            # Same span the question itself occupies, give or take a baseline.
+            if iy1 > q.y0 - BASELINE_SLACK and iy0 < end_y + BASELINE_SLACK:
+                candidates.append((iy0, path, owner))
+        if len(candidates) != 1:
+            continue                      # ambiguous -- leave it unshown
+        _, path, owner = candidates[0]
+        owner.images.remove(path)
+        q.images.append(path)
+        reclaimed += 1
+    return reclaimed
+
+
 # --------------------------------------------------------------------------
 # Emission
 # --------------------------------------------------------------------------
@@ -1391,6 +1443,9 @@ def main():
     print(f"  recall boundaries from answer lines: {len(section_anchors)}")
     _, orphans = bind_images(all_questions, screenshot_only + section_anchors,
                              barriers, by_page)
+    reclaimed = reclaim_demanded_figures(all_questions,
+                                         screenshot_only + section_anchors,
+                                         by_page)
     questions, rejects = build(all_questions)
 
     shots = [{"page": a.page, "number": a.number, "images": a.images}
@@ -1399,6 +1454,7 @@ def main():
     print(f"  rejected:          {len(rejects)}")
     print(f"  orphan images:     {len(orphans)}")
     print(f"  screenshot-only recalls (no text layer, excluded): {len(shots)}")
+    print(f"  figures returned to questions that name a picture: {reclaimed}")
 
     per_year = collections.Counter(q["year"] for q in questions)
     banks = bank_layout(per_year)
