@@ -15,7 +15,8 @@
   "subspecialty": "Anterior Segment",
   "pdfPage": 86,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p086_d49f0a8526.png"
+  "imageUrl": "/images/promotion/p086_d49f0a8526.png",
+  "pageScanUrl": "/images/promotion-pages/page_086.jpg"
  },
  {
   "id": 2,
@@ -46,7 +47,8 @@
     "shows": "Slit-lamp photographs of markedly prominent bilateral corneal nerves, with the MEN2B / NF1 / leprosy differential and the autosomal dominant inheritance"
    }
   ],
-  "figureFinding": "Uncertain. Best inference from context: slit-lamp photo of prominent/enlarged corneal nerves, whose causes (neurofibromatosis, MEN 2A/2B, mucosal neuroma syndrome) are autosomal dominant"
+  "figureFinding": "Uncertain. Best inference from context: slit-lamp photo of prominent/enlarged corneal nerves, whose causes (neurofibromatosis, MEN 2A/2B, mucosal neuroma syndrome) are autosomal dominant",
+  "pageScanUrl": "/images/promotion-pages/page_086.jpg"
  },
  {
   "id": 3,
@@ -79,7 +81,8 @@
   "subspecialty": "Anterior Segment",
   "pdfPage": 87,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p087_02077fe17b.jpg"
+  "imageUrl": "/images/promotion/p087_02077fe17b.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_087.jpg"
  },
  {
   "id": 5,
@@ -129,7 +132,8 @@
   "subspecialty": "Anterior Segment",
   "pdfPage": 88,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p088_1b009329fd.png"
+  "imageUrl": "/images/promotion/p088_1b009329fd.png",
+  "pageScanUrl": "/images/promotion-pages/page_088.jpg"
  },
  {
   "id": 8,
@@ -333,7 +337,8 @@
     "shows": "Clinical application of excimer ablation to reshape the corneal stroma"
    }
   ],
-  "figureFinding": "Excimer laser mechanism — 193 nm argon-fluoride ultraviolet photoablation that breaks covalent bonds without thermal spread to adjacent tissue"
+  "figureFinding": "Excimer laser mechanism — 193 nm argon-fluoride ultraviolet photoablation that breaks covalent bonds without thermal spread to adjacent tissue",
+  "pageScanUrl": "/images/promotion-pages/page_091.jpg"
  },
  {
   "id": 20,
@@ -433,7 +438,8 @@
   "subspecialty": "Glaucoma",
   "pdfPage": 94,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p095_77d53a5a99.png"
+  "imageUrl": "/images/promotion/p095_77d53a5a99.png",
+  "pageScanUrl": "/images/promotion-pages/page_094.jpg"
  },
  {
   "id": 26,
@@ -514,7 +520,8 @@
     "shows": "Clinical photograph of an encapsulated filtering bleb / Tenon's cyst with raised IOP"
    }
   ],
-  "figureFinding": "Encapsulated bleb (Tenon cyst) over the extraocular plate of a glaucoma drainage device causing the hypertensive phase of raised IOP at 4-8 weeks"
+  "figureFinding": "Encapsulated bleb (Tenon cyst) over the extraocular plate of a glaucoma drainage device causing the hypertensive phase of raised IOP at 4-8 weeks",
+  "pageScanUrl": "/images/promotion-pages/page_096.jpg"
  },
  {
   "id": 30,
@@ -601,7 +608,8 @@
     "shows": "Downstream consequence of the same over-filtration state, with imaging"
    }
   ],
-  "figureFinding": "Over-filtration on day 1 after trabeculectomy — large diffuse bleb, shallow anterior chamber, IOP 2, annular choroidal detachment/effusion, Seidel negative"
+  "figureFinding": "Over-filtration on day 1 after trabeculectomy — large diffuse bleb, shallow anterior chamber, IOP 2, annular choroidal detachment/effusion, Seidel negative",
+  "pageScanUrl": "/images/promotion-pages/page_097.jpg"
  },
  {
   "id": 34,
@@ -714,7 +722,8 @@
     "shows": "Culture data: Streptococcus species 55% of vitreous isolates, coagulase-negative staphylococci 20%"
    }
   ],
-  "figureFinding": "Late-onset bleb-related endophthalmitis — inflamed white bleb with surrounding injection, hypopyon and vitritis months to years after trabeculectomy; Streptococcus species (gram-positive cocci in chains) predominate"
+  "figureFinding": "Late-onset bleb-related endophthalmitis — inflamed white bleb with surrounding injection, hypopyon and vitritis months to years after trabeculectomy; Streptococcus species (gram-positive cocci in chains) predominate",
+  "pageScanUrl": "/images/promotion-pages/page_099.jpg"
  },
  {
   "id": 40,
@@ -775,7 +784,8 @@
     "shows": "Side-by-side labelled fundus photographs of ischaemic vs non-ischaemic CRVO"
    }
   ],
-  "figureFinding": "Most likely central retinal vein occlusion — fundus with diffuse four-quadrant flame haemorrhages, dilated tortuous veins and disc oedema; fluorescein angiography grades capillary non-perfusion (ischaemic vs non-ischaemic) and is what predicts visual outcome"
+  "figureFinding": "Most likely central retinal vein occlusion — fundus with diffuse four-quadrant flame haemorrhages, dilated tortuous veins and disc oedema; fluorescein angiography grades capillary non-perfusion (ischaemic vs non-ischaemic) and is what predicts visual outcome",
+  "pageScanUrl": "/images/promotion-pages/page_100.jpg"
  },
  {
   "id": 43,
@@ -940,7 +950,8 @@
   "subspecialty": "Pediatrics",
   "pdfPage": 105,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p106_72c072569f.jpg"
+  "imageUrl": "/images/promotion/p106_72c072569f.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_105.jpg"
  },
  {
   "id": 53,
@@ -988,7 +999,8 @@
   "subspecialty": "Pediatrics",
   "pdfPage": 107,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p107_75acb4174b.jpg"
+  "imageUrl": "/images/promotion/p107_75acb4174b.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_107.jpg"
  },
  {
   "id": 56,
@@ -1141,7 +1153,8 @@
     "shows": "Reconstruction algorithm by defect size with many intraoperative photographs — direct/primary closure for small defects, Tenzel semicircular flap for moderate ones"
    }
   ],
-  "figureFinding": "Small full-thickness eyelid defect after excision of a lid-margin lesion — defects up to roughly a quarter to a third of the lid are closed directly (primary closure); a Tenzel semicircular flap is reserved for larger defects"
+  "figureFinding": "Small full-thickness eyelid defect after excision of a lid-margin lesion — defects up to roughly a quarter to a third of the lid are closed directly (primary closure); a Tenzel semicircular flap is reserved for larger defects",
+  "pageScanUrl": "/images/promotion-pages/page_110.jpg"
  },
  {
   "id": 65,
@@ -1206,7 +1219,8 @@
     "shows": "Clinical photographs of a salmon-pink conjunctival lesion before and one month after 30 Gy external beam radiotherapy"
    }
   ],
-  "figureFinding": "Conjunctival lymphoma — smooth, mobile, salmon-pink 'salmon patch' in the fornix/bulbar conjunctiva, with sheets of small monotonous lymphocytes on histopathology; localized disease is treated with external beam radiotherapy"
+  "figureFinding": "Conjunctival lymphoma — smooth, mobile, salmon-pink 'salmon patch' in the fornix/bulbar conjunctiva, with sheets of small monotonous lymphocytes on histopathology; localized disease is treated with external beam radiotherapy",
+  "pageScanUrl": "/images/promotion-pages/page_111.jpg"
  },
  {
   "id": 68,
@@ -1286,7 +1300,8 @@
   "subspecialty": "Neuro-Ophthalmology",
   "pdfPage": 112,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p112_4c15a08c1d.jpg"
+  "imageUrl": "/images/promotion/p112_4c15a08c1d.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_112.jpg"
  },
  {
   "id": 73,
@@ -1382,7 +1397,8 @@
     "shows": "Colour fundus photos of an affected left eye (deep cup, peripapillary atrophy/gliosis, straight radial vessels) with the fellow normal eye; acuity in the affected eye was counting fingers"
    }
   ],
-  "figureFinding": "Morning glory disc anomaly — enlarged funnel-shaped excavated disc with a central glial tuft, surrounding chorioretinal pigment ring and straightened radial vessels; acuity ranges widely, from near-normal down to light perception"
+  "figureFinding": "Morning glory disc anomaly — enlarged funnel-shaped excavated disc with a central glial tuft, surrounding chorioretinal pigment ring and straightened radial vessels; acuity ranges widely, from near-normal down to light perception",
+  "pageScanUrl": "/images/promotion-pages/page_114.jpg"
  },
  {
   "id": 78,
@@ -1479,7 +1495,8 @@
   "subspecialty": "Optics",
   "pdfPage": 116,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p116_1b01051305.jpg"
+  "imageUrl": "/images/promotion/p116_1b01051305.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_116.jpg"
  },
  {
   "id": 84,
@@ -1540,7 +1557,8 @@
     "shows": "Chlamydia trachomatis ocular disease including Giemsa-stained inclusion body diagnosis and follicular conjunctival findings"
    }
   ],
-  "figureFinding": "Adult chlamydial (inclusion) conjunctivitis — Giemsa-stained conjunctival scraping showing basophilic intracytoplasmic inclusion bodies (Halberstaedter-Prowazek bodies) in epithelial cells, with chronic follicular conjunctivitis clinically"
+  "figureFinding": "Adult chlamydial (inclusion) conjunctivitis — Giemsa-stained conjunctival scraping showing basophilic intracytoplasmic inclusion bodies (Halberstaedter-Prowazek bodies) in epithelial cells, with chronic follicular conjunctivitis clinically",
+  "pageScanUrl": "/images/promotion-pages/page_117.jpg"
  },
  {
   "id": 87,
@@ -1571,7 +1589,8 @@
     "shows": "Case with clinical and histopathologic images; the lesion mimicked chalazion and blepharoconjunctivitis, with atypical Meibomian glands on wedge biopsy"
    }
   ],
-  "figureFinding": "Sebaceous (gland) carcinoma of the eyelid on histopathology — lobules of atypical cells with foamy lipid-laden vacuolated cytoplasm and pagetoid intraepithelial spread; it characteristically presents as unilateral chronic blepharoconjunctivitis or a recurrent chalazion"
+  "figureFinding": "Sebaceous (gland) carcinoma of the eyelid on histopathology — lobules of atypical cells with foamy lipid-laden vacuolated cytoplasm and pagetoid intraepithelial spread; it characteristically presents as unilateral chronic blepharoconjunctivitis or a recurrent chalazion",
+  "pageScanUrl": "/images/promotion-pages/page_117.jpg"
  },
  {
   "id": 88,
@@ -1602,7 +1621,8 @@
     "shows": "Side-by-side clinical and histology images of SCC (ulcerated centre with smooth rim, keratin pearls, intercellular bridges) against BCC and sebaceous carcinoma — useful for working through all four options"
    }
   ],
-  "figureFinding": "Squamous cell carcinoma of the eyelid — ulcerated, hyperkeratotic lower lid/lid-margin mass; biopsy shows invasive nests of atypical squamous cells with keratin pearls and intercellular bridges"
+  "figureFinding": "Squamous cell carcinoma of the eyelid — ulcerated, hyperkeratotic lower lid/lid-margin mass; biopsy shows invasive nests of atypical squamous cells with keratin pearls and intercellular bridges",
+  "pageScanUrl": "/images/promotion-pages/page_118.jpg"
  },
  {
   "id": 89,
@@ -1638,7 +1658,8 @@
   "subspecialty": "Pathology",
   "pdfPage": 119,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p120_28cb4491be.jpg"
+  "imageUrl": "/images/promotion/p120_28cb4491be.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_119.jpg"
  },
  {
   "id": 91,

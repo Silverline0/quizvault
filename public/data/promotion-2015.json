@@ -97,7 +97,8 @@
   "subspecialty": "Retina",
   "pdfPage": 454,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p454_7b6d7479c1.png"
+  "imageUrl": "/images/promotion/p454_7b6d7479c1.png",
+  "pageScanUrl": "/images/promotion-pages/page_454.jpg"
  },
  {
   "id": 7,
@@ -191,7 +192,8 @@
   "subspecialty": "Optics",
   "pdfPage": 466,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p466_0f116fcd51.png"
+  "imageUrl": "/images/promotion/p466_0f116fcd51.png",
+  "pageScanUrl": "/images/promotion-pages/page_466.jpg"
  },
  {
   "id": 13,
@@ -209,7 +211,8 @@
   "subspecialty": "Optics",
   "pdfPage": 466,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p467_2ee7680b20.jpg"
+  "imageUrl": "/images/promotion/p467_2ee7680b20.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_466.jpg"
  },
  {
   "id": 14,
@@ -904,7 +907,8 @@
   "subspecialty": "Glaucoma",
   "pdfPage": 498,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p499_b1be6f8a2a.png"
+  "imageUrl": "/images/promotion/p499_b1be6f8a2a.png",
+  "pageScanUrl": "/images/promotion-pages/page_498.jpg"
  },
  {
   "id": 59,
@@ -985,7 +989,8 @@
   "subspecialty": "Glaucoma",
   "pdfPage": 501,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p501_901eb3f9c7.png"
+  "imageUrl": "/images/promotion/p501_901eb3f9c7.png",
+  "pageScanUrl": "/images/promotion-pages/page_501.jpg"
  },
  {
   "id": 64,
@@ -1019,7 +1024,8 @@
   "subspecialty": "Glaucoma",
   "pdfPage": 502,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p502_e4ddb6344b.png"
+  "imageUrl": "/images/promotion/p502_e4ddb6344b.png",
+  "pageScanUrl": "/images/promotion-pages/page_502.jpg"
  },
  {
   "id": 66,
@@ -1068,7 +1074,8 @@
   "subspecialty": "Glaucoma",
   "pdfPage": 504,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p505_0f9c706199.png"
+  "imageUrl": "/images/promotion/p505_0f9c706199.png",
+  "pageScanUrl": "/images/promotion-pages/page_504.jpg"
  },
  {
   "id": 69,
@@ -1355,6 +1362,7 @@
   "imageUrl": "/images/promotion/p514_6794f3423a.jpg",
   "imageUrls": [
    "/images/promotion/p514_7de94ec30e.png"
-  ]
+  ],
+  "pageScanUrl": "/images/promotion-pages/page_514.jpg"
  }
 ]

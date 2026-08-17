@@ -54,3 +54,5 @@ scripts/figures/fig_batch_*.json
 .vercel/
 
 .vercel
+scripts/review/review_batch_*.json
+scripts/unkeyed/unkeyed_batch_*.json

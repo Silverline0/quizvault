@@ -200,7 +200,8 @@
   "subspecialty": "Anterior Segment",
   "pdfPage": 8,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p008_5b304ad46c.png"
+  "imageUrl": "/images/promotion/p008_5b304ad46c.png",
+  "pageScanUrl": "/images/promotion-pages/page_008.jpg"
  },
  {
   "id": 14,
@@ -731,7 +732,8 @@
     "shows": "Defines hypotony (IOP under about 6.5 mmHg), describes the chorioretinal folds and disc swelling of hypotony maculopathy, and identifies glaucoma filtering surgery as the most common cause (incidence 1.3-18%), with causes, risk factors and management"
    }
   ],
-  "figureFinding": "No figure is required - this stem describes a case in words and asks a knowledge question, with no picture referenced. The relevant reference material is glaucoma drainage device (tube shunt) surgery and its complication profile, in which early postoperative hypotony - often with choroidal effusion and hypotony maculopathy - is the commonest problem, especially with non-valved implants."
+  "figureFinding": "No figure is required - this stem describes a case in words and asks a knowledge question, with no picture referenced. The relevant reference material is glaucoma drainage device (tube shunt) surgery and its complication profile, in which early postoperative hypotony - often with choroidal effusion and hypotony maculopathy - is the commonest problem, especially with non-valved implants.",
+  "pageScanUrl": "/images/promotion-pages/page_022.jpg"
  },
  {
   "id": 47,
@@ -762,7 +764,8 @@
     "shows": "Text reference: disc oedema always present acutely, splinter haemorrhages in nearly three-quarters of patients, dyschromatopsia as a sensitive sign, majority with altitudinal (inferior most common) field loss, and explicit comparisons against optic neuritis and arteritic AION"
    }
   ],
-  "figureFinding": "Non-arteritic anterior ischemic optic neuropathy (NAION): fundus photograph of a hyperaemic, often segmentally swollen optic disc with peripapillary splinter haemorrhages arising in a small crowded 'disc at risk', accompanied by a visual field showing an altitudinal (usually inferior) defect respecting the horizontal midline, with reduced acuity, a RAPD and dyschromatopsia."
+  "figureFinding": "Non-arteritic anterior ischemic optic neuropathy (NAION): fundus photograph of a hyperaemic, often segmentally swollen optic disc with peripapillary splinter haemorrhages arising in a small crowded 'disc at risk', accompanied by a visual field showing an altitudinal (usually inferior) defect respecting the horizontal midline, with reduced acuity, a RAPD and dyschromatopsia.",
+  "pageScanUrl": "/images/promotion-pages/page_023.jpg"
  },
  {
   "id": 48,
@@ -878,7 +881,8 @@
     "shows": "Openly licensed papilledema images including a 'Fundus of papilledema' subcategory - useful if a freely reusable figure is wanted"
    }
   ],
-  "figureFinding": "Bilateral papilledema: both optic discs elevated with blurred, obscured margins, loss of spontaneous venous pulsation, peripapillary haemorrhages and vessel obscuration - in an overweight young woman with transient visual obscurations on standing or bending (postural), i.e. idiopathic intracranial hypertension."
+  "figureFinding": "Bilateral papilledema: both optic discs elevated with blurred, obscured margins, loss of spontaneous venous pulsation, peripapillary haemorrhages and vessel obscuration - in an overweight young woman with transient visual obscurations on standing or bending (postural), i.e. idiopathic intracranial hypertension.",
+  "pageScanUrl": "/images/promotion-pages/page_026.jpg"
  },
  {
   "id": 54,
@@ -955,7 +959,8 @@
     "shows": "Colour fundus photographs comparing a normal right eye with the anomalous left optic nerve (deep cup, peripapillary atrophy and gliosis, straight radial peripapillary vessels), plus OCT. Explicitly lists basal encephalocele of the transsphenoidal type among the CNS associations and notes moyamoya in up to 45%, with a recommendation for MRI/MRA"
    }
   ],
-  "figureFinding": "Morning glory disc anomaly: an enlarged, funnel-shaped excavated optic disc with a central white glial tuft, a surrounding raised annulus of chorioretinal pigment disturbance, and straight, radially emerging retinal vessels - resembling the morning glory flower. Its key systemic association is a transsphenoidal basal encephalocele (plus moyamoya vasculopathy and midline craniofacial defects)."
+  "figureFinding": "Morning glory disc anomaly: an enlarged, funnel-shaped excavated optic disc with a central white glial tuft, a surrounding raised annulus of chorioretinal pigment disturbance, and straight, radially emerging retinal vessels - resembling the morning glory flower. Its key systemic association is a transsphenoidal basal encephalocele (plus moyamoya vasculopathy and midline craniofacial defects).",
+  "pageScanUrl": "/images/promotion-pages/page_028.jpg"
  },
  {
   "id": 58,
@@ -1111,7 +1116,8 @@
     "shows": "Figure 8 shows eyelid retraction with Dalrymple's sign and both superior and inferior scleral show; Figures 12-13 illustrate restrictive strabismus; the text states the inferior and medial rectus muscles are most commonly affected, producing hypotropia and esotropia respectively. Also shows lagophthalmos, temporal flare, exophthalmos and CT of compressive optic neuropathy"
    }
   ],
-  "figureFinding": "Thyroid eye disease: left upper eyelid retraction with superior scleral show (Dalrymple sign) and a hypotropic left eye with limited elevation, caused by a fibrotic, restricted INFERIOR RECTUS - the most commonly involved extraocular muscle in TED."
+  "figureFinding": "Thyroid eye disease: left upper eyelid retraction with superior scleral show (Dalrymple sign) and a hypotropic left eye with limited elevation, caused by a fibrotic, restricted INFERIOR RECTUS - the most commonly involved extraocular muscle in TED.",
+  "pageScanUrl": "/images/promotion-pages/page_031.jpg"
  },
  {
   "id": 67,
@@ -1338,6 +1344,7 @@
     "shows": "Defines the prism dioptre (1 cm of deviation at 1 metre) and applies Prentice's rule - prismatic effect equals lens power multiplied by distance from the optical centre, with no prismatic effect at the centre - plus the clinical uses of prisms"
    }
   ],
-  "figureFinding": "No clinical figure is needed - this is a Prentice's rule calculation. Prism (in prism dioptres) = lens power in dioptres x decentration from the optical centre in cm. Looking 1 cm below the optical centre induces 8 prism dioptres in the -8 D right lens and 4 prism dioptres in the -4 D left lens; because the induced prism is in the same direction in both eyes, the net vertical imbalance BETWEEN the eyes is 8 - 4 = 4 prism dioptres."
+  "figureFinding": "No clinical figure is needed - this is a Prentice's rule calculation. Prism (in prism dioptres) = lens power in dioptres x decentration from the optical centre in cm. Looking 1 cm below the optical centre induces 8 prism dioptres in the -8 D right lens and 4 prism dioptres in the -4 D left lens; because the induced prism is in the same direction in both eyes, the net vertical imbalance BETWEEN the eyes is 8 - 4 = 4 prism dioptres.",
+  "pageScanUrl": "/images/promotion-pages/page_038.jpg"
  }
 ]

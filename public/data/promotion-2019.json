@@ -29,7 +29,8 @@
   "subspecialty": "Anterior Segment",
   "pdfPage": 137,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p138_b46582ca7a.jpg"
+  "imageUrl": "/images/promotion/p138_b46582ca7a.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_137.jpg"
  },
  {
   "id": 3,
@@ -70,7 +71,8 @@
     "shows": "Clinical photographs of limbal laceration with uveal prolapse and an inferotemporal scleral tear; describes conjunctival peritomy as the first surgical step to assess the true extent of a scleral laceration"
    }
   ],
-  "figureFinding": "Post-traumatic conjunctival laceration with ballooning/bullous (often 360-degree) subconjunctival haemorrhage and chemosis obscuring the sclera - the classic appearance of a suspected OCCULT scleral rupture."
+  "figureFinding": "Post-traumatic conjunctival laceration with ballooning/bullous (often 360-degree) subconjunctival haemorrhage and chemosis obscuring the sclera - the classic appearance of a suspected OCCULT scleral rupture.",
+  "pageScanUrl": "/images/promotion-pages/page_140.jpg"
  },
  {
   "id": 4,
@@ -87,7 +89,8 @@
   "subspecialty": "Anterior Segment",
   "pdfPage": 141,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p141_904f6e3083.jpg"
+  "imageUrl": "/images/promotion/p141_904f6e3083.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_141.jpg"
  },
  {
   "id": 5,
@@ -182,7 +185,8 @@
   "imageUrl": "/images/promotion/p165_1cf91eb6af.jpg",
   "imageUrls": [
    "/images/promotion/p165_a7afcb68df.jpg"
-  ]
+  ],
+  "pageScanUrl": "/images/promotion-pages/page_165.jpg"
  },
  {
   "id": 11,
@@ -199,7 +203,8 @@
   "subspecialty": "Retina",
   "pdfPage": 167,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p167_6fb2629d47.jpg"
+  "imageUrl": "/images/promotion/p167_6fb2629d47.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_167.jpg"
  },
  {
   "id": 12,
@@ -215,7 +220,8 @@
   "subspecialty": "Retina",
   "pdfPage": 168,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p168_8e2d3f68a1.jpg"
+  "imageUrl": "/images/promotion/p168_8e2d3f68a1.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_168.jpg"
  },
  {
   "id": 13,
@@ -266,7 +272,8 @@
   "imageUrls": [
    "/images/promotion/p185_33a46f3ded.jpg",
    "/images/promotion/p185_90e0f739bc.jpg"
-  ]
+  ],
+  "pageScanUrl": "/images/promotion-pages/page_184.jpg"
  },
  {
   "id": 16,
@@ -292,7 +299,8 @@
     "shows": "Fundus photograph of the characteristic birdshot lesion pattern plus an angiography image; text gives the HLA-A29 association as 80-98% of patients versus ~7% of the general population, a 50- to 224-fold relative risk"
    }
   ],
-  "figureFinding": "Birdshot retinochoroidopathy fundus - multiple cream-coloured to yellow-orange ovoid choroidal lesions radiating from the disc toward the periphery, mainly nasal/inferonasal, with vitritis."
+  "figureFinding": "Birdshot retinochoroidopathy fundus - multiple cream-coloured to yellow-orange ovoid choroidal lesions radiating from the disc toward the periphery, mainly nasal/inferonasal, with vitritis.",
+  "pageScanUrl": "/images/promotion-pages/page_185.jpg"
  },
  {
   "id": 17,
@@ -312,7 +320,8 @@
   "imageUrl": "/images/promotion/p185_ec5ba24d6c.jpg",
   "imageUrls": [
    "/images/promotion/p186_1e6eeb3fbb.png"
-  ]
+  ],
+  "pageScanUrl": "/images/promotion-pages/page_185.jpg"
  },
  {
   "id": 18,
@@ -409,7 +418,8 @@
     "shows": "Angle anatomy (Schwalbe line, trabecular meshwork, scleral spur, ciliary body band) and the Shaffer, Scheie, Spaeth and Van Herick grading systems for narrow angles, with two gonioscopic photographs"
    }
   ],
-  "figureFinding": "Gonioscopy of a narrow (occludable) but still open anterior chamber angle - trabecular meshwork not visible for most of the circumference, no PAS and no angle neovascularisation - in a patient with intermittent/subacute angle closure."
+  "figureFinding": "Gonioscopy of a narrow (occludable) but still open anterior chamber angle - trabecular meshwork not visible for most of the circumference, no PAS and no angle neovascularisation - in a patient with intermittent/subacute angle closure.",
+  "pageScanUrl": "/images/promotion-pages/page_202.jpg"
  },
  {
   "id": 23,
@@ -442,7 +452,8 @@
     "shows": "CT image of a large left orbital floor fracture; covers herniation, dysmotility, thin-cut coronal CT protocol and the conventional indications/timing for repair"
    }
   ],
-  "figureFinding": "Coronal CT of the orbit showing an orbital floor (blowout) fracture with the inferior rectus herniated into the maxillary sinus - the trapdoor/white-eyed pattern in a child with restricted upgaze."
+  "figureFinding": "Coronal CT of the orbit showing an orbital floor (blowout) fracture with the inferior rectus herniated into the maxillary sinus - the trapdoor/white-eyed pattern in a child with restricted upgaze.",
+  "pageScanUrl": "/images/promotion-pages/page_218.jpg"
  },
  {
   "id": 24,
@@ -503,7 +514,8 @@
   "subspecialty": "Pediatrics",
   "pdfPage": 223,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p223_f12ff125e4.jpg"
+  "imageUrl": "/images/promotion/p223_f12ff125e4.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_223.jpg"
  },
  {
   "id": 28,
@@ -535,7 +547,8 @@
   "subspecialty": "Pediatrics",
   "pdfPage": 224,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p224_a42636296c.jpg"
+  "imageUrl": "/images/promotion/p224_a42636296c.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_224.jpg"
  },
  {
   "id": 30,
@@ -582,7 +595,8 @@
     "shows": "Clinical description (very fair skin, white or light hair, reduced iris and retinal pigment, reduced acuity, nystagmus, strabismus, photophobia) and the inheritance statement that both gene copies must carry a variant and that carrier parents typically show no signs"
    }
   ],
-  "figureFinding": "Oculocutaneous albinism - markedly hypopigmented skin, white/blond hair and light irides, with iris transillumination defects, nystagmus, a hypopigmented fundus and foveal hypoplasia on OCT."
+  "figureFinding": "Oculocutaneous albinism - markedly hypopigmented skin, white/blond hair and light irides, with iris transillumination defects, nystagmus, a hypopigmented fundus and foveal hypoplasia on OCT.",
+  "pageScanUrl": "/images/promotion-pages/page_225.jpg"
  },
  {
   "id": 32,
@@ -635,7 +649,8 @@
     "shows": "Two clinical photographs of eyelid basal cell carcinoma including the morpheaform type, with ulceration, telangiectasia and madarosis - the main clinical mimic to compare against"
    }
   ],
-  "figureFinding": "Ulcerated lower-eyelid malignancy - an indurated nodule/plaque with a red base and well-defined, hardened, everted edges (squamous cell carcinoma), with histology showing keratin pearls and intercellular bridges."
+  "figureFinding": "Ulcerated lower-eyelid malignancy - an indurated nodule/plaque with a red base and well-defined, hardened, everted edges (squamous cell carcinoma), with histology showing keratin pearls and intercellular bridges.",
+  "pageScanUrl": "/images/promotion-pages/page_241.jpg"
  },
  {
   "id": 34,
@@ -685,7 +700,8 @@
   "subspecialty": "Oculoplastics",
   "pdfPage": 246,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p246_d775feaa34.jpg"
+  "imageUrl": "/images/promotion/p246_d775feaa34.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_246.jpg"
  },
  {
   "id": 37,
@@ -702,7 +718,8 @@
   "subspecialty": "Oculoplastics",
   "pdfPage": 246,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p246_f49755607e.jpg"
+  "imageUrl": "/images/promotion/p246_f49755607e.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_246.jpg"
  },
  {
   "id": 38,
@@ -766,7 +783,8 @@
     "shows": "Before-and-after clinical photographs of a thyroid eye disease patient following bilateral orbital decompression, plus orbital bone anatomy; states strabismus surgery to correct diplopia or misalignment should occur after orbital decompression has been completed"
    }
   ],
-  "figureFinding": "Thyroid eye disease - proptosis with upper and lower lid retraction and enlarged extraocular muscles on CT; the rehabilitative surgical sequence is decompression, then strabismus surgery, then eyelid surgery."
+  "figureFinding": "Thyroid eye disease - proptosis with upper and lower lid retraction and enlarged extraocular muscles on CT; the rehabilitative surgical sequence is decompression, then strabismus surgery, then eyelid surgery.",
+  "pageScanUrl": "/images/promotion-pages/page_248.jpg"
  },
  {
   "id": 41,
@@ -803,7 +821,8 @@
     "shows": "Axial CT with exophthalmos and asterisked enlarged extraocular muscles, eyelid retraction with MRD1/MRD2 measurement, and before/after treatment photos"
    }
   ],
-  "figureFinding": "Thyroid eye disease with compressive (dysthyroid) optic neuropathy: proptosis, enlarged recti crowding the orbital apex on CT — the sight-threatening indication for urgent orbital decompression."
+  "figureFinding": "Thyroid eye disease with compressive (dysthyroid) optic neuropathy: proptosis, enlarged recti crowding the orbital apex on CT — the sight-threatening indication for urgent orbital decompression.",
+  "pageScanUrl": "/images/promotion-pages/page_248.jpg"
  },
  {
   "id": 42,
@@ -875,7 +894,8 @@
     "shows": "Plain-language statement that OMA 'makes it hard to move the eyes from side to side' and that children move the head quickly instead. No images on the page"
    }
   ],
-  "figureFinding": "Congenital (Cogan-type) ocular motor apraxia: inability to initiate voluntary HORIZONTAL saccades, with compensatory jerky head thrusts (and blinking) that drag the eyes across via the vestibulo-ocular reflex. Vertical saccades and pursuit are spared."
+  "figureFinding": "Congenital (Cogan-type) ocular motor apraxia: inability to initiate voluntary HORIZONTAL saccades, with compensatory jerky head thrusts (and blinking) that drag the eyes across via the vestibulo-ocular reflex. Vertical saccades and pursuit are spared.",
+  "pageScanUrl": "/images/promotion-pages/page_269.jpg"
  },
  {
   "id": 45,
@@ -905,7 +925,8 @@
   "subspecialty": "Optics",
   "pdfPage": 270,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p270_4aacafffd5.jpg"
+  "imageUrl": "/images/promotion/p270_4aacafffd5.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_270.jpg"
  },
  {
   "id": 47,
@@ -938,7 +959,8 @@
   "subspecialty": "Optics",
   "pdfPage": 280,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p281_d0c2be8a75.png"
+  "imageUrl": "/images/promotion/p281_d0c2be8a75.png",
+  "pageScanUrl": "/images/promotion-pages/page_280.jpg"
  },
  {
   "id": 49,
@@ -954,7 +976,8 @@
   "subspecialty": "Optics",
   "pdfPage": 281,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p279_8d50d04917.png"
+  "imageUrl": "/images/promotion/p279_8d50d04917.png",
+  "pageScanUrl": "/images/promotion-pages/page_281.jpg"
  },
  {
   "id": 50,
@@ -1005,7 +1028,8 @@
   "imageUrl": "/images/promotion/p079_57a4788c12.png",
   "imageUrls": [
    "/images/promotion/p291_7a8540570a.png"
-  ]
+  ],
+  "pageScanUrl": "/images/promotion-pages/page_290.jpg"
  },
  {
   "id": 53,

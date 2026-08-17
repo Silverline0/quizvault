@@ -21,6 +21,11 @@ export interface Question {
    * put misplacement at ~13% overall, concentrated in these.
    */
   figureConfidence?: "medium" | "low";
+  /**
+   * Scan of the source PDF page, for questions whose figure is uncertain.
+   * Lets the reader see which picture actually sat beside which stem.
+   */
+  pageScanUrl?: string;
   /** Question was transcribed from a screenshot rather than the text layer. */
   ocr?: boolean;
   /** What the question's figure ought to show, in one phrase. */

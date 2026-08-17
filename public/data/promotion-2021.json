@@ -14,7 +14,8 @@
   "subspecialty": "Anterior Segment",
   "pdfPage": 127,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p127_6c90208c7b.png"
+  "imageUrl": "/images/promotion/p127_6c90208c7b.png",
+  "pageScanUrl": "/images/promotion-pages/page_127.jpg"
  },
  {
   "id": 2,
@@ -51,7 +52,8 @@
   "imageUrls": [
    "/images/promotion/p128_3fef3f2479.jpg",
    "/images/promotion/p128_4ac7b7ee0f.png"
-  ]
+  ],
+  "pageScanUrl": "/images/promotion-pages/page_128.jpg"
  },
  {
   "id": 4,
@@ -231,7 +233,8 @@
     "shows": "Fundus photo captioned 'characteristic bone-spicule-like retinal pigmentary changes'; text covers the classic triad (arteriolar attenuation, pigmentary change, waxy disc pallor) and recommends audiology consult when Usher is suspected"
    }
   ],
-  "figureFinding": "Usher syndrome — sensorineural hearing loss plus vestibular dysfunction with retinitis pigmentosa: bone-spicule pigmentation, attenuated arterioles, waxy pale disc, and constricted fields. Confirmation is by genetic testing."
+  "figureFinding": "Usher syndrome — sensorineural hearing loss plus vestibular dysfunction with retinitis pigmentosa: bone-spicule pigmentation, attenuated arterioles, waxy pale disc, and constricted fields. Confirmation is by genetic testing.",
+  "pageScanUrl": "/images/promotion-pages/page_214.jpg"
  },
  {
   "id": 15,
@@ -268,7 +271,8 @@
     "shows": "15 openly licensed files including 'A child with a white eye reflection as a result of retinoblastoma.jpg' (leukocoria), a 'Fundus of retinoblastoma' subcategory, ultrasound, MRI and histopathology"
    }
   ],
-  "figureFinding": "Retinoblastoma — leukocoria / white fundus tumor. Question is purely genetic counselling (unilateral sporadic RB, unaffected parents: sibling risk about 1-2%)."
+  "figureFinding": "Retinoblastoma — leukocoria / white fundus tumor. Question is purely genetic counselling (unilateral sporadic RB, unaffected parents: sibling risk about 1-2%).",
+  "pageScanUrl": "/images/promotion-pages/page_214.jpg"
  },
  {
   "id": 16,
@@ -299,7 +303,8 @@
   "subspecialty": "Oculoplastics",
   "pdfPage": 233,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p233_a6ef04fbde.png"
+  "imageUrl": "/images/promotion/p233_a6ef04fbde.png",
+  "pageScanUrl": "/images/promotion-pages/page_233.jpg"
  },
  {
   "id": 18,
@@ -375,7 +380,8 @@
     "shows": "Recurrent acute unilateral non-granulomatous anterior uveitis with IOP 40 mmHg or above and fine non-granulomatous KPs; treatment is topical beta-blockers/alpha agonists/CAIs for IOP plus topical steroids for inflammation"
    }
   ],
-  "figureFinding": "Posner-Schlossman syndrome (glaucomatocyclitic crisis): unilateral markedly high IOP with corneal (microcystic) edema, few fine non-pigmented keratic precipitates on the endothelium and open angle with KP on gonioscopy, in a patient with a prior identical episode."
+  "figureFinding": "Posner-Schlossman syndrome (glaucomatocyclitic crisis): unilateral markedly high IOP with corneal (microcystic) edema, few fine non-pigmented keratic precipitates on the endothelium and open angle with KP on gonioscopy, in a patient with a prior identical episode.",
+  "pageScanUrl": "/images/promotion-pages/page_260.jpg"
  },
  {
   "id": 22,
@@ -416,7 +422,8 @@
     "shows": "Simple hallucinations (flashing lights, squiggling lines) versus complex/formed images (animals, figures, family members). Text only, no figures"
    }
   ],
-  "figureFinding": "Occipital (striate cortex) lesion: congruous homonymous hemianopia on visual fields, often with macular sparing, accompanied by unformed/elementary hallucinations (flashes, zig-zags, patterns) confined to the hemianopic field."
+  "figureFinding": "Occipital (striate cortex) lesion: congruous homonymous hemianopia on visual fields, often with macular sparing, accompanied by unformed/elementary hallucinations (flashes, zig-zags, patterns) confined to the hemianopic field.",
+  "pageScanUrl": "/images/promotion-pages/page_261.jpg"
  },
  {
   "id": 23,

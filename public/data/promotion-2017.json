@@ -28,7 +28,8 @@
   "subspecialty": "Anterior Segment",
   "pdfPage": 301,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p301_28a4ab65cc.png"
+  "imageUrl": "/images/promotion/p301_28a4ab65cc.png",
+  "pageScanUrl": "/images/promotion-pages/page_301.jpg"
  },
  {
   "id": 3,
@@ -76,7 +77,8 @@
     "shows": "Dedicated case report with pre- and post-operative slit lamp photographs of a punctate brownish subepithelial line passing vertically in front of the apex of the pterygium - the clearest single image of this exact finding"
    }
   ],
-  "figureFinding": "Stocker line - a vertical brownish iron (epithelial) line at the leading edge/head of a pterygium, best seen with cobalt blue or red-free filter"
+  "figureFinding": "Stocker line - a vertical brownish iron (epithelial) line at the leading edge/head of a pterygium, best seen with cobalt blue or red-free filter",
+  "pageScanUrl": "/images/promotion-pages/page_302.jpg"
  },
  {
   "id": 5,
@@ -122,7 +124,8 @@
     "shows": "Preoperative Fox shield protection to prevent further herniation of ocular contents, the peaked-pupil sign pointing toward the wound, and the principle of preserving prolapsed iris at repair"
    }
   ],
-  "figureFinding": "Iris prolapse through a corneal/limbal laceration (open globe) - peaked or teardrop pupil with brown iris tissue at the wound; first step is a rigid protective eye shield"
+  "figureFinding": "Iris prolapse through a corneal/limbal laceration (open globe) - peaked or teardrop pupil with brown iris tissue at the wound; first step is a rigid protective eye shield",
+  "pageScanUrl": "/images/promotion-pages/page_303.jpg"
  },
  {
   "id": 7,
@@ -152,7 +155,8 @@
     "shows": "Slit lamp photographs of a Fleischer ring (epithelial iron deposition around the base of the cone) with Vogt striae, Munson sign, apical scarring, and Scheimpflug/Pentacam maps showing central steepening and thinning"
    }
   ],
-  "figureFinding": "Keratoconus with a steep K reading - Fleischer ring, i.e. iron (ferritin/hemosiderin) deposition in the BASAL CORNEAL EPITHELIUM around the base of the cone, which stains with an iron stain (Perls Prussian blue)"
+  "figureFinding": "Keratoconus with a steep K reading - Fleischer ring, i.e. iron (ferritin/hemosiderin) deposition in the BASAL CORNEAL EPITHELIUM around the base of the cone, which stains with an iron stain (Perls Prussian blue)",
+  "pageScanUrl": "/images/promotion-pages/page_304.jpg"
  },
  {
   "id": 8,
@@ -170,7 +174,8 @@
   "subspecialty": "Anterior Segment",
   "pdfPage": 304,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p305_74c3d265aa.png"
+  "imageUrl": "/images/promotion/p305_74c3d265aa.png",
+  "pageScanUrl": "/images/promotion-pages/page_304.jpg"
  },
  {
   "id": 9,
@@ -228,7 +233,8 @@
     "shows": "Clinical photograph of a human displaced crystalline lens with ciliary/zonular fibres visible in the pupil (CC BY-SA 4.0)"
    }
   ],
-  "figureFinding": "Slit-lamp photo of a subluxated (partially dislocated) crystalline lens - the lens equator/edge visible crossing the pupil with stretched or broken zonules, here displaced supero-nasally."
+  "figureFinding": "Slit-lamp photo of a subluxated (partially dislocated) crystalline lens - the lens equator/edge visible crossing the pupil with stretched or broken zonules, here displaced supero-nasally.",
+  "pageScanUrl": "/images/promotion-pages/page_308.jpg"
  },
  {
   "id": 12,
@@ -280,7 +286,8 @@
     "shows": "Four labelled images of CME; OCT intraretinal cysts, FA petaloid leakage, and a treatment section listing ketorolac, nepafenac, bromfenac, diclofenac and indomethacin"
    }
   ],
-  "figureFinding": "Cystoid macular edema - OCT showing intraretinal cystic hyporeflective spaces with loss of the foveal depression, and/or late-frame fluorescein angiography with the classic perifoveal petalloid leakage pattern."
+  "figureFinding": "Cystoid macular edema - OCT showing intraretinal cystic hyporeflective spaces with loss of the foveal depression, and/or late-frame fluorescein angiography with the classic perifoveal petalloid leakage pattern.",
+  "pageScanUrl": "/images/promotion-pages/page_309.jpg"
  },
  {
   "id": 14,
@@ -327,7 +334,8 @@
   "subspecialty": "Uveitis",
   "pdfPage": 315,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p316_d371b557cf.jpg"
+  "imageUrl": "/images/promotion/p316_d371b557cf.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_315.jpg"
  },
  {
   "id": 17,
@@ -343,7 +351,8 @@
   "subspecialty": "Uveitis",
   "pdfPage": 318,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p319_b142de5c0a.jpg"
+  "imageUrl": "/images/promotion/p319_b142de5c0a.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_318.jpg"
  },
  {
   "id": 18,
@@ -393,7 +402,8 @@
   "subspecialty": "Glaucoma",
   "pdfPage": 322,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p323_a962dc7e63.jpg"
+  "imageUrl": "/images/promotion/p323_a962dc7e63.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_322.jpg"
  },
  {
   "id": 21,
@@ -428,7 +438,8 @@
   "imageUrl": "/images/promotion/p324_defe98a7ad.png",
   "imageUrls": [
    "/images/promotion/p325_c905a042b0.jpg"
-  ]
+  ],
+  "pageScanUrl": "/images/promotion-pages/page_324.jpg"
  },
  {
   "id": 23,
@@ -491,7 +502,8 @@
   "subspecialty": "Glaucoma",
   "pdfPage": 328,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p329_c7b60f497c.png"
+  "imageUrl": "/images/promotion/p329_c7b60f497c.png",
+  "pageScanUrl": "/images/promotion-pages/page_328.jpg"
  },
  {
   "id": 27,
@@ -523,7 +535,8 @@
   "subspecialty": "Pediatrics",
   "pdfPage": 331,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p332_d2a5d24667.jpg"
+  "imageUrl": "/images/promotion/p332_d2a5d24667.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_331.jpg"
  },
  {
   "id": 29,
@@ -540,7 +553,8 @@
   "subspecialty": "Pediatrics",
   "pdfPage": 332,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p333_1b77b3ed08.jpg"
+  "imageUrl": "/images/promotion/p333_1b77b3ed08.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_332.jpg"
  },
  {
   "id": 30,
@@ -559,7 +573,8 @@
   "imageUrl": "/images/promotion/p333_2a1c665033.jpg",
   "imageUrls": [
    "/images/promotion/p334_61315313e5.jpg"
-  ]
+  ],
+  "pageScanUrl": "/images/promotion-pages/page_333.jpg"
  },
  {
   "id": 31,
@@ -687,7 +702,8 @@
   "subspecialty": "Optics",
   "pdfPage": 346,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p347_1c61c17516.png"
+  "imageUrl": "/images/promotion/p347_1c61c17516.png",
+  "pageScanUrl": "/images/promotion-pages/page_346.jpg"
  },
  {
   "id": 39,
@@ -719,7 +735,8 @@
   "subspecialty": "Optics",
   "pdfPage": 347,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p347_620b1fc2c6.png"
+  "imageUrl": "/images/promotion/p347_620b1fc2c6.png",
+  "pageScanUrl": "/images/promotion-pages/page_347.jpg"
  },
  {
   "id": 41,
@@ -833,7 +850,8 @@
     "shows": "Two slit-lamp photographs (OD and OS) of Haab striae, with the distinction from vertical/oblique forceps-injury Descemet tears"
    }
   ],
-  "figureFinding": "Infant with primary congenital glaucoma - buphthalmos/enlarged hazy cornea, corneal oedema and Haab striae (horizontal curvilinear breaks in Descemet membrane), with epiphora/photophobia/blepharospasm."
+  "figureFinding": "Infant with primary congenital glaucoma - buphthalmos/enlarged hazy cornea, corneal oedema and Haab striae (horizontal curvilinear breaks in Descemet membrane), with epiphora/photophobia/blepharospasm.",
+  "pageScanUrl": "/images/promotion-pages/page_353.jpg"
  },
  {
   "id": 47,
@@ -1145,7 +1163,8 @@
   "subspecialty": "Optics",
   "pdfPage": 368,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p368_c607f4beec.png"
+  "imageUrl": "/images/promotion/p368_c607f4beec.png",
+  "pageScanUrl": "/images/promotion-pages/page_368.jpg"
  },
  {
   "id": 67,
@@ -1161,7 +1180,8 @@
   "subspecialty": "Optics",
   "pdfPage": 369,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p369_c7a1bfb0f9.png"
+  "imageUrl": "/images/promotion/p369_c7a1bfb0f9.png",
+  "pageScanUrl": "/images/promotion-pages/page_369.jpg"
  },
  {
   "id": 68,
@@ -1198,7 +1218,8 @@
   "imageUrl": "/images/promotion/p371_9f5d4cc94e.png",
   "imageUrls": [
    "/images/promotion/p372_a0bd6843c2.png"
-  ]
+  ],
+  "pageScanUrl": "/images/promotion-pages/page_371.jpg"
  },
  {
   "id": 70,
@@ -1214,7 +1235,8 @@
   "subspecialty": "Optics",
   "pdfPage": 373,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p373_6f173535c3.png"
+  "imageUrl": "/images/promotion/p373_6f173535c3.png",
+  "pageScanUrl": "/images/promotion-pages/page_373.jpg"
  },
  {
   "id": 71,
@@ -1712,7 +1734,8 @@
   "subspecialty": "Optics",
   "pdfPage": 387,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p387_adbd613ddb.png"
+  "imageUrl": "/images/promotion/p387_adbd613ddb.png",
+  "pageScanUrl": "/images/promotion-pages/page_387.jpg"
  },
  {
   "id": 103,
@@ -1789,7 +1812,8 @@
   "subspecialty": "Optics",
   "pdfPage": 388,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p388_88eb6c9a63.png"
+  "imageUrl": "/images/promotion/p388_88eb6c9a63.png",
+  "pageScanUrl": "/images/promotion-pages/page_388.jpg"
  },
  {
   "id": 108,
@@ -1807,7 +1831,8 @@
   "subspecialty": "Optics",
   "pdfPage": 389,
   "figureConfidence": "medium",
-  "imageUrl": "/images/promotion/p389_f3dca963d9.png"
+  "imageUrl": "/images/promotion/p389_f3dca963d9.png",
+  "pageScanUrl": "/images/promotion-pages/page_389.jpg"
  },
  {
   "id": 109,

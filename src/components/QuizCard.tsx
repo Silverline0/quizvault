@@ -17,11 +17,13 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
   const [bookmarked, setBookmarked] = useState(false);
   const [flagged, setFlagged] = useState(false);
   const [glowKey, setGlowKey] = useState<string | null>(null);
+  const [showScan, setShowScan] = useState(false);
 
   useEffect(() => {
     setBookmarked(isBookmarked(question.id, question.source));
     setFlagged(isFlagged(question.id, question.source));
     setGlowKey(null);
+    setShowScan(false);
   }, [question.id, question.source]);
 
   const handleSelect = useCallback(
@@ -117,8 +119,30 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
               {question.figureConfidence === "low"
                 ? "This figure was matched to the question by position and may belong to a neighbouring one — check it against the stem before relying on it."
                 : "This figure was matched by position, not named in the question. Usually right, but worth a sanity-check against the stem."}
-              {question.pdfPage ? ` Source: PDF page ${question.pdfPage}.` : ""}
             </p>
+          )}
+        </div>
+      )}
+
+      {/* Scan of the source page, so a doubtful figure can be settled by eye */}
+      {question.pageScanUrl && (
+        <div className="mb-5">
+          <button
+            type="button"
+            onClick={() => setShowScan((v) => !v)}
+            className="text-xs font-medium px-3 py-1.5 rounded-lg transition-colors"
+            style={{ border: "1px solid var(--border)", color: "var(--text-secondary)" }}
+          >
+            {showScan ? "Hide" : "See"} the original PDF page
+            {question.pdfPage ? ` (p.${question.pdfPage})` : ""}
+          </button>
+          {showScan && (
+            <div className="mt-2" style={{ border: "1px solid var(--border)", borderRadius: "var(--radius-lg)" }}>
+              <ImageZoom
+                src={question.pageScanUrl}
+                alt={`Source PDF page ${question.pdfPage} for question ${question.id}`}
+              />
+            </div>
           )}
         </div>
       )}
