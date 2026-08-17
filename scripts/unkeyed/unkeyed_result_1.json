@@ -1,0 +1,380 @@
+[
+ {
+  "task_id": "unkeyed#1",
+  "answer": "B",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "Mild ptosis with miosis on the right is a right Horner syndrome, and a left hypertropia in this setting represents a left superior oblique palsy. The trochlear nerve is the only cranial nerve that decussates before leaving the brainstem, so a right-sided nuclear or fascicular fourth nerve lesion weakens the LEFT superior oblique, while the descending oculosympathetic tract runs immediately adjacent in the dorsal midbrain; Horner syndrome with a contralateral fourth nerve palsy is the classic localizing pair for the midbrain. Cavernous sinus is the tempting distractor, but there the sympathetic fibres on the carotid and the fourth nerve are on the same side, so the vertical deviation would be ipsilateral to the Horner, not crossed. The pons carries the sixth and seventh nerves rather than this combination, and an orbital lesion cannot produce a Horner syndrome at all since the sympathetics to the lid and pupil are already committed by that point.",
+  "agreesWithHint": null,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#2",
+  "answer": "A",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "In retinoscopy the reflex becomes brighter, wider and faster as you approach neutrality, and with motion means the far point lies beyond the retinoscope, so more plus is still needed. At a standard working distance of two thirds of a metre the eye is neutralised when the true refraction is about minus 1.50, so the refractive error that produces a fast, pupil filling with motion while still on the with side is roughly minus 1.00. Plano and plus 1.00 would also show with motion but the reflex would be narrower and slower because they are one and a half to two and a half dioptres from neutrality, and minus 2.00 would already have crossed neutrality into against motion at that working distance. The same reasoning holds at a half metre working distance, where minus 2.00 gives true neutrality rather than with motion, so minus 1.00 remains the best answer either way.",
+  "agreesWithHint": false,
+  "concern": "Compiler tentatively suggested D (Plano); the working distance reasoning points to minus 1.00 instead. The stem never states the working distance, which is why this is medium rather than high."
+ },
+ {
+  "task_id": "unkeyed#5",
+  "answer": "C",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "A young Black patient with hilar lymphadenopathy and acute painful photophobic uveitis is sarcoidosis, and the photographed finding is almost certainly mutton fat keratic precipitates or an iris granuloma. Granulomatous deposits are made of epithelioid cells, which are transformed activated macrophages, together with multinucleated giant cells, and it is the epithelioid cell that defines granulomatous inflammation and separates it from the non granulomatous pattern. Lymphocytes and polymorphonuclear cells make up the small fine keratic precipitates of non granulomatous uveitis such as HLA B27 disease, and a pure polymorph answer would only fit a hypopyon. Macrophages is the closest wrong answer because it is a partial truth, but epithelioid cells is the specific term examiners are testing here.",
+  "agreesWithHint": null,
+  "concern": "The referenced photo is not retrievable; the answer assumes the classic mutton fat keratic precipitates. If the image actually showed a hypopyon the answer would be D."
+ },
+ {
+  "task_id": "unkeyed#8",
+  "answer": "C",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "In an extremely axially myopic eye the calculated power may be zero or negative, and the reason to implant a plano lens rather than leave the eye aphakic is that the implant maintains a physical diaphragm between the anterior and posterior segments. Without an implant, and particularly once the posterior capsule is opened by YAG or is breached at surgery, vitreous moves forward and can touch the corneal endothelium, which is the mechanism of aphakic bullous keratopathy and endothelial decompensation. The barrier also helps preserve the blood aqueous barrier, so a case can be made for less cystoid macular oedema, but corneal endothelial protection is the effect most consistently cited for this scenario. Answer D is wrong because standard teaching does favour implantation even when no refractive power is needed, and retinal detachment risk in these eyes is driven by the axial length and the state of the capsule rather than by the presence of the optic.",
+  "agreesWithHint": null,
+  "concern": "B (less CME) is a defensible alternative, since both benefits flow from the same barrier effect."
+ },
+ {
+  "task_id": "unkeyed#15",
+  "answer": "B",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "Truly enlarged, thickened, beaded corneal nerves belong to a short systemic list headed by multiple endocrine neoplasia type 2B, neurofibromatosis, leprosy, Refsum disease and ichthyosis. Neurofibromatosis is the only systemic entity among the two options and is a recognised cause of genuine nerve enlargement. Keratoconus does appear on lists of prominent corneal nerves, but there the nerves are merely more visible because the stroma is thinned and the reflex background altered, not anatomically enlarged, which is why the compiler felt both could be true. When a question specifies enlarged rather than prominent nerves, the systemic neurocutaneous answer is the one intended.",
+  "agreesWithHint": null,
+  "concern": "The photo is not retrievable. If the image showed unmistakable keratoconus signs such as a Fleischer ring or Vogt striae the intended answer would flip to A."
+ },
+ {
+  "task_id": "unkeyed#18",
+  "answer": "A",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "The option set reads like an anterior segment dysgenesis question. If the displayed image showed corectopia with iris atrophy and iris strands, the associated finding asked for would be posterior embryotoxon, since an anteriorly displaced and prominent Schwalbe line plus corectopia, iris atrophy and iris strands is the Axenfeld Rieger complex. Corneal oedema with iris atrophy and a distorted pupil would instead point to the iridocorneal endothelial syndrome, which is unilateral and acquired in adult women. Without the image none of this can be resolved.",
+  "agreesWithHint": null,
+  "concern": "The recall itself states no image was provided, and the stem asks what else the patient has purely on the basis of that missing image. Unanswerable as recorded."
+ },
+ {
+  "task_id": "unkeyed#20",
+  "answer": "A",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "Macrostriae are full thickness folds of the LASIK flap caused by flap slippage or misalignment, and they arise in the immediate postoperative period, usually within the first hours to days, so a patient presenting with them has been operated on very recently. They are also managed early, since lifting, refloating and stretching the flap works best before the folds become fixed by epithelial remodelling and stromal healing over the following weeks. Microstriae, by contrast, are fine surface wrinkles that may be noticed later and are often left alone. A window of three to four weeks fits the fixed, late presentation rather than the acute macrostriae described.",
+  "agreesWithHint": true,
+  "concern": "No source gives a precise week count; the answer rests on the early timing of flap slippage."
+ },
+ {
+  "task_id": "unkeyed#27",
+  "answer": "A",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "Nothing in the stem discriminates between the four options, all of which are legitimate macular diagnoses with characteristic fundus and OCT appearances. Best disease gives a central vitelliform lesion with subretinal material on OCT and an abnormal electro oculogram, Stargardt disease gives flecks and a dark choroid, central areolar choroidal dystrophy gives a punched out area of choriocapillaris atrophy, and Vogt Koyanagi Harada gives serous detachments with choroidal thickening. Which of these is correct depends entirely on the images the recall says were never provided.",
+  "agreesWithHint": null,
+  "concern": "The recall explicitly notes the fundus photo and OCT were not provided, and the stem contains no clinical detail at all. Cannot be shipped."
+ },
+ {
+  "task_id": "unkeyed#28",
+  "answer": "B",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "Traumatic retinal breaks in a young eye often do not detach immediately because the formed vitreous has not yet undergone synchysis and so cannot pass through the break, and the detachment declares itself only as the gel liquefies over the following months. The classic figures quoted for traumatic retinal detachment are that only about one in eight are present at the time of injury, roughly half have appeared by around eight months, and the great majority by two years. Six to eight months therefore corresponds to the median time to symptomatic detachment, which is what the question is asking. One to two months is too early for the typical case and twenty to twenty two months is past the point by which most have already declared themselves.",
+  "agreesWithHint": true,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#29",
+  "answer": "C",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "The four options are simply the successive figures from the standard traumatic retinal detachment time course, and all four are true statements as written, so no polarity of question can be answered from what survives. The most frequently quoted single figure, and the one that matches the paired recall on the previous page, is that about half of traumatic detachments have been identified by around eight months.",
+  "agreesWithHint": null,
+  "concern": "The stem is a fragment of explanatory prose rather than a question, and every option is a true statement. Not shippable."
+ },
+ {
+  "task_id": "unkeyed#38",
+  "answer": "B",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "After LASIK the central cornea is thinner and flatter, so Goldmann applanation systematically underestimates true intraocular pressure. The Perkins tonometer is simply a handheld Goldmann and obeys exactly the same Imbert Fick assumptions, so it carries the identical error and is not an improvement. The Tono Pen applanates a much smaller area, is less dependent on central corneal thickness and curvature, and can be used peripherally away from the ablation zone, which makes it the best of the three offered. The explicit statement that OCT shows no interface fluid is there to exclude interface fluid syndrome, in which a fluid pocket under the flap makes applanation readings falsely low even in an eye with dangerously high pressure.",
+  "agreesWithHint": null,
+  "concern": "The compiler is right that dynamic contour tonometry is the theoretically correct answer, since it is largely independent of corneal properties, but it is not among the options. Tono Pen is the best available choice."
+ },
+ {
+  "task_id": "unkeyed#50",
+  "answer": "C",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "Blunt periocular trauma classically fractures the orbital floor and entraps the inferior rectus, which is by far the commonest muscle to be caught in a blowout. An entrapped right inferior rectus cannot depress the globe, and because the inferior rectus is the principal depressor in abduction the deficit is worst in down and out gaze, which matches the described restriction of dextrodepression and a hypertropia that increases on downgaze. Superior rectus entrapment occurs with roof fractures and would restrict elevation, not depression, so it does not fit the pattern. Superior oblique dysfunction can also limit depression in adduction, but the superior oblique is not a muscle that becomes entrapped in a fracture, and post traumatic fourth nerve or trochlear injury is a palsy rather than a restriction.",
+  "agreesWithHint": false,
+  "concern": "Option C is truncated in the source as inferior with an ellipsis; it should read inferior rectus. The compiler leaned to A and the earlier key said B, both of which are inconsistent with an entrapment mechanism."
+ },
+ {
+  "task_id": "unkeyed#56",
+  "answer": "A",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "Lid margin reconstruction is decided by the proportion of the lid lost. Defects up to about a quarter to a third of the lid, and up to about a half in an older patient with lax tissue, are closed directly with a layered primary repair after freshening the margins, sometimes with lateral canthotomy and cantholysis to gain a few extra millimetres. A semicircular Tenzel flap is reserved for defects of roughly a third to two thirds, and larger losses need tarsoconjunctival or free tarsal grafts. Since the stem specifies a small pigmented lesion, the excision defect will be well within the range for direct closure.",
+  "agreesWithHint": null,
+  "concern": "The photograph is not retrievable; the answer depends on the stem word small being accurate."
+ },
+ {
+  "task_id": "unkeyed#57",
+  "answer": "B",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "The optic canal is bounded entirely by the sphenoid bone, being formed by the two roots of the lesser wing as they attach to the body of the sphenoid, and it carries the optic nerve with the ophthalmic artery and sympathetic fibres into the middle cranial fossa. The frontal bone contributes to the orbital roof but stops short of the canal, the maxilla forms most of the orbital floor and the inferior orbital rim, and the palatine bone contributes only a small posterior part of the floor. Remembering that the optic canal and the optic strut are sphenoidal also explains why sphenoid wing meningiomas and fibrous dysplasia of the sphenoid compress the nerve at this point.",
+  "agreesWithHint": null,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#59",
+  "answer": "D",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "A homonymous defect that respects the vertical midline places the lesion behind the chiasm, and the combination of a homonymous field loss with visual hallucinations is the classic occipital picture, whether as release hallucinations in the blind hemifield or as simple unformed photopsias and geometric shapes from occipital cortex irritation. Temporal lobe lesions are the main alternative, since they produce formed hallucinations of faces and scenes, but their field defect is a superior homonymous quadrantanopia from the Meyer loop rather than a full hemianopia, and the stem does not describe formed imagery. Parietal lesions give an inferior quadrantanopia with visual inattention rather than hallucinations, and frontal lesions cause a gaze palsy rather than a homonymous field defect.",
+  "agreesWithHint": null,
+  "concern": "The field printout is not available, so the exact defect shape cannot be confirmed."
+ },
+ {
+  "task_id": "unkeyed#65",
+  "answer": "A",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "Nonarteritic anterior ischaemic optic neuropathy infarcts a sector of the prelaminar optic nerve head supplied by the short posterior ciliary circulation, and because the watershed usually falls horizontally the resulting defect is characteristically altitudinal, most often inferior, and typically begins as an inferonasal defect or nasal step that broadens into the altitudinal pattern. Option A is the answer because it names both the nasal step and the altitudinal defect, which is the combination taught and the pattern most often recorded in the large NAION series. Isolated arcuate defects are more typical of glaucomatous nerve fibre layer loss, and a pure central scotoma with early severe colour loss should raise suspicion of optic neuritis or a compressive or toxic optic neuropathy instead. Option C is only a partial description, since the inferonasal defect in NAION is usually the early stage of a defect that becomes frankly altitudinal.",
+  "agreesWithHint": null,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#68",
+  "answer": "B",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "This is the same item as the earlier retinoscopy recall. A wide, bright, fast with motion means the reflex is close to but has not yet crossed neutrality, so the far point sits just beyond the retinoscope. At the usual two thirds of a metre working distance neutrality corresponds to about minus 1.50 of true refractive error, so the listed error that gives a nearly neutral with motion is minus 1.00. Plano is one and a half dioptres from neutrality and would give a narrower, slower reflex, while minus 2.00 would already show against motion at that distance and would be exactly neutral at a half metre, not with motion.",
+  "agreesWithHint": null,
+  "concern": "Working distance is not stated, so the answer relies on the standard two thirds of a metre convention."
+ },
+ {
+  "task_id": "unkeyed#69",
+  "answer": "A",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "No standard formula converts a stated corneal power of minus 200 dioptres into any of the offered radii. Treating the anterior cornea as the convex mirror used in keratometry, where the power equals minus two divided by the radius in metres, minus 200 dioptres gives a radius of 10 mm, which is not offered; the real cornea has a reflecting power near minus 250 dioptres and a radius of about 7.8 mm. Using the refracting surface formula with the corneal index instead gives a value under 2 mm. Only the option of 5 mm is even dimensionally plausible for a corneal radius, which is why it is given as the least bad choice, but the arithmetic does not support it.",
+  "agreesWithHint": null,
+  "concern": "The stated power and the option list are mutually inconsistent; the correct value of about 10 mm is not among the choices. The recall is corrupted."
+ },
+ {
+  "task_id": "unkeyed#70",
+  "answer": "D",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "Nitrous oxide diffuses into a closed intraocular gas bubble far faster than nitrogen diffuses out, so it expands the bubble and can produce a sudden dangerous rise in intraocular pressure with central retinal artery occlusion. The wait must therefore cover the whole life of the bubble, and perfluoropropane is the longest lasting of the routine tamponades, persisting for roughly two months. Eight weeks is the correct interval for perfluoropropane, whereas one to two weeks would be appropriate only for sulphur hexafluoride and around four weeks for perfluoroethane. Patients are given a wristband or card for exactly this reason, and the anaesthetist should be told so that an air oxygen technique is used if surgery cannot wait.",
+  "agreesWithHint": null,
+  "concern": "The stem says nitric oxide but plainly means nitrous oxide."
+ },
+ {
+  "task_id": "unkeyed#73",
+  "answer": "A",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "A salmon pink conjunctival infiltrate with a dense monomorphic lymphocytic population is an extranodal marginal zone lymphoma of mucosa associated lymphoid tissue, the commonest ocular adnexal lymphoma, and localised disease is exquisitely radiosensitive, so external beam radiotherapy is the standard treatment after biopsy and systemic staging. Surgical excision alone is inadequate because the infiltrate is diffuse and subconjunctival, although an incisional or debulking biopsy is what establishes the diagnosis and should be sent fresh for flow cytometry. Systemic chemotherapy or rituximab is reserved for disseminated or high grade disease rather than for isolated conjunctival involvement. Every such patient still needs systemic workup, since conjunctival lymphoma can be the presenting sign of nodal disease.",
+  "agreesWithHint": null,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#75",
+  "answer": "A",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "What survives of the stem is explanatory prose about Fuchs endothelial dystrophy, including a comment that the disease is autosomal dominant, and it does not match the option list at all, which instead reads as a sequence of corneal decompensation findings. If the intended question was what happens as the endothelial pump fails, the answer would begin with stromal oedema and endothelial folds before epithelial microcysts and bullae appear, with subepithelial fibrosis, stromal scarring and eventually peripheral vascularisation as late end stage changes. The polarity and the actual question cannot be recovered.",
+  "agreesWithHint": null,
+  "concern": "Stem is truncated explanation text, and the surviving explanation refers to inheritance options that are not in the option list. Not shippable."
+ },
+ {
+  "task_id": "unkeyed#79",
+  "answer": "B",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "The stem is the compiler's own commentary and the ten lettered items are simply a flattened list of recognised risk factors for graft rejection, so every option is true and none can be selected. If the original question asked for the single strongest adverse prognostic factor in penetrating keratoplasty, deep stromal corneal neovascularisation involving more than two quadrants is the answer usually taught, because vascularisation abolishes the angiogenic and immunological privilege of the graft bed and provides both an afferent lymphatic and an efferent vascular route for rejection. Prior graft failure and active preoperative inflammation follow closely behind.",
+  "agreesWithHint": null,
+  "concern": "No question remains and all ten options are correct statements. Not shippable."
+ },
+ {
+  "task_id": "unkeyed#81",
+  "answer": "A",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "The stem stops mid sentence at the point where the examination findings would have been given, and the two surviving options are fragments of what was clearly a longer list. A patient three months after cataract surgery whose vision never improved and who has been kept on intensive topical steroid raises cystoid macular oedema, chronic low grade postoperative endophthalmitis and steroid response ocular hypertension, and a previous history of anterior uveitis is a genuine risk factor for pseudophakic cystoid macular oedema in that setting. That is the reasoning behind the letter given, but the actual question cannot be reconstructed.",
+  "agreesWithHint": false,
+  "concern": "Stem truncated before the findings and options are incomplete. Not shippable."
+ },
+ {
+  "task_id": "unkeyed#93",
+  "answer": "A",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "Optic nerve sheath meningioma produces slowly progressive proptosis with early optic neuropathy and an afferent pupillary defect, and its imaging signature is thickening of the sheath around a normal calibre nerve, which on axial contrast enhanced images produces the tram track or rail track sign and on coronal images a doughnut of enhancement around the darker nerve. Fusiform enlargement with kinking or buckling of the nerve is the appearance of optic nerve glioma, which typically presents in a child, often with neurofibromatosis type 1, and expands the nerve itself rather than its sheath. The recall itself records that the case was a meningioma, which fits the adult slowly progressive presentation described.",
+  "agreesWithHint": null,
+  "concern": "The image is not retrievable, so the answer rests on the recaller's note that the case was an optic nerve sheath meningioma."
+ },
+ {
+  "task_id": "unkeyed#103",
+  "answer": "A",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "Goldmann applanation rests on the Imbert Fick assumption of an average, thin, uniformly elastic cornea, so anything that changes corneal thickness, curvature, rigidity or surface regularity changes the reading. A corneal diameter over 14 mm means megalocornea or a buphthalmic eye, where the cornea is stretched, thinned and flatter than normal, and the measured pressure will be falsely low. An anteriorly displaced Schwalbe line is posterior embryotoxon, a purely peripheral angle finding at the termination of Descemet membrane, and it has no bearing on what happens when a 3.06 mm central applanation prism flattens the cornea. It is worth remembering that the same reasoning explains falsely high readings in thick or oedematous corneas and falsely low readings after myopic laser refractive surgery.",
+  "agreesWithHint": null,
+  "concern": "The compiler notes the option list is incomplete, but A is correct on its own merits."
+ },
+ {
+  "task_id": "unkeyed#104",
+  "answer": "A",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "Light from the anterior chamber angle strikes the tear film to air interface at an angle beyond the critical angle and is totally internally reflected, which is why the angle cannot be seen directly. For the cornea and tear film against air that critical angle is approximately 46 degrees, and a gonioscopy lens works by replacing the air interface with a higher index contact surface so that the light escapes. Neither 49 nor 61 is the accepted figure, so the correct answer is simply not among the options.",
+  "agreesWithHint": null,
+  "concern": "The correct value of about 46 to 46.5 degrees is missing from the option list, exactly as the compiler noted. Not shippable."
+ },
+ {
+  "task_id": "unkeyed#110",
+  "answer": "A",
+  "usable": true,
+  "confidence": "low",
+  "explanation": "Narrowing of the palpebral fissure with globe retraction on attempted adduction, accompanied by an upshoot or downshoot from the leash phenomenon as the tight lateral rectus slips over the globe, is the hallmark of Duane retraction syndrome in any of its types. The type is defined by which duction is limited, and type 1, with limited abduction and relatively preserved adduction, accounts for roughly four fifths of cases, whereas type 2 with limited adduction is much rarer. Given that the stem describes the overshoot and gives no abduction or adduction detail, and given that the option naming the overshoot explicitly matches the described picture, type 1 is the answer.",
+  "agreesWithHint": null,
+  "concern": "The distinction between type 1 and type 2 rests entirely on which duction is limited in a cardinal gaze montage that is not available; the answer relies on base rates."
+ },
+ {
+  "task_id": "unkeyed#111",
+  "answer": "B",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "A boy with childhood vitreous haemorrhage and foveal schisis on OCT has X linked juvenile retinoschisis, in which splitting occurs within the nerve fibre layer, the electroretinogram shows a selectively reduced b wave with a preserved a wave, and peripheral schisis with bridging vessels causes the haemorrhages. Because inheritance is X linked recessive, brothers carry a one in two risk of being affected while sisters are carriers with normal vision and normal fundi, so the family question is the genetic point being tested. The statement that the eye examination shows little change is not defensible either, since visual acuity typically declines slowly through the first two decades before stabilising.",
+  "agreesWithHint": null,
+  "concern": "The compiler records that the option list is incomplete and that both surviving options are wrong as written; the brother is at risk rather than necessarily affected. Not shippable."
+ },
+ {
+  "task_id": "unkeyed#113",
+  "answer": "A",
+  "usable": true,
+  "confidence": "low",
+  "explanation": "An abnormal head posture in Duane syndrome is a face turn, not a tilt, and it is adopted towards the side of the affected eye when abduction is limited, because turning the face brings the eye into the field where fusion is possible. A left face turn therefore fits a left Duane type 1 with an abduction deficit, which is also the commonest form of the syndrome by a wide margin. Type 2, with limited adduction, is rare and drives the face turn to the opposite side.",
+  "agreesWithHint": null,
+  "concern": "The recaller could not remember which duction was limited and the image is not retrievable, so this relies on the direction of the face turn plus base rates."
+ },
+ {
+  "task_id": "unkeyed#116",
+  "answer": "A",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "Blurred disc margins without true swelling is pseudopapilloedema, most often from buried optic disc drusen, and the association worth knowing is progressive visual field loss, typically an enlarged blind spot and inferonasal or arcuate defects from nerve fibre bundle damage at the disc. There is a competing line of reasoning, since a crowded disc of this kind occurs in the short hyperopic eye, and hyperopia with a shallow anterior chamber is a risk factor for angle closure, so both options can be argued. Without the photograph and with options this elliptical the intended link cannot be settled.",
+  "agreesWithHint": null,
+  "concern": "No image is attached, and the options are single word fragments. Not shippable."
+ },
+ {
+  "task_id": "unkeyed#120",
+  "answer": "B",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "That both boys and girls are affected effectively excludes X linked recessive inheritance, in which females are carriers and only males are affected, and this is the one deduction the stem supports. Autosomal recessive disease classically affects several siblings of both sexes with unaffected parents, which is the commonest pattern for inherited retinal disease and especially so where consanguinity is frequent, so it is the best guess. Autosomal dominant would show affected individuals in every generation with male to male transmission, and X linked dominant would affect females about twice as often as males with no male to male transmission.",
+  "agreesWithHint": null,
+  "concern": "The recall itself states the pedigree information is missing, and autosomal dominant, autosomal recessive and X linked dominant all remain possible. Not shippable."
+ },
+ {
+  "task_id": "unkeyed#124",
+  "answer": "B",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "A distance deviation of 45 prism dioptres against a near deviation of 25 is a divergence excess pattern, and before operating you must establish whether it is true divergence excess or the far commoner simulated form caused by tenacious proximal fusion. The monocular occlusion or patch test, in which one eye is covered for about 30 to 60 minutes and the near deviation is then remeasured before fusion can be re established, is the standard way to unmask the true near angle, and a plus 3.00 lens test at near serves the same purpose for a high accommodative convergence to accommodation ratio. This matters because it changes the operation, since a genuine distance predominant deviation is treated with bilateral lateral rectus recession whereas a basic deviation is usually treated with recession and resection, so surgery is premature as the immediate next step. Prescribing plus 2.50 would be actively harmful, since relaxing accommodation reduces accommodative convergence and worsens an exodeviation, and modest hyperopia in a young adult is generally left uncorrected or even slightly over minused in intermittent exotropia.",
+  "agreesWithHint": true,
+  "concern": "The compiler leaned to A while the earlier key recorded B; the specific mention of a 45 minute patch strongly suggests the monocular occlusion test was intended, which is why B is given."
+ },
+ {
+  "task_id": "unkeyed#127",
+  "answer": "A",
+  "usable": true,
+  "confidence": "low",
+  "explanation": "A pigmented conjunctival lesion suspicious for melanoma is managed by wide no touch excisional biopsy with alcohol epitheliectomy and cryotherapy to the conjunctival margins, and topical mitomycin C is the standard adjuvant chemotherapy for the surrounding primary acquired melanosis with atypia that drives recurrence. Brachytherapy has a role, but as an adjuvant plaque for deep, recurrent or incompletely excised disease rather than as first line treatment. Liver ultrasound is a metastatic surveillance test for uveal melanoma, which spreads haematogenously to the liver, and it is neither a treatment nor the right staging pathway for a conjunctival tumour, which drains first to the preauricular and submandibular nodes.",
+  "agreesWithHint": false,
+  "concern": "The earlier key recorded C, which would only make sense if the lesion were intraocular; the stem says conjunctival and asks for treatment. Option B is unintelligible as recorded and the photograph is not retrievable."
+ },
+ {
+  "task_id": "unkeyed#130",
+  "answer": "A",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "Of the two options, a lipid profile is the recognised next step after an eyelid skin biopsy, because the common lesion showing lipid laden foamy histiocytes in the superficial dermis is xanthelasma, and roughly half of these patients have a dyslipidaemia that warrants investigation, particularly if they are young. Hepatic ultrasound has no established role after any routine eyelid skin biopsy; the sebaceous carcinoma link to Muir Torre syndrome is investigated by colonoscopy and mismatch repair testing rather than liver imaging. The histology slide the question turns on is not available.",
+  "agreesWithHint": null,
+  "concern": "The stem is nothing but a reference to a pathology image that is not attached. Not shippable."
+ },
+ {
+  "task_id": "unkeyed#136",
+  "answer": "C",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "The word initial is the key. A peripheral corneal scar degrades vision mainly through the irregular astigmatism it induces, and a rigid gas permeable lens neutralises that irregularity with a new tear lens surface, restoring vision immediately and without surgical risk. Only if a well fitted rigid lens fails or cannot be tolerated do you move to surgery, choosing between wedge resection for peripheral thinning with high astigmatism, rotational autograft to move clear cornea into the visual axis, or lamellar or penetrating keratoplasty. Phototherapeutic keratectomy is reserved for superficial anterior opacities and recurrent erosions, and applied to a peripheral scar it removes tissue eccentrically and can worsen the astigmatism and induce a hyperopic shift.",
+  "agreesWithHint": true,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#138",
+  "answer": "C",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "A plus 14 reading addition forces a working distance of about 7 cm, which demands a convergence of the order of 50 to 60 prism dioptres, far beyond what most patients can sustain, so fusion breaks down after prolonged reading and the patient sees double. This is precisely why high addition readers above roughly plus 10 are prescribed with base in prism incorporated, or given as a single eye correction with the fellow eye left uncorrected or occluded. Aniseikonia requires a significant difference in magnification between the two eyes and does not follow from equal high plus lenses, and while the failing convergence effort is exophoric rather than esophoric, the presenting symptom asked about here is diplopia.",
+  "agreesWithHint": true,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#139",
+  "answer": "D",
+  "usable": true,
+  "confidence": "low",
+  "explanation": "The optical advantage of a contact lens is that it moves with the eye, so the visual axis always passes through the optical centre, whereas a spectacle lens is fixed in the frame and any eccentric gaze induces prism according to the Prentice rule along with peripheral aberration. A patient with a large angle strabismus and an abnormal head posture is looking through the periphery of the spectacle lens much of the time, which is where that penalty is greatest, so contact lenses are genuinely more useful than glasses. Congenital nystagmus is the close rival and a defensible answer, since contact lenses also maintain centration during the oscillation and may damp the nystagmus through trigeminal feedback. Ptosis is better served by spectacles, which can carry a crutch, and mixed astigmatism is corrected perfectly well by spectacles, which are simpler than a toric contact lens.",
+  "agreesWithHint": true,
+  "concern": "C and D rest on the same optical principle and the question does not clearly separate them; the earlier key recorded D, which is why it is retained."
+ },
+ {
+  "task_id": "unkeyed#140",
+  "answer": "B",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "On an astigmatic clock dial the patient is fogged so that both focal lines of the conoid of Sturm lie in front of the retina, and the line that appears blackest is the one imaged by the meridian nearest to focus. The correcting minus cylinder axis lies perpendicular to that blackest line, which is captured by the rule of 30, multiplying the lower clock hour of the clearest line by 30. For the 12 to 6 line the calculation is 6 multiplied by 30, giving an axis of 180. Answering 90 is the classic trap of quoting the orientation of the line itself rather than the axis of the correcting cylinder, and the oblique values of 20 and 50 do not correspond to any clock hour on the dial.",
+  "agreesWithHint": true,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#141",
+  "answer": "D",
+  "usable": true,
+  "confidence": "low",
+  "explanation": "Selective suture removal is performed at the steep meridian, shown red on topography, because releasing the tight suture there allows that meridian to flatten and reduces the astigmatism. Of the values offered only 140 lies in the conventional oblique range of about 120 to 150 degrees, since 0 and 90 are the with the rule and against the rule meridians and 20 is close to horizontal, so 140 is the only choice consistent with the stated oblique astigmatism. In practice one confirms the steep axis on the topography map and on refraction before cutting, and removes one suture at a time with re measurement afterwards.",
+  "agreesWithHint": true,
+  "concern": "The topography map is not available, so the steep axis is inferred only from the word oblique and from which option lies in the oblique range."
+ },
+ {
+  "task_id": "unkeyed#142",
+  "answer": "B",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "Bilateral diffuse ground glass corneal clouding present from birth with poor vision, in an eye of normal size and with normal pressure, is congenital hereditary endothelial dystrophy, in which a failed endothelium allows diffuse stromal oedema and Descemet membrane is markedly thickened. The absence of buphthalmos, of corneal enlargement and of Haab striae is what excludes congenital glaucoma, which is the first differential for any cloudy cornea in infancy and would also give tearing, photophobia and blepharospasm. Posterior polymorphous dystrophy is characterised by vesicles, bands and geographic endothelial lesions and is usually asymptomatic with good vision, only rarely causing enough oedema to reduce acuity from childhood.",
+  "agreesWithHint": true,
+  "concern": "The photograph is not retrievable, so the answer rests on the description of a cloudy cornea without buphthalmos."
+ },
+ {
+  "task_id": "unkeyed#143",
+  "answer": "A",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "The stem is a fragment of notes on the Early Treatment for Retinopathy of Prematurity classification and no question survives, while the seven lettered items are simply the flattened definitions of type 1 and type 2 disease. The substantive point is that type 1 disease, comprising zone I any stage with plus, zone I stage 3 without plus, and zone II stage 2 or 3 with plus, requires prompt treatment, whereas type 2 disease is observed with close serial examination and treated only if it progresses to type 1.",
+  "agreesWithHint": null,
+  "concern": "No question remains and the option list is a heading plus its own sub items. Not shippable, and it duplicates the following entry."
+ },
+ {
+  "task_id": "unkeyed#144",
+  "answer": "A",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "This entry is identical to the preceding one. The stem is explanatory text about the Early Treatment for Retinopathy of Prematurity classification with no question, and the options are the definitions of type 1 and type 2 disease rather than mutually exclusive choices. The teaching point remains that type 1 disease is treated promptly while type 2 is observed closely and treated only on progression.",
+  "agreesWithHint": null,
+  "concern": "Duplicate of the previous entry, with no recoverable question. Not shippable."
+ }
+]

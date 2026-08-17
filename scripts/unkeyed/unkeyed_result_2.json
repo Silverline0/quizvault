@@ -1,0 +1,380 @@
+[
+ {
+  "task_id": "unkeyed#145",
+  "answer": "E",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "This entry is not a question at all. It is a block of continuous textbook prose describing Peters anomaly, and the extractor sliced one running sentence across the option slots: options B, C and D are consecutive fragments of the single phrase describing the posterior corneal defect involving posterior stroma, Descemet membrane and endothelium with iridocorneal or lenticulocorneal adhesions. Every listed item is a true feature of Peters anomaly, so no option can be keyed as correct. The one substantive testable fact buried here is that glaucoma complicates roughly half of Peters anomaly cases because of the associated angle dysgenesis.",
+  "agreesWithHint": null,
+  "concern": "No question stem and no interrogative; options A-D are fragments of one continuous sentence rather than mutually exclusive choices. All items are true features, so the item is unanswerable as recalled."
+ },
+ {
+  "task_id": "unkeyed#146",
+  "answer": "A",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "The stem is a truncated paragraph about traumatic angle recession with no question actually asked, and all five options are genuine gonioscopic signs of angle recession as they appear in the standard textbook list: a widened ciliary body band, torn or absent iris processes, a white glistening scleral spur, irregular dark angle pigmentation, and peripheral anterior synechiae at the edge of the recession. Because every option is correct, nothing here discriminates. If the original stem had asked for the single most characteristic sign, widening of the ciliary body band would be the answer, since the recession is by definition a tear between the longitudinal and circular ciliary muscle fibres that exposes a broader band.",
+  "agreesWithHint": null,
+  "concern": "Stem is textbook prose truncated mid-sentence with no question; all five options are true signs of angle recession, so there is no single key."
+ },
+ {
+  "task_id": "unkeyed#147",
+  "answer": "B",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "The histology described, epithelial proliferation filling defects with a thinned stroma, is the classic microscopic picture of keratoconus: breaks in Bowman layer that are plugged by downgrowing epithelium and collagen, with central or paracentral stromal thinning. The clinical correlate of that thinning and ectasia is steep keratometry, so K readings of 50 and 52 dioptres fit. Endothelium and Descemet membrane are characteristically normal in keratoconus, which is why option A is wrong, and the fundus view is unaffected because the cornea remains clear apart from any apical scar, which excludes option C. My reasoning independently reaches the same letter the compiler had recorded.",
+  "agreesWithHint": true,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#148",
+  "answer": "A",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "Multiple or large retinal breaks are among the best established preoperative risk factors for proliferative vitreoretinopathy, because a large area of exposed retinal pigment epithelium seeds the vitreous cavity with cells that dedifferentiate and form contractile membranes. Giant retinal tears, preoperative PVR, vitreous haemorrhage, long-standing detachment and excessive cryotherapy carry the same risk for the same reason. A previous scleral buckle in itself is not a recognised risk factor; what raises risk is the failed surgery and the repeated breakdown of the blood-retinal barrier, not the buckle. The answer matches the letter previously recorded by the compiler.",
+  "agreesWithHint": true,
+  "concern": "Recall refers to a fundus photograph that is not attached, but the question turns on risk factors rather than on the image."
+ },
+ {
+  "task_id": "unkeyed#149",
+  "answer": "A",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "The recall itself cannot decide what the Goldmann field showed, and the two possibilities point to different answers. An isolated enlarged blind spot in a middle-aged man would point to optic disc drusen, which classically enlarges the blind spot and produces slowly progressive arcuate and nasal defects; peripapillary atrophy in degenerative myopia can do the same. A cecocentral scotoma, in contrast, is the signature of optic neuritis among these options, along with toxic, nutritional and hereditary optic neuropathies. Glaucoma produces arcuate defects and nasal steps rather than a cecocentral scotoma. I have kept the letter the compiler recorded because I cannot resolve the field from the text alone.",
+  "agreesWithHint": true,
+  "concern": "The answer flips entirely on which field defect the unavailable Goldmann plot shows, and the recall explicitly cannot tell. Not shippable."
+ },
+ {
+  "task_id": "unkeyed#153",
+  "answer": "A",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "This is an acute sixth nerve palsy of only one month, presumably from skull base or cavernous sinus extension of the nasopharyngeal carcinoma, and the rule is not to operate on a paralytic strabismus until the deviation has been stable for at least six months. Botulinum toxin to the ipsilateral medial rectus is the accepted interim measure: it relieves diplopia in primary position and, more importantly, prevents the antagonist medial rectus from contracting while recovery is awaited. Option B is wrong on two counts, it is premature and a lateral rectus with poor function will not be helped by resecting it, since a paretic muscle needs a transposition procedure rather than a recess-resect. Bilateral medial rectus recession treats convergence excess esotropia and has no role here. My reasoning agrees with the tentative letter in the source.",
+  "agreesWithHint": true,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#156",
+  "answer": "A",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "A target at 25 cm imposes an accommodative demand of 1 divided by 0.25 metres, that is 4 dioptres. The patient can generate 3 dioptres of that himself, so the shortfall that must be supplied optically is 1 dioptre. The amplitude is quoted in the stem precisely so that it is subtracted; option D, 4 dioptres, is the total demand and is the trap for candidates who ignore the amplitude. Note that in real prescribing one leaves roughly half the amplitude in reserve, which would call for about 2.5 dioptres, but that value is not offered so the straight subtraction is clearly what the writer intended.",
+  "agreesWithHint": null,
+  "concern": "Wording is ambiguous between the additional power needed (1 D) and the total dioptric demand at 25 cm (4 D); I read it as the former because the amplitude is given."
+ },
+ {
+  "task_id": "unkeyed#157",
+  "answer": "D",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "The stem gives no clinical information whatever beyond the fact that a conjunctival biopsy was taken, so the whole item rests on a photomicrograph that is not available. The reason I would guess mycophenolate mofetil is that conjunctival biopsy with direct immunofluorescence, showing linear deposition of immunoglobulin and complement along the epithelial basement membrane zone, is the diagnostic test for ocular mucous membrane pemphigoid, and systemic immunosuppression with mycophenolate or cyclophosphamide, or dapsone in mild disease, is its treatment. Surgical excision would fit a conjunctival neoplasm, topical cyclosporine an allergic or immune surface disease, and topical ganciclovir a viral conjunctivitis, but none of these can be chosen without seeing the slide.",
+  "agreesWithHint": null,
+  "concern": "Turns entirely on a biopsy image, and the referenced file /images/promotion/p390_cc66830600.png does not exist in the repository, so the shipped item would show a broken image and an uninformative stem."
+ },
+ {
+  "task_id": "unkeyed#158",
+  "answer": "C",
+  "usable": false,
+  "confidence": "medium",
+  "explanation": "The stem stops mid-clause and never asks anything, so what went wrong at hydrodissection or during phacoemulsification is unknown. The detail the writer loads into the stem, a 2.5 mm keratome cutting a tunnel that is also 2.5 mm long, describes an unusually long, essentially square tunnel that grips the phaco sleeve and throttles irrigation inflow. That is the classic setup for chamber instability, surge and wound burn, so a tight tunnel incision is the intended answer. High bottle height, low aspiration rate and high vacuum are fluidic settings that would be adjusted, not incision errors, and none of them is suggested by the stem.",
+  "agreesWithHint": null,
+  "concern": "Stem is truncated after the word hydrodissection and never poses a question, so the reader cannot know what problem is being explained."
+ },
+ {
+  "task_id": "unkeyed#159",
+  "answer": "A",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "A screen at 50 cm demands 2 dioptres of accommodation, and the prescribing rule is that a patient should be asked to use no more than half of the available amplitude for sustained work, so with 1.5 dioptres of amplitude only 0.75 dioptres may be called upon and the add must be at least 1.25 dioptres. Of the powers offered, only 1.75 and 2.00 satisfy that requirement, and the weaker of the two is chosen because a stronger add needlessly shrinks the range of clear vision. With plus 1.00 the far point sits at 1 metre and the comfortable near limit is about 57 cm, so the screen at 50 cm would still be a strain, and plus 2.00 puts the far point exactly at the screen with nothing clear beyond it. No glasses at all is clearly wrong since the demand exceeds the whole amplitude.",
+  "agreesWithHint": null,
+  "concern": "The exact calculated add is plus 1.25, which is not among the options; plus 1.75 is the weakest offered power that still satisfies the half-amplitude reserve rule."
+ },
+ {
+  "task_id": "unkeyed#160",
+  "answer": "B",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "A prism bends light toward its base and therefore displaces the perceived image toward its apex, so base-up prism shifts images downward and makes the floor appear lower and further away than it is, which patients describe as the ground sloping or falling away. This is exactly what a new minus lens does in downgaze, since a minus lens behaves as two prisms placed apex to apex and its lower portion acts base-up. Base-down prism, and correspondingly a new plus lens, does the opposite and makes the floor seem to rise toward the patient. Base-in and base-out are horizontal and produce convergence or divergence complaints and lateral displacement, not a tilted floor.",
+  "agreesWithHint": null,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#161",
+  "answer": "A",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "In idiopathic intracranial hypertension the optic nerves are swollen but conduction is preserved until late, so the pupils react briskly and there is characteristically no relative afferent pupillary defect unless the disease is markedly asymmetric or advanced. Convergence-retraction nystagmus belongs to dorsal midbrain syndrome from a pineal region mass or aqueductal stenosis, not to raised pressure of this type. On imaging the perioptic subarachnoid space is distended with cerebrospinal fluid and therefore appears as a low density, not hyperdense, ring around the nerve. Field loss in papilloedema is an enlarged blind spot with nasal steps, arcuate defects and generalised constriction; a strictly altitudinal defect is the signature of anterior ischaemic optic neuropathy.",
+  "agreesWithHint": null,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#162",
+  "answer": "A",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "Interlenticular opacification, sometimes called the Elschnig pearl sandwich, occurs when both piggyback implants are placed inside the capsular bag, because residual lens epithelial cells migrate into the closed space between the two optics and proliferate there with no route of escape. The recognised prevention is to place the primary lens in the bag and the secondary lens in the ciliary sulcus, ideally with the haptics rotated so the optics are not apposed. Two lenses in the sulcus or one in the anterior chamber create their own problems, iris chafe, pigment dispersion, uveitis-glaucoma-hyphaema syndrome and endothelial loss, but not interlenticular opacification, since epithelial cells are not sequestered between the optics.",
+  "agreesWithHint": null,
+  "concern": "Option E is contaminated text belonging to the next question in the source and should be stripped before shipping."
+ },
+ {
+  "task_id": "unkeyed#165",
+  "answer": "B",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "A painful third nerve palsy with a dilated pupil is a posterior communicating artery aneurysm until proven otherwise, because the pupillomotor fibres run superficially in the nerve and are compressed first by an expanding aneurysm. The presence of diabetes is a distractor, since microvascular third nerve palsies characteristically spare the pupil. The workup must therefore include dedicated vascular imaging as well as structural imaging, so MRI together with MRA, or CT with CTA, performed immediately, and catheter angiography if these are negative and suspicion remains. Imaging without a vascular study, or delaying a week, or treating this as an endocrine problem, risks missing an aneurysm before it ruptures.",
+  "agreesWithHint": null,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#166",
+  "answer": "A",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "Every feature described is diagnostic of a tonic pupil: a dilated pupil that reacts poorly to light, light-near dissociation with a slow tonic redilation after a near effort, and segmental or vermiform contraction of the iris sphincter seen at the slit lamp, which reflects patchy postganglionic parasympathetic denervation from ciliary ganglion damage. Photophobia follows from the poor light reaction and from the accommodative paresis. Horner syndrome is the opposite picture, a small pupil with dilation lag, mild ptosis and anhidrosis, and the sphincter works normally, so it cannot explain a large poorly reacting pupil with segmental palsy. Denervation supersensitivity to dilute pilocarpine would confirm the diagnosis.",
+  "agreesWithHint": null,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#167",
+  "answer": "A",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "Keratoconic eyes are usually significantly myopic, and moving a myopic correction from the spectacle plane to the corneal plane changes the effective accommodative demand: a contact lens wearer must accommodate more than a spectacle wearer to focus the same near object, which is a direct consequence of the vertex distance. The same shift also removes the base-in prismatic help that minus spectacle lenses give on convergence, so near work feels harder overall. Option B is loosely worded, since a contact lens moves with the eye and induces essentially no prism of its own. Option C is backwards as an explanation for poor near vision, because rigid contact lenses reduce rather than preserve the corneal higher order aberrations that spectacles leave uncorrected.",
+  "agreesWithHint": null,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#168",
+  "answer": "D",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "Active or uncontrolled autoimmune and collagen vascular disease impairs corneal epithelial and stromal wound healing and predisposes to melt, so it is a recognised contraindication to keratorefractive surgery, which makes D the only true statement. Epithelial ingrowth after LASIK is driven by flap edge apposition, intraoperative epithelial defects and flap relifts, not by how deep the ablation was. Mitomycin C is applied to the stromal bed in surface ablation to suppress haze, and is not a routine part of LASIK nor a treatment for regression. Excimer lasers work by photoablative decomposition of tissue at 193 nm; photodisruption is the mechanism of the Nd:YAG and femtosecond lasers.",
+  "agreesWithHint": null,
+  "concern": "Options A, B and C carry the compiler's bracketed answer explanations, which give the key away, and option D has trailing text from the following question. The option text needs cleaning before shipping."
+ },
+ {
+  "task_id": "unkeyed#170",
+  "answer": "D",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "The option list is structurally broken: what should have been options a and b are merged into a single slot, so the reader cannot select between them. On the substance, the surgical limbus is a transition zone whose anterior edge corresponds to the peripheral termination of Bowman layer, the junction between the blue-grey and white zones corresponds to the end of Descemet membrane at Schwalbe line, and the posterior edge lies over the scleral spur and iris insertion. Since termination of Bowman layer is not offered, no option cleanly answers the question as written; the width statement is a true fact about limbal anatomy, the limbus being widest superiorly and narrowest nasally and temporally, but it does not identify a border.",
+  "agreesWithHint": null,
+  "concern": "Options a and b are merged into a single choice, and the landmark that actually defines the anterior limbal border, the termination of Bowman layer, is not among the choices."
+ },
+ {
+  "task_id": "unkeyed#171",
+  "answer": "B",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "The tempo of visual loss is one of the most useful triage tools in neuro-ophthalmology. Vascular occlusion and ischaemic events such as anterior ischaemic optic neuropathy or central retinal artery occlusion come on in seconds to minutes, inflammatory disease such as optic neuritis progresses over hours to a couple of weeks and then plateaus, and toxic, nutritional, compressive and hereditary processes creep on over weeks to months. Of the four options only a toxic process characteristically declares itself over months, as with ethambutol, amiodarone or tobacco-alcohol optic neuropathy.",
+  "agreesWithHint": null,
+  "concern": "Stem is extremely terse; the tempo framework is the only plausible reading."
+ },
+ {
+  "task_id": "unkeyed#172",
+  "answer": "A",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "Septate hyphae on a corneal scraping mean filamentous fungal keratitis, most often Fusarium or Aspergillus, and topical natamycin 5 percent is the first line agent and the only ophthalmic antifungal formally approved for this indication, with voriconazole as the usual second line or adjunct. Chlorhexidine and the biguanides are the treatment for Acanthamoeba, which shows cysts and trophozoites rather than hyphae. Fortified cefazolin and ceftazidime are the standard combination for bacterial keratitis and have no antifungal activity. Enucleation has no place in the management of an infective keratitis.",
+  "agreesWithHint": null,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#173",
+  "answer": "B",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "The cornea absorbs essentially all ultraviolet radiation below about 295 to 300 nm, so options in the 280 to 290 nm range never reach the lens. The crystalline lens then absorbs the remaining near ultraviolet, roughly 300 to 400 nm, which is why aphakic patients perceive near ultraviolet light as blue-violet and why ultraviolet blocking chromophores are built into modern intraocular lenses. Wavelengths of 400 to 450 nm are visible violet and blue light that the natural lens transmits, though it yellows with age, and this is the band that so-called blue-blocking yellow tinted intraocular lenses target. 500 to 600 nm is mid-spectrum visible light that is transmitted to the retina.",
+  "agreesWithHint": null,
+  "concern": "Option D has a trailing bibliographic citation from the source that should be stripped."
+ },
+ {
+  "task_id": "unkeyed#174",
+  "answer": "A",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "Correcting unilateral aphakia with a spectacle lens magnifies the image in that eye by roughly 25 to 30 percent, far beyond the 5 to 8 percent difference the fusional system can tolerate, so the two images cannot be fused and the patient experiences intractable diplopia. This is precisely why spectacles are unacceptable for unilateral aphakia in a cooperative adult and why a contact lens, which reduces the disparity to a few percent, or an intraocular lens, which nearly eliminates it, is required. Anisometropic amblyopia is the relevant consequence in a young child whose visual system is still developing, but it is not the effect of the spectacle correction itself, and exotropia is a possible secondary sensory consequence rather than the primary optical effect.",
+  "agreesWithHint": null,
+  "concern": "Option C carries the stem of the following question as trailing text and needs cleaning."
+ },
+ {
+  "task_id": "unkeyed#178",
+  "answer": "A",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "A diabetic patient with orbital signs, diffuse orbital infiltration on imaging and thickened nasal mucosa has invasive fungal rhino-orbital disease, mucormycosis or Aspergillus, until proven otherwise, and the absence of fever and a normal white count do nothing to reassure. Tissue diagnosis is urgent, so biopsy of the orbit or of the nasal mucosa at endoscopy, with frozen section looking for broad non-septate hyphae invading vessels, is the correct next step, alongside systemic amphotericin B, correction of the ketoacidosis and surgical debridement. Systemic steroids, as in option B, would be actively harmful by worsening immunosuppression and hyperglycaemia. Oral antibiotics with delayed review, or a non-steroidal with review tomorrow, would waste the narrow window in which this condition is survivable.",
+  "agreesWithHint": null,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#179",
+  "answer": "D",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "The widely used criteria for attempting medical management of a subperiosteal orbital abscess require all of the following: age under nine, a medial abscess, small volume, no gas in the collection, no intracranial or frontal sinus involvement, normal vision and pupil, and no dental source. Frontal sinusitis falls outside those criteria and is therefore an indication for drainage, because frontal sinus disease implies more virulent and often anaerobic organisms with a real risk of intracranial extension. Age under nine and a medial location are the two features that most favour a trial of intravenous antibiotics rather than surgery, so options A and B are inverted. Any size is wrong because it is specifically large abscesses that need drainage.",
+  "agreesWithHint": null,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#180",
+  "answer": "A",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "A tight suture steepens the corneal meridian in which it lies, so a 10-0 nylon suture at the 180 degree meridian makes 180 the steeper meridian, which in minus cylinder notation is written as minus cylinder at axis 90, since the minus power then acts in the 180 meridian. A refraction of minus 2.00 at axis 90 is therefore consistent with suture-induced steepening at 180, and cutting or removing that suture will relax the meridian and reduce the astigmatism. Minus 2.00 at axis 180 means the steep meridian is at 90, which is the opposite of what this suture produces, so removing it would make that astigmatism worse rather than better.",
+  "agreesWithHint": null,
+  "concern": "Option B carries the stem of the following question as trailing text and needs cleaning."
+ },
+ {
+  "task_id": "unkeyed#184",
+  "answer": "C",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "This is a painful complete third nerve palsy with pupil involvement, and the pupil is the discriminator: the pupillomotor fibres run superficially on the dorsomedial aspect of the nerve, so a compressive lesion such as a posterior communicating artery aneurysm affects them early, whereas the ischaemic infarction of the nerve core seen in diabetes classically spares the pupil. The presence of diabetes in the history is deliberately there to tempt option A. Thyroid eye disease produces a restrictive pattern with lid retraction rather than ptosis and never a fixed dilated pupil, and hypertension acts only as a microvascular risk factor, sharing the pupil-sparing profile. Urgent vascular imaging is mandatory.",
+  "agreesWithHint": null,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#185",
+  "answer": "B",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "Cyclosporine acts on the afferent arteriole and is directly nephrotoxic, causing a dose-dependent fall in glomerular filtration and, with prolonged use, interstitial fibrosis, so pre-existing renal impairment is the contraindication that matters most and creatinine must be monitored throughout therapy. Uncontrolled hypertension is also listed as a contraindication in the product labelling, and cyclosporine itself raises blood pressure in a large proportion of patients, so option A is defensible; the difference is that hypertension can usually be brought under control and the drug then used with monitoring, whereas established renal failure removes the safety margin altogether. Peripheral neuropathy is not a cyclosporine issue, and cyclosporine is not myelosuppressive, which is one of its advantages over alkylating agents and antimetabolites, so myelofibrosis is irrelevant.",
+  "agreesWithHint": null,
+  "concern": "Arguably double-keyed: uncontrolled hypertension is also a labelled contraindication to cyclosporine."
+ },
+ {
+  "task_id": "unkeyed#186",
+  "answer": "A",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "Both options name real optical biometry techniques that have replaced ultrasound. Partial coherence interferometry, the principle of the original IOLMaster, is a laser interferometric method, while optical low-coherence reflectometry is the principle of the Lenstar and of several swept-source devices; both measure axial length along the visual axis without contacting the cornea and both are more reproducible than applanation A-scan. Laser interferometry is the more classically taught answer because it came first and is the technique most often named in textbooks, but the item as recalled has two correct choices and no discriminator.",
+  "agreesWithHint": null,
+  "concern": "Both offered options are legitimate non-ultrasound methods of axial length measurement, so the item is double-keyed as recalled and likely lost its distractors."
+ },
+ {
+  "task_id": "unkeyed#187",
+  "answer": "A",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "Visual loss in the setting of a subperiosteal abscess signals optic nerve compromise and is an absolute indication for immediate surgical drainage, together with intravenous antibiotics; it overrides the age and location criteria that would otherwise permit a trial of medical therapy. Intravenous antibiotics alone are correct only for a small medial abscess in a child under nine with normal vision and pupil, and they should of course be given here as well, but they are not sufficient on their own. Oral antibiotics have no role in an orbital abscess, and observing for progression when the nerve is already failing risks permanent blindness within hours.",
+  "agreesWithHint": null,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#188",
+  "answer": "A",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "Reflux of mucus from the punctum on pressure over the lacrimal sac confirms congenital nasolacrimal duct obstruction with a mucocele, and around 90 percent of these resolve spontaneously as the membrane at the valve of Hasner opens during the first year of life. At eleven months the standard management is therefore conservative: Crigler hydrostatic massage over the sac to raise pressure in the duct, with a topical antibiotic when there is mucopurulent discharge. Probing is reserved for persistence beyond about twelve months, for recurrent dacryocystitis or for an amniotocele in the newborn, so option C is premature by a matter of weeks. Incision and drainage is for a pointing acute dacryocystitis abscess, not for a chronically discharging sac.",
+  "agreesWithHint": null,
+  "concern": "Option A contains the compiler's bracketed commentary, which partly reveals the key; the option text needs cleaning."
+ },
+ {
+  "task_id": "unkeyed#189",
+  "answer": "A",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "Actinic keratosis is the prototypical premalignant epidermal lesion, arising on chronically sun-exposed skin as a scaly erythematous plaque with dysplastic keratinocytes confined to the epidermis, and a proportion progress to invasive squamous cell carcinoma if untreated. Lentigo simplex is a benign proliferation of basal melanocytes with no atypia and no malignant potential, and it should not be confused with lentigo maligna, which is a melanoma in situ and does carry that risk.",
+  "agreesWithHint": null,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#190",
+  "answer": "A",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "The morpheaform or sclerosing subtype of basal cell carcinoma infiltrates as thin strands of tumour within a dense fibrous stroma, so its clinical margins are far wider than they appear and subclinical extension is the rule, which gives it the highest recurrence rate after incomplete excision and makes it the classic indication for Mohs micrographic surgery or frozen section margin control. Nodular basal cell carcinoma is well circumscribed with rolled pearly borders and is the most common and most easily cleared subtype. Pigmented basal cell carcinoma is a colour variant, usually of the nodular type, and its behaviour follows its underlying architecture rather than its pigment.",
+  "agreesWithHint": null,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#191",
+  "answer": "B",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "Haab striae are healed horizontal or concentric breaks in Descemet membrane caused by corneal stretching in infantile glaucoma, and the question is really asking how to confirm that the eye was buphthalmic in childhood. Axial length, which remains permanently elongated once the immature sclera has stretched, together with an enlarged corneal diameter, provides that evidence in a twenty year old and also separates Haab striae from forceps-related Descemet tears, which are typically unilateral, vertical or oblique, and occur in an eye of normal size. Pachymetry gives a corneal thickness that is variable and non-specific in these eyes. Anterior segment OCT and UBM will image the breaks and the angle anatomy but only confirm what is already visible at the slit lamp rather than establishing the underlying diagnosis.",
+  "agreesWithHint": null,
+  "concern": "Recall refers to a photograph that is not attached, but the stem states the finding in words."
+ },
+ {
+  "task_id": "unkeyed#192",
+  "answer": "C",
+  "usable": true,
+  "confidence": "low",
+  "explanation": "Exfoliation syndrome, the modern name for pseudoexfoliation, has been linked epidemiologically to cumulative ultraviolet and sunlight exposure alongside latitude, altitude and the LOXL1 genotype, which is the association the question is most likely testing. The tempting alternative is infrared, which causes true exfoliation of the lens capsule, the lamellar delamination of the anterior capsule seen historically in glassblowers and furnace workers; if the writer meant that entity rather than exfoliation syndrome the answer would be infrared instead. X-rays cause radiation cataract and microwaves are associated with thermal lens injury, but neither produces exfoliative material.",
+  "agreesWithHint": null,
+  "concern": "Genuinely split between ultraviolet (exfoliation syndrome) and infrared (true exfoliation of the lens capsule) depending on which entity the writer meant."
+ },
+ {
+  "task_id": "unkeyed#193",
+  "answer": "C",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "The stem has lost almost everything except a duration and the word painful, so the clinical scenario cannot be reconstructed and no option can be defended. If the intended picture was a chronically inflamed painful eye with visual loss over four weeks, peripheral anterior synechiae would be the expected structural consequence of persistent anterior chamber inflammation. Blood in Schlemm canal points instead to raised episcleral venous pressure, as in a carotid-cavernous fistula or Sturge-Weber, and is also a normal artefact of gonioscopic compression, while optic nerve swelling and vitritis belong to quite different diagnoses.",
+  "agreesWithHint": null,
+  "concern": "Stem is truncated to the point of incomprehension; the clinical scenario is missing entirely."
+ },
+ {
+  "task_id": "unkeyed#194",
+  "answer": "B",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "The superior rectus and the levator palpebrae superioris share a common embryological origin and are linked by fascial attachments, so surgery on one moves the other: resecting or advancing the superior rectus pulls the levator forward and downward and produces upper eyelid ptosis, narrowing the palpebral fissure. Recession of the superior rectus does the opposite and causes upper lid retraction. Inferior rectus recession is linked through the lower lid retractors to lower eyelid retraction, which widens rather than narrows the fissure, so option D is the reverse of what is described. A superior oblique tuck produces an iatrogenic Brown syndrome and an inferior oblique myectomy weakens extorsion and elevation in adduction; neither has an eyelid effect.",
+  "agreesWithHint": null,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#196",
+  "answer": "A",
+  "usable": false,
+  "confidence": "low",
+  "explanation": "This entry is a summary paragraph on distinguishing true from simulated divergence excess that has been split across two option slots; there is no question and both statements are broadly correct teaching. The genuine content is that in an intermittent exotropia worse at distance you occlude one eye for an hour and remeasure, and if the near deviation then equals the distance deviation the case was simulated divergence excess held together by tenacious proximal fusion, whereas if the distance deviation remains larger you add plus 3 lenses at near to relax accommodative convergence, and persistence of a larger distance deviation confirms true divergence excess.",
+  "agreesWithHint": null,
+  "concern": "Not a question; both options are fragments of a correct summary paragraph rather than competing answers."
+ },
+ {
+  "task_id": "unkeyed#197",
+  "answer": "A",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "Faced with a limited elevation the first task is to decide whether the problem is restrictive or paretic, and forced duction testing under anaesthesia is what answers that question, separating a tight inferior rectus, an entrapped orbital floor fracture or a fibrosis syndrome from a true monocular elevation deficiency. Only once the mechanism is known can the correct operation be chosen. The Knapp procedure, full-tendon transposition of the horizontal recti to the superior rectus, is the treatment for a genuine double elevator palsy with free forced ductions, so it presupposes the very test that is being asked about and cannot be the first step.",
+  "agreesWithHint": null,
+  "concern": "Recall refers to a photograph that is not attached, but the choice between a diagnostic test and a definitive operation does not depend on it."
+ },
+ {
+  "task_id": "unkeyed#199",
+  "answer": "B",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "Exotropia in primary position with limited adduction and relatively preserved abduction is Duane retraction syndrome type II, in which the lateral rectus receives aberrant innervation and co-contracts with the medial rectus on attempted adduction. That co-contraction tightens the globe against the lateral rectus and causes the vertical upshoot, sometimes called the leash phenomenon, along with globe retraction and fissure narrowing on adduction. Type I is the common variant with limited abduction and esotropia in primary position, so both options that name it are excluded by the exotropia. Bilateral inferior oblique overaction produces elevation in adduction but with normal horizontal ductions and no retraction, and would not limit adduction.",
+  "agreesWithHint": null,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#200",
+  "answer": "A",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "As the retinoscopic reflex approaches neutrality it becomes brighter, fills the pupil more completely and moves faster, until at neutrality it flashes on and off across the whole pupil with no discernible direction of movement. Far from neutrality the opposite holds, the reflex is dim, narrow and slow, so option B describes moving away from rather than toward neutrality. Skew or oblique movement of the reflex indicates that the retinoscope streak is off the principal meridian in an astigmatic eye and tells you to rotate the streak, and is not a sign of approaching neutrality.",
+  "agreesWithHint": null,
+  "concern": ""
+ },
+ {
+  "task_id": "unkeyed#203",
+  "answer": "A",
+  "usable": true,
+  "confidence": "medium",
+  "explanation": "An intraocular pressure of 44 mmHg on four topical agents means maximal medical therapy has already failed, and in a thirty year old with progressive damage the next step has to be incisional surgery rather than another temporising measure. Oral acetazolamide is useful as a short bridge while surgery is arranged but it is not a durable answer and its systemic burden is poorly tolerated long term. Laser trabeculoplasty performs badly in young patients and in secondary glaucomas, and it is relatively contraindicated where inflammation is part of the picture, so it is unlikely to buy much at this pressure. A glaucoma drainage device, or a trabeculectomy with antimetabolite if that were offered, is the appropriate definitive step.",
+  "agreesWithHint": null,
+  "concern": "The stem is vague about what the unilateral colour change represents, so the underlying diagnosis is uncertain; the management principle for failed maximal medical therapy is what carries the answer."
+ },
+ {
+  "task_id": "unkeyed#204",
+  "answer": "C",
+  "usable": true,
+  "confidence": "high",
+  "explanation": "A shield ulcer in vernal keratoconjunctivitis with a translucent or whitish base has accumulated a plaque of mucus, fibrin and inflammatory debris over the exposed Bowman layer, and that plaque is itself a mechanical barrier that prevents epithelial cells from migrating across the defect. No amount of additional topical therapy will heal it while the plaque remains, which is exactly why the ulcer has failed to improve on prolonged medication, so debridement or superficial keratectomy of the base, combined with intensified anti-inflammatory treatment and often an amniotic membrane or bandage lens afterwards, is the correct next step. Tarsorrhaphy addresses exposure and neurotrophic failure, which is not the mechanism here, and phototherapeutic keratectomy is a disproportionate intervention for a plaque that lifts with a blade or spatula.",
+  "agreesWithHint": null,
+  "concern": ""
+ }
+]

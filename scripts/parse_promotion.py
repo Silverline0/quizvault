@@ -1467,7 +1467,7 @@ def write_manifest(by_bank):
     print(f"\n  manifest updated: {len(by_bank)} Promotion banks registered")
 
 
-def prune_unused_images(questions, shots, anchors):
+def prune_unused_images(questions, shots, anchors, rejects=()):
     """
     Extraction writes every content image on a page, including the decorations
     on section title pages and the figures of candidates that were rejected.
@@ -1489,6 +1489,13 @@ def prune_unused_images(questions, shots, anchors):
     for a in anchors:
         for u in a.images:
             keep.add(os.path.basename(u))
+    # Recalls the source never keyed are held back from the published banks but
+    # can still ship, reviewer-answered, in their own bank -- so their figures
+    # have to survive the prune or those questions arrive with a broken image.
+    for r in rejects:
+        if r.get("looks_like_question"):
+            for u in r.get("images") or ():
+                keep.add(os.path.basename(u))
 
     freed = 0
     removed = 0
@@ -1583,7 +1590,8 @@ def main():
             json.dump(qs, fh, ensure_ascii=False, indent=1)
 
     write_manifest(by_year)
-    prune_unused_images(questions, shots, screenshot_only + section_anchors)
+    prune_unused_images(questions, shots, screenshot_only + section_anchors,
+                        rejects)
 
     if glob.glob(os.path.join(REPORT_DIR, "ocr", "result_*.json")):
         print("\n  NOTE: transcribed screenshot recalls exist but were just\n"

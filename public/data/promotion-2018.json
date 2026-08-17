@@ -955,6 +955,12 @@
   "pdfPage": 228,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p228_c0fadc37a2.png",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Most unilateral retinoblastoma arising in a child of healthy parents is somatic and non-heritable; only roughly 10-15% of unilateral cases carry a germline RB1 mutation, and even then it is usually de novo. The empiric recurrence risk quoted for a subsequent sibling when both parents are unaffected and the index child has unilateral disease is about 1%, so the 1-2% band is correct. The 5-10% figure is closer to what is quoted when the index child has bilateral (hence germline) disease, and 10-15% is far too high for any sporadic unilateral scenario. Definitive counselling comes from RB1 testing of tumour and blood, since a confirmed germline mutation raises transmission risk to nearly 50% per child, while siblings should still be examined serially until testing clarifies risk."
+  },
   "pageScanUrl": "/images/promotion-pages/page_228.jpg"
  },
  {
@@ -973,6 +979,12 @@
   "pdfPage": 228,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p229_989a1938d1.png",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "An exodeviation that is larger at near than at distance defines the convergence insufficiency type of exotropia, and it is accompanied by a remote near point of convergence and poor fusional convergence amplitudes. A high AC/A ratio produces the opposite pattern, an exodeviation greater at distance (divergence excess type), because accommodating at near recruits extra convergence and partly controls the deviation. Basic exotropia has distance and near measurements within about 10 prism dioptres of each other. Before labelling a true divergence excess, repeat the near measurement after monocular occlusion or through +3.00 lenses to unmask pseudo-divergence excess."
+  },
   "pageScanUrl": "/images/promotion-pages/page_228.jpg"
  },
  {
@@ -988,7 +1000,14 @@
   "explanation": ", I think this is abusive head trauma (AHT),aka shaken baby syndrome cases, is retinal hemorrhage. The ocular adnexa and anterior segment usually appear entirely normal. Retinal hemorrhages can occur in all layers of the retina and may be unilateral or bilateral. can be tried. One is maintaining the infant upright during the day if possible given other comorbidities[9]. Upright positioning allows the blood to settle inferiorly within the bleb and may allow the fovea to be sufficiently clear to avoid surgical evacuation. - Surgical vitrectomy may be needed for nonclearing vitreous hemorrhage, macular hole, or retinal detachment, but procedures are complex in infant eyes and often require consultation with a pediatric retina trained surgeon. Often, the prognosis can vary significantly for victims of SBS depending on the severity of the trauma and effect on the central neural system. Careful physician documentation of findings and fundus photography (if available) can prove very helpful especially in a court of law. - Child protective services and local law enforcement should immediately be alerted in all cases of abuse or suspected abuse. 52. Conjunctiva neonaturm aquistion, from where did neonate get infection: Reference: Eyewiki: Shaken baby syndrome: Management: - If preretinal blood obscures the macula raising concern for amblyopia, several options",
   "year": "2018",
   "subspecialty": "Pediatrics",
-  "pdfPage": 229
+  "pdfPage": 229,
+  "review": {
+   "answer": "C",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Retinal haemorrhages in an infant that are numerous, multilayered and extend to the periphery, particularly with perimacular folds or traumatic retinoschisis, are the ocular hallmark of abusive head trauma, and the anterior segment is characteristically normal. Reporting to child protective services is a mandated, non-delegable step for the examining physician and is what changes the child's outcome, so it takes priority. Neuroimaging is certainly part of the workup, but MRA is aimed at vascular malformations and does not address the central concern, and pure observation leaves a child at risk of repeat injury. Document the findings carefully with drawings or RetCam photography, since the record may later be needed forensically.",
+   "concern": "The stem is a degraded recall; if the infant is a true neonate, benign birth-related retinal haemorrhages occur in up to a third of vaginal deliveries and resolve spontaneously, which would make observation defensible. The answer given assumes the intended scenario is abusive head trauma."
+  }
  },
  {
   "id": 56,
@@ -1006,7 +1025,14 @@
   "subspecialty": "Pediatrics",
   "pdfPage": 230,
   "imageUrl": "/images/promotion/p230_c83ae21d98.jpg",
-  "ocr": true
+  "ocr": true,
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "An esotropia larger at near (45 PD) than at distance (30 PD) with moderate hyperopia, which straightens at distance on full cycloplegic correction but leaves a residual 15 PD esotropia at near, is non-refractive accommodative esotropia driven by a high AC/A ratio. The standard treatment is a bifocal add of +2.50 to +3.00, and the segment must be an executive or wide flat-top type set high enough that its top edge bisects the pupil or crosses the lower pupillary margin, because a child will look through the distance portion otherwise. A conventional adult-style segment placed at the lower lid margin, or a progressive lens, will not be used by the child and is the usual distractor. The add is later weaned by about 1.00 D per year as fusional divergence improves.",
+   "concern": "The answer depends on which lens panel is shown in each labelled image, which I cannot see; the reasoning above identifies the correct lens design rather than verifying the panel letter."
+  }
  },
  {
   "id": 57,
@@ -1025,6 +1051,12 @@
   "pdfPage": 249,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p250_097c40af94.png",
+  "review": {
+   "answer": "D",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "This is indirect traumatic optic neuropathy: a dense afferent defect after a frontal impact, with a normal fundus and a CT showing an intact canal, no fragments, no haematoma and a nerve of normal calibre and enhancement. The International Optic Nerve Trauma Study found no benefit of either corticosteroids or optic canal decompression over observation, so neither surgical option is justified when no compressive lesion is demonstrable. Megadose steroids are worse than merely unhelpful here because the patient has a frontal lobe contusion, and the CRASH trial showed increased mortality with high-dose steroids in acute head injury. Decompression, whether transethmoidal or endoscopic, is reserved for an identifiable ongoing compressive cause such as an impinging bone fragment or an optic nerve sheath haematoma."
+  },
   "pageScanUrl": "/images/promotion-pages/page_249.jpg"
  },
  {
@@ -1041,7 +1073,13 @@
   "explanation": "Orbital compartment syndrome is defined by an acute rise in orbital tension and needs to be recognized and treated promptly to avoid permanent visual loss. If you know the mechanism of injury in this case is a retrobulbar hemorrhage, you must act to lower the pressure with mechanical factors first rather than medical ones (i.e. this is a different entity of increase intraocular pressure as compared to an IOP-spike a day after cataract surgery). The best first step is to perform a canthotomy with a complete inferior cantholysis. After successfully doing so, if the pressure has not returned to below 30-35 mmHg or so, then you probably have more to do. While it is certainly one option to try topical or systemic medical therapy, or even consider a paracentesis, the best option is to proceed with lysing the superior crus of the lateral canthal tendon to allow for further prolapse of the orbital contents forward to relieve the orbital tension.",
   "year": "2018",
   "subspecialty": "Oculoplastics",
-  "pdfPage": 250
+  "pdfPage": 250,
+  "review": {
+   "answer": "D",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Orbital compartment syndrome from retrobulbar haemorrhage is a mechanical problem and demands a mechanical solution, delivered within minutes because the optic nerve and posterior ciliary circulation tolerate very little ischaemic time. If the pressure remains above roughly 30-35 mmHg and the lids are still tight after canthotomy and inferior cantholysis, the release is incomplete, and lysing the superior crus of the lateral canthal tendon frees the lid from the rim and allows further anterior prolapse of orbital contents. Brimonidine and acetazolamide act on aqueous dynamics, are far too slow, and do nothing about retrobulbar pressure. Paracentesis lowers intraocular pressure while leaving orbital pressure and optic nerve perfusion unchanged, and adds the risks of an intraocular procedure in a traumatised eye."
+  }
  },
  {
   "id": 59,
@@ -1058,7 +1096,13 @@
   "year": "2018",
   "subspecialty": "Oculoplastics",
   "pdfPage": 251,
-  "imageUrl": "/images/promotion/p251_11afba351e.png"
+  "imageUrl": "/images/promotion/p251_11afba351e.png",
+  "review": {
+   "answer": "D",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Just above the tarsus the levator aponeurosis sends fine fibrous slips anteriorly that insert into the pretarsal orbicularis and overlying skin; when the levator contracts these slips pull the skin inward and create the eyelid crease. This explains why Asian eyelids, in which the orbital septum fuses low and preaponeurotic fat descends to block these attachments, have a low crease or none at all. It also explains the clinical sign of aponeurotic ptosis, where dehiscence of the aponeurosis from the tarsus lets the whole complex slide superiorly and raises the crease on the ptotic side. The tarsus itself is not visible through skin, the canthal tendons anchor the lids horizontally rather than creating a horizontal crease line, and there is no embryologic brow-to-lid fusion event responsible for it."
+  }
  },
  {
   "id": 60,
@@ -1074,7 +1118,13 @@
   "explanation": "Patients with suspicion of intraocular malignancies should undergo enucleation. Some authors recommend against evisceration to guard against the risk of removing an occult malignancy which could be spread along tissue layers. However, evisceration is often performed and is often a slightly faster procedure than enucleation. Therefore, it is a good option for patients who cannot have a long procedure or general anesthesia. Additionally, it is a good option for a patient with endophthalmitis and poor visual potential to prevent possible spread along the meninges. Lastly, evisceration involves removing the contents of the eye and, if a prosthetic implant is placed into the residual scleral bed, can usually result in better movement of the prosthetic since the extraocular muscles are still attached to the globe.",
   "year": "2018",
   "subspecialty": "Oculoplastics",
-  "pdfPage": 251
+  "pdfPage": 251,
+  "review": {
+   "answer": "C",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Any suspicion of intraocular malignancy is a contraindication to evisceration, because the procedure disrupts the tumour, leaves sclera behind, precludes proper pathologic staging of extrascleral extension, and risks orbital seeding; enucleation with an intact globe is required. The other three are genuine advantages of evisceration: it is quicker and can be done under local or block anaesthesia in a patient who cannot tolerate general anaesthesia, it preserves the muscle attachments to the scleral shell so prosthetic motility is generally better, and in endophthalmitis it avoids opening the subarachnoid space along the optic nerve. Note that evisceration also carries a theoretical risk of sympathetic ophthalmia, though the actual incidence is very low."
+  }
  },
  {
   "id": 61,
@@ -1090,7 +1140,13 @@
   "explanation": "After the enucleation, an acrylic or silicone conformer is placed in the conjunctival fornices to maintain the conjunctival space that will eventually hold the prosthesis. The conformer helps prevent cicatrization of the fornices. Left without a conformer for several days, the fornices can adhere to each other and make placing a prosthetic very difficult in the future. Mucous membrane grafting to reconstruct the fornices may be needed in such instances. To avoid this situation, conformers (and also prostheses) \"should not be removed for periods greater than 24 hours\" (verbatim from the BCSC Oculoplastics book). Editor's Note: so if you are a 1st year resident taking this call from the patient, just go in and put the conformer back in for the patient!",
   "year": "2018",
   "subspecialty": "Oculoplastics",
-  "pdfPage": 252
+  "pdfPage": 252,
+  "review": {
+   "answer": "C",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "The conformer maintains the conjunctival fornices in the early postoperative period, and if it is left out the raw conjunctival surfaces adhere to one another and the fornices contract, sometimes irreversibly within days. Standard oculoplastic teaching is that a conformer or prosthesis should not be left out for more than 24 hours, so the patient must be seen the same day and it must be replaced. Waiting a week or a month risks fornix cicatrisation that later requires mucous membrane grafting to rebuild a socket capable of holding a prosthesis. Telling the patient the conformer is only for comfort is factually wrong; comfort is incidental to its structural role."
+  }
  },
  {
   "id": 62,
@@ -1110,7 +1166,13 @@
   "imageUrl": "/images/promotion/p252_2b4974544f.png",
   "imageUrls": [
    "/images/promotion/p253_4aef816e17.png"
-  ]
+  ],
+  "review": {
+   "answer": "C",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "A soft, mobile, glistening yellow subconjunctival mass that appeared recently in an elderly patient and slowly enlarged is prolapsed orbital fat, which herniates forward through an attenuated Tenon capsule and orbital septum with age, most often superotemporally. A lipodermoid looks similar but is a congenital choristoma present from birth, typically fixed at the lateral canthal region and sometimes associated with Goldenhar syndrome, so a lesion first noted at age 71 excludes it. Hemangiopericytoma, now classified as a solitary fibrous tumour, is a firm intraconal mass presenting with proptosis rather than a subconjunctival lump. Pleomorphic adenoma arises in the lacrimal gland and produces a firm superotemporal mass with slowly progressive non-axial proptosis and globe displacement, not a soft mobile conjunctival mass."
+  }
  },
  {
   "id": 63,
@@ -1126,7 +1188,13 @@
   "explanation": "The photo shows a partially-dehisced upper lid blepharoplasty incision. The dehisced area is healing by secondary intention. The golden-brown area along the central incision is dried serosanguinous drainage covering the granulation tissue which has formed in the exposed wound bed. Wound dehiscence after blepharoplasty surgery occurs in approximately 2% of patients, usually only involving a short segment of the incision. A small dehiscence can be allowed to heal by secondary intention. A larger dehiscence should be prepped sterile, numbed with local anesthetic, debrided to remove granulation tissue and freshen the wound edges, then sutured closed. Optimal control of diabetes perioperatively helps improve wound healing, thereby decreasing the risk of dehiscence. Anything that impairs wound healing will increase the risk of wound dehiscence, including obesity (choice \"C\"), poor nutrition, diabetes, smoking, or alcohol intake (choice \"D\"). Significant bleeding beneath the incision can create tension on the wound which can lead to dehiscence (choice \"A\"). Guo S, DiPietro LA. Factors affecting wound healing. J Dent Res. 2010;89:219-29. Kashkouli MB, et al. Upper blepharoplasty and lateral wound dehiscence. Middle E Afr J",
   "year": "2018",
   "subspecialty": "Oculoplastics",
-  "pdfPage": 253
+  "pdfPage": 253,
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "The picture is a partially dehisced upper lid blepharoplasty incision at day 10 healing by secondary intention, and among the listed variables the only modifiable one that impairs wound healing in this patient is her diabetes. Hyperglycaemia impairs neutrophil function, collagen deposition and fibroblast proliferation, so tighter perioperative glycaemic control genuinely reduces dehiscence risk. Continued anticoagulation would raise the risk of haematoma and would not have prevented dehiscence; her BMI of 23 is normal and a higher BMI impairs rather than improves healing; and alcohol impairs wound healing and increases bleeding risk, so nightly wine is not protective. Management of a small dehiscence is conservative, while a longer one is debrided, freshened and resutured."
+  }
  },
  {
   "id": 64,
@@ -1164,6 +1232,12 @@
    }
   ],
   "figureFinding": "Trichiasis - misdirected eyelashes rubbing the globe, the lesion for which mechanical epilation is used as temporary relief.",
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Epilation removes the lash with its root but leaves the follicle intact, so regrowth is essentially universal and takes on the order of three to six weeks, which within the offered options corresponds to 4-6 weeks. This is precisely why epilation is only a temporising measure for trichiasis and why patients need repeated visits; definitive treatment requires follicle destruction by electrolysis, radiofrequency, cryotherapy, argon laser or surgical excision of the lash follicles. One to two weeks is too short and reflects the regrowth of a lash that was merely cut or broken rather than pulled, and a broken stub is often more abrasive to the cornea than the mature lash it replaced."
+  },
   "pageScanUrl": "/images/promotion-pages/page_253.jpg"
  },
  {
@@ -1180,7 +1254,13 @@
   "explanation": "Posterior ischemic optic neuropathy (PION) is much rarer than anterior ischemic optic neuropathy but similarly is believed to be related to hypoperfusion of the posterior optic nerve. Usually the hypoperfusion is due to a perfect storm of contributing risk factors including anemia, hypotension, poor cardiac output, hypovolemia, and cardiopulmonary instability during surgery. Rarely PION can be related to a vasculitic process including giant cell arteritis, lupus-associated vasculitis, polyarteritis nodosa, and VZV related vasculitis. Unlike anterior ischemic optic neuropathy, PION almost always has a normal appearing optic nerve in the acute phase. Dorsal midbrain syndrome does include pupillary light-near dissociation, but has other findings not exhibited in this patient and does not typically result in sudden bilateral vision loss. As an aside, any disease process causing bilateral optic neuropathy can result in pupillary light-near dissociation. A 20-year-old female complains of intermittent binocular diplopia when she is reading late at night. Review of old photographs reveals a chronic right head tilt since early",
   "year": "2018",
   "subspecialty": "Optics",
-  "pdfPage": 271
+  "pdfPage": 271,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Bilateral severe vision loss discovered on waking from prolonged cardiac or spine surgery, with sluggish pupils, light-near dissociation and completely normal optic discs, is the classic picture of perioperative posterior ischaemic optic neuropathy. The infarct is retrobulbar, so the disc appears normal acutely and becomes pale only after four to eight weeks; the risk factors are prolonged surgery, hypotension, anaemia, large fluid shifts and venous congestion. Both forms of anterior ischaemic optic neuropathy are excluded by the normal fundus examination, since by definition they present with a swollen disc. Dorsal midbrain syndrome does cause light-near dissociation but comes with upgaze palsy, convergence-retraction nystagmus and lid retraction, and it does not cause bilateral hand-motion vision with a normal afferent pathway examination."
+  }
  },
  {
   "id": 66,
@@ -1196,7 +1276,13 @@
   "explanation": "A good careful motility examination includes both ductions testing and versions testing Ductions describe testing of ocular motility under monocular conditions (in other words, covering one eye and testing the other eye) while versions are tested under binocular conditions (both eyes open). Why does it matter? Sometimes, as in this case, a subtle motility deficit may not be appreciated under monocular ductions testing but is obvious when testing versions. In this case, the patient suffers from a classic case of a left congenital 4th nerve palsy with overaction of the inferior oblique. The inferior oblique \"overaction\" is a result of a weak antagonistic superior oblique muscle. The inferior oblique overaction effect is always most evident in adduction where the muscle has its greatest elevation effect.",
   "year": "2018",
   "subspecialty": "Optics",
-  "pdfPage": 272
+  "pdfPage": 272,
+  "review": {
+   "answer": "D",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Ductions are monocular movements tested with the fellow eye covered, whereas versions are binocular conjugate movements; the stem states that each eye moves fully alone but that the left eye overelevates in right gaze when both eyes are open, which is by definition normal ductions with abnormal versions. The pattern of a left hypertropia worse in right gaze and downgaze with an upshoot of the left eye in adduction is a congenital left fourth nerve palsy with secondary inferior oblique overaction, and inferior oblique overaction is characteristically seen only under binocular versions. This is exactly why a complete motility examination must include both, since a purely monocular examination would have called this eye normal. Completing the assessment with Parks three-step testing and looking for a head tilt and facial asymmetry confirms the diagnosis."
+  }
  },
  {
   "id": 67,
@@ -1212,7 +1298,13 @@
   "explanation": "Orbital apex syndrome (OAS) involves cranial neuropathies in association with optic nerve dysfunction. Orbital apex syndrome is symptomatically related to superior orbital fissure syndrome and cavernous sinus syndrome with similar etiologies. The distinction is the precise anatomic involvement of the disease process. Signs/Symptoms: The most common initial manifestation of OAS is visual loss and ophthalmoplegia involving multiple cranial nerves Visual loss is due to CNII involvement. Optic disc edema or subsequent optic atrophy may develop within weeks to months. Ophthalmoplegia with variable diplopia, mydriasis, and ptosis due to CNIII, IV, VI involvement Absence of corneal sensations and corneal reflex Pupillary abnormalities: Relative Afferent Pupillary Defect (RAPD) Choroidal folds Periorbital/facial pain and hypoesthesia of the forehead due to CNV involvement. Proptosis with or without orbital congestion Chemosis and/or conjunctival injection Cavernous Sinus Syndrome (CSS): Cavernous sinus syndrome may also present with multiple oculomotor cranial neuropathies, including III, IV, VI, and sensory dysfunction from involvement of V1. The internal carotid artery may also be involved with the primary process in CSS. Optic nerve dysfunction should not occur in CSS.",
   "year": "2018",
   "subspecialty": "Optics",
-  "pdfPage": 272
+  "pdfPage": 272,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "The optic nerve is the discriminator: it runs through the orbital apex within the annulus of Zinn but never enters the cavernous sinus, so visual loss with a relative afferent pupillary defect localises the lesion to the apex rather than to the sinus. Cranial nerves III, IV, VI and V1 traverse both regions and their involvement therefore cannot separate the two. The nasociliary nerve is a V1 branch present at the apex but its parent trunk is already in the cavernous sinus, so it is not discriminating either. Oculosympathetic fibres travel with the internal carotid through the cavernous sinus and then join V1, so a Horner syndrome plus a sixth nerve palsy actually points to the cavernous sinus, but sympathetic involvement alone is not the cleanest separator."
+  }
  },
  {
   "id": 68,
@@ -1227,7 +1319,13 @@
   "explanation": "Eyewiki: - Posterior Ischemic Optic Neuropathy (PION) is an acute optic neuropathy due to ischemia in the posterior (retrobulbar) portion of the optic nerve. PION is characterized clinically by acute, painless vision loss in one or both eyes, the presence of a relative afferent pupillary defect (RAPD) in unilateral or bilateral but asymmetric cases and a normal fundus (retrobulbar optic neuropathy). - PION is distinguished from AION by the appearance of a typically normal optic nerve head in PION compared with a swollen optic disc in AION. - For perioperative PION, in which bilateral disease is common, a relative afferent pupil defect may not be detected unless the damage is asymmetric (10), but the poor pupil reaction to light in both eyes results in a light-near dissociation, with greater pupil contraction to an attempted near effort compared to the pupil response to bright light https://webeye.ophth.uiowa.edu/eyeforum/cases/212-PION.htm",
   "year": "2018",
   "subspecialty": "Optics",
-  "pdfPage": 273
+  "pdfPage": 273,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "This is the same perioperative scenario as the earlier question: prolonged surgery, bilateral profound vision loss on waking, and a normal anterior and posterior segment examination, which means the optic nerve injury is retrobulbar and therefore posterior ischaemic optic neuropathy. Poor light reactivity in both eyes with better constriction to near effort produces the light-near dissociation described, and a relative afferent pupillary defect may be absent precisely because the damage is symmetric. Anterior ischaemic optic neuropathy is excluded by the normal-looking discs, since disc oedema is required for that diagnosis. Dorsal midbrain syndrome causes light-near dissociation but with supranuclear upgaze palsy and convergence-retraction nystagmus, and it does not cause bilateral counting-fingers acuity."
+  }
  },
  {
   "id": 69,
@@ -1262,6 +1360,12 @@
    }
   ],
   "figureFinding": "Automated visual field printout of a congruous homonymous hemianopia with MACULAR SPARING - a dense half-field defect with a preserved central island - localising the lesion to the posterior (occipital) visual pathway.",
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "A macula-sparing homonymous hemianopia localises to the occipital cortex in the posterior cerebral artery territory, because the occipital pole that represents the macula receives a dual blood supply from terminal middle cerebral artery branches. When the posterior cerebral artery occludes, the calcarine cortex infarcts but the collateral middle cerebral supply keeps the occipital tip perfused, preserving central vision. The corollary is that a congruous homonymous hemianopia in general implies a lesion posterior in the pathway, since congruity increases the closer the lesion is to the occipital cortex. Optic tract and anterior pathway lesions produce incongruous defects, often with an afferent pupillary defect and optic atrophy, and they do not spare the macula."
+  },
   "pageScanUrl": "/images/promotion-pages/page_273.jpg"
  },
  {
@@ -1279,6 +1383,12 @@
   "pdfPage": 273,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p274_e9b554c314.png",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Loss of vision means optic nerve involvement, and ptosis means third nerve involvement, so the lesion must be at a site where both structures lie together, which is the orbital apex. At the apex the optic nerve enters via the optic canal alongside the annulus of Zinn through which III, VI, and the nasociliary branch of V1 pass, so orbital apex syndrome combines visual loss with ophthalmoplegia, ptosis, a fixed pupil and V1 sensory loss. A brainstem lesion could produce a third nerve palsy with ptosis, but visual loss would then require a separate lesion, since the optic nerve is not in the brainstem. Typical causes at the apex include invasive fungal sinusitis, tumour, granulomatous inflammation and trauma, so urgent contrast orbital imaging is indicated."
+  },
   "pageScanUrl": "/images/promotion-pages/page_273.jpg"
  },
  {
@@ -1295,7 +1405,13 @@
   "explanation": "Illusions are an optical or cortical distortion of an object seen in reality. Metamorphopsia describes an abnormal subjective curvature or waviness to objects that in reality are straight. It usually occurs as a result of macular disease such as macular degeneration or epiretinal membrane. The Pulfrich phenomenon is the illusion that an object moving perpendicular to a person's line of sight is actually moving toward them or away from them. Theoretically, it could be seen in any disease affecting the conduction of visual information in one optic nerve more than the other. It is usually described in patients who have partially recovered following a bout of optic neuritis. Micropsia is the illusion that objects appear smaller than they should and is indicative of macular pathology, parietal lobe pathology, or an unusual migraine headache related phenomenon known as the \"Alice in Wonderland\" effect. Photopsias associated with cancer associated retinopathy, MEWDS, AZOOR, birdshot chorioretinopathy, and PVD are all simple, unformed hallucinations because they do not arise from distortion of an object in reality.",
   "year": "2018",
   "subspecialty": "Optics",
-  "pdfPage": 275
+  "pdfPage": 275,
+  "review": {
+   "answer": "D",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "A hallucination is a visual percept generated without any external stimulus, whereas an illusion is a distortion of something genuinely present. Photopsias, flashes of light with no light source, are therefore hallucinations, whether they arise from vitreoretinal traction, retinal disease or occipital cortical irritation. Metamorphopsia and micropsia are distortions of the size and shape of real objects and are illusions, typically from macular disease such as epiretinal membrane or subretinal fluid, or occasionally cortical or migrainous phenomena. The Pulfrich phenomenon is also an illusion, an apparent elliptical path of a truly pendular movement caused by asymmetric conduction delay between the two optic nerves, most often after optic neuritis."
+  }
  },
  {
   "id": 72,
@@ -1310,7 +1426,14 @@
   "explanation": ", but occipital is more accurate occipital lobe disorders commonly cause unformed hallucinations. - Patients with occipital lobe lesions may describe white or colored flashes of light, kaleidoscopic colors, moving discs, flickering, or a hexagonal array (eg, chicken-wire or honeycomb patterns). - A complete whiteout of vision suggests bilateral occipital lobe ischemia. Reference: AAO BCSC Neuro 22-23: Hallucinations associated with brain lesions: - Parietal lobe disorders can cause formed or unformed hallucinations, whereas",
   "year": "2018",
   "subspecialty": "Optics",
-  "pdfPage": 275
+  "pdfPage": 275,
+  "review": {
+   "answer": "A",
+   "agrees": false,
+   "confidence": "medium",
+   "explanation": "Unformed hallucinations, meaning flashes, sparkles, shimmering colours, moving discs or geometric lattice and honeycomb patterns without recognisable objects, are characteristic of occipital lobe disease, which is the posterior lobe and therefore the option labelled Posterior. Formed hallucinations of faces, figures, animals or scenes point to temporal lobe pathology, and parietal lobe disorders are described as capable of producing either formed or unformed hallucinations, which makes parietal the less specific answer rather than the best one. Bilateral occipital ischaemia may present with a complete whiteout of vision, and photopsias in a hemianopic field are a common occipital sign.",
+   "concern": "The source explanation itself states that occipital is more accurate, and standard neuro-ophthalmology teaching assigns unformed hallucinations to the occipital lobe while parietal lesions may produce either type. Since Posterior is the only option corresponding to occipital, A is the better answer. The recall is degraded and the intended option list may originally have read Occipital, so I flag this at medium rather than high confidence."
+  }
  },
  {
   "id": 73,
@@ -1324,7 +1447,13 @@
   "explanation": "Not A or B A cause unwanted side effects like fainting, dizziness, involuntary defecation, severe bradycardia, apnea, and even cardiac arrest. It is important to always have atropine at hand if such side effects should occur. vertical neutralized with +3 lens from 50 cm, horizontal neutral with no lens, what's the refraction? It should be +1.00, -3.00 x 180 - Sphere: most plus - WD (50cm = +2 D) = +1 - Cylinder: least plus (0) - most plus (+3) = - 3 - Axis: Axis of the least plus (more minus) = 180. Here is another recall with the correct choice: Cyclorefraction quistion with a blot asking to write the final refraction Optical cross Q bifocals in children: Reference: Eyewiki: Edrophonium (Tensilon) Test: - Edrophonium chloride can cause overactivation of the parasympathetic system, and",
   "year": "2018",
   "subspecialty": "Optics",
-  "pdfPage": 275
+  "pdfPage": 275,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Edrophonium (Tensilon) is an acetylcholinesterase inhibitor, so its adverse effects are muscarinic overactivity: bradycardia, bronchospasm, salivation, nausea, involuntary defecation, syncope and rarely asystole. Atropine is the antidote and must be drawn up and immediately available before the test is performed, together with cardiac monitoring. Dantrolene is the antidote for malignant hyperthermia, acting on ryanodine receptor calcium release in skeletal muscle, and has no role here. Because of these risks the edrophonium test has largely been replaced in practice by the ice pack test, rest test, and serologic testing for acetylcholine receptor and MuSK antibodies."
+  }
  },
  {
   "id": 74,
@@ -1341,7 +1470,14 @@
   "year": "2018",
   "subspecialty": "Pathology",
   "pdfPage": 292,
-  "imageUrl": "/images/promotion/p292_0236a98de6.png"
+  "imageUrl": "/images/promotion/p292_0236a98de6.png",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "A lid tumour whose cells contain finely vacuolated, foamy lipid-rich cytoplasm is sebaceous carcinoma, and its notorious clinical behaviour is masquerade: it presents as unilateral chronic blepharoconjunctivitis or as a recurrent chalazion, which is why diagnosis is typically delayed by many months. Pagetoid intraepithelial spread accounts for the diffuse conjunctival injection and explains the need for map biopsies to define margins. A slowly enlarging ulcer with pearly rolled telangiectatic edges describes basal cell carcinoma, a keratinising nodular growth in sun-exposed skin describes basal or squamous cell carcinoma, and a pigmented caruncular lesion describes a melanocytic process. Any unilateral chronic blepharitis or recurrent chalazion in an older patient warrants full-thickness biopsy including tarsus.",
+   "concern": "The answer rests on a histology slide I cannot see; the reasoning follows the described foamy cytoplasm, and lipid stains such as oil red O or Sudan black on fresh tissue would confirm it."
+  }
  },
  {
   "id": 75,
@@ -1357,7 +1493,13 @@
   "explanation": "You should not open the eye at all prior to soaking it in formalin. If you open the eye and expose it to formalin, you risk damaging and/or distorting sites of pathology. Ideally, the entire eye should be suspended in formalin for at least 12 hours prior to processing (usually: >24 hours). This time period will allow the formalin to diffuse slowly to fix the entire specimen without causing collateral damage. A good way to remember this is that formalin permeates at a rate of ~1 mm/hour. Since the eye is ~24 mm in diameter and the formalin needs to travel 12 mm from each surface to reach the center, it takes 12 hours to fix a globe.",
   "year": "2018",
   "subspecialty": "Pathology",
-  "pdfPage": 292
+  "pdfPage": 292,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "The globe must be fixed intact, suspended whole in formalin for at least 12 hours and in practice usually 24 to 48 hours, before it is opened or sectioned. Formalin penetrates tissue at roughly 1 mm per hour, so a 24 mm globe needs about 12 hours for the fixative to reach the centre from each surface. Opening the eye before fixation, whether by sectioning through the tumour or by injecting formalin through an equatorial window, collapses the globe, distorts and artefactually detaches the retina and tumour, and destroys the architectural relationships pathologists rely on to assess scleral and optic nerve invasion. Limiting fixation to under 12 hours would leave the specimen incompletely fixed and prone to autolysis during sectioning."
+  }
  },
  {
   "id": 76,
@@ -1372,7 +1514,13 @@
   "explanation": "Histologically, well-differentiated sebaceous carcinomas are readily identified by the microvesicular foamy nature of the tumor cell cytoplasm, which resembles mature sebocytes. Moderately differentiated tumors may show some sebaceous features (Fig 13- 25). Poorly differentiated tumors, however, may be difficult to distinguish from other, more common malignant epithelial tumors such as SCC or BCC. Special stains, such as oil red O or Sudan black B, may be used to diagnose sebaceous carcinomas because they reveal lipid within the cytoplasm of tumor cells, AAO BCSC Pathology",
   "year": "2018",
   "subspecialty": "Pathology",
-  "pdfPage": 292
+  "pdfPage": 292,
+  "review": {
+   "answer": "C",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Vacuolated, foamy cytoplasm reflects intracytoplasmic lipid, and lipid stains such as Sudan black B or oil red O performed on fresh or frozen tissue confirm sebaceous differentiation, which makes sebaceous carcinoma the diagnosis. These stains matter most for poorly differentiated tumours, where routine processing dissolves the lipid and the tumour can be mistaken for squamous or basal cell carcinoma. Squamous cell carcinoma shows keratinisation, keratin pearls and intercellular bridges rather than lipid vacuoles, and would be positive for high molecular weight cytokeratins. Merkel cell carcinoma consists of small blue cells with scant cytoplasm and shows a dot-like perinuclear pattern with cytokeratin 20 and neuroendocrine markers."
+  }
  },
  {
   "id": 77,
@@ -1390,6 +1538,12 @@
   "pdfPage": 294,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p294_75d1433caa.jpg",
+  "review": {
+   "answer": "C",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Congo red staining that turns deposits red-orange under standard light, with apple-green birefringence and dichroism under crossed polarisers, is the defining stain for amyloid. Amyloid is an extracellular, glassy pink eosinophilic deposit on routine haematoxylin and eosin, often perivascular in the stroma, and its beta-pleated sheet configuration is what binds the Congo red dye in an ordered array. Hyaline is also a glassy eosinophilic material but is Congo red negative and shows no birefringence. Keratin stains eosinophilic and lamellated and is identified by cytokeratin immunostaining, not Congo red. In the eye, think lattice dystrophy, gelatinous drop-like dystrophy, primary localised conjunctival amyloidosis and orbital amyloid."
+  },
   "pageScanUrl": "/images/promotion-pages/page_294.jpg"
  }
 ]

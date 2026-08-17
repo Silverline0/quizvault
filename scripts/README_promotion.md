@@ -5,16 +5,23 @@ category: 11 per-year banks under `public/data/promotion-<year>.json`, with
 figures under `public/images/promotion/`.
 
 ```bash
-python scripts/parse_promotion.py      # 1. parse the text layer
-python scripts/merge_ocr_recalls.py    # 2. fold in the transcribed screenshots
+python scripts/parse_promotion.py       # 1. parse the text layer
+python scripts/merge_ocr_recalls.py     # 2. fold in the transcribed screenshots
+python scripts/merge_figure_links.py    # 3. reference links for doubtful figures
+python scripts/merge_expert_review.py   # 4. reviewer second opinions + unkeyed bank
+python scripts/render_page_scans.py     # 5. source-page scans (must run last)
 ```
 
 **Run them in that order.** Step 1 is idempotent and owns the whole output: it
 rewrites the bank files, re-extracts the images, merges its entries into
 `public/data/manifest.json` (leaving other categories untouched), and deletes any
 extracted image nothing references. Because it rewrites the banks, running it
-alone drops the transcribed questions — step 2 puts them back, and is itself
-idempotent (it skips anything already present).
+alone drops everything steps 2-5 added — each later step puts its own part back,
+and each is idempotent.
+
+Step 5 runs last because which questions need a page scan depends on what step 4
+produced. Steps 2-4 read their inputs from `scripts/ocr/`, `scripts/figures/` and
+`scripts/review/` + `scripts/unkeyed/`, all of which are committed.
 
 ## Why the source is hard
 
@@ -86,6 +93,25 @@ The trap worth knowing: these screenshots come from a question bank that shows
 respondent percentages. A pink row reads **"Your Answer"** — some student's pick,
 not the key. Only the green **"NN% Correct Answer"** row is authoritative. An
 audit of all 41 confirmed every key matches the marker in its own image.
+
+## Reviewer second opinions (step 4)
+
+Every published question carries an independent review: the reviewer answers from
+the stem and options *before* seeing the source's key, then writes a teaching
+explanation. Disagreement is shown to the reader in its own colour and states the
+split outright.
+
+**The reviewer never overwrites `correctAnswer`.** The exam's key is what the exam
+marks, and a reviewer is not the exam — so both are shown and the reader decides.
+This is the same rule that governs the parser: surface a disagreement, never
+silently resolve one.
+
+The 167 recalls the source never answered ship as their own bank,
+`promotion-unkeyed`, labelled reviewer-answered in its manifest description. A
+recall too degraded to answer honestly — options missing so the real key cannot
+be among them, a stem truncated past comprehension, a question resting entirely
+on an absent image — is refused rather than force-fitted, and every one of those
+refusals is counted in the merge output.
 
 ## Known limits
 

@@ -13,7 +13,13 @@
   "explanation": "No explanation was provided in the source document.",
   "year": "2019",
   "subspecialty": "Anterior Segment",
-  "pdfPage": 136
+  "pdfPage": 136,
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "In the Roper-Hall classification, grade I has corneal epithelial damage with no limbal ischaemia, grade II has corneal haze with iris details still visible and less than one-third limbal ischaemia, grade III has total epithelial loss with stromal haze obscuring iris detail and one-third to one-half limbal ischaemia, and grade IV has an opaque cornea with more than one-half limbal ischaemia. Limbal ischaemia is the prognostic driver because it reflects destruction of limbal stem cells, and grades I and II therefore carry a good prognosis while grades III and IV do not. The Dua classification refines this by grading limbal involvement in clock hours and by percentage conjunctival involvement, which is more discriminating at the severe end. Irrespective of grade, immediate copious irrigation until the pH normalises comes before any grading."
+  }
  },
  {
   "id": 2,
@@ -30,6 +36,13 @@
   "pdfPage": 137,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p138_b46582ca7a.jpg",
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Corneal transparency depends chiefly on the regular lattice arrangement of uniformly small collagen fibrils within the stromal ground substance, with interfibrillar spacing less than the wavelength of visible light so that scattered light is cancelled by destructive interference; the keratocytes that lay down and maintain that matrix are themselves arranged in an orderly lamellar fashion and additionally contain crystallins that reduce their own light scatter. Option A is factually wrong on the number, since the normal stroma is maintained at approximately 78% water by the endothelial pump and by proteoglycan-driven swelling pressure, not 88%, and stromal hydration above roughly 80% produces haze. Loss of any of these, as with endothelial failure, scarring with irregular fibril size, or keratocyte activation into myofibroblasts, produces the haze seen clinically.",
+   "concern": "The option wording is imprecise, since it is the collagen fibril lattice rather than the keratocytes per se that is classically cited; nonetheless A is definitively wrong on the water content figure, so B is the intended and only defensible choice."
+  },
   "pageScanUrl": "/images/promotion-pages/page_137.jpg"
  },
  {
@@ -72,6 +85,12 @@
    }
   ],
   "figureFinding": "Post-traumatic conjunctival laceration with ballooning/bullous (often 360-degree) subconjunctival haemorrhage and chemosis obscuring the sclera - the classic appearance of a suspected OCCULT scleral rupture.",
+  "review": {
+   "answer": "C",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "A conjunctival laceration with marked chemosis or ballooning after trauma cannot be assumed to be superficial, because an occult scleral rupture or a posterior exit wound can hide beneath it, and bullous haemorrhagic chemosis is a recognised warning sign. When the integrity of the globe remains uncertain after clinical examination and CT, formal exploration in the operating room with a peritomy and inspection of the sclera in all quadrants, including under the rectus insertions, is the correct step. B-scan ultrasonography is relatively contraindicated when an open globe is suspected because probe pressure risks extruding intraocular contents, and it cannot reliably exclude a small rupture. Simply suturing the conjunctiva at the slit lamp would close over and conceal an unrecognised scleral wound."
+  },
   "pageScanUrl": "/images/promotion-pages/page_140.jpg"
  },
  {
@@ -90,6 +109,12 @@
   "pdfPage": 141,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p141_904f6e3083.jpg",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "By the Munnerlyn relationship, ablation depth is approximately the intended dioptric correction multiplied by the square of the optical zone diameter divided by three, so tissue removal rises with the square of the zone diameter. Enlarging the optical zone from 6 to 7 mm for the same correction therefore increases central ablation depth by roughly a third. This is the central trade-off in refractive surgery: larger optical and transition zones reduce night glare, halos and spherical aberration, but consume more stroma and threaten the residual stromal bed thickness that protects against ectasia. It is why high myopes with thin corneas are often steered toward surface ablation or a phakic intraocular lens rather than a large-zone LASIK treatment."
+  },
   "pageScanUrl": "/images/promotion-pages/page_141.jpg"
  },
  {
@@ -105,7 +130,13 @@
   "explanation": "Reference: Prof. Hani Almezini grand round lecture",
   "year": "2019",
   "subspecialty": "Anterior Segment",
-  "pdfPage": 141
+  "pdfPage": 141,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Scleral lacerations that extend posteriorly beyond the equator or behind the rectus insertions should not be chased surgically, because the dissection and globe rotation required to reach them cause more extrusion of uvea, vitreous and retina than the unsutured wound itself. Standard practice is to close the wound as far posteriorly as can be safely reached, then stop and let the posterior extension seal by fibrosis. Performing a vitrectomy first to soften the eye does not solve the exposure problem and adds risk in an open globe with an unsupported wall; a planned vitrectomy is instead usually deferred and staged some days later. Tissue adhesive is not appropriate for a posterior scleral wound that cannot even be visualised, and antibiotic prophylaxis plus a shield remain part of the immediate plan."
+  }
  },
  {
   "id": 6,
@@ -119,7 +150,14 @@
   "explanation": "? I would go with A because it is hidden",
   "year": "2019",
   "subspecialty": "Anterior Segment",
-  "pdfPage": 141
+  "pdfPage": 141,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "During exploration for a suspected open globe, the areas most likely to conceal a rupture are those the surgeon cannot see without deliberate effort, and the sclera beneath the rectus muscle insertions is the classic hiding place because the sclera is thinnest just posterior to the insertions and the muscle covers the defect. That is why a 360 degree peritomy with isolation of each rectus muscle on a hook, and inspection under each insertion, is the key manoeuvre. Blunt ruptures also occur at the limbus and at prior surgical wounds, and a contrecoup site opposite the impact is worth inspecting, but that inspection is straightforward once the conjunctiva is opened and does not require the same specific technique.",
+   "concern": "The stem is a degraded recall and both options describe legitimate parts of a thorough exploration; the answer given reflects the more commonly taught teaching point rather than a settled hierarchy."
+  }
  },
  {
   "id": 7,
@@ -135,7 +173,14 @@
   "explanation": "The antiarrhythmic medication amiodarone is the most common cause of corneal verticillata. Because it is unusual for these deposits to result in reduction of vision or ocular symptoms, treatments such as superficial keratectomy with excimer laser are not necessary. It is acceptable for the patient to continue taking the recommended dose of systemic medication. The patient should be monitored by the ophthalmologist. Reference: Cornea AAO book",
   "year": "2019",
   "subspecialty": "Anterior Segment",
-  "pdfPage": 142
+  "pdfPage": 142,
+  "review": {
+   "answer": "A",
+   "agrees": false,
+   "confidence": "high",
+   "explanation": "Amiodarone is the commonest cause of corneal verticillata, a whorl-like subepithelial deposition of drug-lipid complexes that appears in most patients on long-term therapy, is dose and duration related, is essentially always visually insignificant, and regresses over months if the drug is eventually stopped for other reasons. The correct ophthalmic management is therefore reassurance, continuation of the cardiac medication at its prescribed dose, and periodic monitoring; no keratectomy or dose change is required. Discontinuing or altering an antiarrhythmic prescribed for a life-threatening rhythm disturbance on the basis of a benign corneal finding exposes the patient to real cardiac risk for no ophthalmic benefit, and is not the ophthalmologist's call to make unilaterally. The one amiodarone finding that does warrant urgent discussion with cardiology about stopping the drug is amiodarone-associated optic neuropathy with disc oedema and visual loss, which is not what corneal verticillata represents.",
+   "concern": "The source answer B contradicts the source's own quoted explanation, which states verbatim that it is acceptable for the patient to continue taking the recommended dose and that the patient should be monitored by the ophthalmologist. Standard cornea teaching is observation for verticillata, so the answer key appears to be a transcription error."
+  }
  },
  {
   "id": 8,
@@ -149,7 +194,13 @@
   "explanation": "No explanation was provided in the source document.",
   "year": "2019",
   "subspecialty": "Anterior Segment",
-  "pdfPage": 142
+  "pdfPage": 142,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Vernal keratoconjunctivitis is the IgE and mast cell mediated disease here, a type I hypersensitivity in which allergen cross-links IgE on conjunctival mast cells and triggers degranulation with histamine and tryptase release, producing itching, giant papillae, Horner-Trantas dots and shield ulcers. Contact dermatitis of the eyelids is a type IV delayed cell-mediated reaction driven by sensitised T lymphocytes and Langerhans cells, typically to topical medications, preservatives or cosmetics, and is not IgE dependent. In practice vernal disease also has a substantial type IV component with eosinophil and T-helper-2 lymphocyte infiltration, which is why mast cell stabilisers alone often need supplementing with topical steroids or ciclosporin, but the IgE and mast cell axis identifies it unambiguously among these two options."
+  }
  },
  {
   "id": 9,
@@ -165,7 +216,14 @@
   "explanation": "Missing question - in section of choroidal melanoma and metastasis they mentioned Ultrasound is the primary diagnostic test that confirms the diagnosis of melanoma Reference: #eyewiki + article + OQ https://www.researchgate.net/profile/Ahmad-Mansour-",
   "year": "2019",
   "subspecialty": "Retina",
-  "pdfPage": 162
+  "pdfPage": 162,
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Standardised A-scan ultrasonography is the single most diagnostic test for a choroidal mass among these options, because internal reflectivity characterises the lesion: choroidal melanoma shows low to medium internal reflectivity with a high initial spike and a regular descending pattern, whereas metastasis shows medium to high irregular internal reflectivity and haemangioma shows very high reflectivity. B-scan adds the collar-stud configuration, acoustic hollowness and choroidal excavation. OCT is excellent for documenting overlying subretinal fluid and shaggy photoreceptors but cannot characterise a lesion beyond a few hundred microns of depth, and fluorescein and indocyanine angiography give supportive but non-specific patterns such as double circulation or hyperfluorescent pinpoints. If the fundus truly shows two separate choroidal lesions, metastasis becomes the leading diagnosis and a systemic workup for a primary, typically breast or lung, is mandatory alongside the ultrasound.",
+   "concern": "Answer depends on the fundus image, which I cannot see; the reasoning holds for melanoma or metastasis alike, since ultrasound is the primary characterising test in both."
+  }
  },
  {
   "id": 10,
@@ -186,6 +244,13 @@
   "imageUrls": [
    "/images/promotion/p165_a7afcb68df.jpg"
   ],
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "low",
+   "explanation": "The histologic definition of the macula is the region in which the ganglion cell layer is more than one cell thick, generally two or more layers, which distinguishes it from the surrounding retina where the ganglion cell layer is a single row. Clinically the macula is the area between the temporal vascular arcades, roughly 5 to 6 mm across. Option A is wrong as written for the fovea as a whole, since a cones-only population is true only of the 0.35 mm foveola. Option C describes a real and important feature of the foveal centre, where the ganglion cell, inner plexiform and inner nuclear layers are swept centrifugally so that light reaches the cone outer segments with minimal interference, creating the foveal pit and the foveal avascular zone.",
+   "concern": "This is genuinely ambiguous without the image. If the marker on the photograph indicates the foveal centre or foveola, then C is the anatomically better answer, because at the true foveal centre there are no ganglion cells at all and the defining feature is lateral displacement of the inner retinal layers. The source explanation quotes the definition of the macula rather than of the fovea, so its answer only holds if the marked area is the broader macula."
+  },
   "pageScanUrl": "/images/promotion-pages/page_165.jpg"
  },
  {
@@ -204,6 +269,12 @@
   "pdfPage": 167,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p167_6fb2629d47.jpg",
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "A superonasal visual field defect corresponds to an inferotemporal retinal detachment, and the inferotemporal quadrant is precisely where traumatic retinal dialysis characteristically occurs, followed in frequency by the superonasal quadrant. A dialysis is a circumferential disinsertion of the retina at the ora serrata caused by traction of the relatively inelastic vitreous base, sometimes with avulsion of the vitreous base producing the bucket-handle appearance. Horseshoe tears are traction tears at the posterior vitreous base that typically follow posterior vitreous detachment in older or myopic eyes rather than blunt trauma in a young patient, and they have no quadrantic predilection of this kind. Rhegmatogenous detachment is the consequence rather than the cause, so it does not answer what produced the defect. Dialysis-related detachments progress slowly and are often found late, so scleral buckling is usually effective."
+  },
   "pageScanUrl": "/images/promotion-pages/page_167.jpg"
  },
  {
@@ -221,6 +292,12 @@
   "pdfPage": 168,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p168_8e2d3f68a1.jpg",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Bacillus cereus is the organism classically linked to endogenous endophthalmitis in intravenous drug users, and it is also the classic organism in penetrating injury with soil or vegetable matter. It produces a fulminant picture with severe pain, corneal ring abscess, marked chemosis, proptosis, fever and rapid progression to loss of the eye within 12 to 48 hours, which is why treatment must be immediate with intravitreal antibiotics and consideration of early vitrectomy. Klebsiella pneumoniae endogenous endophthalmitis is the pattern seen in diabetic patients with pyogenic liver abscess, predominantly reported from East and Southeast Asia, and it is not the drug-use association. Bear in mind that overall Candida remains the most frequent cause of endogenous endophthalmitis in intravenous drug users, but it is not among the options here."
+  },
   "pageScanUrl": "/images/promotion-pages/page_168.jpg"
  },
  {
@@ -236,7 +313,13 @@
   "explanation": "- Panuveitis and infectious uveitis are the entities most frequently associated with RRD, although pars planitis and posterior uveitis can also be associated with rhegmatogenous or tractional retinal detachments. - Uveitis is often still active in eyes that present with RRD. - Up to 30% of patients with uveitis and RRD may have proliferative vitreoretinopathy (PVR) at presentation Reference: #eyewiki",
   "year": "2019",
   "subspecialty": "Uveitis",
-  "pdfPage": 183
+  "pdfPage": 183,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Up to about 30% of eyes presenting with uveitis-associated rhegmatogenous retinal detachment already have proliferative vitreoretinopathy at presentation, which is far higher than the roughly 5 to 10% seen with routine rhegmatogenous detachment. The chronic breakdown of the blood-retinal barrier floods the vitreous with inflammatory cytokines, growth factors and retinal pigment epithelial cells, which is the substrate for periretinal membrane formation. Panuveitis and infectious uveitis, particularly necrotising herpetic retinitis and toxoplasmosis, are the entities most often complicated by detachment, and the uveitis is frequently still active when the detachment presents. Practically this means aggressive perioperative anti-inflammatory control and a low threshold for vitrectomy with tamponade rather than a simple buckle."
+  }
  },
  {
   "id": 14,
@@ -251,7 +334,13 @@
   "explanation": "#eyewiki + wills eye Cytomegalovirus (CMV) Retinitis is an acquired immunodeficiency syndrome (AIDS)-related opportunistic infection that can lead to blindness, Risk factors include HIV, CD4 count less than 50, or severe systemic immunosuppression Treatment: -Oral therapy with valganciclovir 900 mg p.o. b.i.d. for induction (21 days), followed by 900 mg p.o. daily for maintenance. -Alternatively, intravenous ganciclovir 5 mg/kg b.i.d. or foscarnet 90 mg/kg b.i.d. may be used, followed by oral therapy valganciclovir (900 mg p.o. b.i.d. to complete 3-week induction, then 900 mg p.o. daily). Patients with progression of retinitis despite induction or who have disease that threatens the macula may benefit from intravitreal antiviral injections, but systemic therapy is still necessary to prevent the involvement of the fellow eye. The goal of treatment is quiescent retinitis (nonprogressive areas of RPE atrophy with a stable opacified border). HIV patient with CMV and you treated him with systemic medication and gancyclovir implant, how will you monitor the disease?",
   "year": "2019",
   "subspecialty": "Uveitis",
-  "pdfPage": 183
+  "pdfPage": 183,
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "An HIV patient off antiretroviral therapy with a CD4 count of 48 and white retinal lesions has cytomegalovirus retinitis, which is essentially confined to counts below 50 and which produces full-thickness necrotising retinitis with granular or haemorrhagic brushfire borders. Treatment is ganciclovir, given as oral valganciclovir 900 mg twice daily for three weeks of induction then 900 mg daily for maintenance, with intravenous ganciclovir or foscarnet as alternatives and intravitreal injections added for zone 1 sight-threatening disease. Aciclovir has essentially no activity against CMV, since CMV lacks the thymidine kinase that phosphorylates it, so it is the wrong drug. Steroids alone would worsen the infection, and the definitive treatment is restoration of immunity by restarting antiretroviral therapy, with counselling about immune recovery uveitis."
+  }
  },
  {
   "id": 15,
@@ -273,6 +362,12 @@
    "/images/promotion/p185_33a46f3ded.jpg",
    "/images/promotion/p185_90e0f739bc.jpg"
   ],
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Occlusive retinal vasculitis with a hyperaemic leaking disc is a small-vessel inflammatory process, and the retinal circulation is an extension of the cerebral circulation, so the same process commonly involves the central nervous system vasculature; the additional complaint of diplopia points that way as well. Retinal vasculitis can be the presenting manifestation of central nervous system vasculitis, and contrast-enhanced MRI with vascular imaging should be obtained. Behcet disease is the archetype for occlusive retinal vasculitis progressing to neuro-Behcet, and Susac syndrome pairs branch retinal arteriolar occlusions with encephalopathy and sensorineural hearing loss. Pericarditis and nephritis are systemic features of lupus and of ANCA-associated or immune-complex disease respectively, but neither has the direct anatomic and prognostic link to occlusive retinal vasculitis that central nervous system involvement does."
+  },
   "pageScanUrl": "/images/promotion-pages/page_184.jpg"
  },
  {
@@ -300,6 +395,12 @@
    }
   ],
   "figureFinding": "Birdshot retinochoroidopathy fundus - multiple cream-coloured to yellow-orange ovoid choroidal lesions radiating from the disc toward the periphery, mainly nasal/inferonasal, with vitritis.",
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "HLA-A29 and birdshot chorioretinopathy is the strongest HLA to disease association described in medicine, with over 95% of patients positive and a relative risk in the region of 50 to 200, far exceeding any other. HLA-B27 and ankylosing spondylitis is a strong and clinically important association, roughly 90% positive with a relative risk of about 90, but it does not match A29 and birdshot, and B27 is also common in the healthy population which weakens its predictive value. HLA-B27 and psoriasis is the weakest of the three, since psoriatic disease associates more with Cw6, and B27 relates chiefly to the axial spondyloarthropathy subset. Clinically A29 testing is so tightly linked that a negative result should make you reconsider the diagnosis of birdshot."
+  },
   "pageScanUrl": "/images/promotion-pages/page_185.jpg"
  },
  {
@@ -321,6 +422,12 @@
   "imageUrls": [
    "/images/promotion/p186_1e6eeb3fbb.png"
   ],
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Bilaterality is the decisive feature: sarcoid uveitis is bilateral in the large majority of cases and produces mutton-fat granulomatous keratic precipitates, iris nodules, and raised intraocular pressure from trabeculitis, angle granulomas and peripheral anterior synechiae. Fuchs heterochromic iridocyclitis is unilateral in roughly 90% of cases and features diffuse small stellate keratic precipitates across the whole endothelium, iris atrophy with heterochromia, absent posterior synechiae, and glaucoma that is usually a later complication. Herpetic hypertensive anterior uveitis is likewise characteristically unilateral, with sectoral iris atrophy, reduced corneal sensation and a history of recurrent episodes in the same eye. Workup for bilateral granulomatous disease should include chest imaging, serum ACE and lysozyme, and consideration of tuberculosis and syphilis."
+  },
   "pageScanUrl": "/images/promotion-pages/page_185.jpg"
  },
  {
@@ -335,7 +442,13 @@
   "explanation": "Posner-Schlossman Syndrome (PSS), also known as glaucomatocyclitic crisis, is a disease typified by acute, unilateral, recurrent attacks of elevated intraocular pressure (IOP) accompanied by mild anterior chamber inflammation Reference: https://eyewiki.aao.org/Glaucomatocyclitic_Crisis_(Posner- Schlossman_Syndrome) A 40-year old Caucasian female presents with acute vision loss in the right eye",
   "year": "2019",
   "subspecialty": "Uveitis",
-  "pdfPage": 186
+  "pdfPage": 186,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Recurrent, self-limited, usually unilateral attacks of markedly elevated intraocular pressure accompanied by only a mild anterior chamber reaction, often with a few fine non-pigmented keratic precitates, corneal oedema, an open angle and a relatively quiet eye between attacks, is Posner-Schlossman syndrome or glaucomatocyclitic crisis. The pressure rise is disproportionate to the trivial inflammation, which is the diagnostic hallmark, and cytomegalovirus has been implicated in a substantial proportion of cases. Fuchs heterochromic iridocyclitis is a chronic low-grade unilateral iridocyclitis with stellate keratic precipitates and heterochromia, and its glaucoma is a chronic late complication rather than a pattern of discrete attacks. Treat attacks with topical pressure lowering and a short course of topical steroid, and monitor long term since chronic glaucomatous damage can develop."
+  }
  },
  {
   "id": 19,
@@ -350,7 +463,13 @@
   "explanation": "#AAO Mackay-Marg type (eg, Tono-Pen, Reichert Technologies) These devices are particularly useful in patients with corneal scars or edema, as the measurement tip is small enough to be applied only on areas of normal cornea.",
   "year": "2019",
   "subspecialty": "Glaucoma",
-  "pdfPage": 199
+  "pdfPage": 199,
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "The Tono-Pen is a Mackay-Marg type applanation device with a very small 1.02 mm transducer tip that can be applied to a limited area of relatively normal cornea, so it is the instrument of choice when the cornea is scarred, irregular or oedematous. Goldmann applanation assumes a smooth regular 3.06 mm applanated area and a normal tear film, so a scar makes both the mires and the reading unreliable. The Perkins tonometer is simply a handheld Goldmann and shares the same optical assumption, so it solves portability and positioning, not corneal irregularity. Where the cornea is grossly distorted or a keratoprosthesis is present, a Pascal dynamic contour tonometer or transpalpebral or scleral measurement may be needed, and any reading in a scarred eye should be interpreted alongside the clinical picture."
+  }
  },
  {
   "id": 20,
@@ -365,7 +484,13 @@
   "explanation": "#wills eye The Q is alluding to an NVG presentation, usually we start topical anti-glaucoma medications first If need for IOP reduction is urgent or refractory to medical therapies, consider an osmotic agent (e.g., mannitol 1 to 2 g/kg i.v. over 45 minutes).If retinal ischemia is thought to be responsible for the NV, then treat with PRP and/or anti-VEGF intravitreal injections.",
   "year": "2019",
   "subspecialty": "Glaucoma",
-  "pdfPage": 201
+  "pdfPage": 201,
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "A diabetic with peripheral vascular disease and raised intraocular pressure is a neovascular glaucoma scenario, and topical hypotensive therapy is the appropriate first step: aqueous suppressants such as beta blockers, alpha agonists and topical carbonic anhydrase inhibitors, along with atropine and topical steroid for comfort and inflammation. Systemic hyperosmotic agents such as mannitol carry real risk in a patient with diabetes and vascular disease, since the acute intravascular volume expansion can precipitate pulmonary oedema, heart failure and renal injury, so they are reserved for refractory emergencies. Laser peripheral iridotomy addresses pupillary block, which is not the mechanism here, since neovascular glaucoma results from a fibrovascular membrane over the trabecular meshwork and subsequent angle synechiae. Definitive management is treating the underlying ischaemia with panretinal photocoagulation and anti-VEGF injection, with a glaucoma drainage procedure if pressure remains uncontrolled. Prostaglandin analogues are usually avoided while the eye is inflamed."
+  }
  },
  {
   "id": 21,
@@ -381,7 +506,13 @@
   "explanation": "- Hemosiderotic Glaucoma is a late onset glaucoma following intraocular hemorrhage secondary to iron deposition resulting in damage to the trabecular meshwork. This extremely rare glaucoma is more chronic, does not have ghost cells in the AC, and is characteristically associated with a slight discoloration of the trabecular meshwork. It most often occurs many years after the original injury, in contrast to ghost cell glaucoma, which occurs within weeks to months after the original injury. - Hemolytic Glaucoma is a type of secondary glaucoma where the trabecular meshwork is obstructed by macrophages containing RBC debris and hemosiderin after vitreous hemorrhage. - In ghost cell glaucoma, little to no RBC debris and few to no macrophages are found in the trabecular meshwork. ghost cells in the AC. Patient with angle closure glaucoma, you did PI, still high IOP, patient has mild cataract, what is the next step? Do phaco because it is phacomorphic make sure of the patency of the PI and augment if needed",
   "year": "2019",
   "subspecialty": "Glaucoma",
-  "pdfPage": 201
+  "pdfPage": 201,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Macrophages laden with red cell debris and haemoglobin obstructing the trabecular meshwork after a vitreous haemorrhage define haemolytic glaucoma, and the aqueous tap showing cellular debris within macrophages is the diagnostic finding. Ghost cell glaucoma is caused by degenerated khaki-coloured rigid erythrocytes that migrate forward from the vitreous weeks after the bleed, and the defining feature is the ghost cells themselves with few or no macrophages. Haemosiderotic glaucoma is a rare very late entity in which iron deposition damages the trabecular meshwork, presenting years after the injury with meshwork discolouration. Neovascular glaucoma would show rubeosis iridis and new vessels in the angle on gonioscopy, none of which are described. Haemolytic glaucoma is usually self-limited as the debris clears, so treat medically first and reserve anterior chamber washout or vitrectomy for refractory pressure."
+  }
  },
  {
   "id": 22,
@@ -419,6 +550,12 @@
    }
   ],
   "figureFinding": "Gonioscopy of a narrow (occludable) but still open anterior chamber angle - trabecular meshwork not visible for most of the circumference, no PAS and no angle neovascularisation - in a patient with intermittent/subacute angle closure.",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Episodic headache or brow ache with haloes around lights that resolves spontaneously is intermittent or subacute angle closure, typically provoked in dim light or during near work and relieved when the pupil constricts, so the expected gonioscopic finding is a narrow, appositionally occludable angle that opens on indentation. Peripheral anterior synechiae represent permanent adhesion of iris to the angle wall and, while they can accumulate after repeated attacks, they are not the defining finding of an eye that is normal between episodes. Neovascularisation of the angle belongs to ischaemic retinal disease and would be accompanied by rubeosis and a very different history. Perform indentation gonioscopy on both eyes, since the fellow eye is anatomically similar, and treat with laser peripheral iridotomy bilaterally."
+  },
   "pageScanUrl": "/images/promotion-pages/page_202.jpg"
  },
  {
@@ -453,6 +590,13 @@
    }
   ],
   "figureFinding": "Coronal CT of the orbit showing an orbital floor (blowout) fracture with the inferior rectus herniated into the maxillary sinus - the trapdoor/white-eyed pattern in a child with restricted upgaze.",
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "low",
+   "explanation": "For an orbital floor fracture with limited upgaze but no oculocardiac symptoms, the conventional approach is to allow several days to two weeks for oedema and haemorrhage to settle, repeating motility and forced ductions, and to repair if diplopia in primary or downgaze persists or if enophthalmos is developing; repair within about two weeks is preferred because fibrosis makes later release harder. Steroids may reduce oedema but are not definitive management, and waiting three weeks risks scarring and permanent restriction with a large floor defect. The key distinction is between true incarceration and simple prolapse of orbital fat and muscle into the defect.",
+   "concern": "This recall is unreliable and the answer turns on a detail it does not settle. If the child has a small white-eyed trapdoor fracture with true muscle entrapment, especially with bradycardia, nausea, vomiting or syncope from the oculocardiac reflex, the standard of care is urgent repair within 24 to 48 hours to prevent ischaemic fibrosis of the inferior rectus, which would make A correct. The stated large fracture with herniation argues for prolapse rather than incarceration, which is the only reading under which a short delay is right. Neither five days nor three weeks matches the usual one to two week window exactly."
+  },
   "pageScanUrl": "/images/promotion-pages/page_218.jpg"
  },
  {
@@ -467,7 +611,14 @@
   "explanation": "No explanation was provided in the source document.",
   "year": "2019",
   "subspecialty": "Pediatrics",
-  "pdfPage": 220
+  "pdfPage": 220,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "Blunt periocular trauma followed by photophobia with an intact epithelium and no fluorescein uptake points to traumatic iritis, in which photophobia arises from ciliary spasm and inflammation of the iris and ciliary body and typically appears within one to three days of the injury. Recurrent corneal erosion is essentially excluded by the absence of staining, since an erosion by definition breaks the epithelium and stains, and it also characteristically causes sharp pain on waking rather than isolated photophobia. Treat with a topical cycloplegic for comfort and a topical steroid, and examine carefully for associated angle recession, sphincter tears, lens subluxation and peripheral retinal breaks, with gonioscopy and dilated examination once the eye is comfortable, and long-term pressure monitoring.",
+   "concern": "The stem states a normal examination, which strictly speaking would exclude the anterior chamber cells needed to diagnose iritis; the answer reflects the best reading of a degraded recall in which normal means no epithelial defect."
+  }
  },
  {
   "id": 25,
@@ -482,7 +633,13 @@
   "explanation": "#eyewiki #ped Acquired etiologies of convergence insufficiency may include fatigue, drugs (parasympatholytic), uveitis, Adie tonic pupil, glasses inducing a base-out prism effect, postexanthematous encephalitis, or traumatic injury Symptoms of convergence insufficiency include eye strain, double vision (diplopia), headaches , blurred vision at near, eye fatigue (asthenopia), tension in and around the eyes, print moving on page, and frequent loss of place when reading",
   "year": "2019",
   "subspecialty": "Pediatrics",
-  "pdfPage": 220
+  "pdfPage": 220,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Diplopia that occurs only at near after head trauma is the classic presentation of convergence insufficiency, one of the commonest ocular sequelae of closed head injury and whiplash. The findings are a receded near point of convergence, an exodeviation greater at near than distance, and reduced fusional convergence amplitudes, with distance alignment normal. Oculomotor dysfunction as a category would produce a deficit demonstrable in specific gaze directions and usually diplopia at distance as well, and fixation instability describes unsteady fixation or nystagmoid movement rather than binocular diplopia confined to near. Post-traumatic convergence insufficiency often improves spontaneously over months, and office-based vergence therapy with home reinforcement or base-in prism for reading is the mainstay; a fourth nerve palsy should also be excluded in any post-traumatic diplopia."
+  }
  },
  {
   "id": 26,
@@ -498,7 +655,13 @@
   "explanation": "#AAO Convergence insufficiency (CI) is an exodeviation that is greater at near fixation than at distance fixation. It is characterized by poor fusional convergence amplitudes and a remote near point of convergence Nonsurgical management: 1-Correction of refractive errors: Correction of even mild myopia may improve control of the exodeviation. Mild-to-moderate degrees of hyperopia are not routinely corrected in children with intermittent exotropia because refractive correction may worsen the deviation. Children with marked hyperopia (> +4.00 D) may be unable to sustain accommodation, which results in a blurred retinal image and manifest exotropia. In these patients, correction of refractive errors with glasses or contacts may improve retinal image clarity and help control the exodeviation. In some cases, overcorrection of myopia by 2.00-4.00 D can stimulate accommodative convergence to help control the exodeviation. 2-Occlusion therapy 3-Base in Prisms 4-Orthoptic exercises: Treatment of symptomatic CI typically involves orthoptic exercises such as stereograms, $pencil push-ups,\"",
   "year": "2019",
   "subspecialty": "Pediatrics",
-  "pdfPage": 222
+  "pdfPage": 222,
+  "review": {
+   "answer": "D",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "This is convergence insufficiency in a patient with negligible refractive error, and the one intervention to avoid is prescribing plus lenses in excess of the refraction, because added plus relaxes accommodation, removes the accommodative convergence that partly compensates the near exodeviation, and makes the deviation worse. If lenses are used at all in an exodeviation the logic runs the other way, with overminus of 2.00 to 4.00 dioptres used in some children to stimulate accommodative convergence. Pencil push-ups, stereograms and vectograms, and base-out prism vergence training all directly build fusional convergence amplitudes and are standard therapy, with office-based vergence and accommodative therapy the best supported approach. Base-in prism reading glasses are a compensatory option when therapy fails, and bilateral medial rectus resection is reserved for refractory symptomatic cases."
+  }
  },
  {
   "id": 27,
@@ -515,6 +678,12 @@
   "pdfPage": 223,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p223_f12ff125e4.jpg",
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Full motility, a normal pupil and no proptosis place the infection anterior to the orbital septum, so this is preseptal cellulitis following an insect bite, and failure to improve on topical drops is expected since topical antibiotics do not penetrate to eyelid soft tissue at all. Oral amoxicillin-clavulanate provides the staphylococcal and streptococcal cover required, with clindamycin or trimethoprim-sulfamethoxazole added or substituted where community-acquired MRSA is prevalent. Steroids would be inappropriate as monotherapy in an untreated soft tissue infection. Admission for intravenous antibiotics is indicated instead if the child appears toxic, is under 5 years of age, cannot be relied on for follow-up, or fails to improve after 24 to 48 hours of oral therapy, and any development of proptosis, restricted motility or an afferent defect means orbital cellulitis and requires urgent CT."
+  },
   "pageScanUrl": "/images/promotion-pages/page_223.jpg"
  },
  {
@@ -529,7 +698,13 @@
   "explanation": "- not all subperiosteal abscesses (SPAs) require surgical drainage. - Isolated medial or inferior SPAs in children younger than 9 years with underlying isolated ethmoid sinusitis, intact vision, and only moderate proptosis typically respond to medical therapy. - Management may consist of careful observation unless any of the following criteria are present: patient aged 9 years or older; presence of frontal sinusitis; non-medial SPA location; large SPA; suspicion of anaerobic infection (eg, presence of gas in abscess on CT); recurrence of SPA after prior drainage; evidence of chronic sinusitis (eg, nasal polyps); acute optic nerve or retinal compromise; infection of dental origin (anaerobic infection more likely)",
   "year": "2019",
   "subspecialty": "Pediatrics",
-  "pdfPage": 224
+  "pdfPage": 224,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Not every subperiosteal abscess needs drainage, but this one meets several criteria simultaneously: the child is 9 years or older, the abscess is large, and it is superior rather than medial. Beyond about age 9 the flora shifts toward polymicrobial and anaerobic organisms that respond poorly to antibiotics alone, and non-medial abscesses are less likely to resolve medically. Other drainage indications are frontal sinusitis, gas within the abscess, dental origin, chronic sinusitis with polyps, recurrence after prior drainage, and any acute optic nerve or retinal compromise. Conservative management with intravenous antibiotics and close observation is appropriate for a small medial subperiosteal abscess from ethmoid sinusitis in a child under 9 with intact vision, but is the wrong choice here, and drainage should be combined with intravenous antibiotics and ENT involvement for sinus drainage."
+  }
  },
  {
   "id": 29,
@@ -548,6 +723,12 @@
   "pdfPage": 224,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p224_a42636296c.jpg",
+  "review": {
+   "answer": "D",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Teller acuity cards use forced-choice preferential looking, exploiting the infant's innate preference for a patterned over a homogeneous field, and require no verbal response or symbol matching, which makes them the only option usable in a preverbal child. Snellen letters require literacy, HOTV matching requires cooperation and matching ability from roughly age 3, and Allen picture cards require naming or recognising pictures from about age 2. Grating acuity measured this way tends to overestimate recognition acuity, particularly in amblyopia, so results are reported in cycles per degree and interpreted against age norms rather than converted casually into Snellen equivalents. In practice, fixation behaviour, objection to occlusion, and the presence of a central steady maintained fixation pattern remain the most useful bedside indicators of asymmetry in this age group."
+  },
   "pageScanUrl": "/images/promotion-pages/page_224.jpg"
  },
  {
@@ -562,7 +743,13 @@
   "explanation": "Usher Syndrome characterized by progressive vision and hearing loss. Usher syndrome has been classified into three major subtypes: I, II, and III. While all three types involve progressive vision loss due to retinitis pigmentosa (RP), they are categorized according to the genes responsible and the onset and severity of the signs and symptoms. Usher Syndrome Type I is the most severe subtype. It is characterized by profound congenital hearing loss, RP, and absent vestibular function. Usher Syndrome Type II is less severe. Patients with this subtype have moderate-to-severe congenital hearing loss, RP, and normal vestibular function. Usher Syndrome Type III involves progressive hearing loss, RP, and varying degrees of vestibular dysfunction. Onset for type III is typically within the second to fourth decades of life. These patients also tend to have better vision than the other subtypes. Reference: https://eyewiki.org/Usher_Syndrome#Diagnosis",
   "year": "2019",
   "subspecialty": "Pediatrics",
-  "pdfPage": 225
+  "pdfPage": 225,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Usher syndrome is a genetically heterogeneous autosomal recessive condition combining sensorineural hearing loss with retinitis pigmentosa, and molecular genetic testing of the known genes, MYO7A and USH2A among others, is what establishes the diagnosis definitively and assigns the subtype. Brain CT has no role, since the pathology is in the retina and cochlea rather than the central nervous system, and the intermittent exotropia with an essentially plano cycloplegic refraction is incidental. Supporting investigations before or alongside genetic testing are formal audiometry, vestibular testing which is absent in type 1, and electroretinography, which shows reduced or extinguished rod responses often long before the fundus looks abnormal. Confirming the genotype matters for prognosis, counselling of siblings, cochlear implant timing in type 1 infants, and eligibility for gene-specific trials."
+  }
  },
  {
   "id": 31,
@@ -596,6 +783,12 @@
    }
   ],
   "figureFinding": "Oculocutaneous albinism - markedly hypopigmented skin, white/blond hair and light irides, with iris transillumination defects, nystagmus, a hypopigmented fundus and foveal hypoplasia on OCT.",
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Oculocutaneous albinism is autosomal recessive, and the pedigree fits: two unaffected parents with an affected child means both are obligate carriers, so each subsequent pregnancy carries a one in four risk, that is 25%. An affected paternal uncle is entirely consistent with a recessive gene segregating in the family and does not change the arithmetic once the parents are known to be carriers by virtue of the affected child. A figure under 1% would apply to a sporadic non-genetic condition, 50% would apply to autosomal dominant inheritance from an affected parent, and 75% corresponds to no recognised inheritance pattern. The exception worth knowing is ocular albinism type 1, which is X-linked recessive and affects males with carrier mothers showing patchy iris transillumination and fundus mottling, but the cutaneous involvement described here places this in the oculocutaneous group."
+  },
   "pageScanUrl": "/images/promotion-pages/page_225.jpg"
  },
  {
@@ -611,7 +804,13 @@
   "explanation": "No explanation was provided in the source document.",
   "year": "2019",
   "subspecialty": "Oculoplastics",
-  "pdfPage": 241
+  "pdfPage": 241,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Schirmer I is performed without topical anaesthesia, so the strip itself irritates the ocular surface and the result reflects basic plus reflex tearing combined. Repeating the test after instilling topical anaesthetic gives the basic secretion test, which largely removes the reflex component, and the difference between the two estimates reflex tearing. Schirmer II is the nasal stimulation test, performed with anaesthesia while irritating the nasal mucosa with a cotton swab to drive reflex lacrimal secretion, and is used to assess reflex secretory capacity in suspected lacrimal gland failure. Tear break-up time measures tear film stability and evaporative dysfunction rather than aqueous production. Schirmer testing is poorly reproducible, so interpret it alongside staining patterns, break-up time and symptoms rather than in isolation."
+  }
  },
  {
   "id": 33,
@@ -650,6 +849,13 @@
    }
   ],
   "figureFinding": "Ulcerated lower-eyelid malignancy - an indurated nodule/plaque with a red base and well-defined, hardened, everted edges (squamous cell carcinoma), with histology showing keratin pearls and intercellular bridges.",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "low",
+   "explanation": "On histology squamous cell carcinoma shows polygonal cells with abundant eosinophilic cytoplasm, intercellular bridges, dyskeratosis and keratin pearl formation in well differentiated tumours, and clinically an ulcerating squamous cell carcinoma has a red base with hardened, well defined everted edges. Basal cell carcinoma instead shows basaloid cells in nests with peripheral palisading and retraction artefact from the surrounding stroma, and clinically produces the pearly rolled telangiectatic border of a rodent ulcer. Seborrhoeic keratosis is a benign acanthotic proliferation with horn cysts that is greasy and stuck-on and does not ulcerate. Sebaceous carcinoma shows foamy lipid-laden cytoplasm with pagetoid spread and masquerades as blepharoconjunctivitis or a recurrent chalazion.",
+   "concern": "The answer depends entirely on a histology image I cannot see, and clinically an ulcerated lower eyelid mass in most populations is more often basal cell carcinoma than squamous cell carcinoma, since basal cell accounts for the large majority of eyelid malignancies and favours the lower lid. I defer to the source only because the transcriber reports the full question and slide supported squamous cell features."
+  },
   "pageScanUrl": "/images/promotion-pages/page_241.jpg"
  },
  {
@@ -666,7 +872,13 @@
   "explanation": "#eyewiki Uveal melanoma systemic metastasis is most commonly found in the liver with 80%-90% of initial extra-scleral tumors identified at this site",
   "year": "2019",
   "subspecialty": "Oculoplastics",
-  "pdfPage": 243
+  "pdfPage": 243,
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Uveal melanoma spreads haematogenously because the uvea has no lymphatic drainage, and the liver is the target in roughly 90% of patients who develop metastases, often as the sole site and sometimes many years after successful treatment of the primary. This is why lifelong surveillance is built around liver imaging and liver function testing, with the interval guided by prognostic risk, and why monosomy 3, class 2 gene expression profile and BAP1 loss identify the patients needing intensive follow-up. Lung, bone and skin are distant second sites. Submental and preauricular nodes are the drainage basins for conjunctival and eyelid melanoma, which do have lymphatic access and where sentinel node biopsy is considered, so those options confuse conjunctival with uveal melanoma."
+  }
  },
  {
   "id": 35,
@@ -682,7 +894,13 @@
   "year": "2019",
   "subspecialty": "Oculoplastics",
   "pdfPage": 244,
-  "imageUrl": "/images/promotion/p244_6332c8f1ff.png"
+  "imageUrl": "/images/promotion/p244_6332c8f1ff.png",
+  "review": {
+   "answer": "C",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Ptosis combined with dysphagia is oculopharyngeal muscular dystrophy, which is autosomal dominant and caused by a GCN trinucleotide repeat expansion in the PABPN1 gene, presenting typically in the fifth or sixth decade with slowly progressive bilateral ptosis, dysphagia and later proximal limb weakness. Because it is dominant there is usually an affected parent and a 50% transmission risk, which matters for the family history and for counselling. The differential worth excluding includes chronic progressive external ophthalmoplegia, which is mitochondrial with maternal or sporadic inheritance and has pigmentary retinopathy and heart block in the Kearns-Sayre form, and myasthenia gravis, which is acquired, fatigable and variable. Ptosis surgery is undertaken cautiously and conservatively, since orbicularis weakness and poor Bell phenomenon put these patients at high risk of exposure keratopathy, and dysphagia needs formal swallowing assessment because of aspiration risk."
+  }
  },
  {
   "id": 36,

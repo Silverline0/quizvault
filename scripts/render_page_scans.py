@@ -34,6 +34,10 @@ WEB_PREFIX = "/images/promotion-pages"
 
 def needs_scan(q):
     """A question benefits from the page scan when its figure is in question."""
+    if q.get("reviewerAnswered"):
+        # The source never keyed these, so the page is the only way to check
+        # what it actually said.
+        return True
     if q.get("figureConfidence") in ("medium", "low"):
         return True
     if not q.get("imageUrl") and q.get("referenceLinks"):

@@ -151,10 +151,16 @@ def main():
             item["sourceHint"] = src["sourceHint"].strip()
         if clean(r.get("concern")):
             item["reviewConcern"] = clean(r.get("concern"))
-        if src.get("images"):
-            item["imageUrl"] = src["images"][0]
-            if len(src["images"]) > 1:
-                item["imageUrls"] = src["images"][1:]
+        # Only attach a figure that is actually on disk: the parser prunes
+        # anything nothing references, and a dangling path would render as a
+        # broken image in the app.
+        present = [u for u in (src.get("images") or [])
+                   if os.path.exists(os.path.join(ROOT, "public",
+                                                  u.lstrip("/").replace("/", os.sep)))]
+        if present:
+            item["imageUrl"] = present[0]
+            if len(present) > 1:
+                item["imageUrls"] = present[1:]
         unkeyed.append(item)
 
     unkeyed.sort(key=lambda q: (q["year"] or "", q["pdfPage"] or 0))

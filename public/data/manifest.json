@@ -289,9 +289,9 @@
     {
       "id": "promotion-unkeyed",
       "name": "Promotion - Unkeyed (reviewer-answered)",
-      "description": "35 recalls the source document never answered. Keys here come from a reviewer, not from the exam - read them as study notes, not as verified answers.",
+      "description": "96 recalls the source document never answered. Keys here come from a reviewer, not from the exam - read them as study notes, not as verified answers.",
       "file": "promotion-unkeyed.json",
-      "questionCount": 35,
+      "questionCount": 96,
       "category": "promotion",
       "source": "Promotion"
     }

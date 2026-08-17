@@ -1,0 +1,482 @@
+[
+ {
+  "task_id": "promotion-2014#1",
+  "answer": "C",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Primary graft failure is present from postoperative day 1 and reflects donor endothelial dysfunction; secondary (late) failure develops after an initially clear graft, and the leading cause is irreversible endothelial allograft rejection. The cornea is relatively immune privileged (avascular, no lymphatics, ACAID), but rejection still occurs in roughly 10-20 percent of low risk grafts and far more often in vascularized or inflamed host beds. Infection and glaucoma can each destroy a graft but account for far fewer failures, and glaucoma more often threatens the optic nerve than the endothelium.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#2",
+  "answer": "B",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Lipid keratopathy is the degeneration defined by lipid (cholesterol and neutral fat) leaking out of corneal new vessels: a dense yellow-white stromal deposit sitting at the leading edge of a feeder vessel, in an otherwise normal cornea. Spheroidal (climatic droplet) degeneration produces golden oily droplets in the interpalpebral band from chronic UV exposure and is avascular; Coats white ring is a tiny iron residue ring at a healed metallic foreign body site; Salzmann nodules are elevated bluish-white subepithelial nodules following chronic keratitis, also avascular. Primary lipid keratopathy exists but is rare and occurs without vessels, so the vascularized secondary form is what this stem describes.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#3",
+  "answer": "D",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Corneal sensation travels in the nasociliary branch of V1 by way of the long posterior ciliary nerves, which pierce the sclera near the optic nerve, run forward in the suprachoroidal space, and enter the peripheral cornea after losing their myelin sheaths 1-2 mm behind the limbus, which is how the most densely innervated tissue in the body stays transparent. The short posterior ciliary nerves accompany the short posterior ciliary arteries and are largely autonomic to the choroid, and there is no named sensory anterior ciliary nerve, only the anterior ciliary arteries travelling with the rectus muscles.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#4",
+  "answer": "A",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "A single oral dose of azithromycin (20 mg/kg, up to 1 g) is as effective as a prolonged course of topical tetracycline ointment, and it is the antibiotic arm of the WHO SAFE strategy precisely because directly observed single dosing solves the adherence problem that defeats weeks of topical therapy. Erythromycin is a fallback for patients who cannot take azithromycin but needs 500 mg twice daily for about two weeks, so it offers no single dose advantage and is not the intended answer.",
+  "concern": "The stem says 7 weeks; the equivalence usually quoted in the trachoma literature is 6 weeks of topical tetracycline. A recall artifact that does not change the answer."
+ },
+ {
+  "task_id": "promotion-2014#5",
+  "answer": "A",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "The instant a posterior capsule tear is suspected, the priority is to prevent chamber shallowing, because a sudden pressure drop lets vitreous come forward and converts a small radial tear into a large one with lens material dropping posteriorly. So stop the foot pedal in position 0 with the instrument still in the eye, inject a dispersive viscoelastic through the side port to tamponade the vitreous face and hold the chamber, and only then withdraw the handpiece. Removing the handpiece first (B) is exactly the sequence that decompresses the eye; increasing infusion (D) hydrates the vitreous and enlarges the tear; the Weck-cell test (C) is an end-of-case check for vitreous at the wound, not the move for this moment.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#6",
+  "answer": "A",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "When the pupil will not dilate intraoperatively, mechanical expansion with iris retractor hooks or a Malyugin ring is the dependable answer, because it gives a stable controlled opening for the whole case and also tames a floppy iris. Viscomydriasis is a reasonable first move, but it is performed with a cohesive or viscoadaptive agent (Healon GV, Healon5) that pushes the iris peripherally, whereas a dispersive agent coats and stays put and is poor at stretching a pupil, so option B names the wrong OVD class. Intracameral lidocaine is an anaesthetic (it is intracameral phenylephrine or epinephrine that dilates), and topical tropicamide placed on the cornea mid surgery is washed away and far too slow to help.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#7",
+  "answer": "D",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Viscoat (chondroitin sulfate plus sodium hyaluronate) is the classic dispersive OVD: lower molecular weight and low pseudoplasticity, so it coats and clings to the endothelium and survives phaco turbulence. All three Healon products are cohesive, with Healon5 viscoadaptive: high molecular weight and high pseudoplasticity, so they aspirate out in a single bolus, which makes them excellent for maintaining space and easy to remove but poor endothelial protectants. The practical corollary is the soft-shell technique, dispersive against the endothelium and cohesive filling the centre.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#8",
+  "answer": "A",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Effective lens position is one of the three variables in every IOL formula: for a given implanted power, moving the optic anteriorly increases its effective power in the eye and produces a myopic shift, roughly 1 D of refractive change per 0.5-1 mm of movement in an average eye and more with high power IOLs. Capsular contraction syndrome (anterior capsular phimosis) pulls the optic forward, so the eye becomes myopic; posterior displacement produces the opposite hyperopic shift. The same principle explains why a lens placed in the sulcus rather than the bag must be reduced by about 0.5-1.0 D.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#9",
+  "answer": "B",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Aniridia is a panocular PAX6 disorder, not just a missing iris: zonular weakness and frank ectopia lentis are well described, so zonular dialysis and capsular instability are the intraoperative problem, and many surgeons plan for a capsular tension ring and low-flow settings. Corneal problems in aniridia are real but they are limbal stem cell deficiency and aniridic keratopathy appearing over time, not an intraoperative event, and posterior capsule tears in these eyes are usually a downstream consequence of the zonular instability rather than the primary risk.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#10",
+  "answer": "C",
+  "agrees": true,
+  "confidence": "medium",
+  "explanation": "Inflow in a conventional gravity-fed phaco machine is driven entirely by bottle or bag height above the eye, so raising the bottle raises infusion pressure and increases fluid flow through the anterior chamber, which is also how you keep the chamber stable when you push aspiration parameters up. The distractors test pump physiology: with a peristaltic (flow) pump the aspiration flow rate is set by pump speed in cc/min and is independent of the vacuum limit, whereas with a venturi (vacuum) pump flow is generated by the vacuum, so raising vacuum only raises flow on a venturi machine.",
+  "concern": "The source itself flags this stem as an uncertain recall. If the examiner meant aspiration flow rate specifically on a peristaltic machine, the correct manipulation is the aspiration rate setting on the pump, not bottle height; bottle height governs inflow and infusion pressure."
+ },
+ {
+  "task_id": "promotion-2014#11",
+  "answer": "C",
+  "agrees": true,
+  "confidence": "medium",
+  "explanation": "The three inputs to a theoretical IOL formula are axial length, keratometry and estimated lens position. Axial length error historically contributes the largest single share of postoperative refractive error, but it is not offered here, and keratometry is the next largest contributor and the one most easily corrupted in clinic by dry eye, contact lens warpage, prior refractive surgery or poor fixation. Option A is backwards: optical biometry is more accurate than contact applanation A-scan, which indents the cornea and falsely shortens the axial length.",
+  "concern": "Axial length, the classic number one source of IOL calculation error, is absent from the option list (the source notes this too), so the question tests an incomplete list rather than the real hierarchy."
+ },
+ {
+  "task_id": "promotion-2014#12",
+  "answer": "A",
+  "agrees": true,
+  "confidence": "medium",
+  "explanation": "Aiming at a small myopic target, usually about -0.25 to -0.50 D, builds in a safety margin so that a refractive surprise still lands at or on the myopic side of plano rather than in hyperopia. That matters because a pseudophake has no accommodation: residual hyperopia leaves no clear focal distance at all and demands spectacles for everything, whereas the same magnitude of error toward myopia still leaves useful near or intermediate vision. Option B is simply false arithmetic, since slight myopia is no nearer emmetropia than slight hyperopia.",
+  "concern": "Option C expresses essentially the same clinical idea as A in vaguer words, so the two are hard to separate as recalled; A is the better statement of the safety margin rationale."
+ },
+ {
+  "task_id": "promotion-2014#13",
+  "answer": "C",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Unilateral disease plus secondary glaucoma plus iris changes (corectopia, iris atrophy, full thickness iris holes, ectropion uveae) in a young to middle aged adult, classically a woman in the third to fifth decade, is iridocorneal endothelial syndrome, in which abnormal proliferating ICE cells migrate across the angle and onto the iris and then contract. Axenfeld-Rieger is bilateral, congenital and autosomal dominant with posterior embryotoxon and dental and umbilical anomalies; acute angle closure gives a shallow chamber and a mid-dilated fixed pupil in a hyperopic eye, not focal iris holes. Specular microscopy showing the beaten bronze endothelium clinches it.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#14",
+  "answer": "B",
+  "agrees": true,
+  "confidence": "medium",
+  "explanation": "A large Descemet membrane detachment will not settle spontaneously and is treated by descemetopexy, injecting a tamponading bubble into the anterior chamber to press the membrane back against the stroma. Non-expansile concentrations of isoexpansile gas (SF6 20 percent or C3F8 14 percent) are preferred over plain air for large detachments because they persist for weeks rather than a day or two and reduce the need for reinjection, and the chamber is deliberately only part filled to avoid pupillary block. Viscoelastic is the wrong choice altogether, since OVD left in the interface holds the membrane away from the stroma rather than reattaching it.",
+  "concern": "Air descemetopexy is also an accepted standard treatment, and air is itself a gas, so options A and B overlap; the answer rests on the preference for longer acting gas in LARGE detachments."
+ },
+ {
+  "task_id": "promotion-2014#15",
+  "answer": "D",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Epithelial (anterior) basement membrane dystrophy, the map-dot-fingerprint pattern, is a disorder of abnormally thickened multilaminar epithelial basement membrane that grows up into the epithelium: the maps and fingerprint lines are redundant sheets and ridges of that basement membrane, and the dots are intraepithelial pseudocysts of trapped degenerating epithelial cells. Because hemidesmosomal attachment to the abnormal basement membrane is poor, the clinical consequence is recurrent corneal erosion and fluctuating irregular astigmatism. Bowman layer is the abnormal layer in Reis-Bucklers and Thiel-Behnke, not here.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#16",
+  "answer": "D",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Retinal and RPE degeneration in the mucopolysaccharidoses tracks with heparan sulfate accumulation, so it is seen in MPS I (Hurler, Scheie, Hurler-Scheie), MPS II (Hunter) and MPS III (Sanfilippo). MPS VI (Maroteaux-Lamy) stores dermatan sulfate and produces dense progressive corneal clouding, glaucoma, optic neuropathy and papilloedema from raised intracranial pressure, but it characteristically spares the retina, as does MPS IV (Morquio). A useful cross-check for the same family of questions: Hunter is the X-linked one and the one classically said to lack corneal clouding, while Maroteaux-Lamy is the one that lacks retinopathy and preserves intellect.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#17",
+  "answer": "B",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "A pseudophakic child's eye keeps growing, and normal axial elongation produces a progressive myopic shift that can exceed 5-6 D if the lens is implanted in infancy, so an IOL chosen for emmetropia today leaves a highly myopic teenager with a lens that cannot easily be changed. That is why the standard strategy is planned undercorrection, leaving the young child hyperopic by an amount scaled to age at surgery and managing the interim refractive error and amblyopia with spectacles or contact lenses. The eye does become slightly more hyperopic up to about 6-8 years before the myopic shift dominates, but it is the myopic shift over the lifetime of the implant that makes the calculation hard.",
+  "concern": "Option D is garbled contaminated text carried over from a neighbouring question and is not a real distractor."
+ },
+ {
+  "task_id": "promotion-2014#18",
+  "answer": "D",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Brown syndrome is a mechanical restriction of the superior oblique tendon-trochlea complex: the tendon cannot pay out, so the eye will not elevate in adduction, forced ductions are positive, there is often a downshoot in adduction with widening of the palpebral fissure in adduction, and a V pattern with divergence in upgaze. The single feature that separates it from an inferior oblique palsy is the ABSENCE of superior oblique overaction, since an IO palsy shows ipsilateral SO overaction with negative forced ductions, which makes statement D false, and doubly so for placing the overaction in the fellow eye. Mild congenital and acquired inflammatory cases genuinely can resolve spontaneously (B), and contralateral inferior rectus recession is a recognised secondary procedure for residual hypotropia in primary position (C).",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#19",
+  "answer": "D",
+  "agrees": true,
+  "confidence": "medium",
+  "explanation": "For infantile esotropia the standard operation is recession of both medial recti, weakening the overacting adductors, or a unilateral medial rectus recession with lateral rectus resection. Resecting both medial recti would tighten the very muscles driving the crossing and increase the esotropia, so D is the false statement. Jensen muscle-union transposition is a genuine option for lateral rectus palsy (A), and a posterior fixation (Faden) suture on the medial recti combined with recession is the classic operation for esotropia with a high AC/A ratio (B).",
+  "concern": "As recalled, option B says accommodative REFRACTIVE esotropia; purely refractive accommodative esotropia is treated with full hyperopic correction and not surgery, so taken verbatim B is also false. The original almost certainly read non-refractive (high AC/A) accommodative esotropia. D remains the safer answer because bilateral medial rectus resection for esotropia is wrong in principle."
+ },
+ {
+  "task_id": "promotion-2014#20",
+  "answer": "B",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Non-traumatic ectopia lentis has a direction that gives the diagnosis away: Marfan syndrome (fibrillin-1) subluxates the lens superotemporally with zonules stretched but usually intact, homocystinuria subluxates it inferonasally with disintegrated zonules and presents between about ages 3 and 10, and Weill-Marchesani produces a small spherical lens that moves anteriorly and causes pupillary block glaucoma. Trauma is the commonest cause of ectopia lentis overall, but the stem specifies spontaneous displacement, and traumatic subluxation moves away from the site of zonular rupture rather than reliably superiorly. Marfan lens dislocation is often congenital but can progress in adult life, which fits a 40 year old.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#21",
+  "answer": "B",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Dissociated vertical deviation is a slow spontaneous upward drift, with extorsion and often abduction, of whichever eye is occluded or visually inattentive; it is bilateral though usually asymmetric, and crucially it violates Hering's law, so the fellow eye does not move downward as the drifting eye returns. It is tightly associated with infantile esotropia and typically appears around age 2 whether or not the horizontal deviation has been surgically corrected, exactly the history described. A consecutive hypertropia from surgery would be a constant vertical deviation measurable on cover testing, not an intermittent drift that comes and goes through the day.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#22",
+  "answer": "B",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "An esodeviation produces uncrossed (homonymous) diplopia: the esotropic right eye is turned nasally, so the straight-ahead target lands on its nasal retina and is projected temporally, that is, to the patient's right. The red filter here sits over the LEFT eye, which is the fixing eye, so the left eye's red image is in the true straight-ahead position while the right eye's white image is displaced to the right; the red therefore lies to the LEFT of the white. The trap is memorising 'esotropia equals red to the right', which is only correct when the filter is over the deviating right eye, so always reason from which eye is deviated and which carries the glass.",
+  "concern": "The source's pasted explanation describes the standard right-eye-filter configuration, which reads as contradicting its own answer, but answer B is correct for the setup described. In practice a longstanding infantile esotrope suppresses and would report no diplopia at all."
+ },
+ {
+  "task_id": "promotion-2014#23",
+  "answer": "C",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "The monocular cover-uncover test is precisely the test that separates a phoria from a tropia, so statement C is false. Cover one eye and watch the OTHER: refixation movement means a manifest tropia. Then uncover and watch the eye that was covered: a recovery movement means a latent phoria that was broken by the cover. The simultaneous prism and cover test keeps both eyes viewing so it measures only the manifest deviation (A true), while the alternate cover test never allows fusion to be regained and therefore measures the total deviation, phoria plus tropia (B true).",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#24",
+  "answer": "A",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Downbeat nystagmus localises to the craniocervical junction and the cerebellar flocculus, with Chiari malformation the single most cited structural cause, and it is also produced by cerebellar and spinocerebellar degenerations and by toxic-metabolic insults including lithium, anticonvulsants, alcohol, and magnesium or thiamine deficiency. Middle ear and labyrinthine disease produce a peripheral vestibular nystagmus that is horizontal-torsional, suppresses with fixation and fatigues; a peripheral lesion essentially never produces a pure downbeat waveform. The practical rule is that any newly discovered downbeat nystagmus without a drug explanation earns MRI of the craniocervical junction.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#25",
+  "answer": "D",
+  "agrees": true,
+  "confidence": "medium",
+  "explanation": "With imaging unavailable, optokinetic testing is the bedside manoeuvre that separates a parietal from an occipital or optic tract cause of a homonymous hemianopia. Because the OKN drum subtends a small central field, it mainly tests smooth pursuit toward the direction of drum rotation with a corrective saccade the other way: the response is asymmetric and reduced when the target moves toward the side of the lesion in parietal lobe disease (Cogan's rule), and is intact with occipital or optic tract lesions.",
+  "concern": "Pupil examination is an equally legitimate localiser here and might have been the intended answer: an optic tract lesion classically causes a contralateral relative afferent pupillary defect (in this case the left eye) plus band or bow-tie optic atrophy. The question as recalled has two defensible answers, so do not treat D as the only correct localising test."
+ },
+ {
+  "task_id": "promotion-2014#26",
+  "answer": "B",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "An isolated sixth nerve palsy in an adult is usually microvascular, so the workup is blood pressure, glucose and HbA1c, plus immediate ESR, CRP and platelets if giant cell arteritis is plausible, with MRI reserved for patients under about 45-50, bilateral or progressive palsies, associated neurological or neuro-ophthalmic signs, severe pain, papilloedema or a cancer history (and MRI for every child). Catheter angiography exists to hunt aneurysms, which is the concern in a pupil-involving THIRD nerve palsy, not a sixth, so it is both the least informative and the most invasive test on this list.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#27",
+  "answer": "D",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "The VEP is one of the few objective tests of the whole postretinal pathway, and it is a diagnostic test IN albinism: excessive decussation of temporal retinal fibres at the chiasm produces the characteristic crossed asymmetry of the response recorded over the two hemispheres, so saying albinism is usually normal on VEP is false. In optic neuritis the P100 amplitude collapses acutely and then recovers as acuity returns, but the P100 latency stays prolonged more or less permanently because remyelination is incomplete, which is why statements B and C are both true and why a delayed but normal-amplitude P100 is the signature of an old demyelinating attack.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#28",
+  "answer": "A",
+  "agrees": false,
+  "confidence": "medium",
+  "explanation": "Ocular hypotony is a textbook cause of optic disc oedema: hypotony maculopathy consists of disc swelling together with chorioretinal and macular folds, produced by collapse of the scleral and laminar geometry and stasis of axoplasmic flow at the nerve head. Choroidal effusion accompanies hypotony and shares the same picture, and both reverse when the pressure is restored. Bevacizumab is not a recognised cause of disc oedema; intravitreally it is an anti-permeability drug used to REDUCE oedema, and only systemic bevacizumab has any optic nerve association, indirectly through drug-induced hypertension.",
+  "concern": "I disagree with the source's answer B. Optic disc oedema is an explicit component of the standard description of hypotony maculopathy (BCSC and EyeWiki both describe disc swelling with chorioretinal folds in hypotony), so hypotony cannot be the 'except'. Of the three recalled options, bevacizumab is the one that is not a cause. Note the stem is truncated with only three options and the source's pasted explanation discusses choroidal effusion rather than the question asked, so an option may be missing; treat this item as unreliable rather than as a fact to memorise."
+ },
+ {
+  "task_id": "promotion-2014#29",
+  "answer": "D",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Diabetic retinopathy is the classic pregnancy progressor, worse with poor pre-pregnancy control, longer duration of diabetes, coexisting hypertension and abrupt tightening of glycaemia. Meningiomas enlarge in pregnancy because they carry progesterone receptors and because of the increase in plasma volume, and keratoconus progression with corneal steepening in pregnancy is described and attributed to hormonal effects on corneal biomechanics. Idiopathic intracranial hypertension is the outlier: its incidence in pregnancy matches that of non-pregnant women of the same age and weight, pregnancy does not alter its course or outcome, and it is not an indication for termination or for caesarean delivery.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#30",
+  "answer": "B",
+  "agrees": true,
+  "confidence": "medium",
+  "explanation": "The muscle of Riolan is the fine pretarsal marginal slip of orbicularis that runs just behind the lash follicles and forms the grey line, the surgical landmark that separates anterior from posterior lamella and the plane used when splitting the lid. Its accepted functions are keeping the eyelid margin and puncta apposed to the globe, helping express meibomian secretion into the tear film, and stabilising the blink; loss of that apposition contributes to epiphora and margin instability.",
+  "concern": "Standard texts (including the AAO passage the source quotes) also credit the muscle of Riolan with influencing eyelash position, which makes option A partly defensible. The recall offers only two coarse alternatives, so the discrimination is soft."
+ },
+ {
+  "task_id": "promotion-2014#31",
+  "answer": "D",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "A dissecting or ascending aortic aneurysm is a structural failure of the media (cystic medial degeneration, as in Marfan syndrome or long-standing hypertension), not an inflammatory destruction of the vessel wall, so it is not a vasculitis at all. Granulomatosis with polyangiitis is the prototype necrotizing ANCA-associated vasculitis, systemic lupus produces an immune-complex necrotizing vasculitis, and Takayasu arteritis is a large-vessel granulomatous arteritis with necrotizing features and giant cells. The ophthalmic relevance is that the genuine vasculitides on this list are exactly the diseases that cause necrotizing scleritis and peripheral ulcerative keratitis.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#32",
+  "answer": "B",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Ocular involvement is the rule rather than the exception in myasthenia gravis: more than half of patients present with ptosis or diplopia and roughly 90 percent develop ocular signs at some point, which is why the ophthalmologist so often makes the diagnosis. Option A is inverted, since cooling the lid with an ice pack for 2 minutes improves neuromuscular transmission and lifts the ptosis by 2 mm or more, which is a POSITIVE test. Option C is also inverted: single fibre EMG shows INCREASED jitter (80-100 percent sensitivity) and repetitive stimulation shows a decremental response.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#33",
+  "answer": "D",
+  "agrees": true,
+  "confidence": "medium",
+  "explanation": "The obstruction here sits at two levels, a membranous block at the valve of Hasner plus stenosis of BOTH canaliculi, and bicanalicular (Crawford) silicone intubation is the single option that stents the upper canaliculus, the lower canaliculus, the common canaliculus and the nasolacrimal duct together while the membranous obstruction is opened. Monocanalicular intubation would leave the second stenosed canaliculus untreated; a pigtail probe is reserved for repairing canalicular lacerations and risks injuring an intact common canaliculus; and DCR is not the primary operation for a congenital membranous obstruction, which usually responds to probing with intubation and is reserved for failures or for true bony/duct obstruction.",
+  "concern": "The stem is a terse recall and gives no age or history of prior probing, both of which would ordinarily shape the choice."
+ },
+ {
+  "task_id": "promotion-2014#34",
+  "answer": "C",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Le Fort II is the pyramidal fracture: it runs across the nasal bridge, down through the frontal process of the maxilla and the lacrimal bone, across the medial orbital wall and the orbital floor near the infraorbital foramen, then through the anterior wall of the maxillary sinus and back to the pterygoid plates, freeing a pyramid of central midface from the skull base. The zygomatic arch and the lateral orbital rim remain intact in Le Fort II; arch and zygomaticofrontal suture involvement with complete craniofacial disjunction defines Le Fort III. Le Fort I is the low transverse fracture that floats the palate and upper teeth with no orbital involvement at all.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#35",
+  "answer": "A",
+  "agrees": true,
+  "confidence": "medium",
+  "explanation": "Proptosis reduction in thyroid eye disease scales with how many walls are removed: a single deep lateral wall gives roughly 4-5 mm, a balanced two-wall (medial plus lateral) decompression gives more, and a three-wall decompression including the floor gives about 6-10 mm, so calling the lateral wall alone the maximum is the false statement. The floor and the posteromedial strut are exactly where new or worsened diplopia comes from as the globe drops and rotates, which makes B true, and the medial wall genuinely can be reached transcaruncular or transconjunctivally from the orbit or endonasally through the ethmoids, which makes C true as loosely worded.",
+  "concern": "The deep lateral wall approach is popular precisely because it gives good decompression with LESS induced diplopia, so statement A fails only on the strict claim of 'maximum' reduction. If the recalled wording differed, this discrimination could change."
+ },
+ {
+  "task_id": "promotion-2014#36",
+  "answer": "A",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Kaposi sarcoma is notably radiosensitive, and low-dose radiotherapy is a standard local treatment for conjunctival and eyelid lesions alongside excision, cryotherapy and intralesional chemotherapy, so 'not responsive to radiotherapy' is the false statement. It is an HHV-8 driven spindle cell vascular tumour of probable endothelial origin, appearing classically as multiple violaceous cutaneous plaques on the lower limbs in the elderly Mediterranean form and disseminated in AIDS and transplant patients. A bright red subconjunctival Kaposi lesion is regularly mistaken for a subconjunctival haemorrhage or a foreign body granuloma, and in HIV-associated disease effective antiretroviral therapy alone often produces regression.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#37",
+  "answer": "A",
+  "agrees": true,
+  "confidence": "medium",
+  "explanation": "Necrotizing fasciitis is a surgical emergency: the mainstay is urgent and repeated debridement of all necrotic fascia, with antibiotics, fluid resuscitation and haemodynamic support as adjuncts, so presenting high dose intravenous penicillin as the treatment is the false statement. Empiric cover must be broad (typically vancomycin plus a beta-lactam/beta-lactamase inhibitor or a carbapenem) with clindamycin added to switch off streptococcal exotoxin and cytokine production, narrowing to penicillin plus clindamycin only once group A Streptococcus is confirmed. Statement C is the key clinical pearl: early on the overlying skin can look almost normal while the patient has pain grossly out of proportion, and delaying surgery to obtain imaging costs lives.",
+  "concern": "High dose penicillin with clindamycin genuinely is the definitive antibiotic regimen for streptococcal necrotizing fasciitis, so A is false only because it implies medical therapy in place of surgery. It is the answer by elimination, since B and C are unambiguously true."
+ },
+ {
+  "task_id": "promotion-2014#38",
+  "answer": "B",
+  "agrees": true,
+  "confidence": "medium",
+  "explanation": "Post-herpetic neurotrophic keratopathy is the collision of a cornea that cannot feel with a lid that cannot close, and three months of persistent lagophthalmos is not a problem that drops will solve. Lateral tarsorrhaphy shortens the palpebral fissure, protects the exposed cornea and restores an effective tear film, and it is the classic answer for neurotrophic and exposure ulceration after herpes zoster ophthalmicus. Antiviral therapy addresses active viral replication and does nothing for an anaesthetic, mechanically exposed cornea, which is why acyclovir is the wrong reflex here.",
+  "concern": "A stepwise approach would begin with intensive preservative-free lubrication and ointment at night, and the stem does not state what has already been tried; at three months, however, a lid procedure is the definitive answer."
+ },
+ {
+  "task_id": "promotion-2014#39",
+  "answer": "C",
+  "agrees": true,
+  "confidence": "medium",
+  "explanation": "A tarsoconjunctival (Hughes) flap is designed to rebuild the POSTERIOR LAMELLA of an eyelid using tarsus and conjunctiva borrowed from the opposing lid, and it has no application at the medial canthus, which lies outside the tarsal plates and needs skin and soft tissue reconstruction together with canthal tendon and canalicular repair. Medial canthal defects are handled by direct closure when small, by a glabellar or median forehead flap for larger ones, by full thickness skin grafting, or by leaving the concavity to granulate (laissez-faire), which heals unusually well in this location.",
+  "concern": "The source itself notes a possibly missing option ('vs the missing option'), so the recalled option list may be incomplete; C is the exception among the options as given."
+ },
+ {
+  "task_id": "promotion-2014#40",
+  "answer": "B",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "The normal canthal tilt is upward, with the lateral canthal angle sitting roughly 1-2 mm HIGHER than the medial canthus, so the tarsal strip is fixated to reproduce that slight upward slant; setting it level or low produces a rounded, downturned, aged-looking canthus and often leaves residual laxity. The strip must be sutured to periosteum on the INNER aspect of the lateral orbital rim at Whitnall's (lateral orbital) tubercle, about 2-3 mm inside the rim, so the lid hugs the globe, which is why option D (outside the rim) is wrong. Lockwood's ligament is the inferior suspensory hammock of the globe, not a canthal insertion.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#41",
+  "answer": "C",
+  "agrees": true,
+  "confidence": "low",
+  "explanation": "All four of these retinal dystrophy syndromes are described with sensorineural hearing loss, and the only defensible discriminator is how central deafness is to each definition. Usher syndrome is defined by retinitis pigmentosa plus congenital deafness, Alstrom syndrome by cone-rod dystrophy with obesity, insulin resistance, cardiomyopathy and deafness, and Cockayne syndrome by dwarfism, premature ageing, intracranial calcification, retinal degeneration and deafness. Refsum disease is defined by its tetrad of atypical retinitis pigmentosa, peripheral polyneuropathy, cerebellar ataxia and raised CSF protein from phytanic acid accumulation, with deafness, anosmia, ichthyosis and cardiac conduction defects as associated rather than defining features.",
+  "concern": "This question is not sound as recalled: sensorineural hearing loss IS a recognised feature of Refsum disease, and the source's own explanation lists deafness under Refsum while answering C. Either an option was mis-recalled (the classic RP syndromes WITHOUT deafness are Bardet-Biedl and Bassen-Kornzweig/abetalipoproteinaemia) or the examiner wanted the Refsum tetrad. Low confidence; do not memorise 'Refsum has no deafness'."
+ },
+ {
+  "task_id": "promotion-2014#42",
+  "answer": "C",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "ETDRS concluded that scatter photocoagulation should be DEFERRED in mild to moderate NPDR but considered as eyes approach high-risk PDR, and the subgroup that benefited most from early scatter treatment was type 2 diabetics with severe or very severe NPDR or early PDR, which is exactly statement C. Aspirin 650 mg/day neither slowed retinopathy progression nor increased vitreous haemorrhage, so A is false; the real message of the aspirin arm was that aspirin is SAFE in diabetic retinopathy. B overtreats: PRP is indicated for HIGH-RISK PDR, meaning NVD greater than about one third of a disc area, or any NVD or NVE of at least half a disc area accompanied by vitreous or preretinal haemorrhage, not for any disc neovascularisation at all.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#43",
+  "answer": "D",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Aflibercept is a soluble decoy receptor: the VEGF-binding domains of VEGF receptors 1 and 2 fused to the Fc portion of human IgG1, which is why it is called a fusion protein (and was developed as VEGF Trap-Eye). That construction gives much higher binding affinity than the antibody-based agents and lets it also bind VEGF-B and placental growth factor. Learn the class of each drug together: pegaptanib is the aptamer, bevacizumab the full-length humanised monoclonal antibody, ranibizumab the antibody fragment (Fab), and aflibercept and conbercept the fusion proteins.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#44",
+  "answer": "B",
+  "agrees": true,
+  "confidence": "medium",
+  "explanation": "Optic disc drusen are calcified hyaline bodies within the prelaminar optic nerve head, and familial occurrence is well described with autosomal dominant inheritance of incomplete penetrance, which is why examining relatives of an affected patient is worthwhile. Option A is false, since drusen are bilateral in roughly 70-75 percent of cases though often strikingly asymmetric, and option D is false, since drusen do not cause glaucoma even though the nerve fibre layer loss they produce mimics glaucomatous field defects (enlarged blind spot, arcuate and nasal steps).",
+  "concern": "Option C is also true: buried drusen become superficial and visible with age, and the associated nerve fibre layer thinning and field loss are slowly progressive. B and C are both defensible, so the recalled question has two correct answers, as the source itself notes."
+ },
+ {
+  "task_id": "promotion-2014#45",
+  "answer": "A",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Fundus albipunctatus (RDH5) is a form of congenital STATIONARY night blindness: innumerable small white dots sparing the fovea, markedly delayed dark adaptation that eventually normalises after prolonged darkness, and a non-progressive course, so it does not fit progressive loss of peripheral and night vision. Gyrate atrophy (ornithine aminotransferase deficiency with hyperornithinaemia) and choroideremia (X-linked, CHM gene) are both relentlessly progressive chorioretinal degenerations that begin with nyctalopia and peripheral constriction, and chloroquine toxicity continues to progress even after the drug is stopped, with peripheral rather than parafoveal damage particularly in patients of Asian descent. Do not confuse fundus albipunctatus with retinitis punctata albescens, which looks similar but IS progressive.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#46",
+  "answer": "B",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Topical timolol is absorbed systemically across the nasolacrimal mucosa, and beta blockade both worsens myasthenic weakness in its own right and blunts the cholinergic benefit of pyridostigmine, with additive bradycardia; beta blockers appear on every list of drugs that exacerbate myasthenia gravis, alongside aminoglycosides, fluoroquinolones, macrolides and magnesium. Latanoprost, brinzolamide and brimonidine have no neuromuscular junction effect, and brimonidine's systemic issues are sedation and hypotension (chiefly in small children) plus topical allergy. The generalisable point is that 'topical' is not the same as 'local': an eye drop is a systemic drug given by an unusual route.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#47",
+  "answer": "D",
+  "agrees": true,
+  "confidence": "medium",
+  "explanation": "Late-onset glaucoma in Sturge-Weber syndrome is driven mainly by raised episcleral venous pressure from the episcleral haemangioma, and IOP cannot be brought below the episcleral venous pressure by improving CONVENTIONAL trabecular outflow, which is exactly what pilocarpine does. The other three drugs are all aqueous suppressants (timolol a beta blocker, brimonidine an alpha-2 agonist, dorzolamide a carbonic anhydrase inhibitor) and reduce inflow, so they still work; when medicines fail, trabeculectomy is favoured because it bypasses the episcleral venous system altogether, with the caveat of a high risk of intraoperative choroidal effusion or expulsive haemorrhage in these eyes.",
+  "concern": "The EyeWiki passage quoted by the source actually lists miotics among the more successful agents in Sturge-Weber, which conflicts with the source's own answer. My answer rests on the episcleral venous pressure argument and on pilocarpine being the only non-aqueous-suppressant offered, not on unanimous literature."
+ },
+ {
+  "task_id": "promotion-2014#48",
+  "answer": "C",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "The discriminating phrase in the stem is INTRAOCULAR INFLAMMATION. Anterior scleritis produces deep violaceous scleral and episcleral vessel engorgement that does not blanch with topical phenylephrine, and it is accompanied by anterior uveitis in a substantial minority, with IOP rise from trabeculitis, inflammatory debris or steroid response. Thyroid eye disease gives injection over the horizontal rectus insertions, chemosis and IOP that rises on upgaze, but no cells in the anterior chamber. A carotid-cavernous fistula gives the classic dilated corkscrew arterialised episcleral vessels with raised IOP, proptosis, a bruit and dilated tortuous retinal veins, but again it is a congestive rather than an inflammatory picture.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#49",
+  "answer": "D",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "OHTS identified baseline IOP, older age, vertical cup-disc ratio, central corneal thickness and visual field pattern standard deviation as the independent predictors of conversion from ocular hypertension to POAG, with thin central cornea the headline finding and the reason CCT entered routine practice. African American participants did appear at higher risk on univariate analysis, but that effect disappeared in the multivariate model once corneal thickness and cup-disc ratio were accounted for, because they had thinner corneas and larger discs on average, so race is not an independent measured predictor. The other clinical message of OHTS is that lowering IOP by about 20 percent roughly halved the five-year conversion rate.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#50",
+  "answer": "B",
+  "agrees": false,
+  "confidence": "high",
+  "explanation": "In ADVANCED glaucoma, OCT retinal nerve fibre layer measurement hits a floor: once the RNFL thins to roughly 50 microns, the residual non-neuronal tissue (glia and blood vessels) sets a measurement floor, so further axonal loss produces essentially no further change and structural imaging can no longer demonstrate progression. Function is what still moves in end-stage disease, so serial standard automated perimetry analysed with Guided Progression Analysis, supplemented by a 10-2 field to track the residual central island, is the recommended way to detect progression here. The structure-function relationship runs the other way in EARLY disease, where OCT change precedes detectable field loss, which is the trap this question sets.",
+  "concern": "I disagree with the source's answer D. The RNFL floor effect in advanced glaucoma is standard teaching (BCSC Section 10 and the AAO Primary Open-Angle Glaucoma Preferred Practice Pattern both make the point that visual fields are the more useful progression tool once damage is advanced), and the source's own explanation quotes a general statement about OCT monitoring without addressing the word 'advanced'. Among the remaining options, an RAPD (A) is a gross and insensitive sign and subjective visual complaint (C) appears far too late to guide management."
+ },
+ {
+  "task_id": "promotion-2014#51",
+  "answer": "A",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Angle recession is not itself glaucoma; it is a scar marking the blunt trauma that tore the ciliary body face and damaged the trabecular meshwork, and glaucoma may follow years or decades later, with risk related to the extent of recession (classically more than 180 degrees). Because that risk is lifelong rather than concentrated in the first few years, the accepted approach is ANNUAL examination with IOP, gonioscopy, optic disc and visual field assessment, and it must include the FELLOW eye, which also carries an increased incidence of open-angle glaucoma. Option B, intensive follow-up for three years, would discharge the patient exactly before the late conversions that characterise this condition.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#52",
+  "answer": "C",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Brimonidine (Alphagan) is the glaucoma drop notorious for a delayed follicular conjunctivitis with periocular contact dermatoblepharitis, often appearing many months into treatment and resolving only when the drug is stopped; its cousin apraclonidine does the same thing so reliably that apraclonidine is restricted to short-term use. Follicles represent a lymphoid, delayed (type IV) hypersensitivity response, and the other classic topical offenders are atropine, dipivefrin and the antiviral agents. Timolol and dorzolamide more typically produce a papillary or toxic reaction with punctate keratopathy, and dust is a mechanical irritant rather than a follicular stimulus.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#53",
+  "answer": "A",
+  "agrees": true,
+  "confidence": "medium",
+  "explanation": "Snellen optotypes are constructed so that the WHOLE letter subtends 5 minutes of arc at the distance written in the denominator, with each stroke and each gap subtending 1 minute of arc, so a 20/20 letter viewed at 20 feet subtends 5 arcmin overall. The 1 arcmin figure is the minimum angle of RESOLUTION, the critical detail the eye must separate, and it is why 20/20 corresponds to a logMAR of 0 and why the 5:1 letter geometry is preserved on every line of the chart.",
+  "concern": "The stem is genuinely ambiguous as recalled. If the examiner meant the letter size, the answer is 5 minutes (A); if the examiner meant the minimum angle of resolution or the stroke width, the answer is 1 minute (B). Both are correct facts about 20/20 and only the original wording decides which was wanted."
+ },
+ {
+  "task_id": "promotion-2014#54",
+  "answer": "A",
+  "agrees": true,
+  "confidence": "low",
+  "explanation": "If both parents truly have the same autosomal recessive disease, each is homozygous or compound heterozygous at that locus, so every child must inherit a mutant allele from each parent and be affected; an unaffected child therefore means one of the premises is untrue. The classic textbook explanation is LOCUS HETEROGENEITY (genetic complementation): the two parents have the same clinical phenotype from mutations in DIFFERENT genes, which is common in retinitis pigmentosa, congenital deafness and oculocutaneous albinism, so the children inherit one mutant allele at each of two loci and are unaffected double carriers. Of the two options actually offered, mosaicism is at least a real genetic mechanism, since a mosaic parent whose germ line carries a normal allele can transmit it.",
+  "concern": "The standard answer, locus heterogeneity/complementation, is not among the options, so this recall appears incomplete or garbled. Non-paternity is a third real possibility, and 'wrong diagnosis' is formally possible too. I am agreeing with the source only because mosaicism is the one option that names a genetic mechanism; low confidence and I would not memorise this item."
+ },
+ {
+  "task_id": "promotion-2014#55",
+  "answer": "A",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Blinding is the design feature aimed specifically at bias, and double blinding (neither participant nor investigator/assessor knows the allocation) removes both the participant's expectation effect and the observer's measurement and ascertainment bias. Keep the division straight: randomisation handles selection bias and confounding, while masking handles performance and detection bias. B is false, because a double-masked trial can compare two active treatments head to head with no placebo at all, using a double-dummy design if the formulations differ, and C as recalled is garbled, though masking of the outcome assessor is part of the definition rather than an optional extra.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#56",
+  "answer": "B",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "A retrobulbar injection deposits anaesthetic INSIDE the muscle cone, where the third and sixth nerves and the ciliary ganglion lie, but the trochlear nerve enters the orbit OUTSIDE the annulus of Zinn, above the cone, and runs along the orbital roof to reach the superior oblique. Because it never enters the cone it is frequently not reached by the injectate, so the superior oblique is characteristically the last muscle to be akinetised and often retains activity, seen as a persistent intorsional twitch in an otherwise motionless eye. The other three muscles listed are all oculomotor-innervated within the cone and are blocked early.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#57",
+  "answer": "B",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "The duochrome (bichrome) test exploits the eye's longitudinal chromatic aberration: because refractive index varies with wavelength, the shorter green wavelengths come to a focus IN FRONT of the longer red wavelengths, straddling yellow by roughly 0.25 D on each side, and the refraction is refined by balancing the two. That is what statement B says in clumsy words, while A is simply factually wrong, since red has the LONGER wavelength. Two practical points: the test refines sphere only and is done monocularly, and red-green colour deficiency does not invalidate it because the patient judges clarity rather than colour.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#58",
+  "answer": "B",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Remember RAM-GAP: Red Add Minus, Green Add Plus. If the letters on the RED side look sharper, the eye is focused relatively in front of the retina (under-minused or relatively myopic), so minus sphere is added until the two halves match; if GREEN is sharper the patient has been over-minused and plus must be added back. In a young patient with active accommodation the endpoint is deliberately left a touch on the red side, since over-minusing stimulates accommodation and produces asthenopia. Options C and D are wrong in kind rather than merely in direction, because the duochrome refines SPHERE only; the chromatic difference of focus is not meridian specific and so cannot guide cylinder.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#59",
+  "answer": "A",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Older age at diagnosis is an established independent predictor of melanoma-related mortality, alongside larger tumour size (largest basal diameter and thickness), ciliary body involvement, extraocular extension, epithelioid cytology, high microvascular density and large nucleoli, with monosomy 3 and class 2 gene expression profile the strongest modern predictors. Location works in the OPPOSITE direction to option B, since anterior (ciliary body) tumours carry a worse prognosis than posterior ones. Degree of pigmentation is not a survival factor, and orange lipofuscin pigment is a risk factor for GROWTH of a small choroidal melanocytic lesion (one of the 'To Find Small Ocular Melanoma' features) rather than a marker of metastatic death.",
+  "concern": ""
+ },
+ {
+  "task_id": "promotion-2014#60",
+  "answer": "B",
+  "agrees": true,
+  "confidence": "high",
+  "explanation": "Choroidal neovascularisation is the commonest sight-threatening complication of punctate inner choroidopathy, reported in a large proportion of eyes, and it is what converts this disease of small yellow-white inner choroidal and outer retinal spots in a young myopic woman into central vision loss and subretinal fibrosis. The mechanism is a break in Bruch's membrane at the inflammatory lesion, and management is anti-VEGF therapy, often combined with systemic corticosteroid or immunosuppression for the underlying inflammation. Cystoid macular oedema does occur in the white dot syndromes but is far less characteristic of PIC, which is typically a quiet eye with no anterior chamber cells and no vitritis.",
+  "concern": ""
+ }
+]
