@@ -32,7 +32,22 @@
   "subspecialty": "Anterior Segment",
   "pdfPage": 42,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p043_8f02005e3d.png"
+  "imageUrl": "/images/promotion/p043_8f02005e3d.png",
+  "referenceLinks": [
+   {
+    "title": "Intraocular Lens Power Calculation after Corneal Refractive Surgery — EyeWiki",
+    "url": "https://eyewiki.org/Intraocular_Lens_Power_Calculation_after_Corneal_Refractive_Surgery",
+    "source": "EyeWiki",
+    "shows": "Why keratometry and effective lens position are wrong after LASIK/PRK/RK, with the corrective formulas (Barrett True-K, Haigis-L, Shammas)"
+   },
+   {
+    "title": "Refractive Error After Cataract Surgery — EyeWiki",
+    "url": "https://eyewiki.org/Refractive_Error_After_Cataract_Surgery",
+    "source": "EyeWiki",
+    "shows": "Explicitly names the hyperopic surprise after prior myopic refractive surgery and the reverse after hyperopic treatment"
+   }
+  ],
+  "figureFinding": "Refractive surprise after cataract surgery in an eye with previous myopic laser refractive surgery — standard keratometry overestimates corneal power, the IOL chosen is too weak, and the patient ends up hyperopic"
  },
  {
   "id": 3,
@@ -50,7 +65,22 @@
   "subspecialty": "Anterior Segment",
   "pdfPage": 43,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p043_72eac03392.png"
+  "imageUrl": "/images/promotion/p043_72eac03392.png",
+  "referenceLinks": [
+   {
+    "title": "Pterygium — EyeWiki",
+    "url": "https://eyewiki.org/Pterygium",
+    "source": "EyeWiki",
+    "shows": "Clinical appearance plus surgical management comparing recurrence rates of conjunctival autograft, bare sclera, amniotic membrane graft and mitomycin C"
+   },
+   {
+    "title": "Category: Pterygium (conjunctiva) — Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/Category:Pterygium_(conjunctiva)",
+    "source": "Wikimedia Commons",
+    "shows": "Openly licensed clinical and slit-lamp photographs of pterygium, including pre- and post-operative images"
+   }
+  ],
+  "figureFinding": "Pterygium and its surgical repair — conjunctival autograft has the lowest recurrence and complication rate compared with bare-sclera closure, amniotic membrane, or mitomycin C"
  },
  {
   "id": 4,
@@ -218,7 +248,22 @@
   "explanation": "did not mention in the choices type 1 or 2",
   "year": "2024",
   "subspecialty": "Anterior Segment",
-  "pdfPage": 48
+  "pdfPage": 48,
+  "referenceLinks": [
+   {
+    "title": "Prominent Corneal Nerves — EyeWiki",
+    "url": "https://eyewiki.org/Prominent_Corneal_Nerves",
+    "source": "EyeWiki",
+    "shows": "Slit-lamp appearance and the complete differential — neurofibromatosis, multiple endocrine neoplasia 2A/2B, leprosy, keratoconus, Refsum disease"
+   },
+   {
+    "title": "Prominent corneal nerves in pure mucosal neuroma syndrome — BMC Ophthalmology (PMC)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10258932/",
+    "source": "PMC",
+    "shows": "Slit-lamp photographs of markedly prominent bilateral corneal nerves in the mid-stroma, with the MEN2B / NF1 / leprosy differential worked through"
+   }
+  ],
+  "figureFinding": "Prominent/enlarged corneal nerves on slit-lamp examination — thickened white nerve trunks visible right through the central cornea, rather than only in the peripheral third as in normal eyes"
  },
  {
   "id": 14,
@@ -288,7 +333,22 @@
   "imageUrl": "/images/promotion/p049_17b0ee9c76.png",
   "imageUrls": [
    "/images/promotion/p049_0c845e536a.png"
-  ]
+  ],
+  "referenceLinks": [
+   {
+    "title": "Atlas Entry - Posterior subcapsular cataract - EyeRounds (University of Iowa)",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/atlas/pages/Posterior-subcapsular-cataract-2.html",
+    "source": "EyeRounds / University of Iowa",
+    "shows": "Slit-lamp photograph plus a magnified close-up of a PSC in a diabetic patient; the caption notes rapid visual decline over about a month with glare as the prominent symptom, and the absence of nuclear change"
+   },
+   {
+    "title": "Cataract - EyeWiki",
+    "url": "https://eyewiki.aao.org/Cataract",
+    "source": "EyeWiki",
+    "shows": "Section on posterior subcapsular cataract with retroillumination and direct slit-lamp images, and an explicit symptom list of glare, difficulty with near greater than distance, and rapidly diminishing vision; side-by-side photos of nuclear sclerotic and cortical cataract for comparison"
+   }
+  ],
+  "figureFinding": "Posterior subcapsular cataract: a granular, plaque-like opacity lying directly beneath the posterior lens capsule, best appreciated on retroillumination. It causes glare and halos around point light sources, worse vision in bright light (pupil constricted over the opacity), and near vision worse than distance."
  },
  {
   "id": 18,
@@ -574,7 +634,28 @@
   "explanation": "C 41. Photo of Neuroretinitis in child. What would help you in the diagnosis? (Same picture in exam):",
   "year": "2024",
   "subspecialty": "Retina",
-  "pdfPage": 55
+  "pdfPage": 55,
+  "referenceLinks": [
+   {
+    "title": "Ocular Ischemic Syndrome - EyeWiki",
+    "url": "https://eyewiki.aao.org/Ocular_Ischemic_Syndrome",
+    "source": "EyeWiki",
+    "shows": "Full description of OIS in an older vasculopathic patient: dilated retinal veins, microaneurysms, rubeosis iridis, retinal haemorrhages, and the link to severe carotid stenosis/occlusion, with workup and prognosis"
+   },
+   {
+    "title": "Ocular Ischemic Syndrome in a patient with background Diabetic Retinopathy: Distinguishing Features - EyeRounds",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/cases/356-Ocular-Ischemic-Syndrome.htm",
+    "source": "EyeRounds / University of Iowa",
+    "shows": "Wide-field Optos fundus photo with corneal oedema, anterior chamber flare, narrowed arteries, mildly dilated veins and mid-peripheral dot-blot haemorrhages; explicitly discusses how asymmetry and the mid-peripheral haemorrhage distribution separate OIS from diabetic retinopathy, and lists CRVO in the differential"
+   },
+   {
+    "title": "Ocular Ischemic Syndrome - EyeRounds case 327",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/cases/327-ocular-ischemic-syndrome.htm",
+    "source": "EyeRounds / University of Iowa",
+    "shows": "Six figures including bilateral wide-field fundus montages, OCT and cerebral angiogram; documents disc and arcade neovascularisation and a central retinal artery that occludes with very light digital pressure, with 99.5% and 100% internal carotid occlusion"
+   }
+  ],
+  "figureFinding": "Ocular ischemic syndrome from severe ipsilateral carotid occlusive disease: corneal oedema, anterior chamber flare, rubeosis/neovascularisation, narrowed retinal arteries with spontaneous arterial pulsation (or an artery easily occluded by light digital pressure), dilated but NON-tortuous veins, and scattered mid-peripheral dot-blot haemorrhages - all markedly asymmetric versus the fellow eye, which shows only a few microaneurysms."
  },
  {
   "id": 36,
@@ -800,7 +881,22 @@
   "subspecialty": "Pediatrics",
   "pdfPage": 63,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p063_c6d3c4e021.png"
+  "imageUrl": "/images/promotion/p063_c6d3c4e021.png",
+  "referenceLinks": [
+   {
+    "title": "Three Step Test for Cyclovertical Muscle Palsy - EyeWiki",
+    "url": "https://eyewiki.aao.org/Three_Step_Test_for_Cyclovertical_Muscle_Palsy",
+    "source": "EyeWiki",
+    "shows": "Figure 1 is a clinical photograph of a superior oblique palsy in the nine diagnostic gaze positions; Figure 2 is an annotated three-step-test diagram; Figure 3 shows double Maddox rod testing for torsion. Explains why head tilt to the palsied side worsens the hypertropia"
+   },
+   {
+    "title": "Cranial Nerve 4 Palsy - EyeWiki",
+    "url": "https://eyewiki.aao.org/Cranial_Nerve_4_Palsy",
+    "source": "EyeWiki",
+    "shows": "Clinical description of ipsilateral hypertropia with excyclotorsion and a compensatory head tilt away from the affected muscle, the Parks-Bielschowsky-Helveston three-step test, congenital versus acquired aetiology, and management options"
+   }
+  ],
+  "figureFinding": "Long-standing (congenital) LEFT superior oblique / fourth nerve palsy: left hypertropia that increases in right gaze and on LEFT head tilt, with a compensatory head tilt to the RIGHT (away from the palsied side). Subjective excyclotorsion is typically absent in congenital cases because of long-standing sensory adaptation. The photo should show a child with a habitual head tilt and a higher left eye."
  },
  {
   "id": 50,
@@ -1055,7 +1151,28 @@
   "explanation": "No explanation was provided in the source document.",
   "year": "2024",
   "subspecialty": "Pediatrics",
-  "pdfPage": 68
+  "pdfPage": 68,
+  "referenceLinks": [
+   {
+    "title": "Conjunctival Lymphoma - EyeRounds case 243",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/cases/243-conjunctival-lymphoma.htm",
+    "source": "EyeRounds / University of Iowa",
+    "shows": "Four clinical figures - external photos of the raised pink caruncular lesion with ptosis, a slit-lamp photo of the salmon-coloured patch with telangiectatic vessels, the classic salmon-pink appearance, and post-treatment photos. Documents treatment with external beam radiotherapy (24 Gy in 15 fractions) with excellent response; biopsy confirmed extranodal marginal zone B-cell lymphoma"
+   },
+   {
+    "title": "Atlas Entry - Conjunctival lymphoma - EyeRounds",
+    "url": "https://eyerounds.org/atlas/pages/Conjunctival-lymphoma/index.htm",
+    "source": "EyeRounds / University of Iowa",
+    "shows": "Clinical photograph of the smooth, mobile, salmon-coloured fleshy mass; biopsy-confirmed MALT lymphoma, with a companion link to benign conjunctival lymphoid hyperplasia for comparison"
+   },
+   {
+    "title": "Conjunctival Lymphoma - EyeWiki",
+    "url": "https://eyewiki.aao.org/Conjunctival_Lymphoma",
+    "source": "EyeWiki",
+    "shows": "Text reference confirming the salmon-coloured mass, the histopathology/flow cytometry workup, and that external beam radiotherapy (20-50 Gy) is the treatment of choice for indolent EMZL/FL - which is why the answer is radiotherapy, not observation or excision"
+   }
+  ],
+  "figureFinding": "Conjunctival lymphoma: a smooth, mobile, salmon-pink fleshy subconjunctival patch/mass (typically fornix or bulbar conjunctiva, often with telangiectatic surface vessels), plus histopathology showing a dense monotonous infiltrate of small lymphocytes - most often extranodal marginal zone (MALT) B-cell lymphoma. Treated with external beam radiotherapy for localised indolent disease."
  },
  {
   "id": 66,
@@ -1230,7 +1347,28 @@
   "explanation": "The source is undecided between C and B. junctional scotoma Anterior to chiasm The pic was similar to this but but instead of 24-2 it was 30-2:",
   "year": "2024",
   "subspecialty": "Neuro-Ophthalmology",
-  "pdfPage": 74
+  "pdfPage": 74,
+  "referenceLinks": [
+   {
+    "title": "Compressive Visual Field Defects - EyeWiki",
+    "url": "https://eyewiki.aao.org/Compressive_Visual_Field_Defects",
+    "source": "EyeWiki",
+    "shows": "Labelled diagrams of field patterns keyed to lesion site - monocular loss/central scotoma (optic nerve), bitemporal hemianopsia and junctional scotoma (chiasm), incongruous homonymous hemianopia (optic tract), and congruous homonymous hemianopia with macular sparing (occipital). This maps directly onto all four answer options"
+   },
+   {
+    "title": "Category:Bitemporal hemianopsia - Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/Category:Bitemporal_hemianopsia",
+    "source": "Wikimedia Commons",
+    "shows": "Four openly licensed files: a bitemporal heteronymous hemianopia vector diagram, two visual field renderings of bitemporal loss, and an anatomical illustration of the chiasmal lesion site"
+   },
+   {
+    "title": "Neuroanatomy, Bitemporal Hemianopsia - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK545213/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "Explains the field pattern and its localisation to the chiasm via decussating nasal fibres, anterior chiasmal syndrome, and the common causes (pituitary adenoma, craniopharyngioma, meningioma, ACom aneurysm); includes an optic chiasm illustration"
+   }
+  ],
+  "figureFinding": "Bitemporal hemianopia: loss of the temporal half of the field in BOTH eyes, respecting the vertical meridian - produced by a lesion at the body of the optic chiasm compressing the decussating nasal fibres (most often a pituitary macroadenoma)."
  },
  {
   "id": 77,
@@ -1298,7 +1436,16 @@
   "subspecialty": "Optics",
   "pdfPage": 76,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p076_a14e8019cd.png"
+  "imageUrl": "/images/promotion/p076_a14e8019cd.png",
+  "referenceLinks": [
+   {
+    "title": "Optics and Refraction: From One Medical Student to Another - EyeRounds tutorial",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/tutorials/optics-and-refraction-medical-students/index.htm",
+    "source": "EyeRounds / University of Iowa",
+    "shows": "The 'How to Read a Glasses Prescription' section states the transposition rule verbatim - sum the sphere and cylinder including signs, change the cylinder from plus to minus or minus to plus, and rotate the axis by 90 degrees - with a worked figure converting +3.00 -2.00 x 060 to +1.00 +2.00 x 150"
+   }
+  ],
+  "figureFinding": "No clinical figure is needed - this is a pure spectacle-prescription calculation item on spherocylindrical transposition. The rule: algebraically add the cylinder to the sphere to get the new sphere, flip the sign of the cylinder, and change the axis by 90 degrees."
  },
  {
   "id": 81,
@@ -1381,7 +1528,28 @@
   "explanation": "No explanation was provided in the source document.",
   "year": "2024",
   "subspecialty": "Pathology",
-  "pdfPage": 79
+  "pdfPage": 79,
+  "referenceLinks": [
+   {
+    "title": "Adult Chlamydial Conjunctivitis: Red eyes for several months - EyeRounds",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/cases/68-Adult-Chlamydial-Conjunctivitis-Red-Eyes-Chronic.htm",
+    "source": "EyeRounds / University of Iowa",
+    "shows": "Four clinical photographs of chronic follicular conjunctivitis in an adult - follicles on the semilunar fold and bulbar conjunctiva, conjunctival injection, chemosis, and a magnified palpebral view; the text states the classic finding is basophilic intracytoplasmic inclusions on Giemsa staining, and confirms C. trachomatis on culture"
+   },
+   {
+    "title": "Category:Chlamydia trachomatis - Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/Category:Chlamydia_trachomatis",
+    "source": "Wikimedia Commons",
+    "shows": "Openly licensed photomicrographs of the organism inside host cells, including a CDC Giemsa-stained preparation and an image of C. trachomatis inclusion bodies in McCoy cell culture - the closest freely licensed match to the exam's pathology slide"
+   },
+   {
+    "title": "Chlamydia - Medical Microbiology (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK8091/",
+    "source": "NCBI Bookshelf",
+    "shows": "Text reference confirming that typical cytoplasmic inclusions are seen in cells stained with Giemsa or iodine, and that C. trachomatis causes inclusion conjunctivitis in children and adults, milder than trachoma"
+   }
+  ],
+  "figureFinding": "Chlamydia trachomatis (adult inclusion) conjunctivitis: a Giemsa-stained conjunctival scraping showing basophilic intracytoplasmic inclusion bodies (Halberstaedter-Prowazek bodies) capping the epithelial cell nucleus, in a sexually active young adult with chronic follicular conjunctivitis unresponsive to routine topical antibiotics."
  },
  {
   "id": 86,
@@ -1397,7 +1565,22 @@
   "explanation": "No explanation was provided in the source document.",
   "year": "2024",
   "subspecialty": "Pathology",
-  "pdfPage": 80
+  "pdfPage": 80,
+  "referenceLinks": [
+   {
+    "title": "Squamous Carcinoma of the Eyelid - EyeWiki",
+    "url": "https://eyewiki.aao.org/Squamous_Carcinoma_of_the_Eyelid",
+    "source": "EyeWiki",
+    "shows": "Microscopic figures (Figures 1-2) at two magnifications showing keratin pearls and intercellular bridges, plus Figure 7, a pre-surgical photo of an extensive ULCERATED lower eyelid SCC, and post-operative reconstruction images. States the ulcerating SCC has a red base with well-defined, hardened, everted edges"
+   },
+   {
+    "title": "Malignant Lesions of the External Periocular Tissues - EyeRounds tutorial",
+    "url": "https://eyerounds.org/tutorials/malignant-lesions-of-ext-periocular-tissues/index.htm",
+    "source": "EyeRounds / University of Iowa",
+    "shows": "Clinical photos and a histopathology series of eyelid SCC - tumour cells invading the dermis with keratin pearls and prominent intercellular bridges - alongside the histology of basal cell carcinoma (bland monomorphous nuclei with peripheral palisading) and sebaceous carcinoma (foamy cytoplasm), which is exactly the comparison this question tests"
+   }
+  ],
+  "figureFinding": "Squamous cell carcinoma of the eyelid: biopsy histopathology showing nests and strands of atypical, eosinophilic squamous cells with full-thickness atypia, keratin pearls and retained intercellular bridges, invading the dermis with a fibrotic reaction. Clinically an ulcerated lower-lid lesion with a red base and indurated, everted edges."
  },
  {
   "id": 87,

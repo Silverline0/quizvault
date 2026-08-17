@@ -116,7 +116,22 @@
   "subspecialty": "Anterior Segment",
   "pdfPage": 147,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p146_d0d3d556f6.jpg"
+  "imageUrl": "/images/promotion/p146_d0d3d556f6.jpg",
+  "referenceLinks": [
+   {
+    "title": "Ruptured Globe - EyeWiki",
+    "url": "https://eyewiki.aao.org/Ruptured_Globe",
+    "source": "EyeWiki",
+    "shows": "Birmingham Eye Trauma Terminology (BETT) classification diagram and text on the inside-out mechanism; lists the limbus, the region just behind the rectus insertions near the equator, the optic nerve insertion and prior surgical sites as rupture points"
+   },
+   {
+    "title": "Scleral and Limbic Lacerations - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK580563/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "Two clinical slit-lamp photographs - inferior limbal laceration with uveal prolapse, and an inferotemporal scleral tear with hypopyon"
+   }
+  ],
+  "figureFinding": "Blunt-trauma globe rupture in a phakic eye - anterior rupture at/just behind the limbus with uveal prolapse, plus the BETT zone diagram showing where the sclera is thinnest."
  },
  {
   "id": 8,
@@ -131,7 +146,22 @@
   "explanation": "Typically, the ulcer starts in the periphery of the cornea within the palpebral fissure and spreads circumferentially and then centrally, with undermining of the central edge (Fig 13-25). Ulceration toward the sclera is less common. Reference: AAO BCSC Cornea 22-23: - Mooren ulcer is a chronic, painful, progressive ulceration of the peripheral cornea.",
   "year": "2018",
   "subspecialty": "Anterior Segment",
-  "pdfPage": 148
+  "pdfPage": 148,
+  "referenceLinks": [
+   {
+    "title": "Mooren's Ulcer - EyeWiki",
+    "url": "https://eyewiki.aao.org/Mooren%27s_Ulcer",
+    "source": "EyeWiki",
+    "shows": "Seven clinical figures - crescentic ulcer with overhanging central edge, partial/complete/total peripheral ulceration, and a perforated Mooren ulcer with iris prolapse; text states changes begin 2-3 mm from limbus and proceed circumferentially and centrally over 4-12 months"
+   },
+   {
+    "title": "Mooren's Ulcer: A Diagnosis of Exclusion - EyeRounds (University of Iowa)",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/cases/316-moorens-ulcer.htm",
+    "source": "EyeRounds (Univ. of Iowa)",
+    "shows": "Serial slit-lamp photographs documenting crescentic limbal thinning at presentation and its circumferential and central expansion 4 months later, plus post-glue appearance with an overhanging edge"
+   }
+  ],
+  "figureFinding": "Mooren ulcer - crescentic peripheral corneal ulceration with a characteristic undermined, overhanging central leading edge and vascularised base, spreading circumferentially AND centrally; no scleral involvement."
  },
  {
   "id": 9,
@@ -499,7 +529,28 @@
   "subspecialty": "Uveitis",
   "pdfPage": 191,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p178_4a16ae587b.jpg"
+  "imageUrl": "/images/promotion/p178_4a16ae587b.jpg",
+  "referenceLinks": [
+   {
+    "title": "Herpes Simplex Uveitis - EyeWiki",
+    "url": "https://eyewiki.aao.org/Herpes_Simplex_Uveitis",
+    "source": "EyeWiki",
+    "shows": "Photograph of HSV keratouveitis; text stating KP may be granulomatous, nongranulomatous or stellate, that stellate KP are typically diffuse, and that high IOP (up to 50-60 mmHg) from trabeculitis is a diagnostic hallmark"
+   },
+   {
+    "title": "Atlas Entry - Herpes simplex virus keratitis & HSV iritis - EyeRounds",
+    "url": "https://eyerounds.org/atlas/pages/herpes-simplex-virus-keratitis--HSV-iritis.html",
+    "source": "EyeRounds (Univ. of Iowa)",
+    "shows": "Three clinical photographs of a unilateral red eye with follicular conjunctivitis and an early corneal dendrite in a patient with 1+ cell/trace flare (HSV iritis)"
+   },
+   {
+    "title": "Herpes Zoster Uveitis - EyeWiki",
+    "url": "https://eyewiki.aao.org/Herpes_Zoster_Uveitis",
+    "source": "EyeWiki",
+    "shows": "Text reference for the VZV variant - punctate KP, patchy/sectoral iris atrophy and ocular hypertension as a diagnostic hallmark (no photographs on this page)"
+   }
+  ],
+  "figureFinding": "Herpetic (HSV/VZV) anterior uveitis - diffuse stellate keratic precipitates on the corneal endothelium, often with sectoral iris atrophy, corneal oedema/scarring and raised IOP."
  },
  {
   "id": 32,
@@ -710,7 +761,16 @@
   "subspecialty": "Glaucoma",
   "pdfPage": 209,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p193_269d28bfa1.jpg"
+  "imageUrl": "/images/promotion/p193_269d28bfa1.jpg",
+  "referenceLinks": [
+   {
+    "title": "Neovascular Glaucoma - EyeWiki",
+    "url": "https://eyewiki.aao.org/Neovascular_Glaucoma",
+    "source": "EyeWiki",
+    "shows": "Three clinical figures - advanced NVG with florid rubeosis iridis, ectropion uveae with hyphema, and neovascularisation of the angle; text on progressive synechial angle closure and on PRP as essential treatment of the underlying retinal ischaemia"
+   }
+  ],
+  "figureFinding": "Neovascular glaucoma - florid rubeosis iridis (NVI) at the pupillary margin with ectropion uveae, and gonioscopy showing neovascularisation of the angle with 360 degrees of synechial (PAS) closure and very high IOP."
  },
  {
   "id": 45,
@@ -728,7 +788,16 @@
   "subspecialty": "Glaucoma",
   "pdfPage": 210,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p210_0694886f76.jpg"
+  "imageUrl": "/images/promotion/p210_0694886f76.jpg",
+  "referenceLinks": [
+   {
+    "title": "IOP and Tonometry - EyeWiki",
+    "url": "https://eyewiki.aao.org/IOP_and_Tonometry",
+    "source": "EyeWiki",
+    "shows": "Explicitly states that corneas with decreased rigidity, such as in corneal edema, produce artificially LOW readings; also that corneal scars falsely increase the reading, thick corneas over-read and thin corneas under-read"
+   }
+  ],
+  "figureFinding": "Corneal oedema (microcystic/bullous, reduced corneal rigidity) at the slit lamp, and Goldmann applanation tonometry technique - the setting in which the applanation reading UNDERestimates true IOP."
  },
  {
   "id": 46,
@@ -745,7 +814,28 @@
   "subspecialty": "Glaucoma",
   "pdfPage": 211,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p211_d47af35532.jpg"
+  "imageUrl": "/images/promotion/p211_d47af35532.jpg",
+  "referenceLinks": [
+   {
+    "title": "Primary Congenital Glaucoma - EyeWiki",
+    "url": "https://eyewiki.aao.org/Primary_Congenital_Glaucoma",
+    "source": "EyeWiki",
+    "shows": "States that after IOP normalisation there can be notable reversal of cupping, while any retinal nerve fibre layer damage already present is permanent"
+   },
+   {
+    "title": "Structural Reversibility of Optic-Disc Cupping in Glaucoma - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12733532/",
+    "source": "PMC (NIH)",
+    "shows": "Figure 1 'Pediatric vs. Adult structural reversal of disc cupping'; reports cupping reversal in ~40-50% of childhood glaucoma after prompt IOP control, with younger age and earlier surgery predicting greater reversal (first 6-12 months of life the critical window)"
+   },
+   {
+    "title": "Infantile Glaucoma, Congenital Glaucoma - EyeRounds (University of Iowa)",
+    "url": "https://eyerounds.org/cases/42-Primary-Congenital-Glaucoma-Infantile-Glaucoma.htm",
+    "source": "EyeRounds (Univ. of Iowa)",
+    "shows": "Case with increased cupping in the affected eye and normalisation of IOP to 16 mmHg after trabeculotomy"
+   }
+  ],
+  "figureFinding": "Infant optic disc showing REVERSAL of glaucomatous cupping - a large cup pre-operatively and a markedly smaller, less excavated cup after successful IOP-lowering surgery (angle surgery/trabeculotomy) in the first year of life."
  },
  {
   "id": 47,
@@ -1038,7 +1128,28 @@
   "subspecialty": "Oculoplastics",
   "pdfPage": 253,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p254_9fd64ec8c9.jpg"
+  "imageUrl": "/images/promotion/p254_9fd64ec8c9.jpg",
+  "referenceLinks": [
+   {
+    "title": "Trichiasis - EyeWiki",
+    "url": "https://eyewiki.aao.org/Trichiasis",
+    "source": "EyeWiki",
+    "shows": "Definition of posteriorly directed lashes and management, listing mechanical epilation as a conservative/temporary option; page image is of a buccal membrane graft repair"
+   },
+   {
+    "title": "Diseases of the Eyelashes - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK537100/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "Five figures including eyelash anatomy, trachomatous trichiasis, trichiasis and congenital distichiasis; notes epilation gives only short-term relief"
+   },
+   {
+    "title": "Anatomy, Head and Neck: Eyelash - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK537278/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "Eyelash growth cycle - anagen 4-10 weeks, catagen ~15 days, telogen 4-9 months - and states that after lash removal by pulling it takes about eight weeks to grow back"
+   }
+  ],
+  "figureFinding": "Trichiasis - misdirected eyelashes rubbing the globe, the lesion for which mechanical epilation is used as temporary relief."
  },
  {
   "id": 65,
@@ -1120,7 +1231,22 @@
   "imageUrl": "/images/promotion/p273_a9f717709a.jpg",
   "imageUrls": [
    "/images/promotion/p273_3eb7be09db.jpg"
-  ]
+  ],
+  "referenceLinks": [
+   {
+    "title": "Homonymous Hemianopsia - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK558929/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "Field-defect schematics along the visual pathway; states the occipital pole handling macular field has an anastomotic supply with the contralateral side, abating macular field loss, and that macular sparing follows infarcts of the most posterior occipital cortex in a PCA distribution"
+   },
+   {
+    "title": "Neuroanatomy, Visual Pathway - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK553189/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "Diagram of the human visual pathway plus the localisation rules - homonymous hemianopia with macular sparing indicates involvement of the primary visual cortex in the occipital lobe, from dual PCA/MCA supply of the macular cortex"
+   }
+  ],
+  "figureFinding": "Automated visual field printout of a congruous homonymous hemianopia with MACULAR SPARING - a dense half-field defect with a preserved central island - localising the lesion to the posterior (occipital) visual pathway."
  },
  {
   "id": 70,

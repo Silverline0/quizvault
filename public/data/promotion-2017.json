@@ -61,7 +61,22 @@
   "imageUrl": "/images/promotion/p302_eb180ce4d1.png",
   "imageUrls": [
    "/images/promotion/p302_f5e4c032a7.png"
-  ]
+  ],
+  "referenceLinks": [
+   {
+    "title": "Pterygium - EyeWiki",
+    "url": "https://eyewiki.aao.org/Pterygium",
+    "source": "EyeWiki",
+    "shows": "States that a pigmented epithelial iron line (Stocker's line) adjacent to a pterygium is evidence of chronicity; includes a clinical photograph of a pterygium and histopathology of elastotic degeneration"
+   },
+   {
+    "title": "Stocker's line in pterygium - PMC (NIH)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5689386/",
+    "source": "PMC / NIH",
+    "shows": "Dedicated case report with pre- and post-operative slit lamp photographs of a punctate brownish subepithelial line passing vertically in front of the apex of the pterygium - the clearest single image of this exact finding"
+   }
+  ],
+  "figureFinding": "Stocker line - a vertical brownish iron (epithelial) line at the leading edge/head of a pterygium, best seen with cobalt blue or red-free filter"
  },
  {
   "id": 5,
@@ -92,7 +107,22 @@
   "explanation": "Once a ruptured globe is diagnosed, further examination should be deferred until the time of surgical repair in the operating room. This is to avoid placing any pressure on the globe and risking extrusion of intraocular contents. Diagnosis should be made by penlight, indirect ophthalmoscope, or, if possible, slit lamp examination (with minimal manipulation). Once the diagnosis is made, the following measures should be taken:",
   "year": "2017",
   "subspecialty": "Anterior Segment",
-  "pdfPage": 303
+  "pdfPage": 303,
+  "referenceLinks": [
+   {
+    "title": "Open globe - EyeRounds Online Ophthalmic Atlas (University of Iowa)",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/atlas/pages/open-globe.html",
+    "source": "EyeRounds (University of Iowa teaching atlas)",
+    "shows": "Slit lamp photograph of a globe ruptured at the superonasal limbus with iris prolapse through the wound, plus iridodialysis and hyphema - directly the picture this stem describes"
+   },
+   {
+    "title": "Ruptured Globe - EyeWiki",
+    "url": "https://eyewiki.aao.org/Ruptured_Globe",
+    "source": "EyeWiki",
+    "shows": "Preoperative Fox shield protection to prevent further herniation of ocular contents, the peaked-pupil sign pointing toward the wound, and the principle of preserving prolapsed iris at repair"
+   }
+  ],
+  "figureFinding": "Iris prolapse through a corneal/limbal laceration (open globe) - peaked or teardrop pupil with brown iris tissue at the wound; first step is a rigid protective eye shield"
  },
  {
   "id": 7,
@@ -107,7 +137,22 @@
   "explanation": "There is no attached histopathology picture or pentacam, maybe they meant keratoconnus Keratoconus is characterized by preferential inferior steepening with I-S values above 1.4 and extremely high Kmax value (more than 50 D) One of the early KC signs is: Fleischer ring, an iron deposit often present within the epithelium around the base of the cone. It is brown in color and best visualized with a cobalt blue filter Now to test your knowledge, which stain is used in iron pigmentation? Yes you are right it is Prussian blue (it stains focal intraepithelial iron deposition (Fleischer ring)) OphthoQ; https://www.aao.org/education/image/keratoconus-27 Postoperative endophthalmitis is the most frequent category, accounting for more than 70% of all cases.; Post cataract [phaco] surgery endophthalmitis is 0.05 to 0.1% (1:1000 - 2000); In the question, the patient started to have these symptoms 8 weeks post op which indicates chronic endophthalmitis type (cut off is 6 weeks, below is acute, more is chronic); Chronic type is mostly caused by Propionibacterium acnes, and associated with: Granulomatous uveitis with large precipitates on cornea or IOL o White intracapsular plaque with P. acnes o; Treatment: a combination of removal or exchange of the IOL, total capsulectomy, vitrectomy and intravitreal vancomycin",
   "year": "2017",
   "subspecialty": "Anterior Segment",
-  "pdfPage": 304
+  "pdfPage": 304,
+  "referenceLinks": [
+   {
+    "title": "Keratoconus - EyeWiki",
+    "url": "https://eyewiki.aao.org/Keratoconus",
+    "source": "EyeWiki",
+    "shows": "Describes the Fleischer ring as an iron deposit within the epithelium around the base of the cone, brown, best seen with a cobalt blue filter; lists elevated keratometry values as an early sign; includes topography images and a Munson sign photograph"
+   },
+   {
+    "title": "Keratoconus - EyeRounds Online Ophthalmic Atlas (University of Iowa)",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/atlas/pages/keratoconus/index.htm",
+    "source": "EyeRounds (University of Iowa teaching atlas)",
+    "shows": "Slit lamp photographs of a Fleischer ring (epithelial iron deposition around the base of the cone) with Vogt striae, Munson sign, apical scarring, and Scheimpflug/Pentacam maps showing central steepening and thinning"
+   }
+  ],
+  "figureFinding": "Keratoconus with a steep K reading - Fleischer ring, i.e. iron (ferritin/hemosiderin) deposition in the BASAL CORNEAL EPITHELIUM around the base of the cone, which stains with an iron stain (Perls Prussian blue)"
  },
  {
   "id": 8,
@@ -168,7 +213,22 @@
   "explanation": "Another correct answer is astigmatism - A sublaxated lens can cause astigmatism or myopia depending on the degree and direction of the displacement. - A sublaxated lens can induce irregular astigmatism due to the tilt or decentration of the lens, which creates optical aberrations and changes the shape of the optical interfaces. - The power of the lens can be increased by osmotic changes, and changes in lens position or shape (anterior lens dislocation). - A sublaxated lens can also induce myopia if the lens moves forward or backward, which changes the effective power of the eye and shifts the focal point in front of the retina. Reference: Eyewiki",
   "year": "2017",
   "subspecialty": "Anterior Segment",
-  "pdfPage": 308
+  "pdfPage": 308,
+  "referenceLinks": [
+   {
+    "title": "Ectopia Lentis - EyeWiki",
+    "url": "https://eyewiki.aao.org/Ectopia_Lentis",
+    "source": "EyeWiki",
+    "shows": "Definition of subluxation vs luxation, causes (Marfan, homocystinuria, trauma), and the refractive consequences - explicitly states that zonular disruption increases lens curvature and results in lenticular myopia and astigmatism"
+   },
+   {
+    "title": "File:Linsenluxation.png - Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Linsenluxation.png",
+    "source": "Wikimedia Commons",
+    "shows": "Clinical photograph of a human displaced crystalline lens with ciliary/zonular fibres visible in the pupil (CC BY-SA 4.0)"
+   }
+  ],
+  "figureFinding": "Slit-lamp photo of a subluxated (partially dislocated) crystalline lens - the lens equator/edge visible crossing the pupil with stretched or broken zonules, here displaced supero-nasally."
  },
  {
   "id": 12,
@@ -205,7 +265,22 @@
   "imageUrls": [
    "/images/promotion/p310_62b97eecdf.png",
    "/images/promotion/p310_3c51030e31.png"
-  ]
+  ],
+  "referenceLinks": [
+   {
+    "title": "Pseudophakic Cystoid Macular Edema (Irvine-Gass Syndrome) - EyeWiki",
+    "url": "https://eyewiki.aao.org/Pseudophakic_Cystoid_Macular_Edema_(Irvine-Gass_Syndrome)",
+    "source": "EyeWiki",
+    "shows": "OCT images of cystoid macular changes plus before/after treatment SD-OCT; describes the petalloid FA pattern and names topical NSAIDs (ketorolac, diclofenac) as the mainstay of prophylaxis/treatment"
+   },
+   {
+    "title": "Cystoid Macular Edema - EyeWiki",
+    "url": "https://eyewiki.aao.org/Cystoid_Macular_Edema",
+    "source": "EyeWiki",
+    "shows": "Four labelled images of CME; OCT intraretinal cysts, FA petaloid leakage, and a treatment section listing ketorolac, nepafenac, bromfenac, diclofenac and indomethacin"
+   }
+  ],
+  "figureFinding": "Cystoid macular edema - OCT showing intraretinal cystic hyporeflective spaces with loss of the foveal depression, and/or late-frame fluorescein angiography with the classic perifoveal petalloid leakage pattern."
  },
  {
   "id": 14,
@@ -737,7 +812,28 @@
   "explanation": "Although most cases of PCG occur sporadically, a familial pattern of inheritance is seen in 10%-40% of cases. The inheritance is usually autosomal recessive with incomplete or vari- able penetrance. Higher rates of familial inheritance are seen in children from the Middle East and central Europe. Reference: AAO Glaucoma Section Origin of AC flare",
   "year": "2017",
   "subspecialty": "Optics",
-  "pdfPage": 353
+  "pdfPage": 353,
+  "referenceLinks": [
+   {
+    "title": "Primary Congenital Glaucoma - EyeWiki",
+    "url": "https://eyewiki.aao.org/Primary_Congenital_Glaucoma",
+    "source": "EyeWiki",
+    "shows": "Clinical photograph of congenital glaucoma with cloudy corneas; text on buphthalmos, Haab striae and inheritance - autosomal recessive but mostly sporadic, so parents are typically unaffected (recurrence risk usually no more than 3%)"
+   },
+   {
+    "title": "Infantile Glaucoma, Congenital Glaucoma - EyeRounds (University of Iowa)",
+    "url": "https://eyerounds.org/cases/42-Primary-Congenital-Glaucoma-Infantile-Glaucoma.htm",
+    "source": "EyeRounds (Univ. of Iowa)",
+    "shows": "External photos of asymmetric globe enlargement, handheld slit-lamp images of stromal oedema, and Haab striae direct and on retroillumination; states most cases are sporadic"
+   },
+   {
+    "title": "Atlas Entry - Haab striae in primary congenital glaucoma - EyeRounds",
+    "url": "https://eyerounds.org/atlas/pages/Haab/index.htm",
+    "source": "EyeRounds (Univ. of Iowa)",
+    "shows": "Two slit-lamp photographs (OD and OS) of Haab striae, with the distinction from vertical/oblique forceps-injury Descemet tears"
+   }
+  ],
+  "figureFinding": "Infant with primary congenital glaucoma - buphthalmos/enlarged hazy cornea, corneal oedema and Haab striae (horizontal curvilinear breaks in Descemet membrane), with epiphora/photophobia/blepharospasm."
  },
  {
   "id": 47,

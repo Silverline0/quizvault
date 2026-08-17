@@ -301,7 +301,22 @@
   "imageUrl": "/images/promotion/p552_b24b70870b.png",
   "imageUrls": [
    "/images/promotion/p552_0e2ab763ff.png"
-  ]
+  ],
+  "referenceLinks": [
+   {
+    "title": "Brown Syndrome - EyeWiki",
+    "url": "https://eyewiki.aao.org/Brown_Syndrome",
+    "source": "EyeWiki",
+    "shows": "Full article on Brown syndrome: limited elevation in adduction from superior oblique tendon-trochlea abnormality, congenital vs acquired forms, spontaneous resolution in 75-80% of asymptomatic cases, and surgical/steroid management"
+   },
+   {
+    "title": "Acute Acquired Brown Syndrome: 38-year-old Male with Ethmoidal Sinus Mucocele - EyeRounds (University of Iowa)",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/cases/50-Acquired-Brown-Syndrome-Ethmoid-Mucocele.htm",
+    "source": "EyeRounds (University of Iowa teaching atlas)",
+    "shows": "Figure 1 is a nine-cardinal-gaze clinical photo montage captioned 'note the under-elevation in adduction of the right eye' - exactly the figure this question needs; Figure 2 is the causative ethmoidal mass on MRI"
+   }
+  ],
+  "figureFinding": "Brown syndrome: limited elevation of the eye in adduction (superior oblique tendon-trochlea complex restriction), best shown on a nine-cardinal-gaze motility photo"
  },
  {
   "id": 19,
@@ -403,7 +418,22 @@
   "imageUrl": "/images/promotion/p556_3a80cba4f8.png",
   "imageUrls": [
    "/images/promotion/p556_abee94fecd.png"
-  ]
+  ],
+  "referenceLinks": [
+   {
+    "title": "Nystagmus - EyeWiki",
+    "url": "https://eyewiki.aao.org/Nystagmus",
+    "source": "EyeWiki",
+    "shows": "Dedicated downbeat nystagmus section listing the exact etiologies in this question - structural lesions at the cervico-medullary junction, Arnold-Chiari type I, lithium and anticonvulsant toxicity, spinocerebellar degeneration, and nutritional causes (Wernicke encephalopathy, magnesium deficiency)"
+   },
+   {
+    "title": "Nystagmus Types - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK539711/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "Downbeat nystagmus defined as a vertical jerk oscillation signalling medullary-cervicomedullary junction lesions, intensifying on downgaze; lists Chiari I, cerebellar degenerations, magnesium depletion, and contrasts with peripheral vestibular nystagmus"
+   }
+  ],
+  "figureFinding": "Downbeat nystagmus - upward slow drift with corrective downward saccade, localizing to the cervicomedullary junction / vestibulocerebellum (flocculus); causes include Chiari I, spinocerebellar degeneration, lithium, alcohol/Wernicke"
  },
  {
   "id": 25,
@@ -489,7 +519,22 @@
   "imageUrls": [
    "/images/promotion/p559_88a116cb89.png",
    "/images/promotion/p559_5faf6aed24.png"
-  ]
+  ],
+  "referenceLinks": [
+   {
+    "title": "Pregnancy and the Eye - PMC (NIH)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5082244/",
+    "source": "PMC / NIH",
+    "shows": "Review of physiologic and pathologic ocular changes in pregnancy; documents ~50% progression of NPDR and up to 45% of PDR, and worsening of pituitary adenoma, meningioma, posterior scleritis and Graves disease during pregnancy; also covers IIH in pregnancy"
+   },
+   {
+    "title": "Diabetic retinopathy in pregnancy - A review - PMC (NIH)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8725079/",
+    "source": "PMC / NIH",
+    "shows": "Dedicated review of diabetic retinopathy progression in pregnancy - prevalence, risk factors, pathogenesis pathway diagrams, and trimester-by-trimester management"
+   }
+  ],
+  "figureFinding": "Ocular conditions modified by pregnancy - progression of diabetic retinopathy, keratoconus/corneal biomechanical change, and growth of meningioma; contrasted with idiopathic intracranial hypertension"
  },
  {
   "id": 30,
@@ -2051,7 +2096,22 @@
   "explanation": "See pic Resource: Qbank",
   "year": "2014",
   "subspecialty": "Miscellaneous",
-  "pdfPage": 619
+  "pdfPage": 619,
+  "referenceLinks": [
+   {
+    "title": "Neuro-ophthalmic Findings in Coma - EyeWiki",
+    "url": "https://eyewiki.aao.org/Neuro-ophthalmic_Findings_in_Coma",
+    "source": "EyeWiki",
+    "shows": "Localizing pupil findings in coma - states bilateral pinpoint pupils are typically dorsal pontine injury, and that pontine hemorrhage disrupts the pupillodilator pathway causing near-maximal constriction"
+   },
+   {
+    "title": "Neuroanatomy, Pupillary Dilation Pathway - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK535421/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "The three-neuron sympathetic dilation pathway from hypothalamus descending through the brainstem to the ciliospinal center of Budge (C8-T2) - the anatomic basis for why a pontine lesion produces miosis"
+   }
+  ],
+  "figureFinding": "Pontine lesion causing bilateral pinpoint pupils (miosis) from interruption of the descending sympathetic pupillodilator pathway"
  },
  {
   "id": 126,
@@ -2144,7 +2204,22 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 622,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p622_3da01b3697.png"
+  "imageUrl": "/images/promotion/p622_3da01b3697.png",
+  "referenceLinks": [
+   {
+    "title": "Aniseikonia - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK585108/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "Quantifies spectacle magnification - a +1 D lens at 12 mm vertex gives 1.5% magnification while a -1 D lens gives 1.5% minification; also covers pincushion distortion of high plus lenses. This is the optical principle behind the answer"
+   },
+   {
+    "title": "Hyperopia - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK560716/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "Hyperopia corrected with biconvex (plus) lenses that converge light onto the retina - background for which patient wears a magnifying lens"
+   }
+  ],
+  "figureFinding": "Spectacle magnification: a plus (convex) lens correcting hyperopia magnifies the retinal image, so objects appear larger; a minus lens minifies"
  },
  {
   "id": 132,
@@ -2799,7 +2874,7 @@
    "D": "Schwalbe's line is the termination of Descemet's membrane."
   },
   "correctAnswer": "C",
-  "explanation": ", The Scheie's line (SL) develops by the accumulation of detached iris pigment in Ppigment dispersion. https://pubmed.ncbi.nlm.nih.gov/30527354/#:~:text=The%20Scheie%27s%20line%20(S",
+  "explanation": ", The Scheie's line (SL) develops by the accumulation of detached iris pigment in Ppigment dispersion. https://pubmed.ncbi.nlm.nih.gov/30527354/#:~:text=The%20Scheie%27s%20line%20(S L)%20develops,a%20pathognomonic%20sign%20of%20PDS.",
   "year": "2014",
   "subspecialty": "Miscellaneous",
   "pdfPage": 638
@@ -2807,7 +2882,7 @@
  {
   "id": 173,
   "source": "promotion-2014",
-  "question": "L)%20develops,a%20pathognomonic%20sign%20of%20PDS. Two parents are both affected with an autosomal recessive disorder, the chance that their offspring get affected is:",
+  "question": "Two parents are both affected with an autosomal recessive disorder, the chance that their offspring get affected is:",
   "options": {
    "A": "1in2.",
    "B": "1 in 4.",
@@ -3026,7 +3101,7 @@
    "D": "Telorbitism."
   },
   "correctAnswer": "B",
-  "explanation": ", https://eyewiki.aao.org/Telecanthus#:~:text=The%20average%20interpupilla",
+  "explanation": ", https://eyewiki.aao.org/Telecanthus#:~:text=The%20average%20interpupilla ry%20distance%20is,inter%2Dpupillary%20distance%20is%20normal.",
   "year": "2014",
   "subspecialty": "Oculoplastics",
   "pdfPage": 645
@@ -3034,7 +3109,7 @@
  {
   "id": 187,
   "source": "promotion-2014",
-  "question": "ry%20distance%20is,inter%2Dpupillary%20distance%20is%20normal. Features of Neurofibromatosis type 1 include all EXCEPT:",
+  "question": "Features of Neurofibromatosis type 1 include all EXCEPT:",
   "options": {
    "A": "Pulsatile proptosis.",
    "B": "Bilateral acoustic neuroma.",
@@ -3138,7 +3213,7 @@
    "D": "Sarcoidosis."
   },
   "correctAnswer": "A",
-  "explanation": ", HYPERparathyroidism, not Hypoparathyroidism https://www.sciencedirect.com/topics/medicine-and-dentistry/metastatic-",
+  "explanation": ", HYPERparathyroidism, not Hypoparathyroidism https://www.sciencedirect.com/topics/medicine-and-dentistry/metastatic- calcification#:~:text=Metastatic%20calcification%20is%20caused%20by,8%2D",
   "year": "2014",
   "subspecialty": "Oculoplastics",
   "pdfPage": 649
@@ -3146,7 +3221,7 @@
  {
   "id": 194,
   "source": "promotion-2014",
-  "question": "calcification#:~:text=Metastatic%20calcification%20is%20caused%20by,8%2D 36). Macular hole can be caused by :",
+  "question": "36). Macular hole can be caused by :",
   "options": {
    "A": "Myopia.",
    "B": "DM.",
@@ -3250,7 +3325,7 @@
    "D": "Corneal ulcer."
   },
   "correctAnswer": "C",
-  "explanation": "https://eyewiki.aao.org/Craniosynostosis_Syndromes#:~:text=The%20most%20c",
+  "explanation": "https://eyewiki.aao.org/Craniosynostosis_Syndromes#:~:text=The%20most%20c ommon%20ophthalmic%20manifestations,atrophy%20secondary%20to%20chro nic%20papilledema.",
   "year": "2014",
   "subspecialty": "Oculoplastics",
   "pdfPage": 652
@@ -3258,7 +3333,7 @@
  {
   "id": 201,
   "source": "promotion-2014",
-  "question": "ommon%20ophthalmic%20manifestations,atrophy%20secondary%20to%20chro nic%20papilledema. A preterm infant, GA= 27 weeks, BW= 950 grams admitted to NICU, when should this infant have his initial retinal exam to screen for ROP:",
+  "question": "A preterm infant, GA= 27 weeks, BW= 950 grams admitted to NICU, when should this infant have his initial retinal exam to screen for ROP:",
   "options": {
    "A": "Immediately.",
    "B": "1-2 weeks after birth.",
@@ -3271,7 +3346,16 @@
   "subspecialty": "Oculoplastics",
   "pdfPage": 653,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p653_ce315ddde3.jpg"
+  "imageUrl": "/images/promotion/p653_ce315ddde3.jpg",
+  "referenceLinks": [
+   {
+    "title": "Retinopathy of Prematurity - EyeWiki",
+    "url": "https://eyewiki.aao.org/Retinopathy_of_Prematurity",
+    "source": "EyeWiki",
+    "shows": "US screening criteria (birth weight <=1500 g or gestational age <=30 weeks) and the full table of postmenstrual age at first exam by gestational age at birth (22 weeks GA -> 31 weeks PMA), plus a fundus photograph of dragged vessels and macular fold from untreated ROP"
+   }
+  ],
+  "figureFinding": "ROP screening: timing of the initial dilated retinal examination for a 27-week, 950 g preterm infant (31 weeks postmenstrual age or 4 weeks chronologic age, whichever is later)"
  },
  {
   "id": 202,
@@ -3367,7 +3451,28 @@
   "subspecialty": "Neuro-Ophthalmology",
   "pdfPage": 656,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p656_95d9c918b9.png"
+  "imageUrl": "/images/promotion/p656_95d9c918b9.png",
+  "referenceLinks": [
+   {
+    "title": "Homonymous Superior Quadrantanopia - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK558982/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "The retinotopic rule this question tests - dorsal fibers carrying the inferior visual field terminate on the superior lip of the calcarine fissure, ventral fibers carrying the superior field on the inferior lip; so a lesion above the calcarine gives an inferior quadrantanopia"
+   },
+   {
+    "title": "Homonymous Hemianopsia - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK558929/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "Multiple visual-pathway schematics mapping lesion site to field defect, including retrochiasmal/occipital lesions and why occipital defects are highly congruous"
+   },
+   {
+    "title": "Crossed Quadrant Homonymous Hemianopsia - EyeWiki",
+    "url": "https://eyewiki.aao.org/Crossed_Quadrant_Homonymous_Hemianopsia",
+    "source": "EyeWiki",
+    "shows": "Humphrey perimetry printout of quadrantic homonymous defects plus occipital infarct MRI; illustrates defects that respect the vertical midline and the above-vs-below calcarine relationship"
+   }
+  ],
+  "figureFinding": "Right occipital lobe lesion ABOVE the calcarine fissure (cuneus) -> left inferior homonymous quadrantanopia; in the LEFT eye this is the lower temporal quadrant"
  },
  {
   "id": 208,

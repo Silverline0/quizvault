@@ -216,7 +216,22 @@
   "subspecialty": "Pediatrics",
   "pdfPage": 214,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p214_2fdbe9b751.jpg"
+  "imageUrl": "/images/promotion/p214_2fdbe9b751.jpg",
+  "referenceLinks": [
+   {
+    "title": "Usher Syndrome — EyeWiki",
+    "url": "https://eyewiki.aao.org/Usher_Syndrome",
+    "source": "EyeWiki",
+    "shows": "Multi-panel figure of a type 1 Usher patient: fundus photos with pale disc, patchy RPE, attenuated vessels and pigment migration, plus autofluorescence and Goldmann fields with retained central vision. Also covers genetic testing (multigene panels, comprehensive genomic testing)"
+   },
+   {
+    "title": "Retinitis Pigmentosa — EyeWiki",
+    "url": "https://eyewiki.aao.org/Retinitis_Pigmentosa",
+    "source": "EyeWiki",
+    "shows": "Fundus photo captioned 'characteristic bone-spicule-like retinal pigmentary changes'; text covers the classic triad (arteriolar attenuation, pigmentary change, waxy disc pallor) and recommends audiology consult when Usher is suspected"
+   }
+  ],
+  "figureFinding": "Usher syndrome — sensorineural hearing loss plus vestibular dysfunction with retinitis pigmentosa: bone-spicule pigmentation, attenuated arterioles, waxy pale disc, and constricted fields. Confirmation is by genetic testing."
  },
  {
   "id": 15,
@@ -238,7 +253,22 @@
   "imageUrls": [
    "/images/promotion/p215_295dca3edf.png",
    "/images/promotion/p215_9dc83d76fd.png"
-  ]
+  ],
+  "referenceLinks": [
+   {
+    "title": "Retinoblastoma — EyeWiki",
+    "url": "https://eyewiki.aao.org/Retinoblastoma",
+    "source": "EyeWiki",
+    "shows": "Clinical photo captioned 'Leukocoria in a retinoblastoma patient'; text on RB1, autosomal dominant inheritance with ~90% penetrance, and screening of siblings/offspring"
+   },
+   {
+    "title": "Category:Retinoblastoma — Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/Category:Retinoblastoma",
+    "source": "Wikimedia Commons",
+    "shows": "15 openly licensed files including 'A child with a white eye reflection as a result of retinoblastoma.jpg' (leukocoria), a 'Fundus of retinoblastoma' subcategory, ultrasound, MRI and histopathology"
+   }
+  ],
+  "figureFinding": "Retinoblastoma — leukocoria / white fundus tumor. Question is purely genetic counselling (unilateral sporadic RB, unaffected parents: sibling risk about 1-2%)."
  },
  {
   "id": 16,
@@ -330,7 +360,22 @@
   "subspecialty": "Neuro-Ophthalmology",
   "pdfPage": 260,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p193_6949343312.jpg"
+  "imageUrl": "/images/promotion/p193_6949343312.jpg",
+  "referenceLinks": [
+   {
+    "title": "Glaucomatocyclitic Crisis (Posner-Schlossman Syndrome) — EyeWiki",
+    "url": "https://eyewiki.aao.org/Glaucomatocyclitic_Crisis_(Posner-Schlossman_Syndrome)",
+    "source": "EyeWiki",
+    "shows": "Figure of 'small, white, discrete keratic precipitates', iris angiogram showing focal iris ischemia during an attack, trabecular meshwork electron microscopy, and serial visual fields"
+   },
+   {
+    "title": "Posner-Schlossman Syndrome — StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK576412/",
+    "source": "StatPearls / NCBI Bookshelf",
+    "shows": "Recurrent acute unilateral non-granulomatous anterior uveitis with IOP 40 mmHg or above and fine non-granulomatous KPs; treatment is topical beta-blockers/alpha agonists/CAIs for IOP plus topical steroids for inflammation"
+   }
+  ],
+  "figureFinding": "Posner-Schlossman syndrome (glaucomatocyclitic crisis): unilateral markedly high IOP with corneal (microcystic) edema, few fine non-pigmented keratic precipitates on the endothelium and open angle with KP on gonioscopy, in a patient with a prior identical episode."
  },
  {
   "id": 22,
@@ -350,7 +395,28 @@
   "imageUrl": "/images/promotion/p261_8faf427c23.jpg",
   "imageUrls": [
    "/images/promotion/p261_203c910e80.jpg"
-  ]
+  ],
+  "referenceLinks": [
+   {
+    "title": "Hemianopsia — Moran CORE (University of Utah)",
+    "url": "https://morancore.utah.edu/basic-ophthalmology-review/hemianopsia/",
+    "source": "Moran CORE",
+    "shows": "Visual-pathway diagram with seven numbered lesion sites and the resulting field defect at each; site 7 is the occipital lobe producing homonymous hemianopia with macular sparing"
+   },
+   {
+    "title": "Homonymous Hemianopsia — StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK558929/",
+    "source": "StatPearls / NCBI Bookshelf",
+    "shows": "Congruity as a localizing sign — more posterior lesions give more congruous defects; roughly 17% of occipital lesions are incongruous"
+   },
+   {
+    "title": "Different Types of Visual Hallucination — EyeWiki",
+    "url": "https://eyewiki.aao.org/Different_Types_of_Visual_Hallucination",
+    "source": "EyeWiki",
+    "shows": "Simple hallucinations (flashing lights, squiggling lines) versus complex/formed images (animals, figures, family members). Text only, no figures"
+   }
+  ],
+  "figureFinding": "Occipital (striate cortex) lesion: congruous homonymous hemianopia on visual fields, often with macular sparing, accompanied by unformed/elementary hallucinations (flashes, zig-zags, patterns) confined to the hemianopic field."
  },
  {
   "id": 23,

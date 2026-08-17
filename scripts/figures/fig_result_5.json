@@ -1,0 +1,324 @@
+[
+ {
+  "task_id": "promotion-2024#17",
+  "finding": "Posterior subcapsular cataract: a granular, plaque-like opacity lying directly beneath the posterior lens capsule, best appreciated on retroillumination. It causes glare and halos around point light sources, worse vision in bright light (pupil constricted over the opacity), and near vision worse than distance.",
+  "links": [
+   {
+    "title": "Atlas Entry - Posterior subcapsular cataract - EyeRounds (University of Iowa)",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/atlas/pages/Posterior-subcapsular-cataract-2.html",
+    "source": "EyeRounds / University of Iowa",
+    "shows": "Slit-lamp photograph plus a magnified close-up of a PSC in a diabetic patient; the caption notes rapid visual decline over about a month with glare as the prominent symptom, and the absence of nuclear change",
+    "verified": true
+   },
+   {
+    "title": "Cataract - EyeWiki",
+    "url": "https://eyewiki.aao.org/Cataract",
+    "source": "EyeWiki",
+    "shows": "Section on posterior subcapsular cataract with retroillumination and direct slit-lamp images, and an explicit symptom list of glare, difficulty with near greater than distance, and rapidly diminishing vision; side-by-side photos of nuclear sclerotic and cortical cataract for comparison",
+    "verified": true
+   }
+  ],
+  "notes": "The needed figure is simply a PSC (retroillumination view is the most recognisable), not a nuclear or cortical cataract. Note that the answer key marks A (glare from sidewalk light) while option C (disturbed vision in bright light) describes essentially the same PSC phenomenon, so the image only has to establish the cataract type."
+ },
+ {
+  "task_id": "promotion-2024#35",
+  "finding": "Ocular ischemic syndrome from severe ipsilateral carotid occlusive disease: corneal oedema, anterior chamber flare, rubeosis/neovascularisation, narrowed retinal arteries with spontaneous arterial pulsation (or an artery easily occluded by light digital pressure), dilated but NON-tortuous veins, and scattered mid-peripheral dot-blot haemorrhages - all markedly asymmetric versus the fellow eye, which shows only a few microaneurysms.",
+  "links": [
+   {
+    "title": "Ocular Ischemic Syndrome - EyeWiki",
+    "url": "https://eyewiki.aao.org/Ocular_Ischemic_Syndrome",
+    "source": "EyeWiki",
+    "shows": "Full description of OIS in an older vasculopathic patient: dilated retinal veins, microaneurysms, rubeosis iridis, retinal haemorrhages, and the link to severe carotid stenosis/occlusion, with workup and prognosis",
+    "verified": true
+   },
+   {
+    "title": "Ocular Ischemic Syndrome in a patient with background Diabetic Retinopathy: Distinguishing Features - EyeRounds",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/cases/356-Ocular-Ischemic-Syndrome.htm",
+    "source": "EyeRounds / University of Iowa",
+    "shows": "Wide-field Optos fundus photo with corneal oedema, anterior chamber flare, narrowed arteries, mildly dilated veins and mid-peripheral dot-blot haemorrhages; explicitly discusses how asymmetry and the mid-peripheral haemorrhage distribution separate OIS from diabetic retinopathy, and lists CRVO in the differential",
+    "verified": true
+   },
+   {
+    "title": "Ocular Ischemic Syndrome - EyeRounds case 327",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/cases/327-ocular-ischemic-syndrome.htm",
+    "source": "EyeRounds / University of Iowa",
+    "shows": "Six figures including bilateral wide-field fundus montages, OCT and cerebral angiogram; documents disc and arcade neovascularisation and a central retinal artery that occludes with very light digital pressure, with 99.5% and 100% internal carotid occlusion",
+    "verified": true
+   }
+  ],
+  "notes": "The second EyeRounds case is the best single figure for this stem because it is written specifically around telling OIS apart from diabetic retinopathy. The exam's discriminators are the ones to point out to the student: arterial pulsation and non-tortuous dilated veins (OIS) versus the tortuous, engorged veins and diffuse four-quadrant haemorrhages of CRVO, and the strong asymmetry versus the symmetric picture of PDR."
+ },
+ {
+  "task_id": "promotion-2024#49",
+  "finding": "Long-standing (congenital) LEFT superior oblique / fourth nerve palsy: left hypertropia that increases in right gaze and on LEFT head tilt, with a compensatory head tilt to the RIGHT (away from the palsied side). Subjective excyclotorsion is typically absent in congenital cases because of long-standing sensory adaptation. The photo should show a child with a habitual head tilt and a higher left eye.",
+  "links": [
+   {
+    "title": "Three Step Test for Cyclovertical Muscle Palsy - EyeWiki",
+    "url": "https://eyewiki.aao.org/Three_Step_Test_for_Cyclovertical_Muscle_Palsy",
+    "source": "EyeWiki",
+    "shows": "Figure 1 is a clinical photograph of a superior oblique palsy in the nine diagnostic gaze positions; Figure 2 is an annotated three-step-test diagram; Figure 3 shows double Maddox rod testing for torsion. Explains why head tilt to the palsied side worsens the hypertropia",
+    "verified": true
+   },
+   {
+    "title": "Cranial Nerve 4 Palsy - EyeWiki",
+    "url": "https://eyewiki.aao.org/Cranial_Nerve_4_Palsy",
+    "source": "EyeWiki",
+    "shows": "Clinical description of ipsilateral hypertropia with excyclotorsion and a compensatory head tilt away from the affected muscle, the Parks-Bielschowsky-Helveston three-step test, congenital versus acquired aetiology, and management options",
+    "verified": true
+   }
+  ],
+  "notes": "This page is text-only (no photos) but is the authoritative description; the Three Step Test page carries the actual clinical photograph. Answer A (left inferior oblique weakening, with right superior rectus recession for a larger/contralateral component) is the classic plan for a left SO palsy. The figure should NOT be a Brown syndrome or a DVD case - the distinguishing feature is the compensatory head tilt with a positive Bielschowsky test."
+ },
+ {
+  "task_id": "promotion-2024#65",
+  "finding": "Conjunctival lymphoma: a smooth, mobile, salmon-pink fleshy subconjunctival patch/mass (typically fornix or bulbar conjunctiva, often with telangiectatic surface vessels), plus histopathology showing a dense monotonous infiltrate of small lymphocytes - most often extranodal marginal zone (MALT) B-cell lymphoma. Treated with external beam radiotherapy for localised indolent disease.",
+  "links": [
+   {
+    "title": "Conjunctival Lymphoma - EyeRounds case 243",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/cases/243-conjunctival-lymphoma.htm",
+    "source": "EyeRounds / University of Iowa",
+    "shows": "Four clinical figures - external photos of the raised pink caruncular lesion with ptosis, a slit-lamp photo of the salmon-coloured patch with telangiectatic vessels, the classic salmon-pink appearance, and post-treatment photos. Documents treatment with external beam radiotherapy (24 Gy in 15 fractions) with excellent response; biopsy confirmed extranodal marginal zone B-cell lymphoma",
+    "verified": true
+   },
+   {
+    "title": "Atlas Entry - Conjunctival lymphoma - EyeRounds",
+    "url": "https://eyerounds.org/atlas/pages/Conjunctival-lymphoma/index.htm",
+    "source": "EyeRounds / University of Iowa",
+    "shows": "Clinical photograph of the smooth, mobile, salmon-coloured fleshy mass; biopsy-confirmed MALT lymphoma, with a companion link to benign conjunctival lymphoid hyperplasia for comparison",
+    "verified": true
+   },
+   {
+    "title": "Conjunctival Lymphoma - EyeWiki",
+    "url": "https://eyewiki.aao.org/Conjunctival_Lymphoma",
+    "source": "EyeWiki",
+    "shows": "Text reference confirming the salmon-coloured mass, the histopathology/flow cytometry workup, and that external beam radiotherapy (20-50 Gy) is the treatment of choice for indolent EMZL/FL - which is why the answer is radiotherapy, not observation or excision",
+    "verified": true
+   }
+  ],
+  "notes": "The EyeWiki page is text-only (no images) but is the best citation for the treatment answer; the two EyeRounds pages supply the clinical photographs. Worth flagging for the student: a salmon patch appearance cannot be distinguished from benign reactive lymphoid hyperplasia on looks alone - biopsy is mandatory - which is why 'excision' is a distractor rather than the answer."
+ },
+ {
+  "task_id": "promotion-2024#76",
+  "finding": "Bitemporal hemianopia: loss of the temporal half of the field in BOTH eyes, respecting the vertical meridian - produced by a lesion at the body of the optic chiasm compressing the decussating nasal fibres (most often a pituitary macroadenoma).",
+  "links": [
+   {
+    "title": "Compressive Visual Field Defects - EyeWiki",
+    "url": "https://eyewiki.aao.org/Compressive_Visual_Field_Defects",
+    "source": "EyeWiki",
+    "shows": "Labelled diagrams of field patterns keyed to lesion site - monocular loss/central scotoma (optic nerve), bitemporal hemianopsia and junctional scotoma (chiasm), incongruous homonymous hemianopia (optic tract), and congruous homonymous hemianopia with macular sparing (occipital). This maps directly onto all four answer options",
+    "verified": true
+   },
+   {
+    "title": "Category:Bitemporal hemianopsia - Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/Category:Bitemporal_hemianopsia",
+    "source": "Wikimedia Commons",
+    "shows": "Four openly licensed files: a bitemporal heteronymous hemianopia vector diagram, two visual field renderings of bitemporal loss, and an anatomical illustration of the chiasmal lesion site",
+    "verified": true
+   },
+   {
+    "title": "Neuroanatomy, Bitemporal Hemianopsia - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK545213/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "Explains the field pattern and its localisation to the chiasm via decussating nasal fibres, anterior chiasmal syndrome, and the common causes (pituitary adenoma, craniopharyngioma, meningioma, ACom aneurysm); includes an optic chiasm illustration",
+    "verified": true
+   }
+  ],
+  "notes": "The EyeWiki compressive-field page is the single most useful link because it shows all four answer options side by side, letting the student see why the field belongs to the chiasm rather than the optic nerve, tract, or occipital cortex. I also verified a real patient case with chiasmal compression at https://webeye.ophth.uiowa.edu/eyeforum/cases/177-pituitary-adenoma.htm, but its Goldmann fields show a junctional scotoma rather than a clean bitemporal hemianopia, so it is a poorer match for this stem."
+ },
+ {
+  "task_id": "promotion-2024#80",
+  "finding": "No clinical figure is needed - this is a pure spectacle-prescription calculation item on spherocylindrical transposition. The rule: algebraically add the cylinder to the sphere to get the new sphere, flip the sign of the cylinder, and change the axis by 90 degrees.",
+  "links": [
+   {
+    "title": "Optics and Refraction: From One Medical Student to Another - EyeRounds tutorial",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/tutorials/optics-and-refraction-medical-students/index.htm",
+    "source": "EyeRounds / University of Iowa",
+    "shows": "The 'How to Read a Glasses Prescription' section states the transposition rule verbatim - sum the sphere and cylinder including signs, change the cylinder from plus to minus or minus to plus, and rotate the axis by 90 degrees - with a worked figure converting +3.00 -2.00 x 060 to +1.00 +2.00 x 150",
+    "verified": true
+   }
+  ],
+  "notes": "Any picture attached to this item is almost certainly stray - flag it for removal rather than replacement. On the answer wording: the universally taught rule uses ALGEBRAIC addition, and for the exam's stated example of a plus sphere with a minus cylinder, algebraically adding a negative cylinder is arithmetically the same as subtracting its magnitude - which is how option D is phrased. The axis always changes by 90 degrees, never 180, so options B and C are wrong on the axis alone."
+ },
+ {
+  "task_id": "promotion-2024#85",
+  "finding": "Chlamydia trachomatis (adult inclusion) conjunctivitis: a Giemsa-stained conjunctival scraping showing basophilic intracytoplasmic inclusion bodies (Halberstaedter-Prowazek bodies) capping the epithelial cell nucleus, in a sexually active young adult with chronic follicular conjunctivitis unresponsive to routine topical antibiotics.",
+  "links": [
+   {
+    "title": "Adult Chlamydial Conjunctivitis: Red eyes for several months - EyeRounds",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/cases/68-Adult-Chlamydial-Conjunctivitis-Red-Eyes-Chronic.htm",
+    "source": "EyeRounds / University of Iowa",
+    "shows": "Four clinical photographs of chronic follicular conjunctivitis in an adult - follicles on the semilunar fold and bulbar conjunctiva, conjunctival injection, chemosis, and a magnified palpebral view; the text states the classic finding is basophilic intracytoplasmic inclusions on Giemsa staining, and confirms C. trachomatis on culture",
+    "verified": true
+   },
+   {
+    "title": "Category:Chlamydia trachomatis - Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/Category:Chlamydia_trachomatis",
+    "source": "Wikimedia Commons",
+    "shows": "Openly licensed photomicrographs of the organism inside host cells, including a CDC Giemsa-stained preparation and an image of C. trachomatis inclusion bodies in McCoy cell culture - the closest freely licensed match to the exam's pathology slide",
+    "verified": true
+   },
+   {
+    "title": "Chlamydia - Medical Microbiology (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK8091/",
+    "source": "NCBI Bookshelf",
+    "shows": "Text reference confirming that typical cytoplasmic inclusions are seen in cells stained with Giemsa or iodine, and that C. trachomatis causes inclusion conjunctivitis in children and adults, milder than trachoma",
+    "verified": true
+   }
+  ],
+  "notes": "No page carries the exact exam slide, but the Commons Giemsa photomicrograph plus the EyeRounds clinical case together convey what the slide shows. The point to make for the student is the contrast with option B: Neisseria gonorrhoeae gives a hyperacute purulent PAPILLARY conjunctivitis with gram-negative intracellular diplococci on Gram stain, whereas Chlamydia gives a chronic FOLLICULAR conjunctivitis with basophilic intracytoplasmic inclusions on Giemsa. NCBI Bookshelf's chapter has no photomicrograph - it is a text corroboration only."
+ },
+ {
+  "task_id": "promotion-2024#86",
+  "finding": "Squamous cell carcinoma of the eyelid: biopsy histopathology showing nests and strands of atypical, eosinophilic squamous cells with full-thickness atypia, keratin pearls and retained intercellular bridges, invading the dermis with a fibrotic reaction. Clinically an ulcerated lower-lid lesion with a red base and indurated, everted edges.",
+  "links": [
+   {
+    "title": "Squamous Carcinoma of the Eyelid - EyeWiki",
+    "url": "https://eyewiki.aao.org/Squamous_Carcinoma_of_the_Eyelid",
+    "source": "EyeWiki",
+    "shows": "Microscopic figures (Figures 1-2) at two magnifications showing keratin pearls and intercellular bridges, plus Figure 7, a pre-surgical photo of an extensive ULCERATED lower eyelid SCC, and post-operative reconstruction images. States the ulcerating SCC has a red base with well-defined, hardened, everted edges",
+    "verified": true
+   },
+   {
+    "title": "Malignant Lesions of the External Periocular Tissues - EyeRounds tutorial",
+    "url": "https://eyerounds.org/tutorials/malignant-lesions-of-ext-periocular-tissues/index.htm",
+    "source": "EyeRounds / University of Iowa",
+    "shows": "Clinical photos and a histopathology series of eyelid SCC - tumour cells invading the dermis with keratin pearls and prominent intercellular bridges - alongside the histology of basal cell carcinoma (bland monomorphous nuclei with peripheral palisading) and sebaceous carcinoma (foamy cytoplasm), which is exactly the comparison this question tests",
+    "verified": true
+   }
+  ],
+  "notes": "The EyeRounds tutorial is the more useful of the two for a student because it lets the SCC slide be compared side by side with the three distractors. Discriminators worth stating: BCC shows basaloid nests with peripheral palisading and clefting (no keratin pearls); sebaceous carcinoma shows vacuolated/foamy cytoplasm with pagetoid spread; seborrheic keratosis shows benign acanthosis with horn/pseudo-horn cysts and no invasion or atypia."
+ },
+ {
+  "task_id": "promotion-2025#46",
+  "finding": "No figure is required - this stem describes a case in words and asks a knowledge question, with no picture referenced. The relevant reference material is glaucoma drainage device (tube shunt) surgery and its complication profile, in which early postoperative hypotony - often with choroidal effusion and hypotony maculopathy - is the commonest problem, especially with non-valved implants.",
+  "links": [
+   {
+    "title": "Glaucoma Drainage Devices - EyeWiki",
+    "url": "https://eyewiki.aao.org/Glaucoma_Drainage_Devices",
+    "source": "EyeWiki",
+    "shows": "Surgical technique and the complication list, noting hypotony is more commonly observed with non-valved drainage devices, plus tube blockage from blood, vitreous, fibrin or iris incarceration, suprachoroidal haemorrhage, valve malfunction, tube erosion and the hypertensive phase. Includes photographs of the Molteno, Baerveldt and Ahmed implants",
+    "verified": true
+   },
+   {
+    "title": "Hypotony Maculopathy - EyeWiki",
+    "url": "https://eyewiki.aao.org/Hypotony_Maculopathy",
+    "source": "EyeWiki",
+    "shows": "Defines hypotony (IOP under about 6.5 mmHg), describes the chorioretinal folds and disc swelling of hypotony maculopathy, and identifies glaucoma filtering surgery as the most common cause (incidence 1.3-18%), with causes, risk factors and management",
+    "verified": true
+   }
+  ],
+  "notes": "Entry was flagged as 'missing' a figure, but the stem never mentions or requires a picture - it should be reclassified as a text-only item rather than have an image sourced for it. These two links are supplied as background reference for the answer (hypotony) and are not substitutes for a missing figure."
+ },
+ {
+  "task_id": "promotion-2025#47",
+  "finding": "Non-arteritic anterior ischemic optic neuropathy (NAION): fundus photograph of a hyperaemic, often segmentally swollen optic disc with peripapillary splinter haemorrhages arising in a small crowded 'disc at risk', accompanied by a visual field showing an altitudinal (usually inferior) defect respecting the horizontal midline, with reduced acuity, a RAPD and dyschromatopsia.",
+  "links": [
+   {
+    "title": "Atlas Entry - Non-arteritic anterior ischemic optic neuropathy (NAION) - EyeRounds",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/atlas/pages/non-arteritic-anterior-ischemic-optic-neuropathy-NAION.html",
+    "source": "EyeRounds / University of Iowa",
+    "shows": "Multiple fundus photographs of segmental optic disc oedema with RNFL haemorrhages, sequential images showing progression to segmental disc pallor, OCT of RNFL bundle loss, and Goldmann visual fields documenting the altitudinal defect respecting the horizontal raphe - i.e. exactly the fundus photo plus field pairing this stem describes",
+    "verified": true
+   },
+   {
+    "title": "Non-Arteritic Anterior Ischemic Optic Neuropathy (NAION) - EyeWiki",
+    "url": "https://eyewiki.aao.org/Non-Arteritic_Anterior_Ischemic_Optic_Neuropathy_(NAION)",
+    "source": "EyeWiki",
+    "shows": "Text reference: disc oedema always present acutely, splinter haemorrhages in nearly three-quarters of patients, dyschromatopsia as a sensitive sign, majority with altitudinal (inferior most common) field loss, and explicit comparisons against optic neuritis and arteritic AION",
+    "verified": true
+   }
+  ],
+  "notes": "The EyeWiki page is text-only (no images) - use the EyeRounds atlas for the picture. Discriminators to give the student: pallid, chalky-white disc oedema with jaw claudication, scalp tenderness and raised ESR/CRP would indicate GCA/arteritic AION; pain on eye movement in a younger patient with a normal or minimally swollen disc indicates optic neuritis; and progressive painless loss with disc infiltration or systemic malignancy suggests infiltrative optic neuropathy."
+ },
+ {
+  "task_id": "promotion-2025#53",
+  "finding": "Bilateral papilledema: both optic discs elevated with blurred, obscured margins, loss of spontaneous venous pulsation, peripapillary haemorrhages and vessel obscuration - in an overweight young woman with transient visual obscurations on standing or bending (postural), i.e. idiopathic intracranial hypertension.",
+  "links": [
+   {
+    "title": "Papilledema - EyeWiki",
+    "url": "https://eyewiki.aao.org/Papilledema",
+    "source": "EyeWiki",
+    "shows": "Four graded fundoscopic examples (mild grade 1, moderate grade 2, severe grade 3, and resolved post-shunt), and text confirming that transient visual obscurations arise from transient optic nerve head ischaemia, that headaches are positional, and that recent weight gain is a risk factor for IIH",
+    "verified": true
+   },
+   {
+    "title": "Atlas Entry - Papilledema - EyeRounds",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/atlas/pages/Papilledema/index.htm",
+    "source": "EyeRounds / University of Iowa",
+    "shows": "Fundus photographs of prominent bilateral disc swelling with peripapillary haemorrhages at the disc margin, with a follow-up pair showing resolution once the underlying cause was treated",
+    "verified": true
+   },
+   {
+    "title": "Category:Papilledema - Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/Category:Papilledema",
+    "source": "Wikimedia Commons",
+    "shows": "Openly licensed papilledema images including a 'Fundus of papilledema' subcategory - useful if a freely reusable figure is wanted",
+    "verified": true
+   }
+  ],
+  "notes": "The EyeWiki graded series is the best teaching figure because it shows how bilateral disc oedema is scored. The discriminator against option B is anatomical: papilledema means visible disc swelling from raised intracranial pressure, whereas a posterior (retrobulbar) optic neuropathy has a normal-looking disc acutely - so a photo showing bilateral swollen discs excludes it outright."
+ },
+ {
+  "task_id": "promotion-2025#57",
+  "finding": "Morning glory disc anomaly: an enlarged, funnel-shaped excavated optic disc with a central white glial tuft, a surrounding raised annulus of chorioretinal pigment disturbance, and straight, radially emerging retinal vessels - resembling the morning glory flower. Its key systemic association is a transsphenoidal basal encephalocele (plus moyamoya vasculopathy and midline craniofacial defects).",
+  "links": [
+   {
+    "title": "Morning Glory Anomaly - EyeWiki",
+    "url": "https://eyewiki.aao.org/Morning_Glory_Anomaly",
+    "source": "EyeWiki",
+    "shows": "Fundus photographs of the characteristic funnelled disc with conical excavation, glial tissue, straight vessels and peripapillary pigmentation, plus OCT and a visual field diagram; text covers the association with transsphenoidal basal encephalocele containing the chiasm and hypothalamus, moyamoya disease, and pituitary stalk duplication",
+    "verified": true
+   },
+   {
+    "title": "Morning Glory Disc Anomaly - EyeRounds case 354",
+    "url": "https://eyerounds.org/cases/354-morning-glory-disc-anomaly.htm",
+    "source": "EyeRounds / University of Iowa",
+    "shows": "Colour fundus photographs comparing a normal right eye with the anomalous left optic nerve (deep cup, peripapillary atrophy and gliosis, straight radial peripapillary vessels), plus OCT. Explicitly lists basal encephalocele of the transsphenoidal type among the CNS associations and notes moyamoya in up to 45%, with a recommendation for MRI/MRA",
+    "verified": true
+   }
+  ],
+  "notes": "Both pages independently confirm the basal encephalocele association, which is the answer. Useful contrast for the student: preauricular skin tags and extra digits belong to other congenital syndromes, and hyperextensible joints point to connective tissue disorders - none of which is linked to morning glory disc. Do not confuse this with optic disc coloboma (inferonasal excavation, no central glial tuft, no radial vessel pattern)."
+ },
+ {
+  "task_id": "promotion-2025#66",
+  "finding": "Thyroid eye disease: left upper eyelid retraction with superior scleral show (Dalrymple sign) and a hypotropic left eye with limited elevation, caused by a fibrotic, restricted INFERIOR RECTUS - the most commonly involved extraocular muscle in TED.",
+  "links": [
+   {
+    "title": "Thyroid Eye Disease - EyeWiki",
+    "url": "https://eyewiki.aao.org/Thyroid_Eye_Disease",
+    "source": "EyeWiki",
+    "shows": "States eyelid retraction (Dalrymple sign) is the commonest presenting sign, present in up to 90%, and that the inferior rectus is the most commonly affected muscle (mnemonic 'I'M SLOw': inferior, medial, superior, levator, lateral, obliques) causing misalignment and diplopia. Includes clinical photos, a lid-retraction measurement figure, and CT showing muscle enlargement",
+    "verified": true
+   },
+   {
+    "title": "Thyroid Eye Disease - Clinical Presentation - EyeRounds tutorial",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/tutorials/thyroid-eye-disease/2-clinical-presentation.htm",
+    "source": "EyeRounds / University of Iowa",
+    "shows": "Figure 8 shows eyelid retraction with Dalrymple's sign and both superior and inferior scleral show; Figures 12-13 illustrate restrictive strabismus; the text states the inferior and medial rectus muscles are most commonly affected, producing hypotropia and esotropia respectively. Also shows lagophthalmos, temporal flare, exophthalmos and CT of compressive optic neuropathy",
+    "verified": true
+   }
+  ],
+  "notes": "The EyeRounds clinical-presentation page is the closer visual match because it shows lid retraction with scleral show and restrictive motility on the same page. Point to make: a tight inferior rectus tethers the globe DOWN, so an inferior rectus problem produces hypotropia with limited elevation - it is a restrictive tether, not a weak elevator, which is why forced ductions are positive."
+ },
+ {
+  "task_id": "promotion-2025#79",
+  "finding": "No clinical figure is needed - this is a Prentice's rule calculation. Prism (in prism dioptres) = lens power in dioptres x decentration from the optical centre in cm. Looking 1 cm below the optical centre induces 8 prism dioptres in the -8 D right lens and 4 prism dioptres in the -4 D left lens; because the induced prism is in the same direction in both eyes, the net vertical imbalance BETWEEN the eyes is 8 - 4 = 4 prism dioptres.",
+  "links": [
+   {
+    "title": "Lensometry - EyeWiki",
+    "url": "https://eyewiki.aao.org/Lensometry",
+    "source": "EyeWiki",
+    "shows": "States Prentice's rule explicitly - prism induced = power of lens in dioptres x displacement from optical centre in cm - with a worked example, in a section on prism by decentration explaining how looking away from the optical centre generates unwanted prism",
+    "verified": true
+   },
+   {
+    "title": "Prisms - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK580488/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "Defines the prism dioptre (1 cm of deviation at 1 metre) and applies Prentice's rule - prismatic effect equals lens power multiplied by distance from the optical centre, with no prismatic effect at the centre - plus the clinical uses of prisms",
+    "verified": true
+   }
+  ],
+  "notes": "Any picture attached to this item is almost certainly stray - flag for removal rather than replacement. The stem is ambiguously worded: taken eye by eye the answers are 8 and 4 prism dioptres, but the quantity of clinical interest (and the one matching key B) is the DIFFERENTIAL vertical prism between the two eyes in anisometropia, 8 - 4 = 4. Worth annotating so the student is not confused by the phrase 'of both eyes'."
+ }
+]

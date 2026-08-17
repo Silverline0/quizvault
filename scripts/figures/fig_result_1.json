@@ -1,0 +1,387 @@
+[
+  {
+    "task_id": "promotion-2014#18",
+    "finding": "Brown syndrome: limited elevation of the eye in adduction (superior oblique tendon-trochlea complex restriction), best shown on a nine-cardinal-gaze motility photo",
+    "links": [
+      {
+        "title": "Brown Syndrome - EyeWiki",
+        "url": "https://eyewiki.aao.org/Brown_Syndrome",
+        "source": "EyeWiki",
+        "shows": "Full article on Brown syndrome: limited elevation in adduction from superior oblique tendon-trochlea abnormality, congenital vs acquired forms, spontaneous resolution in 75-80% of asymptomatic cases, and surgical/steroid management",
+        "verified": true
+      },
+      {
+        "title": "Acute Acquired Brown Syndrome: 38-year-old Male with Ethmoidal Sinus Mucocele - EyeRounds (University of Iowa)",
+        "url": "https://webeye.ophth.uiowa.edu/eyeforum/cases/50-Acquired-Brown-Syndrome-Ethmoid-Mucocele.htm",
+        "source": "EyeRounds (University of Iowa teaching atlas)",
+        "shows": "Figure 1 is a nine-cardinal-gaze clinical photo montage captioned 'note the under-elevation in adduction of the right eye' - exactly the figure this question needs; Figure 2 is the causative ethmoidal mass on MRI",
+        "verified": true
+      }
+    ],
+    "notes": "The question asks for the FALSE statement and the key is D. Brown syndrome is a restriction of the ipsilateral superior oblique tendon-trochlea complex; it is not associated with contralateral SO overaction. Note option A ('down shoot on adduction') is a real feature and therefore true. Any attached figure should be a motility/nine-gaze photo, not a fundus or slit lamp image."
+  },
+  {
+    "task_id": "promotion-2014#24",
+    "finding": "Downbeat nystagmus - upward slow drift with corrective downward saccade, localizing to the cervicomedullary junction / vestibulocerebellum (flocculus); causes include Chiari I, spinocerebellar degeneration, lithium, alcohol/Wernicke",
+    "links": [
+      {
+        "title": "Nystagmus - EyeWiki",
+        "url": "https://eyewiki.aao.org/Nystagmus",
+        "source": "EyeWiki",
+        "shows": "Dedicated downbeat nystagmus section listing the exact etiologies in this question - structural lesions at the cervico-medullary junction, Arnold-Chiari type I, lithium and anticonvulsant toxicity, spinocerebellar degeneration, and nutritional causes (Wernicke encephalopathy, magnesium deficiency)",
+        "verified": true
+      },
+      {
+        "title": "Nystagmus Types - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK539711/",
+        "source": "NCBI Bookshelf / StatPearls",
+        "shows": "Downbeat nystagmus defined as a vertical jerk oscillation signalling medullary-cervicomedullary junction lesions, intensifying on downgaze; lists Chiari I, cerebellar degenerations, magnesium depletion, and contrasts with peripheral vestibular nystagmus",
+        "verified": true
+      }
+    ],
+    "notes": "This is a text/recall question - it does not actually require a picture. The key is A: middle ear (peripheral vestibular) disease produces horizontal-torsional nystagmus that suppresses with fixation, not downbeat nystagmus. Neither source lists middle ear infection as a downbeat cause, which supports the key. If a figure is wanted at all, the appropriate one is a cervicomedullary junction MRI (Chiari I), not an eye photo."
+  },
+  {
+    "task_id": "promotion-2014#29",
+    "finding": "Ocular conditions modified by pregnancy - progression of diabetic retinopathy, keratoconus/corneal biomechanical change, and growth of meningioma; contrasted with idiopathic intracranial hypertension",
+    "links": [
+      {
+        "title": "Pregnancy and the Eye - PMC (NIH)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5082244/",
+        "source": "PMC / NIH",
+        "shows": "Review of physiologic and pathologic ocular changes in pregnancy; documents ~50% progression of NPDR and up to 45% of PDR, and worsening of pituitary adenoma, meningioma, posterior scleritis and Graves disease during pregnancy; also covers IIH in pregnancy",
+        "verified": true
+      },
+      {
+        "title": "Diabetic retinopathy in pregnancy - A review - PMC (NIH)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8725079/",
+        "source": "PMC / NIH",
+        "shows": "Dedicated review of diabetic retinopathy progression in pregnancy - prevalence, risk factors, pathogenesis pathway diagrams, and trimester-by-trimester management",
+        "verified": true
+      }
+    ],
+    "notes": "CAUTION for the student: the exam key is D (IIH does not progress), but the verified 'Pregnancy and the Eye' review states IIH 'is known to progress with weight gain' in pregnancy. The literature is not clean on this option. The DR/keratoconus/meningioma limbs (A, B, C) are all solidly supported. No true clinical figure is needed for this question; the DR review contains only pathogenesis schematics, not fundus photos."
+  },
+  {
+    "task_id": "promotion-2014#125",
+    "finding": "Pontine lesion causing bilateral pinpoint pupils (miosis) from interruption of the descending sympathetic pupillodilator pathway",
+    "links": [
+      {
+        "title": "Neuro-ophthalmic Findings in Coma - EyeWiki",
+        "url": "https://eyewiki.aao.org/Neuro-ophthalmic_Findings_in_Coma",
+        "source": "EyeWiki",
+        "shows": "Localizing pupil findings in coma - states bilateral pinpoint pupils are typically dorsal pontine injury, and that pontine hemorrhage disrupts the pupillodilator pathway causing near-maximal constriction",
+        "verified": true
+      },
+      {
+        "title": "Neuroanatomy, Pupillary Dilation Pathway - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK535421/",
+        "source": "NCBI Bookshelf / StatPearls",
+        "shows": "The three-neuron sympathetic dilation pathway from hypothalamus descending through the brainstem to the ciliospinal center of Budge (C8-T2) - the anatomic basis for why a pontine lesion produces miosis",
+        "verified": true
+      }
+    ],
+    "notes": "Question has no figure in the source and does not need one - it is a pure localization recall (pons -> miosis, midbrain -> mid-dilated/fixed, CN III compression -> mydriasis). The StatPearls page describes the pathway but does not itself name pontine lesions; the EyeWiki coma page is the one that explicitly ties dorsal pontine injury to pinpoint pupils."
+  },
+  {
+    "task_id": "promotion-2014#131",
+    "finding": "Spectacle magnification: a plus (convex) lens correcting hyperopia magnifies the retinal image, so objects appear larger; a minus lens minifies",
+    "links": [
+      {
+        "title": "Aniseikonia - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK585108/",
+        "source": "NCBI Bookshelf / StatPearls",
+        "shows": "Quantifies spectacle magnification - a +1 D lens at 12 mm vertex gives 1.5% magnification while a -1 D lens gives 1.5% minification; also covers pincushion distortion of high plus lenses. This is the optical principle behind the answer",
+        "verified": true
+      },
+      {
+        "title": "Hyperopia - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK560716/",
+        "source": "NCBI Bookshelf / StatPearls",
+        "shows": "Hyperopia corrected with biconvex (plus) lenses that converge light onto the retina - background for which patient wears a magnifying lens",
+        "verified": true
+      }
+    ],
+    "notes": "The question is an optics recall, not an image question; the attached figure is almost certainly wrong. The answer is B because plus spectacle lenses magnify. Note the StatPearls Hyperopia page covers the plus-lens correction but does NOT discuss magnification - the Aniseikonia page is the one that proves the magnification point."
+  },
+  {
+    "task_id": "promotion-2014#201",
+    "finding": "ROP screening: timing of the initial dilated retinal examination for a 27-week, 950 g preterm infant (31 weeks postmenstrual age or 4 weeks chronologic age, whichever is later)",
+    "links": [
+      {
+        "title": "Retinopathy of Prematurity - EyeWiki",
+        "url": "https://eyewiki.aao.org/Retinopathy_of_Prematurity",
+        "source": "EyeWiki",
+        "shows": "US screening criteria (birth weight <=1500 g or gestational age <=30 weeks) and the full table of postmenstrual age at first exam by gestational age at birth (22 weeks GA -> 31 weeks PMA), plus a fundus photograph of dragged vessels and macular fold from untreated ROP",
+        "verified": true
+      }
+    ],
+    "notes": "The stem in the bank is contaminated with a leftover URL fragment about papilledema/optic atrophy - the actual question is only the ROP screening item. For a 27-week infant the EyeWiki table gives first exam at 31 weeks PMA, i.e. 4 weeks chronologic age, which falls in the 4-6 week window of the key (C). No figure is genuinely required for this question."
+  },
+  {
+    "task_id": "promotion-2014#207",
+    "finding": "Right occipital lobe lesion ABOVE the calcarine fissure (cuneus) -> left inferior homonymous quadrantanopia; in the LEFT eye this is the lower temporal quadrant",
+    "links": [
+      {
+        "title": "Homonymous Superior Quadrantanopia - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK558982/",
+        "source": "NCBI Bookshelf / StatPearls",
+        "shows": "The retinotopic rule this question tests - dorsal fibers carrying the inferior visual field terminate on the superior lip of the calcarine fissure, ventral fibers carrying the superior field on the inferior lip; so a lesion above the calcarine gives an inferior quadrantanopia",
+        "verified": true
+      },
+      {
+        "title": "Homonymous Hemianopsia - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK558929/",
+        "source": "NCBI Bookshelf / StatPearls",
+        "shows": "Multiple visual-pathway schematics mapping lesion site to field defect, including retrochiasmal/occipital lesions and why occipital defects are highly congruous",
+        "verified": true
+      },
+      {
+        "title": "Crossed Quadrant Homonymous Hemianopsia - EyeWiki",
+        "url": "https://eyewiki.aao.org/Crossed_Quadrant_Homonymous_Hemianopsia",
+        "source": "EyeWiki",
+        "shows": "Humphrey perimetry printout of quadrantic homonymous defects plus occipital infarct MRI; illustrates defects that respect the vertical midline and the above-vs-below calcarine relationship",
+        "verified": true
+      }
+    ],
+    "notes": "Correct figure here is a visual-field/visual-pathway diagram or a Humphrey printout, not a photograph. Chain of reasoning for the student: right occipital -> left homonymous field; upper (supracalcarine) lesion -> lower field; left eye's left hemifield = its temporal field; hence lower temporal (D)."
+  },
+  {
+    "task_id": "promotion-2016#22",
+    "finding": "Normal tension glaucoma - glaucomatous optic disc cupping (C/D 0.8) with a dense arcuate/altitudinal visual field defect despite IOP in the normal range (16 mmHg)",
+    "links": [
+      {
+        "title": "Normal Tension Glaucoma - EyeWiki",
+        "url": "https://eyewiki.aao.org/Normal_Tension_Glaucoma",
+        "source": "EyeWiki",
+        "shows": "Optic disc photographs of focal rim thinning with RNFL dropout and a disc hemorrhage, plus paired standard automated perimetry printouts showing dense arcuate scotomas near fixation - the disc and field pictures this question describes",
+        "verified": true
+      },
+      {
+        "title": "Normal Tension Glaucoma - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK576377/",
+        "source": "NCBI Bookshelf / StatPearls",
+        "shows": "Definition of NTG with IOP under the 21 mmHg cut-off, optic disc excavation/cupping, Drance hemorrhages, temporal RNFL defects and deep paracentral/hemifield scotomas on Humphrey 24-2",
+        "verified": true
+      }
+    ],
+    "notes": "Question is filed under 'Optics' in the bank but is a glaucoma question. Key A is right: IOP 16 with a 0.8 cup and a real field defect is glaucomatous optic neuropathy at statistically normal pressure. A family history strengthens it. The figure, if any, should be a disc photo plus a Humphrey printout."
+  },
+  {
+    "task_id": "promotion-2016#26",
+    "finding": "Primary congenital glaucoma in a 3-month-old - buphthalmos, hazy/edematous enlarged cornea, Haab striae (horizontal breaks in Descemet membrane); inheritance is autosomal recessive so parents are typically unaffected",
+    "links": [
+      {
+        "title": "Primary Congenital Glaucoma - EyeWiki",
+        "url": "https://eyewiki.aao.org/Primary_Congenital_Glaucoma",
+        "source": "EyeWiki",
+        "shows": "Clinical image of congenital glaucoma with cloudy corneas; text confirms autosomal recessive inheritance with variable penetrance, that most cases are sporadic with no family history, and describes buphthalmos, corneal edema and Haab striae",
+        "verified": true
+      },
+      {
+        "title": "Infantile Glaucoma / Congenital Glaucoma - EyeRounds (University of Iowa)",
+        "url": "https://webeye.ophth.uiowa.edu/eyeforum/cases/42-Primary-Congenital-Glaucoma-Infantile-Glaucoma.htm",
+        "source": "EyeRounds (University of Iowa teaching atlas)",
+        "shows": "External photos comparing the buphthalmic eye to the fellow eye with epiphora, handheld slit lamp photo of stromal edema, and Haab striae in direct light and retroillumination; notes CYP1B1 autosomal recessive inheritance",
+        "verified": true
+      }
+    ],
+    "notes": "The missing picture is an infant with corneal haze/enlargement (buphthalmos) or Haab striae. Key C ('parent not affected') follows from autosomal recessive inheritance with incomplete penetrance - which also rules out option D (X-linked male pattern). Option B (cataract) and A (microdontia) belong to other syndromes."
+  },
+  {
+    "task_id": "promotion-2016#30",
+    "finding": "Open globe injury - first step is to place a rigid protective eye shield resting on the orbital rim (no pressure on the globe) before any other workup",
+    "links": [
+      {
+        "title": "Ruptured Globe - EyeWiki",
+        "url": "https://eyewiki.aao.org/Ruptured_Globe",
+        "source": "EyeWiki",
+        "shows": "Preoperative protection with a Fox shield to reduce herniation of ocular contents through the rupture; diagnostic signs such as a peaked pupil pointing to the wound; BETT classification diagram",
+        "verified": true
+      },
+      {
+        "title": "Open globe - EyeRounds Online Ophthalmic Atlas (University of Iowa)",
+        "url": "https://webeye.ophth.uiowa.edu/eyeforum/atlas/pages/open-globe.html",
+        "source": "EyeRounds (University of Iowa teaching atlas)",
+        "shows": "Slit lamp photograph of a ruptured globe at the superonasal limbus with iris prolapse through the wound, iridodialysis and hyphema, plus B-scan showing vitreous hemorrhage - the kind of photo this stem refers to",
+        "verified": true
+      },
+      {
+        "title": "Pre-Ophthalmologist Management of Eye Trauma - EyeWiki",
+        "url": "https://eyewiki.aao.org/Pre-Ophthalmologist_Management_of_Eye_Trauma",
+        "source": "EyeWiki",
+        "shows": "First-responder/ED sequence for suspected open globe - eye shield placement, nausea and vomiting control, NPO status, antibiotics and tetanus",
+        "verified": true
+      }
+    ],
+    "notes": "All four options are things that eventually get done; the shield is the immediate protective step, which is why B is the key. Be aware the Pre-Ophthalmologist page groups shield placement with antiemetics rather than explicitly ranking it first - the EyeWiki Ruptured Globe page is the stronger citation for shielding as the protective priority."
+  },
+  {
+    "task_id": "promotion-2016#34",
+    "finding": "Pterygium not reaching the visual axis, not inducing astigmatism, asymptomatic - slit lamp photo of a quiet nasal fibrovascular growth onto peripheral cornea; management is observation",
+    "links": [
+      {
+        "title": "Pterygium - EyeWiki",
+        "url": "https://eyewiki.aao.org/Pterygium",
+        "source": "EyeWiki",
+        "shows": "Clinical photograph of a pterygium plus H&E histopathology of elastotic degeneration; explicitly states surgery 'should not be undertaken casually' and lists the indications for excision (persistent irritation, visual axis obstruction, documented growth, motility restriction)",
+        "verified": true
+      },
+      {
+        "title": "Pterygium - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK558907/",
+        "source": "NCBI Bookshelf / StatPearls",
+        "shows": "Evaluation criteria (location, size, vascularity, extent, Stocker's line) and surgical indications - decreased vision, chronic pain, astigmatism, cosmesis - plus the high recurrence rate that argues against operating on a quiet lesion",
+        "verified": true
+      }
+    ],
+    "notes": "Key B (observation) is supported by exclusion: none of the accepted surgical indications is met when there is no refractive effect, no patient concern and no encroachment on the visual axis. StatPearls does not describe an observation protocol explicitly - it simply lists the surgical indications, which is the reasoning path here."
+  },
+  {
+    "task_id": "promotion-2016#39",
+    "finding": "Necrotizing anterior scleritis - scleral thinning/melt with blue-grey uveal show, in an elderly patient with chronic dull boring pain; requires systemic immunosuppression (methotrexate), not topical therapy",
+    "links": [
+      {
+        "title": "Scleritis: A Case Report and Overview - EyeRounds (University of Iowa)",
+        "url": "https://webeye.ophth.uiowa.edu/eyeforum/cases/281-scleritis.htm",
+        "source": "EyeRounds (University of Iowa teaching atlas)",
+        "shows": "External photographs of scleral ulceration with 50% scleral thinning and follow-up photos showing dark pigmentation from 1 to 11 o'clock representing direct visualization of choroid and ciliary body; treatment course with methotrexate 10 mg weekly titrated to 20 mg weekly, plus dosing and monitoring guidance",
+        "verified": true
+      },
+      {
+        "title": "Scleromalacia Perforans - EyeWiki",
+        "url": "https://eyewiki.aao.org/Scleromalacia_Perforans",
+        "source": "EyeWiki",
+        "shows": "Clinical photo of scleral melting in a white quiet eye in an elderly woman with long-standing rheumatoid arthritis, with thinned sclera exposing dark uveal tissue; lists methotrexate 7.5-20 mg weekly among immunomodulatory options",
+        "verified": true
+      }
+    ],
+    "notes": "The EyeRounds case is the better match for the picture and for the key (C, methotrexate). Note the clinical nuance: 2 years of dull pain in a 77-year-old suggests chronic necrotizing scleritis, and necrotizing disease mandates systemic immunosuppression - topical steroid or cyclosporine (A, B) are inadequate and hydroxychloroquine (D) is too weak. Cyclophosphamide is the alternative first-line in vasculitis-associated disease."
+  },
+  {
+    "task_id": "promotion-2016#67",
+    "finding": "Glaucomatous optic disc cupping - optic disc photograph with cup-to-disc ratio 0.8, neuroretinal rim thinning and RNFL dropout; visual field (automated perimetry) is what establishes functional glaucomatous damage",
+    "links": [
+      {
+        "title": "Primary Open-Angle Glaucoma - EyeWiki",
+        "url": "https://eyewiki.aao.org/Primary_Open-Angle_Glaucoma",
+        "source": "EyeWiki",
+        "shows": "Three optic disc photographs illustrating glaucomatous cupping; states that automated static threshold perimetry (Humphrey) is the gold standard for diagnosing and monitoring POAG, and lists high cup:disc ratio and inter-eye asymmetry as disc findings",
+        "verified": true
+      },
+      {
+        "title": "Normal Tension Glaucoma - EyeWiki",
+        "url": "https://eyewiki.aao.org/Normal_Tension_Glaucoma",
+        "source": "EyeWiki",
+        "shows": "Disc photos with focal rim thinning plus paired Humphrey printouts - relevant because with IOP 19 mmHg this patient may fall in the normal-tension range, and the field is still the test that confirms glaucomatous damage",
+        "verified": true
+      }
+    ],
+    "notes": "The missing picture is a cupped optic disc photo. Key B is right: gonioscopy characterizes the angle and diurnal IOP characterizes pressure, but neither establishes glaucomatous optic neuropathy - perimetry demonstrates the corresponding functional defect."
+  },
+  {
+    "task_id": "promotion-2016#76",
+    "finding": "PTK indications - superficial/anterior corneal pathology (map-dot-fingerprint/EBMD, Reis-Bucklers, Meesmann) versus Fleck (Francois-Neetens) dystrophy, which is asymptomatic and lies deep in the stroma",
+    "links": [
+      {
+        "title": "Phototherapeutic Keratectomy - EyeWiki",
+        "url": "https://eyewiki.aao.org/Phototherapeutic_keratectomy",
+        "source": "EyeWiki",
+        "shows": "Therapeutic indications explicitly including 'Anterior corneal dystrophies (Cogan, Meesman, Reis-Buckler, etc)'; contraindication guidance restricting PTK to opacities in the anterior 10-20% of the cornea, since deeper ablation causes haze and hyperopic shift",
+        "verified": true
+      },
+      {
+        "title": "Corneal Stromal Dystrophies - EyeWiki",
+        "url": "https://eyewiki.aao.org/Corneal_Stromal_Dystrophies",
+        "source": "EyeWiki",
+        "shows": "Fleck (Francois-Neetens speckled) corneal dystrophy entry - autosomal dominant, scattered small discrete greyish-white dandruff-like stromal opacities, listed as asymptomatic",
+        "verified": true
+      }
+    ],
+    "notes": "No picture is truly needed. Key B is correct on two grounds: Fleck dystrophy is asymptomatic (nothing to treat) and its opacities sit within the stroma rather than in the anterior 10-20% that PTK can safely ablate. Caveat: the EyeWiki stromal dystrophy entry is brief and does not spell out the stromal depth, so the depth argument comes from the PTK page's ablation-depth rule rather than from a single statement."
+  },
+  {
+    "task_id": "promotion-2016#77",
+    "finding": "Genetics of AMD - the CFH Tyr402His (Y402H) and LOC387715/ARMS2 Ala69Ser polymorphisms together account for the majority of genetic risk for AMD",
+    "links": [
+      {
+        "title": "Age-Related Macular Degeneration - EyeWiki",
+        "url": "https://eyewiki.aao.org/Age-Related_Macular_Degeneration",
+        "source": "EyeWiki",
+        "shows": "States that two polymorphisms, Tyr402His at 10q26 (complement factor H locus) and Ala69Ser (LOC387715), may be responsible for up to 50-75% of the genetic risk of AMD - the exact figure and gene pair in option C",
+        "verified": true
+      },
+      {
+        "title": "Macular Degeneration - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK560778/",
+        "source": "NCBI Bookshelf / StatPearls",
+        "shows": "Background on AMD etiology and risk factors, noting complement-related variants including CFH Y402H",
+        "verified": true
+      }
+    ],
+    "notes": "Pure genetics recall - no figure required. The EyeWiki AMD page is the direct source of the '75% of genetic risk' claim and of the Tyr402His + Ala69Ser pairing, which is why C is keyed. Distractors: VMD2/bestrophin is Best disease, ABCA4 is Stargardt. Note EyeWiki's phrasing puts Tyr402His at the CFH locus (chromosome 1q31) while Ala69Ser/LOC387715 is at 10q26 - the wiki text conflates the loci slightly."
+  },
+  {
+    "task_id": "promotion-2017#4",
+    "finding": "Stocker line - a vertical brownish iron (epithelial) line at the leading edge/head of a pterygium, best seen with cobalt blue or red-free filter",
+    "links": [
+      {
+        "title": "Pterygium - EyeWiki",
+        "url": "https://eyewiki.aao.org/Pterygium",
+        "source": "EyeWiki",
+        "shows": "States that a pigmented epithelial iron line (Stocker's line) adjacent to a pterygium is evidence of chronicity; includes a clinical photograph of a pterygium and histopathology of elastotic degeneration",
+        "verified": true
+      },
+      {
+        "title": "Stocker's line in pterygium - PMC (NIH)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5689386/",
+        "source": "PMC / NIH",
+        "shows": "Dedicated case report with pre- and post-operative slit lamp photographs of a punctate brownish subepithelial line passing vertically in front of the apex of the pterygium - the clearest single image of this exact finding",
+        "verified": true
+      }
+    ],
+    "notes": "Option B is mislabelled in the bank: the correct name is the STOCKER line. 'Busacca' is an iris nodule in granulomatous uveitis and has nothing to do with corneal iron lines. The Ferry line (option A) is the iron line adjacent to a filtering bleb. Other corneal iron lines for context: Hudson-Stahli (age-related, inferior third), Fleischer ring (keratoconus)."
+  },
+  {
+    "task_id": "promotion-2017#6",
+    "finding": "Iris prolapse through a corneal/limbal laceration (open globe) - peaked or teardrop pupil with brown iris tissue at the wound; first step is a rigid protective eye shield",
+    "links": [
+      {
+        "title": "Open globe - EyeRounds Online Ophthalmic Atlas (University of Iowa)",
+        "url": "https://webeye.ophth.uiowa.edu/eyeforum/atlas/pages/open-globe.html",
+        "source": "EyeRounds (University of Iowa teaching atlas)",
+        "shows": "Slit lamp photograph of a globe ruptured at the superonasal limbus with iris prolapse through the wound, plus iridodialysis and hyphema - directly the picture this stem describes",
+        "verified": true
+      },
+      {
+        "title": "Ruptured Globe - EyeWiki",
+        "url": "https://eyewiki.aao.org/Ruptured_Globe",
+        "source": "EyeWiki",
+        "shows": "Preoperative Fox shield protection to prevent further herniation of ocular contents, the peaked-pupil sign pointing toward the wound, and the principle of preserving prolapsed iris at repair",
+        "verified": true
+      }
+    ],
+    "notes": "Same clinical principle as promotion-2016#30 - all four options happen eventually, but the shield is the immediate step that prevents further extrusion of intraocular contents, so A is the key. Avoid any pressure on the globe, no patching, no topical drops until the eye is protected."
+  },
+  {
+    "task_id": "promotion-2017#7",
+    "finding": "Keratoconus with a steep K reading - Fleischer ring, i.e. iron (ferritin/hemosiderin) deposition in the BASAL CORNEAL EPITHELIUM around the base of the cone, which stains with an iron stain (Perls Prussian blue)",
+    "links": [
+      {
+        "title": "Keratoconus - EyeWiki",
+        "url": "https://eyewiki.aao.org/Keratoconus",
+        "source": "EyeWiki",
+        "shows": "Describes the Fleischer ring as an iron deposit within the epithelium around the base of the cone, brown, best seen with a cobalt blue filter; lists elevated keratometry values as an early sign; includes topography images and a Munson sign photograph",
+        "verified": true
+      },
+      {
+        "title": "Keratoconus - EyeRounds Online Ophthalmic Atlas (University of Iowa)",
+        "url": "https://webeye.ophth.uiowa.edu/eyeforum/atlas/pages/keratoconus/index.htm",
+        "source": "EyeRounds (University of Iowa teaching atlas)",
+        "shows": "Slit lamp photographs of a Fleischer ring (epithelial iron deposition around the base of the cone) with Vogt striae, Munson sign, apical scarring, and Scheimpflug/Pentacam maps showing central steepening and thinning",
+        "verified": true
+      }
+    ],
+    "notes": "The stem's 'histopathologic picture of corneal layers' plus 'K reading was high' points to keratoconus, so the special stain that would be positive is an iron stain (Perls Prussian blue) at the basal epithelium - key A. Contrast the distractors: calcium (von Kossa/alizarin red) is band keratopathy, amyloid (Congo red, apple-green birefringence) is lattice dystrophy. Neither verified page shows the actual Prussian-blue histology slide; they show the clinical Fleischer ring, which is the same deposit seen at the slit lamp."
+  }
+]

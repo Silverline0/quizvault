@@ -40,8 +40,14 @@ ALLOWED_HOSTS = (
     "en.wikipedia.org", "nei.nih.gov", "ncbi.nlm.nih.gov", "pmc.ncbi.nlm.nih.gov",
     "statpearls.com", "imagebank.asrs.org", "webeye.ophth.uiowa.edu",
     "eyerounds.org", "aao.org", "medlineplus.gov", "nih.gov",
+    # University and society teaching collections, openly accessible.
+    "morancore.utah.edu", "aapos.org", "vagelos.columbia.edu",
 )
 IMAGE_FILE_RE = re.compile(r"\.(jpe?g|png|gif|webp|bmp|tiff?)(\?|$)", re.I)
+# A MediaWiki "File:" URL is a description page carrying the image, its author
+# and its licence -- exactly what we want to link to -- even though it ends in
+# an image extension.
+WIKI_FILE_PAGE_RE = re.compile(r"/wiki/(File|Media):", re.I)
 MAX_LINKS = 3
 
 
@@ -62,7 +68,7 @@ def vet(link):
         return False, "not http(s)"
     if not link.get("verified"):
         return False, "researcher did not verify it loads"
-    if IMAGE_FILE_RE.search(url):
+    if IMAGE_FILE_RE.search(url) and not WIKI_FILE_PAGE_RE.search(url):
         return False, "points at an image file, not a page"
     if not host_ok(url):
         return False, f"host not on the reference allow-list ({urlparse(url).hostname})"

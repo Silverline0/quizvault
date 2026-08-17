@@ -583,7 +583,13 @@ MAX_STEM_CHARS = 420
 BLOCK_GAP_RATIO = 1.6
 # A bare URL or a "Resource:"/"Reference:" line closes out the previous item, so
 # the stem walk must not step over one.
-STEM_BOUNDARY_RE = re.compile(r"(https?://|www\.|\bResources?\s*:|\bReferences?\s*:)", re.I)
+# A URL that wrapped across lines leaves a tail carrying no scheme, which the
+# stem walk would otherwise swallow ("...%20secondary%20to%20chronic%20papilledema.
+# A preterm infant, GA= 27 weeks ..."). Percent-escapes and text-fragment
+# anchors identify those continuation lines.
+STEM_BOUNDARY_RE = re.compile(
+    r"(https?://|www\.|\bResources?\s*:|\bReferences?\s*:"
+    r"|%[0-9A-Fa-f]{2}|#:~:text=)", re.I)
 
 # Parts of the 2016 section run the first choice on the same line as the stem
 # ("What is the most likely etiology: a. DM"), so the detected run starts at B

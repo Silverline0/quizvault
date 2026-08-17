@@ -1,0 +1,394 @@
+[
+ {
+  "task_id": "promotion-2017#11",
+  "finding": "Slit-lamp photo of a subluxated (partially dislocated) crystalline lens - the lens equator/edge visible crossing the pupil with stretched or broken zonules, here displaced supero-nasally.",
+  "links": [
+   {
+    "title": "Ectopia Lentis - EyeWiki",
+    "url": "https://eyewiki.aao.org/Ectopia_Lentis",
+    "source": "EyeWiki",
+    "shows": "Definition of subluxation vs luxation, causes (Marfan, homocystinuria, trauma), and the refractive consequences - explicitly states that zonular disruption increases lens curvature and results in lenticular myopia and astigmatism",
+    "verified": true
+   },
+   {
+    "title": "File:Linsenluxation.png - Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Linsenluxation.png",
+    "source": "Wikimedia Commons",
+    "shows": "Clinical photograph of a human displaced crystalline lens with ciliary/zonular fibres visible in the pupil (CC BY-SA 4.0)",
+    "verified": true
+   }
+  ],
+  "notes": "The question tests the refractive effect, not the syndrome. Looking through the phakic (lens-covered) part of the pupil, loss of zonular tension lets the lens become more spherical and it also tilts forward, so the eye becomes MYOPIC (plus lenticular astigmatism) - answer A. Only if the pupil is looking through the aphakic portion does the eye read as high hyperopia. Direction of subluxation (supero-nasal here) is a red herring for this question; classic teaching is supero-temporal in Marfan and infero-nasal in homocystinuria."
+ },
+ {
+  "task_id": "promotion-2017#13",
+  "finding": "Cystoid macular edema - OCT showing intraretinal cystic hyporeflective spaces with loss of the foveal depression, and/or late-frame fluorescein angiography with the classic perifoveal petalloid leakage pattern.",
+  "links": [
+   {
+    "title": "Pseudophakic Cystoid Macular Edema (Irvine-Gass Syndrome) - EyeWiki",
+    "url": "https://eyewiki.aao.org/Pseudophakic_Cystoid_Macular_Edema_(Irvine-Gass_Syndrome)",
+    "source": "EyeWiki",
+    "shows": "OCT images of cystoid macular changes plus before/after treatment SD-OCT; describes the petalloid FA pattern and names topical NSAIDs (ketorolac, diclofenac) as the mainstay of prophylaxis/treatment",
+    "verified": true
+   },
+   {
+    "title": "Cystoid Macular Edema - EyeWiki",
+    "url": "https://eyewiki.aao.org/Cystoid_Macular_Edema",
+    "source": "EyeWiki",
+    "shows": "Four labelled images of CME; OCT intraretinal cysts, FA petaloid leakage, and a treatment section listing ketorolac, nepafenac, bromfenac, diclofenac and indomethacin",
+    "verified": true
+   }
+  ],
+  "notes": "The answer hinges on NSAIDs being first-line for CME (especially post-cataract Irvine-Gass), whereas intermediate and chronic anterior uveitis are steroid/immunomodulator diseases. Any attached figure should be an OCT or FA of CME, not a uveitis photo."
+ },
+ {
+  "task_id": "promotion-2017#46",
+  "finding": "Infant with primary congenital glaucoma - buphthalmos/enlarged hazy cornea, corneal oedema and Haab striae (horizontal curvilinear breaks in Descemet membrane), with epiphora/photophobia/blepharospasm.",
+  "links": [
+   {
+    "title": "Primary Congenital Glaucoma - EyeWiki",
+    "url": "https://eyewiki.aao.org/Primary_Congenital_Glaucoma",
+    "source": "EyeWiki",
+    "shows": "Clinical photograph of congenital glaucoma with cloudy corneas; text on buphthalmos, Haab striae and inheritance - autosomal recessive but mostly sporadic, so parents are typically unaffected (recurrence risk usually no more than 3%)",
+    "verified": true
+   },
+   {
+    "title": "Infantile Glaucoma, Congenital Glaucoma - EyeRounds (University of Iowa)",
+    "url": "https://eyerounds.org/cases/42-Primary-Congenital-Glaucoma-Infantile-Glaucoma.htm",
+    "source": "EyeRounds (Univ. of Iowa)",
+    "shows": "External photos of asymmetric globe enlargement, handheld slit-lamp images of stromal oedema, and Haab striae direct and on retroillumination; states most cases are sporadic",
+    "verified": true
+   },
+   {
+    "title": "Atlas Entry - Haab striae in primary congenital glaucoma - EyeRounds",
+    "url": "https://eyerounds.org/atlas/pages/Haab/index.htm",
+    "source": "EyeRounds (Univ. of Iowa)",
+    "shows": "Two slit-lamp photographs (OD and OS) of Haab striae, with the distinction from vertical/oblique forceps-injury Descemet tears",
+    "verified": true
+   }
+  ],
+  "notes": "IOP 23 in a 3-month-old is abnormal (normal infant IOP is roughly 10-12 under anaesthesia). The distractor 'males affected in the family' points at X-linked inheritance, which PCG is not; PCG is autosomal recessive with low penetrance and mostly sporadic, hence 'parent not affected' (answer C). Microdontia and cataract are not features."
+ },
+ {
+  "task_id": "promotion-2018#7",
+  "finding": "Blunt-trauma globe rupture in a phakic eye - anterior rupture at/just behind the limbus with uveal prolapse, plus the BETT zone diagram showing where the sclera is thinnest.",
+  "links": [
+   {
+    "title": "Ruptured Globe - EyeWiki",
+    "url": "https://eyewiki.aao.org/Ruptured_Globe",
+    "source": "EyeWiki",
+    "shows": "Birmingham Eye Trauma Terminology (BETT) classification diagram and text on the inside-out mechanism; lists the limbus, the region just behind the rectus insertions near the equator, the optic nerve insertion and prior surgical sites as rupture points",
+    "verified": true
+   },
+   {
+    "title": "Scleral and Limbic Lacerations - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK580563/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "Two clinical slit-lamp photographs - inferior limbal laceration with uveal prolapse, and an inferotemporal scleral tear with hypopyon",
+    "verified": true
+   }
+  ],
+  "notes": "Caution: EyeWiki states the sclera is anatomically thinnest just behind the rectus insertions, while the commonest anterior rupture site in a phakic eye is the limbus (recorded answer B). Both facts are examined; the recorded answer reflects the phakic-eye rupture LOCATION rather than absolute scleral thickness. Worth flagging to the student."
+ },
+ {
+  "task_id": "promotion-2018#8",
+  "finding": "Mooren ulcer - crescentic peripheral corneal ulceration with a characteristic undermined, overhanging central leading edge and vascularised base, spreading circumferentially AND centrally; no scleral involvement.",
+  "links": [
+   {
+    "title": "Mooren's Ulcer - EyeWiki",
+    "url": "https://eyewiki.aao.org/Mooren%27s_Ulcer",
+    "source": "EyeWiki",
+    "shows": "Seven clinical figures - crescentic ulcer with overhanging central edge, partial/complete/total peripheral ulceration, and a perforated Mooren ulcer with iris prolapse; text states changes begin 2-3 mm from limbus and proceed circumferentially and centrally over 4-12 months",
+    "verified": true
+   },
+   {
+    "title": "Mooren's Ulcer: A Diagnosis of Exclusion - EyeRounds (University of Iowa)",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/cases/316-moorens-ulcer.htm",
+    "source": "EyeRounds (Univ. of Iowa)",
+    "shows": "Serial slit-lamp photographs documenting crescentic limbal thinning at presentation and its circumferential and central expansion 4 months later, plus post-glue appearance with an overhanging edge",
+    "verified": true
+   }
+  ],
+  "notes": "Key discriminator for the answer: Mooren ulcer never crosses into the sclera (that would suggest necrotising scleritis / systemic vasculitis). It undermines centrally toward the visual axis - answer A. Circumferential spread also occurs, but the distinguishing progression from other peripheral ulcerative keratitis is the central undermined edge."
+ },
+ {
+  "task_id": "promotion-2018#31",
+  "finding": "Herpetic (HSV/VZV) anterior uveitis - diffuse stellate keratic precipitates on the corneal endothelium, often with sectoral iris atrophy, corneal oedema/scarring and raised IOP.",
+  "links": [
+   {
+    "title": "Herpes Simplex Uveitis - EyeWiki",
+    "url": "https://eyewiki.aao.org/Herpes_Simplex_Uveitis",
+    "source": "EyeWiki",
+    "shows": "Photograph of HSV keratouveitis; text stating KP may be granulomatous, nongranulomatous or stellate, that stellate KP are typically diffuse, and that high IOP (up to 50-60 mmHg) from trabeculitis is a diagnostic hallmark",
+    "verified": true
+   },
+   {
+    "title": "Atlas Entry - Herpes simplex virus keratitis & HSV iritis - EyeRounds",
+    "url": "https://eyerounds.org/atlas/pages/herpes-simplex-virus-keratitis--HSV-iritis.html",
+    "source": "EyeRounds (Univ. of Iowa)",
+    "shows": "Three clinical photographs of a unilateral red eye with follicular conjunctivitis and an early corneal dendrite in a patient with 1+ cell/trace flare (HSV iritis)",
+    "verified": true
+   },
+   {
+    "title": "Herpes Zoster Uveitis - EyeWiki",
+    "url": "https://eyewiki.aao.org/Herpes_Zoster_Uveitis",
+    "source": "EyeWiki",
+    "shows": "Text reference for the VZV variant - punctate KP, patchy/sectoral iris atrophy and ocular hypertension as a diagnostic hallmark (no photographs on this page)",
+    "verified": true
+   }
+  ],
+  "notes": "Both stellate KP and raised IOP occur in herpetic uveitis; the recorded answer picks stellate KP as the most prominent SIGN. Note for the student that fine stellate KP are also classic for Fuchs heterochromic iridocyclitis and CMV anterior uveitis, so the morphology alone is not specific to herpes."
+ },
+ {
+  "task_id": "promotion-2018#44",
+  "finding": "Neovascular glaucoma - florid rubeosis iridis (NVI) at the pupillary margin with ectropion uveae, and gonioscopy showing neovascularisation of the angle with 360 degrees of synechial (PAS) closure and very high IOP.",
+  "links": [
+   {
+    "title": "Neovascular Glaucoma - EyeWiki",
+    "url": "https://eyewiki.aao.org/Neovascular_Glaucoma",
+    "source": "EyeWiki",
+    "shows": "Three clinical figures - advanced NVG with florid rubeosis iridis, ectropion uveae with hyphema, and neovascularisation of the angle; text on progressive synechial angle closure and on PRP as essential treatment of the underlying retinal ischaemia",
+    "verified": true
+   }
+  ],
+  "notes": "The stem is heavily abbreviated ('hm' most likely = hand motions vision, NVI = neovascularisation of iris, PAS = peripheral anterior synechiae). Answer B (PRP) is chosen because ablating ischaemic retina removes the VEGF drive even in an eye with 360 degrees of PAS; cyclodestruction is usually added for IOP control in a blind painful eye, and retrobulbar alcohol is reserved for intractable pain."
+ },
+ {
+  "task_id": "promotion-2018#45",
+  "finding": "Corneal oedema (microcystic/bullous, reduced corneal rigidity) at the slit lamp, and Goldmann applanation tonometry technique - the setting in which the applanation reading UNDERestimates true IOP.",
+  "links": [
+   {
+    "title": "IOP and Tonometry - EyeWiki",
+    "url": "https://eyewiki.aao.org/IOP_and_Tonometry",
+    "source": "EyeWiki",
+    "shows": "Explicitly states that corneas with decreased rigidity, such as in corneal edema, produce artificially LOW readings; also that corneal scars falsely increase the reading, thick corneas over-read and thin corneas under-read",
+    "verified": true
+   }
+  ],
+  "notes": "This is the page that directly supports the recorded answer D. Be aware EyeWiki's separate page 'The Reliability of Intraocular Pressure Measurements' cites one contact-lens-induced-oedema study reporting Goldmann OVERestimation - a genuine literature conflict. Board answer remains corneal oedema = falsely low. The other options all give falsely HIGH readings (corneal scar, increased scleral/ocular rigidity); stromal oedema behaves like corneal oedema."
+ },
+ {
+  "task_id": "promotion-2018#46",
+  "finding": "Infant optic disc showing REVERSAL of glaucomatous cupping - a large cup pre-operatively and a markedly smaller, less excavated cup after successful IOP-lowering surgery (angle surgery/trabeculotomy) in the first year of life.",
+  "links": [
+   {
+    "title": "Primary Congenital Glaucoma - EyeWiki",
+    "url": "https://eyewiki.aao.org/Primary_Congenital_Glaucoma",
+    "source": "EyeWiki",
+    "shows": "States that after IOP normalisation there can be notable reversal of cupping, while any retinal nerve fibre layer damage already present is permanent",
+    "verified": true
+   },
+   {
+    "title": "Structural Reversibility of Optic-Disc Cupping in Glaucoma - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12733532/",
+    "source": "PMC (NIH)",
+    "shows": "Figure 1 'Pediatric vs. Adult structural reversal of disc cupping'; reports cupping reversal in ~40-50% of childhood glaucoma after prompt IOP control, with younger age and earlier surgery predicting greater reversal (first 6-12 months of life the critical window)",
+    "verified": true
+   },
+   {
+    "title": "Infantile Glaucoma, Congenital Glaucoma - EyeRounds (University of Iowa)",
+    "url": "https://eyerounds.org/cases/42-Primary-Congenital-Glaucoma-Infantile-Glaucoma.htm",
+    "source": "EyeRounds (Univ. of Iowa)",
+    "shows": "Case with increased cupping in the affected eye and normalisation of IOP to 16 mmHg after trabeculotomy",
+    "verified": true
+   }
+  ],
+  "notes": "Answer B is right because the infant lamina cribrosa is elastic and collagen-poor, so cupping is mechanically reversible once IOP is controlled - unlike in adults. Surgery at 1 month of age is inside the critical window, so at 11 months the disc should look better than pre-op."
+ },
+ {
+  "task_id": "promotion-2018#64",
+  "finding": "Trichiasis - misdirected eyelashes rubbing the globe, the lesion for which mechanical epilation is used as temporary relief.",
+  "links": [
+   {
+    "title": "Trichiasis - EyeWiki",
+    "url": "https://eyewiki.aao.org/Trichiasis",
+    "source": "EyeWiki",
+    "shows": "Definition of posteriorly directed lashes and management, listing mechanical epilation as a conservative/temporary option; page image is of a buccal membrane graft repair",
+    "verified": true
+   },
+   {
+    "title": "Diseases of the Eyelashes - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK537100/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "Five figures including eyelash anatomy, trachomatous trichiasis, trichiasis and congenital distichiasis; notes epilation gives only short-term relief",
+    "verified": true
+   },
+   {
+    "title": "Anatomy, Head and Neck: Eyelash - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK537278/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "Eyelash growth cycle - anagen 4-10 weeks, catagen ~15 days, telogen 4-9 months - and states that after lash removal by pulling it takes about eight weeks to grow back",
+    "verified": true
+   }
+  ],
+  "notes": "Sources genuinely disagree on the regrowth interval: the recorded exam answer is 4-6 weeks, EyeWiki's entropion material says 2-3 weeks, and StatPearls says about 8 weeks. Present the exam answer (B, 4-6 weeks) but tell the student the published range is wide - the examinable point is simply that epilation is temporary because lashes regrow within weeks, which is why definitive follicle destruction is needed."
+ },
+ {
+  "task_id": "promotion-2018#69",
+  "finding": "Automated visual field printout of a congruous homonymous hemianopia with MACULAR SPARING - a dense half-field defect with a preserved central island - localising the lesion to the posterior (occipital) visual pathway.",
+  "links": [
+   {
+    "title": "Homonymous Hemianopsia - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK558929/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "Field-defect schematics along the visual pathway; states the occipital pole handling macular field has an anastomotic supply with the contralateral side, abating macular field loss, and that macular sparing follows infarcts of the most posterior occipital cortex in a PCA distribution",
+    "verified": true
+   },
+   {
+    "title": "Neuroanatomy, Visual Pathway - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK553189/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "Diagram of the human visual pathway plus the localisation rules - homonymous hemianopia with macular sparing indicates involvement of the primary visual cortex in the occipital lobe, from dual PCA/MCA supply of the macular cortex",
+    "verified": true
+   }
+  ],
+  "notes": "The bare options 'Anterior' vs 'Posterior' refer to the site of the lesion along the retrochiasmal pathway. Macular sparing = posterior (occipital cortex / occipital pole), answer B, because of the dual PCA and MCA blood supply at the occipital tip. More anterior lesions (optic tract, LGN, optic radiations) give incongruous or non-macula-sparing defects."
+ },
+ {
+  "task_id": "promotion-2019#3",
+  "finding": "Post-traumatic conjunctival laceration with ballooning/bullous (often 360-degree) subconjunctival haemorrhage and chemosis obscuring the sclera - the classic appearance of a suspected OCCULT scleral rupture.",
+  "links": [
+   {
+    "title": "Subconjunctival Hemorrhage - EyeWiki",
+    "url": "https://eyewiki.aao.org/Subconjunctival_Hemorrhage",
+    "source": "EyeWiki",
+    "shows": "States that a 360-degree subconjunctival hemorrhage may be a suggestive sign of occult globe rupture where zone II and III injuries cannot be excluded due to decreased visualisation; recommends imaging and consideration of globe exploration. Includes a photograph of subconjunctival haemorrhage",
+    "verified": true
+   },
+   {
+    "title": "Ruptured Globe - EyeWiki",
+    "url": "https://eyewiki.aao.org/Ruptured_Globe",
+    "source": "EyeWiki",
+    "shows": "BETT classification diagram and the inside-out blunt rupture mechanism, with rupture sites at the limbus and behind the rectus insertions - the areas a peritomy must expose",
+    "verified": true
+   },
+   {
+    "title": "Scleral and Limbic Lacerations - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK580563/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "Clinical photographs of limbal laceration with uveal prolapse and an inferotemporal scleral tear; describes conjunctival peritomy as the first surgical step to assess the true extent of a scleral laceration",
+    "verified": true
+   }
+  ],
+  "notes": "Answer C is right because a conjunctival laceration with ballooning subconjunctival blood can hide a full-thickness scleral wound; you cannot exclude it at the slit lamp, and B-scan risks pressure on a potentially open globe. A 360-degree peritomy in theatre with exploration of all four quadrants is the standard, and the conjunctiva is only closed once the sclera is proven intact or repaired."
+ },
+ {
+  "task_id": "promotion-2019#16",
+  "finding": "Birdshot retinochoroidopathy fundus - multiple cream-coloured to yellow-orange ovoid choroidal lesions radiating from the disc toward the periphery, mainly nasal/inferonasal, with vitritis.",
+  "links": [
+   {
+    "title": "Birdshot Retinochoroidopathy - EyeWiki",
+    "url": "https://eyewiki.aao.org/Birdshot_Retinochoroidopathy",
+    "source": "EyeWiki",
+    "shows": "Fundus photograph of the characteristic birdshot lesion pattern plus an angiography image; text gives the HLA-A29 association as 80-98% of patients versus ~7% of the general population, a 50- to 224-fold relative risk",
+    "verified": true
+   }
+  ],
+  "notes": "This is a pure knowledge question - HLA-A29/birdshot is the strongest known HLA-disease association in medicine (relative risk in the hundreds), far exceeding HLA-B27 with ankylosing spondylitis (~90% of patients but much lower relative risk) and HLA-B27 with psoriatic arthritis. If a figure is attached it should be a birdshot fundus."
+ },
+ {
+  "task_id": "promotion-2019#22",
+  "finding": "Gonioscopy of a narrow (occludable) but still open anterior chamber angle - trabecular meshwork not visible for most of the circumference, no PAS and no angle neovascularisation - in a patient with intermittent/subacute angle closure.",
+  "links": [
+   {
+    "title": "Primary vs. Secondary Angle Closure Glaucoma - EyeWiki",
+    "url": "https://eyewiki.aao.org/Primary_vs._Secondary_Angle_Closure_Glaucoma",
+    "source": "EyeWiki",
+    "shows": "Describes subacute/intermittent angle-closure attacks that resolve spontaneously with blurring, haloes, mild-to-moderate eye pain, brow ache or headache; defines occludable angles (posterior pigmented trabecular meshwork visible for less than 90 degrees, or angle width under 20 degrees). Includes three gonioscopy photographs",
+    "verified": true
+   },
+   {
+    "title": "Gonioscopy - EyeWiki",
+    "url": "https://eyewiki.aao.org/Gonioscopy",
+    "source": "EyeWiki",
+    "shows": "Angle anatomy (Schwalbe line, trabecular meshwork, scleral spur, ciliary body band) and the Shaffer, Scheie, Spaeth and Van Herick grading systems for narrow angles, with two gonioscopic photographs",
+    "verified": true
+   }
+  ],
+  "notes": "The history of headache and haloes that resolve spontaneously is intermittent (subacute) angle closure. Between attacks the angle is simply narrow/occludable - answer A. PAS would only be expected after repeated or chronic closure, and NVA belongs to neovascular glaucoma, which does not resolve spontaneously."
+ },
+ {
+  "task_id": "promotion-2019#23",
+  "finding": "Coronal CT of the orbit showing an orbital floor (blowout) fracture with the inferior rectus herniated into the maxillary sinus - the trapdoor/white-eyed pattern in a child with restricted upgaze.",
+  "links": [
+   {
+    "title": "White-Eyed Blow Out Fracture - EyeWiki",
+    "url": "https://eyewiki.aao.org/White-Eyed_Blow_Out_Fracture",
+    "source": "EyeWiki",
+    "shows": "Composite image of clinical examination, CT demonstrating the fracture with inferior rectus entrapment, transconjunctival repair and post-op improvement; describes the paediatric hinged trapdoor mechanism and the 'missing muscle sign'",
+    "verified": true
+   },
+   {
+    "title": "Orbital Floor Fractures - EyeWiki",
+    "url": "https://eyewiki.aao.org/Orbital_Floor_Fractures",
+    "source": "EyeWiki",
+    "shows": "CT image of a large left orbital floor fracture; covers herniation, dysmotility, thin-cut coronal CT protocol and the conventional indications/timing for repair",
+    "verified": true
+   }
+  ],
+  "notes": "Important discrepancy to flag: the recorded answer is B ('wait 5 days'), but current teaching splits by phenotype. A paediatric trapdoor / white-eyed blowout with true muscle entrapment (nausea, vomiting, bradycardia, severely restricted upgaze) needs release within 24-48 hours - EyeWiki says so explicitly. Only a large floor fracture with herniation but WITHOUT clinical entrapment is observed, usually for 1-2 weeks, and repaired if diplopia or enophthalmos persists at 2-3 weeks. Since this stem says 'large orbital floor fracture with herniation', short observation is defensible, but the student should know the entrapment exception."
+ },
+ {
+  "task_id": "promotion-2019#31",
+  "finding": "Oculocutaneous albinism - markedly hypopigmented skin, white/blond hair and light irides, with iris transillumination defects, nystagmus, a hypopigmented fundus and foveal hypoplasia on OCT.",
+  "links": [
+   {
+    "title": "Albinism - EyeWiki",
+    "url": "https://eyewiki.aao.org/Albinism",
+    "source": "EyeWiki",
+    "shows": "Three slit-lamp/fundus/OCT images showing iris transillumination and foveal hypoplasia; explicitly states all types are inherited in an autosomal recessive manner and are found in both males and females",
+    "verified": true
+   },
+   {
+    "title": "Oculocutaneous albinism - MedlinePlus Genetics (NIH)",
+    "url": "https://medlineplus.gov/genetics/condition/oculocutaneous-albinism/",
+    "source": "NIH / MedlinePlus Genetics",
+    "shows": "Clinical description (very fair skin, white or light hair, reduced iris and retinal pigment, reduced acuity, nystagmus, strabismus, photophobia) and the inheritance statement that both gene copies must carry a variant and that carrier parents typically show no signs",
+    "verified": true
+   }
+  ],
+  "notes": "Autosomal recessive: unaffected carrier parents with an affected paternal uncle. Each pregnancy carries a 25% recurrence risk - answer B. If a figure is attached it should be a child with hypopigmented skin/hair and light irides, or iris transillumination."
+ },
+ {
+  "task_id": "promotion-2019#33",
+  "finding": "Ulcerated lower-eyelid malignancy - an indurated nodule/plaque with a red base and well-defined, hardened, everted edges (squamous cell carcinoma), with histology showing keratin pearls and intercellular bridges.",
+  "links": [
+   {
+    "title": "Squamous Carcinoma of the Eyelid - EyeWiki",
+    "url": "https://eyewiki.aao.org/Squamous_Carcinoma_of_the_Eyelid",
+    "source": "EyeWiki",
+    "shows": "Clinical photograph of an ulcerated pre-surgical lesion plus histology photomicrographs of keratin pearl formation and intercellular bridges; describes the ulcerating SCC red base with hardened everted edges, lower-lid predilection and full-thickness biopsy as the diagnostic gold standard",
+    "verified": true
+   },
+   {
+    "title": "Basal Cell Carcinoma - EyeWiki",
+    "url": "https://eyewiki.aao.org/Basal_Cell_Carcinoma",
+    "source": "EyeWiki",
+    "shows": "Two clinical photographs of eyelid basal cell carcinoma including the morpheaform type, with ulceration, telangiectasia and madarosis - the main clinical mimic to compare against",
+    "verified": true
+   }
+  ],
+  "notes": "The recorded answer is A (squamous), driven by the biopsy histology, not the clinical photo alone - BCC is far commoner on the lower lid and looks similar clinically, so an ulcerated lower-lid mass by itself does not decide it. If the attached figure is a histology slide, look for keratin pearls and intercellular bridges (SCC) versus peripheral palisading nests (BCC); seborrhoeic keratosis is benign 'stuck-on' and sebaceous carcinoma classically mimics chalazion or blepharitis with madarosis."
+ },
+ {
+  "task_id": "promotion-2019#40",
+  "finding": "Thyroid eye disease - proptosis with upper and lower lid retraction and enlarged extraocular muscles on CT; the rehabilitative surgical sequence is decompression, then strabismus surgery, then eyelid surgery.",
+  "links": [
+   {
+    "title": "Thyroid Eye Disease - EyeWiki",
+    "url": "https://eyewiki.aao.org/Thyroid_Eye_Disease",
+    "source": "EyeWiki",
+    "shows": "Axial CT of exophthalmos with enlarged extraocular muscles and a clinical photograph of upper and lower lid retraction with MRD1/MRD2 measurements; states strabismus surgery should be considered only after orbital decompression is complete and alignment stable, with lid retraction repair/tarsorrhaphy after that",
+    "verified": true
+   },
+   {
+    "title": "Orbital Decompression - EyeWiki",
+    "url": "https://eyewiki.aao.org/Orbital_Decompression",
+    "source": "EyeWiki",
+    "shows": "Before-and-after clinical photographs of a thyroid eye disease patient following bilateral orbital decompression, plus orbital bone anatomy; states strabismus surgery to correct diplopia or misalignment should occur after orbital decompression has been completed",
+    "verified": true
+   }
+  ],
+  "notes": "Answer A - decompression comes first because it changes globe position and therefore alters both ocular alignment and lid position. Strabismus surgery follows once measurements are stable (3-6 months), and lid surgery is last because both preceding steps change lid height. Surgery is only for the inactive/stable (fibrotic) phase, except for emergency decompression in compressive optic neuropathy."
+ }
+]

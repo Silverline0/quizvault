@@ -49,7 +49,28 @@
   "imageUrl": "/images/promotion/p140_4f03610357.jpg",
   "imageUrls": [
    "/images/promotion/p140_652166e652.jpg"
-  ]
+  ],
+  "referenceLinks": [
+   {
+    "title": "Subconjunctival Hemorrhage - EyeWiki",
+    "url": "https://eyewiki.aao.org/Subconjunctival_Hemorrhage",
+    "source": "EyeWiki",
+    "shows": "States that a 360-degree subconjunctival hemorrhage may be a suggestive sign of occult globe rupture where zone II and III injuries cannot be excluded due to decreased visualisation; recommends imaging and consideration of globe exploration. Includes a photograph of subconjunctival haemorrhage"
+   },
+   {
+    "title": "Ruptured Globe - EyeWiki",
+    "url": "https://eyewiki.aao.org/Ruptured_Globe",
+    "source": "EyeWiki",
+    "shows": "BETT classification diagram and the inside-out blunt rupture mechanism, with rupture sites at the limbus and behind the rectus insertions - the areas a peritomy must expose"
+   },
+   {
+    "title": "Scleral and Limbic Lacerations - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK580563/",
+    "source": "NCBI Bookshelf / StatPearls",
+    "shows": "Clinical photographs of limbal laceration with uveal prolapse and an inferotemporal scleral tear; describes conjunctival peritomy as the first surgical step to assess the true extent of a scleral laceration"
+   }
+  ],
+  "figureFinding": "Post-traumatic conjunctival laceration with ballooning/bullous (often 360-degree) subconjunctival haemorrhage and chemosis obscuring the sclera - the classic appearance of a suspected OCCULT scleral rupture."
  },
  {
   "id": 4,
@@ -262,7 +283,16 @@
   "subspecialty": "Uveitis",
   "pdfPage": 185,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p185_074716a7d6.jpg"
+  "imageUrl": "/images/promotion/p185_074716a7d6.jpg",
+  "referenceLinks": [
+   {
+    "title": "Birdshot Retinochoroidopathy - EyeWiki",
+    "url": "https://eyewiki.aao.org/Birdshot_Retinochoroidopathy",
+    "source": "EyeWiki",
+    "shows": "Fundus photograph of the characteristic birdshot lesion pattern plus an angiography image; text gives the HLA-A29 association as 80-98% of patients versus ~7% of the general population, a 50- to 224-fold relative risk"
+   }
+  ],
+  "figureFinding": "Birdshot retinochoroidopathy fundus - multiple cream-coloured to yellow-orange ovoid choroidal lesions radiating from the disc toward the periphery, mainly nasal/inferonasal, with vitritis."
  },
  {
   "id": 17,
@@ -364,7 +394,22 @@
    "/images/promotion/p202_1aafd6de31.jpg",
    "/images/promotion/p202_7c3f66858e.jpg",
    "/images/promotion/p196_fdedae8b6e.jpg"
-  ]
+  ],
+  "referenceLinks": [
+   {
+    "title": "Primary vs. Secondary Angle Closure Glaucoma - EyeWiki",
+    "url": "https://eyewiki.aao.org/Primary_vs._Secondary_Angle_Closure_Glaucoma",
+    "source": "EyeWiki",
+    "shows": "Describes subacute/intermittent angle-closure attacks that resolve spontaneously with blurring, haloes, mild-to-moderate eye pain, brow ache or headache; defines occludable angles (posterior pigmented trabecular meshwork visible for less than 90 degrees, or angle width under 20 degrees). Includes three gonioscopy photographs"
+   },
+   {
+    "title": "Gonioscopy - EyeWiki",
+    "url": "https://eyewiki.aao.org/Gonioscopy",
+    "source": "EyeWiki",
+    "shows": "Angle anatomy (Schwalbe line, trabecular meshwork, scleral spur, ciliary body band) and the Shaffer, Scheie, Spaeth and Van Herick grading systems for narrow angles, with two gonioscopic photographs"
+   }
+  ],
+  "figureFinding": "Gonioscopy of a narrow (occludable) but still open anterior chamber angle - trabecular meshwork not visible for most of the circumference, no PAS and no angle neovascularisation - in a patient with intermittent/subacute angle closure."
  },
  {
   "id": 23,
@@ -382,7 +427,22 @@
   "subspecialty": "Pediatrics",
   "pdfPage": 218,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p218_801211bae1.jpg"
+  "imageUrl": "/images/promotion/p218_801211bae1.jpg",
+  "referenceLinks": [
+   {
+    "title": "White-Eyed Blow Out Fracture - EyeWiki",
+    "url": "https://eyewiki.aao.org/White-Eyed_Blow_Out_Fracture",
+    "source": "EyeWiki",
+    "shows": "Composite image of clinical examination, CT demonstrating the fracture with inferior rectus entrapment, transconjunctival repair and post-op improvement; describes the paediatric hinged trapdoor mechanism and the 'missing muscle sign'"
+   },
+   {
+    "title": "Orbital Floor Fractures - EyeWiki",
+    "url": "https://eyewiki.aao.org/Orbital_Floor_Fractures",
+    "source": "EyeWiki",
+    "shows": "CT image of a large left orbital floor fracture; covers herniation, dysmotility, thin-cut coronal CT protocol and the conventional indications/timing for repair"
+   }
+  ],
+  "figureFinding": "Coronal CT of the orbit showing an orbital floor (blowout) fracture with the inferior rectus herniated into the maxillary sinus - the trapdoor/white-eyed pattern in a child with restricted upgaze."
  },
  {
   "id": 24,
@@ -507,7 +567,22 @@
   "subspecialty": "Pediatrics",
   "pdfPage": 225,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p225_362cdc8554.jpg"
+  "imageUrl": "/images/promotion/p225_362cdc8554.jpg",
+  "referenceLinks": [
+   {
+    "title": "Albinism - EyeWiki",
+    "url": "https://eyewiki.aao.org/Albinism",
+    "source": "EyeWiki",
+    "shows": "Three slit-lamp/fundus/OCT images showing iris transillumination and foveal hypoplasia; explicitly states all types are inherited in an autosomal recessive manner and are found in both males and females"
+   },
+   {
+    "title": "Oculocutaneous albinism - MedlinePlus Genetics (NIH)",
+    "url": "https://medlineplus.gov/genetics/condition/oculocutaneous-albinism/",
+    "source": "NIH / MedlinePlus Genetics",
+    "shows": "Clinical description (very fair skin, white or light hair, reduced iris and retinal pigment, reduced acuity, nystagmus, strabismus, photophobia) and the inheritance statement that both gene copies must carry a variant and that carrier parents typically show no signs"
+   }
+  ],
+  "figureFinding": "Oculocutaneous albinism - markedly hypopigmented skin, white/blond hair and light irides, with iris transillumination defects, nystagmus, a hypopigmented fundus and foveal hypoplasia on OCT."
  },
  {
   "id": 32,
@@ -545,7 +620,22 @@
    "/images/promotion/p242_176add9787.jpg",
    "/images/promotion/p080_a592a35d78.png",
    "/images/promotion/p242_62a54d4f31.jpg"
-  ]
+  ],
+  "referenceLinks": [
+   {
+    "title": "Squamous Carcinoma of the Eyelid - EyeWiki",
+    "url": "https://eyewiki.aao.org/Squamous_Carcinoma_of_the_Eyelid",
+    "source": "EyeWiki",
+    "shows": "Clinical photograph of an ulcerated pre-surgical lesion plus histology photomicrographs of keratin pearl formation and intercellular bridges; describes the ulcerating SCC red base with hardened everted edges, lower-lid predilection and full-thickness biopsy as the diagnostic gold standard"
+   },
+   {
+    "title": "Basal Cell Carcinoma - EyeWiki",
+    "url": "https://eyewiki.aao.org/Basal_Cell_Carcinoma",
+    "source": "EyeWiki",
+    "shows": "Two clinical photographs of eyelid basal cell carcinoma including the morpheaform type, with ulceration, telangiectasia and madarosis - the main clinical mimic to compare against"
+   }
+  ],
+  "figureFinding": "Ulcerated lower-eyelid malignancy - an indurated nodule/plaque with a red base and well-defined, hardened, everted edges (squamous cell carcinoma), with histology showing keratin pearls and intercellular bridges."
  },
  {
   "id": 34,
@@ -661,7 +751,22 @@
   "subspecialty": "Oculoplastics",
   "pdfPage": 248,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p248_86f031c72f.jpg"
+  "imageUrl": "/images/promotion/p248_86f031c72f.jpg",
+  "referenceLinks": [
+   {
+    "title": "Thyroid Eye Disease - EyeWiki",
+    "url": "https://eyewiki.aao.org/Thyroid_Eye_Disease",
+    "source": "EyeWiki",
+    "shows": "Axial CT of exophthalmos with enlarged extraocular muscles and a clinical photograph of upper and lower lid retraction with MRD1/MRD2 measurements; states strabismus surgery should be considered only after orbital decompression is complete and alignment stable, with lid retraction repair/tarsorrhaphy after that"
+   },
+   {
+    "title": "Orbital Decompression - EyeWiki",
+    "url": "https://eyewiki.aao.org/Orbital_Decompression",
+    "source": "EyeWiki",
+    "shows": "Before-and-after clinical photographs of a thyroid eye disease patient following bilateral orbital decompression, plus orbital bone anatomy; states strabismus surgery to correct diplopia or misalignment should occur after orbital decompression has been completed"
+   }
+  ],
+  "figureFinding": "Thyroid eye disease - proptosis with upper and lower lid retraction and enlarged extraocular muscles on CT; the rehabilitative surgical sequence is decompression, then strabismus surgery, then eyelid surgery."
  },
  {
   "id": 41,
@@ -677,7 +782,28 @@
   "subspecialty": "Oculoplastics",
   "pdfPage": 248,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p249_baa92ef702.jpg"
+  "imageUrl": "/images/promotion/p249_baa92ef702.jpg",
+  "referenceLinks": [
+   {
+    "title": "Dysthyroid Optic Neuropathy — EyeWiki",
+    "url": "https://eyewiki.aao.org/Dysthyroid_Optic_Neuropathy",
+    "source": "EyeWiki",
+    "shows": "Coronal and axial CT of orbital apex crowding with prominent enlargement of all four recti in a patient with vision reduced to CF and 20/200; states urgent decompression is indicated if optic nerve function does not improve within 2 weeks of medical therapy"
+   },
+   {
+    "title": "Orbital Decompression — EyeWiki",
+    "url": "https://eyewiki.aao.org/Orbital_Decompression",
+    "source": "EyeWiki",
+    "shows": "Explicit split of urgent (sight-threatening: optic neuropathy, severe surface disease, globe subluxation) versus non-urgent indications (diplopia, orbital pain, proptosis); orbital bone illustration, CT of exophthalmos, and before/after clinical photos of bilateral decompression"
+   },
+   {
+    "title": "Thyroid Eye Disease — EyeWiki",
+    "url": "https://eyewiki.aao.org/Thyroid_Eye_Disease",
+    "source": "EyeWiki",
+    "shows": "Axial CT with exophthalmos and asterisked enlarged extraocular muscles, eyelid retraction with MRD1/MRD2 measurement, and before/after treatment photos"
+   }
+  ],
+  "figureFinding": "Thyroid eye disease with compressive (dysthyroid) optic neuropathy: proptosis, enlarged recti crowding the orbital apex on CT — the sight-threatening indication for urgent orbital decompression."
  },
  {
   "id": 42,
@@ -728,7 +854,28 @@
   "imageUrl": "/images/promotion/p269_36daa498c3.jpg",
   "imageUrls": [
    "/images/promotion/p269_dbcc2f5d86.jpg"
-  ]
+  ],
+  "referenceLinks": [
+   {
+    "title": "Oculomotor Apraxia — EyeWiki",
+    "url": "https://eyewiki.aao.org/Oculomotor_Apraxia",
+    "source": "EyeWiki",
+    "shows": "Text description of head thrusting/blinking to bring an object into gaze, the VOR mechanism, saccadic hypometria and 'locking up'. Note: this page has NO figures — it is a text reference only"
+   },
+   {
+    "title": "Congenital Ocular Motor Apraxia — Moran CORE (University of Utah)",
+    "url": "https://morancore.utah.edu/section-06-pediatric-ophthalmology-and-strabismus/congenital-ocular-motor-apraxia/",
+    "source": "Moran CORE / Moran-NOVEL Collection",
+    "shows": "Narrated video examination of a pediatric patient with ocular motor apraxia by Dr. Kathleen Digre — the moving eye/head exam is the useful part here"
+   },
+   {
+    "title": "Oculomotor Apraxia — AAPOS glossary",
+    "url": "https://www.aapos.org/glossary/oculomotor-apraxia",
+    "source": "AAPOS (American Association for Pediatric Ophthalmology and Strabismus)",
+    "shows": "Plain-language statement that OMA 'makes it hard to move the eyes from side to side' and that children move the head quickly instead. No images on the page"
+   }
+  ],
+  "figureFinding": "Congenital (Cogan-type) ocular motor apraxia: inability to initiate voluntary HORIZONTAL saccades, with compensatory jerky head thrusts (and blinking) that drag the eyes across via the vestibulo-ocular reflex. Vertical saccades and pursuit are spared."
  },
  {
   "id": 45,

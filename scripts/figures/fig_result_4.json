@@ -1,0 +1,394 @@
+[
+  {
+    "task_id": "promotion-2022#27",
+    "finding": "Encapsulated bleb (Tenon cyst) over the extraocular plate of a glaucoma drainage device — the tense, dome-shaped, vascularized capsule seen at 4-8 weeks that causes the 'hypertensive phase' of raised IOP",
+    "links": [
+      {
+        "title": "Glaucoma Drainage Devices — EyeWiki",
+        "url": "https://eyewiki.org/Glaucoma_Drainage_Devices",
+        "source": "EyeWiki",
+        "shows": "Device/plate anatomy plus a dedicated discussion of the hypertensive phase and capsule encapsulation around the endplate as the cause of IOP rise weeks after implantation",
+        "verified": true
+      },
+      {
+        "title": "Encapsulated Bleb — Columbia Digital Reference of Ophthalmology",
+        "url": "https://www.vagelos.columbia.edu/departments-centers/ophthalmology/education/digital-reference-ophthalmology/glaucoma/surgery-and-complications/encapsulated-bleb",
+        "source": "Columbia University (Vagelos) teaching atlas",
+        "shows": "Clinical photograph captioned 'Encapsulated filtering bleb (Tenon's cyst)' with the associated elevated IOP",
+        "verified": true
+      }
+    ],
+    "notes": "The right figure is a slit-lamp photo of a tense, elevated, injected bleb over the tube plate — not a gonioscopy or disc photo. Timing (4-8 weeks) is the giveaway for the hypertensive phase."
+  },
+  {
+    "task_id": "promotion-2022#34",
+    "finding": "Orbital cellulitis distinguished from preseptal cellulitis: restricted/painful extraocular movements (ophthalmoplegia) and proptosis, with lid swelling common to both",
+    "links": [
+      {
+        "title": "Orbital Cellulitis — EyeWiki",
+        "url": "https://eyewiki.org/Orbital_Cellulitis",
+        "source": "EyeWiki",
+        "shows": "Clinical presentation with proptosis, ophthalmoplegia and motility restriction, explicitly contrasted against preseptal disease",
+        "verified": true
+      },
+      {
+        "title": "Preseptal Cellulitis — EyeWiki",
+        "url": "https://eyewiki.org/Preseptal_Cellulitis",
+        "source": "EyeWiki",
+        "shows": "The contrasting picture — lid oedema and erythema with normal motility and no proptosis",
+        "verified": true
+      },
+      {
+        "title": "Orbital Cellulitis — StatPearls, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK507901/",
+        "source": "StatPearls / NCBI Bookshelf",
+        "shows": "States directly that the most important distinguishing feature is ophthalmoplegia, pain with eye movement and/or proptosis",
+        "verified": true
+      }
+    ],
+    "notes": "The answer key picks 'EOM limitation on adduction'. Fever, leucocytosis and 2 mm of proptosis all overlap or are too non-specific; motility limitation is the discriminator."
+  },
+  {
+    "task_id": "promotion-2022#39",
+    "finding": "Septic cavernous sinus thrombosis — proptosis, chemosis, periorbital oedema and multiple cranial neuropathies (ophthalmoplegia); antibiotics are the first-line treatment",
+    "links": [
+      {
+        "title": "Cavernous Sinus Thrombosis — StatPearls, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK448177/",
+        "source": "StatPearls / NCBI Bookshelf",
+        "shows": "Ocular findings in ~90% (periorbital oedema, chemosis, proptosis, progressive ophthalmoplegia) and management with broad-spectrum antimicrobials as primary therapy, anticoagulation only as adjunct",
+        "verified": true
+      },
+      {
+        "title": "Cavernous Sinus Syndrome — EyeWiki",
+        "url": "https://eyewiki.org/Cavernous_Sinus_Syndrome",
+        "source": "EyeWiki",
+        "shows": "Imaging and clinical signs of cavernous sinus pathology including thrombosis, proptosis and chemosis",
+        "verified": true
+      },
+      {
+        "title": "Horner Syndrome — EyeWiki",
+        "url": "https://eyewiki.org/Horner_Syndrome",
+        "source": "EyeWiki",
+        "shows": "Pharmacologic testing of anisocoria with cocaine and apraclonidine — covers the stray sentence pasted into this stem",
+        "verified": true
+      }
+    ],
+    "notes": "This record is corrupted: a Horner-syndrome cocaine-test note has been pasted over the real stem, whose options belong to a cavernous sinus thrombosis question ('not alert, what would you give now?' -> antibiotics). Links cover both readings; the CST links match the answer key. Worth flagging the record for text repair rather than just a figure fix."
+  },
+  {
+    "task_id": "promotion-2023#2",
+    "finding": "Uncertain. Best inference from context: slit-lamp photo of prominent/enlarged corneal nerves, whose causes (neurofibromatosis, MEN 2A/2B, mucosal neuroma syndrome) are autosomal dominant",
+    "links": [
+      {
+        "title": "Prominent Corneal Nerves — EyeWiki",
+        "url": "https://eyewiki.org/Prominent_Corneal_Nerves",
+        "source": "EyeWiki",
+        "shows": "Slit-lamp appearance of enlarged corneal nerves and the full differential (neurofibromatosis, multiple endocrine neoplasia, leprosy, keratoconus)",
+        "verified": true
+      },
+      {
+        "title": "Prominent corneal nerves in pure mucosal neuroma syndrome — BMC Ophthalmology (PMC)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10258932/",
+        "source": "PMC",
+        "shows": "Slit-lamp photographs of markedly prominent bilateral corneal nerves, with the MEN2B / NF1 / leprosy differential and the autosomal dominant inheritance",
+        "verified": true
+      }
+    ],
+    "notes": "LOW CONFIDENCE. The stem only says 'the exact same picture' with no self-contained description. The preceding question (2023 #1) lists 'enlarged corneal nerves' among its options and the 2024 paper asks the identical enlarged-corneal-nerve picture question, and NF/MEN2B are autosomal dominant — which fits answer A. But this is an inference, not a certainty; do not present these links as the definitive figure without checking the source PDF page 86."
+  },
+  {
+    "task_id": "promotion-2023#19",
+    "finding": "Excimer laser mechanism — 193 nm argon-fluoride ultraviolet photoablation that breaks covalent bonds without thermal spread to adjacent tissue",
+    "links": [
+      {
+        "title": "Laser Principles in Ophthalmology — StatPearls, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK582153/",
+        "source": "StatPearls / NCBI Bookshelf",
+        "shows": "Photoablation defined as UV dissociation of covalent bonds without heat transfer; names the argon-fluoride excimer at 193 nm and its use in PRK/LASIK",
+        "verified": true
+      },
+      {
+        "title": "Photorefractive Keratectomy — EyeWiki",
+        "url": "https://eyewiki.org/Photorefractive_Keratectomy",
+        "source": "EyeWiki",
+        "shows": "Clinical application of excimer ablation to reshape the corneal stroma",
+        "verified": true
+      }
+    ],
+    "notes": "This question needs no figure — it is a pure text/physics question and was probably mis-flagged as picture-dependent. The references are for the concept: excimer = 'excited dimer' (ArF, not argon+neon), 193 nm (not 250), photoablation, minimal adjacent damage."
+  },
+  {
+    "task_id": "promotion-2023#29",
+    "finding": "Encapsulated bleb (Tenon cyst) over the extraocular plate of a glaucoma drainage device causing the hypertensive phase of raised IOP at 4-8 weeks",
+    "links": [
+      {
+        "title": "Glaucoma Drainage Devices — EyeWiki",
+        "url": "https://eyewiki.org/Glaucoma_Drainage_Devices",
+        "source": "EyeWiki",
+        "shows": "Hypertensive phase and encapsulation/fibrosis of the capsule around the endplate as the usual cause of IOP rise weeks after tube surgery",
+        "verified": true
+      },
+      {
+        "title": "Encapsulated Bleb — Columbia Digital Reference of Ophthalmology",
+        "url": "https://www.vagelos.columbia.edu/departments-centers/ophthalmology/education/digital-reference-ophthalmology/glaucoma/surgery-and-complications/encapsulated-bleb",
+        "source": "Columbia University (Vagelos) teaching atlas",
+        "shows": "Clinical photograph of an encapsulated filtering bleb / Tenon's cyst with raised IOP",
+        "verified": true
+      }
+    ],
+    "notes": "Duplicate of promotion-2022 #27; same references apply."
+  },
+  {
+    "task_id": "promotion-2023#33",
+    "finding": "Over-filtration on day 1 after trabeculectomy — large diffuse bleb, shallow anterior chamber, IOP 2, annular choroidal detachment/effusion, Seidel negative",
+    "links": [
+      {
+        "title": "Managing Choroidal Effusions after Glaucoma Filtration Surgery — EyeWiki",
+        "url": "https://eyewiki.org/Managing_Choroidal_Effusions_after_Glaucoma_Filtration_Surgery",
+        "source": "EyeWiki",
+        "shows": "Post-filtration hypotony with shallow anterior chamber and choroidal effusion, including the role of the Seidel test in separating over-filtration from a bleb leak",
+        "verified": true
+      },
+      {
+        "title": "Trabeculectomy — EyeWiki",
+        "url": "https://eyewiki.org/Trabeculectomy",
+        "source": "EyeWiki",
+        "shows": "Bleb appearance and the early complication set: over-filtration, shallow AC, hypotony, choroidal detachment",
+        "verified": true
+      },
+      {
+        "title": "Hypotony Maculopathy — EyeWiki",
+        "url": "https://eyewiki.org/Hypotony_Maculopathy",
+        "source": "EyeWiki",
+        "shows": "Downstream consequence of the same over-filtration state, with imaging",
+        "verified": true
+      }
+    ],
+    "notes": "The correct figure is a large, elevated, diffuse bleb (and/or a choroidal detachment on fundus/B-scan). A negative Seidel plus a LARGE bleb is what excludes a leak and points to over-filtration rather than option B."
+  },
+  {
+    "task_id": "promotion-2023#39",
+    "finding": "Late-onset bleb-related endophthalmitis — inflamed white bleb with surrounding injection, hypopyon and vitritis months to years after trabeculectomy; Streptococcus species (gram-positive cocci in chains) predominate",
+    "links": [
+      {
+        "title": "Bleb Associated Infections — EyeWiki",
+        "url": "https://eyewiki.org/Bleb_Associated_Infections",
+        "source": "EyeWiki",
+        "shows": "Blebitis and bleb-associated endophthalmitis appearance, and the early- vs late-onset organism split with Streptococcus dominating late cases",
+        "verified": true
+      },
+      {
+        "title": "Bleb-related Endophthalmitis: Clinical Presentation, Isolates, Treatment and Visual Outcome of Culture-proven Cases (PMC)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2813581/",
+        "source": "PMC",
+        "shows": "Culture data: Streptococcus species 55% of vitreous isolates, coagulase-negative staphylococci 20%",
+        "verified": true
+      }
+    ],
+    "notes": "6 months post-op = late onset, so Streptococcus (gram-positive cocci in chains) is the expected isolate, matching answer A. The figure should be an external photo of an infected bleb with hypopyon."
+  },
+  {
+    "task_id": "promotion-2023#42",
+    "finding": "Most likely central retinal vein occlusion — fundus with diffuse four-quadrant flame haemorrhages, dilated tortuous veins and disc oedema; fluorescein angiography grades capillary non-perfusion (ischaemic vs non-ischaemic) and is what predicts visual outcome",
+    "links": [
+      {
+        "title": "Central Retinal Vein Occlusion — EyeWiki",
+        "url": "https://eyewiki.org/Central_Retinal_Vein_Occlusion",
+        "source": "EyeWiki",
+        "shows": "Fundus and fluorescein angiography images; ischaemic classification by area of capillary non-perfusion on FA and its link to visual acuity outcome",
+        "verified": true
+      },
+      {
+        "title": "Atlas Entry — Central Retinal Vein Occlusion (CRVO), EyeRounds",
+        "url": "https://webeye.ophth.uiowa.edu/eyeforum/atlas/pages/CRVO/index.htm",
+        "source": "EyeRounds (University of Iowa)",
+        "shows": "Side-by-side labelled fundus photographs of ischaemic vs non-ischaemic CRVO",
+        "verified": true
+      }
+    ],
+    "notes": "MODERATE CONFIDENCE on the underlying condition. The stem gives no description, but 'fluorescein angiography predicts visual outcome' is the classic retinal-vein-occlusion / capillary non-perfusion teaching point, which is why FA beats OCT and ICG here. If the source figure turns out to be a branch RVO the same FA principle applies."
+  },
+  {
+    "task_id": "promotion-2023#64",
+    "finding": "Small full-thickness eyelid defect after excision of a lid-margin lesion — defects up to roughly a quarter to a third of the lid are closed directly (primary closure); a Tenzel semicircular flap is reserved for larger defects",
+    "links": [
+      {
+        "title": "Eyelid Reconstruction — EyeWiki",
+        "url": "https://eyewiki.org/Eyelid_Reconstruction",
+        "source": "EyeWiki",
+        "shows": "Reconstruction algorithm by defect size with many intraoperative photographs — direct/primary closure for small defects, Tenzel semicircular flap for moderate ones",
+        "verified": true
+      }
+    ],
+    "notes": "LOW-MODERATE CONFIDENCE on which lesion was pictured (the stem only says 'this picture'; neighbouring questions in the bank are oculoplastics/lacrimal). What the reader actually needs is the defect-size reconstruction ladder, since the two options are precisely primary closure vs semicircular (Tenzel) flap."
+  },
+  {
+    "task_id": "promotion-2023#67",
+    "finding": "Conjunctival lymphoma — smooth, mobile, salmon-pink 'salmon patch' in the fornix/bulbar conjunctiva, with sheets of small monotonous lymphocytes on histopathology; localized disease is treated with external beam radiotherapy",
+    "links": [
+      {
+        "title": "Conjunctival Lymphoma — EyeWiki",
+        "url": "https://eyewiki.org/Conjunctival_Lymphoma",
+        "source": "EyeWiki",
+        "shows": "Salmon-patch presentation, histopathologic subtypes, and external beam radiotherapy as treatment of choice for indolent localized EMZL",
+        "verified": true
+      },
+      {
+        "title": "Diagnosis and Treatment of Conjunctival Lymphoma — AAO EyeNet",
+        "url": "https://www.aao.org/eyenet/article/diagnosis-treatment-of-conjunctival-lymphoma",
+        "source": "American Academy of Ophthalmology (EyeNet)",
+        "shows": "Clinical photographs of a salmon-pink conjunctival lesion before and one month after 30 Gy external beam radiotherapy",
+        "verified": true
+      }
+    ],
+    "notes": "Answer B (radiotherapy) is correct specifically because the stem says a LARGE patch with no systemic involvement — i.e. localized disease. Observation suits only tiny/indolent lesions and chemotherapy is for systemic disease."
+  },
+  {
+    "task_id": "promotion-2023#77",
+    "finding": "Morning glory disc anomaly — enlarged funnel-shaped excavated disc with a central glial tuft, surrounding chorioretinal pigment ring and straightened radial vessels; acuity ranges widely, from near-normal down to light perception",
+    "links": [
+      {
+        "title": "Morning Glory Anomaly — EyeWiki",
+        "url": "https://eyewiki.org/Morning_Glory_Anomaly",
+        "source": "EyeWiki",
+        "shows": "Fundus photographs of the classic disc appearance and the reported visual acuity range including 20/20-level vision at the good end",
+        "verified": true
+      },
+      {
+        "title": "Morning Glory Disc Anomaly — EyeRounds case 354 (University of Iowa)",
+        "url": "https://eyerounds.org/cases/354-morning-glory-disc-anomaly.htm",
+        "source": "EyeRounds (University of Iowa)",
+        "shows": "Colour fundus photos of an affected left eye (deep cup, peripapillary atrophy/gliosis, straight radial vessels) with the fellow normal eye; acuity in the affected eye was counting fingers",
+        "verified": true
+      }
+    ],
+    "notes": "Answer C is the wide-range option — vision is highly variable, so any answer that fixes vision at a single level (NLP, HM-CF, better than 20/80) is wrong."
+  },
+  {
+    "task_id": "promotion-2023#86",
+    "finding": "Adult chlamydial (inclusion) conjunctivitis — Giemsa-stained conjunctival scraping showing basophilic intracytoplasmic inclusion bodies (Halberstaedter-Prowazek bodies) in epithelial cells, with chronic follicular conjunctivitis clinically",
+    "links": [
+      {
+        "title": "Adult Chlamydial Conjunctivitis: 23-year-old male with chronic red eyes — EyeRounds (University of Iowa)",
+        "url": "https://webeye.ophth.uiowa.edu/eyeforum/cases/68-Adult-Chlamydial-Conjunctivitis-Red-Eyes-Chronic.htm",
+        "source": "EyeRounds (University of Iowa)",
+        "shows": "Clinical photographs of chronic follicular conjunctivitis in a young man, plus the histopathology point that basophilic intracytoplasmic inclusions on Giemsa are the classic finding",
+        "verified": true
+      },
+      {
+        "title": "Trachoma — EyeWiki",
+        "url": "https://eyewiki.org/Trachoma",
+        "source": "EyeWiki",
+        "shows": "Chlamydia trachomatis ocular disease including Giemsa-stained inclusion body diagnosis and follicular conjunctival findings",
+        "verified": true
+      }
+    ],
+    "notes": "The pathology discriminator against option B: Neisseria gonorrhoeae would show gram-negative intracellular diplococci with a hyperacute purulent picture, not intracytoplasmic inclusions in epithelial cells."
+  },
+  {
+    "task_id": "promotion-2023#87",
+    "finding": "Sebaceous (gland) carcinoma of the eyelid on histopathology — lobules of atypical cells with foamy lipid-laden vacuolated cytoplasm and pagetoid intraepithelial spread; it characteristically presents as unilateral chronic blepharoconjunctivitis or a recurrent chalazion",
+    "links": [
+      {
+        "title": "Sebaceous Carcinoma — EyeWiki",
+        "url": "https://eyewiki.org/Sebaceous_Carcinoma",
+        "source": "EyeWiki",
+        "shows": "Clinical and histopathology images, pagetoid spread, and the masquerade presentations including chronic blepharoconjunctivitis and recurrent chalazion",
+        "verified": true
+      },
+      {
+        "title": "Sebaceous Cell Carcinoma: A Masquerade Syndrome — EyeRounds (University of Iowa)",
+        "url": "https://eyerounds.org/cases/62-Sebaceous-Cell-Carcinoma-Eyelid-Masquerade-Syndrome.htm",
+        "source": "EyeRounds (University of Iowa)",
+        "shows": "Case with clinical and histopathologic images; the lesion mimicked chalazion and blepharoconjunctivitis, with atypical Meibomian glands on wedge biopsy",
+        "verified": true
+      }
+    ],
+    "notes": "The distractors map to other tumours: pearly ulcer with raised edges = basal cell carcinoma, nodule in sun-exposed skin = squamous cell carcinoma, pigmented caruncular lesion = melanocytic. Only sebaceous carcinoma gives chronic blepharoconjunctivitis."
+  },
+  {
+    "task_id": "promotion-2023#88",
+    "finding": "Squamous cell carcinoma of the eyelid — ulcerated, hyperkeratotic lower lid/lid-margin mass; biopsy shows invasive nests of atypical squamous cells with keratin pearls and intercellular bridges",
+    "links": [
+      {
+        "title": "Squamous Carcinoma of the Eyelid — EyeWiki",
+        "url": "https://eyewiki.org/Squamous_Carcinoma_of_the_Eyelid",
+        "source": "EyeWiki",
+        "shows": "Clinical and histopathologic images of eyelid SCC; predilection for the lower lid, ulceration, and full-thickness biopsy as the diagnostic gold standard",
+        "verified": true
+      },
+      {
+        "title": "Malignant Lesions of the External Periocular Tissues — EyeRounds tutorial (University of Iowa)",
+        "url": "https://eyerounds.org/tutorials/malignant-lesions-of-ext-periocular-tissues/index.htm",
+        "source": "EyeRounds (University of Iowa)",
+        "shows": "Side-by-side clinical and histology images of SCC (ulcerated centre with smooth rim, keratin pearls, intercellular bridges) against BCC and sebaceous carcinoma — useful for working through all four options",
+        "verified": true
+      }
+    ],
+    "notes": "The EyeRounds tutorial is the more useful single link here because it lets the reader compare SCC directly with the three distractors on the same page."
+  },
+  {
+    "task_id": "promotion-2024#2",
+    "finding": "Refractive surprise after cataract surgery in an eye with previous myopic laser refractive surgery — standard keratometry overestimates corneal power, the IOL chosen is too weak, and the patient ends up hyperopic",
+    "links": [
+      {
+        "title": "Intraocular Lens Power Calculation after Corneal Refractive Surgery — EyeWiki",
+        "url": "https://eyewiki.org/Intraocular_Lens_Power_Calculation_after_Corneal_Refractive_Surgery",
+        "source": "EyeWiki",
+        "shows": "Why keratometry and effective lens position are wrong after LASIK/PRK/RK, with the corrective formulas (Barrett True-K, Haigis-L, Shammas)",
+        "verified": true
+      },
+      {
+        "title": "Refractive Error After Cataract Surgery — EyeWiki",
+        "url": "https://eyewiki.org/Refractive_Error_After_Cataract_Surgery",
+        "source": "EyeWiki",
+        "shows": "Explicitly names the hyperopic surprise after prior myopic refractive surgery and the reverse after hyperopic treatment",
+        "verified": true
+      }
+    ],
+    "notes": "No figure is really needed — this is a concept question. If a figure is kept, it should be a post-LASIK topography/keratometry printout, not an anterior segment photo."
+  },
+  {
+    "task_id": "promotion-2024#3",
+    "finding": "Pterygium and its surgical repair — conjunctival autograft has the lowest recurrence and complication rate compared with bare-sclera closure, amniotic membrane, or mitomycin C",
+    "links": [
+      {
+        "title": "Pterygium — EyeWiki",
+        "url": "https://eyewiki.org/Pterygium",
+        "source": "EyeWiki",
+        "shows": "Clinical appearance plus surgical management comparing recurrence rates of conjunctival autograft, bare sclera, amniotic membrane graft and mitomycin C",
+        "verified": true
+      },
+      {
+        "title": "Category: Pterygium (conjunctiva) — Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/Category:Pterygium_(conjunctiva)",
+        "source": "Wikimedia Commons",
+        "shows": "Openly licensed clinical and slit-lamp photographs of pterygium, including pre- and post-operative images",
+        "verified": true
+      }
+    ],
+    "notes": "Question is conceptual; the figure only needs to establish what a pterygium looks like. Mitomycin C lowers recurrence but adds scleral melt/necrosis risk, which is why 'least recurrence AND complication' is the autograft."
+  },
+  {
+    "task_id": "promotion-2024#13",
+    "finding": "Prominent/enlarged corneal nerves on slit-lamp examination — thickened white nerve trunks visible right through the central cornea, rather than only in the peripheral third as in normal eyes",
+    "links": [
+      {
+        "title": "Prominent Corneal Nerves — EyeWiki",
+        "url": "https://eyewiki.org/Prominent_Corneal_Nerves",
+        "source": "EyeWiki",
+        "shows": "Slit-lamp appearance and the complete differential — neurofibromatosis, multiple endocrine neoplasia 2A/2B, leprosy, keratoconus, Refsum disease",
+        "verified": true
+      },
+      {
+        "title": "Prominent corneal nerves in pure mucosal neuroma syndrome — BMC Ophthalmology (PMC)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10258932/",
+        "source": "PMC",
+        "shows": "Slit-lamp photographs of markedly prominent bilateral corneal nerves in the mid-stroma, with the MEN2B / NF1 / leprosy differential worked through",
+        "verified": true
+      }
+    ],
+    "notes": "Caution on the answer key: leprosy and MEN 2B are at least as classic a cause as neurofibromatosis, and MEN 2B is the answer most exam sources expect when 'enlarged corneal nerves' is shown in isolation. The bank has this keyed to B (neurofibromatosis). The reader should see the full differential — the EyeWiki page lists it — rather than memorise a single cause."
+  }
+]

@@ -40,7 +40,28 @@
   "imageUrls": [
    "/images/promotion/p123_818ac2d070.jpg",
    "/images/promotion/p123_65c6ec8f09.jpg"
-  ]
+  ],
+  "referenceLinks": [
+   {
+    "title": "Conjunctival Lymphoma — EyeWiki",
+    "url": "https://eyewiki.aao.org/Conjunctival_Lymphoma",
+    "source": "EyeWiki",
+    "shows": "Describes the mobile non-lobulated salmon-pink patch of EMZL and states EBRT is the treatment of choice for indolent EMZL/FL (20-50 Gy over ~15 fractions, ~80% progression-free at 5 years). Text only, no figures"
+   },
+   {
+    "title": "Conjunctival extranodal marginal zone lymphoma of MALT in the fornix — PMC (open access)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3617790/",
+    "source": "PMC (open access)",
+    "shows": "Slit-lamp photographs of forniceal conjunctival lymphoma revealed by strong lid eversion in three cases, plus histopathology/immunohistochemistry; all treated with radiotherapy 30 Gy in 15 fractions with no recurrence"
+   },
+   {
+    "title": "\"Salmon Patch\": An Indicator of Conjunctival Lymphoma — PMC (open access)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11949673/",
+    "source": "PMC (open access)",
+    "shows": "Clinical photo of a painless salmon-coloured mucosal swelling of the inferior palpebral conjunctiva, with CD20-positive lymphocytic infiltrate on biopsy"
+   }
+  ],
+  "figureFinding": "Conjunctival lymphoma — a smooth, mobile, salmon-pink patch of bulbar conjunctiva or fornix. Localized disease with no systemic involvement is treated with external beam radiotherapy."
  },
  {
   "id": 3,
@@ -73,7 +94,22 @@
   "subspecialty": "Anterior Segment",
   "pdfPage": 124,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p124_9925b98229.jpg"
+  "imageUrl": "/images/promotion/p124_9925b98229.jpg",
+  "referenceLinks": [
+   {
+    "title": "Ocular Cicatricial Pemphigoid — EyeWiki",
+    "url": "https://eyewiki.aao.org/Ocular_Cicatricial_Pemphigoid",
+    "source": "EyeWiki",
+    "shows": "Photos of the stages of OCP, symblepharon in the inferior fornix, advanced end-stage disease with surface keratinization, and complete ocular surface keratinization; text gives the anti-beta-4 integrin autoantibody / complement-mediated cytotoxic mechanism and Mondino staging"
+   },
+   {
+    "title": "Ocular Cicatricial Pemphigoid: atypical presentation — EyeRounds (University of Iowa)",
+    "url": "https://webeye.ophth.uiowa.edu/eyeforum/cases/122-limbal-ocp.htm",
+    "source": "EyeRounds, University of Iowa",
+    "shows": "External photos of pseudopterygium and limbal stem cell deficiency in an atypical OCP case, plus comparison photos of classic stage 3 symblepharon and stage 4 cicatricial ankyloblepharon with keratinization"
+   }
+  ],
+  "figureFinding": "Ocular cicatricial pemphigoid (mucous membrane pemphigoid): cicatrizing conjunctivitis with subepithelial fibrosis, fornix foreshortening, symblepharon and ultimately keratinization/ankyloblepharon. Mechanism is a type II hypersensitivity — autoantibody against the beta-4 subunit of alpha-6/beta-4 integrin in the basement membrane, with complement activation."
  },
  {
   "id": 5,
@@ -94,7 +130,22 @@
   "imageUrl": "/images/promotion/p124_cff679e9f1.jpg",
   "imageUrls": [
    "/images/promotion/p124_98993bad35.jpg"
-  ]
+  ],
+  "referenceLinks": [
+   {
+    "title": "Limbal Stem Cell Deficiency — EyeWiki",
+    "url": "https://eyewiki.aao.org/Limbal_Stem_Cell_Deficiency",
+    "source": "EyeWiki",
+    "shows": "Clinical photos of partial and full conjunctivalization courtesy of LV Prasad Eye Institute, an LSCD causes diagram, limbal explant culture and SLET images; chemical/thermal burns listed as acquired causes with scarring, keratinization and calcification"
+   },
+   {
+    "title": "Simple Limbal Epithelial Transplantation (SLET) — EyeWiki",
+    "url": "https://eyewiki.aao.org/Simple_Limbal_Epithelial_Transplantation_(SLET)",
+    "source": "EyeWiki",
+    "shows": "Photo of unilateral LSCD after an alkali (oven cleaner) burn, palisades of Vogt diagram, step-by-step surgical technique photos, and serial pre-op through 6-month post-op photos of an eye treated after an acid injury"
+   }
+  ],
+  "figureFinding": "Total limbal stem cell deficiency after a chemical burn: conjunctivalization and superficial vascularization of the cornea, late conjunctival scarring/fibrosis with keratinization, and corneal haze — treated with limbal epithelial (stem cell) transplantation."
  },
  {
   "id": 6,
@@ -161,7 +212,22 @@
   "imageUrl": "/images/promotion/p125_246b6ab9bb.jpg",
   "imageUrls": [
    "/images/promotion/p126_c52641f789.png"
-  ]
+  ],
+  "referenceLinks": [
+   {
+    "title": "Suprachoroidal Hemorrhage — EyeWiki",
+    "url": "https://eyewiki.aao.org/Suprachoroidal_Hemorrhage",
+    "source": "EyeWiki",
+    "shows": "Lists the intraoperative signs (anterior chamber shallowing, loss of red reflex, raised IOP with firming of the globe, spontaneous nuclear expression, iris and vitreous prolapse) and states immediate tamponade by closure of all incisions. Text only, no figures"
+   },
+   {
+    "title": "Suprachoroidal Hemorrhage as a Complication of Routine Cataract Surgery — Moran CORE (University of Utah)",
+    "url": "https://morancore.utah.edu/section-11-lens-and-cataract/suprachoroidal-hemorrhage-as-a-complication-of-routine-cataract-surgery/",
+    "source": "Moran CORE",
+    "shows": "Six surgical videos: posterior capsule folds during epinuclear removal, positive pressure on viscoelastic injection, wound hydration to pressurize the eye, plus example clips of an SCH with loss of red reflex during phaco and an expulsive haemorrhage during keratoplasty"
+   }
+  ],
+  "figureFinding": "Intraoperative (expulsive) suprachoroidal haemorrhage during cataract surgery: rock-hard eye, shallowing anterior chamber, posterior capsule bulging forward, loss of the red reflex and the lens/iris/vitreous prolapsing out of the wound. Immediate management is to close all wounds and pressurize the eye."
  },
  {
   "id": 10,
@@ -203,7 +269,16 @@
   "imageUrl": "/images/promotion/p127_f260a16e31.jpg",
   "imageUrls": [
    "/images/promotion/p127_61d143225e.jpg"
-  ]
+  ],
+  "referenceLinks": [
+   {
+    "title": "Hyphema — EyeWiki",
+    "url": "https://eyewiki.aao.org/Hyphema",
+    "source": "EyeWiki",
+    "shows": "Seven clinical figures: 1 mm hyphema with corneal edema and Descemet folds after airbag trauma, slit-beam views of layered blood, hyphema from iris neovascularization, grade 3 hyphema after a firecracker blast, total hyphema, and a rebleed with fresh red blood over a dark clot. Text gives blunt trauma as the commonest cause, the 0-IV grading, IOP risk by grade (13.5% grade I-II vs 52% grade IV), head elevation at least 45 degrees, and rebleeding usually within the first 5 days"
+   }
+  ],
+  "figureFinding": "Traumatic hyphema — layered blood in the anterior chamber after blunt trauma, and a rebleed (fresh bright red blood over an older dark clot). The exam point is that rebleeding happens in the first 3-5 days, NOT after the third week."
  },
  {
   "id": 12,
@@ -220,7 +295,22 @@
   "subspecialty": "Retina",
   "pdfPage": 153,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p153_32ba73a860.jpg"
+  "imageUrl": "/images/promotion/p153_32ba73a860.jpg",
+  "referenceLinks": [
+   {
+    "title": "Diabetic Macular Edema — EyeWiki",
+    "url": "https://eyewiki.aao.org/Diabetic_Macular_Edema",
+    "source": "EyeWiki",
+    "shows": "Thirteen figures including microaneurysms with corresponding OCT, circinate exudates, center- versus non-center-involved DME, focal and diffuse DME on fluorescein angiography, and focal and grid laser treatment planning/parameters; also shows pseudophakic (Irvine-Gass) CME for contrast"
+   },
+   {
+    "title": "Cataract — EyeWiki",
+    "url": "https://eyewiki.aao.org/Cataract",
+    "source": "EyeWiki",
+    "shows": "Three slit-lamp images of posterior subcapsular cataract, including retroillumination of a small central PSC and PSC in a 16-year-old with insulin-dependent diabetes; text on glare and near-vision symptoms"
+   }
+  ],
+  "figureFinding": "Diabetic macular oedema (leaking microaneurysms, circinate exudates, cystoid thickening on OCT) coexisting with a posterior subcapsular cataract — DME is treated first, then phaco once the oedema has resolved."
  },
  {
   "id": 13,
@@ -257,7 +347,22 @@
   "imageUrl": "/images/promotion/p154_7623490370.jpg",
   "imageUrls": [
    "/images/promotion/p154_73159e45b8.png"
-  ]
+  ],
+  "referenceLinks": [
+   {
+    "title": "Retinoblastoma — EyeWiki",
+    "url": "https://eyewiki.aao.org/Retinoblastoma",
+    "source": "EyeWiki",
+    "shows": "Clinical photo captioned 'Leukocoria in a retinoblastoma patient'; RB1 genetics, autosomal dominant with ~90% penetrance, and sibling/offspring screening guidance"
+   },
+   {
+    "title": "Category:Retinoblastoma — Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/Category:Retinoblastoma",
+    "source": "Wikimedia Commons",
+    "shows": "Openly licensed leukocoria photo, a 'Fundus of retinoblastoma' subcategory, ultrasound, MRI, and gross/histopathology of RB"
+   }
+  ],
+  "figureFinding": "Retinoblastoma — leukocoria / white fundus tumour. Same genetic counselling point as promotion-2021#15: sporadic unilateral RB with unaffected parents gives siblings roughly 1-2% risk."
  },
  {
   "id": 15,
@@ -334,7 +439,22 @@
   "explanation": "In OIS the retinal veins are dilated and irregular in caliber. The retinal arterioles are narrowed. Associated findings include midperipheral retinal hemorrhages (80%), iris neovascularization (66%), and posterior segment neovascularization (37%). Child trauma with metal hanger, picture of optic nerve avulsion (dark ON with surrounding hemorrhage) dx?",
   "year": "2022",
   "subspecialty": "Retina",
-  "pdfPage": 156
+  "pdfPage": 156,
+  "referenceLinks": [
+   {
+    "title": "Ocular Ischemic Syndrome — EyeWiki",
+    "url": "https://eyewiki.aao.org/Ocular_Ischemic_Syndrome",
+    "source": "EyeWiki",
+    "shows": "Fifteen figures including fundus photo and fluorescein angiogram of OIS microaneurysms, a gonioscopic view of rubeosis iridis, FA showing prolonged retinal and choroidal filling, ICG, carotid duplex/MRA/arteriography of ICA occlusion; Table 2 compares OIS versus CRVO versus diabetic retinopathy point by point"
+   },
+   {
+    "title": "Ocular Ischemic Syndrome — StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK560715/",
+    "source": "StatPearls / NCBI Bookshelf",
+    "shows": "Frequencies of the classic signs (dilated non-tortuous veins 90%, retinal haemorrhages 80%, rubeosis iridis 67%) and the explicit CRVO discriminator — in CRVO veins are dilated AND tortuous, and delayed choroidal filling on FA favours OIS"
+   }
+  ],
+  "figureFinding": "Ocular ischemic syndrome: unilateral vision loss with dull ocular/orbital ache ('ocular angina'), narrowed arterioles with dilated but NON-tortuous retinal veins, round deep mid-peripheral dot-blot haemorrhages, microaneurysms, rubeosis iridis with corneal oedema — with the fellow eye showing only mild background diabetic change."
  },
  {
   "id": 20,
@@ -384,7 +504,16 @@
   "subspecialty": "Glaucoma",
   "pdfPage": 192,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p192_c0b2d75062.jpg"
+  "imageUrl": "/images/promotion/p192_c0b2d75062.jpg",
+  "referenceLinks": [
+   {
+    "title": "Cyclodialysis Clefts — EyeWiki",
+    "url": "https://eyewiki.aao.org/Cyclodialysis_Clefts",
+    "source": "EyeWiki",
+    "shows": "Gonioscopic photos of cyclodialysis clefts after paintball injuries in two eyes, plus a UBM demonstrating the cleft; text states more than half of eyes (12/18 and 13/17 in two series) get a significant, often painful IOP elevation after successful cleft closure, and that hypotony (IOP 5 mmHg or less) after blunt trauma with hyphema should raise suspicion"
+   }
+  ],
+  "figureFinding": "Cyclodialysis cleft after blunt trauma: ciliary body detached from the scleral spur, seen on gonioscopy as a deep angle recess opening into the suprachoroidal space (confirmed on UBM). It causes chronic hypotony, and when the cleft spontaneously closes the IOP spikes sharply."
  },
  {
   "id": 23,
@@ -416,7 +545,22 @@
   "subspecialty": "Glaucoma",
   "pdfPage": 193,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p193_6949343312.jpg"
+  "imageUrl": "/images/promotion/p193_6949343312.jpg",
+  "referenceLinks": [
+   {
+    "title": "Glaucomatocyclitic Crisis (Posner-Schlossman Syndrome) — EyeWiki",
+    "url": "https://eyewiki.aao.org/Glaucomatocyclitic_Crisis_(Posner-Schlossman_Syndrome)",
+    "source": "EyeWiki",
+    "shows": "Figure of small, white, discrete keratic precipitates; iris angiogram showing focal iris ischaemia during an attack; trabecular meshwork electron microscopy; serial visual fields"
+   },
+   {
+    "title": "Posner-Schlossman Syndrome — StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK576412/",
+    "source": "StatPearls / NCBI Bookshelf",
+    "shows": "IOP elevated to 40 mmHg or above with fine non-granulomatous KPs; first-line IOP reduction in an acute attack is topical beta-blockers, alpha agonists and carbonic anhydrase inhibitors, with topical steroids for the (usually mild) inflammation"
+   }
+  ],
+  "figureFinding": "Posner-Schlossman syndrome (glaucomatocyclitic crisis): recurrent unilateral episodes of markedly high IOP with corneal oedema, few fine non-pigmented KPs on the endothelium, and an open angle with KPs on gonioscopy."
  },
  {
   "id": 25,
@@ -432,7 +576,22 @@
   "subspecialty": "Glaucoma",
   "pdfPage": 193,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p193_efa7a6bb7c.jpg"
+  "imageUrl": "/images/promotion/p193_efa7a6bb7c.jpg",
+  "referenceLinks": [
+   {
+    "title": "Laser Peripheral Iridotomy — EyeWiki",
+    "url": "https://eyewiki.aao.org/Laser_Peripheral_Iridotomy",
+    "source": "EyeWiki",
+    "shows": "Slit-lamp photos of a superior iridotomy at 10 o'clock, a nasal iridotomy seen on transillumination, and an inferior iridotomy in a vitrectomised eye; text warns that transillumination is NOT a reliable indicator of patency and that uncertain patency should be checked with gonioscopy, UBM or AS-OCT while reconsidering the mechanism"
+   },
+   {
+    "title": "Plateau Iris — EyeWiki",
+    "url": "https://eyewiki.aao.org/Plateau_Iris",
+    "source": "EyeWiki",
+    "shows": "Slit-lamp image of a patient with plateau iris syndrome after a patent peripheral iridotomy, gonioscopic view showing anterior bowing of the peripheral iris, and paired UBM images of normal versus plateau anterior chamber anatomy"
+   }
+  ],
+  "figureFinding": "Angle closure with persistently high IOP despite a laser peripheral iridotomy: the image should show the iridotomy itself (to judge whether it is patent and full thickness) and gonioscopy/UBM of a still-appositionally-closed angle, i.e. plateau iris or another non-pupillary-block mechanism."
  },
  {
   "id": 26,
@@ -450,7 +609,16 @@
   "subspecialty": "Glaucoma",
   "pdfPage": 193,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p193_3980c88d24.jpg"
+  "imageUrl": "/images/promotion/p193_3980c88d24.jpg",
+  "referenceLinks": [
+   {
+    "title": "Neovascular Glaucoma — EyeWiki",
+    "url": "https://eyewiki.aao.org/Neovascular_Glaucoma",
+    "source": "EyeWiki",
+    "shows": "Photos of advanced NVG with florid rubeosis iridis, ectropion uveae with hyphema, and gonioscopic neovascularization of the angle; text states cyclophotocoagulation is reserved for eyes with poor visual prognosis (20/400 or worse) and that CRVO plus diabetic retinopathy underlie nearly two-thirds of NVG"
+   }
+  ],
+  "figureFinding": "Neovascular glaucoma after CRVO: 360 degrees of rubeosis iridis with neovascularization of the angle, corneal oedema, hand-motion vision and a dense cataract. With no view for PRP and no visual potential, transscleral cyclophotocoagulation is the treatment."
  },
  {
   "id": 27,
@@ -468,7 +636,22 @@
   "subspecialty": "Glaucoma",
   "pdfPage": 193,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p193_269d28bfa1.jpg"
+  "imageUrl": "/images/promotion/p193_269d28bfa1.jpg",
+  "referenceLinks": [
+   {
+    "title": "Glaucoma Drainage Devices — EyeWiki",
+    "url": "https://eyewiki.org/Glaucoma_Drainage_Devices",
+    "source": "EyeWiki",
+    "shows": "Device/plate anatomy plus a dedicated discussion of the hypertensive phase and capsule encapsulation around the endplate as the cause of IOP rise weeks after implantation"
+   },
+   {
+    "title": "Encapsulated Bleb — Columbia Digital Reference of Ophthalmology",
+    "url": "https://www.vagelos.columbia.edu/departments-centers/ophthalmology/education/digital-reference-ophthalmology/glaucoma/surgery-and-complications/encapsulated-bleb",
+    "source": "Columbia University (Vagelos) teaching atlas",
+    "shows": "Clinical photograph captioned 'Encapsulated filtering bleb (Tenon's cyst)' with the associated elevated IOP"
+   }
+  ],
+  "figureFinding": "Encapsulated bleb (Tenon cyst) over the extraocular plate of a glaucoma drainage device — the tense, dome-shaped, vascularized capsule seen at 4-8 weeks that causes the 'hypertensive phase' of raised IOP"
  },
  {
   "id": 28,
@@ -578,7 +761,28 @@
   "subspecialty": "Oculoplastics",
   "pdfPage": 231,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p231_f0f313d100.jpg"
+  "imageUrl": "/images/promotion/p231_f0f313d100.jpg",
+  "referenceLinks": [
+   {
+    "title": "Orbital Cellulitis — EyeWiki",
+    "url": "https://eyewiki.org/Orbital_Cellulitis",
+    "source": "EyeWiki",
+    "shows": "Clinical presentation with proptosis, ophthalmoplegia and motility restriction, explicitly contrasted against preseptal disease"
+   },
+   {
+    "title": "Preseptal Cellulitis — EyeWiki",
+    "url": "https://eyewiki.org/Preseptal_Cellulitis",
+    "source": "EyeWiki",
+    "shows": "The contrasting picture — lid oedema and erythema with normal motility and no proptosis"
+   },
+   {
+    "title": "Orbital Cellulitis — StatPearls, NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK507901/",
+    "source": "StatPearls / NCBI Bookshelf",
+    "shows": "States directly that the most important distinguishing feature is ophthalmoplegia, pain with eye movement and/or proptosis"
+   }
+  ],
+  "figureFinding": "Orbital cellulitis distinguished from preseptal cellulitis: restricted/painful extraocular movements (ophthalmoplegia) and proptosis, with lid swelling common to both"
  },
  {
   "id": 35,
@@ -654,7 +858,28 @@
   "subspecialty": "Neuro-Ophthalmology",
   "pdfPage": 258,
   "figureConfidence": "low",
-  "imageUrl": "/images/promotion/p258_e0ee75fce4.jpg"
+  "imageUrl": "/images/promotion/p258_e0ee75fce4.jpg",
+  "referenceLinks": [
+   {
+    "title": "Cavernous Sinus Thrombosis — StatPearls, NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK448177/",
+    "source": "StatPearls / NCBI Bookshelf",
+    "shows": "Ocular findings in ~90% (periorbital oedema, chemosis, proptosis, progressive ophthalmoplegia) and management with broad-spectrum antimicrobials as primary therapy, anticoagulation only as adjunct"
+   },
+   {
+    "title": "Cavernous Sinus Syndrome — EyeWiki",
+    "url": "https://eyewiki.org/Cavernous_Sinus_Syndrome",
+    "source": "EyeWiki",
+    "shows": "Imaging and clinical signs of cavernous sinus pathology including thrombosis, proptosis and chemosis"
+   },
+   {
+    "title": "Horner Syndrome — EyeWiki",
+    "url": "https://eyewiki.org/Horner_Syndrome",
+    "source": "EyeWiki",
+    "shows": "Pharmacologic testing of anisocoria with cocaine and apraclonidine — covers the stray sentence pasted into this stem"
+   }
+  ],
+  "figureFinding": "Septic cavernous sinus thrombosis — proptosis, chemosis, periorbital oedema and multiple cranial neuropathies (ophthalmoplegia); antibiotics are the first-line treatment"
  },
  {
   "id": 40,
