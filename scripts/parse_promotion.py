@@ -808,6 +808,7 @@ def collect_images(doc):
 
     os.makedirs(IMG_DIR, exist_ok=True)
     saved, by_page, skipped = {}, collections.defaultdict(list), collections.Counter()
+    float_like = set()
 
     for i in range(doc.page_count):
         page = doc[i]
@@ -844,6 +845,11 @@ def collect_images(doc):
                 skipped["low_res"] += 1
                 continue
 
+            if rect.x0 > 0.42 * pw:
+                # Word anchors a right-column float beside the paragraph it was
+                # inserted at, which may belong to the recall above or below.
+                # Measured at 31% misplaced against 7.4% for inline figures.
+                float_like.add(xref)
             if xref not in saved:
                 digest = hashlib.md5(info["image"]).hexdigest()[:10]
                 ext = {"jpeg": "jpg", "jpg": "jpg", "png": "png"}.get(info["ext"], "png")
@@ -855,7 +861,8 @@ def collect_images(doc):
 
     for k in by_page:
         by_page[k].sort()
-    return by_page, skipped, saved
+    floats = {saved[x] for x in float_like if x in saved}
+    return by_page, skipped, saved, floats
 
 
 class SpanBarrier:
@@ -1078,6 +1085,73 @@ DEMANDS_FIGURE_RE = re.compile(
     r"|same\s+(exact\s+)?(picture|photo|pic))", re.I)
 
 
+# Any mention of a picture at all, however loose.  Used only to establish that a
+# question does NOT reference one, so it is deliberately broad.
+MENTIONS_FIGURE_RE = re.compile(
+    r"\b(photo|picture|pic\b|pics\b|image|figure|slide|shown|attached|"
+    r"appearance|as\s+seen|depicted|illustrat)", re.I)
+
+
+def page_of_figure(path):
+    """Page encoded in an extracted figure's filename."""
+    m = re.match(r"p(\d+)_", os.path.basename(path))
+    return int(m.group(1)) if m else -1
+
+
+def reallocate_from_silent_neighbours(questions):
+    """
+    Move a figure from a question that never mentions one to an adjacent
+    question that explicitly asks for it.
+
+    Right-column floats are the worst-placed figures in this document (measured
+    at 31% wrong against 7.4% for inline ones) because Word anchors them beside
+    the paragraph they were inserted at, which can be a recall above or below.
+    Geometry alone cannot settle it -- but the text usually can: page 627's
+    "greatest refractive power" recall ends "40-44 D See pic" and has no figure,
+    while the neighbour holding the float asks about retrobulbar anaesthesia and
+    mentions no image at all.
+
+    Applied only when the requester names a picture, the donor names none, and
+    exactly one candidate exists, so an ambiguous case is left alone.
+    """
+    published = sorted(questions, key=lambda q: (q.page, q.y0))
+    moved = 0
+    for idx, q in enumerate(published):
+        if q.images:
+            continue
+        cue_in_stem = bool(DEMANDS_FIGURE_RE.search(q.stem))
+        if not (cue_in_stem or DEMANDS_FIGURE_RE.search(q.explanation or "")):
+            continue
+        candidates = []
+        for off in (-2, -1, 1, 2):
+            j = idx + off
+            if not (0 <= j < len(published)):
+                continue
+            other = published[j]
+            if not other.images or abs(other.page - q.page) > 1:
+                continue
+            if MENTIONS_FIGURE_RE.search(other.stem):
+                continue                  # the donor may well own it
+            if DEMANDS_FIGURE_RE.search(other.explanation or ""):
+                continue                  # donor's own explanation claims a figure
+            for path in other.images:
+                # A cue found only in the explanation is weaker evidence: an
+                # explanation can still absorb wording from an unparsed recall
+                # next to it.  Trust it for a figure on the question's own page,
+                # but require the stem itself to ask before moving one across a
+                # page boundary.
+                if not cue_in_stem and page_of_figure(path) != q.page:
+                    continue
+                candidates.append((other, path))
+        if len(candidates) != 1:
+            continue
+        donor, path = candidates[0]
+        donor.images.remove(path)
+        q.images.append(path)
+        moved += 1
+    return moved
+
+
 def reclaim_demanded_figures(questions, extra_anchors, by_page):
     """
     Give a figure back to a question that explicitly asks for one.
@@ -1168,7 +1242,27 @@ def relabel_if_mislettered(opts, answer_raw):
         (chr(ord("A") + i), opts[k]) for i, k in enumerate(keys))
 
 
-def build(questions):
+# Confidence in a figure's placement, from what measurement actually showed
+# predicts error: a stem that names its own picture was right in every sampled
+# case; a right-column float attached to a stem that never mentions an image was
+# the shape of every confirmed misplacement.
+def figure_confidence(stem, explanation, images, float_paths):
+    if not images:
+        return None
+    names_it = bool(DEMANDS_FIGURE_RE.search(stem))
+    mentions = bool(MENTIONS_FIGURE_RE.search(stem)) or \
+        bool(DEMANDS_FIGURE_RE.search(explanation or ""))
+    is_float = any(u in float_paths for u in images)
+    if names_it:
+        return "high"
+    if not mentions and is_float:
+        return "low"
+    if not mentions or is_float:
+        return "medium"
+    return "high"
+
+
+def build(questions, float_paths=frozenset()):
     out, rejects = [], []
     for q in questions:
         opts = collections.OrderedDict()
@@ -1242,6 +1336,9 @@ def build(questions):
             "pdfPage": q.page,
         }
         if q.images:
+            conf = figure_confidence(q.stem, explanation, q.images, float_paths)
+            if conf and conf != "high":
+                item["figureConfidence"] = conf
             # Convention across every existing bank: imageUrl is the primary
             # figure and imageUrls holds only the *additional* ones.  QuizCard
             # renders the two separately, so repeating the primary inside the
@@ -1404,7 +1501,7 @@ def main():
     doc = fitz.open(PDF)
     page_lines = [classify(extract_lines(doc, i)) for i in range(doc.page_count)]
 
-    by_page, skipped, saved = collect_images(doc)
+    by_page, skipped, saved, float_paths = collect_images(doc)
     print(f"  content images kept: {sum(len(v) for v in by_page.values())} "
           f"(unique files: {len(saved)})")
     print(f"  images skipped: {dict(skipped)}")
@@ -1446,7 +1543,8 @@ def main():
     reclaimed = reclaim_demanded_figures(all_questions,
                                          screenshot_only + section_anchors,
                                          by_page)
-    questions, rejects = build(all_questions)
+    moved = reallocate_from_silent_neighbours(all_questions)
+    questions, rejects = build(all_questions, float_paths)
 
     shots = [{"page": a.page, "number": a.number, "images": a.images}
              for a in screenshot_only if a.images and a.number]
@@ -1455,6 +1553,7 @@ def main():
     print(f"  orphan images:     {len(orphans)}")
     print(f"  screenshot-only recalls (no text layer, excluded): {len(shots)}")
     print(f"  figures returned to questions that name a picture: {reclaimed}")
+    print(f"  figures moved off a question that names none:        {moved}")
 
     per_year = collections.Counter(q["year"] for q in questions)
     banks = bank_layout(per_year)

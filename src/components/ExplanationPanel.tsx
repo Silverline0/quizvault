@@ -108,6 +108,43 @@ export default function ExplanationPanel({ question, wasCorrect }: ExplanationPa
         </div>
       )}
 
+      {/* Reference images, for questions whose own figure is doubtful or absent */}
+      {question.referenceLinks && question.referenceLinks.length > 0 && (
+        <div className="mt-4 pt-3" style={{ borderTop: "1px solid var(--border)" }}>
+          <p className="text-xs font-medium mb-2" style={{ color: "var(--text-muted)" }}>
+            {question.imageUrl
+              ? "Not sure the image above is the right one? See this finding here:"
+              : "This question refers to a picture the source didn't include. See the finding here:"}
+            {question.figureFinding ? ` ${question.figureFinding}.` : ""}
+          </p>
+          <ul className="flex flex-col gap-1.5">
+            {question.referenceLinks.map((link) => (
+              <li key={link.url}>
+                <a
+                  href={link.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-sm underline underline-offset-2"
+                  style={{ color: "var(--accent, #2563eb)" }}
+                >
+                  {link.title}
+                </a>
+                {link.source && (
+                  <span className="ml-2 text-xs" style={{ color: "var(--text-muted)" }}>
+                    {link.source}
+                  </span>
+                )}
+                {link.shows && (
+                  <span className="block text-xs" style={{ color: "var(--text-muted)" }}>
+                    {link.shows}
+                  </span>
+                )}
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
       {/* Respondent stats */}
       {question.respondentStats && (
         <div className="mt-4 pt-3" style={{ borderTop: "1px solid var(--border)" }}>

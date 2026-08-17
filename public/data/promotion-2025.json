@@ -199,6 +199,7 @@
   "year": "2025",
   "subspecialty": "Anterior Segment",
   "pdfPage": 8,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p008_5b304ad46c.png"
  },
  {
@@ -1237,6 +1238,7 @@
   "year": "2025",
   "subspecialty": "Optics",
   "pdfPage": 38,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p039_82ddd8ed9b.png",
   "imageUrls": [
    "/images/promotion/p039_91fd73e4a5.png"

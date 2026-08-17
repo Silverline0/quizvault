@@ -226,6 +226,11 @@ body::before {
 [data-theme="sepia"] .badge-promotion { background: #dce4cc; color: #3f5a30; }
 [data-theme="sepia"] .badge-neutral { background: #e4ddcc; color: #5c5346; }
 
+/* ── Figure placement caveat ──────────────────────────── */
+.figure-caveat { background: #fffbeb; color: #92400e; }
+[data-theme="dark"] .figure-caveat { background: #3a2f14; color: #fcd34d; }
+[data-theme="sepia"] .figure-caveat { background: #efe4c8; color: #6b5320; }
+
 /* ── Category gradient icons (circles) ────────────────── */
 .cat-icon-fundamentals { background: linear-gradient(135deg, #818cf8, #6366f1); }
 .cat-icon-cornea { background: linear-gradient(135deg, #38bdf8, #0ea5e9); }

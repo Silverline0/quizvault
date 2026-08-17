@@ -279,8 +279,7 @@
   "explanation": "No explanation was provided in the source document.",
   "year": "2016",
   "subspecialty": "Optics",
-  "pdfPage": 405,
-  "imageUrl": "/images/promotion/p406_73266a434f.png"
+  "pdfPage": 405
  },
  {
   "id": 19,
@@ -539,6 +538,7 @@
   "year": "2016",
   "subspecialty": "Optics",
   "pdfPage": 416,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p417_5446f47943.jpg",
   "imageUrls": [
    "/images/promotion/p417_c24045bda2.jpg"
@@ -652,6 +652,7 @@
   "year": "2016",
   "subspecialty": "Optics",
   "pdfPage": 420,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p420_6af0ed9575.jpg"
  },
  {
@@ -1086,7 +1087,8 @@
   "explanation": "Duane syndrome type 3 Mx: - LR and MR recession - Y Splitting of LR - Retroequatorial fixation of LT - Disinsertion and reattachment of LR to the lateral periosteum of the orbit with a subsequent transposition surgery Reference: BCSC - Peds and strabismus Neuro",
   "year": "2016",
   "subspecialty": "Optics",
-  "pdfPage": 433
+  "pdfPage": 433,
+  "imageUrl": "/images/promotion/p434_62629a846b.jpg"
  },
  {
   "id": 71,
@@ -1101,8 +1103,7 @@
   "explanation": "Reference: BCSC - Neuro-ophthalmology 59- Torticollis nodding:",
   "year": "2016",
   "subspecialty": "Optics",
-  "pdfPage": 433,
-  "imageUrl": "/images/promotion/p434_62629a846b.jpg"
+  "pdfPage": 433
  },
  {
   "id": 72,
@@ -1134,6 +1135,7 @@
   "year": "2016",
   "subspecialty": "Optics",
   "pdfPage": 435,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p435_0992107402.jpg"
  },
  {
@@ -1229,6 +1231,7 @@
   "year": "2016",
   "subspecialty": "Oculoplastics",
   "pdfPage": 446,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p446_86755683be.png"
  }
 ]

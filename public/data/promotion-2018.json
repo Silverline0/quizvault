@@ -46,6 +46,7 @@
   "year": "2018",
   "subspecialty": "Anterior Segment",
   "pdfPage": 143,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p143_6d5524006f.jpg"
  },
  {
@@ -114,6 +115,7 @@
   "year": "2018",
   "subspecialty": "Anterior Segment",
   "pdfPage": 147,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p146_d0d3d556f6.jpg"
  },
  {
@@ -146,6 +148,7 @@
   "year": "2018",
   "subspecialty": "Anterior Segment",
   "pdfPage": 149,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p149_2680a2b3e7.png"
  },
  {
@@ -176,6 +179,7 @@
   "year": "2018",
   "subspecialty": "Anterior Segment",
   "pdfPage": 150,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p150_39206b605b.png"
  },
  {
@@ -494,6 +498,7 @@
   "year": "2018",
   "subspecialty": "Uveitis",
   "pdfPage": 191,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p178_4a16ae587b.jpg"
  },
  {
@@ -511,6 +516,7 @@
   "year": "2018",
   "subspecialty": "Glaucoma",
   "pdfPage": 202,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p203_56a0f602a0.jpg"
  },
  {
@@ -544,6 +550,7 @@
   "year": "2018",
   "subspecialty": "Glaucoma",
   "pdfPage": 203,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p204_c996e7ede0.png"
  },
  {
@@ -702,6 +709,7 @@
   "year": "2018",
   "subspecialty": "Glaucoma",
   "pdfPage": 209,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p193_269d28bfa1.jpg"
  },
  {
@@ -719,6 +727,7 @@
   "year": "2018",
   "subspecialty": "Glaucoma",
   "pdfPage": 210,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p210_0694886f76.jpg"
  },
  {
@@ -735,6 +744,7 @@
   "year": "2018",
   "subspecialty": "Glaucoma",
   "pdfPage": 211,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p211_d47af35532.jpg"
  },
  {
@@ -842,6 +852,7 @@
   "year": "2018",
   "subspecialty": "Pediatrics",
   "pdfPage": 228,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p228_c0fadc37a2.png"
  },
  {
@@ -858,6 +869,7 @@
   "year": "2018",
   "subspecialty": "Pediatrics",
   "pdfPage": 228,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p229_989a1938d1.png"
  },
  {
@@ -908,6 +920,7 @@
   "year": "2018",
   "subspecialty": "Oculoplastics",
   "pdfPage": 249,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p250_097c40af94.png"
  },
  {
@@ -1024,6 +1037,7 @@
   "year": "2018",
   "subspecialty": "Oculoplastics",
   "pdfPage": 253,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p254_9fd64ec8c9.jpg"
  },
  {
@@ -1102,6 +1116,7 @@
   "year": "2018",
   "subspecialty": "Optics",
   "pdfPage": 273,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p273_a9f717709a.jpg",
   "imageUrls": [
    "/images/promotion/p273_3eb7be09db.jpg"
@@ -1120,6 +1135,7 @@
   "year": "2018",
   "subspecialty": "Optics",
   "pdfPage": 273,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p274_e9b554c314.png"
  },
  {
@@ -1229,6 +1245,7 @@
   "year": "2018",
   "subspecialty": "Pathology",
   "pdfPage": 294,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p294_75d1433caa.jpg"
  }
 ]

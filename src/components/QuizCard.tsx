@@ -112,6 +112,14 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
       {question.imageUrl && (
         <div className="mb-5" style={{ border: "1px solid var(--border)", borderRadius: "var(--radius-lg)" }}>
           <ImageZoom src={question.imageUrl} alt={`Clinical image for question ${question.id}`} />
+          {question.figureConfidence && (
+            <p className="px-3 py-2 text-xs figure-caveat" style={{ borderTop: "1px solid var(--border)" }}>
+              {question.figureConfidence === "low"
+                ? "This figure was matched to the question by position and may belong to a neighbouring one — check it against the stem before relying on it."
+                : "This figure was matched by position, not named in the question. Usually right, but worth a sanity-check against the stem."}
+              {question.pdfPage ? ` Source: PDF page ${question.pdfPage}.` : ""}
+            </p>
+          )}
         </div>
       )}
 

@@ -14,6 +14,29 @@ export interface Question {
   subspecialty?: string;
   /** Page in the source PDF, kept so a recall can be traced back. */
   pdfPage?: number;
+  /**
+   * How sure we are the attached figure belongs to THIS question. Absent means
+   * high — the stem names its own picture, which was correct in every audited
+   * case. "medium"/"low" mark figures bound by position alone; a sampled audit
+   * put misplacement at ~13% overall, concentrated in these.
+   */
+  figureConfidence?: "medium" | "low";
+  /** Question was transcribed from a screenshot rather than the text layer. */
+  ocr?: boolean;
+  /** What the question's figure ought to show, in one phrase. */
+  figureFinding?: string;
+  /**
+   * Links to openly-licensed pages showing that finding, for questions whose
+   * own figure is doubtful or missing. Links only — nothing is rehosted.
+   */
+  referenceLinks?: ReferenceLink[];
+}
+
+export interface ReferenceLink {
+  title: string;
+  url: string;
+  source?: string;
+  shows?: string;
 }
 
 export interface QuestionSet {

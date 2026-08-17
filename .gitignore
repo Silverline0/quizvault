@@ -42,6 +42,8 @@ scripts/promotion_orphan_images.json
 scripts/promotion_screenshot_only.json
 scripts/promotion_ocr_refused.json
 scripts/ocr/batch_*.json
+scripts/promotion_link_rejects.json
+scripts/figures/fig_batch_*.json
 
 # Environment
 .env

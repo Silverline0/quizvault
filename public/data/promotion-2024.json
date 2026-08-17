@@ -14,6 +14,7 @@
   "year": "2024",
   "subspecialty": "Anterior Segment",
   "pdfPage": 42,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p042_d535d114f1.png"
  },
  {
@@ -30,6 +31,7 @@
   "year": "2024",
   "subspecialty": "Anterior Segment",
   "pdfPage": 42,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p043_8f02005e3d.png"
  },
  {
@@ -47,6 +49,7 @@
   "year": "2024",
   "subspecialty": "Anterior Segment",
   "pdfPage": 43,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p043_72eac03392.png"
  },
  {
@@ -64,6 +67,7 @@
   "year": "2024",
   "subspecialty": "Anterior Segment",
   "pdfPage": 44,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p044_83e67ebefd.png"
  },
  {
@@ -263,6 +267,7 @@
   "year": "2024",
   "subspecialty": "Anterior Segment",
   "pdfPage": 48,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p049_c5f975d4d5.png"
  },
  {
@@ -279,6 +284,7 @@
   "year": "2024",
   "subspecialty": "Anterior Segment",
   "pdfPage": 49,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p049_17b0ee9c76.png",
   "imageUrls": [
    "/images/promotion/p049_0c845e536a.png"
@@ -793,6 +799,7 @@
   "year": "2024",
   "subspecialty": "Pediatrics",
   "pdfPage": 63,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p063_c6d3c4e021.png"
  },
  {
@@ -1290,6 +1297,7 @@
   "year": "2024",
   "subspecialty": "Optics",
   "pdfPage": 76,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p076_a14e8019cd.png"
  },
  {
@@ -1306,6 +1314,7 @@
   "year": "2024",
   "subspecialty": "Optics",
   "pdfPage": 77,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p078_433cb5cdef.png"
  },
  {
@@ -1405,6 +1414,7 @@
   "year": "2024",
   "subspecialty": "Pathology",
   "pdfPage": 82,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p082_3626b263d2.png"
  },
  {

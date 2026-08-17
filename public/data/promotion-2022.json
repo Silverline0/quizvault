@@ -14,6 +14,7 @@
   "year": "2022",
   "subspecialty": "Anterior Segment",
   "pdfPage": 123,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p123_312d80ceed.jpg",
   "imageUrls": [
    "/images/promotion/p123_97f298c655.png"
@@ -34,6 +35,7 @@
   "year": "2022",
   "subspecialty": "Anterior Segment",
   "pdfPage": 123,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p123_1856f9a717.jpg",
   "imageUrls": [
    "/images/promotion/p123_818ac2d070.jpg",
@@ -54,6 +56,7 @@
   "year": "2022",
   "subspecialty": "Anterior Segment",
   "pdfPage": 124,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p124_c86db6deca.jpg"
  },
  {
@@ -69,6 +72,7 @@
   "year": "2022",
   "subspecialty": "Anterior Segment",
   "pdfPage": 124,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p124_9925b98229.jpg"
  },
  {
@@ -86,6 +90,7 @@
   "year": "2022",
   "subspecialty": "Anterior Segment",
   "pdfPage": 124,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p124_cff679e9f1.jpg",
   "imageUrls": [
    "/images/promotion/p124_98993bad35.jpg"
@@ -152,6 +157,7 @@
   "year": "2022",
   "subspecialty": "Anterior Segment",
   "pdfPage": 125,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p125_246b6ab9bb.jpg",
   "imageUrls": [
    "/images/promotion/p126_c52641f789.png"
@@ -172,6 +178,7 @@
   "year": "2022",
   "subspecialty": "Anterior Segment",
   "pdfPage": 126,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p126_240271f32c.jpg",
   "imageUrls": [
    "/images/promotion/p126_343b853093.jpg"
@@ -192,6 +199,7 @@
   "year": "2022",
   "subspecialty": "Anterior Segment",
   "pdfPage": 127,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p127_f260a16e31.jpg",
   "imageUrls": [
    "/images/promotion/p127_61d143225e.jpg"
@@ -211,6 +219,7 @@
   "year": "2022",
   "subspecialty": "Retina",
   "pdfPage": 153,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p153_32ba73a860.jpg"
  },
  {
@@ -244,6 +253,7 @@
   "year": "2022",
   "subspecialty": "Retina",
   "pdfPage": 154,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p154_7623490370.jpg",
   "imageUrls": [
    "/images/promotion/p154_73159e45b8.png"
@@ -293,6 +303,7 @@
   "year": "2022",
   "subspecialty": "Retina",
   "pdfPage": 155,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p155_7609efb330.png"
  },
  {
@@ -355,6 +366,7 @@
   "year": "2022",
   "subspecialty": "Uveitis",
   "pdfPage": 178,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p178_9e6d33806b.png"
  },
  {
@@ -371,6 +383,7 @@
   "year": "2022",
   "subspecialty": "Glaucoma",
   "pdfPage": 192,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p192_c0b2d75062.jpg"
  },
  {
@@ -402,6 +415,7 @@
   "year": "2022",
   "subspecialty": "Glaucoma",
   "pdfPage": 193,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p193_6949343312.jpg"
  },
  {
@@ -417,6 +431,7 @@
   "year": "2022",
   "subspecialty": "Glaucoma",
   "pdfPage": 193,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p193_efa7a6bb7c.jpg"
  },
  {
@@ -434,6 +449,7 @@
   "year": "2022",
   "subspecialty": "Glaucoma",
   "pdfPage": 193,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p193_3980c88d24.jpg"
  },
  {
@@ -451,6 +467,7 @@
   "year": "2022",
   "subspecialty": "Glaucoma",
   "pdfPage": 193,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p193_269d28bfa1.jpg"
  },
  {
@@ -528,6 +545,7 @@
   "year": "2022",
   "subspecialty": "Oculoplastics",
   "pdfPage": 231,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p231_7a2423a116.jpg"
  },
  {
@@ -559,6 +577,7 @@
   "year": "2022",
   "subspecialty": "Oculoplastics",
   "pdfPage": 231,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p231_f0f313d100.jpg"
  },
  {
@@ -634,6 +653,7 @@
   "year": "2022",
   "subspecialty": "Neuro-Ophthalmology",
   "pdfPage": 258,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p258_e0ee75fce4.jpg"
  },
  {
@@ -650,6 +670,7 @@
   "year": "2022",
   "subspecialty": "Neuro-Ophthalmology",
   "pdfPage": 258,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p259_6e1f2ec130.png"
  },
  {

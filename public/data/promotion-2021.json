@@ -13,6 +13,7 @@
   "year": "2021",
   "subspecialty": "Anterior Segment",
   "pdfPage": 127,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p127_6c90208c7b.png"
  },
  {
@@ -45,6 +46,7 @@
   "year": "2021",
   "subspecialty": "Anterior Segment",
   "pdfPage": 128,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p128_1019834726.jpg",
   "imageUrls": [
    "/images/promotion/p128_3fef3f2479.jpg",
@@ -213,6 +215,7 @@
   "year": "2021",
   "subspecialty": "Pediatrics",
   "pdfPage": 214,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p214_2fdbe9b751.jpg"
  },
  {
@@ -230,6 +233,7 @@
   "year": "2021",
   "subspecialty": "Pediatrics",
   "pdfPage": 214,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p215_0ec81a71d9.png",
   "imageUrls": [
    "/images/promotion/p215_295dca3edf.png",
@@ -264,6 +268,7 @@
   "year": "2021",
   "subspecialty": "Oculoplastics",
   "pdfPage": 233,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p233_a6ef04fbde.png"
  },
  {
@@ -324,6 +329,7 @@
   "year": "2021",
   "subspecialty": "Neuro-Ophthalmology",
   "pdfPage": 260,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p193_6949343312.jpg"
  },
  {
@@ -340,6 +346,7 @@
   "year": "2021",
   "subspecialty": "Neuro-Ophthalmology",
   "pdfPage": 261,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p261_8faf427c23.jpg",
   "imageUrls": [
    "/images/promotion/p261_203c910e80.jpg"

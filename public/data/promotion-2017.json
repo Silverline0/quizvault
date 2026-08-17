@@ -27,6 +27,7 @@
   "year": "2017",
   "subspecialty": "Anterior Segment",
   "pdfPage": 301,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p301_28a4ab65cc.png"
  },
  {
@@ -56,6 +57,7 @@
   "year": "2017",
   "subspecialty": "Anterior Segment",
   "pdfPage": 302,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p302_eb180ce4d1.png",
   "imageUrls": [
    "/images/promotion/p302_f5e4c032a7.png"
@@ -122,6 +124,7 @@
   "year": "2017",
   "subspecialty": "Anterior Segment",
   "pdfPage": 304,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p305_74c3d265aa.png"
  },
  {
@@ -197,6 +200,7 @@
   "year": "2017",
   "subspecialty": "Retina",
   "pdfPage": 309,
+  "figureConfidence": "low",
   "imageUrl": "/images/promotion/p310_99e75cc0ed.png",
   "imageUrls": [
    "/images/promotion/p310_62b97eecdf.png",
@@ -247,6 +251,7 @@
   "year": "2017",
   "subspecialty": "Uveitis",
   "pdfPage": 315,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p316_d371b557cf.jpg"
  },
  {
@@ -262,6 +267,7 @@
   "year": "2017",
   "subspecialty": "Uveitis",
   "pdfPage": 318,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p319_b142de5c0a.jpg"
  },
  {
@@ -311,6 +317,7 @@
   "year": "2017",
   "subspecialty": "Glaucoma",
   "pdfPage": 322,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p323_a962dc7e63.jpg"
  },
  {
@@ -342,6 +349,7 @@
   "year": "2017",
   "subspecialty": "Glaucoma",
   "pdfPage": 324,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p324_defe98a7ad.png",
   "imageUrls": [
    "/images/promotion/p325_c905a042b0.jpg"
@@ -407,6 +415,7 @@
   "year": "2017",
   "subspecialty": "Glaucoma",
   "pdfPage": 328,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p329_c7b60f497c.png"
  },
  {
@@ -438,6 +447,7 @@
   "year": "2017",
   "subspecialty": "Pediatrics",
   "pdfPage": 331,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p332_d2a5d24667.jpg"
  },
  {
@@ -454,6 +464,7 @@
   "year": "2017",
   "subspecialty": "Pediatrics",
   "pdfPage": 332,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p333_1b77b3ed08.jpg"
  },
  {
@@ -469,6 +480,7 @@
   "year": "2017",
   "subspecialty": "Pediatrics",
   "pdfPage": 333,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p333_2a1c665033.jpg",
   "imageUrls": [
    "/images/promotion/p334_61315313e5.jpg"
@@ -516,7 +528,8 @@
   "explanation": "Aniridia is a disease marked by bilateral hypoplastic irides, foveal hypoplasia with poor visual acuity, and frequent nystagmus. Other associated common features include glaucoma, optic nerve hypoplasia, cataracts, and the development of diffuse corneal scarring later in life from limbal stem cell deficiency. The disease is caused by PAX6 gene mutations and can be hereditary or arise de novo. In those cases of hereditary aniridia there is no increased risk for Wilms tumor (also known as nephroblastoma) over the general population. In patients with seemingly sporadic aniridia, up to one third of patients will develop Wilms tumor and most are diagnosed with the tumor by 5 years of age. All children with sporadic aniridia should undergo genetic testing for the Wilms tumor genetic defect. Most patients with aniridia will have photosensitivity simply due to the large amount of light entering the eye. Reference: OphthoQ",
   "year": "2017",
   "subspecialty": "Pediatrics",
-  "pdfPage": 337
+  "pdfPage": 337,
+  "imageUrl": "/images/promotion/p337_7eb096146b.png"
  },
  {
   "id": 34,
@@ -581,7 +594,8 @@
   "explanation": "Answer A and B would have chin down posture - MED, brown syndrome, and A pattern esotropia have a chin up posture) - In monocular elevation deficiency: there is a profound inability to elevate one eye across the horizontal plane, from abduction to adduction (See pic) with Chin elevation may be present. - Know that indications for surgical treatment of monocular elevation deficiency include a large hypotropia on primary gaze and a chin-up head position. There are two main causes of monocular elevation deficiency: (1) Tight inferior rectus; and (2) Weak elevators of the eye (i.e. superior rectus / inferior oblique). This is why this condition used to be called double- elevator palsy. In strabismus surgery, one of the concepts is to release the restriction if there is a restriction. So we need to determine if the patient's monocular elevation deficiency is due to a tight inferior rectus or if it is due to weakly- innervated elevators. Thus, to differentiate the etiology, one would perform forced ductions. If there is restriction on forced ductions, then an inferior rectus; recession is appropriate. In the absence of restriction, one would transpose the medial and; lateral recti to the superior rectus. This is called the Knapp",
   "year": "2017",
   "subspecialty": "Pediatrics",
-  "pdfPage": 342
+  "pdfPage": 342,
+  "imageUrl": "/images/promotion/p342_206fbd2022.png"
  },
  {
   "id": 38,
@@ -597,6 +611,7 @@
   "year": "2017",
   "subspecialty": "Optics",
   "pdfPage": 346,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p347_1c61c17516.png"
  },
  {
@@ -628,6 +643,7 @@
   "year": "2017",
   "subspecialty": "Optics",
   "pdfPage": 347,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p347_620b1fc2c6.png"
  },
  {
@@ -1032,6 +1048,7 @@
   "year": "2017",
   "subspecialty": "Optics",
   "pdfPage": 368,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p368_c607f4beec.png"
  },
  {
@@ -1047,6 +1064,7 @@
   "year": "2017",
   "subspecialty": "Optics",
   "pdfPage": 369,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p369_c7a1bfb0f9.png"
  },
  {
@@ -1080,6 +1098,7 @@
   "year": "2017",
   "subspecialty": "Optics",
   "pdfPage": 371,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p371_9f5d4cc94e.png",
   "imageUrls": [
    "/images/promotion/p372_a0bd6843c2.png"
@@ -1098,6 +1117,7 @@
   "year": "2017",
   "subspecialty": "Optics",
   "pdfPage": 373,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p373_6f173535c3.png"
  },
  {
@@ -1595,6 +1615,7 @@
   "year": "2017",
   "subspecialty": "Optics",
   "pdfPage": 387,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p387_adbd613ddb.png"
  },
  {
@@ -1671,6 +1692,7 @@
   "year": "2017",
   "subspecialty": "Optics",
   "pdfPage": 388,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p388_88eb6c9a63.png"
  },
  {
@@ -1688,6 +1710,7 @@
   "year": "2017",
   "subspecialty": "Optics",
   "pdfPage": 389,
+  "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p389_f3dca963d9.png"
  },
  {
