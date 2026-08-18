@@ -114,9 +114,11 @@ export default function ExplanationPanel({ question, wasCorrect }: ExplanationPa
           className={`mt-4 p-3 rounded-lg review-note ${question.review.agrees ? "review-agrees" : "review-differs"}`}
         >
           <p className="text-xs font-semibold mb-1">
-            {question.review.agrees
-              ? "Reviewer agrees with this answer"
-              : `Reviewer disagrees — they answer ${question.review.answer}. The exam key above is ${question.correctAnswer}.`}
+            {question.review.answerMissing
+              ? `Careful — this recall looks incomplete. The reviewer's answer is ${question.review.answer}, which is not among the options above, so the option holding the right answer was probably lost when the question was recalled.`
+              : question.review.agrees
+                ? "Reviewer agrees with this answer"
+                : `Reviewer disagrees — they answer ${question.review.answer}. The exam key above is ${question.correctAnswer}.`}
             <span className="ml-2 font-normal opacity-75">
               ({question.review.confidence} confidence)
             </span>

@@ -829,7 +829,15 @@
   "imageUrls": [
    "/images/promotion/p417_c24045bda2.jpg"
   ],
-  "pageScanUrl": "/images/promotion-pages/page_416.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_416.jpg",
+  "review": {
+   "answer": "C",
+   "agrees": false,
+   "answerMissing": true,
+   "confidence": "low",
+   "explanation": "The cornea absorbs ultraviolet light below roughly 295 to 300 nm, and the crystalline lens is the principal absorber of ultraviolet A from about 300 to 400 nm, which is why aphakic eyes lose that protection and why ultraviolet-blocking intraocular lenses exist. The lens does yellow with age and progressively attenuates short-wavelength violet and blue light near 400 to 450 nm, but the examinable teaching point is the 300 to 400 nm band. Wavelengths of 100 to 300 nm never reach the lens because the cornea has already absorbed them.",
+   "concern": "The recalled option list is defective: options A, B and D are present but option C is missing entirely, and the missing option almost certainly read 300 to 400 nm, which is the correct answer. As printed, the keyed answer of 400 to 500 nm describes visible light that the lens largely transmits rather than its absorption band, so I cannot endorse it. Confidence is low only because the option text has been lost, not because the underlying physiology is unclear."
+  }
  },
  {
   "id": 36,

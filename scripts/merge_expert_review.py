@@ -74,7 +74,7 @@ def main():
             continue
         banks[path] = json.load(open(path, encoding="utf-8"))
 
-    attached = disagreements = skipped = 0
+    attached = disagreements = skipped = missing_option = 0
     conf = collections.Counter()
     for path, data in banks.items():
         for q in data:
@@ -84,11 +84,26 @@ def main():
                 continue
             answer = (r.get("answer") or "").strip().upper()
             explanation = clean(r.get("explanation"))
-            if answer not in q["options"] or len(explanation) < MIN_EXPLANATION:
-                # An answer outside the option set, or a stub explanation, is a
-                # broken review rather than a finding.
+            if len(explanation) < MIN_EXPLANATION:
                 skipped += 1
                 q.pop("review", None)
+                continue
+            if answer not in q["options"]:
+                # The reviewer picked a letter this recall does not offer. That
+                # is not a broken review -- it is evidence the recall lost the
+                # option that held the right answer, so the question cannot be
+                # answered correctly as it stands. Warn rather than discard.
+                q["review"] = {
+                    "answer": answer,
+                    "agrees": False,
+                    "answerMissing": True,
+                    "confidence": (r.get("confidence") or "low").lower(),
+                    "explanation": explanation,
+                }
+                concern = clean(r.get("concern"))
+                if concern:
+                    q["review"]["concern"] = concern
+                missing_option += 1
                 continue
             agrees = answer == q["correctAnswer"]
             entry = {
@@ -107,6 +122,7 @@ def main():
 
     print(f"  attached: {attached}   disagreeing with the source key: {disagreements}"
           f"   rejected as malformed: {skipped}")
+    print(f"  flagged: recall lost the option holding the right answer: {missing_option}")
     print(f"  reviewer confidence: {dict(conf)}")
 
     # ---------------------------------------------------------------- unkeyed

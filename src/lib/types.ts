@@ -52,6 +52,12 @@ export interface Question {
 export interface QuestionReview {
   answer: string;
   agrees: boolean;
+  /**
+   * The reviewer's answer is a letter this recall does not offer — evidence the
+   * option holding the right answer was lost, so the question is unanswerable
+   * as it stands.
+   */
+  answerMissing?: boolean;
   confidence: "high" | "medium" | "low";
   explanation: string;
   concern?: string;
