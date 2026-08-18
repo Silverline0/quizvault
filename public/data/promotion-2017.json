@@ -2418,7 +2418,13 @@
   "explanation": "Systemic immunosuppression using cyclophosphamide, azathioprine, or methotrexate can be attempted if conjunctival resection yields no improvement . Interferon alpha 2b has been used in patients who had hepatitis C and concomitant Mooren's ulceration. In more aggressive cases, oral corticosteroids, cyclosporine A, and methotrexate have also been used with some success Eye Wiki",
   "year": "2017",
   "subspecialty": "Optics",
-  "pdfPage": 387
+  "pdfPage": 387,
+  "review": {
+   "answer": "B",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Mooren ulcer occurs in two forms: a limited, unilateral, relatively indolent type in older patients, and an aggressive, bilateral, relentlessly progressive type in younger patients, so option A reverses the association. A well-recognised subset is associated with hepatitis C, and in those patients treating the underlying viral infection with interferon alfa-2b, with or without ribavirin, can produce dramatic healing of the ulcer, which makes B correct. The third stem fragment about progression toward the sclera is also wrong: sparing of the sclera is one of the features that separates Mooren ulcer from the peripheral ulcerative keratitis of systemic vasculitis, and Mooren spreads circumferentially and then centrally with an undermined leading edge."
+  }
  },
  {
   "id": 105,
@@ -2433,7 +2439,13 @@
   "explanation": "Eyewiki: Transcorneal interrupted suturing using a 10/00 monofilament Nylon suture has been described, frequently associated with intracameral injection of air/gas.",
   "year": "2017",
   "subspecialty": "Optics",
-  "pdfPage": 388
+  "pdfPage": 388,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "The aim in Descemet membrane detachment is to reappose the membrane to the posterior stroma, normally achieved by descemetopexy with an air or gas bubble such as SF6 or C3F8. For a large, planar or chronic detachment that will not tamponade with gas alone, transcorneal full-thickness 10-0 monofilament nylon sutures are placed to mechanically press the membrane back, usually combined with an intracameral air or gas fill, so A is the intended answer. Silicone oil in the anterior chamber has no role here and would risk endothelial damage and pressure problems, and deliberately leaving a large bolus of viscoelastic is actively harmful because it keeps the membrane away from the stroma and causes an intraocular pressure spike."
+  }
  },
  {
   "id": 106,
@@ -2448,7 +2460,13 @@
   "explanation": "Intracameral injection of cefuroxime during phacoemulsification is considered effective in preventing endophthalmitis.",
   "year": "2017",
   "subspecialty": "Optics",
-  "pdfPage": 388
+  "pdfPage": 388,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "The ESCRS multicentre endophthalmitis study demonstrated an approximately fivefold reduction in postoperative endophthalmitis with intracameral cefuroxime 1 mg in 0.1 mL given at the end of phacoemulsification, and this is the European recommendation. Perioperative topical fluoroquinolone such as levofloxacin did not show a statistically significant independent protective effect in that trial and is adjunctive at best. Vancomycin in the irrigating bottle is specifically not recommended: the delivered dose is unreliable, it promotes resistance to a last-line antistaphylococcal agent, and it has been linked to haemorrhagic occlusive retinal vasculitis."
+  }
  },
  {
   "id": 107,
@@ -2467,7 +2485,13 @@
   "pdfPage": 388,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p388_88eb6c9a63.png",
-  "pageScanUrl": "/images/promotion-pages/page_388.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_388.jpg",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Conjunctival intraepithelial neoplasia is by definition a dysplastic lesion of the surface epithelium, graded mild, moderate or severe according to how much of the epithelial thickness is occupied by dysplastic cells, becoming carcinoma in situ when full thickness, so dysplasia is the defining and grading characteristic. Loss of normal maturation, nuclear pleomorphism, increased mitoses and loss of goblet cells accompany it, while the epithelial basement membrane stays intact, which is what separates CIN from invasive squamous cell carcinoma. Acanthosis, hyperkeratosis seen clinically as leukoplakia, and epithelial hyperplasia are frequently present but are non-specific reactive changes that also occur in benign lesions such as pterygium or papilloma, so none of them defines the lesion."
+  }
  },
  {
   "id": 108,
@@ -2486,7 +2510,13 @@
   "pdfPage": 389,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p389_f3dca963d9.png",
-  "pageScanUrl": "/images/promotion-pages/page_389.jpg"
+  "pageScanUrl": "/images/promotion-pages/page_389.jpg",
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "The facial nerve emerges from the parotid gland as five main branches: temporal (frontal), zygomatic, buccal, marginal mandibular and cervical, so zygomatic is the only unambiguously correct main branch listed. The zygomaticofacial and infraorbital branches are sensory branches of the maxillary division of the trigeminal nerve, not of cranial nerve VII, which is the trap in this item. Temporal is a genuine main branch, but temporo-parietal is not the accepted anatomical name and conflates the nerve with the temporoparietal fascia, so zygomatic remains the best answer."
+  }
  },
  {
   "id": 109,
@@ -2502,7 +2532,13 @@
   "explanation": "No explanation was provided in the source document.",
   "year": "2017",
   "subspecialty": "Optics",
-  "pdfPage": 389
+  "pdfPage": 389,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "Rounding or blunting of the normally sharp medial canthal angle is the classic sign that the medial canthal tendon has been avulsed or disinserted, typically with a canalicular laceration or a naso-orbito-ethmoid injury, and it is usually accompanied by traumatic telecanthus and lateral displacement of the punctum. A medial wall blowout fracture on its own does not detach the tendon and presents instead with enophthalmos, orbital emphysema or restricted abduction. A tumour or an acute dacryocystitis produces a mass or an inflamed swelling below the medial canthal tendon but leaves the canthal angle itself anatomically intact."
+  }
  },
  {
   "id": 110,
@@ -2518,7 +2554,13 @@
   "explanation": "63. Brucella treatment",
   "year": "2017",
   "subspecialty": "Optics",
-  "pdfPage": 389
+  "pdfPage": 389,
+  "review": {
+   "answer": "A",
+   "agrees": true,
+   "confidence": "high",
+   "explanation": "The Branch Vein Occlusion Study set the treatment threshold for macular oedema after BRVO as visual acuity of 20/40 or worse persisting for at least 3 months, with intraretinal haemorrhage cleared enough to permit angiography and grid laser, which is exactly option A. A specific retinal thickness value, distance from the FAZ, or the presence of hard exudates were not BVOS criteria; five disc diameters of non-perfusion is the BVOS threshold for watching for neovascularisation, not for treating oedema, so D is a deliberate near-miss. In current practice anti-VEGF therapy has largely replaced grid laser as first line, but the question is asking for the classic BVOS criterion."
+  }
  },
  {
   "id": 111,
@@ -2534,6 +2576,13 @@
   "explanation": "No explanation was provided in the source document. potential acuity estimation; computerized corneal topography; anterior segment OCT; trial of gas permeable contact lens the most site of resistance in aqueous flow: Juxtacanalicular; uveal meshwork; corneosclearal; schlemm canal",
   "year": "2017",
   "subspecialty": "Optics",
-  "pdfPage": 390
+  "pdfPage": 390,
+  "review": {
+   "answer": "D",
+   "agrees": true,
+   "confidence": "medium",
+   "explanation": "After a complicated cataract extraction, pseudophakic cystoid macular oedema is the commonest treatable reason for vision failing to improve once the cornea has cleared, and it is easily confirmed on macular OCT and treated with topical NSAID plus corticosteroid, escalating to sub-Tenon or intravitreal steroid. PTK addresses anterior stromal irregularity and would do nothing for an endothelial or macular problem, and would in fact induce a hyperopic shift. Cultured endothelial cell therapy is investigational rather than a standard clinical option. Repeat DSAEK is indicated only if the graft has actually failed or dislocated, which this stem does not state, so treating the macula is the intervention most likely to gain vision.",
+   "concern": "The stem is truncated in this recall (age and, more importantly, the graft and corneal status are missing). The answer assumes a clear, attached graft; if the recall omitted graft failure or persistent corneal oedema, repeat DSAEK would become the answer."
+  }
  }
 ]
