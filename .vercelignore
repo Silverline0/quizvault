@@ -1,0 +1,11 @@
+# Source PDFs — parsed offline into public/data, never served
+*.pdf
+
+# Offline pipeline: parsers, reviewer inputs, audit artifacts.
+# None of this runs at request time; the app reads only public/data + public/images.
+scripts/
+
+# Local tooling
+.claude/
+__pycache__/
+*.pyc
