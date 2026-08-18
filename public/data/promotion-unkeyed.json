@@ -17,7 +17,8 @@
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
   "sourceHint": "Previously Answered As B",
-  "imageUrl": "/images/promotion/p568_ad6c234cf3.png"
+  "imageUrl": "/images/promotion/p568_ad6c234cf3.png",
+  "pageScanUrl": "/images/promotion-pages/page_568.jpg"
  },
  {
   "id": 2,
@@ -36,7 +37,8 @@
   "pdfPage": 571,
   "reviewerAnswered": true,
   "reviewConfidence": "low",
-  "reviewConcern": "Genuinely ambiguous polarity: a defensible case can be made for A as the false statement."
+  "reviewConcern": "Genuinely ambiguous polarity: a defensible case can be made for A as the false statement.",
+  "pageScanUrl": "/images/promotion-pages/page_571.jpg"
  },
  {
   "id": 3,
@@ -53,7 +55,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 573,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_573.jpg"
  },
  {
   "id": 4,
@@ -76,7 +79,8 @@
   "imageUrl": "/images/promotion/p590_9377872c27.png",
   "imageUrls": [
    "/images/promotion/p590_419b1c8977.png"
-  ]
+  ],
+  "pageScanUrl": "/images/promotion-pages/page_589.jpg"
  },
  {
   "id": 5,
@@ -94,7 +98,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 590,
   "reviewerAnswered": true,
-  "reviewConfidence": "medium"
+  "reviewConfidence": "medium",
+  "pageScanUrl": "/images/promotion-pages/page_590.jpg"
  },
  {
   "id": 6,
@@ -111,7 +116,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 598,
   "reviewerAnswered": true,
-  "reviewConfidence": "medium"
+  "reviewConfidence": "medium",
+  "pageScanUrl": "/images/promotion-pages/page_598.jpg"
  },
  {
   "id": 7,
@@ -129,7 +135,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 603,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_603.jpg"
  },
  {
   "id": 8,
@@ -148,7 +155,8 @@
   "pdfPage": 612,
   "reviewerAnswered": true,
   "reviewConfidence": "low",
-  "reviewConcern": "Answer reached mainly by elimination; option D is arguably true and options B and C are each defensible as the intended false statement."
+  "reviewConcern": "Answer reached mainly by elimination; option D is arguably true and options B and C are each defensible as the intended false statement.",
+  "pageScanUrl": "/images/promotion-pages/page_612.jpg"
  },
  {
   "id": 9,
@@ -165,7 +173,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 626,
   "reviewerAnswered": true,
-  "reviewConfidence": "medium"
+  "reviewConfidence": "medium",
+  "pageScanUrl": "/images/promotion-pages/page_626.jpg"
  },
  {
   "id": 10,
@@ -183,7 +192,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 630,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_630.jpg"
  },
  {
   "id": 11,
@@ -200,7 +210,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 636,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_636.jpg"
  },
  {
   "id": 12,
@@ -219,7 +230,8 @@
   "pdfPage": 647,
   "reviewerAnswered": true,
   "reviewConfidence": "high",
-  "sourceHint": "all are granulomatous (old Q) In many textbooks only mutton-"
+  "sourceHint": "all are granulomatous (old Q) In many textbooks only mutton-",
+  "pageScanUrl": "/images/promotion-pages/page_647.jpg"
  },
  {
   "id": 13,
@@ -238,7 +250,8 @@
   "pdfPage": 469,
   "reviewerAnswered": true,
   "reviewConfidence": "high",
-  "sourceHint": "Answered previously as B"
+  "sourceHint": "Answered previously as B",
+  "pageScanUrl": "/images/promotion-pages/page_469.jpg"
  },
  {
   "id": 14,
@@ -258,7 +271,8 @@
   "reviewerAnswered": true,
   "reviewConfidence": "low",
   "sourceHint": "?B",
-  "reviewConcern": "This is a soft item. 'Light patch' may be a transcription of 'tight patch' or 'pressure patch', in which case all four options are legitimate management steps. The compiler's hint pointed to the bandage contact lens, which is unambiguously a standard treatment, so I have diverged from it."
+  "reviewConcern": "This is a soft item. 'Light patch' may be a transcription of 'tight patch' or 'pressure patch', in which case all four options are legitimate management steps. The compiler's hint pointed to the bandage contact lens, which is unambiguously a standard treatment, so I have diverged from it.",
+  "pageScanUrl": "/images/promotion-pages/page_485.jpg"
  },
  {
   "id": 15,
@@ -278,7 +292,8 @@
   "reviewConfidence": "medium",
   "sourceHint": "most probably D according to the table from AAO",
   "reviewConcern": "Options A and B have been merged into a single option A, so the reader sees a false statement and a roughly true one under the same letter; the options should be split before this ships. The stem is also entirely bleed-through text about Purtscher-like retinopathy and must be replaced with the real lattice degeneration stem.",
-  "imageUrl": "/images/promotion/p494_1982dd1ae3.jpg"
+  "imageUrl": "/images/promotion/p494_1982dd1ae3.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_493.jpg"
  },
  {
   "id": 16,
@@ -296,7 +311,8 @@
   "pdfPage": 498,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "reviewConcern": "The stem is preceded by bleed-through text about lens dislocation in homocystinuria that should be stripped before shipping."
+  "reviewConcern": "The stem is preceded by bleed-through text about lens dislocation in homocystinuria that should be stripped before shipping.",
+  "pageScanUrl": "/images/promotion-pages/page_498.jpg"
  },
  {
   "id": 17,
@@ -317,7 +333,8 @@
   "reviewConfidence": "high",
   "sourceHint": "most probably B - kanski",
   "reviewConcern": "The stem is preceded by bleed-through text about inferior oblique actions. This answer diverges from the compiler's hint of B, which overstates the Kanski timing advice as an absolute cut-off.",
-  "imageUrl": "/images/promotion/p504_f2344533b5.png"
+  "imageUrl": "/images/promotion/p504_f2344533b5.png",
+  "pageScanUrl": "/images/promotion-pages/page_504.jpg"
  },
  {
   "id": 18,
@@ -338,7 +355,8 @@
   "reviewConfidence": "medium",
   "sourceHint": "most probably A",
   "reviewConcern": "This diverges from the compiler's hint of A. Option A's phrase 'drug inactivity' is loosely worded, so the item remains arguable.",
-  "imageUrl": "/images/promotion/p512_fcb929ec0d.jpg"
+  "imageUrl": "/images/promotion/p512_fcb929ec0d.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_512.jpg"
  },
  {
   "id": 19,
@@ -357,7 +375,8 @@
   "pdfPage": 515,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "reviewConcern": "Option A is transcribed as 'Miosis' with a trailing question mark; if the original word was not 'mitosis' the meaning of the option changes."
+  "reviewConcern": "Option A is transcribed as 'Miosis' with a trailing question mark; if the original word was not 'mitosis' the meaning of the option changes.",
+  "pageScanUrl": "/images/promotion-pages/page_515.jpg"
  },
  {
   "id": 20,
@@ -376,7 +395,8 @@
   "pdfPage": 516,
   "reviewerAnswered": true,
   "reviewConfidence": "high",
-  "imageUrl": "/images/promotion/p516_f082ca745a.png"
+  "imageUrl": "/images/promotion/p516_f082ca745a.png",
+  "pageScanUrl": "/images/promotion-pages/page_516.jpg"
  },
  {
   "id": 21,
@@ -396,7 +416,8 @@
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
   "reviewConcern": "The options are written without signs; the intended answer is minus 1.50 D.",
-  "imageUrl": "/images/promotion/p517_07f6d8c181.jpg"
+  "imageUrl": "/images/promotion/p517_07f6d8c181.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_516.jpg"
  },
  {
   "id": 22,
@@ -413,7 +434,8 @@
   "pdfPage": 517,
   "reviewerAnswered": true,
   "reviewConfidence": "high",
-  "imageUrl": "/images/promotion/p517_db6d0b486b.jpg"
+  "imageUrl": "/images/promotion/p517_db6d0b486b.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_517.jpg"
  },
  {
   "id": 23,
@@ -431,7 +453,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 518,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_518.jpg"
  },
  {
   "id": 24,
@@ -450,7 +473,8 @@
   "pdfPage": 519,
   "reviewerAnswered": true,
   "reviewConfidence": "low",
-  "reviewConcern": "Option C is a live alternative if the examiners intended the teaching that pH predicts severity better than the identity of the agent, and some texts describe bleach as causing only mild ocular injury."
+  "reviewConcern": "Option C is a live alternative if the examiners intended the teaching that pH predicts severity better than the identity of the agent, and some texts describe bleach as causing only mild ocular injury.",
+  "pageScanUrl": "/images/promotion-pages/page_519.jpg"
  },
  {
   "id": 25,
@@ -468,7 +492,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 520,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_520.jpg"
  },
  {
   "id": 26,
@@ -487,7 +512,8 @@
   "pdfPage": 521,
   "reviewerAnswered": true,
   "reviewConfidence": "high",
-  "imageUrl": "/images/promotion/p521_2c169c15e6.jpg"
+  "imageUrl": "/images/promotion/p521_2c169c15e6.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_521.jpg"
  },
  {
   "id": 27,
@@ -505,7 +531,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 522,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_522.jpg"
  },
  {
   "id": 28,
@@ -523,7 +550,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 525,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_525.jpg"
  },
  {
   "id": 29,
@@ -541,7 +569,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 525,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_525.jpg"
  },
  {
   "id": 30,
@@ -557,7 +586,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 525,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_525.jpg"
  },
  {
   "id": 31,
@@ -578,7 +608,8 @@
   "imageUrl": "/images/promotion/p526_20a646c82d.jpg",
   "imageUrls": [
    "/images/promotion/p526_3448b4315a.jpg"
-  ]
+  ],
+  "pageScanUrl": "/images/promotion-pages/page_526.jpg"
  },
  {
   "id": 32,
@@ -595,7 +626,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 527,
   "reviewerAnswered": true,
-  "reviewConfidence": "medium"
+  "reviewConfidence": "medium",
+  "pageScanUrl": "/images/promotion-pages/page_527.jpg"
  },
  {
   "id": 33,
@@ -613,7 +645,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 527,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_527.jpg"
  },
  {
   "id": 34,
@@ -631,7 +664,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 529,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_529.jpg"
  },
  {
   "id": 35,
@@ -649,7 +683,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 530,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_530.jpg"
  },
  {
   "id": 36,
@@ -667,7 +702,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 530,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_530.jpg"
  },
  {
   "id": 37,
@@ -686,7 +722,8 @@
   "pdfPage": 531,
   "reviewerAnswered": true,
   "reviewConfidence": "high",
-  "imageUrl": "/images/promotion/p531_4675196057.jpg"
+  "imageUrl": "/images/promotion/p531_4675196057.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_531.jpg"
  },
  {
   "id": 38,
@@ -704,7 +741,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 532,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_532.jpg"
  },
  {
   "id": 39,
@@ -722,7 +760,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 532,
   "reviewerAnswered": true,
-  "reviewConfidence": "medium"
+  "reviewConfidence": "medium",
+  "pageScanUrl": "/images/promotion-pages/page_532.jpg"
  },
  {
   "id": 40,
@@ -740,7 +779,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 533,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_533.jpg"
  },
  {
   "id": 41,
@@ -758,7 +798,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 533,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_533.jpg"
  },
  {
   "id": 42,
@@ -776,7 +817,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 534,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_534.jpg"
  },
  {
   "id": 43,
@@ -794,7 +836,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 534,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_534.jpg"
  },
  {
   "id": 44,
@@ -812,7 +855,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 535,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_535.jpg"
  },
  {
   "id": 45,
@@ -830,7 +874,8 @@
   "pdfPage": 536,
   "reviewerAnswered": true,
   "reviewConfidence": "high",
-  "imageUrl": "/images/promotion/p536_cedf1d1628.jpg"
+  "imageUrl": "/images/promotion/p536_cedf1d1628.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_536.jpg"
  },
  {
   "id": 46,
@@ -848,7 +893,8 @@
   "pdfPage": 536,
   "reviewerAnswered": true,
   "reviewConfidence": "high",
-  "imageUrl": "/images/promotion/p537_1c4fd93e65.jpg"
+  "imageUrl": "/images/promotion/p537_1c4fd93e65.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_536.jpg"
  },
  {
   "id": 47,
@@ -866,7 +912,8 @@
   "pdfPage": 537,
   "reviewerAnswered": true,
   "reviewConfidence": "high",
-  "imageUrl": "/images/promotion/p537_77dbac3f1d.png"
+  "imageUrl": "/images/promotion/p537_77dbac3f1d.png",
+  "pageScanUrl": "/images/promotion-pages/page_537.jpg"
  },
  {
   "id": 48,
@@ -883,7 +930,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 537,
   "reviewerAnswered": true,
-  "reviewConfidence": "medium"
+  "reviewConfidence": "medium",
+  "pageScanUrl": "/images/promotion-pages/page_537.jpg"
  },
  {
   "id": 49,
@@ -902,7 +950,8 @@
   "pdfPage": 538,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "imageUrl": "/images/promotion/p538_8aada51310.jpg"
+  "imageUrl": "/images/promotion/p538_8aada51310.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_538.jpg"
  },
  {
   "id": 50,
@@ -920,7 +969,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 540,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_540.jpg"
  },
  {
   "id": 51,
@@ -938,7 +988,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 541,
   "reviewerAnswered": true,
-  "reviewConfidence": "medium"
+  "reviewConfidence": "medium",
+  "pageScanUrl": "/images/promotion-pages/page_541.jpg"
  },
  {
   "id": 52,
@@ -955,7 +1006,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 542,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_542.jpg"
  },
  {
   "id": 53,
@@ -974,7 +1026,8 @@
   "pdfPage": 397,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "reviewConcern": "Recall refers to a photograph that is not attached, but the stem states the finding in words."
+  "reviewConcern": "Recall refers to a photograph that is not attached, but the stem states the finding in words.",
+  "pageScanUrl": "/images/promotion-pages/page_397.jpg"
  },
  {
   "id": 54,
@@ -993,7 +1046,8 @@
   "pdfPage": 398,
   "reviewerAnswered": true,
   "reviewConfidence": "low",
-  "reviewConcern": "Genuinely split between ultraviolet (exfoliation syndrome) and infrared (true exfoliation of the lens capsule) depending on which entity the writer meant."
+  "reviewConcern": "Genuinely split between ultraviolet (exfoliation syndrome) and infrared (true exfoliation of the lens capsule) depending on which entity the writer meant.",
+  "pageScanUrl": "/images/promotion-pages/page_398.jpg"
  },
  {
   "id": 55,
@@ -1011,7 +1065,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 399,
   "reviewerAnswered": true,
-  "reviewConfidence": "medium"
+  "reviewConfidence": "medium",
+  "pageScanUrl": "/images/promotion-pages/page_399.jpg"
  },
  {
   "id": 56,
@@ -1028,7 +1083,8 @@
   "pdfPage": 405,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "reviewConcern": "Recall refers to a photograph that is not attached, but the choice between a diagnostic test and a definitive operation does not depend on it."
+  "reviewConcern": "Recall refers to a photograph that is not attached, but the choice between a diagnostic test and a definitive operation does not depend on it.",
+  "pageScanUrl": "/images/promotion-pages/page_405.jpg"
  },
  {
   "id": 57,
@@ -1046,7 +1102,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 407,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_407.jpg"
  },
  {
   "id": 58,
@@ -1063,7 +1120,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 407,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_407.jpg"
  },
  {
   "id": 59,
@@ -1081,7 +1139,8 @@
   "pdfPage": 408,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "reviewConcern": "The stem is vague about what the unilateral colour change represents, so the underlying diagnosis is uncertain; the management principle for failed maximal medical therapy is what carries the answer."
+  "reviewConcern": "The stem is vague about what the unilateral colour change represents, so the underlying diagnosis is uncertain; the management principle for failed maximal medical therapy is what carries the answer.",
+  "pageScanUrl": "/images/promotion-pages/page_408.jpg"
  },
  {
   "id": 60,
@@ -1099,7 +1158,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 408,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_408.jpg"
  },
  {
   "id": 61,
@@ -1118,7 +1178,8 @@
   "reviewerAnswered": true,
   "reviewConfidence": "low",
   "reviewConcern": "Option C is absent from the recall (the letters jump A, B, D) and the standard first-line answer, topical aqueous suppressants, is very likely the option that was lost. The gonioscopy image could not be reviewed.",
-  "imageUrl": "/images/promotion/p409_1baba061f0.png"
+  "imageUrl": "/images/promotion/p409_1baba061f0.png",
+  "pageScanUrl": "/images/promotion-pages/page_409.jpg"
  },
  {
   "id": 62,
@@ -1137,7 +1198,8 @@
   "pdfPage": 409,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "reviewConcern": "Some examiners treat any vitreous haemorrhage in a diabetic as evidence of high-risk PDR, so option D is a live alternative."
+  "reviewConcern": "Some examiners treat any vitreous haemorrhage in a diabetic as evidence of high-risk PDR, so option D is a live alternative.",
+  "pageScanUrl": "/images/promotion-pages/page_409.jpg"
  },
  {
   "id": 63,
@@ -1156,7 +1218,8 @@
   "pdfPage": 410,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "reviewConcern": "Option B carries a stray parenthetical about relapse risk that appears to belong to option D, and option D (steroids reduce relapse) is arguably also true, which softens the item."
+  "reviewConcern": "Option B carries a stray parenthetical about relapse risk that appears to belong to option D, and option D (steroids reduce relapse) is arguably also true, which softens the item.",
+  "pageScanUrl": "/images/promotion-pages/page_410.jpg"
  },
  {
   "id": 64,
@@ -1174,7 +1237,8 @@
   "pdfPage": 412,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "reviewConcern": "Option C reads '1.5 bo od and 1.5 bi os'; the 'bi' is almost certainly a transcription slip for 'bo', since only an equal base-out split is equivalent. Taken literally, no option is correct."
+  "reviewConcern": "Option C reads '1.5 bo od and 1.5 bi os'; the 'bi' is almost certainly a transcription slip for 'bo', since only an equal base-out split is equivalent. Taken literally, no option is correct.",
+  "pageScanUrl": "/images/promotion-pages/page_412.jpg"
  },
  {
   "id": 65,
@@ -1193,7 +1257,8 @@
   "pdfPage": 414,
   "reviewerAnswered": true,
   "reviewConfidence": "high",
-  "imageUrl": "/images/promotion/p415_d8f9b0f338.png"
+  "imageUrl": "/images/promotion/p415_d8f9b0f338.png",
+  "pageScanUrl": "/images/promotion-pages/page_414.jpg"
  },
  {
   "id": 66,
@@ -1212,7 +1277,8 @@
   "pdfPage": 419,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "reviewConcern": "Some question banks key this as viral resistance, so the item is arguable."
+  "reviewConcern": "Some question banks key this as viral resistance, so the item is arguable.",
+  "pageScanUrl": "/images/promotion-pages/page_419.jpg"
  },
  {
   "id": 67,
@@ -1230,7 +1296,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 428,
   "reviewerAnswered": true,
-  "reviewConfidence": "medium"
+  "reviewConfidence": "medium",
+  "pageScanUrl": "/images/promotion-pages/page_428.jpg"
  },
  {
   "id": 68,
@@ -1248,7 +1315,8 @@
   "pdfPage": 435,
   "reviewerAnswered": true,
   "reviewConfidence": "low",
-  "reviewConcern": "The stem is garbled and it is unclear whether the examiners wanted the mechanism (exodeviation) or the resulting symptom, so option C is a live alternative."
+  "reviewConcern": "The stem is garbled and it is unclear whether the examiners wanted the mechanism (exodeviation) or the resulting symptom, so option C is a live alternative.",
+  "pageScanUrl": "/images/promotion-pages/page_435.jpg"
  },
  {
   "id": 69,
@@ -1265,7 +1333,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 435,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_435.jpg"
  },
  {
   "id": 70,
@@ -1283,7 +1352,8 @@
   "pdfPage": 436,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "reviewConcern": "Option A is a reasonable alternative, since an anomalous head posture also degrades spectacle optics."
+  "reviewConcern": "Option A is a reasonable alternative, since an anomalous head posture also degrades spectacle optics.",
+  "pageScanUrl": "/images/promotion-pages/page_436.jpg"
  },
  {
   "id": 71,
@@ -1302,7 +1372,8 @@
   "reviewConfidence": "medium",
   "sourceHint": "Incomplete question; depend on the given picture and the scenario",
   "reviewConcern": "The image is not retrievable, so the answer rests on the recaller's note that the case was an optic nerve sheath meningioma.",
-  "imageUrl": "/images/promotion/p318_7adda9f6c2.jpg"
+  "imageUrl": "/images/promotion/p318_7adda9f6c2.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_318.jpg"
  },
  {
   "id": 72,
@@ -1324,7 +1395,8 @@
   "imageUrl": "/images/promotion/p327_14532f813f.png",
   "imageUrls": [
    "/images/promotion/p324_defe98a7ad.png"
-  ]
+  ],
+  "pageScanUrl": "/images/promotion-pages/page_327.jpg"
  },
  {
   "id": 73,
@@ -1342,7 +1414,8 @@
   "reviewerAnswered": true,
   "reviewConfidence": "low",
   "sourceHint": "Incomplete question",
-  "reviewConcern": "The distinction between type 1 and type 2 rests entirely on which duction is limited in a cardinal gaze montage that is not available; the answer relies on base rates."
+  "reviewConcern": "The distinction between type 1 and type 2 rests entirely on which duction is limited in a cardinal gaze montage that is not available; the answer relies on base rates.",
+  "pageScanUrl": "/images/promotion-pages/page_339.jpg"
  },
  {
   "id": 74,
@@ -1361,7 +1434,8 @@
   "reviewConfidence": "low",
   "sourceHint": "Incomplete question and I think they meant head turn not tilt (its direction",
   "reviewConcern": "The recaller could not remember which duction was limited and the image is not retrievable, so this relies on the direction of the face turn plus base rates.",
-  "imageUrl": "/images/promotion/p341_447cfb4d0c.png"
+  "imageUrl": "/images/promotion/p341_447cfb4d0c.png",
+  "pageScanUrl": "/images/promotion-pages/page_341.jpg"
  },
  {
   "id": 75,
@@ -1380,7 +1454,8 @@
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
   "sourceHint": "Previously answered as B; Correct answer probably A?",
-  "reviewConcern": "The compiler leaned to A while the earlier key recorded B; the specific mention of a 45 minute patch strongly suggests the monocular occlusion test was intended, which is why B is given."
+  "reviewConcern": "The compiler leaned to A while the earlier key recorded B; the specific mention of a 45 minute patch strongly suggests the monocular occlusion test was intended, which is why B is given.",
+  "pageScanUrl": "/images/promotion-pages/page_357.jpg"
  },
  {
   "id": 76,
@@ -1401,7 +1476,8 @@
   "reviewConfidence": "low",
   "sourceHint": "Previously answered as C",
   "reviewConcern": "The earlier key recorded C, which would only make sense if the lesion were intraocular; the stem says conjunctival and asks for treatment. Option B is unintelligible as recorded and the photograph is not retrievable.",
-  "imageUrl": "/images/promotion/p364_7e6f29de40.png"
+  "imageUrl": "/images/promotion/p364_7e6f29de40.png",
+  "pageScanUrl": "/images/promotion-pages/page_363.jpg"
  },
  {
   "id": 77,
@@ -1420,7 +1496,8 @@
   "pdfPage": 371,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "sourceHint": "Previously answered C"
+  "sourceHint": "Previously answered C",
+  "pageScanUrl": "/images/promotion-pages/page_371.jpg"
  },
  {
   "id": 78,
@@ -1439,7 +1516,8 @@
   "pdfPage": 373,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "sourceHint": "Previously answered as C"
+  "sourceHint": "Previously answered as C",
+  "pageScanUrl": "/images/promotion-pages/page_373.jpg"
  },
  {
   "id": 79,
@@ -1459,7 +1537,8 @@
   "reviewerAnswered": true,
   "reviewConfidence": "low",
   "sourceHint": "previously answered D",
-  "reviewConcern": "C and D rest on the same optical principle and the question does not clearly separate them; the earlier key recorded D, which is why it is retained."
+  "reviewConcern": "C and D rest on the same optical principle and the question does not clearly separate them; the earlier key recorded D, which is why it is retained.",
+  "pageScanUrl": "/images/promotion-pages/page_374.jpg"
  },
  {
   "id": 80,
@@ -1478,7 +1557,8 @@
   "pdfPage": 375,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "sourceHint": "Previously answered as B"
+  "sourceHint": "Previously answered as B",
+  "pageScanUrl": "/images/promotion-pages/page_375.jpg"
  },
  {
   "id": 81,
@@ -1498,7 +1578,8 @@
   "reviewerAnswered": true,
   "reviewConfidence": "low",
   "sourceHint": "Previously answered as D",
-  "reviewConcern": "The topography map is not available, so the steep axis is inferred only from the word oblique and from which option lies in the oblique range."
+  "reviewConcern": "The topography map is not available, so the steep axis is inferred only from the word oblique and from which option lies in the oblique range.",
+  "pageScanUrl": "/images/promotion-pages/page_376.jpg"
  },
  {
   "id": 82,
@@ -1517,7 +1598,8 @@
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
   "sourceHint": "Previously answered as B",
-  "reviewConcern": "The photograph is not retrievable, so the answer rests on the description of a cloudy cornea without buphthalmos."
+  "reviewConcern": "The photograph is not retrievable, so the answer rests on the description of a cloudy cornea without buphthalmos.",
+  "pageScanUrl": "/images/promotion-pages/page_376.jpg"
  },
  {
   "id": 83,
@@ -1535,7 +1617,8 @@
   "pdfPage": 379,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "sourceHint": "previously answered as B"
+  "sourceHint": "previously answered as B",
+  "pageScanUrl": "/images/promotion-pages/page_379.jpg"
  },
  {
   "id": 84,
@@ -1553,7 +1636,8 @@
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
   "sourceHint": "previously answered A",
-  "reviewConcern": "Recall refers to a fundus photograph that is not attached, but the question turns on risk factors rather than on the image."
+  "reviewConcern": "Recall refers to a fundus photograph that is not attached, but the question turns on risk factors rather than on the image.",
+  "pageScanUrl": "/images/promotion-pages/page_380.jpg"
  },
  {
   "id": 85,
@@ -1571,7 +1655,8 @@
   "pdfPage": 381,
   "reviewerAnswered": true,
   "reviewConfidence": "high",
-  "sourceHint": "?A"
+  "sourceHint": "?A",
+  "pageScanUrl": "/images/promotion-pages/page_381.jpg"
  },
  {
   "id": 86,
@@ -1590,7 +1675,8 @@
   "pdfPage": 383,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "reviewConcern": "Wording is ambiguous between the additional power needed (1 D) and the total dioptric demand at 25 cm (4 D); I read it as the former because the amplitude is given."
+  "reviewConcern": "Wording is ambiguous between the additional power needed (1 D) and the total dioptric demand at 25 cm (4 D); I read it as the former because the amplitude is given.",
+  "pageScanUrl": "/images/promotion-pages/page_383.jpg"
  },
  {
   "id": 87,
@@ -1609,7 +1695,8 @@
   "pdfPage": 391,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "reviewConcern": "The exact calculated add is plus 1.25, which is not among the options; plus 1.75 is the weakest offered power that still satisfies the half-amplitude reserve rule."
+  "reviewConcern": "The exact calculated add is plus 1.25, which is not among the options; plus 1.75 is the weakest offered power that still satisfies the half-amplitude reserve rule.",
+  "pageScanUrl": "/images/promotion-pages/page_391.jpg"
  },
  {
   "id": 88,
@@ -1627,7 +1714,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 391,
   "reviewerAnswered": true,
-  "reviewConfidence": "medium"
+  "reviewConfidence": "medium",
+  "pageScanUrl": "/images/promotion-pages/page_391.jpg"
  },
  {
   "id": 89,
@@ -1645,7 +1733,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 391,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_391.jpg"
  },
  {
   "id": 90,
@@ -1665,7 +1754,8 @@
   "pdfPage": 391,
   "reviewerAnswered": true,
   "reviewConfidence": "high",
-  "reviewConcern": "Option E is contaminated text belonging to the next question in the source and should be stripped before shipping."
+  "reviewConcern": "Option E is contaminated text belonging to the next question in the source and should be stripped before shipping.",
+  "pageScanUrl": "/images/promotion-pages/page_391.jpg"
  },
  {
   "id": 91,
@@ -1683,7 +1773,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 391,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_391.jpg"
  },
  {
   "id": 92,
@@ -1699,7 +1790,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 392,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_392.jpg"
  },
  {
   "id": 93,
@@ -1716,7 +1808,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 392,
   "reviewerAnswered": true,
-  "reviewConfidence": "medium"
+  "reviewConfidence": "medium",
+  "pageScanUrl": "/images/promotion-pages/page_392.jpg"
  },
  {
   "id": 94,
@@ -1735,7 +1828,8 @@
   "pdfPage": 392,
   "reviewerAnswered": true,
   "reviewConfidence": "high",
-  "reviewConcern": "Options A, B and C carry the compiler's bracketed answer explanations, which give the key away, and option D has trailing text from the following question. The option text needs cleaning before shipping."
+  "reviewConcern": "Options A, B and C carry the compiler's bracketed answer explanations, which give the key away, and option D has trailing text from the following question. The option text needs cleaning before shipping.",
+  "pageScanUrl": "/images/promotion-pages/page_392.jpg"
  },
  {
   "id": 95,
@@ -1754,7 +1848,8 @@
   "pdfPage": 392,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "reviewConcern": "Stem is extremely terse; the tempo framework is the only plausible reading."
+  "reviewConcern": "Stem is extremely terse; the tempo framework is the only plausible reading.",
+  "pageScanUrl": "/images/promotion-pages/page_392.jpg"
  },
  {
   "id": 96,
@@ -1772,7 +1867,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 393,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_393.jpg"
  },
  {
   "id": 97,
@@ -1791,7 +1887,8 @@
   "pdfPage": 393,
   "reviewerAnswered": true,
   "reviewConfidence": "high",
-  "reviewConcern": "Option D has a trailing bibliographic citation from the source that should be stripped."
+  "reviewConcern": "Option D has a trailing bibliographic citation from the source that should be stripped.",
+  "pageScanUrl": "/images/promotion-pages/page_393.jpg"
  },
  {
   "id": 98,
@@ -1809,7 +1906,8 @@
   "pdfPage": 393,
   "reviewerAnswered": true,
   "reviewConfidence": "high",
-  "reviewConcern": "Option C carries the stem of the following question as trailing text and needs cleaning."
+  "reviewConcern": "Option C carries the stem of the following question as trailing text and needs cleaning.",
+  "pageScanUrl": "/images/promotion-pages/page_393.jpg"
  },
  {
   "id": 99,
@@ -1827,7 +1925,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 394,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_394.jpg"
  },
  {
   "id": 100,
@@ -1845,7 +1944,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 395,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_395.jpg"
  },
  {
   "id": 101,
@@ -1862,7 +1962,8 @@
   "pdfPage": 395,
   "reviewerAnswered": true,
   "reviewConfidence": "high",
-  "reviewConcern": "Option B carries the stem of the following question as trailing text and needs cleaning."
+  "reviewConcern": "Option B carries the stem of the following question as trailing text and needs cleaning.",
+  "pageScanUrl": "/images/promotion-pages/page_395.jpg"
  },
  {
   "id": 102,
@@ -1880,7 +1981,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 396,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_396.jpg"
  },
  {
   "id": 103,
@@ -1899,7 +2001,8 @@
   "pdfPage": 396,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "reviewConcern": "Arguably double-keyed: uncontrolled hypertension is also a labelled contraindication to cyclosporine."
+  "reviewConcern": "Arguably double-keyed: uncontrolled hypertension is also a labelled contraindication to cyclosporine.",
+  "pageScanUrl": "/images/promotion-pages/page_396.jpg"
  },
  {
   "id": 104,
@@ -1917,7 +2020,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 396,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_396.jpg"
  },
  {
   "id": 105,
@@ -1935,7 +2039,8 @@
   "pdfPage": 397,
   "reviewerAnswered": true,
   "reviewConfidence": "high",
-  "reviewConcern": "Option A contains the compiler's bracketed commentary, which partly reveals the key; the option text needs cleaning."
+  "reviewConcern": "Option A contains the compiler's bracketed commentary, which partly reveals the key; the option text needs cleaning.",
+  "pageScanUrl": "/images/promotion-pages/page_397.jpg"
  },
  {
   "id": 106,
@@ -1951,7 +2056,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 397,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_397.jpg"
  },
  {
   "id": 107,
@@ -1968,7 +2074,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 397,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_397.jpg"
  },
  {
   "id": 108,
@@ -1986,7 +2093,8 @@
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
   "sourceHint": "?A, I couldn't find an exact time of the occurrence. But it often occurs early post-op",
-  "reviewConcern": "No source gives a precise week count; the answer rests on the early timing of flap slippage."
+  "reviewConcern": "No source gives a precise week count; the answer rests on the early timing of flap slippage.",
+  "pageScanUrl": "/images/promotion-pages/page_149.jpg"
  },
  {
   "id": 109,
@@ -2004,7 +2112,8 @@
   "pdfPage": 171,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "sourceHint": "was answered B. couldn't fined anything related to it. If they meant Retinal breaks,"
+  "sourceHint": "was answered B. couldn't fined anything related to it. If they meant Retinal breaks,",
+  "pageScanUrl": "/images/promotion-pages/page_171.jpg"
  },
  {
   "id": 110,
@@ -2023,7 +2132,8 @@
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
   "sourceHint": "not sure, need more info. More with A. (was answered B previously).",
-  "reviewConcern": "Option C is truncated in the source as inferior with an ellipsis; it should read inferior rectus. The compiler leaned to A and the earlier key said B, both of which are inconsistent with an entrapment mechanism."
+  "reviewConcern": "Option C is truncated in the source as inferior with an ellipsis; it should read inferior rectus. The compiler leaned to A and the earlier key said B, both of which are inconsistent with an entrapment mechanism.",
+  "pageScanUrl": "/images/promotion-pages/page_228.jpg"
  },
  {
   "id": 111,
@@ -2041,7 +2151,8 @@
   "subspecialty": "Miscellaneous",
   "pdfPage": 256,
   "reviewerAnswered": true,
-  "reviewConfidence": "high"
+  "reviewConfidence": "high",
+  "pageScanUrl": "/images/promotion-pages/page_256.jpg"
  },
  {
   "id": 112,
@@ -2059,7 +2170,8 @@
   "pdfPage": 293,
   "reviewerAnswered": true,
   "reviewConfidence": "high",
-  "imageUrl": "/images/promotion/p293_8894bd6fdb.png"
+  "imageUrl": "/images/promotion/p293_8894bd6fdb.png",
+  "pageScanUrl": "/images/promotion-pages/page_293.jpg"
  },
  {
   "id": 113,
@@ -2081,7 +2193,8 @@
   "imageUrl": "/images/promotion/p139_ff71139815.jpg",
   "imageUrls": [
    "/images/promotion/p140_f5c0f80cc2.jpg"
-  ]
+  ],
+  "pageScanUrl": "/images/promotion-pages/page_139.jpg"
  },
  {
   "id": 114,
@@ -2100,7 +2213,8 @@
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
   "sourceHint": "should be Dynamic contour tonometry (DCT)",
-  "reviewConcern": "The compiler is right that dynamic contour tonometry is the theoretically correct answer, since it is largely independent of corneal properties, but it is not among the options. Tono Pen is the best available choice."
+  "reviewConcern": "The compiler is right that dynamic contour tonometry is the theoretically correct answer, since it is largely independent of corneal properties, but it is not among the options. Tono Pen is the best available choice.",
+  "pageScanUrl": "/images/promotion-pages/page_199.jpg"
  },
  {
   "id": 115,
@@ -2117,7 +2231,8 @@
   "pdfPage": 244,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "reviewConcern": "The photograph is not retrievable; the answer depends on the stem word small being accurate."
+  "reviewConcern": "The photograph is not retrievable; the answer depends on the stem word small being accurate.",
+  "pageScanUrl": "/images/promotion-pages/page_244.jpg"
  },
  {
   "id": 116,
@@ -2136,7 +2251,8 @@
   "pdfPage": 271,
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
-  "imageUrl": "/images/promotion/p271_7d0b596f99.jpg"
+  "imageUrl": "/images/promotion/p271_7d0b596f99.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_271.jpg"
  },
  {
   "id": 117,
@@ -2155,7 +2271,8 @@
   "pdfPage": 282,
   "reviewerAnswered": true,
   "reviewConfidence": "high",
-  "reviewConcern": "The stem says nitric oxide but plainly means nitrous oxide."
+  "reviewConcern": "The stem says nitric oxide but plainly means nitrous oxide.",
+  "pageScanUrl": "/images/promotion-pages/page_282.jpg"
  },
  {
   "id": 118,
@@ -2176,7 +2293,8 @@
   "reviewConfidence": "medium",
   "sourceHint": "Not sure",
   "reviewConcern": "B (less CME) is a defensible alternative, since both benefits flow from the same barrier effect.",
-  "imageUrl": "/images/promotion/p129_31fca45b2d.jpg"
+  "imageUrl": "/images/promotion/p129_31fca45b2d.jpg",
+  "pageScanUrl": "/images/promotion-pages/page_129.jpg"
  },
  {
   "id": 119,
@@ -2196,7 +2314,8 @@
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
   "sourceHint": "Not sure (depends on the VF pic)",
-  "reviewConcern": "The field printout is not available, so the exact defect shape cannot be confirmed."
+  "reviewConcern": "The field printout is not available, so the exact defect shape cannot be confirmed.",
+  "pageScanUrl": "/images/promotion-pages/page_260.jpg"
  },
  {
   "id": 120,
@@ -2215,7 +2334,8 @@
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
   "sourceHint": "??",
-  "reviewConcern": "Working distance is not stated, so the answer relies on the standard two thirds of a metre convention."
+  "reviewConcern": "Working distance is not stated, so the answer relies on the standard two thirds of a metre convention.",
+  "pageScanUrl": "/images/promotion-pages/page_278.jpg"
  },
  {
   "id": 121,
@@ -2240,7 +2360,8 @@
    "/images/promotion/p120_a71342a052.png",
    "/images/promotion/p121_e0b89fed99.jpg",
    "/images/promotion/p121_8c4a9a10ad.jpg"
-  ]
+  ],
+  "pageScanUrl": "/images/promotion-pages/page_120.jpg"
  },
  {
   "id": 122,
@@ -2259,7 +2380,8 @@
   "pdfPage": 25,
   "reviewerAnswered": true,
   "reviewConfidence": "high",
-  "sourceHint": "Not sure"
+  "sourceHint": "Not sure",
+  "pageScanUrl": "/images/promotion-pages/page_025.jpg"
  },
  {
   "id": 123,
@@ -2279,6 +2401,7 @@
   "reviewerAnswered": true,
   "reviewConfidence": "medium",
   "sourceHint": "Not sure, D?",
-  "reviewConcern": "Compiler tentatively suggested D (Plano); the working distance reasoning points to minus 1.00 instead. The stem never states the working distance, which is why this is medium rather than high."
+  "reviewConcern": "Compiler tentatively suggested D (Plano); the working distance reasoning points to minus 1.00 instead. The stem never states the working distance, which is why this is medium rather than high.",
+  "pageScanUrl": "/images/promotion-pages/page_039.jpg"
  }
 ]
