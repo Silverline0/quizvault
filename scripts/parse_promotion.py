@@ -583,7 +583,10 @@ def resolve_answer(answer_text, agree_text, options, starred):
 STEM_STOP = {"answer", "agree", "expl", "ref", "opt", "bullet", "numopt",
              "year", "subspec", "incomplete"}
 MAX_STEM_LINES = 9
-MAX_STEM_CHARS = 420
+# Long OphthoQuestions-style vignettes run to ~500 characters; 420 cut them in
+# half. Verified against the source: at 900 no explanation swallows a declared
+# recall and no question is lost.
+MAX_STEM_CHARS = 900
 # Whitespace separates questions here far more reliably than any keyword, but
 # line pitch varies by section (12pt Calibri in 2025, widely-leaded Arial in
 # 2015), so the threshold is relative to each page's own median pitch rather
@@ -1320,7 +1323,13 @@ def build(questions, float_paths=frozenset()):
             # question it was explaining instead of discarding it.
             list_shaped = ("list inside an explanation" in reason
                            or "reference list" in reason)
-            if (list_shaped or (not genuine and not q.answer_raw.strip()))                     and out and opts:
+            # A numbered candidate is a recall the document declared, not a
+            # bulleted list inside an explanation -- fold it back and the
+            # previous question's explanation ends up carrying a whole other
+            # question. `looks_like_question` misses these because it wants a
+            # cue word, and plenty of real recalls have none ("topical anti
+            # glaucoma that aggravate pupil block in chronic angle closure:").
+            if q.number is None                     and (list_shaped or (not genuine and not q.answer_raw.strip()))                     and out and opts:
                 tail = "; ".join(opts.values())
                 prev = out[-1]
                 if prev["pdfPage"] >= q.page - 1 and len(prev["explanation"]) < 4000:
@@ -1331,7 +1340,11 @@ def build(questions, float_paths=frozenset()):
         parts = []
         if q.incomplete:
             parts.append("The source flags this recall as incomplete.")
-        if note:
+        # In the "Agree: <prose>" sections the same sentence reaches build()
+        # twice -- once as the answer's remark, once as the first line of the
+        # explanation it continues into. Emit it once.
+        if note and not re.sub(r"\s+", " ", q.explanation).startswith(
+                re.sub(r"\s+", " ", note)[:60]):
             parts.append(note)
         if q.explanation:
             parts.append(q.explanation)

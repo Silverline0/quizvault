@@ -439,7 +439,7 @@
    "B": "fuch's"
   },
   "correctAnswer": "A",
-  "explanation": "Posner-Schlossman Syndrome (PSS), also known as glaucomatocyclitic crisis, is a disease typified by acute, unilateral, recurrent attacks of elevated intraocular pressure (IOP) accompanied by mild anterior chamber inflammation Reference: https://eyewiki.aao.org/Glaucomatocyclitic_Crisis_(Posner- Schlossman_Syndrome) A 40-year old Caucasian female presents with acute vision loss in the right eye",
+  "explanation": "Posner-Schlossman Syndrome (PSS), also known as glaucomatocyclitic crisis, is a disease typified by acute, unilateral, recurrent attacks of elevated intraocular pressure (IOP) accompanied by mild anterior chamber inflammation Reference: https://eyewiki.aao.org/Glaucomatocyclitic_Crisis_(Posner- Schlossman_Syndrome)",
   "year": "2019",
   "subspecialty": "Uveitis",
   "pdfPage": 186,
@@ -524,16 +524,14 @@
    "C": "NVA"
   },
   "correctAnswer": "A",
-  "explanation": "Narrow angle has risk of angle closure temporarily. Unlike PAS and NVG, angle is closed permanently Reference: ﻛﯾﺳﻲ you are examining a pleasant 78-year-old woman who is a new patient to your clinic.",
+  "explanation": "Narrow angle has risk of angle closure temporarily. Unlike PAS and NVG, angle is closed permanently Reference: ﻛﯾﺳﻲ",
   "year": "2019",
   "subspecialty": "Glaucoma",
   "pdfPage": 202,
   "figureConfidence": "low",
   "imageUrl": "/images/promotion/p202_bcf86e8813.jpg",
   "imageUrls": [
-   "/images/promotion/p202_1aafd6de31.jpg",
-   "/images/promotion/p202_7c3f66858e.jpg",
-   "/images/promotion/p196_fdedae8b6e.jpg"
+   "/images/promotion/p202_1aafd6de31.jpg"
   ],
   "referenceLinks": [
    {
@@ -1090,7 +1088,7 @@
    "B": "Anticoagulants"
   },
   "correctAnswer": "A",
-  "explanation": "Causes such as septic CST that may be acutely life-threatening must be recognized and managed emergently. Intravenous antibiotics must be started immediately for the treatment of an underlying infection. Though controversial, anticoagulation is recommended. Otolaryngology should be consulted to evaluate for the need for surgical drainage of the primary infection. wearing a helmet, but when you see him he has a large ecchymosis over his brow and left upper lid, 20/800 vision in the left eye, impaired color perception in the left eye, Reference: https://eyewiki.org/Cavernous_Sinus_Syndrome a 23-year-old man suffers a closed head injury from a motorcycle accident. He was",
+  "explanation": "Causes such as septic CST that may be acutely life-threatening must be recognized and managed emergently. Intravenous antibiotics must be started immediately for the treatment of an underlying infection. Though controversial, anticoagulation is recommended. Otolaryngology should be consulted to evaluate for the need for surgical drainage of the primary infection. Reference: https://eyewiki.org/Cavernous_Sinus_Syndrome",
   "year": "2019",
   "subspecialty": "Oculoplastics",
   "pdfPage": 249,
@@ -1104,7 +1102,7 @@
  {
   "id": 43,
   "source": "promotion-2019",
-  "question": "muscles, often the medial recti. It can be induced by rotating an OKN drum downwards; the upward refixation saccade brings the two eyes towards each other in a convergence movement. There is classically associated retraction of the globe into the orbit. It is a component of Parinaud dorsal midbrain syndrome Hx of optic neuritis, positive MRI, what's the management?",
+  "question": "#kanski Convergence-retraction nystagmus is a jerk nystagmus due to the co-contraction of extraocular muscles, often the medial recti. It can be induced by rotating an OKN drum downwards; the upward refixation saccade brings the two eyes towards each other in a convergence movement. There is classically associated retraction of the globe into the orbit. It is a component of Parinaud dorsal midbrain syndrome Hx of optic neuritis, positive MRI, what's the management?",
   "options": {
    "A": "IV steroid alone,",
    "B": "IV steroid followed by oral,",
