@@ -919,14 +919,14 @@
   "pdfPage": 246,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p246_d775feaa34.jpg",
-  "pageScanUrl": "/images/promotion-pages/page_246.jpg",
   "review": {
    "answer": "A",
    "agrees": false,
    "confidence": "low",
    "explanation": "The collagen type depends on the tissue and the stage of healing. Normal dermis and a mature, remodelled skin scar are predominantly type I collagen, so a patient who simply has a skin scar is best answered as type I. Type III is the collagen that predominates transiently in granulation tissue and early wound repair, and it is also the classic answer for corneal stromal wound healing and for hypertrophic scars and keloids. Type II is vitreous and cartilage, and type IV is basement membrane, including Descemet membrane and the lens capsule.",
    "concern": "The recall does not specify timing, so both answers are defensible. If the original stem asked about early wound healing, a hypertrophic scar or corneal stromal healing, type III is correct and the source answer stands. For a mature skin scar the predominant collagen is type I. Given the ambiguity, do not treat my pick as an override."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_246.jpg"
  },
  {
   "id": 37,
@@ -944,14 +944,14 @@
   "pdfPage": 246,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p246_f49755607e.jpg",
-  "pageScanUrl": "/images/promotion-pages/page_246.jpg",
   "review": {
    "answer": "C",
    "agrees": true,
    "confidence": "medium",
    "explanation": "Vision loss in orbital cellulitis means the optic nerve is being compromised, and the decision that follows is essentially surgical: is there a drainable subperiosteal or orbital abscess, or intracranial extension. Contrast-enhanced CT of the orbits and sinuses is the imaging modality of choice and is the step that changes management, which is why it outranks the alternatives here. Asking about the duration of visual loss adds little once the drop is documented, and although IOP is part of the bedside examination it is a supporting datum rather than the decisive next step.",
    "concern": "One clinical caveat worth teaching: if the orbit is tense with a rising IOP and a relative afferent pupillary defect, that is orbital compartment syndrome and lateral canthotomy with cantholysis must be done at the bedside without waiting for the scan. Measuring IOP is therefore not a wrong instinct, just not the answer to what most changes management."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_246.jpg"
  },
  {
   "id": 38,
@@ -964,7 +964,7 @@
    "D": "AV malformation"
   },
   "correctAnswer": "A",
-  "explanation": "The source flags this recall as incomplete. will choose it Here summary for each from kanski: 1- Capillary haemangioma: is the most common tumour of the orbit and periorbital area in childhood. Girls are affected more commonly than boys (3:1). It can be superficial, presenting as a red, raised lesion, it can be deep, presenting as a dark blue lesion that may extend into the orbit or may present both of the above components. Capillary hemangiomas involving the eyelids may induce astigmatic anisometropic and amblyopia causing severe vision loss if left untreated. The diagnosis is made clinically, however in extensive cases imaging helps delineate the extent of orbital involvement. The natural course of the capillary hemangioma is initial enlargement in the first year of life followed by spontaneous regression in the following years 2- Lymphangioma: is a rare hamartomatous vascular tumour that tends to enlarge and infiltrate diffusely with time. Some authorities believe lymphangiomas to be a variant of venous orbital anomaly (varices) across a single spectrum and the term !combined venous-lymphatic malformations of the orbit\"#has been suggested. Although usually isolated from the main circulation, bleeding into the lumen may occur with subsequent formation of blood-filled !chocolate cysts\"#that regress spontaneously with time. Presentation is usually in early childhood. 3-Hemangiopericytoma: is a rare mesenchymal tumor, typically located in the retrobulbar intraconal space of the orbit, that is generally slow-growing, but has malignant potential.",
+  "explanation": "The source flags this recall as incomplete. will choose it Here summary for each from kanski:",
   "year": "2019",
   "subspecialty": "Oculoplastics",
   "pdfPage": 247,
@@ -1029,13 +1029,13 @@
    }
   ],
   "figureFinding": "Thyroid eye disease - proptosis with upper and lower lid retraction and enlarged extraocular muscles on CT; the rehabilitative surgical sequence is decompression, then strabismus surgery, then eyelid surgery.",
-  "pageScanUrl": "/images/promotion-pages/page_248.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "The sequence in thyroid eye disease is decompression, then strabismus surgery, then eyelid surgery, and it follows from each step altering the next. Decompression changes globe position and therefore changes the deviation, and strabismus surgery, particularly inferior rectus recession, changes lid position. Operating on the lids first locks in a result that the earlier steps would have undone. All of this is deferred until the disease has been inactive and the measurements stable for several months, the one exception being sight-threatening compressive optic neuropathy."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_248.jpg"
  },
  {
   "id": 41,
@@ -1073,13 +1073,13 @@
    }
   ],
   "figureFinding": "Thyroid eye disease with compressive (dysthyroid) optic neuropathy: proptosis, enlarged recti crowding the orbital apex on CT — the sight-threatening indication for urgent orbital decompression.",
-  "pageScanUrl": "/images/promotion-pages/page_248.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "high",
    "explanation": "The urgent indication for orbital decompression in thyroid eye disease is dysthyroid optic neuropathy, meaning compressive optic nerve involvement with falling acuity, colour desaturation, an afferent pupillary defect or field loss, typically when high-dose steroids have failed. Pain alone reflects active inflammation and is treated medically with corticosteroids, and now with teprotumumab or orbital radiotherapy, rather than surgically. Sight-threatening corneal exposure from severe proptosis is the other urgent indication; rehabilitative decompression for proptosis is done electively once the disease is quiet."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_248.jpg"
  },
  {
   "id": 42,
@@ -1164,13 +1164,13 @@
    }
   ],
   "figureFinding": "Congenital (Cogan-type) ocular motor apraxia: inability to initiate voluntary HORIZONTAL saccades, with compensatory jerky head thrusts (and blinking) that drag the eyes across via the vestibulo-ocular reflex. Vertical saccades and pursuit are spared.",
-  "pageScanUrl": "/images/promotion-pages/page_269.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "Congenital ocular motor apraxia, as described by Cogan, is a failure to initiate voluntary horizontal saccades, which the child compensates for with the characteristic head thrust and blinking that drags the eyes onto the target. Vertical saccades are normal, and that preservation is the discriminating feature which excludes the vertical options. Smooth pursuit is a separate system mediated through parieto-occipital pathways and is not the defect here, and the vestibulo-ocular reflex is intact, which is precisely why the head thrust works."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_269.jpg"
  },
  {
   "id": 45,
@@ -1208,13 +1208,13 @@
   "pdfPage": 270,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p270_4aacafffd5.jpg",
-  "pageScanUrl": "/images/promotion-pages/page_270.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "The corrugator supercilii draws the brows medially and downward and produces the vertical glabellar frown lines between the brows, the so-called eleven lines, which is why it is the botulinum toxin target for that area. The procerus runs vertically over the nasal root and pulls the medial brow down, producing the horizontal crease across the bridge of the nose. Transverse forehead lines come from the frontalis and crow's feet from the orbicularis oculi."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_270.jpg"
  },
  {
   "id": 47,
@@ -1254,14 +1254,14 @@
   "pdfPage": 280,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p281_d0c2be8a75.png",
-  "pageScanUrl": "/images/promotion-pages/page_280.jpg",
   "review": {
    "answer": "B",
    "agrees": false,
    "confidence": "medium",
    "explanation": "Prentice's rule gives prism in dioptres as decentration in centimetres multiplied by lens power, so at 1 cm below the optical centre the right lens induces 8 prism dioptres and the left 4, both base down, because a minus lens behaves like prisms with their bases at the periphery. What the patient actually experiences, and what is clinically meaningful, is the difference between the two eyes, a vertical imbalance of 4 prism dioptres. This is the classic anisometropic reading problem managed with a slab-off, a Fresnel prism or separate reading glasses; 8 is the single-eye value and 12 the sum, both offered as distractors.",
    "concern": "The recall does not state which eye is being asked about. If the original stem asked for the prism induced in the right eye alone, 8 is correct and the source answer stands. Because the stem asks for one number describing the patient, the induced vertical imbalance of 4 is the better reading of the question."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_280.jpg"
  },
  {
   "id": 49,
@@ -1278,13 +1278,13 @@
   "pdfPage": 281,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p279_8d50d04917.png",
-  "pageScanUrl": "/images/promotion-pages/page_281.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "high",
    "explanation": "Jackson cross cylinder refinement runs in a fixed order: establish the best sphere first, then refine the cylinder axis, then refine the cylinder power, then rebalance the sphere. Axis must precede power because the cross cylinder cannot give a reliable power endpoint while the axis is still wrong. The third step is therefore cylinder power, and remember that for every 0.50 D change in cylinder power the sphere is adjusted by 0.25 D in the opposite direction to hold the spherical equivalent constant."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_281.jpg"
  },
  {
   "id": 50,
@@ -1349,14 +1349,14 @@
   "imageUrls": [
    "/images/promotion/p291_7a8540570a.png"
   ],
-  "pageScanUrl": "/images/promotion-pages/page_290.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "low",
    "explanation": "Chlamydial conjunctivitis is the follicular one, with a chronic follicular reaction, superior pannus, and basophilic intracytoplasmic inclusion bodies within epithelial cells on Giemsa staining, accompanied by lymphocytes and plasma cells. Neisseria gonorrhoeae produces a hyperacute, copiously purulent, papillary conjunctivitis with marked preauricular adenopathy and a real risk of corneal melt and perforation, and its smear shows gram-negative intracellular diplococci inside neutrophils. Read the slide accordingly: inclusion bodies with a lymphoplasmacytic follicular infiltrate is chlamydia, sheets of neutrophils containing diplococci is Neisseria.",
    "concern": "I cannot see the slide, so this rests on the source's description of a follicular conjunctivitis rather than on the image itself."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_290.jpg"
  },
  {
   "id": 53,

@@ -60,13 +60,13 @@
   "pdfPage": 143,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p143_6d5524006f.jpg",
-  "pageScanUrl": "/images/promotion-pages/page_143.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "In an eye with chronic HLA-B27 uveitis the goals are maximum uveal biocompatibility and secure in-the-bag fixation away from uveal tissue, and a one-piece hydrophobic acrylic lens has the lowest rate of giant cell deposits and posterior synechiae of the options offered. Polypropylene (Prolene) haptics enhance leucocyte adhesion and should be avoided in uveitic eyes. An unmodified PMMA optic attracts more cellular deposits than acrylic, and the option deliberately excludes the heparin surface modification that would mitigate this. An open-loop anterior chamber lens is the worst choice, since chronic iris and angle contact in an already inflamed eye risks flaring the uveitis, UGH syndrome, glaucoma and endothelial decompensation."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_143.jpg"
  },
  {
   "id": 4,
@@ -169,14 +169,14 @@
    }
   ],
   "figureFinding": "Blunt-trauma globe rupture in a phakic eye - anterior rupture at/just behind the limbus with uveal prolapse, plus the BETT zone diagram showing where the sclera is thinnest.",
-  "pageScanUrl": "/images/promotion-pages/page_147.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "medium",
    "explanation": "Given these three choices the limbus is the best answer, since the classic teaching is that blunt-trauma rupture in a phakic eye occurs in a circumferential arc near the limbus, most often superonasally. Option A is wrong as written because ruptures at the rectus insertions run circumferentially, parallel to the limbus, rather than radially. Option C is a bare negation rather than an anatomical site and cannot be the intended key.",
    "concern": "The item conflates two different facts. The sclera is anatomically thinnest, roughly 0.3 mm, immediately behind the rectus muscle insertions, whereas the commonest clinical site of rupture after blunt trauma is the superonasal limbal region. If the examiner meant thinnest literally, the correct answer would be behind the rectus insertions, as the source note itself concedes. B is defensible only because the muscle-insertion option specifies a radial orientation, which is incorrect."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_147.jpg"
  },
  {
   "id": 8,
@@ -207,14 +207,14 @@
    }
   ],
   "figureFinding": "Mooren ulcer - crescentic peripheral corneal ulceration with a characteristic undermined, overhanging central leading edge and vascularised base, spreading circumferentially AND centrally; no scleral involvement.",
-  "pageScanUrl": "/images/promotion-pages/page_148.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "medium",
    "explanation": "Mooren ulcer begins as a peripheral crescentic infiltrate within the interpalpebral fissure and advances with a characteristic undermined, overhanging leading edge, leaving a thinned, vascularised bed behind, so the direction of advance that defines the disease is centrally across the cornea. Sparing of the sclera is a cardinal feature and is precisely what separates Mooren ulcer from the peripheral ulcerative keratitis of systemic vasculitis such as granulomatosis with polyangiitis or rheumatoid arthritis, so extension toward the sclera is wrong. Perforation, when it happens, occurs through the thinned central bed rather than at the limbus.",
    "concern": "BCSC describes Mooren ulcer as spreading circumferentially and then centrally, so option C is also a true statement about its behaviour and the recall does not make clear which the examiner intended. Central spread with an undermined edge is the more emblematic feature, so A is defensible, but the item is genuinely ambiguous between A and C."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_148.jpg"
  },
  {
   "id": 9,
@@ -233,13 +233,13 @@
   "pdfPage": 149,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p149_2680a2b3e7.png",
-  "pageScanUrl": "/images/promotion-pages/page_149.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "A shallow anterior chamber after cataract surgery is classified by the intraocular pressure, so measuring the pressure is the single step that most narrows the differential. A shallow chamber with low pressure points to a wound leak or a serous choroidal effusion, whereas a shallow chamber with high pressure points to pupillary block, aqueous misdirection or suprachoroidal haemorrhage, and these two groups have opposite treatments. Ultrasound is valuable afterwards, once the pressure has told you whether to look for a suprachoroidal collection, and pachymetry and gonioscopy do not resolve the diagnosis in a painful, diffusely shallow chamber. Absence of hypopyon makes endophthalmitis less likely but does not exclude it, so the eye still needs close review."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_149.jpg"
  },
  {
   "id": 10,
@@ -277,13 +277,13 @@
   "pdfPage": 150,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p150_39206b605b.png",
-  "pageScanUrl": "/images/promotion-pages/page_150.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "high",
    "explanation": "Cement contains calcium hydroxide, or lime, a strong alkali, and alkaline injuries are the most damaging chemical ocular injuries because the hydroxide ion saponifies the fatty acids of cell membranes while the cation penetrates rapidly through cornea into the anterior chamber, causing limbal stem cell loss, deep stromal damage and secondary glaucoma. Cement is additionally dangerous because gritty particles lodge in the fornices and keep releasing alkali until removed, so double lid eversion and sweeping after copious irrigation are mandatory. Household bleach, sodium hypochlorite, is intensely irritating but relatively superficial in its effect. Battery fluid is sulphuric acid, and acids coagulate surface proteins, which limits deeper penetration, so an acid burn generally does less long-term damage than a comparable alkali burn."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_150.jpg"
  },
  {
   "id": 12,
@@ -712,7 +712,7 @@
    "B": "High iop"
   },
   "correctAnswer": "A",
-  "explanation": "hallmark. Most other inflammatory syndromes are associated with decreased intraocular pressure (IOP) as a result of ciliary body hyposecretion. However, herpesvirus may cause trabeculitis and thus increase IOP, often to as high as 50-60 mm Hg. In addition, inflammatory cells may contribute to trabecular obstruction and congestion. - Diffuse or stellate KPs are not pathognomonic of any particular condition. 29. Side effect of azathioprine: Reference: AAO BCSC Uveitis 22-23: - Ocular hypertension associated with herpetic uveitis may be a helpful diagnostic",
+  "explanation": "hallmark. Most other inflammatory syndromes are associated with decreased intraocular pressure (IOP) as a result of ciliary body hyposecretion. However, herpesvirus may cause trabeculitis and thus increase IOP, often to as high as 50-60 mm Hg. In addition, inflammatory cells may contribute to trabecular obstruction and congestion. - Diffuse or stellate KPs are not pathognomonic of any particular condition. Reference: AAO BCSC Uveitis 22-23: - Ocular hypertension associated with herpetic uveitis may be a helpful diagnostic",
   "year": "2018",
   "subspecialty": "Uveitis",
   "pdfPage": 191,
@@ -739,14 +739,14 @@
    }
   ],
   "figureFinding": "Herpetic (HSV/VZV) anterior uveitis - diffuse stellate keratic precipitates on the corneal endothelium, often with sectoral iris atrophy, corneal oedema/scarring and raised IOP.",
-  "pageScanUrl": "/images/promotion-pages/page_191.jpg",
   "review": {
    "answer": "B",
    "agrees": false,
    "confidence": "high",
    "explanation": "Elevated intraocular pressure during active anterior uveitis is the finding that should make you think of herpetic disease, because herpesviruses cause a trabeculitis that raises pressure at a time when most other uveitides lower it through ciliary body hyposecretion; pressures of 40 to 60 mm Hg are described, and inflammatory cells add further outflow obstruction. The supporting features of herpetic anterior uveitis are unilaterality, sectoral or patchy iris atrophy with a distorted pupil, reduced corneal sensation, and past or concurrent keratitis, and treatment requires antiviral cover alongside steroid. Stellate keratic precipitates do occur in herpetic and especially CMV anterior uveitis, but they are equally or more characteristic of Fuchs heterochromic uveitis, so they are the weaker discriminator here.",
    "concern": "I would answer B. BCSC Uveitis states that ocular hypertension associated with herpetic uveitis may be a helpful diagnostic hallmark, and in the same passage that diffuse or stellate KPs are not pathognomonic of any particular condition. The source explanation quotes both of those sentences yet keys A, so the explanation argues against its own answer. Raised IOP from trabeculitis is the classic teaching point for herpetic anterior uveitis, while stellate KPs are most strongly linked to Fuchs heterochromic uveitis and CMV anterior uveitis. This looks like a transcription error in the answer key rather than a genuine difference of opinion."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_191.jpg"
  },
  {
   "id": 32,
@@ -765,13 +765,13 @@
   "pdfPage": 202,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p203_56a0f602a0.jpg",
-  "pageScanUrl": "/images/promotion-pages/page_202.jpg",
   "review": {
    "answer": "D",
    "agrees": true,
    "confidence": "high",
    "explanation": "Apraclonidine causes allergic follicular conjunctivitis and periocular contact dermatitis in roughly 20 to 40 percent of patients on chronic therapy, by far the highest rate among the drugs listed, and that is exactly why its use is now confined to short-term blunting of pressure spikes around laser and cataract surgery. Brimonidine, a more selective alpha-2 agonist, causes the same reaction considerably less often and later, and less still with the purite-preserved lower concentrations. Dorzolamide typically causes stinging and a bitter taste, with sulfonamide hypersensitivity as its important allergy, and latanoprost causes conjunctival hyperaemia, lash growth and iris and periocular pigmentation rather than the itchy allergic dermatitis described."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_202.jpg"
  },
  {
   "id": 33,
@@ -812,13 +812,13 @@
   "pdfPage": 203,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p204_c996e7ede0.png",
-  "pageScanUrl": "/images/promotion-pages/page_203.jpg",
   "review": {
    "answer": "D",
    "agrees": true,
    "confidence": "high",
    "explanation": "After only one week of prednisolone this pressure rise is almost certainly not a steroid response, which typically takes two to six weeks, and the persisting 2+ cell tells you the inflammation is undertreated and that the trabecular meshwork is obstructed by inflammatory cells and debris. The correct move is therefore to intensify rather than reduce the corticosteroid and to add a pressure-lowering agent, and brimonidine is a good choice because it lowers pressure without any pro-inflammatory effect. Prostaglandin analogues are relatively contraindicated in active uveitis because of concern about worsening inflammation and cystoid macular oedema, excluding B, and pilocarpine is contraindicated because it increases vascular permeability and promotes posterior synechiae, excluding C. Options A and B are additionally wrong because they taper steroid while inflammation is still active."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_203.jpg"
  },
  {
   "id": 35,
@@ -871,7 +871,7 @@
    "B": "Pigment dispersion syndrome"
   },
   "correctAnswer": "B",
-  "explanation": "Presentation. PDS and PG are typically detected at a routine eye examination. The myopic individuals who tend to develop the condition are likely to be under regular optometric review. Occasionally symptoms from glaucomatous visual loss lead to attendance, or from corneal oedema due to an acute IOP rise following the release of pigment granules (particularly after physical exercise). Signs of PDS are usually bilateral but may be subtle and go undetected. Cornea. Pigment is deposited on the endothelium in a vertical spindle shape (Krukenberg spindle; Fig. 11.44A) The spindle is not always present, tends to become less obvious in longstanding cases and is not pathognomonic. Anterior chamber (AC). The AC is deep and melanin granules may be seen in the aqueous. Iris. Characteristic RADIAL spoke-like transillumination defects (Fig. 11.44B) are seen in lighter, but often not in dark, irides. To best demonstrate these, the room should be minimally illuminated and a short, narrow but intense slit beam directed through the pupil. Visualization may be aided by asking the patient to look up. Melanin granules may be present on the surface of the iris, usually inferiorly, which become less obvious with age. There may be partial loss of the pupillary ruff (Fig. 11.44C). Kanski 13-chronic myopia after trabeculectomy surgery at risk of ? A Hypotonic maculopathy B Cyclodialysis cleft A The statistical definition of hypotony is intraocular pressure (IOP) less than 6.5mmHg, which is more than 3 standard deviations below the mean IOP. The clinical definition of hypotony is IOP low enough to result in vision loss. The vision loss from low IOP may be caused by corneal edema, astigmatism, cystoid macular edema, or maculopathy. Hypotony maculopathy is characterized by a low IOP associated with fundus abnormalities, including chorioretinal folds, optic nerve head edema in the acute setting , and vascular tortuosity. Hypotony maculopathy may occur after ocular inflammation, trauma, or surgery. Most cases are secondary to glaucoma filtration surgery with a reported incidence of 1.3% to 18%. Furthermore, the risk of hypotony maculopathy increases with the use of antifibrosis agents during glaucoma surgery. Risk Factors [4] Male gender Myopia Young Age Primary Glaucoma Filteration Surgery Use of Antifiborsis agents (Mitomycin C >> 5-Fluorouracil) Elevated Pre-Operative IOP Symptoms Patients may complain of distortion in their central vision or may be completely asymptomatic. Physical Examination Intraocular pressure less than 6.5mm Hg Painless, decreased vision Hyperopic shift in refraction Characteristic fundus changes: chorioretinal folds, vascular tortuosity, and optic disc swelling https://eyewiki.aao.org/Hypotony_Maculopathy#:~:text=Hypotony%20maculopathy%20is% 20characterized%20by,acute%20setting%20%2C%20and%20vascular%20tortuosity. 11- A scenario about late onset blebitis asking about the organism after Gram stain? A Gram negative coccobacilli B Gram positive cocci in chains C Gram positive bacilli Most likely B Bleb-associated bacterial infection and endophthalmitis Glaucoma filtration-associated infection is classified as limited to the bleb (blebitis) or endophthalmitis, although there is some overlap. The incidence of blebitis following trabeculectomy with mitomycin has been estimated to be up to 5% per year, though many studies show a far lower rate. Patients who have undergone trabeculectomy should be warned of the possibility of late infection and strongly advised to report immediately should they develop a red and sticky eye, or blurred vision. Preserved lubricating drops tend to get contaminated in time and should be avoided. Risk factors include (a) antimetabolite use, (b) an inferiorplaced bleb and (c) bleb leak. Blepharitis and conjunctivitis are also risk factors. Late bleb leaks should be treated aggressively to reduce the risk of infection. Pathogens. The most frequent are Haemophilus influenzae, Streptococcus spp. and Staphylococcus spp. and Gram-negative organisms. The poor visual prognosis is related to the virulence of these organisms. Kanski The most common pathogens in blebitis are Staphylococcus aureus and Staphylococcus epidermidis.[26][27][28] Notably, it coagulase-negative Staphylococcus is most commonly identified in early-onset BRIs, while Streptococcus is most commonly isolated in late-onset BRI. https://eyewiki.aao.org/Bleb_Associated_Infections#:~:text=BRI%20are%20categorized%20 as%20early,bleb%20associated%20endophthalmitis%20(BAE). Structure, Streptococci are Gram-positive, nonmotile, nonsporeforming, catalase-negative cocci that occur in pairs or chains. Older cultures may lose their Gram-positive character. Most streptococci are facultative anaerobes, and some are obligate (strict) anaerobes. Most require enriched media (blood agar). Group A streptococci have a hyaluronic acid capsule. https://www.ncbi.nlm.nih.gov/books/NBK7611/ Sturge Weber syndrome associated with glaucoma if patient have port wine at which location ? A Upper eyelid B Ophthalmic division of CN V C Forehead A Sturge-Weber syndrome (SWS; also known as encephalofacial angiomatosis) is a phakomatosis characterized by ipsilateral facial cutaneous hemangioma (port-wine stain), ipsilateral choroidal cavernous hemangioma, and ipsilateral leptomeningeal angioma associated with cerebral calcifications, seizures, focal neurologic deficits, and a variable degree of cognitive impairment. The condition is usually unilateral but can present bilaterally in rare instances. There is no race or sex predilection, and no inheritance pattern has been established. Glaucoma occurs in up to 70% of children with SWS and is more common when the cutaneous hemangioma involves the upper eyelid skin (Fig 11-6).",
+  "explanation": "Presentation. PDS and PG are typically detected at a routine eye examination. The myopic individuals who tend to develop the condition are likely to be under regular optometric review. Occasionally symptoms from glaucomatous visual loss lead to attendance, or from corneal oedema due to an acute IOP rise following the release of pigment granules (particularly after physical exercise). Signs of PDS are usually bilateral but may be subtle and go undetected. Cornea. Pigment is deposited on the endothelium in a vertical spindle shape (Krukenberg spindle; Fig. 11.44A) The spindle is not always present, tends to become less obvious in longstanding cases and is not pathognomonic. Anterior chamber (AC). The AC is deep and melanin granules may be seen in the aqueous. Iris. Characteristic RADIAL spoke-like transillumination defects (Fig. 11.44B) are seen in lighter, but often not in dark, irides. To best demonstrate these, the room should be minimally illuminated and a short, narrow but intense slit beam directed through the pupil. Visualization may be aided by asking the patient to look up. Melanin granules may be present on the surface of the iris, usually inferiorly, which become less obvious with age. There may be partial loss of the pupillary ruff (Fig. 11.44C). Kanski 13-chronic myopia after trabeculectomy surgery at risk of ? A Hypotonic maculopathy B Cyclodialysis cleft A The statistical definition of hypotony is intraocular pressure (IOP) less than 6.5mmHg, which is more than 3 standard deviations below the mean IOP. The clinical definition of hypotony is IOP low enough to result in vision loss. The vision loss from low IOP may be caused by corneal edema, astigmatism, cystoid macular edema, or maculopathy. Hypotony maculopathy is characterized by a low IOP associated with fundus abnormalities, including chorioretinal folds, optic nerve head edema in the acute setting , and vascular tortuosity. Hypotony maculopathy may occur after ocular inflammation, trauma, or surgery. Most cases are secondary to glaucoma filtration surgery with a reported incidence of 1.3% to 18%. Furthermore, the risk of hypotony maculopathy increases with the use of antifibrosis agents during glaucoma surgery. Risk Factors [4] Male gender Myopia Young Age Primary Glaucoma Filteration Surgery Use of Antifiborsis agents (Mitomycin C >> 5-Fluorouracil) Elevated Pre-Operative IOP Symptoms Patients may complain of distortion in their central vision or may be completely asymptomatic. Physical Examination Intraocular pressure less than 6.5mm Hg Painless, decreased vision Hyperopic shift in refraction Characteristic fundus changes: chorioretinal folds, vascular tortuosity, and optic disc swelling https://eyewiki.aao.org/Hypotony_Maculopathy#:~:text=Hypotony%20maculopathy%20is% 20characterized%20by,acute%20setting%20%2C%20and%20vascular%20tortuosity.",
   "year": "2018",
   "subspecialty": "Glaucoma",
   "pdfPage": 206,
@@ -1042,14 +1042,14 @@
    }
   ],
   "figureFinding": "Neovascular glaucoma - florid rubeosis iridis (NVI) at the pupillary margin with ectropion uveae, and gonioscopy showing neovascularisation of the angle with 360 degrees of synechial (PAS) closure and very high IOP.",
-  "pageScanUrl": "/images/promotion-pages/page_209.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "low",
    "explanation": "In neovascular glaucoma the objective is to remove the ischaemic drive, and panretinal photocoagulation is the definitive treatment; BCSC states that even with 360 degrees of synechial angle closure, PRP should still be performed, because eliminating the angiogenic stimulus reduces the risk of intraoperative bleeding and improves the success of any subsequent tube shunt or trabeculectomy. Anti-VEGF injection is a valuable adjunct that regresses new vessels rapidly and buys time but does not replace retinal ablation. Cyclodestruction, transscleral or endoscopic, is generally reserved for eyes with poor visual potential or pressure that cannot be controlled otherwise, and retrobulbar alcohol is purely for pain relief in a blind, painful eye.",
    "concern": "The recall is heavily abbreviated and the options are not reliably legible. The abbreviation hm could mean hand-motion vision or vitreous haemorrhage, and Cbc and through-scleral PRP most likely mean cyclophotocoagulation and transscleral cyclophotocoagulation, as the transcriber themselves suspected. If the stem really describes a dense long-standing vitreous haemorrhage obscuring the fundus, conventional slit-lamp PRP may not be deliverable and vitrectomy with endolaser, or transscleral retinal photocoagulation, would be the practical route. The underlying principle that ablating ischaemic retina is the definitive treatment still favours B."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_209.jpg"
  },
  {
   "id": 45,
@@ -1062,7 +1062,7 @@
    "D": "Corneal edema"
   },
   "correctAnswer": "D",
-  "explanation": "measurements taken over a corneal scar will be falsely high. 37. Pseudophakia with aquas misdirection not improving with cyclopentolate, what to do: Reference: AAO BCSC Glaucoma 22-23: - Corneal edema predisposes to inaccurately low readings, whereas pressure",
+  "explanation": "measurements taken over a corneal scar will be falsely high. Reference: AAO BCSC Glaucoma 22-23: - Corneal edema predisposes to inaccurately low readings, whereas pressure",
   "year": "2018",
   "subspecialty": "Glaucoma",
   "pdfPage": 210,
@@ -1077,14 +1077,14 @@
    }
   ],
   "figureFinding": "Corneal oedema (microcystic/bullous, reduced corneal rigidity) at the slit lamp, and Goldmann applanation tonometry technique - the setting in which the applanation reading UNDERestimates true IOP.",
-  "pageScanUrl": "/images/promotion-pages/page_210.jpg",
   "review": {
    "answer": "D",
    "agrees": true,
    "confidence": "high",
    "explanation": "Goldmann applanation assumes a cornea of roughly average thickness and normal biomechanics; oedema makes the cornea more compliant and easier to flatten, so the reading is falsely low, and that is the trap in a decompensated or acutely hypertensive eye whose true pressure is higher than measured. A corneal scar is denser and more rigid and gives falsely high readings, as does increased scleral rigidity with indentation (Schiotz) tonometry. In such eyes a dynamic contour tonometer, pneumotonometer or Tono-Pen at the corneal periphery gives a more trustworthy figure.",
    "concern": "Options A and D overlap, since stromal oedema is a form of corneal oedema and points in the same direction. D is the general textbook statement and is the intended key, but the item would be cleaner with only one of the two offered."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_210.jpg"
  },
  {
   "id": 46,
@@ -1096,7 +1096,7 @@
    "C": "Worse"
   },
   "correctAnswer": "B",
-  "explanation": "of age, normal ocular growth (AL increase) and stable optic nerve head appearance on serial photos suggest the absence of progressive glaucomatous damage. Frequently, a reversal of optic nerve head cupping is observed in eyes with substantially lowered IOP. - 41. Blunt trauma with hypotony suddenly pt has high iop Reference: AAO BCSC Pediatrics 22-23: - Determine whether the glaucoma has progressed In infants and children under 3 years",
+  "explanation": "of age, normal ocular growth (AL increase) and stable optic nerve head appearance on serial photos suggest the absence of progressive glaucomatous damage. Frequently, a reversal of optic nerve head cupping is observed in eyes with substantially lowered IOP. - Reference: AAO BCSC Pediatrics 22-23: - Determine whether the glaucoma has progressed In infants and children under 3 years",
   "year": "2018",
   "subspecialty": "Glaucoma",
   "pdfPage": 211,
@@ -1123,13 +1123,13 @@
    }
   ],
   "figureFinding": "Infant optic disc showing REVERSAL of glaucomatous cupping - a large cup pre-operatively and a markedly smaller, less excavated cup after successful IOP-lowering surgery (angle surgery/trabeculotomy) in the first year of life.",
-  "pageScanUrl": "/images/promotion-pages/page_211.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "high",
    "explanation": "Reversal of optic disc cupping after successful pressure lowering is well documented in infants and young children and is one of the most useful signs that surgery for congenital glaucoma has worked; it occurs because the immature, elastic lamina cribrosa and peripapillary sclera can spring back once pressure is normalised. In adults, by contrast, glaucomatous cupping is essentially irreversible, which is why this finding is specific to the paediatric setting. Progression of cupping in this child would signal uncontrolled pressure and a failed procedure. The other markers of successful control at this age are stabilisation of axial length and corneal diameter and clearing of corneal oedema and Haab striae."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_211.jpg"
  },
  {
   "id": 47,
@@ -1247,7 +1247,7 @@
    "C": "VII"
   },
   "correctAnswer": "A",
-  "explanation": "trigeminal nerve supply the lateral pterygoid by mandibular nerve (CCDD), is a synkinetic syndrome in which the eyelid elevates with movement of the jaw (Video 16-1); it may present with ptosis. The synkinesis is thought to be caused by aberrant connections between the motor division of cranial nerve (CN) V and the levator muscle. 46. Infantile ET: Reference: AAO BCSC Pediatrics 22-23: - Marcus Gunn jaw-winking syndrome, a congenital cranial dysinnervation disorder",
+  "explanation": "trigeminal nerve supply the lateral pterygoid by mandibular nerve (CCDD), is a synkinetic syndrome in which the eyelid elevates with movement of the jaw (Video 16-1); it may present with ptosis. The synkinesis is thought to be caused by aberrant connections between the motor division of cranial nerve (CN) V and the levator muscle. Reference: AAO BCSC Pediatrics 22-23: - Marcus Gunn jaw-winking syndrome, a congenital cranial dysinnervation disorder",
   "year": "2018",
   "subspecialty": "Pediatrics",
   "pdfPage": 227,
@@ -1292,7 +1292,7 @@
    "C": "Basic"
   },
   "correctAnswer": "A",
-  "explanation": "Reference: AAO BCSC Pediatrics 22-23: 50. Dilating agent for neonate",
+  "explanation": "Reference: AAO BCSC Pediatrics 22-23:",
   "year": "2018",
   "subspecialty": "Pediatrics",
   "pdfPage": 228,
@@ -1316,7 +1316,7 @@
    "C": "Contact child services"
   },
   "correctAnswer": "C",
-  "explanation": ", I think this is abusive head trauma (AHT),aka shaken baby syndrome cases, is retinal hemorrhage. The ocular adnexa and anterior segment usually appear entirely normal. Retinal hemorrhages can occur in all layers of the retina and may be unilateral or bilateral. can be tried. One is maintaining the infant upright during the day if possible given other comorbidities[9]. Upright positioning allows the blood to settle inferiorly within the bleb and may allow the fovea to be sufficiently clear to avoid surgical evacuation. - Surgical vitrectomy may be needed for nonclearing vitreous hemorrhage, macular hole, or retinal detachment, but procedures are complex in infant eyes and often require consultation with a pediatric retina trained surgeon. Often, the prognosis can vary significantly for victims of SBS depending on the severity of the trauma and effect on the central neural system. Careful physician documentation of findings and fundus photography (if available) can prove very helpful especially in a court of law. - Child protective services and local law enforcement should immediately be alerted in all cases of abuse or suspected abuse. 52. Conjunctiva neonaturm aquistion, from where did neonate get infection: Reference: Eyewiki: Shaken baby syndrome: Management: - If preretinal blood obscures the macula raising concern for amblyopia, several options",
+  "explanation": ", I think this is abusive head trauma (AHT),aka shaken baby syndrome cases, is retinal hemorrhage. The ocular adnexa and anterior segment usually appear entirely normal. Retinal hemorrhages can occur in all layers of the retina and may be unilateral or bilateral. can be tried. One is maintaining the infant upright during the day if possible given other comorbidities[9]. Upright positioning allows the blood to settle inferiorly within the bleb and may allow the fovea to be sufficiently clear to avoid surgical evacuation. - Surgical vitrectomy may be needed for nonclearing vitreous hemorrhage, macular hole, or retinal detachment, but procedures are complex in infant eyes and often require consultation with a pediatric retina trained surgeon. Often, the prognosis can vary significantly for victims of SBS depending on the severity of the trauma and effect on the central neural system. Careful physician documentation of findings and fundus photography (if available) can prove very helpful especially in a court of law. - Child protective services and local law enforcement should immediately be alerted in all cases of abuse or suspected abuse. Reference: Eyewiki: Shaken baby syndrome: Management: - If preretinal blood obscures the macula raising concern for amblyopia, several options",
   "year": "2018",
   "subspecialty": "Pediatrics",
   "pdfPage": 229,
@@ -1524,7 +1524,7 @@
    "B": "4-6 wks"
   },
   "correctAnswer": "B",
-  "explanation": "3- 6 weeks regrowth, recurrence can be expected 3-8 weeks after epilation. Broken cilia are often more irritating to the cornea than mature longer lashes. grow back in as little as 3 weeks. is removed with its root, it tends to regrow in 3-6 weeks. If it is merely broken off or trimmed, it simply continues to grow unabated and the broken end tends to be even more irritating than the mature lash to the ocular surface. - According to the BCSC Cornea book, cilia are naturally replaced every 3-5 months. It takes cilia 2 weeks to regrow when cut and 2 months to regrow if pulled out. 55. Pt with hx of trauma undergoes imaging which shows enlarged vessel os Which artery is most likely affected: Reference: Ophthoquestions: - Epilation (pulling out the lash) has about a 100% chance of hair regrowth. If the lash",
+  "explanation": "3- 6 weeks regrowth, recurrence can be expected 3-8 weeks after epilation. Broken cilia are often more irritating to the cornea than mature longer lashes. grow back in as little as 3 weeks. is removed with its root, it tends to regrow in 3-6 weeks. If it is merely broken off or trimmed, it simply continues to grow unabated and the broken end tends to be even more irritating than the mature lash to the ocular surface. - According to the BCSC Cornea book, cilia are naturally replaced every 3-5 months. It takes cilia 2 weeks to regrow when cut and 2 months to regrow if pulled out. Reference: Ophthoquestions: - Epilation (pulling out the lash) has about a 100% chance of hair regrowth. If the lash",
   "year": "2018",
   "subspecialty": "Oculoplastics",
   "pdfPage": 253,
@@ -1851,7 +1851,7 @@
    "C": "Amyloid"
   },
   "correctAnswer": "C",
-  "explanation": "Agree structurally have a β-pleated sheet configuration and exhibit birefringence and dichroism under polarized light when stained with Congo red - Histologically, amyloid appears as a glassy pink, extracellular deposit within the stroma, sometimes in a perivascular distribution. On Congo red stain under standard light, amyloid deposits appear red orange. 69. Epidermoid patho pic common in the eyelids. They may arise spontaneously or as a result of the entrapment of epidermis beneath the skin surface following surgery or trauma. Epidermoid cysts are lined with keratinized stratified squamous epithelium and contain keratin (Fig 13-10). 70. Ocp type 2 hypersensitivity supports a Type II hypersensitivity response caused by an autoantibody to a cell surface antigen in the basement membrane of the conjunctival epithelium and other similar squamous epithelia Reference: Eyewiki: - The exact pathogenesis of OCP remains to be elucidated but the existing evidence",
+  "explanation": "structurally have a β-pleated sheet configuration and exhibit birefringence and dichroism under polarized light when stained with Congo red - Histologically, amyloid appears as a glassy pink, extracellular deposit within the stroma, sometimes in a perivascular distribution. On Congo red stain under standard light, amyloid deposits appear red orange. Reference: AAO BCSC Pathology 22-23 - The term amyloid refers to a heterogeneous group of extracellular proteins that",
   "year": "2018",
   "subspecialty": "Pathology",
   "pdfPage": 294,

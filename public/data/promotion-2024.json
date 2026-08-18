@@ -16,13 +16,13 @@
   "pdfPage": 42,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p042_d535d114f1.png",
-  "pageScanUrl": "/images/promotion-pages/page_042.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "Congenital syphilis classically causes interstitial keratitis, which typically declares itself between about ages 5 and 25 and is bilateral in most cases. The active phase is deep stromal inflammation with mid-stromal neovascularisation, the so-called salmon patch, which later regresses to leave ghost vessels and stromal scarring. Pseudodendrites belong to herpes zoster and to tyrosinaemia type II, pterygium is a degenerative ocular surface lesion with no syphilitic association, and enlarged corneal nerves point instead to MEN 2B, neurofibromatosis or leprosy."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_042.jpg"
  },
  {
   "id": 2,
@@ -55,13 +55,13 @@
    }
   ],
   "figureFinding": "Refractive surprise after cataract surgery in an eye with previous myopic laser refractive surgery — standard keratometry overestimates corneal power, the IOL chosen is too weak, and the patient ends up hyperopic",
-  "pageScanUrl": "/images/promotion-pages/page_042.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "high",
    "explanation": "After myopic LASIK or PRK the anterior corneal surface is flattened but the posterior surface is not, so the standard keratometric index of 1.3375 no longer holds and measured K overestimates the true corneal power. Feeding that inflated K into a standard formula yields an IOL power that is too low, and the patient ends up hyperopic, hence the hyperopic surprise. This is why post-refractive methods such as the ASCRS calculator, Barrett True-K or Haigis-L are used. A myopic surprise is the mirror error seen after previous hyperopic ablation, and cystoid macular oedema is a postoperative complication unrelated to prior keratorefractive surgery."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_042.jpg"
  },
  {
   "id": 3,
@@ -95,13 +95,13 @@
    }
   ],
   "figureFinding": "Pterygium and its surgical repair — conjunctival autograft has the lowest recurrence and complication rate compared with bare-sclera closure, amniotic membrane, or mitomycin C",
-  "pageScanUrl": "/images/promotion-pages/page_043.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "high",
    "explanation": "Conjunctival autograft is the reference standard after pterygium excision, giving the lowest recurrence rate with a benign complication profile, because healthy limbal and conjunctival tissue restores a barrier at the limbus. Bare sclera closure or simple closure has by far the highest recurrence, often quoted between 30 and 80 percent. Mitomycin C does reduce recurrence but carries the risk of scleral melt, avascular necrosis, infectious scleritis and late perforation, so it is not the option with fewest complications. Amniotic membrane is a reasonable alternative when conjunctiva must be spared, but recurrence rates are consistently higher than with autograft."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_043.jpg"
  },
  {
   "id": 4,
@@ -120,14 +120,14 @@
   "pdfPage": 44,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p044_83e67ebefd.png",
-  "pageScanUrl": "/images/promotion-pages/page_044.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "low",
    "explanation": "The stem is only the phrase referring back to a preceding item, so the clinical question itself is missing and only a time interval is being asked for. Taken with the surrounding anterior segment material on pterygium and ocular surface healing, an interval of a few days fits the usual answer for corneal epithelial closure over a bare or grafted bed, which is typically complete within two to five days. I have no independent basis to contradict the source key here.",
    "concern": "Unanswerable as transcribed: the actual question text is absent and only the option set survived, so this is an assent by default rather than a verified answer. It should be reconciled against the original PDF page 44."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_044.jpg"
  },
  {
   "id": 5,
@@ -343,14 +343,14 @@
    }
   ],
   "figureFinding": "Prominent/enlarged corneal nerves on slit-lamp examination — thickened white nerve trunks visible right through the central cornea, rather than only in the peripheral third as in normal eyes",
-  "pageScanUrl": "/images/promotion-pages/page_048.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "low",
    "explanation": "Visibly thickened, prominent corneal nerves are the shared feature of multiple endocrine neoplasia type 2B, neurofibromatosis, leprosy, keratoconus, Refsum disease, ichthyosis, congenital glaucoma and failed grafts. Neurofibromatosis is a standard answer on that list and, unlike leprosy, is not tied to a specific endemic setting or accompanied by the anaesthetic cornea and beaded nerve pattern of Hansen disease. Keratoconus makes nerves appear prominent rather than truly enlarged, and syphilis causes stromal vascularisation and ghost vessels rather than nerve enlargement.",
    "concern": "Without the photograph this cannot be settled: leprosy is equally classic for enlarged corneal nerves and the beading pattern, plus signs such as madarosis or lagophthalmos, would be what distinguishes it. The source itself notes the option does not specify neurofibromatosis type 1 or 2."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_048.jpg"
  },
  {
   "id": 14,
@@ -408,19 +408,19 @@
    "D": "Lower the dose"
   },
   "correctAnswer": "A",
-  "explanation": "B It's mooren's ulcer… A The antiarrhythmic medication amiodarone is the most common cause of corneal verticillata. Because it is unusual for these deposits to result in reduction of vision or ocular symptoms, treatments such as superficial keratectomy with excimer laser are not necessary. It is acceptable for the patient to continue taking the recommended dose of systemic medication. The patient should be monitored by the ophthalmologist. A At the limbus B To the center C Centrifugally all directions Mooren's ulcer is characterized by painful peripheral corneal ulceration of unknown etiology. The disease generally begins with intense limbal inflammation and swelling in the episclera and conjunctiva [1] . Corneal changes begin within 2-3 mm from the limbus, first appearing as grey swellings that rapidly furrow, affecting the superficial one-third of the cornea and then proceeding circumferentially and centrally over 4-12 months. 19. What is the most common site for scleral rupture following trauma? A At the limbus B At the equator C Radially along the muscle insertion (Exact wording) Reference: Cornea AAO book 18. A picture of PUK (?mooren ulcer) asking about how the disease will progress?",
+  "explanation": "The antiarrhythmic medication amiodarone is the most common cause of corneal verticillata. Because it is unusual for these deposits to result in reduction of vision or ocular symptoms, treatments such as superficial keratectomy with excimer laser are not necessary. It is acceptable for the patient to continue taking the recommended dose of systemic medication. The patient should be monitored by the ophthalmologist. Reference: Cornea AAO book",
   "year": "2024",
   "subspecialty": "Anterior Segment",
   "pdfPage": 48,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p049_c5f975d4d5.png",
-  "pageScanUrl": "/images/promotion-pages/page_048.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "Amiodarone is the commonest cause of corneal verticillata, a whorl-like sub-epithelial deposition of drug-lipid complexes radiating from a point below the pupil. It is dose related, reversible on withdrawal, and almost never reduces acuity or causes symptoms, so it is not in itself a reason to alter an antiarrhythmic the patient may depend on. The correct advice is to continue the drug at the prescribed dose with ophthalmic monitoring. What does mandate urgent action with amiodarone is optic neuropathy with disc swelling and visual loss, which is a different clinical picture and requires discussion with cardiology."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_048.jpg"
  },
  {
   "id": 17,
@@ -456,14 +456,14 @@
    }
   ],
   "figureFinding": "Posterior subcapsular cataract: a granular, plaque-like opacity lying directly beneath the posterior lens capsule, best appreciated on retroillumination. It causes glare and halos around point light sources, worse vision in bright light (pupil constricted over the opacity), and near vision worse than distance.",
-  "pageScanUrl": "/images/promotion-pages/page_049.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "medium",
    "explanation": "A posterior subcapsular opacity sits immediately in front of the nodal point at the centre of the visual axis, so anything that constricts the pupil, bright ambient light, accommodation at near, or a miotic drop, makes the opacity occupy proportionally more of the aperture. The result is disproportionate glare and reduced vision in bright conditions and near vision that is worse than distance, which is why these patients often see better in dim light. Nuclear sclerosis instead produces gradual distance blur with a myopic shift, and cortical spokes classically cause glare from a focal light source at night.",
    "concern": "Options A and C are two phrasings of the same phenomenon in this recall, so the item is internally ambiguous. The defensible teaching point is bright-light and miosis-related glare; if option A was intended as glare from a focal light at night, that finding leans more towards cortical than posterior subcapsular cataract."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_049.jpg"
  },
  {
   "id": 18,
@@ -476,7 +476,7 @@
    "D": "Suprachoroidal hemorrhage"
   },
   "correctAnswer": "A",
-  "explanation": "The source is undecided between A and B. 23. Argon laser iridoplasty settings:",
+  "explanation": "The source is undecided between A and B.",
   "year": "2024",
   "subspecialty": "Glaucoma",
   "pdfPage": 50,
@@ -853,7 +853,7 @@
    "C": "CRVO"
   },
   "correctAnswer": "A",
-  "explanation": "C 41. Photo of Neuroretinitis in child. What would help you in the diagnosis? (Same picture in exam):",
+  "explanation": "C",
   "year": "2024",
   "subspecialty": "Retina",
   "pdfPage": 55,
@@ -878,13 +878,13 @@
    }
   ],
   "figureFinding": "Ocular ischemic syndrome from severe ipsilateral carotid occlusive disease: corneal oedema, anterior chamber flare, rubeosis/neovascularisation, narrowed retinal arteries with spontaneous arterial pulsation (or an artery easily occluded by light digital pressure), dilated but NON-tortuous veins, and scattered mid-peripheral dot-blot haemorrhages - all markedly asymmetric versus the fellow eye, which shows only a few microaneurysms.",
-  "pageScanUrl": "/images/promotion-pages/page_055.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "Spontaneous retinal arterial pulsation is the discriminating sign here: it indicates that ocular perfusion pressure has fallen close to intraocular pressure, which is the hallmark of carotid occlusive disease and ocular ischaemic syndrome. Add markedly asymmetric disease with anterior segment involvement and corneal oedema in an elderly vasculopath whose fellow eye shows only trivial retinopathy, and the diagnosis follows. Proliferative diabetic retinopathy is essentially symmetrical and would not explain a fellow eye with only a few microaneurysms, and central retinal vein occlusion produces widespread haemorrhages in all four quadrants with a dilated tortuous venous tree rather than arterial pulsation. Recognising ocular ischaemic syndrome matters because it carries a high mortality and requires urgent carotid and cardiovascular assessment."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_055.jpg"
  },
  {
   "id": 36,
@@ -1072,7 +1072,7 @@
    "D": "lacrimal artery"
   },
   "correctAnswer": "B",
-  "explanation": "C The fundus photo shows retinal whitening but with preservation of perfusion in the foveal area. The corresponding FA shows absence of dye in the majority of the retinal blood vessels except for a few vessels feeding the fovea. This presentation is consistent with a cilioretinal-sparing central retinal artery occlusion (CRAO). The blood supply to the inner layers of the retina is typically derived entirely from the central retinal artery (CRA). The exception is that approximately 1530% of eyes have a cilioretinal artery which is a branch most directly from the posterior ciliary arteries (PCAs). The CRA, PCAs, and lacrimal artery are branches of the ophthalmic artery. Most cases of CRAO are visually-devastating with greater than two-thirds of cases having visual acuity of worse than 20/400. The majority of CRAO cases associated with good central visual acuity are those with a patent cilioretinal artery. Vision of NLP typically does not occur in CRAO, but can occur with simultaneous choroidal infarction (e.g. ophthalmic artery occlusion). 50. Same scenario and picture, but it was mentioned that the patient's complaint is unilateral:",
+  "explanation": "The fundus photo shows retinal whitening but with preservation of perfusion in the foveal area. The corresponding FA shows absence of dye in the majority of the retinal blood vessels except for a few vessels feeding the fovea. This presentation is consistent with a cilioretinal-sparing central retinal artery occlusion (CRAO). The blood supply to the inner layers of the retina is typically derived entirely from the central retinal artery (CRA). The exception is that approximately 1530% of eyes have a cilioretinal artery which is a branch most directly from the posterior ciliary arteries (PCAs). The CRA, PCAs, and lacrimal artery are branches of the ophthalmic artery. Most cases of CRAO are visually-devastating with greater than two-thirds of cases having visual acuity of worse than 20/400. The majority of CRAO cases associated with good central visual acuity are those with a patent cilioretinal artery. Vision of NLP typically does not occur in CRAO, but can occur with simultaneous choroidal infarction (e.g. ophthalmic artery occlusion).",
   "year": "2024",
   "subspecialty": "Retina",
   "pdfPage": 60,
@@ -1140,7 +1140,7 @@
    "C": "macular edema"
   },
   "correctAnswer": "A",
-  "explanation": "D Histologic studies show condensed vitreous, fibroblasts, lymphocytes, and lymphocyte cuffing of the peripheral retinal veins. Snowbanks and snowballs consist of a fibrovascular layer containing mononuclear leukocytes and fibrocyte-like cells, as well as vitreous collagen, Muller cells and fibrous astrocytes. https://eyewiki.aao.org/Intermediate_Uveitis 54. A case of type 3 duane syndrome (16 PD ET, complete disappearance of right eye on side gaze, limited abduction and adduction), what is the most appropriate management? . Bilateral MR recession . Ipsilateral MR and LR recession of same amount . Ipsilateral LR recession with posterior fixation . Ipsilateral MR and LR recession, with more MR recession",
+  "explanation": "Histologic studies show condensed vitreous, fibroblasts, lymphocytes, and lymphocyte cuffing of the peripheral retinal veins. Snowbanks and snowballs consist of a fibrovascular layer containing mononuclear leukocytes and fibrocyte-like cells, as well as vitreous collagen, Muller cells and fibrous astrocytes. https://eyewiki.aao.org/Intermediate_Uveitis",
   "year": "2024",
   "subspecialty": "Uveitis",
   "pdfPage": 62,
@@ -1205,14 +1205,14 @@
    }
   ],
   "figureFinding": "Long-standing (congenital) LEFT superior oblique / fourth nerve palsy: left hypertropia that increases in right gaze and on LEFT head tilt, with a compensatory head tilt to the RIGHT (away from the palsied side). Subjective excyclotorsion is typically absent in congenital cases because of long-standing sensory adaptation. The photo should show a child with a habitual head tilt and a higher left eye.",
-  "pageScanUrl": "/images/promotion-pages/page_063.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "low",
    "explanation": "A long-standing left hypertropia with a compensatory head tilt to the right is the classic posture of a left superior oblique palsy, and the absence of subjective excyclotorsion despite objective torsion is itself evidence of chronicity, since congenital cases develop large sensory and fusional adaptations. When the deviation is modest and there is overaction of the ipsilateral inferior oblique, weakening that inferior oblique, the direct antagonist on the affected side, is the standard first operation. A resection of the right inferior rectus would further depress the lower of the two eyes and increase the left hypertropia, so it is the wrong direction of correction.",
    "concern": "The option set is corrupted: option B is missing entirely and option A appears to fuse two separate procedures, left inferior oblique weakening and right superior rectus recession, the second of which would worsen rather than correct a left hypertropia. Only the inferior oblique weakening component is defensible."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_063.jpg"
  },
  {
   "id": 50,
@@ -1315,7 +1315,7 @@
    "D": "Teller"
   },
   "correctAnswer": "D",
-  "explanation": "61. a 21-year-old college student presents to your office for new-onset esotropia and diplopia symptoms. She states that this is finals week and needs to get her \"eyes fixed\" for her examinations. VA is 20/100 at distance and J1+ at near OU. She",
+  "explanation": "No explanation was provided in the source document.",
   "year": "2024",
   "subspecialty": "Pediatrics",
   "pdfPage": 65,
@@ -1582,13 +1582,13 @@
    }
   ],
   "figureFinding": "Conjunctival lymphoma: a smooth, mobile, salmon-pink fleshy subconjunctival patch/mass (typically fornix or bulbar conjunctiva, often with telangiectatic surface vessels), plus histopathology showing a dense monotonous infiltrate of small lymphocytes - most often extranodal marginal zone (MALT) B-cell lymphoma. Treated with external beam radiotherapy for localised indolent disease.",
-  "pageScanUrl": "/images/promotion-pages/page_068.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "high",
    "explanation": "A large salmon-pink conjunctival patch with a dense monotonous lymphoid infiltrate on histology is conjunctival lymphoma, usually of extranodal marginal zone (MALT) type. Once systemic imaging and haematological staging have excluded disseminated disease, localized low-dose external beam radiotherapy is the standard treatment for a large ocular adnexal lesion and achieves high rates of local control. Observation (A) is reserved for small indolent lesions or patients unfit for treatment; excision alone (D) is diagnostic rather than curative because the infiltrate is diffuse and margins cannot be cleared; and systemic chemotherapy or rituximab (C) is directed at disseminated disease. The examinable sequence is biopsy, then systemic staging, then local radiotherapy, because finding systemic disease switches management from local to systemic therapy."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_068.jpg"
  },
  {
   "id": 66,
@@ -1620,7 +1620,7 @@
    "B": "Autoantigen on fibroblast"
   },
   "correctAnswer": "B",
-  "explanation": "the presumed mechanism is activation of orbital fibroblasts by Graves' disease-related autoantibodies, which lead to the release of T cell chemoattractants, initiating an interaction which ultimately results in fibroblasts expressing extracellular matrix molecules, biologic materials proliferating and differentiating into myofibroblasts or lipofibroblasts and deposition of glycosaminoglycans which bind water that lead to swelling, congestion in addition to connective tissue remodeling. This results in extraocular muscle enlargement and orbital fat expansion. Reference: https://eyewiki.org/Thyroid_Eye_Disease 74. Obese, difficulty sleeping with conj irritation in the morning?",
+  "explanation": "the presumed mechanism is activation of orbital fibroblasts by Graves' disease-related autoantibodies, which lead to the release of T cell chemoattractants, initiating an interaction which ultimately results in fibroblasts expressing extracellular matrix molecules, biologic materials proliferating and differentiating into myofibroblasts or lipofibroblasts and deposition of glycosaminoglycans which bind water that lead to swelling, congestion in addition to connective tissue remodeling. This results in extraocular muscle enlargement and orbital fat expansion. Reference: https://eyewiki.org/Thyroid_Eye_Disease",
   "year": "2024",
   "subspecialty": "Pediatrics",
   "pdfPage": 69,
@@ -1731,7 +1731,7 @@
    "D": "Oral prednisone 40 mg/kg slow tapering + MTX 7.5 fast tapering up"
   },
   "correctAnswer": "B",
-  "explanation": "81. Female with anisocoria left bigger, migraine headache since 2 month , last attack 2",
+  "explanation": "No explanation was provided in the source document.",
   "year": "2024",
   "subspecialty": "Neuro-Ophthalmology",
   "pdfPage": 71,
@@ -1847,14 +1847,14 @@
    }
   ],
   "figureFinding": "Bitemporal hemianopia: loss of the temporal half of the field in BOTH eyes, respecting the vertical meridian - produced by a lesion at the body of the optic chiasm compressing the decussating nasal fibres (most often a pituitary macroadenoma).",
-  "pageScanUrl": "/images/promotion-pages/page_074.jpg",
   "review": {
    "answer": "C",
    "agrees": true,
    "confidence": "low",
    "explanation": "On the reading given in the source note, the fields show a junctional pattern, that is a central or generalized defect in one eye with a superotemporal defect in the fellow eye, which localizes to the junction of the optic nerve and chiasm and is best captured among these options by a chiasmal lesion. A pure optic neuropathy (A) cannot account for any defect in the fellow eye. An optic tract lesion (B) produces a homonymous hemianopia respecting the vertical midline, characteristically incongruous, often with a contralateral relative afferent pupillary defect and band atrophy of the contralateral disc. An occipital lesion (D) gives a congruous homonymous defect, frequently with macular sparing.",
    "concern": "I cannot see the field printout and the source itself was undecided between chiasmal and optic tract. If both eyes show homonymous defects respecting the vertical midline, the answer is optic tract; if one eye shows a central defect and the fellow eye a superotemporal defect, it is a junctional scotoma and chiasmal is correct."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_074.jpg"
  },
  {
   "id": 77,
@@ -1935,7 +1935,7 @@
    "D": "Subtract the cylinder from the sphere than add 90 to the axis"
   },
   "correctAnswer": "D",
-  "explanation": "The question stem and choices were exactly worded like this. Because they switched the sign of Cyl for you. 89. Scenario post cataract sx diplopia one eye hyperope other myope:",
+  "explanation": "The question stem and choices were exactly worded like this. Because they switched the sign of Cyl for you.",
   "year": "2024",
   "subspecialty": "Optics",
   "pdfPage": 76,
@@ -1950,14 +1950,14 @@
    }
   ],
   "figureFinding": "No clinical figure is needed - this is a pure spectacle-prescription calculation item on spherocylindrical transposition. The rule: algebraically add the cylinder to the sphere to get the new sphere, flip the sign of the cylinder, and change the axis by 90 degrees.",
-  "pageScanUrl": "/images/promotion-pages/page_076.jpg",
   "review": {
    "answer": "D",
    "agrees": true,
    "confidence": "medium",
    "explanation": "Transposition has three steps: add the cylinder power algebraically to the sphere, reverse the sign of the cylinder, and change the axis by 90 degrees. Because this stem states that the cylinder sign has already been switched for you, the remaining arithmetic is expressed as subtracting the now-positive cylinder from the sphere and rotating the axis by 90 degrees. Worked example: +3.00 -1.00 x 90 becomes +2.00 +1.00 x 180, where the new sphere is +3.00 plus the original -1.00, which is identical to +3.00 minus the new +1.00. Options B and C fail immediately because the axis is always changed by 90 degrees and never by 180, which would simply return you to the same meridian.",
    "concern": "This is a wording-dependent item. The rule as normally memorized is to add the cylinder algebraically to the sphere, which is option A; D is correct only because the stem has already flipped the cylinder sign for the candidate. Both encode the same transposition, and the clearly wrong options are the two using 180 degrees."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_076.jpg"
  },
  {
   "id": 81,
@@ -1975,13 +1975,13 @@
   "pdfPage": 77,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p078_433cb5cdef.png",
-  "pageScanUrl": "/images/promotion-pages/page_077.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "high",
    "explanation": "The conventional order of subjective refraction using the Jackson cross cylinder is best sphere first, then refine the cylinder axis, then refine the cylinder power, then rebalance the sphere, so the third step is cylinder power. Axis precedes power because a misaligned axis makes the power endpoint unreliable, whereas an approximately correct power still permits the axis to be found accurately. The final sphere check is not optional: each 0.50 D change in cylinder power requires a 0.25 D change of sphere in the opposite direction to keep the circle of least confusion on the retina. Option C describes that closing step rather than the third one."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_077.jpg"
  },
  {
   "id": 82,
@@ -2089,13 +2089,13 @@
    }
   ],
   "figureFinding": "Chlamydia trachomatis (adult inclusion) conjunctivitis: a Giemsa-stained conjunctival scraping showing basophilic intracytoplasmic inclusion bodies (Halberstaedter-Prowazek bodies) capping the epithelial cell nucleus, in a sexually active young adult with chronic follicular conjunctivitis unresponsive to routine topical antibiotics.",
-  "pageScanUrl": "/images/promotion-pages/page_079.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "medium",
    "explanation": "In a young adult with follicular conjunctivitis, the cytology that establishes adult inclusion conjunctivitis is a mixed lymphocytic and neutrophilic reaction with basophilic intracytoplasmic inclusion bodies within epithelial cells on Giemsa staining. Gonococcal conjunctivitis (B) is hyperacute with copious purulent discharge, lid oedema and preauricular adenopathy, and its smear shows gram-negative intracellular diplococci inside neutrophils, a quite different picture, with the added danger of rapid corneal perforation. Because chlamydial conjunctivitis at this age is sexually transmitted, management is oral azithromycin or doxycycline plus treatment of sexual partners and screening for coinfection, not topical therapy alone. I cannot see the slide, so the identification rests on the clinical framing and the answer options offered."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_079.jpg"
  },
  {
   "id": 86,
@@ -2127,14 +2127,14 @@
    }
   ],
   "figureFinding": "Squamous cell carcinoma of the eyelid: biopsy histopathology showing nests and strands of atypical, eosinophilic squamous cells with full-thickness atypia, keratin pearls and retained intercellular bridges, invading the dermis with a fibrotic reaction. Clinically an ulcerated lower-lid lesion with a red base and indurated, everted edges.",
-  "pageScanUrl": "/images/promotion-pages/page_080.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "low",
    "explanation": "If the histology shows nests and sheets of atypical squamous cells with keratin pearls, intercellular bridges and dyskeratosis, then squamous cell carcinoma is correct. The discriminators to look for on the slide are basaloid lobules with peripheral palisading and retraction artefact from the surrounding stroma for basal cell carcinoma, foamy lipid-laden vacuolated cytoplasm with pagetoid intraepithelial spread and positive lipid staining for sebaceous carcinoma, and a benign acanthotic proliferation with horn cysts and no atypia for seborrhoeic keratosis. Clinically the two features that should raise suspicion for sebaceous carcinoma in any lid lesion are loss of lashes and a recurrent unilateral blepharoconjunctivitis, since it is the great masquerader of the eyelid.",
    "concern": "I cannot see the slide, and the clinical prior strongly favours basal cell carcinoma, which accounts for the large majority of ulcerated lower lid malignancies. The source answer is correct only if the histology demonstrates keratinizing squamous differentiation. Treat this item as image-dependent."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_080.jpg"
  },
  {
   "id": 87,
@@ -2153,13 +2153,13 @@
   "pdfPage": 82,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p082_3626b263d2.png",
-  "pageScanUrl": "/images/promotion-pages/page_082.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "high",
    "explanation": "Moxifloxacin is a fourth-generation fluoroquinolone that inhibits bacterial DNA gyrase (topoisomerase II) and topoisomerase IV, blocking the supercoiling and separation of replicating DNA, so it interrupts DNA replication and is bactericidal. Inhibition of cell wall synthesis (A) describes the beta-lactams, vancomycin and bacitracin. Inhibition of protein synthesis (C) describes aminoglycosides, macrolides, tetracyclines and chloramphenicol. Disruption of membrane permeability (D) is the mechanism of polymyxin B. The dual target of later-generation quinolones is what broadens gram-positive cover and raises the barrier to resistance compared with ciprofloxacin, and moxifloxacin is preservative-free with good intraocular penetration, which is why it is widely used perioperatively."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_082.jpg"
  },
  {
   "id": 88,

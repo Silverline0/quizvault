@@ -268,19 +268,19 @@
    "C": "Ultrasonography"
   },
   "correctAnswer": "B",
-  "explanation": "17. A patient wants to do LASIK. His manifest refraction is -10, cyclorefraction is -",
+  "explanation": "No explanation was provided in the source document.",
   "year": "2025",
   "subspecialty": "Anterior Segment",
   "pdfPage": 8,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p008_5b304ad46c.png",
-  "pageScanUrl": "/images/promotion-pages/page_008.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "high",
    "explanation": "In a patient with sickle cell disease or trait, intraocular pressure is the measurement that changes management, because red cells sickle in the hypoxic acidotic environment of the anterior chamber, obstruct the trabecular meshwork and produce pressure spikes, and the sickle optic nerve and retinal circulation tolerate raised pressure very poorly, so the threshold for surgical evacuation is much lower than usual. Management is altered as well: carbonic anhydrase inhibitors are avoided because systemic acidosis and haemoconcentration promote further sickling, and hyperosmotics are used cautiously for the same reason. Visual acuity (A) and ultrasonography (C) belong to a complete assessment but carry nothing like the same decision weight, and B-scan is reserved for a view-obscuring hyphema when posterior segment injury is suspected. Every patient of African, Mediterranean, Middle Eastern or Indian ancestry with traumatic hyphema should have sickle status checked."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_008.jpg"
  },
  {
   "id": 14,
@@ -313,7 +313,7 @@
    "B": "Recurrent erosion"
   },
   "correctAnswer": "A",
-  "explanation": "19. Case describing a marginal keratitis (from 4 to 8o'clock). What will you look for in exam?",
+  "explanation": "No explanation was provided in the source document.",
   "year": "2025",
   "subspecialty": "Anterior Segment",
   "pdfPage": 9,
@@ -335,7 +335,7 @@
    "D": "Increase lubrication"
   },
   "correctAnswer": "A",
-  "explanation": "22. Patient with late \"wave-like\"staining of the cornea, what is the most likely diagnosis?",
+  "explanation": "No explanation was provided in the source document.",
   "year": "2025",
   "subspecialty": "Anterior Segment",
   "pdfPage": 9,
@@ -379,7 +379,7 @@
    "C": "Give steroids"
   },
   "correctAnswer": "A",
-  "explanation": "25. Which of the following is true regarding the use of excimer laser in LASIK surgery?",
+  "explanation": "No explanation was provided in the source document.",
   "year": "2025",
   "subspecialty": "Anterior Segment",
   "pdfPage": 10,
@@ -509,7 +509,7 @@
    "B": "Klebsiella"
   },
   "correctAnswer": "A",
-  "explanation": "no candida in the choices 32. A case of patient with uncontrolled AF. He presented with sudden visual loss OU. One eye has LP vision and the other to have HM. What is expected on examination?",
+  "explanation": "no candida in the choices",
   "year": "2025",
   "subspecialty": "Retina",
   "pdfPage": 13,
@@ -553,7 +553,7 @@
    "D": "PDR"
   },
   "correctAnswer": "C",
-  "explanation": "35. BRVO predictive investigation of visual outcome:",
+  "explanation": "No explanation was provided in the source document.",
   "year": "2025",
   "subspecialty": "Retina",
   "pdfPage": 14,
@@ -597,7 +597,7 @@
    "D": "Dexamethasone injection"
   },
   "correctAnswer": "C",
-  "explanation": "38. 5 days S/p phaco presented with pain, redness and hypopyon, what is the most likely diagnosis?",
+  "explanation": "No explanation was provided in the source document.",
   "year": "2025",
   "subspecialty": "Retina",
   "pdfPage": 15,
@@ -987,7 +987,7 @@
    "D": "Suprachoroidal hemorrhage"
   },
   "correctAnswer": "A",
-  "explanation": "57. Photo of Neuroretinitis in child. What would help you in the diagnosis? (Same picture):",
+  "explanation": "No explanation was provided in the source document.",
   "year": "2025",
   "subspecialty": "Uveitis",
   "pdfPage": 22,
@@ -1006,14 +1006,14 @@
    }
   ],
   "figureFinding": "No figure is required - this stem describes a case in words and asks a knowledge question, with no picture referenced. The relevant reference material is glaucoma drainage device (tube shunt) surgery and its complication profile, in which early postoperative hypotony - often with choroidal effusion and hypotony maculopathy - is the commonest problem, especially with non-valved implants.",
-  "pageScanUrl": "/images/promotion-pages/page_022.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "medium",
    "explanation": "A vitrectomised aphakic or pseudophakic eye has lost the vitreous scaffold and much of the normal resistance to aqueous egress, so early overfiltration with hypotony, shallow chamber and choroidal effusion is the commonest problem after drainage implant surgery in this setting. Malignant glaucoma is essentially excluded once the eye has had a complete vitrectomy, since aqueous misdirection depends on an intact vitreous body. Suprachoroidal haemorrhage is a feared but uncommon consequence of hypotony rather than the most frequent event, and tube occlusion in this eye would be expected mainly if residual silicone oil remained, which it does not after oil removal.",
    "concern": "The source explanation field for this item contains a stray fragment of a different question about neuroretinitis in a child, which is a transcription artifact rather than an explanation. Non-valved implants are also usually ligated precisely to avoid this complication, so the answer depends on the device assumed."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_022.jpg"
  },
  {
   "id": 47,
@@ -1045,14 +1045,14 @@
    }
   ],
   "figureFinding": "Non-arteritic anterior ischemic optic neuropathy (NAION): fundus photograph of a hyperaemic, often segmentally swollen optic disc with peripapillary splinter haemorrhages arising in a small crowded 'disc at risk', accompanied by a visual field showing an altitudinal (usually inferior) defect respecting the horizontal midline, with reduced acuity, a RAPD and dyschromatopsia.",
-  "pageScanUrl": "/images/promotion-pages/page_023.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "medium",
    "explanation": "Painless vision loss with disc oedema, reduced colour vision and a relative afferent defect in a patient in the fifth or sixth decade is most consistent with non-arteritic anterior ischaemic optic neuropathy, which typically shows segmental or diffuse disc swelling on a crowded disc with a small or absent cup and an altitudinal field defect. Optic neuritis at this age is less common, usually causes pain on eye movement and has a normal disc in about two thirds of cases because the lesion is retrobulbar. Giant cell arteritis characteristically affects patients over seventy, produces chalky pallid disc swelling with more profound acuity loss and systemic symptoms, and infiltrative optic neuropathy is rare and usually accompanied by a known malignancy or other neurological signs.",
    "concern": "The answer depends on the disc photograph and field, which I cannot see. If the photograph showed pallid rather than hyperaemic swelling, or the vignette contained jaw claudication or scalp tenderness, arteritic disease would take precedence."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_023.jpg"
  },
  {
   "id": 48,
@@ -1201,13 +1201,13 @@
    }
   ],
   "figureFinding": "Bilateral papilledema: both optic discs elevated with blurred, obscured margins, loss of spontaneous venous pulsation, peripapillary haemorrhages and vessel obscuration - in an overweight young woman with transient visual obscurations on standing or bending (postural), i.e. idiopathic intracranial hypertension.",
-  "pageScanUrl": "/images/promotion-pages/page_026.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "Recent weight gain in a young woman with transient visual obscurations provoked by standing or bending and bilateral disc oedema is idiopathic intracranial hypertension, and disc swelling caused by raised intracranial pressure is by definition papilledema. The obscurations reflect momentary axonal conduction failure when perfusion pressure at the swollen disc drops with postural change. A posterior optic neuropathy is retrobulbar by definition and cannot produce a swollen disc, so it is internally inconsistent with the photograph. Confirmation still requires neuroimaging with venography and then lumbar puncture with an opening pressure."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_026.jpg"
  },
  {
   "id": 54,
@@ -1241,7 +1241,7 @@
    "D": "Refer to ophthalmology to be seen in 1 week"
   },
   "correctAnswer": "A",
-  "explanation": "69. A case of GCA with vision loss in one eye. He is not interested on being started on steroids. What to tell the patient to convince him to take the treatment?",
+  "explanation": "No explanation was provided in the source document.",
   "year": "2025",
   "subspecialty": "Neuro-Ophthalmology",
   "pdfPage": 27,
@@ -1303,13 +1303,13 @@
    }
   ],
   "figureFinding": "Morning glory disc anomaly: an enlarged, funnel-shaped excavated optic disc with a central white glial tuft, a surrounding raised annulus of chorioretinal pigment disturbance, and straight, radially emerging retinal vessels - resembling the morning glory flower. Its key systemic association is a transsphenoidal basal encephalocele (plus moyamoya vasculopathy and midline craniofacial defects).",
-  "pageScanUrl": "/images/promotion-pages/page_028.jpg",
   "review": {
    "answer": "D",
    "agrees": true,
    "confidence": "high",
    "explanation": "Morning glory disc anomaly is a funnel-shaped excavated disc with a central glial tuft and radiating vessels, and its important systemic associations are transsphenoidal basal encephalocele, midline craniofacial defects and moyamoya-type cerebrovascular disease, so neuroimaging is warranted. Polydactyly points to Bardet-Biedl syndrome, preauricular skin tags to oculo-auriculo-vertebral or branchio-oto-renal spectrum, and joint hypermobility to connective tissue disorders such as Ehlers-Danlos, none of which relate to this disc anomaly."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_028.jpg"
  },
  {
   "id": 58,
@@ -1432,7 +1432,7 @@
    "C": "Bi- focal"
   },
   "correctAnswer": "A",
-  "explanation": "78. A mother brought her 8-month-old child due to reddish swelling in the right upper eye lid that is increasing to the point where he cannot open his eyes completely. What is the management:",
+  "explanation": "No explanation was provided in the source document.",
   "year": "2025",
   "subspecialty": "Pediatrics",
   "pdfPage": 30,
@@ -1516,13 +1516,13 @@
    }
   ],
   "figureFinding": "Thyroid eye disease: left upper eyelid retraction with superior scleral show (Dalrymple sign) and a hypotropic left eye with limited elevation, caused by a fibrotic, restricted INFERIOR RECTUS - the most commonly involved extraocular muscle in TED.",
-  "pageScanUrl": "/images/promotion-pages/page_031.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "Thyroid eye disease involves the extraocular muscles in the order inferior rectus, medial rectus, superior rectus and lateral rectus, so the inferior rectus is the most commonly and most severely affected. A fibrotic tight inferior rectus tethers the globe downward, producing hypotropia with limited elevation, and the accompanying upper lid retraction with superior scleral show completes the picture. Lateral and medial rectus restriction would give horizontal rather than vertical misalignment, and isolated superior rectus disease is uncommon and would produce hypertropia rather than hypotropia."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_031.jpg"
  },
  {
   "id": 67,
@@ -1663,7 +1663,7 @@
    "D": "Left SO resection"
   },
   "correctAnswer": "A",
-  "explanation": "89. A child with multiple skin hyperpigmented spots. CT scan: fusiform optic nerve leasion. What is the diagnosis?",
+  "explanation": "No explanation was provided in the source document.",
   "year": "2025",
   "subspecialty": "Oculoplastics",
   "pdfPage": 34,
@@ -1826,12 +1826,12 @@
    }
   ],
   "figureFinding": "No clinical figure is needed - this is a Prentice's rule calculation. Prism (in prism dioptres) = lens power in dioptres x decentration from the optical centre in cm. Looking 1 cm below the optical centre induces 8 prism dioptres in the -8 D right lens and 4 prism dioptres in the -4 D left lens; because the induced prism is in the same direction in both eyes, the net vertical imbalance BETWEEN the eyes is 8 - 4 = 4 prism dioptres.",
-  "pageScanUrl": "/images/promotion-pages/page_038.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "high",
    "explanation": "By Prentice rule the induced prism equals the decentration in centimetres multiplied by the lens power in dioptres, so looking 1 cm below the optical centre induces 8 prism dioptres in the right eye and 4 in the left. Because both lenses are minus and the gaze is displaced in the same direction, both prisms are base down and therefore partially cancel between the eyes, leaving a net vertical imbalance of 4 prism dioptres. This anisometropic imbalance in downgaze is exactly why patients with unequal prescriptions struggle with reading through bifocals and why slab-off prism or separate reading glasses are prescribed."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_038.jpg"
  }
 ]

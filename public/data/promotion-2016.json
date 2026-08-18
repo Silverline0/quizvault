@@ -54,7 +54,7 @@
    "D": "most common hyloid anomaly"
   },
   "correctAnswer": "C",
-  "explanation": "AAO: A small, dense white spot generally located inferonasal to the posterior pole of the lens, a Mittendorf dot, is a remnant of the posterior pupillary membrane of the tunica vasculosa lentis. 9- recurrent uveitis in SUN classification :",
+  "explanation": "AAO: A small, dense white spot generally located inferonasal to the posterior pole of the lens, a Mittendorf dot, is a remnant of the posterior pupillary membrane of the tunica vasculosa lentis.",
   "year": "2016",
   "subspecialty": "Optics",
   "pdfPage": 398,
@@ -99,7 +99,7 @@
    "D": "not related to dermatom"
   },
   "correctAnswer": "C",
-  "explanation": "12- 17 y/o male with sudden decrease in decrease aqueous formation: Superior vena cava obstruction; Sleep apnea; Increase caffeine consumption (it increases aq. production); Ocular ischemic syndrome",
+  "explanation": "No explanation was provided in the source document. decrease aqueous formation: Superior vena cava obstruction; Sleep apnea; Increase caffeine consumption (it increases aq. production); Ocular ischemic syndrome",
   "year": "2016",
   "subspecialty": "Optics",
   "pdfPage": 399,
@@ -319,7 +319,7 @@
    "B": "HSV has spontaneous healing with or without treatment"
   },
   "correctAnswer": "B",
-  "explanation": "eyewiki: Primary HSV epithelial keratitis usually resolves spontaneously; however, eyewiki: Primary HSV epithelial keratitis usually resolves spontaneously; however, treatment with antiviral medication does indeed shorten the course of the disease and may therefore reduce the long- term complications of HSV.[ 30 - normal endothelial count:",
+  "explanation": "eyewiki: Primary HSV epithelial keratitis usually resolves spontaneously; however, eyewiki: Primary HSV epithelial keratitis usually resolves spontaneously; however, treatment with antiviral medication does indeed shorten the course of the disease and may therefore reduce the long- term complications of HSV.[",
   "year": "2016",
   "subspecialty": "Optics",
   "pdfPage": 404,
@@ -470,7 +470,7 @@
    "C": "Primary opne ange galucoma"
   },
   "correctAnswer": "A",
-  "explanation": "51- When does IOP reach its peak ? Early morning (AAO); Mid day; Night Picture of xanthelasma Rx : Surgical excision; Hyperlipidemia treatment; Laser; Incision and curettage",
+  "explanation": "No explanation was provided in the source document. Early morning (AAO); Mid day; Night Picture of xanthelasma Rx : Surgical excision; Hyperlipidemia treatment; Laser; Incision and curettage",
   "year": "2016",
   "subspecialty": "Optics",
   "pdfPage": 409,
@@ -655,7 +655,7 @@
    "C": "RA"
   },
   "correctAnswer": "A",
-  "explanation": "73. 73- chronic conjunctivitis + LN enlargement and encephalopathy: JIA characteristic features :- Hypopion; Post synechia; retinal Vasculitis; Motton fat KPs",
+  "explanation": "No explanation was provided in the source document. JIA characteristic features :- Hypopion; Post synechia; retinal Vasculitis; Motton fat KPs",
   "year": "2016",
   "subspecialty": "Optics",
   "pdfPage": 413,
@@ -763,7 +763,7 @@
    "C": "Wolfring"
   },
   "correctAnswer": "A",
-  "explanation": "AS 1- Cataract can be caused by ?",
+  "explanation": "AS",
   "year": "2016",
   "subspecialty": "Optics",
   "pdfPage": 415,
@@ -829,7 +829,6 @@
   "imageUrls": [
    "/images/promotion/p417_c24045bda2.jpg"
   ],
-  "pageScanUrl": "/images/promotion-pages/page_416.jpg",
   "review": {
    "answer": "C",
    "agrees": false,
@@ -837,7 +836,8 @@
    "confidence": "low",
    "explanation": "The cornea absorbs ultraviolet light below roughly 295 to 300 nm, and the crystalline lens is the principal absorber of ultraviolet A from about 300 to 400 nm, which is why aphakic eyes lose that protection and why ultraviolet-blocking intraocular lenses exist. The lens does yellow with age and progressively attenuates short-wavelength violet and blue light near 400 to 450 nm, but the examinable teaching point is the 300 to 400 nm band. Wavelengths of 100 to 300 nm never reach the lens because the cornea has already absorbed them.",
    "concern": "The recalled option list is defective: options A, B and D are present but option C is missing entirely, and the missing option almost certainly read 300 to 400 nm, which is the correct answer. As printed, the keyed answer of 400 to 500 nm describes visible light that the lens largely transmits rather than its absorption band, so I cannot endorse it. Confidence is low only because the option text has been lost, not because the underlying physiology is unclear."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_416.jpg"
  },
  {
   "id": 36,
@@ -893,7 +893,7 @@
    "D": "Treat cystoid macular edema"
   },
   "correctAnswer": "D",
-  "explanation": "Irvine-Gass syndrome is a common cause of decreased vision after cataract surgery. CME may be recognized by an otherwise unexplained reduction in vision. Incidence of CME peaks 6-10 weeks after surgery. Spontaneous resolution occurs in approximately 95% of uncomplicated cases, usually within 3-12 months. Reference: BCSC - Lens and Cataract 10- Facial Nerve",
+  "explanation": "Irvine-Gass syndrome is a common cause of decreased vision after cataract surgery. CME may be recognized by an otherwise unexplained reduction in vision. Incidence of CME peaks 6-10 weeks after surgery. Spontaneous resolution occurs in approximately 95% of uncomplicated cases, usually within 3-12 months. Reference: BCSC - Lens and Cataract",
   "year": "2016",
   "subspecialty": "Optics",
   "pdfPage": 418,
@@ -1043,7 +1043,7 @@
    "C": "injected more viscoelastic to tamponade capsule"
   },
   "correctAnswer": "C",
-  "explanation": "For maximum control of the size of the CCC, frequent regrasping of the flap near the tear is helpful. An OVD may be added to keep the lens surface flat and reduce the likelihood of peripheral extension. Reference: BCSC - Lens and cataract 18- post phaco macular edema, diagnosis:",
+  "explanation": "For maximum control of the size of the CCC, frequent regrasping of the flap near the tear is helpful. An OVD may be added to keep the lens surface flat and reduce the likelihood of peripheral extension. Reference: BCSC - Lens and cataract",
   "year": "2016",
   "subspecialty": "Optics",
   "pdfPage": 421,
@@ -1110,7 +1110,7 @@
    "D": "local steroid"
   },
   "correctAnswer": "C",
-  "explanation": "Several studies have demonstrated that the risk of recurrence after pterygium e sion is lower if a conjunctival autograft, rather than an amniotic membrane transplant, is used. Reference: BCSC - External disease and Cornea Oculo 22- lacrimal gland ducts drained in ?",
+  "explanation": "Several studies have demonstrated that the risk of recurrence after pterygium e sion is lower if a conjunctival autograft, rather than an amniotic membrane transplant, is used. Reference: BCSC - External disease and Cornea Oculo",
   "year": "2016",
   "subspecialty": "Optics",
   "pdfPage": 422,
@@ -1195,7 +1195,7 @@
    "D": "Cavernous sinus thrombosis"
   },
   "correctAnswer": "C",
-  "explanation": "Painful ophthalmoparesis or ophthalmoplegia is the hallmark of Tolosa-Hunt syndrome. The patient may complain of double vision worse at distance, headaches, dizziness, nausea, neck stiffness, photophobia, blurred vision, and a \"boring\" pain may be associated with the headache. Reference: Eyewiki 27- Blepharoplasty:",
+  "explanation": "Painful ophthalmoparesis or ophthalmoplegia is the hallmark of Tolosa-Hunt syndrome. The patient may complain of double vision worse at distance, headaches, dizziness, nausea, neck stiffness, photophobia, blurred vision, and a \"boring\" pain may be associated with the headache. Reference: Eyewiki",
   "year": "2016",
   "subspecialty": "Optics",
   "pdfPage": 423,
@@ -1301,7 +1301,7 @@
    "C": "RPE and PR"
   },
   "correctAnswer": "A",
-  "explanation": "These products then accumulate in lysosomes as lipofuscin. Similar bis-retinoids accumulate within the lysosomes of RPE cells as a normal part of the aging process; they are not necessarily harmful. If the RPE cell dies, the contained lipofuscin disperses, resulting in a loss of autofluorescence, so that these areas appear dark on autofluorescence images. Although lipofuscin in the RPE is the main source of autofluorescence from the fundus, accumulation of fluorophore in the subretinal space is another important signal source for the evaluation of some diseases, such as central serous chorioretinopathy. Reference: BCSC - Retina and vitreous 2020-2021 34- Htn , retinal vain dilation , multiple intraretinal hg , decrease va 1 month ? serous chordal detachment hypotony; hyperopia",
+  "explanation": "These products then accumulate in lysosomes as lipofuscin. Similar bis-retinoids accumulate within the lysosomes of RPE cells as a normal part of the aging process; they are not necessarily harmful. If the RPE cell dies, the contained lipofuscin disperses, resulting in a loss of autofluorescence, so that these areas appear dark on autofluorescence images. Although lipofuscin in the RPE is the main source of autofluorescence from the fundus, accumulation of fluorophore in the subretinal space is another important signal source for the evaluation of some diseases, such as central serous chorioretinopathy. Reference: BCSC - Retina and vitreous 2020-2021 serous chordal detachment hypotony; hyperopia",
   "year": "2016",
   "subspecialty": "Optics",
   "pdfPage": 425,
@@ -1390,7 +1390,7 @@
    "D": "directional light projection"
   },
   "correctAnswer": "B",
-  "explanation": "Reference: Friedman Uveitis 43- Toxoplasmosis sight threatening treatment",
+  "explanation": "Reference: Friedman Uveitis",
   "year": "2016",
   "subspecialty": "Optics",
   "pdfPage": 428,
@@ -1457,7 +1457,7 @@
    "D": "Ant sub capsular pigmentation"
   },
   "correctAnswer": "D",
-  "explanation": "I believe the question was asking about lens changes rather than type of cataract. Glaucomflecken (anterior subcapsular lens opacities representing lens epithelial cells that have become necrotic due to ischemia from acutely elevated IOP) Reference: BCSC - Glaucoma 48- RD WITH HIGH IOP:",
+  "explanation": "I believe the question was asking about lens changes rather than type of cataract. Glaucomflecken (anterior subcapsular lens opacities representing lens epithelial cells that have become necrotic due to ischemia from acutely elevated IOP) Reference: BCSC - Glaucoma",
   "year": "2016",
   "subspecialty": "Optics",
   "pdfPage": 430,
@@ -1602,7 +1602,7 @@
    "B": "Right duane type 2"
   },
   "correctAnswer": "A",
-  "explanation": "56- A child wiht Mucopolysacroidosis referred to you from his pediatric . What do you expect to find in examination to:",
+  "explanation": "No explanation was provided in the source document.",
   "year": "2016",
   "subspecialty": "Optics",
   "pdfPage": 432,
@@ -1647,7 +1647,7 @@
    "C": "VA better than 20/200"
   },
   "correctAnswer": "B",
-  "explanation": "Reference: BCSC - Neuro-ophthalmology 59- Torticollis nodding:",
+  "explanation": "Reference: BCSC - Neuro-ophthalmology",
   "year": "2016",
   "subspecialty": "Optics",
   "pdfPage": 433,
@@ -1739,7 +1739,7 @@
    "D": "inflammation"
   },
   "correctAnswer": "D",
-  "explanation": "? A A D D Correct 2016 Part 3 1-in piggyback lens, which position cause interlenticular opacification: two in the bag (Long assessment) two in sulcus one in the sulcus, other in bag one in the sulcus, other in AC IOL explantation has been required when interlenticular opacification occurred between piggyback PCIOLs, especially when both lenses were made of hydrophobic acrylic material and were placed in the capsular bag. Using IOLs made of 2 different materials, enlarging the capsulorrhexis, and placing 1 lens in the capsular bag and 1 in the sulcus may reduce the incidence. 2- Facial nerve: corneal sensation IOP levator function 6th CN palsy The corneal blink reflex is caused by a loop between the trigeminal sensory nerves and the facial motor (VII) nerve innervation of the orbicularis oculi muscles. The reflex activates when a sensory stimulus contacts either free nerve endings or mechanoreceptors within the epithelium of the cornea. Q-Dual sheath optic nerve covers: MR + LR MR + IR SR + LR MR + SR Q- in cataract, the method to distinguish blurred visual acuity by anterior basement membrane dystrophy: potential acuity estimation ( A computerized corneal topography ( B anterior segment OCT ( C trial of gas permeable contact lens ( D By Exclusion Option D Is Correct Q-In mature cataract, capsulorhexis began, tear veer off to equator, what is the best management: inject visco to form AC and flat capsule (AAO)",
+  "explanation": "? A 2016 Part 3 1-in piggyback lens, which position cause interlenticular opacification: two in the bag (Long assessment) two in sulcus one in the sulcus, other in bag one in the sulcus, other in AC IOL explantation has been required when interlenticular opacification occurred between piggyback PCIOLs, especially when both lenses were made of hydrophobic acrylic material and were placed in the capsular bag. Using IOLs made of 2 different materials, enlarging the capsulorrhexis, and placing 1 lens in the capsular bag and 1 in the sulcus may reduce the incidence.",
   "year": "2016",
   "subspecialty": "Optics",
   "pdfPage": 438,
@@ -1762,7 +1762,7 @@
    "D": "Meesman."
   },
   "correctAnswer": "B",
-  "explanation": "A PTK is an excellent option in patients with superficial (<100- μm deep) , as deeper scars need deeper ablations and may result in haze formation or a hyperopic shift. (AAO) 1- 60 year old male with poorly controlled diabetes present complaining of decrease vision the right eye for 3 days . on examination BCVA was counting finger right eye and 55 MMHG iop with positive relative afferent pupillary defect OD . anterior segment exam was normal fundus exam shown in the picture. what is the likely explanation of increased IOP: a Severe retinal ischemia b improper IOP measurement c extensive peripheral anterior synechia b anterior rotation of iris and ciliary body The pathophysiology of neovascular glaucoma most often involves secretion of angiogenic factors, especially vascular endothelial growth factor (VEGF), from ischemic retinal tissue",
+  "explanation": "PTK is an excellent option in patients with superficial (<100- μm deep) , as deeper scars need deeper ablations and may result in haze formation or a hyperopic shift. (AAO)",
   "year": "2016",
   "subspecialty": "Anterior Segment",
   "pdfPage": 440,
@@ -1800,7 +1800,7 @@
    "D": "CFH AND SERINE PROTASE"
   },
   "correctAnswer": "C",
-  "explanation": "A : A Q3- 25 tear old male present complaining of decrease vision bothe eye more in light for the past 5 years . getting worse slowly. on examination his BCVA 20/100 ou . anterior segment exam was normal . fundus exam shown in the picture ( fundus photo of bothe showing yellowish orange fleck disributed mainly around superior and inferior arcade and nasal to the disc And bulles eye lesion in the macula ) FFA done for the patient showing dark chord and window defect in the macula ou what is the most likely diagnosis : stargardt's disease familial dominant drusen adult vitelliform dystrophy central areolar choroidal dystrophy On fluorescein angiography, 80% or more of patients with Stargardt disease have a \"dark choroid,\" in which blocking of choroidal fluorescence by swollen, lipofuscin- laden RPE cells accentuates the retinal circulation. 3- indicate malignant transformation of choroidal nevus: Increase basal dimension",
+  "explanation": "A Q3- 25 tear old male present complaining of decrease vision bothe eye more in light for the past 5 years . getting worse slowly. on examination his BCVA 20/100 ou . anterior segment exam was normal . fundus exam shown in the picture ( fundus photo of bothe showing yellowish orange fleck disributed mainly around superior and inferior arcade and nasal to the disc And bulles eye lesion in the macula ) FFA done for the patient showing dark chord and window defect in the macula ou what is the most likely diagnosis : stargardt's disease familial dominant drusen adult vitelliform dystrophy central areolar choroidal dystrophy On fluorescein angiography, 80% or more of patients with Stargardt disease have a \"dark choroid,\" in which blocking of choroidal fluorescence by swollen, lipofuscin- laden RPE cells accentuates the retinal circulation.",
   "year": "2016",
   "subspecialty": "Retina",
   "pdfPage": 441,
@@ -1839,7 +1839,7 @@
    "D": "Vitreous."
   },
   "correctAnswer": "D",
-  "explanation": "Correct C Correct A T2- weighted (T2W) images - Tissues with longer T2-relaxation like water/vitreous/CSF, appear brighter than tissues with shorter T2-relaxation like blood products. Source (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3442466/) 1-The best description of ARN: Involve the peripheral part first. Early on, the peripheral retinal lesions may be discontinuous and have scalloped edges that appear to arise in the outer retina. Source (AAO) 1- uveitis-glaucoma-hyphema syndrome is associated with: aphasia dislocated lens dislocated AC-IOL UGH syndrome was first described in the context of rigid or closed- loop ACIOLs (AAO) 2- Mechanism of glaucoma in ICE: Progressive formation of PAS Endothelial proliferation and migration Iridocorneal endothelial (ICE) syndrome is a group of disorders characterized by abnormal corneal endothelial cells that behave like epithelial cells in that they proliferate, migrate, and fail to exhibit contact inhibition (AAO) Cystinosis, on false: the adult form has no systemic association. Something about mode of inheritance of both types There were two choices about mode of inheritance the wrong answer was (X-linked) type which is not found in cystinosis Cystinosis is inherited in an autosomal recessive fashion. (Eyewiki) 2-- All of the following need brain imaging except: Louis-Barr syndrome. NF. Tuberous sclerosis three characteristic neurological findings of AT: ataxic gait at the ages of 2 - 3; B) ( A dysarthria and oculomotor disorders such as apraxia; and ( B",
+  "explanation": "Correct C T2- weighted (T2W) images - Tissues with longer T2-relaxation like water/vitreous/CSF, appear brighter than tissues with shorter T2-relaxation like blood products. Source (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3442466/) 1-The best description of ARN: Involve the peripheral part first. Early on, the peripheral retinal lesions may be discontinuous and have scalloped edges that appear to arise in the outer retina. Source (AAO) 1- uveitis-glaucoma-hyphema syndrome is associated with: aphasia dislocated lens dislocated AC-IOL UGH syndrome was first described in the context of rigid or closed- loop ACIOLs (AAO)",
   "year": "2016",
   "subspecialty": "Retina",
   "pdfPage": 443,
@@ -1859,7 +1859,7 @@
    "B": "lentigo maligna"
   },
   "correctAnswer": "A",
-  "explanation": "A Nasal Bridge Fracture B B Actinic keratoses are a premalignant squamous lesions. They may appear clinically as a erythematous, scaly macules or papules. Lesions typically present in middle aged or elderly patients. Q2- In millimeters, probing to lacrimal s 8-12 Q3-trauma lead to rounding of medial canthus: Avulsion of medial canthal tending. 1- 50 y.o diabetic pt complaining of headache starting 2 days ago. On examination you found dilated left pupil; limitation of adduction, elevation and suppression of the left eye; Lt ptosis ; VA 20/20 ou , what would be the appropriate next step: immediate MRI immediate MRI & MRA order MRI & follow up after 1 week FBS + CBC then refer to endocrinologist CN III palsy with pupillary involvement or evidence of progression to pupillary involvement is secondary to an aneurysm until proven other wise and proceed accordingly. Immediate cerebrovascular imaging (eg, computed tomography angiography [CTA], magnetic resonance angiography [MRA], or catheter angiography, depending on the clinical scenario and neuroradiologic consultation) should be undertaken (AAO) 2- A diabetic lady with sudden onset headache and diplopia, has complete ptosis in the left eye and the eye is out and down. She has limitation in supra, infra and adduction, in abduction the left eye has no incyclotorsion, the left eye pupil is dilated, the most likely diagnosis: Cavernous sinus. ?? Ischemic left third nerve palsy From the Description its most likely Pupil Involving Third Cranial Nerve Palsy Which Will Require Immediate cerebrovascular imaging (eg, computed tomography angiography [CTA], magnetic resonance angiography [MRA] 3- 72 y.o pt with history of HTN complain of loss of vision in the left eye. On examination, Left light perception, Lt RAPD, CWS in Lt fundus. Beside ESR and CRP what would you do? In sequence: go to office and call the pt to give her the results start steroid then order the temporal artery biopsy do the biopsy, steroid, if indicated steroid, no need for biopsy if it's clinically clear diagnosis of GCA Whenever clinical suspicion or laboratory studies suggest GCA, corticosteroids should be initiated immediately and a temporal artery biopsy (TAB) performed within 10- 14 days (AAO) Others : ICG",
+  "explanation": "A Nasal Bridge Fracture Actinic keratoses are a premalignant squamous lesions. They may appear clinically as a erythematous, scaly macules or papules. Lesions typically present in middle aged or elderly patients. Q2- In millimeters, probing to lacrimal s 8-12 Q3-trauma lead to rounding of medial canthus: Avulsion of medial canthal tending.",
   "year": "2016",
   "subspecialty": "Oculoplastics",
   "pdfPage": 446,

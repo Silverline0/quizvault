@@ -264,6 +264,14 @@ BARE_LETTER_RE = re.compile(r"^\(?([A-H])\)?\s*\.?$")
 # A question number on a line of its own: the whole recall is a screenshot and
 # Word dropped the list number at the inline image's baseline.
 BARE_QNUM_RE = re.compile(r"^(\d{1,3})\s*[-.):]?\s*$")
+# A numbered line carrying real text -- "22. Patient with late wave-like
+# staining ...".  Recalls that preserve only one option form no option run, so
+# the per-run explanation boundary never sees them and the previous question's
+# explanation swallows them whole.  Indentation separates the two cases: a
+# question number sits at the stem's own margin, a list item inside an
+# explanation is indented past it.
+NUMBERED_RECALL_RE = re.compile(r"^\d{1,3}\s*[-.)]\s+\S")
+RECALL_MARGIN_SLACK = 6.0
 PLACEHOLDER_RE = re.compile(r"^[\s.…?\-_*]*$")
 
 
@@ -787,6 +795,9 @@ def assemble(lines, runs, year_at, subspec_at):
                 seen_terminator = True
             elif BARE_QNUM_RE.match(ln.text):
                 pass          # the next recall's list number, not explanation
+            elif (NUMBERED_RECALL_RE.match(ln.text)
+                  and ln.x0 <= anchor.x0 + RECALL_MARGIN_SLACK):
+                break         # a new recall starts here, even if it forms no run
             elif seen_terminator:
                 if in_ref and len(ref) < 90:
                     ref = (ref + " " + ln.text).strip()

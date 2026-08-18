@@ -19,14 +19,14 @@
   "imageUrls": [
    "/images/promotion/p123_97f298c655.png"
   ],
-  "pageScanUrl": "/images/promotion-pages/page_123.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "medium",
    "explanation": "Macrostriae are full-thickness folds caused by slippage of the LASIK flap, and they are almost always apparent on the first postoperative day, with virtually all cases presenting inside the first week. Early recognition is essential because lifting, refloating and stretching the flap, sometimes with hypotonic saline or sutures, becomes far less effective once the folds have set, leaving visually significant irregular astigmatism. The later time points do not fit the natural history at all.",
    "concern": "The option set is expressed in weeks whereas macrostriae are typically a day-one finding, so 1 to 2 weeks is chosen as the only option consistent with the early time course."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_123.jpg"
  },
  {
   "id": 2,
@@ -70,13 +70,13 @@
    }
   ],
   "figureFinding": "Conjunctival lymphoma — a smooth, mobile, salmon-pink patch of bulbar conjunctiva or fornix. Localized disease with no systemic involvement is treated with external beam radiotherapy.",
-  "pageScanUrl": "/images/promotion-pages/page_123.jpg",
   "review": {
    "answer": "D",
    "agrees": true,
    "confidence": "medium",
    "explanation": "A salmon-pink conjunctival infiltrate is lymphoid tissue, and a large lesion confined to the conjunctiva with no systemic disease is treated with external beam radiotherapy once incisional biopsy has established histology and immunophenotype and systemic staging has been completed. Observation is inappropriate for a confirmed lymphoma, complete excision is unrealistic for a large diffuse lesion and would leave positive margins, and systemic chemotherapy is reserved for systemic disease. Reactive lymphoid hyperplasia is clinically indistinguishable, which is precisely why the biopsy comes first."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_123.jpg"
  },
  {
   "id": 3,
@@ -94,13 +94,13 @@
   "pdfPage": 124,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p124_c86db6deca.jpg",
-  "pageScanUrl": "/images/promotion-pages/page_124.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "high",
    "explanation": "A large central infiltrate in a markedly inflamed eye is presumed infectious keratitis threatening the visual axis, and that is the classic indication to scrape for smear and culture before starting fortified therapy. Marginal keratitis is a sterile staphylococcal hypersensitivity infiltrate sitting near the limbus with a clear zone of separation from it, and scraping it yields nothing; a scar is inactive tissue with nothing to grow. The usual thresholds for culturing are a central location, size of about 2 mm or more, deep stromal involvement, an atypical appearance, or failure of empirical treatment."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_124.jpg"
  },
  {
   "id": 4,
@@ -132,14 +132,14 @@
    }
   ],
   "figureFinding": "Ocular cicatricial pemphigoid (mucous membrane pemphigoid): cicatrizing conjunctivitis with subepithelial fibrosis, fornix foreshortening, symblepharon and ultimately keratinization/ankyloblepharon. Mechanism is a type II hypersensitivity — autoantibody against the beta-4 subunit of alpha-6/beta-4 integrin in the basement membrane, with complement activation.",
-  "pageScanUrl": "/images/promotion-pages/page_124.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "low",
    "explanation": "Ocular cicatricial pemphigoid is an autoantibody-mediated type II hypersensitivity reaction, in which autoantibodies, typically against the beta-4 subunit of integrin in the epithelial basement membrane zone, bind a fixed cell-surface or matrix antigen and trigger complement activation and inflammatory cell recruitment. The result is subepithelial fibrosis with fornix foreshortening, symblepharon, entropion with trichiasis and eventual keratinisation, and the diagnosis is confirmed by conjunctival biopsy with direct immunofluorescence showing linear deposition at the basement membrane zone. Type I is immediate IgE-mediated allergy, type III is immune complex deposition, and type IV is the delayed cell-mediated response of contact dermatitis and phlyctenulosis.",
    "concern": "The record is corrupted: the stem is missing and the second option is a fragment of the following question rather than a genuine answer choice. The medicine, that ocular cicatricial pemphigoid is a type II hypersensitivity, is solid regardless."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_124.jpg"
  },
  {
   "id": 5,
@@ -176,13 +176,13 @@
    }
   ],
   "figureFinding": "Total limbal stem cell deficiency after a chemical burn: conjunctivalization and superficial vascularization of the cornea, late conjunctival scarring/fibrosis with keratinization, and corneal haze — treated with limbal epithelial (stem cell) transplantation.",
-  "pageScanUrl": "/images/promotion-pages/page_124.jpg",
   "review": {
    "answer": "C",
    "agrees": true,
    "confidence": "medium",
    "explanation": "Conjunctival scarring with keratinisation and corneal haze eight months after a chemical burn is limbal stem cell deficiency, in which conjunctival epithelium with its vessels and goblet cells replaces the corneal epithelium. The surface must be rehabilitated with limbal stem cell transplantation, a limbal autograft from the healthy fellow eye in unilateral injury or cultivated limbal epithelial transplantation, before any keratoplasty is contemplated. Penetrating or lamellar keratoplasty performed on a stem-cell-deficient surface will not epithelialise and will fail. A keratoprosthesis is reserved for end-stage bilateral disease in which stem cell grafting has failed or is not feasible."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_124.jpg"
  },
  {
   "id": 6,
@@ -283,13 +283,13 @@
    }
   ],
   "figureFinding": "Intraoperative (expulsive) suprachoroidal haemorrhage during cataract surgery: rock-hard eye, shallowing anterior chamber, posterior capsule bulging forward, loss of the red reflex and the lens/iris/vitreous prolapsing out of the wound. Immediate management is to close all wounds and pressurize the eye.",
-  "pageScanUrl": "/images/promotion-pages/page_125.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "high",
    "explanation": "A suddenly firm eye with loss of the red reflex, a shallowing chamber and forward displacement of the lens and iris during surgery is an expulsive suprachoroidal haemorrhage, and the immediate action is to close the incision and restore a closed, pressurised globe so that the rising intraocular pressure tamponades the bleeding, using digital pressure and rapid sutures. Continuing to remove the lens or injecting fluid risks extrusion of intraocular contents. Posterior sclerotomy was historically advocated but is no longer the first move and can worsen the bleed; drainage, if ever needed, is done later, usually at 7 to 14 days once the clot has liquefied."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_125.jpg"
  },
  {
   "id": 10,
@@ -311,13 +311,13 @@
   "imageUrls": [
    "/images/promotion/p126_343b853093.jpg"
   ],
-  "pageScanUrl": "/images/promotion-pages/page_126.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "medium",
    "explanation": "An anterior chamber intraocular lens sits with its haptics at roughly 3 and 9 o'clock and impedes aqueous flow enough that a peripheral iridectomy is required to prevent pupillary block and iris bombe, and it is made at the time of surgery rather than deferred, because the pressure can spike on the first postoperative day. A superior position at 12 o'clock keeps it clear of the haptics and, being covered by the upper lid, avoids the glare and dysphotopsia that an inferior iridectomy produces. Relying on a postoperative laser iridotomy leaves the patient unprotected in the interim and may be difficult through a hazy, inflamed eye."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_126.jpg"
  },
  {
   "id": 11,
@@ -348,13 +348,13 @@
    }
   ],
   "figureFinding": "Traumatic hyphema — layered blood in the anterior chamber after blunt trauma, and a rebleed (fresh bright red blood over an older dark clot). The exam point is that rebleeding happens in the first 3-5 days, NOT after the third week.",
-  "pageScanUrl": "/images/promotion-pages/page_127.jpg",
   "review": {
    "answer": "D",
    "agrees": true,
    "confidence": "high",
    "explanation": "Rebleeding after traumatic hyphema characteristically occurs in the first few days, most often between days 2 and 5 and almost always within the first week, as the clot retracts and lyses, and it is the single event that most worsens prognosis. A rebleed in the third week would be distinctly uncommon, making that the false statement the question is asking you to identify. The other three are true: most hyphemas follow blunt trauma, most are managed conservatively with rest, head elevation, a shield, cycloplegia and topical steroid, and larger hyphemas raise the pressure and can cause glaucoma. Watch particularly for corneal blood staining and screen for sickle cell haemoglobinopathy, in which even moderate pressure elevation is dangerous."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_127.jpg"
  },
  {
   "id": 12,
@@ -387,14 +387,14 @@
    }
   ],
   "figureFinding": "Diabetic macular oedema (leaking microaneurysms, circinate exudates, cystoid thickening on OCT) coexisting with a posterior subcapsular cataract — DME is treated first, then phaco once the oedema has resolved.",
-  "pageScanUrl": "/images/promotion-pages/page_153.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "medium",
    "explanation": "Cataract surgery in a diabetic eye with active macular oedema reliably worsens the oedema, so the macula is treated first and the lens is removed once the oedema has settled, with roughly three months allowed to judge the response and confirm stability. One month is generally too short to establish resolution, and operating first with macular treatment a week later exposes an oedematous macula to the surgical inflammatory insult. The exception that reverses the priority is a cataract so dense that the macula cannot be assessed or treated, in which case surgery goes first, often with anti-VEGF given at the time of operation.",
    "concern": "Focal laser has largely been replaced by anti-VEGF for centre-involving diabetic macular oedema; the sequencing principle is what is being tested."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_153.jpg"
  },
  {
   "id": 13,
@@ -453,13 +453,13 @@
    }
   ],
   "figureFinding": "Retinoblastoma — leukocoria / white fundus tumour. Same genetic counselling point as promotion-2021#15: sporadic unilateral RB with unaffected parents gives siblings roughly 1-2% risk.",
-  "pageScanUrl": "/images/promotion-pages/page_154.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "Unilateral retinoblastoma with unaffected parents and no family history is sporadic and somatic in roughly 85 percent of cases, so the risk to a sibling is small, on the order of 1 to 2 percent. The residual risk reflects the minority of unilateral cases that do carry a germline mutation and the rare unaffected parent with a low-penetrance or mosaic allele. Risks near 50 percent apply to the offspring of a patient with heritable disease, which is typically bilateral or multifocal, and germline testing of the proband converts these population figures into a precise risk for the family."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_154.jpg"
  },
  {
   "id": 15,
@@ -521,14 +521,14 @@
   "pdfPage": 155,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p155_7609efb330.png",
-  "pageScanUrl": "/images/promotion-pages/page_155.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "low",
    "explanation": "Schwartz-Matsuo syndrome is a rhegmatogenous retinal detachment, usually with a peripheral break or dialysis and often post-traumatic, in which photoreceptor outer segments migrate through the break into the anterior chamber and obstruct the trabecular meshwork, raising the pressure. The cells seen in the anterior chamber are mistaken for uveitis, and neither corticosteroids nor pressure-lowering drops resolve the problem; the pressure normalises once the detachment is repaired. Think of it whenever raised pressure and anterior chamber cells accompany a detachment, because the treatment is retinal surgery rather than glaucoma surgery.",
    "concern": "The record is corrupted, with the stem missing and the second option carrying a fragment of the actual question. Answered on the reading that the question asked for the diagnosis in a retinal detachment with raised pressure unresponsive to antiglaucoma therapy."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_155.jpg"
  },
  {
   "id": 18,
@@ -581,13 +581,13 @@
    }
   ],
   "figureFinding": "Ocular ischemic syndrome: unilateral vision loss with dull ocular/orbital ache ('ocular angina'), narrowed arterioles with dilated but NON-tortuous retinal veins, round deep mid-peripheral dot-blot haemorrhages, microaneurysms, rubeosis iridis with corneal oedema — with the fellow eye showing only mild background diabetic change.",
-  "pageScanUrl": "/images/promotion-pages/page_156.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "Ocular ischemic syndrome is the unifying diagnosis: pain, dilated but non-tortuous veins, mid-peripheral hemorrhages, corneal edema and rubeosis in one eye of an elderly vasculopath, while the fellow eye shows only mild background diabetic change. Proliferative diabetic retinopathy is a bilateral, roughly symmetric disease, so a fellow eye with only scattered microaneurysms argues strongly against it. Branch retinal vein occlusion produces a sectoral, wedge-shaped hemorrhage pattern respecting the horizontal raphe and is rarely painful or associated with rubeosis of this degree. The combination of ocular pain (from ischemia and raised pressure) with marked interocular asymmetry is the classic examination-room signature of carotid occlusive disease."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_156.jpg"
  },
  {
   "id": 20,
@@ -627,13 +627,13 @@
   "pdfPage": 178,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p178_9e6d33806b.png",
-  "pageScanUrl": "/images/promotion-pages/page_178.jpg",
   "review": {
    "answer": "D",
    "agrees": true,
    "confidence": "high",
    "explanation": "The inflammation has worsened from 3+ to 4+ cells despite prednisolone every four hours, so the steroid must be intensified rather than tapered; under-treated uveitis is itself a cause of trabeculitis and secondary pressure elevation. The pressure remains above target at 28 mmHg, so an aqueous suppressant is added, and timolol is the appropriate choice. Prostaglandin analogues such as latanoprost are relatively contraindicated in active uveitis because they can aggravate intraocular inflammation and promote cystoid macular oedema. Both options that reduce prednisolone to once daily would allow the uveitis to escalate further, which is exactly the wrong direction given a rising cell count."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_178.jpg"
  },
  {
   "id": 22,
@@ -660,13 +660,13 @@
    }
   ],
   "figureFinding": "Cyclodialysis cleft after blunt trauma: ciliary body detached from the scleral spur, seen on gonioscopy as a deep angle recess opening into the suprachoroidal space (confirmed on UBM). It causes chronic hypotony, and when the cleft spontaneously closes the IOP spikes sharply.",
-  "pageScanUrl": "/images/promotion-pages/page_192.jpg",
   "review": {
    "answer": "C",
    "agrees": true,
    "confidence": "high",
    "explanation": "The narrative is diagnostic: blunt trauma, then months of pressure around 5 mmHg, which points to a cyclodialysis cleft allowing direct suprachoroidal outflow and suppressed aqueous production. When such a cleft closes, either spontaneously or after treatment, the eye abruptly regains its aqueous load against an outflow system that has been dormant, producing a dramatic and often painful pressure spike into the fifties. Ghost cell glaucoma follows a vitreous haemorrhage by weeks, presents with khaki-coloured cells in the anterior chamber, and would not be preceded by months of hypotony. Angle recession glaucoma develops insidiously over years with a gradually rising pressure and never explains the preceding prolonged hypotony."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_192.jpg"
  },
  {
   "id": 23,
@@ -720,13 +720,13 @@
    }
   ],
   "figureFinding": "Posner-Schlossman syndrome (glaucomatocyclitic crisis): recurrent unilateral episodes of markedly high IOP with corneal oedema, few fine non-pigmented KPs on the endothelium, and an open angle with KPs on gonioscopy.",
-  "pageScanUrl": "/images/promotion-pages/page_193.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "medium",
    "explanation": "Recurrent unilateral episodes of markedly raised pressure with stellate keratic precipitates, corneal oedema and minimal cell describe glaucomatocyclitic crisis, and the immediate threat to the eye in the emergency room is the pressure itself. Aqueous suppressants, with a topical beta blocker as the standard first agent, act fastest to protect the optic nerve and clear the epithelial oedema. Topical steroid is certainly part of definitive management and is usually started at the same visit, but it does not lower pressure acutely and its benefit accrues over days. Prostaglandins and miotics are avoided in this inflammatory setting, and the question is asking specifically what is most important to institute first."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_193.jpg"
  },
  {
   "id": 25,
@@ -758,13 +758,13 @@
    }
   ],
   "figureFinding": "Angle closure with persistently high IOP despite a laser peripheral iridotomy: the image should show the iridotomy itself (to judge whether it is patent and full thickness) and gonioscopy/UBM of a still-appositionally-closed angle, i.e. plateau iris or another non-pupillary-block mechanism.",
-  "pageScanUrl": "/images/promotion-pages/page_193.jpg",
   "review": {
    "answer": "B",
    "agrees": true,
    "confidence": "high",
    "explanation": "When pressure stays high after a peripheral iridotomy the first obligation is to prove the iridotomy is actually patent and of adequate size, best confirmed by transillumination and by seeing the anterior capsule through it; a pigment-plugged or incomplete iridotomy is the commonest reason for apparent failure. Only once patency is confirmed should you go on to consider non-pupillary-block mechanisms such as plateau iris configuration, residual peripheral anterior synechiae, or a lens-related component. A mild cataract by definition is not phacomorphic, so lens extraction on that indication is not justified at this point. Reaching for phacoemulsification before verifying the simplest and most reversible cause is poor surgical judgement."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_193.jpg"
  },
  {
   "id": 26,
@@ -792,13 +792,13 @@
    }
   ],
   "figureFinding": "Neovascular glaucoma after CRVO: 360 degrees of rubeosis iridis with neovascularization of the angle, corneal oedema, hand-motion vision and a dense cataract. With no view for PRP and no visual potential, transscleral cyclophotocoagulation is the treatment.",
-  "pageScanUrl": "/images/promotion-pages/page_193.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "This is neovascular glaucoma after central retinal vein occlusion in an eye whose visual potential is hand motions and whose dense cataract and corneal oedema make retinal laser physically impossible. Cyclophotocoagulation lowers pressure and relieves pain without requiring a clear view, and is the standard choice for an uncontrolled neovascular eye with poor visual prognosis. Panretinal photocoagulation is the correct treatment in principle but cannot be delivered through this media, and topical medication alone will not control pressure once the angle is closed by a fibrovascular membrane. Retrobulbar alcohol is reserved for a blind, painful eye as a purely palliative measure, not for an eye still perceiving hand motions. In current practice intravitreal anti-VEGF is given alongside to regress the neovascularisation while the cyclodestruction controls pressure."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_193.jpg"
  },
  {
   "id": 27,
@@ -832,13 +832,13 @@
    }
   ],
   "figureFinding": "Encapsulated bleb (Tenon cyst) over the extraocular plate of a glaucoma drainage device — the tense, dome-shaped, vascularized capsule seen at 4-8 weeks that causes the 'hypertensive phase' of raised IOP",
-  "pageScanUrl": "/images/promotion-pages/page_193.jpg",
   "review": {
    "answer": "C",
    "agrees": true,
    "confidence": "high",
    "explanation": "Pressure elevation appearing roughly four to twelve weeks after a glaucoma drainage device is the classic hypertensive phase, caused by a fibrous capsule maturing around the extraocular plate and increasing resistance to aqueous absorption. It is most often seen with valved implants once the plate has been exposed to aqueous for several weeks. Steroid response would typically appear earlier and is diagnosed by the temporal relationship to intensive topical steroid, and persistent inflammation would be accompanied by visible cell and flare. Progressive glaucoma describes worsening optic neuropathy over years and does not explain an abrupt pressure rise at eight weeks in an eye with a functioning drain."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_193.jpg"
  },
  {
   "id": 28,
@@ -943,13 +943,13 @@
   "pdfPage": 231,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p231_7a2423a116.jpg",
-  "pageScanUrl": "/images/promotion-pages/page_231.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "Eyelid reconstruction is governed by the proportion of the lid margin lost. A defect under about one third can be closed directly, pentagon fashion, in layers, with lateral canthotomy and cantholysis added if the closure is under tension. A Tenzel semicircular rotation flap is brought in for defects of roughly one third to one half. Sharing tissue from the opposing lid, by a Hughes tarsoconjunctival flap for the lower lid or a Cutler-Beard for the upper, is reserved for defects exceeding half the lid, and it has the significant cost of occluding the eye until division, which is unjustifiable for a small defect."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_231.jpg"
  },
  {
   "id": 33,
@@ -1009,13 +1009,13 @@
    }
   ],
   "figureFinding": "Orbital cellulitis distinguished from preseptal cellulitis: restricted/painful extraocular movements (ophthalmoplegia) and proptosis, with lid swelling common to both",
-  "pageScanUrl": "/images/promotion-pages/page_231.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "The septum is the anatomical boundary, and what defines postseptal disease is involvement of the orbital contents: restricted or painful eye movement, proptosis, reduced vision, a relative afferent pupillary defect, or raised orbital pressure. Limitation of ductions is therefore the discriminating sign among these options. Fever and leucocytosis are systemic inflammatory markers that occur with preseptal cellulitis as well and cannot localise the infection. Two millimetres of proptosis falls within the range of normal interocular asymmetry on exophthalmometry and is too small a difference to be relied upon, whereas any restriction of movement with pain immediately raises the diagnosis to orbital cellulitis and mandates imaging and intravenous antibiotics."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_231.jpg"
  },
  {
   "id": 35,
@@ -1138,14 +1138,14 @@
    }
   ],
   "figureFinding": "Septic cavernous sinus thrombosis — proptosis, chemosis, periorbital oedema and multiple cranial neuropathies (ophthalmoplegia); antibiotics are the first-line treatment",
-  "pageScanUrl": "/images/promotion-pages/page_258.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "medium",
    "explanation": "Reading option C as the real stem, a patient with cavernous sinus thrombosis who is not alert has presumed septic thrombosis and needs immediate broad-spectrum intravenous antibiotics covering Staphylococcus aureus, streptococci and anaerobes, with attention to the source, usually sinusitis or a facial or dental infection. Antibiotics are the intervention that changes mortality and must not wait for imaging or cultures beyond taking blood cultures. Anticoagulation is used by many centres and may reduce propagation of the thrombus, but the evidence is weaker, the intracranial haemorrhage risk is real, and it is never the first thing given. In a patient with declining consciousness the immediate priorities are antibiotics, airway and neurological support, and neurosurgical or ENT drainage of the source.",
    "concern": "The question field contains text about cocaine pupil testing for Horner syndrome, which belongs to a different item, and the actual stem is embedded in option C. Answer given on the recoverable clinical question."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_258.jpg"
  },
  {
   "id": 40,
@@ -1163,13 +1163,13 @@
   "pdfPage": 258,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p259_6e1f2ec130.png",
-  "pageScanUrl": "/images/promotion-pages/page_258.jpg",
   "review": {
    "answer": "C",
    "agrees": true,
    "confidence": "high",
    "explanation": "An optokinetic response to a rotating drum is objective proof that the visual pathway is intact enough to generate pursuit and refixation, which establishes vision of at least around 20/400 and cannot be voluntarily suppressed by most patients. That positive demonstration of function is what unmasks non-organic visual loss. A mirror test showing no movement points the other way, since a seeing patient reflexively follows their own image; absent movement is what a truly blind eye would show. Absence of a relative afferent pupillary defect in a patient claiming dense unilateral loss is a genuine and useful clue, but it is weaker evidence because bilateral symmetric disease, media opacity, amblyopia and cortical lesions can all cause visual loss without an afferent defect, so it excludes rather than proves."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_258.jpg"
  },
  {
   "id": 41,

@@ -2089,7 +2089,7 @@
    "B": "lymphatic malformation"
   },
   "correctAnswer": "B",
-  "explanation": "40. other scenario of a child has changing size of a mass , dx ? a. Lymphangioma",
+  "explanation": "No explanation was provided in the source document.",
   "year": "2017",
   "subspecialty": "Optics",
   "pdfPage": 384,
@@ -2195,7 +2195,7 @@
    "C": "measure IOP after applying NAC"
   },
   "correctAnswer": "A",
-  "explanation": "Corneal thickness has been shown to affect IOP readings, with thin corneas resulting in a falsely low IOP, and thick corneas resulting in a falsely high IOP. 46. hypopyon:",
+  "explanation": "Corneal thickness has been shown to affect IOP readings, with thin corneas resulting in a falsely low IOP, and thick corneas resulting in a falsely high IOP.",
   "year": "2017",
   "subspecialty": "Optics",
   "pdfPage": 385,
@@ -2485,13 +2485,13 @@
   "pdfPage": 388,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p388_88eb6c9a63.png",
-  "pageScanUrl": "/images/promotion-pages/page_388.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "Conjunctival intraepithelial neoplasia is by definition a dysplastic lesion of the surface epithelium, graded mild, moderate or severe according to how much of the epithelial thickness is occupied by dysplastic cells, becoming carcinoma in situ when full thickness, so dysplasia is the defining and grading characteristic. Loss of normal maturation, nuclear pleomorphism, increased mitoses and loss of goblet cells accompany it, while the epithelial basement membrane stays intact, which is what separates CIN from invasive squamous cell carcinoma. Acanthosis, hyperkeratosis seen clinically as leukoplakia, and epithelial hyperplasia are frequently present but are non-specific reactive changes that also occur in benign lesions such as pterygium or papilloma, so none of them defines the lesion."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_388.jpg"
  },
  {
   "id": 108,
@@ -2510,13 +2510,13 @@
   "pdfPage": 389,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p389_f3dca963d9.png",
-  "pageScanUrl": "/images/promotion-pages/page_389.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "The facial nerve emerges from the parotid gland as five main branches: temporal (frontal), zygomatic, buccal, marginal mandibular and cervical, so zygomatic is the only unambiguously correct main branch listed. The zygomaticofacial and infraorbital branches are sensory branches of the maxillary division of the trigeminal nerve, not of cranial nerve VII, which is the trap in this item. Temporal is a genuine main branch, but temporo-parietal is not the accepted anatomical name and conflates the nerve with the temporoparietal fascia, so zygomatic remains the best answer."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_389.jpg"
  },
  {
   "id": 109,
@@ -2551,7 +2551,7 @@
    "D": "5 DD ischemia"
   },
   "correctAnswer": "A",
-  "explanation": "63. Brucella treatment",
+  "explanation": "No explanation was provided in the source document.",
   "year": "2017",
   "subspecialty": "Optics",
   "pdfPage": 389,

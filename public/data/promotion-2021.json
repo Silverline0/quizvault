@@ -15,13 +15,13 @@
   "pdfPage": 127,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p127_6c90208c7b.png",
-  "pageScanUrl": "/images/promotion-pages/page_127.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "On the Roper-Hall grading of chemical injury, stromal haze dense enough to obscure iris detail, with total epithelial loss, is grade III with a guarded prognosis, whereas 30 percent limbal ischaemia is less than one-third and therefore grade II, which carries a good prognosis. Limbal ischaemia is the single most important prognostic variable because it reflects destruction of limbal stem cells, but at 30 percent it has not yet crossed into the poor-prognosis range. Anterior chamber reaction is not part of the grading and does not predict outcome; grade IV, an opaque cornea with more than half the limbus ischaemic, would be worse than anything offered here."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_127.jpg"
  },
  {
   "id": 2,
@@ -65,14 +65,14 @@
    "/images/promotion/p128_3fef3f2479.jpg",
    "/images/promotion/p128_4ac7b7ee0f.png"
   ],
-  "pageScanUrl": "/images/promotion-pages/page_128.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "medium",
    "explanation": "Macrostriae are full-thickness folds resulting from slippage of the LASIK flap, and they are almost always evident on the first postoperative day, with essentially all cases declaring themselves within the first week or two. Recognising them early matters because lifting, refloating and stretching the flap, sometimes with hypotonic saline or sutures, becomes progressively less successful once the folds become fixed, leaving visually significant irregular astigmatism. Microstriae by contrast are fine fibrillary folds in Bowman layer, often visually insignificant and managed conservatively.",
    "concern": "The option set is expressed in weeks whereas macrostriae are typically a day-one finding, so the recall is imprecise; 1 to 2 weeks is nonetheless the only option consistent with the natural history."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_128.jpg"
  },
  {
   "id": 4,
@@ -319,14 +319,14 @@
    }
   ],
   "figureFinding": "Usher syndrome — sensorineural hearing loss plus vestibular dysfunction with retinitis pigmentosa: bone-spicule pigmentation, attenuated arterioles, waxy pale disc, and constricted fields. Confirmation is by genetic testing.",
-  "pageScanUrl": "/images/promotion-pages/page_214.jpg",
   "review": {
    "answer": "C",
    "agrees": true,
    "confidence": "medium",
    "explanation": "Usher syndrome is retinitis pigmentosa combined with congenital sensorineural hearing loss, and type 1, the form with profound deafness plus vestibular areflexia as described here, is confirmed by identifying biallelic mutations, most often in MYO7A. At three years of age the fundus may still look near normal, so molecular confirmation is the diagnostically decisive step and it also guides prognosis and family counselling. Double Maddox rod measures cyclotorsion and has no role, and CT of the brain does not address an inherited retinal and cochlear disease; the exotropia here is sensory.",
    "concern": "A full-field ERG is the traditional confirmatory test in a young child, since it is extinguished long before fundus changes appear, and would arguably be the better next step. It is not among the options, so genetic testing is the best available answer."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_214.jpg"
  },
  {
   "id": 15,
@@ -364,13 +364,13 @@
    }
   ],
   "figureFinding": "Retinoblastoma — leukocoria / white fundus tumor. Question is purely genetic counselling (unilateral sporadic RB, unaffected parents: sibling risk about 1-2%).",
-  "pageScanUrl": "/images/promotion-pages/page_214.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "With unilateral retinoblastoma, unaffected parents and no family history, the disease is sporadic and somatic in roughly 85 percent of cases, so the risk to a sibling is low, on the order of 1 to 2 percent. The residual risk exists because a minority of unilateral cases still carry a germline mutation, and because a rare unaffected parent carries a low-penetrance or mosaic allele. Figures approaching 50 percent apply to the offspring of a patient with heritable disease, which is usually bilateral or multifocal. Germline testing of the proband is what converts these population estimates into a precise risk for the family."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_214.jpg"
  },
  {
   "id": 16,
@@ -408,13 +408,13 @@
   "pdfPage": 233,
   "figureConfidence": "medium",
   "imageUrl": "/images/promotion/p233_a6ef04fbde.png",
-  "pageScanUrl": "/images/promotion-pages/page_233.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "A black necrotic eschar on the nose, palate or turbinates with orbital involvement is invasive fungal rhino-orbital disease, classically mucormycosis, which is angioinvasive and infarcts tissue, producing exactly that eschar. It occurs in diabetic ketoacidosis, haematological malignancy, transplant patients and other immunocompromised states, and it is a combined medical and surgical emergency requiring urgent biopsy, systemic amphotericin B, aggressive debridement and correction of the underlying acidosis. Staphylococcus aureus causes ordinary bacterial orbital cellulitis, which is suppurative rather than necrotic and does not form an eschar."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_233.jpg"
  },
  {
   "id": 18,
@@ -510,14 +510,14 @@
    }
   ],
   "figureFinding": "Posner-Schlossman syndrome (glaucomatocyclitic crisis): unilateral markedly high IOP with corneal (microcystic) edema, few fine non-pigmented keratic precipitates on the endothelium and open angle with KP on gonioscopy, in a patient with a prior identical episode.",
-  "pageScanUrl": "/images/promotion-pages/page_260.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "low",
    "explanation": "Stellate keratic precipitates with a markedly raised pressure, minimal inflammation and a history of identical self-limited episodes is Posner-Schlossman syndrome, a glaucomatocyclitic crisis in which a trabeculitis, probably cytomegalovirus-driven in many cases, obstructs outflow. Because the pressure rise is a consequence of that inflammation, a short course of topical corticosteroid is the treatment that addresses the cause. Aqueous suppressants are given alongside it, that is a topical beta-blocker, alpha-2 agonist or carbonic anhydrase inhibitor, while prostaglandin analogues and miotics are avoided in this setting.",
    "concern": "This one is genuinely debatable. With corneal oedema from a very high pressure, lowering the pressure is at least as urgent as treating the inflammation, and many clinicians would call a topical aqueous suppressant the more important first move. The beta-blocker option is written without specifying route, and a systemic beta-blocker would not be an appropriate emergency-room choice, which is probably why the source favoured the steroid. In practice both are started together."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_260.jpg"
  },
  {
   "id": 22,
@@ -559,13 +559,13 @@
    }
   ],
   "figureFinding": "Occipital (striate cortex) lesion: congruous homonymous hemianopia on visual fields, often with macular sparing, accompanied by unformed/elementary hallucinations (flashes, zig-zags, patterns) confined to the hemianopic field.",
-  "pageScanUrl": "/images/promotion-pages/page_261.jpg",
   "review": {
    "answer": "A",
    "agrees": true,
    "confidence": "high",
    "explanation": "Unformed or simple hallucinations, meaning flashes, sparkles, zigzags and coloured shapes, arise from the primary visual cortex in the occipital lobe, and a congruous homonymous defect also localises posteriorly, so both halves of the stem point the same way. Formed, complex hallucinations of faces, figures and scenes are characteristic of temporal lobe pathology, where the associated field defects are markedly incongruous. Parietal lesions give inferior-predominant homonymous defects with asymmetric optokinetic responses rather than simple photopsias."
-  }
+  },
+  "pageScanUrl": "/images/promotion-pages/page_261.jpg"
  },
  {
   "id": 23,
