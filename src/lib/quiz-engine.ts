@@ -2,6 +2,10 @@ import { Question, QuizMode } from "./types";
 import { getMistakes, getLastPosition } from "./store";
 
 // Fisher-Yates shuffle
+export function shuffleQuestions<T>(array: T[]): T[] {
+  return shuffle(array);
+}
+
 function shuffle<T>(array: T[]): T[] {
   const arr = [...array];
   for (let i = arr.length - 1; i > 0; i--) {

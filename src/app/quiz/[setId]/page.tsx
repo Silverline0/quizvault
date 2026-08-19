@@ -4,8 +4,8 @@ import { useParams, useSearchParams } from "next/navigation";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { Question, QuizMode } from "@/lib/types";
 import { loadQuestionSet } from "@/lib/quiz-engine";
-import { buildQuizQueue, getStartIndex } from "@/lib/quiz-engine";
-import { recordAnswer, saveLastPosition, saveLastActive, updateSpacedRep, startStudySession, endStudySession, getAnswersForSet } from "@/lib/store";
+import { buildQuizQueue, getStartIndex, shuffleQuestions } from "@/lib/quiz-engine";
+import { recordAnswer, saveLastPosition, saveLastActive, updateSpacedRep, startStudySession, endStudySession, getAnswersForSet, getAllMistakes } from "@/lib/store";
 import { getSetting } from "@/lib/settings";
 import { StudySession } from "@/lib/types";
 import QuizCard from "@/components/QuizCard";
@@ -16,6 +16,9 @@ import QuestionNavigator from "@/components/QuestionNavigator";
 import SessionSummary from "@/components/SessionSummary";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
+
+/** Virtual set id for re-attempting wrong answers from every bank at once. */
+const ALL_MISTAKES = "all-mistakes";
 
 export default function QuizPage() {
   const params = useParams();
@@ -78,18 +81,49 @@ export default function QuizPage() {
       try {
         const manifestRes = await fetch("/data/manifest.json");
         const manifest = await manifestRes.json();
-        const qSet = manifest.questionSets.find((s: { id: string }) => s.id === setId);
-        if (!qSet) return;
-        setSetName(qSet.name);
 
-        const raw = await loadQuestionSet(qSet.file);
-        const queue = buildQuizQueue(raw, mode, setId);
+        let raw: Question[];
+        let queue: Question[];
+
+        if (setId === ALL_MISTAKES) {
+          // Virtual set: every question you have ever got wrong, from every
+          // bank, in one queue. Mistakes are stored per source, so each
+          // question keeps its own `source` and progress still records against
+          // the bank it really belongs to.
+          const wanted = new Map<string, Set<number>>();
+          for (const m of getAllMistakes()) {
+            if (!wanted.has(m.source)) wanted.set(m.source, new Set());
+            wanted.get(m.source)!.add(m.questionId);
+          }
+          const sets = manifest.questionSets.filter(
+            (qs: { id: string }) => wanted.has(qs.id)
+          );
+          const loaded = await Promise.all(
+            sets.map((qs: { id: string; file: string }) =>
+              loadQuestionSet(qs.file)
+                .then((qq) => qq.filter((q) => wanted.get(qs.id)!.has(q.id)))
+                .catch(() => [] as Question[])
+            )
+          );
+          raw = loaded.flat();
+          queue = shuffleQuestions(raw);
+          setSetName(`Mistakes across ${sets.length} bank${sets.length === 1 ? "" : "s"}`);
+        } else {
+          const qSet = manifest.questionSets.find((s: { id: string }) => s.id === setId);
+          if (!qSet) return;
+          setSetName(qSet.name);
+          raw = await loadQuestionSet(qSet.file);
+          queue = buildQuizQueue(raw, mode, setId);
+        }
         const start = getStartIndex(mode, setId);
         setQuestions(queue);
         setCurrentIndex(Math.min(start, queue.length - 1));
 
-        // Hydrate sidebar dots from historical answers stored in localStorage
-        const historicalAnswers = getAnswersForSet(setId);
+        // Hydrate sidebar dots from history, but ONLY when working straight
+        // through a bank. In mistakes/spaced/exam the whole point is a fresh
+        // attempt: restoring the previous answer marks every question as
+        // already answered with the answer that was wrong last time.
+        const historicalAnswers = mode === "sequential" ? getAnswersForSet(setId) : [];
         if (historicalAnswers.length > 0) {
           // Build a map of questionId -> latest answer
           const latestByQuestion = new Map<number, { correct: boolean; selectedAnswer: string; timestamp: number }>();
@@ -356,7 +390,13 @@ export default function QuizPage() {
 
       <div className="flex gap-6 max-w-7xl mx-auto px-3 sm:px-4 lg:px-8 py-2 sm:py-4">
         {/* Main quiz column */}
-        <div className="flex-1 min-w-0 pb-4">
+        <div
+          className="flex-1 min-w-0"
+          // The Prev/Next bar is fixed to the bottom of the viewport, so the
+          // scroll column has to reserve its height or the last option sits
+          // underneath it and cannot be read or tapped on a phone.
+          style={{ paddingBottom: "calc(104px + env(safe-area-inset-bottom))" }}
+        >
           <QuestionCounter current={currentIndex} total={questions.length} correct={correctCount} onMarkPreviousAnswered={handleMarkPreviousAnswered} />
 
           {/* Question with slide animation */}

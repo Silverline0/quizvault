@@ -171,18 +171,16 @@ export default function ReviewPage() {
             {mistakes.length} question{mistakes.length !== 1 ? "s" : ""} to review
           </p>
         </div>
-        <button
-          onClick={() => {
-            setCurrentIndex(0);
-            setSelectedAnswer(null);
-            setShowResult(false);
-            setReviewMode("quiz");
-          }}
+        {/* Re-attempt every wrong answer, from every bank, in the full quiz UI
+            (question navigator, progress, figures, source page scans) rather
+            than the stripped-down panel this page used to render inline. */}
+        <Link
+          href="/quiz/all-mistakes?mode=mistakes"
           className="px-5 py-2.5 rounded-lg text-sm font-medium text-white hover:opacity-90"
           style={{ backgroundColor: "var(--accent)" }}
         >
           Re-attempt All
-        </button>
+        </Link>
       </div>
 
       <div className="space-y-3">
