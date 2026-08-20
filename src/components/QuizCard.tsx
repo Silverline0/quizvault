@@ -2,7 +2,6 @@
 
 import { Question } from "@/lib/types";
 import { useCallback, useEffect, useState } from "react";
-import { isBookmarked, toggleBookmark, isFlagged, toggleFlagged } from "@/lib/store";
 import { triggerHaptic, getSetting } from "@/lib/settings";
 import ImageZoom from "@/components/ImageZoom";
 
@@ -14,14 +13,10 @@ interface QuizCardProps {
 }
 
 export default function QuizCard({ question, onAnswer, showResult, selectedAnswer }: QuizCardProps) {
-  const [bookmarked, setBookmarked] = useState(false);
-  const [flagged, setFlagged] = useState(false);
   const [glowKey, setGlowKey] = useState<string | null>(null);
   const [showScan, setShowScan] = useState(false);
 
   useEffect(() => {
-    setBookmarked(isBookmarked(question.id, question.source));
-    setFlagged(isFlagged(question.id, question.source));
     setGlowKey(null);
     setShowScan(false);
   }, [question.id, question.source]);
@@ -57,93 +52,69 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
     return () => window.removeEventListener("keydown", handler);
   }, [showResult, handleSelect, question.options]);
 
-  const handleBookmark = () => {
-    toggleBookmark(question.id, question.source);
-    setBookmarked(!bookmarked);
-    triggerHaptic("light");
-  };
-
-  const handleFlag = () => {
-    toggleFlagged(question.id, question.source);
-    setFlagged(!flagged);
-    triggerHaptic("light");
-  };
-
   const optionKeys = Object.keys(question.options).sort();
   const showHints = typeof window !== "undefined" ? getSetting("showKeyboardHints") : true;
 
+  const scanButton = question.pageScanUrl ? (
+    <button
+      type="button"
+      onClick={() => setShowScan((v) => !v)}
+      className="inline-flex items-center gap-1.5 h-8 px-2.5 text-xs font-semibold transition-colors hover:opacity-80"
+      style={{ border: "1px solid var(--border)", backgroundColor: "var(--bg-card)", color: "var(--text-secondary)" }}
+    >
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" /><polyline points="14 2 14 8 20 8" />
+      </svg>
+      {showScan ? "Hide" : "See"} the original PDF page
+      {question.pdfPage ? ` (p.${question.pdfPage})` : ""}
+    </button>
+  ) : null;
+
+  const caveat = question.figureConfidence ? (
+    <p className="px-3 py-2 text-xs leading-relaxed figure-caveat">
+      {question.figureConfidence === "low"
+        ? "This figure was matched to the question by position and may belong to a neighbouring one — check it against the stem before relying on it."
+        : "This figure was matched by position, not named in the question. Usually right, but worth a sanity-check against the stem."}
+    </p>
+  ) : null;
+
   return (
     <div>
-      {/* Action buttons row — compact, right-aligned */}
-      <div className="flex items-center justify-end gap-0.5 mb-1">
-        <button
-          onClick={handleFlag}
-          className="w-8 h-8 flex items-center justify-center transition-transform hover:scale-110"
-          style={{ color: flagged ? "var(--error)" : "var(--text-muted)" }}
-          title={flagged ? "Unflag" : "Flag for discussion"}
-        >
-          <svg width="14" height="14" viewBox="0 0 24 24"
-            fill={flagged ? "var(--error)" : "none"}
-            stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-            <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z" /><line x1="4" y1="22" x2="4" y2="15" />
-          </svg>
-        </button>
-        <button
-          onClick={handleBookmark}
-          className="w-8 h-8 flex items-center justify-center transition-transform hover:scale-110"
-          style={{ color: bookmarked ? "var(--warning)" : "var(--text-muted)" }}
-          title={bookmarked ? "Remove bookmark" : "Bookmark"}
-        >
-          <svg width="14" height="14" viewBox="0 0 24 24"
-            fill={bookmarked ? "var(--warning)" : "none"}
-            stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-            <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
-          </svg>
-        </button>
-      </div>
-
       {/* Question text — full width */}
       <h2
-        className="quiz-question text-lg md:text-2xl lg:text-3xl font-semibold leading-snug mb-3"
-        style={{ color: "var(--text-primary)" }}
+        className="quiz-question text-lg md:text-2xl font-semibold leading-snug mb-4"
+        style={{ color: "var(--text-primary)", textWrap: "pretty" }}
       >
         {question.question}
       </h2>
 
-      {/* Question image with zoom */}
+      {/* Figure. On a laptop it sits beside its caveat and source link rather
+          than stacking above them, which keeps all four options above the fold. */}
       {question.imageUrl && (
-        <div className="mb-5" style={{ border: "1px solid var(--border)", borderRadius: "var(--radius-lg)" }}>
-          <ImageZoom src={question.imageUrl} alt={`Clinical image for question ${question.id}`} />
-          {question.figureConfidence && (
-            <p className="px-3 py-2 text-xs figure-caveat" style={{ borderTop: "1px solid var(--border)" }}>
-              {question.figureConfidence === "low"
-                ? "This figure was matched to the question by position and may belong to a neighbouring one — check it against the stem before relying on it."
-                : "This figure was matched by position, not named in the question. Usually right, but worth a sanity-check against the stem."}
-            </p>
-          )}
+        <div className="mb-5 md:flex md:gap-4 md:items-start">
+          <div
+            className="md:w-[300px] md:shrink-0"
+            style={{ border: "1px solid var(--border)", borderRadius: "var(--radius-lg)", overflow: "hidden" }}
+          >
+            <ImageZoom src={question.imageUrl} alt={`Clinical image for question ${question.id}`} />
+            <div className="md:hidden">{caveat}</div>
+          </div>
+          <div className="md:flex-1 md:min-w-0 mt-2 md:mt-0 flex flex-col gap-2 items-start">
+            <div className="hidden md:block w-full">{caveat}</div>
+            {scanButton}
+          </div>
         </div>
       )}
 
-      {/* Scan of the source page, so a doubtful figure can be settled by eye */}
-      {question.pageScanUrl && (
-        <div className="mb-5">
-          <button
-            type="button"
-            onClick={() => setShowScan((v) => !v)}
-            className="text-xs font-medium px-3 py-1.5 rounded-lg transition-colors"
-            style={{ border: "1px solid var(--border)", color: "var(--text-secondary)" }}
-          >
-            {showScan ? "Hide" : "See"} the original PDF page
-            {question.pdfPage ? ` (p.${question.pdfPage})` : ""}
-          </button>
-          {showScan && (
-            <div className="mt-2" style={{ border: "1px solid var(--border)", borderRadius: "var(--radius-lg)" }}>
-              <ImageZoom
-                src={question.pageScanUrl}
-                alt={`Source PDF page ${question.pdfPage} for question ${question.id}`}
-              />
-            </div>
-          )}
+      {/* No figure, but a source page to check anyway */}
+      {!question.imageUrl && scanButton && <div className="mb-5">{scanButton}</div>}
+
+      {showScan && question.pageScanUrl && (
+        <div className="mb-5" style={{ border: "1px solid var(--border)", borderRadius: "var(--radius-lg)", overflow: "hidden" }}>
+          <ImageZoom
+            src={question.pageScanUrl}
+            alt={`Source PDF page ${question.pdfPage} for question ${question.id}`}
+          />
         </div>
       )}
 
@@ -167,8 +138,9 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
         </div>
       )}
 
-      {/* Options — 2x2 grid on desktop, single column on mobile */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-3 lg:gap-4 md:min-h-[200px]">
+      {/* Options — one column, so A→B→C→D reads top to bottom and a long
+          surgical option is not squeezed into half a line. */}
+      <div className="flex flex-col gap-2.5">
         {optionKeys.map((key) => {
           const isSelected = selectedAnswer === key;
           const isCorrect = key === question.correctAnswer;
@@ -176,47 +148,49 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
 
           let borderColor = "var(--border)";
           let bgColor = "var(--bg-card)";
-          let letterBg = "var(--bg-secondary)";
-          let letterColor = "var(--text-muted)";
+          let chipBg = "var(--bg-secondary)";
+          let chipInk = "var(--text-muted)";
+          let chipBorder = "transparent";
           let shadow = "var(--shadow-sm)";
-          let radioContent: React.ReactNode = (
-            <span className="w-6 h-6 rounded-full shrink-0" style={{ border: "2px solid var(--border)" }} />
-          );
+          let opacity = 1;
+          let mark: React.ReactNode = null;
 
           if (showResult) {
             if (isCorrect) {
               borderColor = "var(--success)";
               bgColor = "var(--success-bg)";
-              letterBg = "var(--success)";
-              letterColor = "white";
+              chipBg = "var(--success-bg)";
+              chipInk = "var(--success-ink)";
+              chipBorder = "var(--success)";
               shadow = isGlowing ? "0 0 20px color-mix(in srgb, var(--success) 30%, transparent)" : "var(--shadow-sm)";
-              radioContent = (
-                <span className="w-6 h-6 rounded-full shrink-0 flex items-center justify-center" style={{ backgroundColor: "var(--success)" }}>
-                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3"><polyline points="20 6 9 17 4 12" /></svg>
+              mark = (
+                <span className="w-5 h-5 rounded-full shrink-0 mt-0.5 flex items-center justify-center" style={{ backgroundColor: "var(--success)" }}>
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12" /></svg>
                 </span>
               );
-            } else if (isSelected && !isCorrect) {
+            } else if (isSelected) {
               borderColor = "var(--error)";
               bgColor = "var(--error-bg)";
-              letterBg = "var(--error)";
-              letterColor = "white";
-              radioContent = (
-                <span className="w-6 h-6 rounded-full shrink-0 flex items-center justify-center" style={{ backgroundColor: "var(--error)" }}>
-                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
+              chipBg = "var(--error-bg)";
+              chipInk = "var(--error-ink)";
+              chipBorder = "var(--error)";
+              mark = (
+                <span className="w-5 h-5 rounded-full shrink-0 mt-0.5 flex items-center justify-center" style={{ backgroundColor: "var(--error)" }}>
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
                 </span>
               );
+            } else {
+              // Neither yours nor the answer — step it back so the two that
+              // matter carry the eye.
+              opacity = 0.45;
             }
           } else if (isSelected) {
             borderColor = "var(--accent)";
             bgColor = "var(--accent-light)";
-            letterBg = "var(--accent)";
-            letterColor = "white";
+            chipBg = "var(--accent-light)";
+            chipInk = "var(--accent)";
+            chipBorder = "var(--accent)";
             shadow = "var(--shadow-glow)";
-            radioContent = (
-              <span className="w-6 h-6 rounded-full shrink-0 flex items-center justify-center" style={{ backgroundColor: "var(--accent)" }}>
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3"><polyline points="20 6 9 17 4 12" /></svg>
-              </span>
-            );
           }
 
           return (
@@ -224,21 +198,25 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
               key={key}
               onClick={() => handleSelect(key)}
               disabled={showResult}
-              className="option-card w-full text-left px-4 py-3.5 flex items-center gap-3"
+              className="option-card w-full text-left px-3.5 py-3 flex items-start gap-3"
               style={{
                 border: `2px solid ${borderColor}`,
                 backgroundColor: bgColor,
                 boxShadow: shadow,
+                opacity,
                 cursor: showResult ? "default" : "pointer",
               }}
             >
-              {/* Radio circle on left */}
-              {radioContent}
-              {/* Letter + text */}
-              <span className="quiz-option flex-1 text-sm md:text-base leading-relaxed" style={{ color: "var(--text-primary)" }}>
-                <span className="font-semibold" style={{ color: letterColor === "white" ? letterColor : "var(--text-muted)" }}>{key}.</span>{" "}
+              <span
+                className="w-7 h-7 shrink-0 flex items-center justify-center text-sm font-bold"
+                style={{ backgroundColor: chipBg, color: chipInk, border: `1px solid ${chipBorder}`, borderRadius: "var(--radius-lg)" }}
+              >
+                {key}
+              </span>
+              <span className="quiz-option flex-1 min-w-0 text-sm md:text-base leading-relaxed pt-0.5" style={{ color: "var(--text-primary)", textWrap: "pretty" }}>
                 {question.options[key]}
               </span>
+              {mark}
             </button>
           );
         })}

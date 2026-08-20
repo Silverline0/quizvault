@@ -5,7 +5,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import { Question, QuizMode } from "@/lib/types";
 import { loadQuestionSet } from "@/lib/quiz-engine";
 import { buildQuizQueue, getStartIndex, shuffleQuestions } from "@/lib/quiz-engine";
-import { recordAnswer, removeAnswer, saveLastPosition, saveLastActive, updateSpacedRep, getSpacedRepItem, restoreSpacedRep, startStudySession, endStudySession, getAnswersForSet, getAllMistakes } from "@/lib/store";
+import { recordAnswer, removeAnswer, saveLastPosition, saveLastActive, updateSpacedRep, getSpacedRepItem, restoreSpacedRep, startStudySession, endStudySession, getAnswersForSet, getAllMistakes, isFlagged, toggleFlagged, isBookmarked, toggleBookmark } from "@/lib/store";
 import { getSetting, triggerHaptic } from "@/lib/settings";
 import { SpacedRepItem, StudySession } from "@/lib/types";
 import QuizCard from "@/components/QuizCard";
@@ -56,6 +56,10 @@ export default function QuizPage() {
    * session still offers the undo.
    */
   const [undoable, setUndoable] = useState<Map<number, UndoEntry>>(new Map());
+  // Flag and bookmark moved out of the card and into the header bar, so their
+  // state lives here where both can reach it.
+  const [flagged, setFlagged] = useState(false);
+  const [bookmarked, setBookmarked] = useState(false);
   const sessionEndedRef = useRef(false);
   const router = useRouter();
 
@@ -181,6 +185,26 @@ export default function QuizPage() {
   }, [setId, mode]);
 
   const currentQuestion = questions[currentIndex];
+
+  useEffect(() => {
+    if (!currentQuestion) return;
+    setFlagged(isFlagged(currentQuestion.id, currentQuestion.source));
+    setBookmarked(isBookmarked(currentQuestion.id, currentQuestion.source));
+  }, [currentQuestion]);
+
+  const handleToggleFlag = useCallback(() => {
+    if (!currentQuestion) return;
+    toggleFlagged(currentQuestion.id, currentQuestion.source);
+    setFlagged((v) => !v);
+    triggerHaptic("light");
+  }, [currentQuestion]);
+
+  const handleToggleBookmark = useCallback(() => {
+    if (!currentQuestion) return;
+    toggleBookmark(currentQuestion.id, currentQuestion.source);
+    setBookmarked((v) => !v);
+    triggerHaptic("light");
+  }, [currentQuestion]);
 
   const handleAnswer = useCallback(
     (selected: string, correct: boolean) => {
@@ -457,6 +481,10 @@ export default function QuizPage() {
       <QuizHeader
         title={setName}
         onBack={() => answeredCount > 0 ? setShowSessionSummary(true) : router.push("/")}
+        flagged={flagged}
+        bookmarked={bookmarked}
+        onToggleFlag={handleToggleFlag}
+        onToggleBookmark={handleToggleBookmark}
       />
 
       <div className="flex gap-6 max-w-7xl mx-auto px-3 sm:px-4 lg:px-8 py-2 sm:py-4">
@@ -468,6 +496,9 @@ export default function QuizPage() {
           // underneath it and cannot be read or tapped on a phone.
           style={{ paddingBottom: "calc(104px + env(safe-area-inset-bottom))" }}
         >
+          {/* Clinical vignettes are prose. Past ~720px a line gets long enough
+              that the eye loses its place returning to the next one. */}
+          <div className="w-full max-w-[720px] mx-auto">
           <QuestionCounter
             current={currentIndex}
             total={questions.length}
@@ -490,8 +521,10 @@ export default function QuizPage() {
               question={currentQuestion}
               wasCorrect={selectedAnswer === currentQuestion.correctAnswer}
               onUndo={undoable.has(currentIndex) ? handleUndo : undefined}
+              selectedAnswer={selectedAnswer}
             />
           )}
+          </div>
         </div>
 
         {/* Phone and tablet — the same navigator as a sheet */}

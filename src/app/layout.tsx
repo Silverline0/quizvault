@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import SyncIndicator from "@/components/SyncIndicator";
+import MainShell from "@/components/MainShell";
 
 export const metadata: Metadata = {
   title: "QuizVault — Medical Self Assessment",
@@ -38,9 +39,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           } catch(e) {}
         `}} />
         <Navbar />
-        <main className="max-w-5xl mx-auto px-4 py-8">
-          {children}
-        </main>
+        <MainShell>{children}</MainShell>
         <SyncIndicator />
       </body>
     </html>

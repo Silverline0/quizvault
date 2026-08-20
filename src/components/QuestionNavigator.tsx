@@ -11,8 +11,11 @@ interface QuestionNavigatorProps {
 export default function QuestionNavigator({ total, currentIndex, answeredMap, onJump, onMarkPreviousAnswered }: QuestionNavigatorProps) {
   return (
     <div
-      className="hidden xl:block w-52 shrink-0 sticky top-14"
-      style={{ height: "calc(100vh - 3.5rem)" }}
+      className="hidden xl:block w-52 shrink-0 sticky top-11"
+      // 44px header + the 16px the quiz container pads with. Sized to its
+      // resting position so it never runs past the viewport; once stuck at
+      // top-11 it simply leaves that 16px as a gap.
+      style={{ height: "calc(100vh - 3.75rem)" }}
     >
       <div className="h-full flex flex-col p-3" style={{ backgroundColor: "var(--bg-card)", borderLeft: "1px solid var(--border)" }}>
         {/* Header with legend + mark done */}

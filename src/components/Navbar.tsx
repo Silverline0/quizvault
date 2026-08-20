@@ -4,14 +4,7 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 import { usePathname } from "next/navigation";
 import { Manifest } from "@/lib/types";
-
-type Theme = "light" | "dark" | "sepia";
-const THEME_CYCLE: Theme[] = ["light", "dark", "sepia"];
-const THEME_ICONS: Record<Theme, React.ReactNode> = {
-  light: <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>,
-  dark: <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/></svg>,
-  sepia: <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="10"/><path d="M12 2a7 7 0 0 0 0 20z"/></svg>,
-};
+import ThemeToggle from "@/components/ThemeToggle";
 
 const NAV_LINKS = [
   { href: "/", label: "Home", icon: <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg> },
@@ -23,43 +16,22 @@ const NAV_LINKS = [
 ];
 
 export default function Navbar() {
-  const [theme, setTheme] = useState<Theme>("light");
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [manifest, setManifest] = useState<Manifest | null>(null);
   const pathname = usePathname();
-
-  useEffect(() => {
-    const saved = localStorage.getItem("theme") as Theme | null;
-    const preferred = saved || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
-    setTheme(preferred);
-    document.documentElement.setAttribute("data-theme", preferred);
-
-    const observer = new MutationObserver(() => {
-      const current = document.documentElement.getAttribute("data-theme") as Theme;
-      if (current) setTheme(current);
-    });
-    observer.observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
-    return () => observer.disconnect();
-  }, []);
 
   // Load manifest for quick quiz access
   useEffect(() => {
     fetch("/data/manifest.json").then(r => r.json()).then(setManifest).catch(() => {});
   }, []);
 
-  const cycleTheme = () => {
-    const idx = THEME_CYCLE.indexOf(theme);
-    const next = THEME_CYCLE[(idx + 1) % THEME_CYCLE.length];
-    setTheme(next);
-    localStorage.setItem("theme", next);
-    document.documentElement.setAttribute("data-theme", next);
-    document.querySelector('meta[name="theme-color"]')?.setAttribute("content",
-      next === "dark" ? "#0c0c14" : next === "sepia" ? "#f0e8d8" : "#7c3aed"
-    );
-  };
-
   // Close sidebar on route change
   useEffect(() => { setSidebarOpen(false); }, [pathname]);
+
+  // The quiz screen renders its own header. Two stacked sticky bars cost ~80px
+  // of a phone's viewport before the question even started, so this one stands
+  // down there and `QuizHeader` carries the theme control in its place.
+  const onQuizScreen = pathname?.startsWith("/quiz/") ?? false;
 
   // Group question sets by category
   const categories = manifest?.categories || [];
@@ -71,6 +43,8 @@ export default function Navbar() {
       setsByCategory[cat].push(qs);
     }
   }
+
+  if (onQuizScreen) return null;
 
   return (
     <>
@@ -102,14 +76,7 @@ export default function Navbar() {
           </div>
 
           {/* Right: theme toggle */}
-          <button
-            onClick={cycleTheme}
-            className="w-9 h-9 flex items-center justify-center hover:scale-105 transition-transform"
-            style={{ color: "var(--text-muted)" }}
-            title="Switch theme"
-          >
-            {THEME_ICONS[theme]}
-          </button>
+          <ThemeToggle />
         </div>
       </nav>
 

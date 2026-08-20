@@ -272,6 +272,7 @@ export default function ExamPage() {
           <ExplanationPanel
             question={currentQuestion}
             wasCorrect={selectedAnswer === currentQuestion.correctAnswer}
+            selectedAnswer={selectedAnswer}
           />
         )}
       </div>
