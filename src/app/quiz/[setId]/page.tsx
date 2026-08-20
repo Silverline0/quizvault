@@ -13,6 +13,7 @@ import ExplanationPanel from "@/components/ExplanationPanel";
 import QuestionCounter from "@/components/QuestionCounter";
 import QuizHeader from "@/components/QuizHeader";
 import QuestionNavigator from "@/components/QuestionNavigator";
+import QuestionSheet from "@/components/QuestionSheet";
 import SessionSummary from "@/components/SessionSummary";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
@@ -40,6 +41,7 @@ export default function QuizPage() {
   const [studySession, setStudySession] = useState<StudySession | null>(null);
   const [questionStartTime, setQuestionStartTime] = useState(Date.now());
   const [showSessionSummary, setShowSessionSummary] = useState(false);
+  const [navOpen, setNavOpen] = useState(false);
   const sessionEndedRef = useRef(false);
   const router = useRouter();
 
@@ -397,7 +399,12 @@ export default function QuizPage() {
           // underneath it and cannot be read or tapped on a phone.
           style={{ paddingBottom: "calc(104px + env(safe-area-inset-bottom))" }}
         >
-          <QuestionCounter current={currentIndex} total={questions.length} correct={correctCount} onMarkPreviousAnswered={handleMarkPreviousAnswered} />
+          <QuestionCounter
+            current={currentIndex}
+            total={questions.length}
+            correct={correctCount}
+            onOpenNavigator={() => setNavOpen(true)}
+          />
 
           {/* Question with slide animation */}
           <div key={currentIndex} className="animate-slide-in">
@@ -416,6 +423,17 @@ export default function QuizPage() {
             />
           )}
         </div>
+
+        {/* Phone and tablet — the same navigator as a sheet */}
+        <QuestionSheet
+          open={navOpen}
+          onClose={() => setNavOpen(false)}
+          questions={questions}
+          currentIndex={currentIndex}
+          answeredMap={answeredMap}
+          onJump={handleJump}
+          onMarkPreviousAnswered={handleMarkPreviousAnswered}
+        />
 
         {/* Desktop sidebar — question navigator */}
         <QuestionNavigator

@@ -137,10 +137,18 @@ body {
   100% { background-position: 200% 0; }
 }
 
+/* The question sheet travels its own height, so `slide-up`'s 12px is far too
+   short to read as a sheet rising from the bottom edge. */
+@keyframes sheet-in {
+  from { transform: translateY(100%); }
+  to { transform: translateY(0); }
+}
+
 .animate-slide-in { animation: slide-in-right 0.35s cubic-bezier(0.16, 1, 0.3, 1); }
 .animate-slide-up { animation: slide-up 0.35s cubic-bezier(0.16, 1, 0.3, 1); }
 .animate-fade-in { animation: fade-in 0.25s ease-out; }
 .animate-scale-in { animation: scale-in 0.25s cubic-bezier(0.16, 1, 0.3, 1); }
+.animate-sheet-in { animation: sheet-in 0.28s cubic-bezier(0.16, 1, 0.3, 1); }
 
 /* ── Option card interactions ─────────────────────────── */
 .option-card {

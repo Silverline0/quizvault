@@ -1,18 +1,15 @@
 "use client";
 
-import { useState } from "react";
-
 interface QuestionCounterProps {
   current: number;
   total: number;
   correct: number;
-  onMarkPreviousAnswered?: () => void;
+  onOpenNavigator?: () => void;
 }
 
-export default function QuestionCounter({ current, total, correct, onMarkPreviousAnswered }: QuestionCounterProps) {
+export default function QuestionCounter({ current, total, correct, onOpenNavigator }: QuestionCounterProps) {
   const accuracy = current > 0 ? Math.round((correct / current) * 100) : 0;
   const pct = total > 0 ? Math.round(((current + 1) / total) * 100) : 0;
-  const [showMenu, setShowMenu] = useState(false);
 
   return (
     <div className="mb-2">
@@ -25,44 +22,42 @@ export default function QuestionCounter({ current, total, correct, onMarkPreviou
       </div>
 
       {/* Text row */}
-      <div className="flex items-center justify-between">
-        <div className="flex items-center gap-2">
+      <div className="flex items-center justify-between gap-2">
+        {onOpenNavigator ? (
+          <>
+            {/* The sidebar navigator is xl-only, so below that the counter
+                itself is the way into the question list. */}
+            <button
+              onClick={onOpenNavigator}
+              aria-haspopup="dialog"
+              className="xl:hidden h-8 px-2.5 flex items-center gap-1.5 text-sm font-semibold shrink-0 hover:opacity-80"
+              style={{
+                border: "1px solid var(--border)",
+                backgroundColor: "var(--bg-card)",
+                color: "var(--text-secondary)",
+                boxShadow: "var(--shadow-sm)",
+              }}
+            >
+              <span>
+                Q{current + 1}
+                <span className="font-normal" style={{ color: "var(--text-muted)" }}> of {total}</span>
+              </span>
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+                <polyline points="18 15 12 9 6 15" />
+              </svg>
+            </button>
+            <span className="hidden xl:inline text-sm font-semibold" style={{ color: "var(--text-secondary)" }}>
+              Questions {current + 1} of {total}
+            </span>
+          </>
+        ) : (
           <span className="text-sm font-semibold" style={{ color: "var(--text-secondary)" }}>
             Questions {current + 1} of {total}
           </span>
-
-          {/* Mobile menu for mark-as-done */}
-          {onMarkPreviousAnswered && current > 0 && (
-            <div className="relative xl:hidden">
-              <button
-                onClick={() => setShowMenu(!showMenu)}
-                className="w-6 h-6 flex items-center justify-center hover:opacity-70"
-                style={{ color: "var(--text-muted)" }}
-              >
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
-                  <circle cx="12" cy="5" r="2" /><circle cx="12" cy="12" r="2" /><circle cx="12" cy="19" r="2" />
-                </svg>
-              </button>
-              {showMenu && (
-                <div
-                  className="absolute top-full left-0 z-50 p-1 shadow-lg animate-fade-in min-w-48"
-                  style={{ backgroundColor: "var(--bg-card)", border: "1px solid var(--border)" }}
-                >
-                  <button
-                    onClick={() => { onMarkPreviousAnswered(); setShowMenu(false); }}
-                    className="w-full text-left px-3 py-2.5 text-xs font-medium hover:opacity-80"
-                    style={{ color: "var(--accent)" }}
-                  >
-                    Mark Q1-{current} as done
-                  </button>
-                </div>
-              )}
-            </div>
-          )}
-        </div>
+        )}
 
         {current > 0 && (
-          <span className="text-sm" style={{ color: "var(--text-muted)" }}>
+          <span className="text-sm shrink-0" style={{ color: "var(--text-muted)" }}>
             {accuracy}% correct
           </span>
         )}
