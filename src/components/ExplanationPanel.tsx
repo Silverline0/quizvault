@@ -42,9 +42,15 @@ function highlightKeyTerms(text: string): React.ReactNode {
 interface ExplanationPanelProps {
   question: Question;
   wasCorrect: boolean;
+  /**
+   * Take the answer back. Only passed for a question answered in this sitting,
+   * where a mis-tap is still a live memory and the record can be removed
+   * exactly. Absent means no undo is offered.
+   */
+  onUndo?: () => void;
 }
 
-export default function ExplanationPanel({ question, wasCorrect }: ExplanationPanelProps) {
+export default function ExplanationPanel({ question, wasCorrect, onUndo }: ExplanationPanelProps) {
   const accentColor = wasCorrect ? "var(--success)" : "var(--error)";
 
   return (
@@ -58,26 +64,42 @@ export default function ExplanationPanel({ question, wasCorrect }: ExplanationPa
     >
       {/* Result header */}
       <div className="flex items-center gap-2 mb-3">
-        {wasCorrect ? (
-          <>
-            <span className="w-6 h-6 rounded-full flex items-center justify-center" style={{ backgroundColor: "var(--success)" }}>
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
-                <polyline points="20 6 9 17 4 12" />
-              </svg>
-            </span>
-            <span className="font-bold text-sm" style={{ color: "var(--success)" }}>Correct!</span>
-          </>
-        ) : (
-          <>
-            <span className="w-6 h-6 rounded-full flex items-center justify-center" style={{ backgroundColor: "var(--error)" }}>
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
-                <line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" />
-              </svg>
-            </span>
-            <span className="font-bold text-sm" style={{ color: "var(--error)" }}>
-              Incorrect — Answer: {question.correctAnswer}. {question.options[question.correctAnswer]}
-            </span>
-          </>
+        <span
+          className="w-6 h-6 rounded-full flex items-center justify-center shrink-0"
+          style={{ backgroundColor: accentColor }}
+        >
+          {wasCorrect ? (
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
+              <polyline points="20 6 9 17 4 12" />
+            </svg>
+          ) : (
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
+              <line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" />
+            </svg>
+          )}
+        </span>
+        <span className="font-bold text-sm flex-1 min-w-0" style={{ color: accentColor }}>
+          {wasCorrect
+            ? "Correct!"
+            : `Incorrect — Answer: ${question.correctAnswer}. ${question.options[question.correctAnswer]}`}
+        </span>
+        {onUndo && (
+          <button
+            onClick={onUndo}
+            title="Take this answer back — it will not count in your progress"
+            className="shrink-0 h-8 px-2.5 flex items-center gap-1.5 text-xs font-semibold transition-opacity hover:opacity-70"
+            style={{
+              border: "1px solid var(--border)",
+              backgroundColor: "var(--bg-primary)",
+              color: "var(--text-secondary)",
+            }}
+          >
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+              <polyline points="1 4 1 10 7 10" />
+              <path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10" />
+            </svg>
+            Undo
+          </button>
         )}
       </div>
 

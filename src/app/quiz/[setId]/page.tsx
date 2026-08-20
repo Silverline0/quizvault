@@ -5,9 +5,9 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import { Question, QuizMode } from "@/lib/types";
 import { loadQuestionSet } from "@/lib/quiz-engine";
 import { buildQuizQueue, getStartIndex, shuffleQuestions } from "@/lib/quiz-engine";
-import { recordAnswer, saveLastPosition, saveLastActive, updateSpacedRep, startStudySession, endStudySession, getAnswersForSet, getAllMistakes } from "@/lib/store";
-import { getSetting } from "@/lib/settings";
-import { StudySession } from "@/lib/types";
+import { recordAnswer, removeAnswer, saveLastPosition, saveLastActive, updateSpacedRep, getSpacedRepItem, restoreSpacedRep, startStudySession, endStudySession, getAnswersForSet, getAllMistakes } from "@/lib/store";
+import { getSetting, triggerHaptic } from "@/lib/settings";
+import { SpacedRepItem, StudySession } from "@/lib/types";
 import QuizCard from "@/components/QuizCard";
 import ExplanationPanel from "@/components/ExplanationPanel";
 import QuestionCounter from "@/components/QuestionCounter";
@@ -20,6 +20,13 @@ import { useRouter } from "next/navigation";
 
 /** Virtual set id for re-attempting wrong answers from every bank at once. */
 const ALL_MISTAKES = "all-mistakes";
+
+/** Everything needed to reverse one answer, captured as it was written. */
+type UndoEntry = {
+  timestamp: number;
+  correct: boolean;
+  prevSpacedRep: SpacedRepItem | null;
+};
 
 export default function QuizPage() {
   const params = useParams();
@@ -42,6 +49,13 @@ export default function QuizPage() {
   const [questionStartTime, setQuestionStartTime] = useState(Date.now());
   const [showSessionSummary, setShowSessionSummary] = useState(false);
   const [navOpen, setNavOpen] = useState(false);
+  /**
+   * What it would take to un-answer each question answered in this sitting:
+   * the exact record written, and the review schedule as it stood beforehand.
+   * Keyed by queue index, so stepping back to an earlier question in the same
+   * session still offers the undo.
+   */
+  const [undoable, setUndoable] = useState<Map<number, UndoEntry>>(new Map());
   const sessionEndedRef = useRef(false);
   const router = useRouter();
 
@@ -189,13 +203,17 @@ export default function QuizPage() {
       });
 
       const timeSpent = Math.round((Date.now() - questionStartTime) / 1000);
+      // One timestamp, used both to write the record and to find it again if
+      // this turns out to have been a mis-tap.
+      const answeredAt = Date.now();
+      const prevSpacedRep = getSpacedRepItem(currentQuestion.id, currentQuestion.source);
 
       recordAnswer({
         questionId: currentQuestion.id,
         source: currentQuestion.source,
         selectedAnswer: selected,
         correct,
-        timestamp: Date.now(),
+        timestamp: answeredAt,
         timeSpent,
       });
 
@@ -203,6 +221,12 @@ export default function QuizPage() {
       if (getSetting("spacedRepEnabled")) {
         updateSpacedRep(currentQuestion.id, currentQuestion.source, correct);
       }
+
+      setUndoable((prev) => {
+        const next = new Map(prev);
+        next.set(currentIndex, { timestamp: answeredAt, correct, prevSpacedRep });
+        return next;
+      });
 
       // Update study session
       if (studySession) {
@@ -216,6 +240,51 @@ export default function QuizPage() {
     },
     [currentQuestion, currentIndex, mode, setId, questionStartTime, studySession]
   );
+
+  /**
+   * Un-answer the current question: drop the record, put the review schedule
+   * back, and hand the reader the options again. Grading happens on first tap,
+   * so a mis-tap otherwise lands permanently in the mistakes bank and drags the
+   * question's spaced-repetition streak down with it.
+   */
+  const handleUndo = useCallback(() => {
+    const entry = undoable.get(currentIndex);
+    if (!entry || !currentQuestion) return;
+
+    removeAnswer(currentQuestion.id, currentQuestion.source, entry.timestamp);
+    restoreSpacedRep(currentQuestion.id, currentQuestion.source, entry.prevSpacedRep);
+
+    setAnsweredMap((prev) => {
+      const next = new Map(prev);
+      next.delete(currentIndex);
+      return next;
+    });
+    setAnswerRecord((prev) => {
+      const next = new Map(prev);
+      next.delete(currentIndex);
+      return next;
+    });
+    setUndoable((prev) => {
+      const next = new Map(prev);
+      next.delete(currentIndex);
+      return next;
+    });
+    setAnsweredCount((c) => Math.max(0, c - 1));
+    if (entry.correct) setCorrectCount((c) => Math.max(0, c - 1));
+
+    if (studySession) {
+      studySession.questionsAnswered = Math.max(0, studySession.questionsAnswered - 1);
+      if (entry.correct) studySession.correctCount = Math.max(0, studySession.correctCount - 1);
+    }
+
+    // Sequential mode advanced the saved position past this question when it
+    // was answered; put the reader back on it.
+    if (mode === "sequential") saveLastPosition(setId, currentIndex);
+
+    setSelectedAnswer(null);
+    setShowResult(false);
+    triggerHaptic("light");
+  }, [undoable, currentIndex, currentQuestion, studySession, mode, setId]);
 
   const handleNext = useCallback(() => {
     if (currentIndex + 1 >= questions.length) {
@@ -420,6 +489,7 @@ export default function QuizPage() {
             <ExplanationPanel
               question={currentQuestion}
               wasCorrect={selectedAnswer === currentQuestion.correctAnswer}
+              onUndo={undoable.has(currentIndex) ? handleUndo : undefined}
             />
           )}
         </div>

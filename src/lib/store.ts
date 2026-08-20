@@ -42,6 +42,24 @@ export function recordAnswer(record: AnswerRecord): void {
   saveProgress(progress);
 }
 
+/**
+ * Take back one recorded answer, identified by its exact timestamp.
+ *
+ * `recordAnswer` appends rather than replaces, so a question can carry many
+ * records across attempts. An undo must remove the one it just wrote and leave
+ * every earlier attempt alone.
+ */
+export function removeAnswer(questionId: number, source: string, timestamp: number): boolean {
+  const progress = getProgress();
+  const idx = progress.answers.findIndex(
+    (a) => a.questionId === questionId && a.source === source && a.timestamp === timestamp
+  );
+  if (idx < 0) return false;
+  progress.answers.splice(idx, 1);
+  saveProgress(progress);
+  return true;
+}
+
 export function getAnswersForSet(source: string): AnswerRecord[] {
   return getProgress().answers.filter((a) => a.source === source);
 }
@@ -171,6 +189,42 @@ export function updateSpacedRep(questionId: number, source: string, correct: boo
   }
 
   item.nextReview = Date.now() + item.interval * 24 * 60 * 60 * 1000;
+  saveProgress(progress);
+}
+
+/**
+ * A copy of a question's review schedule, for taking a snapshot before
+ * `updateSpacedRep` overwrites it. `null` means the question has no schedule.
+ */
+export function getSpacedRepItem(questionId: number, source: string): SpacedRepItem | null {
+  const item = getProgress().spacedRep.find(
+    (s) => s.questionId === questionId && s.source === source
+  );
+  return item ? { ...item } : null;
+}
+
+/**
+ * Put a review schedule back the way it was. Passing `null` means the question
+ * had no schedule before the answer, so the entry `updateSpacedRep` created is
+ * dropped rather than left behind with a streak the reader never earned.
+ */
+export function restoreSpacedRep(
+  questionId: number,
+  source: string,
+  previous: SpacedRepItem | null
+): void {
+  const progress = getProgress();
+  const idx = progress.spacedRep.findIndex(
+    (s) => s.questionId === questionId && s.source === source
+  );
+  if (previous) {
+    if (idx >= 0) progress.spacedRep[idx] = { ...previous };
+    else progress.spacedRep.push({ ...previous });
+  } else if (idx >= 0) {
+    progress.spacedRep.splice(idx, 1);
+  } else {
+    return; // no schedule before, none now — nothing to write
+  }
   saveProgress(progress);
 }
 

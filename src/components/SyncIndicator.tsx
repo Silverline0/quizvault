@@ -32,6 +32,25 @@ export default function SyncIndicator() {
     offline: "Offline",
   };
 
+  // A bare dot carries a tooltip, and a phone has no hover — so a sync that
+  // keeps failing looked identical to one that was fine. Say it in words.
+  if (status === "error") {
+    return (
+      <div
+        className="fixed bottom-20 right-4 z-40 flex items-center gap-1.5 px-2 py-1 animate-fade-in"
+        style={{
+          backgroundColor: "var(--error-bg)",
+          border: "1px solid var(--error)",
+          color: "var(--error)",
+        }}
+        title="Progress is still saved on this device, but it is not reaching the cloud."
+      >
+        <span className="block w-2 h-2 rounded-full shrink-0" style={{ backgroundColor: "var(--error)" }} />
+        <span className="text-[10px] font-semibold whitespace-nowrap">Sync failing</span>
+      </div>
+    );
+  }
+
   return (
     <div
       className="fixed bottom-20 right-4 z-40"

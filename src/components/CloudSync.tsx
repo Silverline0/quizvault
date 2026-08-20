@@ -46,14 +46,27 @@ export default function CloudSync({ onSyncComplete }: { onSyncComplete?: () => v
         setLastSync(getLastSyncTime());
         onSyncComplete?.();
       } else if (localAnswers > cloudAnswers) {
-        // Local has more data — push to cloud
+        // Local has more data — push to cloud. Only claim it landed if the
+        // server says so: stamping the time regardless made a dead backend
+        // look like a working one.
         fetch("/api/sync", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ code: saved, data: localProgress }),
-        }).then(() => {
-          setLastSync(new Date().toLocaleString());
-        });
+        })
+          .then(async (res) => {
+            if (res.ok) {
+              setLastSync(new Date().toLocaleString());
+              return;
+            }
+            const err = await res.json().catch(() => ({}));
+            setMessage(err.error || "Could not reach cloud sync");
+            setStatus("error");
+          })
+          .catch(() => {
+            setMessage("Could not reach cloud sync");
+            setStatus("error");
+          });
       }
       // If equal, do nothing — already in sync
     });

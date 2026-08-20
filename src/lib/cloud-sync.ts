@@ -111,7 +111,15 @@ export async function loadFromCloud(): Promise<UserProgress | null> {
 
   try {
     const res = await fetch(`/api/sync?code=${encodeURIComponent(code)}`);
-    if (!res.ok) return null;
+    if (!res.ok) {
+      // A backend that is down is not the same thing as "nothing saved yet".
+      // Returning null for both left the indicator on its resting green while
+      // no progress was reaching the cloud at all.
+      const err = await res.json().catch(() => ({}));
+      console.warn("[CloudSync] Load failed:", err.error || res.status);
+      setStatus("error");
+      return null;
+    }
 
     const result = await res.json();
     if (!result.exists || !result.data) return null;
