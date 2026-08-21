@@ -217,9 +217,9 @@
     {
       "id": "promotion-2021",
       "name": "Promotion 2021",
-      "description": "24 recalled questions from the 2021 promotion exam - Glaucoma, Anterior Segment, Neuro-Ophthalmology",
+      "description": "55 recalls from the 2021 promotion exam.",
       "file": "promotion-2021.json",
-      "questionCount": 24,
+      "questionCount": 55,
       "category": "promotion",
       "source": "Promotion"
     },

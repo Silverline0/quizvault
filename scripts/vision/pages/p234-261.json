@@ -1,0 +1,134 @@
+[
+{
+  "page": 234, "year": "2021",
+  "note": "Opens with the explanation for the carotid-cavernous fistula recall on page 233.",
+  "questions": [
+    {
+      "stem": "In thyroid-associated orbitopathy, which muscle is most involved?",
+      "options": {
+        "A": "Inferior rectus",
+        "B": "Medial rectus",
+        "C": "Superior rectus",
+        "D": "Lateral rectus"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "The mnemonic for extraocular muscle involvement in thyroid eye disease, from most common to least, is I'M SLow: inferior, medial, superior, lateral.",
+      "compilerNote": "The source recorded only the correct answer and marked the recall as a duplicate. The three wrong options were written for this bank."
+    },
+    {
+      "stem": "What is the mechanism of thyroid-associated orbitopathy?",
+      "options": {
+        "A": "Cell mediated",
+        "B": "Autoantigen on the fibroblast"
+      },
+      "answer": "B", "answerSource": "both", "needsFigure": false,
+      "explanation": "The presumed mechanism is activation of orbital fibroblasts by Graves' disease-related autoantibodies, which lead to the release of T cell chemoattractants. The resulting interaction causes fibroblasts to express extracellular matrix molecules, to proliferate and differentiate into myofibroblasts or lipofibroblasts, and to deposit glycosaminoglycans which bind water, leading to swelling and congestion as well as connective tissue remodelling. This produces extraocular muscle enlargement and orbital fat expansion.",
+      "reference": "eyewiki, Thyroid Eye Disease",
+      "compilerNote": "The compiler marked this recall as a duplicate."
+    },
+    {
+      "stem": "What distinguishes orbital from preseptal cellulitis?",
+      "options": {
+        "A": "Limitation of extraocular movements",
+        "B": "Fever",
+        "C": "High white blood cell count",
+        "D": "Proptosis of 2 mm"
+      },
+      "answer": "A", "answerSource": "marked_in_image", "sourceAnswerText": "", "needsFigure": false,
+      "explanation": "The diagnosis of orbital cellulitis is based on clinical examination. Signs suggestive of orbital involvement are proptosis, chemosis, pain with eye movements, ophthalmoplegia and optic nerve involvement, as well as fever, leukocytosis in 75% of cases, and lethargy. On a side-by-side comparison, pain with extraocular movement is absent in preseptal cellulitis and present in orbital; fever may be present in preseptal but is usual in orbital; leukocytosis may be present in either.",
+      "reference": "eyewiki, Orbital Cellulitis",
+      "compilerNote": "The compiler ran the choices together on one line and left the answer line empty; the first is highlighted and is shown as the key. Note that proptosis also distinguishes the two, so more than one option here is defensible."
+    }
+  ]
+},
+{
+  "page": 259, "year": "2021",
+  "note": "Opens with the tail of the 2022 section: an option block whose stem sits on page 258, the non-organic vision loss recall, answered C. The \"2021:\" header falls mid-page.",
+  "questions": [
+    {
+      "stem": "A picture of the visual field shows bilateral homonymous hemianopia with macular sparing. Where is the lesion?",
+      "options": {
+        "A": "Occipital",
+        "B": "Lateral geniculate",
+        "C": "Temporal",
+        "D": "Frontal"
+      },
+      "answer": "A", "answerSource": "both", "needsFigure": true,
+      "explanation": "A macula-sparing homonymous hemianopia suggests a stroke involving the portion of the primary visual cortex supplied by the posterior cerebral artery. The tip of the occipital lobe receives a dual blood supply from the middle and posterior cerebral arteries, so occlusion of the posterior cerebral artery damages the primary visual cortex except for the region representing the macula at the posterior tip, which remains perfused by the middle cerebral artery.",
+      "reference": "AAO BCSC",
+      "compilerNote": "The answer is printed at the top of the next page. Marked as a duplicate."
+    }
+  ]
+},
+{
+  "page": 260, "year": "2021",
+  "questions": [
+    {
+      "stem": "A patient known to have multiple sclerosis presented with diplopia and you found an internuclear ophthalmoplegia. Later the patient developed an exotropia and impairment of all horizontal movements. Where is the lesion?",
+      "options": {
+        "A": "Bilateral paramedian pontine reticular formation",
+        "B": "Left and right medial longitudinal fasciculus"
+      },
+      "answer": "B", "answerSource": "both", "needsFigure": false,
+      "explanation": "This is most likely a case of bilateral internuclear ophthalmoplegia caused by a lesion in the right and left medial longitudinal fasciculus, producing a combination of internuclear ophthalmoplegia and a complete horizontal gaze palsy.",
+      "compilerNote": "The compiler marked this recall as a duplicate."
+    },
+    {
+      "stem": "A 50-year-old patient has high intraocular pressure in the right eye with stellate keratic precipitates and corneal oedema, and on gonioscopy there are keratic precipitates in the angle. He admits to a previous similar episode months ago. What is the most important initial treatment that can be instituted in the emergency room?",
+      "options": {
+        "A": "Topical steroid",
+        "B": "Beta blockers"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "explanation": "This is glaucomatocyclitic crisis, or Posner-Schlossman syndrome. Treatment includes a topical beta-blocker such as timolol 0.5% daily or twice daily, a topical alpha-2 agonist such as brimonidine 0.1 to 0.2% two to three times daily, and a topical carbonic anhydrase inhibitor such as dorzolamide 2% two to three times daily; a short course of about one week of topical steroid such as prednisolone acetate 1% four times daily; oral indomethacin 75 to 150 mg daily or a topical NSAID such as ketorolac four times daily. A systemic carbonic anhydrase inhibitor is considered if the pressure is very high and unresponsive to topical therapy, and hyperosmotic agents or anterior chamber paracentesis if the pressure is dangerously high for the optic nerve. A cycloplegic is added if the patient is symptomatic.",
+      "reference": "The Wills Eye Manual, page 418",
+      "compilerNote": "The compiler wrote the answer as \"A (also beta-blockers if they are topical)\", accepting A while noting the recall did not say whether the beta-blocker option meant topical or oral. Option B is the one highlighted on the page, so the two markings disagree."
+    }
+  ]
+},
+{
+  "page": 261, "year": "2021",
+  "note": "Opens with the answer to the visual-hallucinations recall carried over from page 260. Ends with a bare note, not a question: \"homonymous hemianopia (2 Qs) / occipital cortex\".",
+  "questions": [
+    {
+      "stem": "A patient with visual hallucinations brought visual field testing from another place. The visual field showed a homonymous field defect that respects the midline. Where is the site of the lesion?",
+      "options": {
+        "A": "Frontal",
+        "B": "Temporal",
+        "C": "Parietal",
+        "D": "Occipital"
+      },
+      "answer": "D", "answerSource": "marked_in_image", "sourceAnswerText": "Not sure (depends on the VF pic)", "needsFigure": false,
+      "explanation": "A frontal lesion will not cause a visual field defect. A temporal lesion gives the distinctive pie-in-the-sky defect. A parietal lesion gives a pie-on-the-floor defect. An occipital lesion gives a homonymous hemianopia with macular sparing.",
+      "compilerNote": "The stem and options are on the previous page. The compiler declined to commit, writing that it depends on the field picture, which the recall does not include; option D is the one highlighted."
+    },
+    {
+      "stem": "Unformed hallucinations with a congruent visual field defect place the lesion in which lobe?",
+      "options": {
+        "A": "Occipital lobe",
+        "B": "Temporal lobe",
+        "C": "Parietal lobe"
+      },
+      "answer": "A", "answerSource": "both", "needsFigure": false,
+      "explanation": "Hallucinations are perceptions that occur in the absence of a corresponding external sensory stimulus. Visual hallucinations are classified as unformed or simple, such as dots, flashes and zig-zags, or formed and complex, such as actual objects or people. Occipital lobe lesions produce unformed hallucinations, while temporal lobe lesions produce formed ones.",
+      "compilerNote": "The compiler marked this recall as a duplicate."
+    },
+    {
+      "stem": "What happens when cocaine eye drops are instilled in a Horner eye?",
+      "options": {
+        "A": "It doesn't dilate",
+        "B": "It dilates less than 1 mm",
+        "C": "Reversal of anisocoria",
+        "D": "Dilation OD only",
+        "E": "More than 1 mm difference between the two eyes"
+      },
+      "answer": "E", "answerSource": "marked_in_image",
+      "sourceAnswerText": "Depends on the Horner affected eye. The Horner eye will not dilate. The normal eye will dilate, increasing the anisocoria.",
+      "needsFigure": false,
+      "explanation": "Cocaine blocks noradrenaline reuptake, so it dilates a normal pupil but not a Horner pupil, in which little noradrenaline is being released. The test is read as the resulting anisocoria: 1 mm or more after cocaine indicates a Horner pupil, while less than 1 mm indicates physiological anisocoria.",
+      "compilerNote": "The compiler gave no letter, writing out the mechanism instead. Option E is circled on the page and matches that mechanism, so it is shown as the key; option A is separately crossed out."
+    }
+  ]
+}
+]

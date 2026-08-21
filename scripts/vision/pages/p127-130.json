@@ -1,0 +1,163 @@
+[
+{
+  "page": 127, "year": "2021",
+  "note": "The page opens with the tail of the 2022 section; the \"2021:\" header falls mid-page. The last recall here runs on to page 128.",
+  "questions": [
+    {
+      "stem": "Regarding hyphema, which of the following is uncommon?",
+      "options": {
+        "A": "Mostly treated with bed rest and head elevation",
+        "B": "Can cause glaucoma if severe",
+        "C": "Mostly due to blunt trauma",
+        "D": "Rebleeding commonly occurs after the third week"
+      },
+      "answer": "D", "answerSource": "both", "needsFigure": false,
+      "year": "2022",
+      "explanation": "D is the uncommon one: rebleeding most commonly occurs within the first 5 to 10 days. Per BCSC Cornea it generally occurs 2 to 5 days after the initial hyphema, when the original clot retracts; per BCSC Glaucoma, 3 to 7 days. Rebleeding is a major risk factor for a poor visual outcome after traumatic hyphema.",
+      "reference": "The Wills Eye Manual, page 69",
+      "compilerNote": "This recall sits above the 2021 header and belongs to 2022."
+    },
+    {
+      "stem": "In an alkali burn to the cornea, which of the following has the worst prognosis?",
+      "options": {
+        "A": "Stromal haze with iris not visible",
+        "B": "Limbal ischemia 30%",
+        "C": "Anterior chamber reaction"
+      },
+      "answer": "A", "answerSource": "both", "needsFigure": false,
+      "explanation": "On the Roper Hall classification, total epithelial loss with stromal haze obscuring iris details is Grade III, a guarded prognosis. Limbal ischaemia of 30% is less than one third, which is Grade II and a good prognosis.",
+      "compilerNote": "The compiler recorded three options and marked the recall as a duplicate."
+    }
+  ]
+},
+{
+  "page": 128, "year": "2021",
+  "questions": [
+    {
+      "stem": "Keratitis with feathery margins, where the organism penetrates intact corneal epithelium. What is the organism?",
+      "options": {
+        "A": "Fusarium",
+        "B": "Candida",
+        "C": "Pseudomonas"
+      },
+      "answer": "A", "answerSource": "both", "sourceAnswerText": "Most likely A", "needsFigure": false,
+      "explanation": "Keratitis with feathery margins points to a fungal entity. Pseudomonas aeruginosa can invade corneal epithelial cells and translocates multilayered corneal epithelia in vitro, but it does not penetrate the intact corneal epithelium in vivo.",
+      "compilerNote": "The stem carried over from the previous page. Elsewhere in the document the compiler queried this recall, noting that fungi cannot penetrate intact epithelium and that it may be two separate questions run together."
+    },
+    {
+      "stem": "What is the treatment of stromal herpetic keratitis?",
+      "options": {
+        "A": "Oral antiviral and topical steroid",
+        "B": "Topical antiviral alone",
+        "C": "Topical steroid alone",
+        "D": "Oral antiviral alone"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "Treatment of disciform keratitis: for mild disease, a cycloplegic such as cyclopentolate 1% three times a day together with antiviral prophylaxis. For moderate to severe or central disease, where vision is reduced, a cycloplegic plus a topical steroid such as prednisolone acetate 1% four times a day up to every two hours. If an epithelial lesion is present it should be treated before starting high-frequency corticosteroids. Antiviral prophylaxis options are ganciclovir 0.15% gel three to five times a day, trifluridine 1% three to four times a day, acyclovir 400 mg orally twice a day, or valacyclovir 500 mg orally once or twice a day.",
+      "compilerNote": "The source recorded only the correct answer and marked the recall as a duplicate. The three wrong options were written for this bank."
+    },
+    {
+      "stem": "Ocular cicatricial pemphigoid is which type of hypersensitivity reaction?",
+      "options": {
+        "A": "Type I",
+        "B": "Type II",
+        "C": "Type III",
+        "D": "Type IV"
+      },
+      "answer": "B", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "Type II immune reactions are caused by cytotoxic antibodies, where antibodies bind to a foreign antigen and activate the complement pathway; ocular cicatricial pemphigoid is the ocular example. Type I reactions are anaphylactic or atopic, as in allergic conjunctivitis. Type III are immune-complex reactions, as in serum sickness, lupus and rheumatoid arthritis. Type IV are delayed hypersensitivity, as in allergic contact dermatitis and, as now classified, Stevens-Johnson syndrome.",
+      "reference": "OphthQuestions",
+      "compilerNote": "The source recorded only the answer, \"type 2\", and marked the recall as a duplicate. The other three options were written for this bank."
+    }
+  ]
+},
+{
+  "page": 129, "year": "2021",
+  "note": "One recall here is too degraded to publish: \"MK picture (marginal, scar, and central infiltrate) which one would you treat?\" carries a single option, \"MK\", and the compiler answered \"??\". Recorded, not emitted.",
+  "questions": [
+    {
+      "stem": "A picture of a cornea with lines and folds after refractive surgery. How many weeks post-operatively would you see macrostriae?",
+      "options": {
+        "A": "1-2",
+        "B": "2-3",
+        "C": "6-8",
+        "D": "9-10"
+      },
+      "answer": "A", "answerSource": "both", "needsFigure": false,
+      "explanation": "Post-LASIK corneal flap striae: flap folds, or striae, may decrease visual quality or acuity after LASIK. When present, most folds are noted on the first postoperative day, and almost all occur within the first week.",
+      "reference": "AAO Refractive Surgery book, page 113",
+      "compilerNote": "Marked as a duplicate; a margin note adds that most develop within the first day to the first week."
+    },
+    {
+      "stem": "For an intraocular lens of 0 power in a myopic patient, what is the benefit of implanting it rather than leaving the patient aphakic?",
+      "options": {
+        "A": "Less risk of retinal detachment with implantation",
+        "B": "Less risk of cystoid macular oedema",
+        "C": "Less risk of corneal decompensation",
+        "D": "No clear advantage"
+      },
+      "answer": "A", "answerSource": "marked_in_image", "sourceAnswerText": "Not sure", "needsFigure": false,
+      "explanation": "Myopic eyes have a much higher risk of rhegmatogenous retinal detachment whether pseudophakic or phakic, and this risk rises with each additional millimetre of axial length.",
+      "compilerNote": "The compiler wrote \"Not sure\" and then struck through their own explanation, which had argued the benefit was less posterior capsule opacification. Option A is the one highlighted. A near-identical recall appears later in the document with only two options and the answer given as \"B?\", so the two disagree."
+    },
+    {
+      "stem": "A patient for cataract surgery is emmetropic. Which of the following is correct regarding implanting a 0 dioptre intraocular lens?",
+      "options": {
+        "A": "Aphakia increases the risk of retinal detachment and breaks",
+        "B": "There is no difference"
+      },
+      "answer": "A", "answerSource": "both", "needsFigure": false,
+      "explanation": "Aphakia and pseudophakia are known independent risk factors for the development of retinal breaks or detachment in eyes without pre-existing retinal pathology.",
+      "compilerNote": "The compiler marked this recall as a duplicate."
+    },
+    {
+      "stem": "A patient wants LASIK. Manifest refraction is -10, cycloplegic is -9.5, keratometry is 39, and the corneas are thick. What would you do?",
+      "options": {
+        "A": "Do LASIK for the manifest refraction",
+        "B": "Do it for the cycloplegic refraction",
+        "C": "Do it for -9.75",
+        "D": "Not indicated for this patient"
+      },
+      "answer": "D", "answerSource": "both", "needsFigure": false,
+      "explanation": "A keratometry of 39 is the steepness of the cornea. The patient is myopic, so the cornea is too powerful and must be weakened, which means reducing K further. K must stay within roughly 35 to 50. Correcting 10 dioptres at about 0.8 K per dioptre is an 8 K reduction, leaving K around 31, well beyond the safe target. LASIK is therefore contraindicated for him.",
+      "reference": "Dr. Mohannad Altobaigi",
+      "compilerNote": "The option list runs across to the next page; marked as a duplicate."
+    }
+  ]
+},
+{
+  "page": 130, "year": "2021",
+  "questions": [
+    {
+      "stem": "A patient has superotemporal ectopia lentis due to Marfan syndrome. Which systemic finding should be excluded?",
+      "options": {
+        "A": "Aortic root dilatation",
+        "B": "Thromboembolic disease from homocystinuria",
+        "C": "Renal artery stenosis",
+        "D": "Gastrointestinal polyposis"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "Lens dislocation in Marfan syndrome is usually bilateral and occurs most often in the superotemporal direction, though other directions are not uncommon. The mechanism is abnormal fibrillin, a component of the lens zonules, which causes the zonules to be stretched and elongated; 50 to 80% of patients with Marfan syndrome develop ectopia lentis. A cardiology consult is warranted to rule out aortic root dilatation and aneurysm.",
+      "reference": "eyewiki, Ectopia Lentis",
+      "compilerNote": "The source recorded only the correct answer, aortic dilatation, and marked the recall as a duplicate. The three wrong options were written for this bank."
+    },
+    {
+      "stem": "In ectopia lentis et pupillae, if the pupil is displaced superotemporally, where would the lens be?",
+      "options": {
+        "A": "Inferonasal",
+        "B": "Superotemporal",
+        "C": "Superonasal",
+        "D": "Inferotemporal"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "Ectopia lentis et pupillae is a rare congenital autosomal recessive disorder in which asymmetric eccentric pupils are displaced in the opposite direction to the lens dislocation. The pupils are characteristically oval and ectopic and often dilate poorly. The irides often appear atrophic with marked transillumination of the periphery on slit lamp examination.",
+      "reference": "eyewiki, Ectopia Lentis",
+      "compilerNote": "The source recorded only the answer, \"IN\", and marked the recall as a duplicate. The three wrong options were written for this bank."
+    }
+  ]
+}
+]

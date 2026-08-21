@@ -89,6 +89,114 @@ def norm(text):
     return re.sub(r"[^a-z0-9]+", " ", (text or "").lower()).strip()
 
 
+# Words that carry no identity in a clinical stem, so they are ignored when
+# deciding whether two records are the same recall.
+STOP = set("""a an the of to in on at with and or is are was were for from what which
+following most likely patient patients this that he she his her him you your it its
+has have had would will can could does do after before there they their""".split())
+
+
+# The compiler writes in abbreviations and the vision pass writes them out, so
+# "prevents RD" and "prevents retinal detachment" have no words in common at all.
+# Collapsing the long forms back down puts both sides in the same vocabulary.
+ABBREV = [
+    (r"\bcystoid macular (?:oe|e)dema\b", "cme"),
+    (r"\bdiabetic macular (?:oe|e)dema\b", "dme"),
+    (r"\bposterior subcapsular cataract\b", "psc"),
+    (r"\bretinal detachment\b", "rd"),
+    (r"\bintraocular pressure\b", "iop"),
+    (r"\bintraocular lens\b", "iol"),
+    (r"\bphacoemulsification\b", "phaco"),
+    (r"\bnon[- ]arteritic anterior ischemic optic neuropathy\b", "naion"),
+    (r"\banterior ischemic optic neuropathy\b", "aion"),
+    (r"\bposterior ischemic optic neuropathy\b", "pion"),
+    (r"\binternuclear ophthalmoplegia\b", "ino"),
+    (r"\bvisual field\b", "vf"),
+    (r"\bvisual acuity\b", "va"),
+    (r"\bglaucoma drainage (?:implant|device)\b", "gdi"),
+    (r"\bmedial longitudinal fasciculus\b", "mlf"),
+    (r"\bprimary acquired melanosis\b", "pam"),
+    (r"\bthyroid[- ]associated orbitopathy\b", "tao"),
+    (r"\bextraocular\b", "eom"),
+    (r"\b(?:oe|e)dema\b", "edema"),
+    (r"\bh(?:ae|e)morrhage\b", "hemorrhage"),
+]
+
+
+def words(text):
+    t = (text or "").lower()
+    for pattern, short in ABBREV:
+        t = re.sub(pattern, short, t)
+    return {w for w in re.findall(r"[a-z0-9]+", t) if w not in STOP and len(w) > 2}
+
+
+def jaccard(a, b):
+    return len(a & b) / len(a | b) if a and b else 0.0
+
+
+def same_recall(a, b, page_gap=1, option_hit=0.45, option_share=0.5,
+                stem=0.5, stem_floor=0.35):
+    """
+    Is this the same recall, recorded twice?
+
+    Comparing stems verbatim finds almost none of the overlaps, because the
+    vision pass rewrites the compiler's shorthand into proper prose -- it missed
+    20 of 24 on the first 2021 run. Neither signal works alone:
+
+      * Options alone over-match. Generic lists -- lobes, muscles, percentages
+        -- repeat across unrelated questions. Page 261 asks where a field defect
+        localises and what unformed hallucinations mean, and both offer the same
+        four lobes.
+      * Stems alone under-match, and options often cannot rescue them, because
+        the compiler writes PAS, NVG, CME, "Staph", "LAISK" where this pass
+        writes them out in full.
+
+    So a close stem carries on its own, and a weaker stem needs the choices to
+    agree as well. Both are measured on the same page, since a recall sits where
+    it sits.
+    """
+    pa, pb = a.get("pdfPage") or 0, b.get("pdfPage") or 0
+    if abs(pa - pb) > page_gap:
+        return False
+
+    qa, qb = words(a.get("question")), words(b.get("question"))
+    stem_score = jaccard(qa, qb)
+
+    # A close stem is enough on its own. It has to be, because the option lists
+    # rarely line up word for word: the compiler writes PAS, NVG, CME, Staph,
+    # "LAISK", while the vision pass writes them out in full.
+    if stem_score >= stem:
+        return True
+
+    oa = [words(v) for v in a.get("options", {}).values() if words(v)]
+    ob = [words(v) for v in b.get("options", {}).values() if words(v)]
+    if len(oa) >= 2 and len(ob) >= 2:
+        shared = sum(1 for x in oa if any(jaccard(x, y) >= option_hit for y in ob))
+        # Matching choices alone are not enough either. Generic option lists --
+        # lobes, muscles, percentages -- repeat across unrelated questions: page
+        # 261 asks where a field defect localises and what unformed
+        # hallucinations mean, and both offer the same four lobes. So the stems
+        # still have to resemble each other, just less closely.
+        return (shared / min(len(oa), len(ob)) >= option_share
+                and stem_score >= stem_floor)
+
+    return False
+
+
+def supersede_rules(pages):
+    """
+    Recalls the vision pass judged duplicates of something it published from a
+    different page, and so did not re-record. Matching cannot see these: the
+    pages are far apart and the compiler's shorthand shares almost no wording
+    with the full version. They are named explicitly in the batch instead.
+    """
+    rules = []
+    for rec in pages.values():
+        for rule in rec.get("supersedes", []):
+            rules.append((rule["page"], rule["stemStartsWith"].lower()))
+    return rules
+
+
 def build(pages, subs):
     by_year = collections.defaultdict(list)
     for page in sorted(pages):
@@ -126,24 +234,46 @@ def build(pages, subs):
     return by_year
 
 
-def merge_into_bank(year, fresh, dry):
+def merge_into_bank(year, fresh, dry, rules=()):
     """Add to an existing bank if the parser already built one, else create it."""
     path = os.path.join(DATA, f"promotion-{year}.json")
     existing = []
     if os.path.exists(path):
         existing = json.load(open(path, encoding="utf-8"))
 
-    seen = {norm(q["question"]) for q in existing}
-    added, dupes = [], 0
-    for q in fresh:
-        key = norm(q["question"])
-        if key in seen:
-            dupes += 1
-            continue
-        seen.add(key)
-        added.append(q)
+    # Where the vision pass re-read a recall the parser had already published,
+    # the vision record wins: it carries the exam's real options rather than the
+    # compiler's shorthand, states where its key came from, and ships a scan of
+    # the source page.
+    # A recall the compiler wrote down twice, pages apart, is still one recall.
+    # Page proximity is dropped for that sweep and the thresholds tightened to
+    # compensate, since without the page as evidence a loose match is a merge of
+    # two genuinely different questions.
+    def matches(q):
+        for page, prefix in rules:
+            if q.get("pdfPage") == page and q["question"].lower().startswith(prefix):
+                return q                       # named explicitly in the batch
+        return (next((f for f in fresh if same_recall(q, f)), None)
+                or next((f for f in fresh if same_recall(
+                    q, f, page_gap=10 ** 6, option_hit=0.6,
+                    option_share=0.75, stem=0.65, stem_floor=0.5)), None))
 
-    merged = existing + added
+    kept, replaced = [], []
+    for q in existing:
+        match = matches(q)
+        if match:
+            replaced.append((q, match))
+        else:
+            kept.append(q)
+
+    # And guard against the vision pass itself recording one recall twice.
+    added = []
+    for q in fresh:
+        if not any(same_recall(q, a) for a in added):
+            added.append(q)
+    dupes = len(fresh) - len(added)
+
+    merged = kept + added
     merged.sort(key=lambda q: (q.get("pdfPage") or 0, q["question"][:40]))
     for i, q in enumerate(merged, 1):
         q["id"] = i
@@ -152,7 +282,7 @@ def merge_into_bank(year, fresh, dry):
     if not dry:
         with io.open(path, "w", encoding="utf-8") as fh:
             json.dump(merged, fh, ensure_ascii=False, indent=1)
-    return existing, added, dupes, merged
+    return existing, added, dupes, replaced, merged
 
 
 def register(year, count, dry):
@@ -183,6 +313,7 @@ def main():
     args = ap.parse_args()
 
     pages = load_batches()
+    rules = supersede_rules(pages)
     subs = page_context()
     by_year = build(pages, subs)
 
@@ -197,10 +328,15 @@ def main():
         if year not in by_year:
             print(f"  {year}: nothing extracted yet")
             continue
-        before, added, dupes, merged = merge_into_bank(year, by_year[year], args.dry_run)
+        before, added, dupes, replaced, merged = merge_into_bank(
+            year, by_year[year], args.dry_run, rules)
         register(year, len(merged), args.dry_run)
-        print(f"  promotion-{year}: {len(before)} existing + {len(added)} new "
-              f"= {len(merged)}" + (f"   ({dupes} already present)" if dupes else ""))
+        print(f"  promotion-{year}: {len(before)} existing + {len(added)} read "
+              f"= {len(merged)}")
+        if replaced:
+            print(f"      superseded the parser's shorthand for {len(replaced)} of them")
+        if dupes:
+            print(f"      {dupes} recall(s) recorded twice by the vision pass, collapsed")
         keyed = collections.Counter(q.get("keyFrom") for q in added)
         unsure = sum(1 for q in added if q.get("sourceHint") not in (None, ""))
         blank = sum(1 for q in added if q.get("sourceHint") == "")

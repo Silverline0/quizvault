@@ -1,0 +1,174 @@
+[
+{
+  "page": 214, "year": "2021",
+  "note": "The page opens with the tail of the 2022 section; the \"2021:\" header falls mid-page.",
+  "questions": [
+    {
+      "stem": "A patient has diplopia when looking down and left, which increases with fatigue. What is the cause?",
+      "options": {
+        "A": "Superior oblique palsy",
+        "B": "Inferior oblique palsy",
+        "C": "Lateral rectus palsy",
+        "D": "Third nerve palsy"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "year": "2022",
+      "authoredDistractors": true,
+      "compilerNote": "This recall sits above the 2021 header and belongs to 2022. The source recorded only the correct answer, with a margin note that down-and-left gaze is the right superior oblique's field. The three wrong options were written for this bank."
+    },
+    {
+      "stem": "A child has jerk nystagmus OS with a large left head turn. Which Fresnel prism option would reduce the head turn?",
+      "options": {
+        "A": "Base in OD, base in OS",
+        "B": "Base out OD, base out OS",
+        "C": "Base in OD, base out OS",
+        "D": "Base out OD, base in OS"
+      },
+      "answer": "C", "answerSource": "both", "needsFigure": false,
+      "explanation": "To reduce a head turn in a child with nystagmus, orient the prisms so their apices point toward the null zone; this shifts the image into the null zone. Here the null zone is in right gaze, so the prism over the right eye should be base-in and the prism over the left eye base-out. Surgical correction of a head turn instead rotates the eyes away from the null point.",
+      "compilerNote": "The compiler's lettering differs from the exam screenshot pasted beside it, where the same content is option D. The content matches; the letter here is the compiler's. Marked as a duplicate."
+    },
+    {
+      "stem": "A 3-year-old boy is referred from paediatrics after being diagnosed with Usher syndrome based on hearing loss and vestibular findings. On examination you found an exotropia of 35 prism dioptres. What is the most appropriate next diagnostic step?",
+      "options": {
+        "A": "Double Maddox rod",
+        "B": "CT brain",
+        "C": "Genetic testing"
+      },
+      "answer": "C", "answerSource": "both", "needsFigure": false,
+      "explanation": "The exotropia is most likely sensory, and what follows depends on the type of Usher syndrome; Cogan syndrome is also in the differential. Usher syndrome is the association of retinitis pigmentosa with congenital sensorineural hearing loss. Of its three types, type 1 has early profound deafness, retinitis pigmentosa, an extinguished ERG and vestibular areflexia; type 2 has moderate to severe hearing loss from birth with retinitis pigmentosa developing in the second decade and normal vestibular function; type 3 has progressive hearing loss with variable retinitis pigmentosa and sporadic vestibular function. Cogan syndrome is a rare systemic autoimmune vasculitis with intraocular inflammation and vestibuloauditory dysfunction developing within months of each other.",
+      "compilerNote": "The compiler wrote the answer as \"C (ERG is better)\" — they accepted the recalled key while noting an electroretinogram would be the more useful test. Marked as a duplicate."
+    },
+    {
+      "stem": "A child has unilateral retinoblastoma and both parents are normal. What is the chance of a sibling having retinoblastoma?",
+      "options": {
+        "A": "1-2%",
+        "B": "5-10%",
+        "C": "20-30%",
+        "D": "50-75%"
+      },
+      "answer": "A", "answerSource": "both", "needsFigure": false,
+      "explanation": "With unaffected parents and a unilaterally affected child, the risk to a sibling is very low, under a few percent. On the AAO inheritance chart it is quoted as under 1%, which among these choices is closest to 1-2%. The risk rises to about 5% where the affected child's disease is bilateral, and to 45% where a parent is a carrier.",
+      "reference": "AAO",
+      "compilerNote": "The compiler recorded this same recall a second time elsewhere in the document with a single option and answered it \"<1%\", which is the figure the AAO chart gives. Here, with the exam's four choices in front of them, they answered 1-2%. Marked as a duplicate."
+    }
+  ]
+},
+{
+  "page": 232, "year": "2021",
+  "note": "The page carries the tail of the numbered 2022 section, questions 6 to 10, before the \"2021:\" header. One entry, \"9. Cavernous hemangioma pic.\", is a photograph with no question, no options and no answer, and the compiler has handwritten \"Capillary\" over the title as a correction. Recorded, not emitted — there is no recalled key to publish.",
+  "questions": [
+    {
+      "stem": "A picture of thyroid eye disease shows lid retraction. Which rectus muscle is most likely involved?",
+      "options": {
+        "A": "Inferior",
+        "B": "Medial",
+        "C": "Superior",
+        "D": "Lateral"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": true,
+      "year": "2022",
+      "authoredDistractors": true,
+      "explanation": "The muscles are involved in the order inferior, medial, superior, lateral — remembered as I'M SLow.",
+      "compilerNote": "This recall belongs to 2022. The source recorded only the correct answer; the three wrong options were written for this bank."
+    },
+    {
+      "stem": "A patient is known to have breast cancer and is using docetaxel, and comes with tearing. What is the cause?",
+      "options": {
+        "A": "Canalicular stenosis",
+        "B": "Reflex tearing from dry eye",
+        "C": "Punctal ectropion",
+        "D": "Nasolacrimal duct obstruction from tumour"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "year": "2022",
+      "authoredDistractors": true,
+      "explanation": "Many factors have been linked to the development of punctal and canalicular stenosis, including systemic medications: 5-fluorouracil, docetaxel, paclitaxel and idoxuridine.",
+      "reference": "Eyewiki",
+      "compilerNote": "This recall belongs to 2022 and is marked as a duplicate. The source recorded only the correct answer; the three wrong options were written for this bank."
+    },
+    {
+      "stem": "A picture shows a large orbital floor fracture. What is the management?",
+      "options": {
+        "A": "Immediate repair",
+        "B": "Systemic corticosteroids alone",
+        "C": "Topical antibiotics only",
+        "D": "Immediate orbital decompression"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": true,
+      "year": "2022",
+      "authoredDistractors": true,
+      "explanation": "In cases of severe entrapment — a complete lack of supraduction, fairly severe pain on eye movement, or haemodynamic instability — urgent intervention is warranted. Most cases with less severe dysmotility resolve without intervention, so it is prudent to wait at least 14 days to repair an isolated orbital floor fracture, especially if motility improves in the first week. A fracture involving more than 50% of the orbital floor, or combined with the medial wall, is an indication for repair within 1 to 2 weeks.",
+      "reference": "Eyewiki",
+      "compilerNote": "This recall belongs to 2022 and is marked as a duplicate. The source recorded only the correct answer; the three wrong options were written for this bank. Note that the compiler's own explanation argues for waiting in most cases, so the key holds only for a fracture large enough to meet the repair indications."
+    },
+    {
+      "stem": "A picture shows poor healing after blepharoplasty. What could have been done to improve the result?",
+      "options": {
+        "A": "Tighter glycemic control",
+        "B": "Higher dose postoperative steroids",
+        "C": "Earlier suture removal",
+        "D": "A larger skin excision"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": true,
+      "year": "2022",
+      "authoredDistractors": true,
+      "explanation": "Poorly controlled diabetes is one of the systemic factors that impairs wound healing.",
+      "compilerNote": "This recall belongs to 2022. The source recorded only the correct answer; the three wrong options were written for this bank."
+    }
+  ]
+},
+{
+  "page": 233, "year": "2021",
+  "questions": [
+    {
+      "stem": "A picture shows a lower lid lesion excision involving less than one third of the lid. How would you repair it?",
+      "options": {
+        "A": "Primary closure",
+        "B": "Semicircular flap",
+        "C": "Upper lid transconjunctival flap"
+      },
+      "answer": "A", "answerSource": "both", "needsFigure": true,
+      "explanation": "Since the defect is under 33%, the answer is primary closure. Direct closure is used for defects less than 33% of the lid width. For defects involving 33 to 50%, the eyelid can be freed with a lateral canthotomy and a semicircular Tenzel flap rotated into the defect. The Cutler-Beard procedure is used for upper eyelid defects greater than 50% of the lid width, and lower lid defects greater than 50% are repaired with a modified Hughes procedure.",
+      "compilerNote": "The stem is on the previous page and the option list continues here. Marked as a duplicate."
+    },
+    {
+      "stem": "Orbital cellulitis with a black eschar on the nose. What is the organism?",
+      "options": {
+        "A": "Mucor",
+        "B": "Staphylococcus aureus"
+      },
+      "answer": "A", "answerSource": "both", "needsFigure": false,
+      "explanation": "A black eschar is a sign of mucormycosis. Invasive fungal sinusitis, also known as phycomycosis or mucormycosis, is the most common and most virulent fungal disease involving the orbit. It shows non-septated, large, branching hyphae with invasion of blood vessels, thrombosis and necrosis, and a black eschar may be visible in the nose or palate. Intracranial spread is haematogenous via the ophthalmic artery. Risk factors are diabetes mellitus in 70%, immunosuppression in 18%, renal disease in 5% and leukaemia in 3%. Treatment requires immediate and emergent surgical debridement, intravenous amphotericin B and control of the underlying illness.",
+      "compilerNote": "The compiler marked this recall as a duplicate."
+    },
+    {
+      "stem": "A CT shows an inferior orbital wall fracture. What is the treatment?",
+      "options": {
+        "A": "Prompt surgical repair",
+        "B": "Immediate orbital decompression",
+        "C": "Systemic corticosteroids alone",
+        "D": "Topical antibiotics and review in three months"
+      },
+      "answer": "A", "answerSource": "marked_in_image", "sourceAnswerText": "Depends on the case", "needsFigure": true,
+      "authoredDistractors": true,
+      "explanation": "The indications for repair of an orbital floor fracture are diplopia in primary or down gaze when it is restrictive rather than paretic, 2 mm of enophthalmos, a large floor fracture involving more than 50%, and the oculocardiac reflex in children.",
+      "reference": "Dr. Hattan Alkhiary, BCSC lecture",
+      "compilerNote": "The compiler declined to give a letter, writing \"Depends on the case\" and listing the repair indications instead. The marked option is shown as the key, but it holds only where those indications are met. The three wrong options were written for this bank."
+    },
+    {
+      "stem": "A carotid-cavernous fistula after trauma arises from which vessel?",
+      "options": {
+        "A": "Internal carotid artery",
+        "B": "External carotid artery",
+        "C": "Superior ophthalmic vein",
+        "D": "Middle meningeal artery"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "A direct, high-flow carotid-cavernous fistula follows trauma and arises from a tear in the intracavernous internal carotid artery. Indirect, low-flow fistulas instead arise from dural branches and are usually spontaneous.",
+      "compilerNote": "The source recorded only the correct answer and marked the recall as a duplicate. The three wrong options were written for this bank."
+    }
+  ]
+}
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "page": 157,
+    "year": "2021",
+    "note": "The page opens with three fundus photographs belonging to a recall on page 156; the \"2021:\" header falls mid-page. The retinoblastoma sibling-risk recall recorded here carried a single option and an answer that contradicted it; page 214 holds the same recall with the exam's four real options, so it is published from there instead and dropped here rather than shipping two versions that disagree.",
+    "questions": [
+      {
+        "stem": "What is the most common ocular finding associated with nonaccidental abusive head trauma?",
+        "options": {
+          "A": "Retinal detachment",
+          "B": "Vitreous hemorrhage",
+          "C": "Schisis cavities",
+          "D": "Retinal hemorrhage"
+        },
+        "answer": "D",
+        "answerSource": "both",
+        "needsFigure": false,
+        "explanation": "Retinal haemorrhages are the cardinal manifestation of shaken baby syndrome, with an incidence of approximately 85%. Classically the haemorrhages are multilayered, being preretinal, intraretinal and subretinal. They are usually too numerous to count and extend out to the retinal periphery rather than being confined to the posterior pole.",
+        "compilerNote": "The compiler's shorthand read \"child abuse; shaken baby — A. retina hg\". The full question and its real distractors were recovered from the exam screenshot pasted beside it. Marked as a duplicate."
+      }
+    ]
+  },
+  {
+    "page": 194,
+    "year": "2021",
+    "note": "The page opens with the tail of the 2022 section. An option block at the very top belongs to a recall whose stem sits on page 193: options C, encapsulation of extraocular reservoir, and D, progressive glaucoma, answer C, the hypertensive phase.",
+    "questions": [
+      {
+        "stem": "After phacoemulsification with endocyclophotocoagulation, a patient has high intraocular pressure and a shallow anterior chamber, a scenario of aqueous misdirection. Which of the following is improbable?",
+        "options": {
+          "A": "Rule out iris bombe",
+          "B": "Order a B-scan",
+          "C": "Order UBM",
+          "D": "Patency of the peripheral iridotomy"
+        },
+        "answer": "B",
+        "answerSource": "text",
+        "needsFigure": false,
+        "year": "2022",
+        "compilerNote": "This recall sits above the 2021 header and belongs to 2022."
+      },
+      {
+        "stem": "What is the most specific sign of herpetic uveitis?",
+        "options": {
+          "A": "Rise in intraocular pressure",
+          "B": "Diffuse fine keratic precipitates",
+          "C": "Posterior synechiae",
+          "D": "Hypopyon"
+        },
+        "answer": "A",
+        "answerSource": "text",
+        "needsFigure": false,
+        "authoredDistractors": true,
+        "explanation": "High intraocular pressure is a common complication of HSV iritis and can serve as a diagnostic hallmark. The IOP can be very high, in the range of 50 to 60 mm Hg during an episode of acute iritis. The rise is due to trabeculitis, as well as inflammatory cells clogging the trabecular meshwork.",
+        "reference": "eyewiki, Herpes Simplex Uveitis",
+        "compilerNote": "The source recorded only the correct answer and marked the recall as a duplicate. The three wrong options were written for this bank."
+      },
+      {
+        "stem": "In aqueous misdirection, what will you see on presentation?",
+        "options": {
+          "A": "Shallow central anterior chamber",
+          "B": "Iris bombe"
+        },
+        "answer": "A",
+        "answerSource": "both",
+        "needsFigure": false,
+        "explanation": "Aqueous misdirection is a challenging form of secondary angle closure that presents with elevated intraocular pressure and shallowing of the central and peripheral anterior chamber, despite the presence of a patent peripheral iridotomy. The shallowing is uniform, which is what distinguishes it from iris bombe.",
+        "compilerNote": "Margin note stresses that the shallowing is uniform."
+      },
+      {
+        "stem": "A patient has high intraocular pressure after a glaucoma drainage implant. What is the cause?",
+        "options": {
+          "A": "Encapsulated glaucoma drainage implant",
+          "B": "Inflamed trabecular meshwork"
+        },
+        "answer": "A",
+        "answerSource": "marked_in_image",
+        "sourceAnswerText": "",
+        "needsFigure": false,
+        "compilerNote": "The compiler highlighted this recall in red, left the answer line empty, and noted only that it is similar to the questions above. Marked as a duplicate."
+      },
+      {
+        "stem": "After trauma a patient had a 25% hyphema that resolved within one week. For several months his intraocular pressure was 5 mm Hg, then suddenly he had a pressure of 57 mm Hg. What could be the cause?",
+        "options": {
+          "A": "Angle recession",
+          "B": "Ghost cell glaucoma",
+          "C": "Spontaneous closure of a cyclodialysis cleft"
+        },
+        "answer": "C",
+        "answerSource": "marked_in_image",
+        "sourceAnswerText": "A (angle-recession glaucoma)",
+        "needsFigure": false,
+        "explanation": "Months of hypotony after trauma followed by a sudden pressure spike is the classic course of a cyclodialysis cleft that closes spontaneously. Angle-recession glaucoma also follows trauma with hyphema, but it does not produce a preceding period of very low pressure.",
+        "compilerNote": "The page marks option C, while the answer written on the next page reads A, angle-recession glaucoma, with an explanation arguing for it. The two conflict; the marked option is shown as the key because the months of hypotony in the stem point to a cleft. Worth settling for yourself."
+      }
+    ]
+  },
+  {
+    "page": 195,
+    "year": "2021",
+    "questions": [
+      {
+        "stem": "A patient has diabetic macular oedema and a posterior subcapsular cataract. What is the treatment?",
+        "options": {
+          "A": "Focal laser, then phacoemulsification after 3 months if the oedema has resolved",
+          "B": "Focal laser, then phacoemulsification after 1 month",
+          "C": "Phacoemulsification, then focal laser after 1 week"
+        },
+        "answer": "A",
+        "answerSource": "both",
+        "needsFigure": false,
+        "reference": "OphthaQuestions",
+        "compilerNote": "The compiler marked this recall as a duplicate."
+      },
+      {
+        "stem": "What is the likely complication of trabeculectomy in a high myope?",
+        "options": {
+          "A": "Uveal effusion",
+          "B": "Cyclodialysis cleft"
+        },
+        "answer": "A",
+        "answerSource": "text",
+        "sourceAnswerText": "Most likely A?",
+        "needsFigure": false,
+        "explanation": "Low pressure after trabeculectomy divides into a high bleb, from overfiltration, and a low bleb, from a bleb leak or choroidal effusion, with miscellaneous causes including postoperative uveitis, retinal detachment and cyclodialysis. A margin note names maculopathy from hypotony as the concern in a high myope.",
+        "compilerNote": "The compiler hedged the answer as \"Most likely A?\" rather than recording a recalled key."
+      },
+      {
+        "stem": "What organism causes endophthalmitis after trabeculectomy surgery?",
+        "options": {
+          "A": "Gram-positive cocci in chains",
+          "B": "Gram-negative rods",
+          "C": "Branching filamentous fungi",
+          "D": "Acid-fast bacilli"
+        },
+        "answer": "A",
+        "answerSource": "text",
+        "needsFigure": false,
+        "authoredDistractors": true,
+        "explanation": "The most common organisms found in bleb-related endophthalmitis are staphylococcus and streptococcus species. Coagulase-negative staphylococci are most commonly identified in early-onset bleb-related infections, while streptococcus is most commonly isolated in late-onset infection.",
+        "reference": "eyewiki, Bleb Associated Infections",
+        "compilerNote": "The source recorded only the correct answer and marked the recall as a duplicate. The three wrong options were written for this bank."
+      },
+      {
+        "stem": "A diabetic patient with high intraocular pressure faints after taking Diamox. What will you find?",
+        "options": {
+          "A": "Low blood pH",
+          "B": "High urine bicarbonate",
+          "C": "High blood glucose"
+        },
+        "answer": "A",
+        "answerSource": "both",
+        "needsFigure": false,
+        "explanation": "Acetazolamide causes a metabolic acidosis, so the blood pH falls.",
+        "compilerNote": "The answer line for this recall is printed at the top of the next page. Marked as a duplicate."
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "page": 289,
+    "year": "2021",
+    "note": "Ends with a bare heading, \"chlamydia inclusion bodies\", over trachoma figures; it carries no question or answer and is not emitted.",
+    "questions": [
+      {
+        "stem": "A conjunctival lymphoma slide and picture are shown, with no mention of systemic involvement. What is the treatment?",
+        "options": {
+          "A": "Chemotherapy",
+          "B": "Complete excision",
+          "C": "Radiation"
+        },
+        "answer": "C",
+        "answerSource": "marked_in_image",
+        "sourceAnswerText": "C?",
+        "needsFigure": true,
+        "explanation": "Unless a tumour is small enough to be removed completely, incisional biopsy is indicated for histologic diagnosis. Local low-dose or ultra-low-dose external-beam radiation therapy is often curative for lesions confined to the conjunctiva; intralesional interferon alpha-2b or rituximab may also be effective, and intravenous rituximab is increasingly used for both local and systemic disease. Systemic chemotherapy is required for the treatment of systemic lymphoma.",
+        "reference": "AAO, figures from Yanoff ocular pathology",
+        "compilerNote": "The compiler highlighted this recall in red and answered \"C?\", so the key is theirs rather than a recalled one."
+      }
+    ]
+  },
+  {
+    "page": 295,
+    "year": "2022",
+    "note": "Opens with the answer to an ocular cicatricial pemphigoid recall from an earlier page. The \"##Miscellaneous\" section starts here, with its own 2022 and 2021 subsections. The 2021 entry on this page, \"Cardiac bypass: B. NAION / C. ION / D. Posterior optic neuropathy\", is the same recall already published in full from page 262, where the exam's complete stem and four real options were recovered; it is dropped here rather than shipping the shorthand twice.",
+    "questions": [
+      {
+        "stem": "A child has fair skin and kinky hair. The parents are normal and a paternal uncle has the same. What is the chance of a sibling having the same?",
+        "options": {
+          "A": "25%",
+          "B": "Less than 1%",
+          "C": "50%"
+        },
+        "answer": "A",
+        "answerSource": "both",
+        "needsFigure": false,
+        "explanation": "Oculocutaneous albinism is inherited in an autosomal recessive pattern, so two unaffected carrier parents have a 25% chance of an affected child with each pregnancy.",
+        "compilerNote": "The compiler wrote the answer as \"A (autosomal recessive)\"."
+      },
+      {
+        "stem": "Which anti-tuberculous drug causes red urine?",
+        "options": {
+          "A": "Rifampicin",
+          "B": "Isoniazid",
+          "C": "Pyrazinamide",
+          "D": "Ethambutol"
+        },
+        "answer": "A",
+        "answerSource": "text",
+        "needsFigure": false,
+        "authoredDistractors": true,
+        "explanation": "Of the RIPE regimen, rifampin causes red urine, isoniazid causes neuropathy for which pyridoxine is given as prophylaxis, pyrazinamide causes hyperuricaemia and gout, and ethambutol causes eye disturbance in the form of optic neuritis. Hepatotoxicity is a side effect of all of them.",
+        "compilerNote": "The source recorded only the correct answer. The three wrong options were written for this bank, drawn from the RIPE side-effect table the compiler pasted beneath the recall."
+      }
+    ],
+    "supersedes": [
+      {
+        "page": 295,
+        "stemStartsWith": "Cardiac bypass"
+      }
+    ]
+  }
+]

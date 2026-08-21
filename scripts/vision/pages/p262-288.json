@@ -1,0 +1,132 @@
+[
+{
+  "page": 262, "year": "2021",
+  "note": "Much of this page is topic notes rather than recalls: a visual-field defect chart, a list of WEBINO features under \"Walleyed MLF (bilateral)\", and a one-line fact that the optic canal passes through the lesser wing of the sphenoid. None carries options or an answer, so none is emitted; the sphenoid fact is already covered by a full recall on page 237.",
+  "questions": [
+    {
+      "stem": "A 60-year-old male with no past ocular history undergoes a 6-hour cardiac bypass. When he awakes from surgery he is found to have hand motion vision in both eyes. Aside from his abnormal vision, sluggish pupillary function, and pupillary light-near dissociation, his exam is unremarkable, including his dilated fundus exam. What is the most likely diagnosis?",
+      "options": {
+        "A": "Posterior ischemic optic neuropathy",
+        "B": "Arteritic anterior ischemic optic neuropathy",
+        "C": "Non-arteritic anterior ischemic optic neuropathy",
+        "D": "Dorsal midbrain syndrome"
+      },
+      "answer": "A", "answerSource": "both", "needsFigure": false,
+      "explanation": "Posterior ischemic optic neuropathy is much rarer than the anterior form but is similarly believed to relate to hypoperfusion of the posterior optic nerve. The hypoperfusion is usually a perfect storm of contributing risk factors including anaemia, hypotension, poor cardiac output, hypovolaemia and cardiopulmonary instability during surgery. Rarely it relates to a vasculitic process such as giant cell arteritis, lupus-associated vasculitis, polyarteritis nodosa or VZV vasculitis. Unlike anterior ischemic optic neuropathy, it almost always has a normal-appearing optic nerve in the acute phase. Perioperative cases tend to be younger than arteritic cases, may have profound bilateral vision loss in 70%, and worse visual outcomes.",
+      "reference": "eyewiki, Posterior Ischemic Optic Neuropathy",
+      "compilerNote": "The compiler's shorthand read only \"posterior AION post cardiac sx\". The full question and its real distractors were recovered from the exam screenshot pasted beside it."
+    },
+    {
+      "stem": "What is the treatment of demyelinating optic neuritis?",
+      "options": {
+        "A": "Intravenous steroid followed by oral",
+        "B": "Oral prednisone alone",
+        "C": "Observation only",
+        "D": "Plasma exchange"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "In the Optic Neuritis Treatment Trial patients were randomised to intravenous methylprednisolone 250 mg every 6 hours for 3 days followed by oral prednisone 1 mg/kg/day for 11 days and a quick taper, to oral prednisone 1 mg/kg/day alone for 14 days, or to placebo. All groups had excellent visual recovery with no difference in visual outcome at 6 months, and steroid side effects were similar between the two treated groups. Steroid treatment reduced the risk of multiple sclerosis in the first 2 years but not thereafter. The reason oral prednisone alone is not used is that those patients had a higher rate of recurrence.",
+      "compilerNote": "The source recorded only the correct answer. The three wrong options were written for this bank."
+    }
+  ]
+},
+{
+  "page": 278, "year": "2021",
+  "note": "Opens with the answer to an aniseikonia recall from the 2022 section whose stem sits on page 277. A red-highlighted line under the 2021 header, \"aniseikonia caused by vertex distance; with a contact lens there is no vertex distance\", is a note rather than a question.",
+  "questions": [
+    {
+      "stem": "What is the correct bifocal segment for children?",
+      "options": {
+        "A": "A line bisecting the whole lens",
+        "B": "A small round segment placed low",
+        "C": "An executive segment placed above the pupil",
+        "D": "A progressive addition lens"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "The dispensing objective for a child's bifocal is that the segment should be wide enough that the child cannot peep around it.",
+      "reference": "Milton Keynes University Hospital, dispensing bifocals to children",
+      "compilerNote": "The source recorded only the correct answer and marked the recall as a duplicate. The three wrong options were written for this bank."
+    },
+    {
+      "stem": "A hyperope with different refractions in each eye was given adds and is not happy with his vision. What would better improve his vision?",
+      "options": {
+        "A": "A flat-top segment",
+        "B": "A round-top segment",
+        "C": "A larger reading add in both eyes",
+        "D": "Single vision reading glasses"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "Image jump and image displacement are phenomena associated with bifocal additions, and are not an issue with progressive addition lenses, which have no line. For both plus and minus lenses, image jump is minimised with a flat-top segment.",
+      "reference": "AAO",
+      "compilerNote": "The compiler answered \"A, flat top or progressive\" and queried in the margin whether that is what the recall was asking. The three wrong options were written for this bank."
+    },
+    {
+      "stem": "You are refracting a patient and you have a wide, fast beam with movement. What is the finding?",
+      "options": {
+        "A": "Plano",
+        "B": "-1",
+        "C": "-2"
+      },
+      "answer": "C", "answerSource": "marked_in_image", "sourceAnswerText": "??", "needsFigure": false,
+      "explanation": "With-movement means a plus lens is needed. A faster, wider and brighter reflex means you are close to the neutralisation point.",
+      "reference": "Retinoscopy lecture",
+      "compilerNote": "The compiler highlighted this recall in red and answered \"??\". Option C is the one highlighted on the page."
+    },
+    {
+      "stem": "What is the fourth step when using the Jackson cross cylinder?",
+      "options": {
+        "A": "Sphere readjustment",
+        "B": "Axis refinement",
+        "C": "Power refinement",
+        "D": "Duochrome test"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "compilerNote": "The source recorded only the correct answer. The three wrong options were written for this bank."
+    }
+  ]
+},
+{
+  "page": 287, "year": "2021",
+  "note": "Opens with the explanation for a squamous cell carcinoma recall in the 2022 section whose stem sits on page 286. Ends with a bare heading, \"epidermoid cyst\", whose figures run on to page 288; it carries no question or answer and is not emitted.",
+  "questions": [
+    {
+      "stem": "A conjunctival pathology slide is shown. What is the diagnosis?",
+      "options": {
+        "A": "Primary acquired melanosis",
+        "B": "Nevus",
+        "C": "Melanoma",
+        "D": "Normal conjunctiva"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": true,
+      "explanation": "Primary acquired melanosis without atypia is best characterised by minimal melanocytic hyperplasia along the basal epithelial layer of the conjunctiva. Primary acquired melanosis with atypia usually shows isolated or confluent nests of atypical melanocytes, and pagetoid spread can also be observed. The melanocytes exhibit varying signs of atypia such as large abnormal cells, prominent nucleoli, a high nuclear-cytoplasmic ratio, and mitotic figures.",
+      "reference": "AAO",
+      "compilerNote": "The compiler recorded the answer as \"PAM\" and listed the other options as nevus, melanoma and normal conjunctiva, so all four choices here are the exam's own."
+    }
+  ]
+},
+{
+  "page": 288, "year": "2021",
+  "questions": [
+    {
+      "stem": "A slide shows a basal cell carcinoma. What would the patient have had before the biopsy?",
+      "options": {
+        "A": "Chronic keratoconjunctivitis",
+        "B": "Acute dacryocystitis",
+        "C": "Recurrent subconjunctival haemorrhage",
+        "D": "Sudden painless proptosis"
+      },
+      "answer": "A", "answerSource": "text",
+      "sourceAnswerText": "Read below clinical presentation and pathology slide regarding BCC and sebaceous carcinoma",
+      "needsFigure": true,
+      "authoredDistractors": true,
+      "explanation": "Sebaceous carcinoma may clinically simulate a chalazion, chronic blepharitis, basal or squamous cell carcinoma, ocular cicatricial pemphigoid, superior limbic keratoconjunctivitis, or the pannus associated with adult inclusion conjunctivitis. Effacement of the meibomian gland orifices with destruction of hair follicles typically occurs, leading to madarosis. Basal cell carcinoma, by contrast, usually presents as a painless, shiny, waxy, indurated, firm, pearly nodule with a rolled border and fine telangiectases.",
+      "reference": "AAO oculoplastics, Yanoff ocular pathology",
+      "compilerNote": "The compiler highlighted this recall in red and, rather than giving a letter, pointed at the material below. The masquerade with chronic keratoconjunctivitis belongs to sebaceous carcinoma rather than basal cell carcinoma, so the recall's own labelling may be wrong. The three wrong options were written for this bank."
+    }
+  ]
+}
+]
