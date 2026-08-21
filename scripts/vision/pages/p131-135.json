@@ -1,0 +1,136 @@
+[
+{
+  "page": 131, "year": "2020",
+  "note": "Page opens with a struck-through discussion of the earlier chemical-burn recall (\"For me it is the 30% ischemia\"), not a new question — deliberately not emitted. The 2020 section header follows.",
+  "questions": [
+    {
+      "stem": "A 32-year-old man presented requesting a refractive surgery. His uncorrected visual acuity was counting fingers in the right eye and 20/400 in the left eye. Best-corrected visual acuity was 20/20 for each eye. Manifest refraction revealed -9.00 -2.25 at 180 for the right eye and -7.50 -3.00 at 175 for the left eye. K-reading was 43.00/45.00 for the right eye and 42.75/45.25 for the left eye. The corneal thickness for central cornea was 602 for the right eye and 610 for the left eye. Which of the following is the most appropriate method of refractive correction for this patient?",
+      "options": {
+        "A": "Toric-ICL implantation",
+        "B": "Photorefractive keratectomy with mitomycin C for 2 minutes",
+        "C": "LASIK",
+        "D": "Spheric ICL implantation followed by PRK"
+      },
+      "answer": "A", "answerSource": "both", "needsFigure": false,
+      "reference": "BCSC Lens",
+      "compilerNote": "The source wrote \"Answer: I asked a Fellow and said A\"; the choice is also ticked in the screenshot."
+    }
+  ]
+},
+{
+  "page": 132, "year": "2020",
+  "questions": [
+    {
+      "stem": "A 42-year-old myope with a history of previous LASIK procedure elsewhere 18 years before presentation. Examination revealed the visual acuity in the right eye is 20/100 due to nuclear and cortical opacity. The phacoemulsification procedure with IOL implantation was planned. The patient has no data regarding myopia, or K-reading before LASIK. Which of the following formulas most likely gives the best calculation?",
+      "options": {
+        "A": "SRK/T formula",
+        "B": "Hoffer-Q formula",
+        "C": "Haigis-L formula",
+        "D": "Holladay 1 formula"
+      },
+      "answer": "C", "answerSource": "marked_in_image", "needsFigure": false,
+      "explanation": "The Haigis-L formula is part of the built-in software of the IOLMaster. Corneal power is calculated by inputting IOLMaster biometry: axial length, anterior chamber depth and keratometry. It is a regression formula based on statistics, so accuracy may decrease if the eye is at the edge of the normal distribution, as in high myopia or high hyperopia. It is based on LASIK data and is suitable for post-LVC cases, not post-RK cases.",
+      "reference": "eyewiki",
+      "compilerNote": "The source left \"Answer :…\" blank; the key is taken from the ticked and highlighted choice in the screenshot."
+    },
+    {
+      "stem": "During hydrodissection of the lens in cataract surgery, the iris prolapses, the chamber shallows, and the eye becomes firm, but the red reflex is intact. Which of the following is the most likely diagnosis?",
+      "options": {
+        "A": "Zonular dialysis and vitreous prolapse",
+        "B": "Explosive choroidal hemorrhage",
+        "C": "Posterior infusion syndrome",
+        "D": "Ciliary body edema"
+      },
+      "answer": "C", "answerSource": "both", "needsFigure": false,
+      "reference": "BCSC AAO",
+      "compilerNote": "Margin note against \"Explosive choroidal hemorrhage\": that would give a dim red reflex, whereas here the reflex is intact."
+    }
+  ]
+},
+{
+  "page": 133, "year": "2020",
+  "questions": [
+    {
+      "stem": "Post-operation day 1, following uncomplicated phacoemulsification and in-the-bag IOL implantation, the visual acuity is 20/200 but corrects to 20/25 with -2.00 D. The cornea is clear, the anterior chamber is shallow, and there is a large space between the intraocular lens and the posterior capsule. Intraocular pressure is 14 mm Hg. Which of the following is the most appropriate?",
+      "options": {
+        "A": "IOL exchange",
+        "B": "IOL removal",
+        "C": "Anterior vitrectomy",
+        "D": "YAG capsulotomy"
+      },
+      "answer": "D", "answerSource": "both", "needsFigure": false,
+      "explanation": "Early postoperative capsular block syndrome may occur when residual ophthalmic viscosurgical device becomes trapped within the capsular bag, between the posterior capsule and the posterior surface of the IOL, causing a myopic shift in the refractive error from anterior displacement of the lens optic. Anterior displacement of the iris diaphragm with shallowing of the anterior chamber may also occur, which must be differentiated from a ciliary block mechanism. If left untreated, it may lead to posterior synechiae and secondary glaucoma. Nd:YAG laser anterior capsulotomy peripheral to the optic, or posterior capsulotomy, releases the trapped fluid, with resultant posterior movement of the IOL optic to its intended position, deepening of the anterior chamber, and resolution of the myopic shift.",
+      "reference": "BCSC Lens & Cataract",
+      "compilerNote": "Margin note names the entity: capsular block syndrome."
+    }
+  ]
+},
+{
+  "page": 134, "year": "2020",
+  "note": "The explanation for the cross-linking question is printed at the top of page 135.",
+  "questions": [
+    {
+      "stem": "A 7-year-old boy presented with itching and redness in both eyes of 6 months duration. Recently, he complained of foreign body sensation in his left eye. Ocular examination revealed the following (see image). Which of the following is the most likely cause of this clinical appearance?",
+      "options": {
+        "A": "Monocytic infiltrates",
+        "B": "Neutrophilic infiltrates",
+        "C": "Eosinophilic infiltrates",
+        "D": "Lymphocytic infiltrates"
+      },
+      "answer": "C", "answerSource": "both", "needsFigure": true,
+      "compilerNote": "Margin notes read \"limbal VKC\" and refer to Horner-Trantas dots."
+    },
+    {
+      "stem": "A 33-year-old man presented with bilateral tearing and redness in both eyes of 2 days duration. He was suspected of having an ocular infection. Which of the following supports infectious etiology?",
+      "options": {
+        "A": "Trantas dots",
+        "B": "Follicular reaction",
+        "C": "Papillary reaction",
+        "D": "Perilimbal infiltrates"
+      },
+      "answer": "B", "answerSource": "both", "needsFigure": false,
+      "compilerNote": "Margin notes: Trantas dots point to vernal keratoconjunctivitis, and a papillary reaction to allergy."
+    },
+    {
+      "stem": "A 21-year-old man with keratoconus was scheduled for corneal cross-linking. His medical records revealed a long history of vernal keratoconjunctivitis. Which of the following carries a high risk of corneal damage?",
+      "options": {
+        "A": "Anterior surface elevation more than 15 µm",
+        "B": "Corneal thickness less than 400 µm",
+        "C": "Keratometry readings more than 58 dioptres",
+        "D": "Posterior surface elevation more than 50 µm"
+      },
+      "answer": "B", "answerSource": "both", "needsFigure": false,
+      "explanation": "Contraindications to the standard cross-linking protocol include a corneal thickness of less than 400 microns, prior herpetic infection because it may result in viral reactivation, concurrent infection, severe corneal scarring or opacification, a history of poor epithelial wound healing, severe ocular surface disease such as dry eye, and autoimmune disorders.",
+      "reference": "eyewiki"
+    }
+  ]
+},
+{
+  "page": 135, "year": "2020",
+  "questions": [
+    {
+      "stem": "A 78-year-old man had uncomplicated cataract surgery. 1 day after surgery, his visual acuity was 20/400, and diffuse corneal edema was noted on examination. An anterior segment OCT image was obtained (see image). What is the most likely diagnosis?",
+      "options": {
+        "A": "Reposition the IOL",
+        "B": "Inject air into the anterior chamber",
+        "C": "Perform a tap and inject antibiotics into the vitreous",
+        "D": "Remove the retained nuclear fragment from the anterior chamber"
+      },
+      "answer": "B", "answerSource": "both", "needsFigure": true,
+      "reference": "Ophtho question",
+      "compilerNote": "The source's stem asks for a diagnosis while the choices are managements — reproduced as written. The anterior segment OCT shows a Descemet membrane detachment."
+    },
+    {
+      "stem": "A 50-year-old man presents to the clinic complaining of significant irritation of the eyes. He says he doesn't usually use drops of any kind but often has redness and irritation of the eyes, especially when it's windy outside. Which of the following tests will assess both basic and reflex tear production in this patient?",
+      "options": {
+        "A": "Schirmer I",
+        "B": "Tear film break up time",
+        "C": "Dye disappearance test",
+        "D": "Schirmer II"
+      },
+      "answer": "A", "answerSource": "marked_in_image", "needsFigure": false,
+      "compilerNote": "Margin notes: Schirmer I measures basic plus reflex tearing; tear film break-up time is abnormal below 10 seconds; the dye disappearance test checks patency of the nasolacrimal duct; Schirmer II measures reflex tearing only."
+    }
+  ]
+}
+]

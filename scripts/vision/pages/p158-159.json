@@ -1,0 +1,88 @@
+[
+{
+  "page": 158, "year": "2021",
+  "note": "The \"2020:\" header sits at the FOOT of this page, so everything above it belongs to 2021. The parser assigns one year per page after scanning all its lines, so it labels this whole page 2020 — a year-boundary error that affects every page carrying a mid-page header.",
+  "questions": [
+    {
+      "stem": "A neonate has retinal haemorrhage after delivery and is otherwise normal. What is the management?",
+      "options": {
+        "A": "Urgent pars plana vitrectomy",
+        "B": "Observe",
+        "C": "Intravitreal anti-VEGF injection",
+        "D": "Immediate laser photocoagulation"
+      },
+      "answer": "B", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "compilerNote": "The source recorded only the correct answer, \"Observe\". The three wrong options were written for this bank, not recalled from the exam."
+    },
+    {
+      "stem": "How is the response of CMV retinitis to treatment monitored?",
+      "options": {
+        "A": "Serial serum CMV IgM titres",
+        "B": "Weekly B-scan ultrasonography",
+        "C": "Autofluorescence of the edge of active retinitis, serial photographs of vitritis, and fluorescein angiography",
+        "D": "Monthly automated visual field testing"
+      },
+      "answer": "C", "answerSource": "marked_in_image", "needsFigure": false,
+      "authoredDistractors": true,
+      "compilerNote": "The source left the Answer line blank and recorded only the correct option. A margin note lists what is assessed: lesion size, degree of activity at the border of the lesion, and the presence of new lesions. The three wrong options were written for this bank."
+    },
+    {
+      "stem": "Which investigation predicts the visual outcome in branch retinal vein occlusion?",
+      "options": {
+        "A": "Gonioscopy",
+        "B": "B-scan ultrasonography",
+        "C": "Electroretinography",
+        "D": "Fluorescein angiography"
+      },
+      "answer": "D", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "In acute disease, the presence or absence of macular or foveal involvement determines the visual prognosis. Over the long term, permanent vision loss may be related to macular ischemia, cystoid macular edema, lipid residues or hard exudates in the fovea, and pigmentary macular disturbances. Ischemia is best detected using fluorescein angiography or OCT angiography.",
+      "reference": "AAO retina book",
+      "compilerNote": "The source recorded only the correct answer. The three wrong options were written for this bank."
+    },
+    {
+      "stem": "What is the first-line management of CMV retinitis?",
+      "options": {
+        "A": "Intravenous ganciclovir",
+        "B": "Systemic acyclovir",
+        "C": "Intravitreal methotrexate",
+        "D": "Oral doxycycline"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "High dose induction with IV ganciclovir 5 mg/kg BID or foscarnet 90 mg/kg BID for 2 weeks, followed by low dose daily maintenance therapy. Oral valganciclovir 900 mg BID for 3 weeks, followed by daily maintenance therapy at 900 mg QD. Intravitreal ganciclovir or foscarnet are alternatives and useful for those who cannot tolerate intravenous treatment because of myelotoxicity, but they do not treat extraocular infection or the fellow eye, so combining with oral valganciclovir may alleviate this limitation.",
+      "reference": "BCSC 2021, Uveitis and Ocular Inflammation",
+      "compilerNote": "The source recorded only the correct answer. The three wrong options were written for this bank."
+    }
+  ]
+},
+{
+  "page": 159, "year": "2020",
+  "questions": [
+    {
+      "stem": "A 42-year-old woman presented with a headache for the last 2-3 weeks. Her uncorrected visual acuity was 20/20 in each eye. Slit-lamp examination was normal with both eyes. Intraocular pressure was 18 mm Hg for each eye. Dilated fundus examination for the right eye revealed this picture. Which of the following is the most likely diagnosis?",
+      "options": {
+        "A": "Hypertensive retinopathy stage 2",
+        "B": "Sickle cell retinopathy",
+        "C": "Eales disease",
+        "D": "Background diabetic retinopathy with no macular edema"
+      },
+      "answer": "C", "answerSource": "marked_in_image", "sourceAnswerText": "?", "needsFigure": true,
+      "explanation": "Eales disease is a primary occlusive retinopathy of unknown cause. It usually presents in men aged 20-30 years, more commonly in those from India and the Middle East. It is a diagnosis of exclusion and is characterised by bilateral idiopathic retinal perivasculitis with peripheral nonperfusion and neovascularization. A sea-fan of peripheral neovascularization may be seen. Vascular sheathing is seen in about 80% of patients, and both arteries and veins may be involved. All patients have confluent peripheral nonperfusion with a sharply demarcated border between perfused and non-perfused peripheral retina. Neovascularization is typically seen at this border and is most commonly found in the temporal quadrant. Vitreous haemorrhage is the most common reason for visual loss, and traction retinal detachments may develop. Treatment is with laser photocoagulation to areas of nonperfused retina. Eales disease has been associated with tuberculin hypersensitivity.",
+      "compilerNote": "Worth noting that the demographic in the stem, a 42-year-old woman, sits outside the classic Eales profile quoted in the explanation."
+    },
+    {
+      "stem": "An 80-year-old patient presented with redness and blurred vision 9 months after a successful, uncomplicated cataract surgery. VA was 20/30. Examination showed a few KPs and a Soemmering's ring-like cataract. Which of the following is most likely ruled out?",
+      "options": {
+        "A": "Posner-Schlossman syndrome",
+        "B": "Herpetic keratouveitis",
+        "C": "Fuchs Heterochromic Iridocyclitis",
+        "D": "Endophthalmitis"
+      },
+      "answer": "D", "answerSource": "marked_in_image", "sourceAnswerText": "?", "needsFigure": false,
+      "compilerNote": "Margin note against endophthalmitis: pain, poor vision, hypopyon — none of which this patient has."
+    }
+  ]
+}
+]

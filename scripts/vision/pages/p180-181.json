@@ -1,0 +1,53 @@
+[
+{
+  "page": 180, "year": "2020",
+  "continuesExplanationFor": {
+    "page": 179, "index": 1,
+    "text": "There is partial cross-sensitivity between different types of penicillins. An individual who has exhibited immediate type hypersensitivity with one penicillin should not be given any other type of penicillin. Until recently it has been accepted that there was up to a 10% cross sensitivity between penicillin-derivatives, cephalosporins and carbapenems, due to the sharing of the beta-lactam ring. Recent papers have shown that the major determinant in the immunological reaction is the similarity between the side chain of first generation cephalosporins and penicillins, rather than the beta-lactam structure that they share. This means that the risk of an allergic reaction to cephalosporins in those with an established IgE-mediated allergy to penicillin may be low or non-existent, as long as the side chains are not similar. The cephalosporins likely to cross-react after penicillin allergy include cephalexin, cefadroxil, cefaclor, cephradine, cefprozil, ceftriaxone and cefpodoxime."
+  },
+  "questions": [
+    {
+      "stem": "A 33-year-old man complained of blurring of vision in both eyes for the last 3 months. Eye examination revealed 1+ cells in the anterior chamber and anterior vitreous cells in both eyes. The fundus examination revealed inferior snowballs. MRI brain was normal, and the tuberculin skin test was negative. OCT of the right macula was obtained (see image). What is the most appropriate initial management?",
+      "options": {
+        "A": "Intravitreal Avastin",
+        "B": "Intravitreal steroids",
+        "C": "Pars plana vitrectomy",
+        "D": "Oral steroids"
+      },
+      "answer": "D", "answerSource": "both", "needsFigure": true,
+      "explanation": "Intermediate uveitis is a chronic, relapsing disease of insidious onset in which the vitreous is the primary site of inflammation. Management is with systemic steroids; this modality is preferred over regional steroid by some practitioners if symptomatic inflammation is bilateral.",
+      "reference": "eyewiki, Kanski",
+      "compilerNote": "Margin notes contrast the two routes: bilateral disease takes oral steroids, unilateral disease takes intravitreal. The case is pars planitis with cystoid macular oedema."
+    }
+  ]
+},
+{
+  "page": 181, "year": "2020",
+  "questions": [
+    {
+      "stem": "A 29-year-old man presented with a history of blurring of vision in both eyes of 6 months duration. He gave a history of recurrent tinnitus and whitening of scalp hair. Eye examination revealed bilateral mild anterior uveitis and hypopigmented fundi. General examination revealed lesions in his lower back (see image). Laboratory tests were unremarkable. Which of the following is the predominant type of cells affected in this condition?",
+      "options": {
+        "A": "Epithelial cells",
+        "B": "Melanocytes",
+        "C": "Endothelial cells",
+        "D": "Langerhans cells"
+      },
+      "answer": "B", "answerSource": "both", "needsFigure": true,
+      "reference": "Kanski, ophthoquestion",
+      "subspecialty": "Uveitis",
+      "compilerNote": "Margin note names the diagnosis: Vogt-Koyanagi-Harada disease. The exam interface shows this choice confirmed correct, not merely selected."
+    },
+    {
+      "stem": "A 32-year-old Nigerian presents with bilateral blurred vision. On examination, there are confluent yellow-white areas with associated flame-shaped hemorrhages in both eyes and perivascular sheathing, and her CD4 count is 42 (normal 500-1500 cells/ul) (see image). Which of the following is the most appropriate initial management?",
+      "options": {
+        "A": "Intravitreal acyclovir",
+        "B": "Panretinal photocoagulation",
+        "C": "Intravenous ganciclovir",
+        "D": "Intravenous methylprednisolone"
+      },
+      "answer": "C", "answerSource": "both", "needsFigure": true,
+      "compilerNote": "Margin note names the diagnosis, CMV retinitis, and marks the recall as a duplicate — it covers the same ground as the CMV management recall recorded under 2021."
+    }
+  ]
+}
+]

@@ -53,15 +53,6 @@
   ],
   "questionSets": [
     {
-      "id": "fundamentals-oq",
-      "name": "Fundamentals",
-      "description": "266 questions on anatomy, embryology, biochemistry, genetics, pharmacology",
-      "file": "fundamentals-oq.json",
-      "questionCount": 266,
-      "category": "fundamentals",
-      "source": "OphthoQ"
-    },
-    {
       "id": "cornea-bcsc",
       "name": "Cornea BCSC",
       "description": "99 BCSC self-assessment questions on cornea",
@@ -80,12 +71,12 @@
       "source": "OphthoQ"
     },
     {
-      "id": "lens-cataract-oq",
-      "name": "Lens & Cataract",
-      "description": "172 questions on lens and cataract surgery",
-      "file": "lens-cataract-oq.json",
-      "questionCount": 172,
-      "category": "lens-cataract",
+      "id": "fundamentals-oq",
+      "name": "Fundamentals",
+      "description": "266 questions on anatomy, embryology, biochemistry, genetics, pharmacology",
+      "file": "fundamentals-oq.json",
+      "questionCount": 266,
+      "category": "fundamentals",
       "source": "OphthoQ"
     },
     {
@@ -96,6 +87,186 @@
       "questionCount": 198,
       "category": "glaucoma",
       "source": "BCSC"
+    },
+    {
+      "id": "lens-cataract-oq",
+      "name": "Lens & Cataract",
+      "description": "172 questions on lens and cataract surgery",
+      "file": "lens-cataract-oq.json",
+      "questionCount": 172,
+      "category": "lens-cataract",
+      "source": "OphthoQ"
+    },
+    {
+      "id": "neuro-bcsc",
+      "name": "Neuro BCSC",
+      "description": "331 BCSC self-assessment questions on neuro-ophthalmology",
+      "file": "neuro-bcsc.json",
+      "questionCount": 331,
+      "category": "neuro",
+      "source": "BCSC"
+    },
+    {
+      "id": "neuro-oq",
+      "name": "Neuro OphthoQ",
+      "description": "271 questions on neuro-ophthalmology",
+      "file": "neuro-oq.json",
+      "questionCount": 271,
+      "category": "neuro",
+      "source": "OphthoQ"
+    },
+    {
+      "id": "oculoplastics-bcsc",
+      "name": "Oculoplastics BCSC",
+      "description": "497 BCSC self-assessment questions on oculoplastics",
+      "file": "oculoplastics-bcsc.json",
+      "questionCount": 497,
+      "category": "oculoplastics",
+      "source": "BCSC"
+    },
+    {
+      "id": "pedia-hy-oq",
+      "name": "Pediatrics High Yield",
+      "description": "173 high-yield pediatric ophthalmology questions",
+      "file": "pedia-hy-oq.json",
+      "questionCount": 173,
+      "category": "pediatrics",
+      "source": "OphthoQ"
+    },
+    {
+      "id": "pedia-nhy-oq",
+      "name": "Pediatrics Non-HY",
+      "description": "86 non-high-yield pediatric ophthalmology questions",
+      "file": "pedia-nhy-oq.json",
+      "questionCount": 86,
+      "category": "pediatrics",
+      "source": "OphthoQ"
+    },
+    {
+      "id": "pediatric-bcsc",
+      "name": "Pediatric BCSC",
+      "description": "481 BCSC self-assessment questions on pediatric ophthalmology",
+      "file": "pediatric-bcsc.json",
+      "questionCount": 481,
+      "category": "pediatrics",
+      "source": "BCSC"
+    },
+    {
+      "id": "promotion-2014",
+      "name": "Promotion 2014",
+      "description": "212 recalled questions from the 2014 promotion exam - Miscellaneous, Oculoplastics, Anterior Segment",
+      "file": "promotion-2014.json",
+      "questionCount": 212,
+      "category": "promotion",
+      "source": "Promotion"
+    },
+    {
+      "id": "promotion-2015",
+      "name": "Promotion 2015",
+      "description": "86 recalled questions from the 2015 promotion exam - Glaucoma, Retina, Neuro-Ophthalmology",
+      "file": "promotion-2015.json",
+      "questionCount": 86,
+      "category": "promotion",
+      "source": "Promotion"
+    },
+    {
+      "id": "promotion-2016",
+      "name": "Promotion 2016",
+      "description": "79 recalled questions from the 2016 promotion exam - Optics, Retina, Anterior Segment",
+      "file": "promotion-2016.json",
+      "questionCount": 79,
+      "category": "promotion",
+      "source": "Promotion"
+    },
+    {
+      "id": "promotion-2017",
+      "name": "Promotion 2017",
+      "description": "111 recalled questions from the 2017 promotion exam - Optics, Anterior Segment, Glaucoma",
+      "file": "promotion-2017.json",
+      "questionCount": 111,
+      "category": "promotion",
+      "source": "Promotion"
+    },
+    {
+      "id": "promotion-2018",
+      "name": "Promotion 2018",
+      "description": "77 recalled questions from the 2018 promotion exam - Glaucoma, Anterior Segment, Uveitis",
+      "file": "promotion-2018.json",
+      "questionCount": 77,
+      "category": "promotion",
+      "source": "Promotion"
+    },
+    {
+      "id": "promotion-2019",
+      "name": "Promotion 2019",
+      "description": "53 recalled questions from the 2019 promotion exam - Oculoplastics, Pediatrics, Anterior Segment",
+      "file": "promotion-2019.json",
+      "questionCount": 53,
+      "category": "promotion",
+      "source": "Promotion"
+    },
+    {
+      "id": "promotion-2020",
+      "name": "Promotion 2020",
+      "description": "38 recalls from the 2020 promotion exam.",
+      "file": "promotion-2020.json",
+      "questionCount": 38,
+      "category": "promotion",
+      "source": "Promotion"
+    },
+    {
+      "id": "promotion-2021",
+      "name": "Promotion 2021",
+      "description": "24 recalled questions from the 2021 promotion exam - Glaucoma, Anterior Segment, Neuro-Ophthalmology",
+      "file": "promotion-2021.json",
+      "questionCount": 24,
+      "category": "promotion",
+      "source": "Promotion"
+    },
+    {
+      "id": "promotion-2022",
+      "name": "Promotion 2022",
+      "description": "47 recalled questions from the 2022 promotion exam - Anterior Segment, Retina, Glaucoma",
+      "file": "promotion-2022.json",
+      "questionCount": 47,
+      "category": "promotion",
+      "source": "Promotion"
+    },
+    {
+      "id": "promotion-2023",
+      "name": "Promotion 2023",
+      "description": "91 recalled questions from the 2023 promotion exam - Anterior Segment, Pediatrics, Glaucoma",
+      "file": "promotion-2023.json",
+      "questionCount": 91,
+      "category": "promotion",
+      "source": "Promotion"
+    },
+    {
+      "id": "promotion-2024",
+      "name": "Promotion 2024",
+      "description": "89 recalled questions from the 2024 promotion exam - Pediatrics, Anterior Segment, Retina",
+      "file": "promotion-2024.json",
+      "questionCount": 89,
+      "category": "promotion",
+      "source": "Promotion"
+    },
+    {
+      "id": "promotion-2025",
+      "name": "Promotion 2025",
+      "description": "79 recalled questions from the 2025 promotion exam - Anterior Segment, Retina, Glaucoma",
+      "file": "promotion-2025.json",
+      "questionCount": 79,
+      "category": "promotion",
+      "source": "Promotion"
+    },
+    {
+      "id": "promotion-unkeyed",
+      "name": "Promotion - Unkeyed (reviewer-answered)",
+      "description": "123 recalls the source document never answered. Keys here come from a reviewer, not from the exam - read them as study notes, not as verified answers.",
+      "file": "promotion-unkeyed.json",
+      "questionCount": 123,
+      "category": "promotion",
+      "source": "Promotion"
     },
     {
       "id": "retina-bcsc",
@@ -132,168 +303,6 @@
       "questionCount": 181,
       "category": "uveitis",
       "source": "OphthoQ"
-    },
-    {
-      "id": "neuro-bcsc",
-      "name": "Neuro BCSC",
-      "description": "331 BCSC self-assessment questions on neuro-ophthalmology",
-      "file": "neuro-bcsc.json",
-      "questionCount": 331,
-      "category": "neuro",
-      "source": "BCSC"
-    },
-    {
-      "id": "neuro-oq",
-      "name": "Neuro OphthoQ",
-      "description": "271 questions on neuro-ophthalmology",
-      "file": "neuro-oq.json",
-      "questionCount": 271,
-      "category": "neuro",
-      "source": "OphthoQ"
-    },
-    {
-      "id": "oculoplastics-bcsc",
-      "name": "Oculoplastics BCSC",
-      "description": "497 BCSC self-assessment questions on oculoplastics",
-      "file": "oculoplastics-bcsc.json",
-      "questionCount": 497,
-      "category": "oculoplastics",
-      "source": "BCSC"
-    },
-    {
-      "id": "pediatric-bcsc",
-      "name": "Pediatric BCSC",
-      "description": "481 BCSC self-assessment questions on pediatric ophthalmology",
-      "file": "pediatric-bcsc.json",
-      "questionCount": 481,
-      "category": "pediatrics",
-      "source": "BCSC"
-    },
-    {
-      "id": "pedia-hy-oq",
-      "name": "Pediatrics High Yield",
-      "description": "173 high-yield pediatric ophthalmology questions",
-      "file": "pedia-hy-oq.json",
-      "questionCount": 173,
-      "category": "pediatrics",
-      "source": "OphthoQ"
-    },
-    {
-      "id": "pedia-nhy-oq",
-      "name": "Pediatrics Non-HY",
-      "description": "86 non-high-yield pediatric ophthalmology questions",
-      "file": "pedia-nhy-oq.json",
-      "questionCount": 86,
-      "category": "pediatrics",
-      "source": "OphthoQ"
-    },
-    {
-      "id": "promotion-2025",
-      "name": "Promotion 2025",
-      "description": "79 recalled questions from the 2025 promotion exam - Anterior Segment, Retina, Glaucoma",
-      "file": "promotion-2025.json",
-      "questionCount": 79,
-      "category": "promotion",
-      "source": "Promotion"
-    },
-    {
-      "id": "promotion-2024",
-      "name": "Promotion 2024",
-      "description": "89 recalled questions from the 2024 promotion exam - Pediatrics, Anterior Segment, Retina",
-      "file": "promotion-2024.json",
-      "questionCount": 89,
-      "category": "promotion",
-      "source": "Promotion"
-    },
-    {
-      "id": "promotion-2023",
-      "name": "Promotion 2023",
-      "description": "91 recalled questions from the 2023 promotion exam - Anterior Segment, Pediatrics, Glaucoma",
-      "file": "promotion-2023.json",
-      "questionCount": 91,
-      "category": "promotion",
-      "source": "Promotion"
-    },
-    {
-      "id": "promotion-2022",
-      "name": "Promotion 2022",
-      "description": "47 recalled questions from the 2022 promotion exam - Anterior Segment, Retina, Glaucoma",
-      "file": "promotion-2022.json",
-      "questionCount": 47,
-      "category": "promotion",
-      "source": "Promotion"
-    },
-    {
-      "id": "promotion-2021",
-      "name": "Promotion 2021",
-      "description": "24 recalled questions from the 2021 promotion exam - Glaucoma, Anterior Segment, Neuro-Ophthalmology",
-      "file": "promotion-2021.json",
-      "questionCount": 24,
-      "category": "promotion",
-      "source": "Promotion"
-    },
-    {
-      "id": "promotion-2019",
-      "name": "Promotion 2019",
-      "description": "53 recalled questions from the 2019 promotion exam - Oculoplastics, Pediatrics, Anterior Segment",
-      "file": "promotion-2019.json",
-      "questionCount": 53,
-      "category": "promotion",
-      "source": "Promotion"
-    },
-    {
-      "id": "promotion-2018",
-      "name": "Promotion 2018",
-      "description": "77 recalled questions from the 2018 promotion exam - Glaucoma, Anterior Segment, Uveitis",
-      "file": "promotion-2018.json",
-      "questionCount": 77,
-      "category": "promotion",
-      "source": "Promotion"
-    },
-    {
-      "id": "promotion-2017",
-      "name": "Promotion 2017",
-      "description": "111 recalled questions from the 2017 promotion exam - Optics, Anterior Segment, Glaucoma",
-      "file": "promotion-2017.json",
-      "questionCount": 111,
-      "category": "promotion",
-      "source": "Promotion"
-    },
-    {
-      "id": "promotion-2016",
-      "name": "Promotion 2016",
-      "description": "79 recalled questions from the 2016 promotion exam - Optics, Retina, Anterior Segment",
-      "file": "promotion-2016.json",
-      "questionCount": 79,
-      "category": "promotion",
-      "source": "Promotion"
-    },
-    {
-      "id": "promotion-2015",
-      "name": "Promotion 2015",
-      "description": "86 recalled questions from the 2015 promotion exam - Glaucoma, Retina, Neuro-Ophthalmology",
-      "file": "promotion-2015.json",
-      "questionCount": 86,
-      "category": "promotion",
-      "source": "Promotion"
-    },
-    {
-      "id": "promotion-2014",
-      "name": "Promotion 2014",
-      "description": "212 recalled questions from the 2014 promotion exam - Miscellaneous, Oculoplastics, Anterior Segment",
-      "file": "promotion-2014.json",
-      "questionCount": 212,
-      "category": "promotion",
-      "source": "Promotion"
-    },
-    {
-      "id": "promotion-unkeyed",
-      "name": "Promotion - Unkeyed (reviewer-answered)",
-      "description": "123 recalls the source document never answered. Keys here come from a reviewer, not from the exam - read them as study notes, not as verified answers.",
-      "file": "promotion-unkeyed.json",
-      "questionCount": 123,
-      "category": "promotion",
-      "source": "Promotion"
     }
   ]
 }

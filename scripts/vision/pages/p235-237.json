@@ -1,0 +1,90 @@
+[
+{
+  "page": 235, "year": "2020",
+  "note": "The \"2020:\" header is at the TOP of this page, so this page and those after it are genuinely 2020.",
+  "questions": [
+    {
+      "stem": "A 20-year-old man presented with an 8-day history of upper respiratory tract infection symptoms, headaches, photophobia, and progressive swelling around both eyes. Clinical examination revealed an oriented alert individual with a temperature of 39 °C and bilateral periorbital swelling. The vision was 20/30 in each eye. Initial ophthalmological examination revealed a dilated non-reactive pupil on the left side and a sluggish pupillary reflex on the right side. The patient also had a lateral rectus palsy of the left eye. Fundoscopy showed bilateral papilloedema. Ear, nose and throat examination revealed a rhinitic nasal mucosa with thick mucopus in the left middle meatus. Which of the following is the most likely diagnosis?",
+      "options": {
+        "A": "Panophthalmitis",
+        "B": "Orbital cellulitis",
+        "C": "Cavernous sinus thrombosis",
+        "D": "Epidural hematoma"
+      },
+      "answer": "C", "answerSource": "both", "needsFigure": false,
+      "explanation": "This patient appears to have an infectious process involving multiple cranial nerves. The upgaze and adduction deficits are concerning for a third nerve palsy, and the abduction deficit is likely due to a sixth nerve palsy. Hypaesthesia of the forehead is attributable to V1 involvement and hypaesthesia of the cheek maps to V2. This combination suggests cavernous sinus syndrome. Since optic nerve function appears intact, with good visual acuity and no afferent pupillary defect, the process is likely not involving the orbital apex. Cavernous sinus thrombosis is distinguished from orbital cellulitis by its source in the nose, sinuses, orbit, ear or pharynx, its abrupt onset with chills and rigors, present toxaemia, bilateral involvement, bilateral lid oedema with chemosis and proptosis, and cranial nerve involvement that is individual and sequential.",
+      "reference": "Kanski",
+      "compilerNote": "The compiler's own reasoning: both eyes affected and involvement of the sixth nerve both point to C."
+    }
+  ]
+},
+{
+  "page": 236, "year": "2020",
+  "questions": [
+    {
+      "stem": "A five-year-old underwent a biopsy of a lower lid lesion she has had since birth. Examination of the specimen confirms a keratin-filled cavity within the dermis (red arrow) lined by keratinized stratified squamous epithelium (green arrow) (see image). Which of the following is the most likely diagnosis?",
+      "options": {
+        "A": "Squamous cell papilloma",
+        "B": "Chalazion",
+        "C": "Keratoacanthoma",
+        "D": "Epidermoid cyst"
+      },
+      "answer": "D", "answerSource": "both", "needsFigure": true,
+      "explanation": "Epidermoid cysts, also called epidermal inclusion cysts, are common in the eyelids and can arise spontaneously or as a result of traumatic laceration or surgical incision that entraps epidermis beneath the skin surface. These cysts are often round or oval and may be filled with a foul-smelling keratin debris. Histologic sections show that these are lined with stratified squamous keratinizing epithelium and contain keratin.",
+      "reference": "Self assessment",
+      "compilerNote": "The compiler marked this recall as a duplicate."
+    },
+    {
+      "stem": "A 67-year-old woman was brought to the Emergency Department after falling down the stairs. She had multiple injuries including pan-facial fractures. Her ocular examination confirmed right eye proptosis with tight eyelids, but the globe could be seen with 360 degree subconjunctival hemorrhage, round pupil with no signs of globe rupture. The intraocular pressure in the right eye was 48 mm Hg. Due to the high suspicion of retrobulbar hemorrhage, the patient underwent a successful canthotomy and inferior cantholysis. Following the procedure, the intraocular pressure was 44 mm Hg. Which of the following is the most appropriate next step in management?",
+      "options": {
+        "A": "Start brimonidine and recheck pressure tomorrow",
+        "B": "Superior cantholysis",
+        "C": "Start Diamox and check the pressure in an hour",
+        "D": "Anterior chamber paracentesis"
+      },
+      "answer": "B", "answerSource": "both", "needsFigure": false,
+      "reference": "Ophtho question"
+    }
+  ]
+},
+{
+  "page": 237, "year": "2020",
+  "questions": [
+    {
+      "stem": "The optic canal transmits the optic nerve from the orbit into the intracranial cavity. Which of the following bones is included in this pathway?",
+      "options": {
+        "A": "Palatine",
+        "B": "Sphenoid",
+        "C": "Ethmoid",
+        "D": "Temporal"
+      },
+      "answer": "B", "answerSource": "both", "needsFigure": false,
+      "reference": "Ophtho question"
+    },
+    {
+      "stem": "Which of the following muscles is responsible for the vertical glabellar rhytids?",
+      "options": {
+        "A": "Procerus",
+        "B": "Corrugator supercilii",
+        "C": "Frontalis",
+        "D": "Orbicularis oculi"
+      },
+      "answer": "B", "answerSource": "both", "needsFigure": false,
+      "explanation": "The frontalis causes transverse or horizontal forehead wrinkles. The corrugator causes vertical wrinkles between the eyebrows; this can be remembered because corrugated roofs also have vertical wrinkles. The procerus depresses the heads of the eyebrows and causes horizontal wrinkles just inferior to the heads of the brows. The orbicularis oculi causes wrinkles around the eye, perpendicular to the direction the muscle fibres travel; these tend to be most pronounced at the outer corners of the eyes, forming what are commonly referred to as crow's feet.",
+      "reference": "Ophtho question"
+    },
+    {
+      "stem": "A 2-year-old African boy is brought to the outpatient clinic by his parents for consultation. The boy is fair skinned with yellow, kinky hair and grey eyes with horizontal nystagmus. The mother reports that both she and the father do not share these features, but her husband has a brother with similar features. The mother is 7 months pregnant and asks what the chances are that her baby will have the same condition?",
+      "options": {
+        "A": "50%",
+        "B": "<1%",
+        "C": "25%",
+        "D": "75%"
+      },
+      "answer": "C", "answerSource": "both", "needsFigure": false,
+      "explanation": "Oculocutaneous albinism is inherited in an autosomal recessive pattern, so two unaffected carrier parents have a 25% chance of an affected child with each pregnancy.",
+      "reference": "eyewiki"
+    }
+  ]
+}
+]

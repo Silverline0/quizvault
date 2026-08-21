@@ -1,0 +1,751 @@
+[
+ {
+  "id": 1,
+  "source": "promotion-2020",
+  "question": "A 32-year-old man presented requesting a refractive surgery. His uncorrected visual acuity was counting fingers in the right eye and 20/400 in the left eye. Best-corrected visual acuity was 20/20 for each eye. Manifest refraction revealed -9.00 -2.25 at 180 for the right eye and -7.50 -3.00 at 175 for the left eye. K-reading was 43.00/45.00 for the right eye and 42.75/45.25 for the left eye. The corneal thickness for central cornea was 602 for the right eye and 610 for the left eye. Which of the following is the most appropriate method of refractive correction for this patient?",
+  "options": {
+   "A": "Toric-ICL implantation",
+   "B": "Photorefractive keratectomy with mitomycin C for 2 minutes",
+   "C": "LASIK",
+   "D": "Spheric ICL implantation followed by PRK"
+  },
+  "correctAnswer": "A",
+  "year": "2020",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 131,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_131.jpg",
+  "explanation": "Reference: BCSC Lens",
+  "sourceNote": "The source wrote \"Answer: I asked a Fellow and said A\"; the choice is also ticked in the screenshot."
+ },
+ {
+  "id": 2,
+  "source": "promotion-2020",
+  "question": "A 42-year-old myope with a history of previous LASIK procedure elsewhere 18 years before presentation. Examination revealed the visual acuity in the right eye is 20/100 due to nuclear and cortical opacity. The phacoemulsification procedure with IOL implantation was planned. The patient has no data regarding myopia, or K-reading before LASIK. Which of the following formulas most likely gives the best calculation?",
+  "options": {
+   "A": "SRK/T formula",
+   "B": "Hoffer-Q formula",
+   "C": "Haigis-L formula",
+   "D": "Holladay 1 formula"
+  },
+  "correctAnswer": "C",
+  "year": "2020",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 132,
+  "visionRead": true,
+  "keyFrom": "marked_in_image",
+  "pageScanUrl": "/images/promotion-pages/page_132.jpg",
+  "explanation": "The Haigis-L formula is part of the built-in software of the IOLMaster. Corneal power is calculated by inputting IOLMaster biometry: axial length, anterior chamber depth and keratometry. It is a regression formula based on statistics, so accuracy may decrease if the eye is at the edge of the normal distribution, as in high myopia or high hyperopia. It is based on LASIK data and is suitable for post-LVC cases, not post-RK cases.  Reference: eyewiki",
+  "sourceNote": "The source left \"Answer :…\" blank; the key is taken from the ticked and highlighted choice in the screenshot."
+ },
+ {
+  "id": 3,
+  "source": "promotion-2020",
+  "question": "During hydrodissection of the lens in cataract surgery, the iris prolapses, the chamber shallows, and the eye becomes firm, but the red reflex is intact. Which of the following is the most likely diagnosis?",
+  "options": {
+   "A": "Zonular dialysis and vitreous prolapse",
+   "B": "Explosive choroidal hemorrhage",
+   "C": "Posterior infusion syndrome",
+   "D": "Ciliary body edema"
+  },
+  "correctAnswer": "C",
+  "year": "2020",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 132,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_132.jpg",
+  "explanation": "Reference: BCSC AAO",
+  "sourceNote": "Margin note against \"Explosive choroidal hemorrhage\": that would give a dim red reflex, whereas here the reflex is intact."
+ },
+ {
+  "id": 4,
+  "source": "promotion-2020",
+  "question": "Post-operation day 1, following uncomplicated phacoemulsification and in-the-bag IOL implantation, the visual acuity is 20/200 but corrects to 20/25 with -2.00 D. The cornea is clear, the anterior chamber is shallow, and there is a large space between the intraocular lens and the posterior capsule. Intraocular pressure is 14 mm Hg. Which of the following is the most appropriate?",
+  "options": {
+   "A": "IOL exchange",
+   "B": "IOL removal",
+   "C": "Anterior vitrectomy",
+   "D": "YAG capsulotomy"
+  },
+  "correctAnswer": "D",
+  "year": "2020",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 133,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_133.jpg",
+  "explanation": "Early postoperative capsular block syndrome may occur when residual ophthalmic viscosurgical device becomes trapped within the capsular bag, between the posterior capsule and the posterior surface of the IOL, causing a myopic shift in the refractive error from anterior displacement of the lens optic. Anterior displacement of the iris diaphragm with shallowing of the anterior chamber may also occur, which must be differentiated from a ciliary block mechanism. If left untreated, it may lead to posterior synechiae and secondary glaucoma. Nd:YAG laser anterior capsulotomy peripheral to the optic, or posterior capsulotomy, releases the trapped fluid, with resultant posterior movement of the IOL optic to its intended position, deepening of the anterior chamber, and resolution of the myopic shift.  Reference: BCSC Lens & Cataract",
+  "sourceNote": "Margin note names the entity: capsular block syndrome."
+ },
+ {
+  "id": 5,
+  "source": "promotion-2020",
+  "question": "A 21-year-old man with keratoconus was scheduled for corneal cross-linking. His medical records revealed a long history of vernal keratoconjunctivitis. Which of the following carries a high risk of corneal damage?",
+  "options": {
+   "A": "Anterior surface elevation more than 15 µm",
+   "B": "Corneal thickness less than 400 µm",
+   "C": "Keratometry readings more than 58 dioptres",
+   "D": "Posterior surface elevation more than 50 µm"
+  },
+  "correctAnswer": "B",
+  "year": "2020",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 134,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_134.jpg",
+  "explanation": "Contraindications to the standard cross-linking protocol include a corneal thickness of less than 400 microns, prior herpetic infection because it may result in viral reactivation, concurrent infection, severe corneal scarring or opacification, a history of poor epithelial wound healing, severe ocular surface disease such as dry eye, and autoimmune disorders.  Reference: eyewiki"
+ },
+ {
+  "id": 6,
+  "source": "promotion-2020",
+  "question": "A 33-year-old man presented with bilateral tearing and redness in both eyes of 2 days duration. He was suspected of having an ocular infection. Which of the following supports infectious etiology?",
+  "options": {
+   "A": "Trantas dots",
+   "B": "Follicular reaction",
+   "C": "Papillary reaction",
+   "D": "Perilimbal infiltrates"
+  },
+  "correctAnswer": "B",
+  "year": "2020",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 134,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_134.jpg",
+  "sourceNote": "Margin notes: Trantas dots point to vernal keratoconjunctivitis, and a papillary reaction to allergy."
+ },
+ {
+  "id": 7,
+  "source": "promotion-2020",
+  "question": "A 7-year-old boy presented with itching and redness in both eyes of 6 months duration. Recently, he complained of foreign body sensation in his left eye. Ocular examination revealed the following (see image). Which of the following is the most likely cause of this clinical appearance?",
+  "options": {
+   "A": "Monocytic infiltrates",
+   "B": "Neutrophilic infiltrates",
+   "C": "Eosinophilic infiltrates",
+   "D": "Lymphocytic infiltrates"
+  },
+  "correctAnswer": "C",
+  "year": "2020",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 134,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_134.jpg",
+  "sourceNote": "Margin notes read \"limbal VKC\" and refer to Horner-Trantas dots."
+ },
+ {
+  "id": 8,
+  "source": "promotion-2020",
+  "question": "A 50-year-old man presents to the clinic complaining of significant irritation of the eyes. He says he doesn't usually use drops of any kind but often has redness and irritation of the eyes, especially when it's windy outside. Which of the following tests will assess both basic and reflex tear production in this patient?",
+  "options": {
+   "A": "Schirmer I",
+   "B": "Tear film break up time",
+   "C": "Dye disappearance test",
+   "D": "Schirmer II"
+  },
+  "correctAnswer": "A",
+  "year": "2020",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 135,
+  "visionRead": true,
+  "keyFrom": "marked_in_image",
+  "pageScanUrl": "/images/promotion-pages/page_135.jpg",
+  "sourceNote": "Margin notes: Schirmer I measures basic plus reflex tearing; tear film break-up time is abnormal below 10 seconds; the dye disappearance test checks patency of the nasolacrimal duct; Schirmer II measures reflex tearing only."
+ },
+ {
+  "id": 9,
+  "source": "promotion-2020",
+  "question": "A 78-year-old man had uncomplicated cataract surgery. 1 day after surgery, his visual acuity was 20/400, and diffuse corneal edema was noted on examination. An anterior segment OCT image was obtained (see image). What is the most likely diagnosis?",
+  "options": {
+   "A": "Reposition the IOL",
+   "B": "Inject air into the anterior chamber",
+   "C": "Perform a tap and inject antibiotics into the vitreous",
+   "D": "Remove the retained nuclear fragment from the anterior chamber"
+  },
+  "correctAnswer": "B",
+  "year": "2020",
+  "subspecialty": "Anterior Segment",
+  "pdfPage": 135,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_135.jpg",
+  "explanation": "Reference: Ophtho question",
+  "sourceNote": "The source's stem asks for a diagnosis while the choices are managements — reproduced as written. The anterior segment OCT shows a Descemet membrane detachment."
+ },
+ {
+  "id": 10,
+  "source": "promotion-2020",
+  "question": "A 42-year-old woman presented with a headache for the last 2-3 weeks. Her uncorrected visual acuity was 20/20 in each eye. Slit-lamp examination was normal with both eyes. Intraocular pressure was 18 mm Hg for each eye. Dilated fundus examination for the right eye revealed this picture. Which of the following is the most likely diagnosis?",
+  "options": {
+   "A": "Hypertensive retinopathy stage 2",
+   "B": "Sickle cell retinopathy",
+   "C": "Eales disease",
+   "D": "Background diabetic retinopathy with no macular edema"
+  },
+  "correctAnswer": "C",
+  "year": "2020",
+  "subspecialty": "Retina",
+  "pdfPage": 159,
+  "visionRead": true,
+  "keyFrom": "marked_in_image",
+  "pageScanUrl": "/images/promotion-pages/page_159.jpg",
+  "explanation": "Eales disease is a primary occlusive retinopathy of unknown cause. It usually presents in men aged 20-30 years, more commonly in those from India and the Middle East. It is a diagnosis of exclusion and is characterised by bilateral idiopathic retinal perivasculitis with peripheral nonperfusion and neovascularization. A sea-fan of peripheral neovascularization may be seen. Vascular sheathing is seen in about 80% of patients, and both arteries and veins may be involved. All patients have confluent peripheral nonperfusion with a sharply demarcated border between perfused and non-perfused peripheral retina. Neovascularization is typically seen at this border and is most commonly found in the temporal quadrant. Vitreous haemorrhage is the most common reason for visual loss, and traction retinal detachments may develop. Treatment is with laser photocoagulation to areas of nonperfused retina. Eales disease has been associated with tuberculin hypersensitivity.",
+  "sourceHint": "?",
+  "sourceNote": "Worth noting that the demographic in the stem, a 42-year-old woman, sits outside the classic Eales profile quoted in the explanation."
+ },
+ {
+  "id": 11,
+  "source": "promotion-2020",
+  "question": "An 80-year-old patient presented with redness and blurred vision 9 months after a successful, uncomplicated cataract surgery. VA was 20/30. Examination showed a few KPs and a Soemmering's ring-like cataract. Which of the following is most likely ruled out?",
+  "options": {
+   "A": "Posner-Schlossman syndrome",
+   "B": "Herpetic keratouveitis",
+   "C": "Fuchs Heterochromic Iridocyclitis",
+   "D": "Endophthalmitis"
+  },
+  "correctAnswer": "D",
+  "year": "2020",
+  "subspecialty": "Retina",
+  "pdfPage": 159,
+  "visionRead": true,
+  "keyFrom": "marked_in_image",
+  "pageScanUrl": "/images/promotion-pages/page_159.jpg",
+  "sourceHint": "?",
+  "sourceNote": "Margin note against endophthalmitis: pain, poor vision, hypopyon — none of which this patient has."
+ },
+ {
+  "id": 12,
+  "source": "promotion-2020",
+  "question": "A 35-year-old woman complained of pain in her left eye of 3 weeks duration. A review of systems revealed a history of recurrent attacks of epistaxis with no arthritis. The examination of her left eye revealed scleral injection. Laboratory workup revealed a negative Quantiferon-TB gold test. Fundus fluorescein angiography showed the following (see image). What is the serious posterior segment complication in this patient?",
+  "options": {
+   "A": "Vitreous hemorrhage",
+   "B": "Retinal artery macroaneurysm",
+   "C": "Inferior snowballs",
+   "D": "Macular edema"
+  },
+  "correctAnswer": "A",
+  "year": "2020",
+  "subspecialty": "Retina",
+  "pdfPage": 160,
+  "visionRead": true,
+  "keyFrom": "marked_in_image",
+  "pageScanUrl": "/images/promotion-pages/page_160.jpg",
+  "sourceHint": "?",
+  "sourceNote": "Margin note gives the diagnosis as granulomatosis with polyangiitis — epistaxis plus retinal vasculitis — with vitreous haemorrhage marked as the common complication."
+ },
+ {
+  "id": 13,
+  "source": "promotion-2020",
+  "question": "An 18-year-old presented following eye trauma from a fist fight. Examination confirms posterior vitreous detachment and vitreous hemorrhage. If retinal detachment occurs, after how long is it most likely to become symptomatic, in months?",
+  "options": {
+   "A": "22-24",
+   "B": "1-2",
+   "C": "5-6",
+   "D": "10-12"
+  },
+  "correctAnswer": "A",
+  "year": "2020",
+  "subspecialty": "Retina",
+  "pdfPage": 160,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_160.jpg",
+  "explanation": "Young vitreous has not yet undergone synchysis, or liquefaction. The vitreous therefore does not allow fluid movement through the retinal tears or dialyses. With time, however, the vitreous may liquefy over a tear, allowing fluid to pass through the break to detach the retina. The clinical presentation of the retinal detachment is thus usually delayed: 12% of detachments are identified immediately, 30% within 1 month, 50% within 8 months and 80% within 24 months. Traumatic detachments in young patients may be shallow and often show signs of chronicity, including multiple demarcation lines, subretinal deposits, and areas of intraretinal schisis.  Reference: AAO",
+  "sourceNote": "The source's option list had been mangled by a spreadsheet into dates — \"02-Jan\", \"06-May\", \"12-Oct\" — which are the ranges 1-2, 5-6 and 10-12 months. Restored here."
+ },
+ {
+  "id": 14,
+  "source": "promotion-2020",
+  "question": "A 32-year-old woman presents with ocular pain and photophobia for 1 week. Her visual acuity is 20/30 OU, and IOP is 50 mm Hg OU. Slit-lamp findings are presented below (see image). What is the most likely etiology of this patient's condition?",
+  "options": {
+   "A": "HLA-B27 related uveitis",
+   "B": "Fuchs heterochromic iridocyclitis",
+   "C": "Herpes uveitis",
+   "D": "Sarcoidosis"
+  },
+  "correctAnswer": "C",
+  "year": "2020",
+  "subspecialty": "Uveitis",
+  "pdfPage": 179,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_179.jpg",
+  "explanation": "Herpetic uveitis is generally associated with more inflammation and discomfort. Fuchs heterochromic iridocyclitis is more insidious, without episodic attacks of elevated IOP. The rest are not typically associated with high IOP.  Reference: Self-assessment, ophthoquestion",
+  "sourceNote": "The compiler marked this recall as a duplicate and wrote in the margin, in Arabic, that it is probably wrong — worth a second opinion before relying on the key."
+ },
+ {
+  "id": 15,
+  "source": "promotion-2020",
+  "question": "A 38-year-old man needed to be prescribed a penicillin injection. However, the patient reported penicillin allergy. Which of the following might the patient have cross-reactivity to?",
+  "options": {
+   "A": "Tetracyclines",
+   "B": "Sulfonamides",
+   "C": "Cephalosporins",
+   "D": "Fluoroquinolones"
+  },
+  "correctAnswer": "C",
+  "year": "2020",
+  "subspecialty": "Uveitis",
+  "pdfPage": 179,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_179.jpg",
+  "sourceNote": "Margin note against sulfonamides: those cross-react with carbonic anhydrase inhibitors, not with penicillin."
+ },
+ {
+  "id": 16,
+  "source": "promotion-2020",
+  "question": "A 33-year-old man complained of blurring of vision in both eyes for the last 3 months. Eye examination revealed 1+ cells in the anterior chamber and anterior vitreous cells in both eyes. The fundus examination revealed inferior snowballs. MRI brain was normal, and the tuberculin skin test was negative. OCT of the right macula was obtained (see image). What is the most appropriate initial management?",
+  "options": {
+   "A": "Intravitreal Avastin",
+   "B": "Intravitreal steroids",
+   "C": "Pars plana vitrectomy",
+   "D": "Oral steroids"
+  },
+  "correctAnswer": "D",
+  "year": "2020",
+  "subspecialty": "Uveitis",
+  "pdfPage": 180,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_180.jpg",
+  "explanation": "Intermediate uveitis is a chronic, relapsing disease of insidious onset in which the vitreous is the primary site of inflammation. Management is with systemic steroids; this modality is preferred over regional steroid by some practitioners if symptomatic inflammation is bilateral.  Reference: eyewiki, Kanski",
+  "sourceNote": "Margin notes contrast the two routes: bilateral disease takes oral steroids, unilateral disease takes intravitreal. The case is pars planitis with cystoid macular oedema."
+ },
+ {
+  "id": 17,
+  "source": "promotion-2020",
+  "question": "A 29-year-old man presented with a history of blurring of vision in both eyes of 6 months duration. He gave a history of recurrent tinnitus and whitening of scalp hair. Eye examination revealed bilateral mild anterior uveitis and hypopigmented fundi. General examination revealed lesions in his lower back (see image). Laboratory tests were unremarkable. Which of the following is the predominant type of cells affected in this condition?",
+  "options": {
+   "A": "Epithelial cells",
+   "B": "Melanocytes",
+   "C": "Endothelial cells",
+   "D": "Langerhans cells"
+  },
+  "correctAnswer": "B",
+  "year": "2020",
+  "subspecialty": "Uveitis",
+  "pdfPage": 181,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_181.jpg",
+  "explanation": "Reference: Kanski, ophthoquestion",
+  "sourceNote": "Margin note names the diagnosis: Vogt-Koyanagi-Harada disease. The exam interface shows this choice confirmed correct, not merely selected."
+ },
+ {
+  "id": 18,
+  "source": "promotion-2020",
+  "question": "A 32-year-old Nigerian presents with bilateral blurred vision. On examination, there are confluent yellow-white areas with associated flame-shaped hemorrhages in both eyes and perivascular sheathing, and her CD4 count is 42 (normal 500-1500 cells/ul) (see image). Which of the following is the most appropriate initial management?",
+  "options": {
+   "A": "Intravitreal acyclovir",
+   "B": "Panretinal photocoagulation",
+   "C": "Intravenous ganciclovir",
+   "D": "Intravenous methylprednisolone"
+  },
+  "correctAnswer": "C",
+  "year": "2020",
+  "subspecialty": "Uveitis",
+  "pdfPage": 181,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_181.jpg",
+  "sourceNote": "Margin note names the diagnosis, CMV retinitis, and marks the recall as a duplicate — it covers the same ground as the CMV management recall recorded under 2021."
+ },
+ {
+  "id": 19,
+  "source": "promotion-2020",
+  "question": "A 44-year-old man presents to the emergency room with right eye decreased vision following a motor vehicle accident in which he suffered blunt trauma to his right eye. On examination his IOP is 60 mm Hg OD and 18 mm Hg OS. Fundoscopic exam is significant for a vitreous hemorrhage. Paracentesis was performed, draining 0.4 ml of fluid from the anterior chamber, which contained cellular debris and macrophages leading to eventual buildup in the trabecular network. Which of the following types of glaucoma is the most likely diagnosis in this case?",
+  "options": {
+   "A": "Hemosiderotic",
+   "B": "Ghost cell",
+   "C": "Neovascular",
+   "D": "Hemolytic"
+  },
+  "correctAnswer": "D",
+  "year": "2020",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 197,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_197.jpg",
+  "explanation": "Hemolytic glaucoma is similar to ghost cell glaucoma except that in hemolytic glaucoma, macrophages phagocytize red cell debris and then occlude the trabecular meshwork. The macrophages appear as reddish cells in the aqueous and the trabecular meshwork has a reddish-brown discoloration. Ghost-cell glaucoma occurs in association with vitreous hemorrhage: red blood cells degenerate in the vitreous, migrate forward to the anterior chamber through a disrupted anterior hyaloid face, usually due to vitrectomy, cataract surgery or trauma, and then obstruct the trabecular meshwork. The degenerated cells appear as tan-coloured spheres known as ghost cells, which contain clumps of denatured haemoglobin, and are more rigid than normal red cells.  Reference: Self-assessment"
+ },
+ {
+  "id": 20,
+  "source": "promotion-2020",
+  "question": "A 58-year-old man presents with a two-day history of a red, painful right eye with reduced vision. He had a trabeculectomy for primary open angle glaucoma in this same eye six months ago. Examination confirms visual acuity of 20/20 in both eyes, an inflamed and milky bleb superiorly, and a hypopyon with no fundal views. Which of the following is most likely to be seen with a Gram stain of the vitreous fluid?",
+  "options": {
+   "A": "Gram positive cocci in chains",
+   "B": "Branching pseudohyphal forms",
+   "C": "Gram-positive rods",
+   "D": "Gram-negative coccobacilli"
+  },
+  "correctAnswer": "A",
+  "year": "2020",
+  "subspecialty": "Glaucoma",
+  "pdfPage": 197,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_197.jpg",
+  "explanation": "Reference: Self assessment",
+  "sourceNote": "Margin notes identify this as bleb-associated endophthalmitis, with streptococci as the organism."
+ },
+ {
+  "id": 21,
+  "source": "promotion-2020",
+  "question": "A 34-year-old patient presents to the clinic complaining of recent onset of double vision on the right gaze. Extraocular motility examination shows significant depression of the left eye on the right gaze with a limited elevation of the left eye on adduction. Forced ductions are positive when attempting to elevate the left eye in the right gaze. There is less restriction to an elevation of the left eye on the left gaze. Which of the following is the most likely next course of management?",
+  "options": {
+   "A": "Botulinum toxin injection into the superior rectus",
+   "B": "CT of the orbits and paranasal sinuses",
+   "C": "Superior oblique spacer",
+   "D": "Local steroid injection"
+  },
+  "correctAnswer": "B",
+  "year": "2020",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 216,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_216.jpg",
+  "explanation": "This clinical presentation is most consistent with Brown syndrome, whereby there is a restriction to elevation on adduction of the involved eye. Brown syndrome can be caused by a variety of problems with the tendon-trochlea complex, including sinusitis as in this case. CT of the orbits and sinuses is indicated to rule this possibility in or out, especially for an acute presentation of Brown syndrome.  Reference: Ophtha-question",
+  "sourceNote": "Margin note: Brown syndrome due to sinusitis."
+ },
+ {
+  "id": 22,
+  "source": "promotion-2020",
+  "question": "A slit-lamp examination of an 8-year-old boy shows pathognomonic iris lesions. Examination shows 12 discrete hyperpigmented macules on his back and chest areas (see image). Which of the following chromosomes contains the genetic locus that is responsible for this patient's likely systemic syndrome?",
+  "options": {
+   "A": "Chromosome 16",
+   "B": "Chromosome 9",
+   "C": "Chromosome 17",
+   "D": "Chromosome 22"
+  },
+  "correctAnswer": "C",
+  "year": "2020",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 216,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_216.jpg",
+  "explanation": "Reference: Self-assessment",
+  "sourceNote": "Margin notes identify the iris lesions as Lisch nodules and the syndrome as neurofibromatosis type 1."
+ },
+ {
+  "id": 23,
+  "source": "promotion-2020",
+  "question": "A 3-year-old boy presented with an outward deviation of his right eye for 2 months. Examination revealed a white cataract in the right eye. Left eye examination was within normal limits. Ultrasound B-scan of the right eye showed total retinal detachment with calcification. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Start on chemotherapy with or without radiotherapy",
+   "B": "Book for cataract extraction to evaluate the posterior segment",
+   "C": "Magnetic resonance imaging for the brain and orbit",
+   "D": "Vitreous tap for cytology"
+  },
+  "correctAnswer": "C",
+  "year": "2020",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 217,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_217.jpg",
+  "explanation": "Evaluation of a patient with presumed retinoblastoma requires imaging of the head and orbits, which can confirm the diagnosis and assess for extraocular extension and intracranial disease. Computed tomography is discouraged because of the possible increased risk of secondary tumours due to radiation exposure. Magnetic resonance imaging and ultrasonography are recommended. More invasive tests are reserved for atypical cases. Aspiration of ocular fluids for diagnostic testing should be performed only under the most unusual circumstances, because such procedures can disseminate malignant cells.  Reference: BCSC Pediatrics",
+  "sourceNote": "Margin note: retinoblastoma."
+ },
+ {
+  "id": 24,
+  "source": "promotion-2020",
+  "question": "A 4-year-old boy is brought by his parents due to the inward deviation of his left eye and diplopia. This deviation had started 3 days back. Examination revealed visual acuity was 20/20 both eyes. His extraocular motility was full in both eyes. He was having esotropia of 30 prism dioptres at near and distance. His cycloplegic refraction was +0.50. Both eyes and fundus examination were within normal limits. What is the most appropriate next step in his management?",
+  "options": {
+   "A": "Neuroimaging",
+   "B": "Give routine appointment in a pediatric neurology clinic",
+   "C": "Reassure the family and see the child in 6 weeks",
+   "D": "Prescribe +0.50 glasses both eyes"
+  },
+  "correctAnswer": "A",
+  "year": "2020",
+  "subspecialty": "Pediatrics",
+  "pdfPage": 217,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_217.jpg",
+  "explanation": "Because the onset of nonaccommodative esotropia in an older child may be a sign of an underlying neurologic disorder, neuroimaging and neurologic evaluation may be indicated, especially when other symptoms or signs of neurologic abnormality are present, such as lateral incomitance, deviation greater at distance than near, abnormal head position, or concomitant headache.  Reference: BCSC Pediatrics",
+  "sourceNote": "The compiler wrote \"Answer: I will go with A\" rather than a recalled key; the exam interface separately shows A confirmed correct. Margin note reads acute sixth nerve palsy."
+ },
+ {
+  "id": 25,
+  "source": "promotion-2020",
+  "question": "A 20-year-old man presented with an 8-day history of upper respiratory tract infection symptoms, headaches, photophobia, and progressive swelling around both eyes. Clinical examination revealed an oriented alert individual with a temperature of 39 °C and bilateral periorbital swelling. The vision was 20/30 in each eye. Initial ophthalmological examination revealed a dilated non-reactive pupil on the left side and a sluggish pupillary reflex on the right side. The patient also had a lateral rectus palsy of the left eye. Fundoscopy showed bilateral papilloedema. Ear, nose and throat examination revealed a rhinitic nasal mucosa with thick mucopus in the left middle meatus. Which of the following is the most likely diagnosis?",
+  "options": {
+   "A": "Panophthalmitis",
+   "B": "Orbital cellulitis",
+   "C": "Cavernous sinus thrombosis",
+   "D": "Epidural hematoma"
+  },
+  "correctAnswer": "C",
+  "year": "2020",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 235,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_235.jpg",
+  "explanation": "This patient appears to have an infectious process involving multiple cranial nerves. The upgaze and adduction deficits are concerning for a third nerve palsy, and the abduction deficit is likely due to a sixth nerve palsy. Hypaesthesia of the forehead is attributable to V1 involvement and hypaesthesia of the cheek maps to V2. This combination suggests cavernous sinus syndrome. Since optic nerve function appears intact, with good visual acuity and no afferent pupillary defect, the process is likely not involving the orbital apex. Cavernous sinus thrombosis is distinguished from orbital cellulitis by its source in the nose, sinuses, orbit, ear or pharynx, its abrupt onset with chills and rigors, present toxaemia, bilateral involvement, bilateral lid oedema with chemosis and proptosis, and cranial nerve involvement that is individual and sequential.  Reference: Kanski",
+  "sourceNote": "The compiler's own reasoning: both eyes affected and involvement of the sixth nerve both point to C."
+ },
+ {
+  "id": 26,
+  "source": "promotion-2020",
+  "question": "A 67-year-old woman was brought to the Emergency Department after falling down the stairs. She had multiple injuries including pan-facial fractures. Her ocular examination confirmed right eye proptosis with tight eyelids, but the globe could be seen with 360 degree subconjunctival hemorrhage, round pupil with no signs of globe rupture. The intraocular pressure in the right eye was 48 mm Hg. Due to the high suspicion of retrobulbar hemorrhage, the patient underwent a successful canthotomy and inferior cantholysis. Following the procedure, the intraocular pressure was 44 mm Hg. Which of the following is the most appropriate next step in management?",
+  "options": {
+   "A": "Start brimonidine and recheck pressure tomorrow",
+   "B": "Superior cantholysis",
+   "C": "Start Diamox and check the pressure in an hour",
+   "D": "Anterior chamber paracentesis"
+  },
+  "correctAnswer": "B",
+  "year": "2020",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 236,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_236.jpg",
+  "explanation": "Reference: Ophtho question"
+ },
+ {
+  "id": 27,
+  "source": "promotion-2020",
+  "question": "A five-year-old underwent a biopsy of a lower lid lesion she has had since birth. Examination of the specimen confirms a keratin-filled cavity within the dermis (red arrow) lined by keratinized stratified squamous epithelium (green arrow) (see image). Which of the following is the most likely diagnosis?",
+  "options": {
+   "A": "Squamous cell papilloma",
+   "B": "Chalazion",
+   "C": "Keratoacanthoma",
+   "D": "Epidermoid cyst"
+  },
+  "correctAnswer": "D",
+  "year": "2020",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 236,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_236.jpg",
+  "explanation": "Epidermoid cysts, also called epidermal inclusion cysts, are common in the eyelids and can arise spontaneously or as a result of traumatic laceration or surgical incision that entraps epidermis beneath the skin surface. These cysts are often round or oval and may be filled with a foul-smelling keratin debris. Histologic sections show that these are lined with stratified squamous keratinizing epithelium and contain keratin.  Reference: Self assessment",
+  "sourceNote": "The compiler marked this recall as a duplicate."
+ },
+ {
+  "id": 28,
+  "source": "promotion-2020",
+  "question": "A 2-year-old African boy is brought to the outpatient clinic by his parents for consultation. The boy is fair skinned with yellow, kinky hair and grey eyes with horizontal nystagmus. The mother reports that both she and the father do not share these features, but her husband has a brother with similar features. The mother is 7 months pregnant and asks what the chances are that her baby will have the same condition?",
+  "options": {
+   "A": "50%",
+   "B": "<1%",
+   "C": "25%",
+   "D": "75%"
+  },
+  "correctAnswer": "C",
+  "year": "2020",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 237,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_237.jpg",
+  "explanation": "Oculocutaneous albinism is inherited in an autosomal recessive pattern, so two unaffected carrier parents have a 25% chance of an affected child with each pregnancy.  Reference: eyewiki"
+ },
+ {
+  "id": 29,
+  "source": "promotion-2020",
+  "question": "The optic canal transmits the optic nerve from the orbit into the intracranial cavity. Which of the following bones is included in this pathway?",
+  "options": {
+   "A": "Palatine",
+   "B": "Sphenoid",
+   "C": "Ethmoid",
+   "D": "Temporal"
+  },
+  "correctAnswer": "B",
+  "year": "2020",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 237,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_237.jpg",
+  "explanation": "Reference: Ophtho question"
+ },
+ {
+  "id": 30,
+  "source": "promotion-2020",
+  "question": "Which of the following muscles is responsible for the vertical glabellar rhytids?",
+  "options": {
+   "A": "Procerus",
+   "B": "Corrugator supercilii",
+   "C": "Frontalis",
+   "D": "Orbicularis oculi"
+  },
+  "correctAnswer": "B",
+  "year": "2020",
+  "subspecialty": "Oculoplastics",
+  "pdfPage": 237,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_237.jpg",
+  "explanation": "The frontalis causes transverse or horizontal forehead wrinkles. The corrugator causes vertical wrinkles between the eyebrows; this can be remembered because corrugated roofs also have vertical wrinkles. The procerus depresses the heads of the eyebrows and causes horizontal wrinkles just inferior to the heads of the brows. The orbicularis oculi causes wrinkles around the eye, perpendicular to the direction the muscle fibres travel; these tend to be most pronounced at the outer corners of the eyes, forming what are commonly referred to as crow's feet.  Reference: Ophtho question"
+ },
+ {
+  "id": 31,
+  "source": "promotion-2020",
+  "question": "A 15-year-old girl is brought to the emergency department by her concerned parents about her sudden onset of bilateral loss of vision. Her neurological and ophthalmic examinations are unremarkable. Which of the following criteria will confirm the diagnosis of non-organic vision loss?",
+  "options": {
+   "A": "Abnormal proprioceptive tests, including the finger-touching test",
+   "B": "Absence of relative afferent pupillary defect",
+   "C": "No eye movement with the mirror test",
+   "D": "Eye movement with rotation of an optokinetic drum"
+  },
+  "correctAnswer": "D",
+  "year": "2020",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 263,
+  "visionRead": true,
+  "keyFrom": "marked_in_image",
+  "pageScanUrl": "/images/promotion-pages/page_263.jpg",
+  "explanation": "The optokinetic drum can be used to elicit optokinetic nystagmus in the viewer's eye; there is usually smooth pursuit with a refixation saccade. In a patient who claims to be unilaterally or bilaterally blind, to the extent of hand motions or worse, eliciting a nystagmus with the optokinetic drum establishes a vision of at least 20/400.  Reference: touchOPHTHALMOLOGY, non-organic vision loss",
+  "sourceHint": "E",
+  "sourceNote": "The recall offers only four choices, A to D, so the letter E matches nothing; the key here is the fourth choice, the one ticked in the screenshot. The compiler also marked this recall as a duplicate."
+ },
+ {
+  "id": 32,
+  "source": "promotion-2020",
+  "question": "A 60-year-old woman presents with recent onset horizontal diplopia. Examination revealed her visual acuity is 20/20 OU, and her pupillary exam is normal. The examination shows 25 prism dioptres of exotropia in the primary gaze (Figure A). Horizontal movement on right gaze is shown in Figure B and on left gaze in Figure C. Her vertical gaze movements are normal. Her medical history is significant for a recent stroke (see images). A lesion of which of the following structures is the most likely cause of the patient's syndrome?",
+  "options": {
+   "A": "Pons",
+   "B": "Cerebellum",
+   "C": "Midbrain",
+   "D": "Thalamus"
+  },
+  "correctAnswer": "C",
+  "year": "2020",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 264,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_264.jpg",
+  "explanation": "A large-angle exodeviation may occur in bilateral internuclear ophthalmoplegia, the so-called wall-eyed bilateral INO, and is often caused by a midbrain lesion near the third nerve nuclei.  Reference: Self-assessment",
+  "sourceNote": "Margin note: bilateral internuclear ophthalmoplegia."
+ },
+ {
+  "id": 33,
+  "source": "promotion-2020",
+  "question": "Which of the following most likely describes the O'Brien anesthesia?",
+  "options": {
+   "A": "Injection is given closer to the eye than the Atkinson block",
+   "B": "No risk of dysphagia or vocal cord paralysis",
+   "C": "One of the methods of facial block anesthesia",
+   "D": "Considered slightly weaker in akinesia than the Van Lint method"
+  },
+  "correctAnswer": "C",
+  "year": "2020",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 264,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_264.jpg",
+  "explanation": "It is one of the techniques for facial nerve block.",
+  "sourceNote": "The compiler marked this recall as a duplicate."
+ },
+ {
+  "id": 34,
+  "source": "promotion-2020",
+  "question": "A 76-year-old diabetic man presents with acute diplopia on up-gaze. Examination confirms partial left ptosis and, upon looking up-gaze, the left eye elevates only half way. The rest of the examination is normal including extraocular motility in the other gaze positions and pupil reaction. Where is the most likely site of the lesion?",
+  "options": {
+   "A": "Angle between posterior communicating and internal carotid arteries",
+   "B": "Cavernous sinus",
+   "C": "Orbital apex",
+   "D": "Brainstem"
+  },
+  "correctAnswer": "D",
+  "year": "2020",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 265,
+  "visionRead": true,
+  "keyFrom": "text",
+  "pageScanUrl": "/images/promotion-pages/page_265.jpg",
+  "explanation": "The picture is a partial left third nerve palsy with an upgaze deficit and a spared pupil. A midbrain infarction damaging the third nerve nucleus and fascicle can produce this: because the subnucleus for the right superior rectus sits on the left side, it would be injured as well, and neither eye can elevate.",
+  "sourceHint": "D ???",
+  "sourceNote": "Option C is separately circled and ticked in red while the answer line reads D. Two different answers are marked on the page, so check this one before relying on it."
+ },
+ {
+  "id": 35,
+  "source": "promotion-2020",
+  "question": "Ischemic optic neuropathy is one of the ocular emergencies. Which of the following describes this entity?",
+  "options": {
+   "A": "Migraine is not a risk factor",
+   "B": "Signs include loss of vision or field, afferent pupillary defect, and an abnormal-looking optic nerve",
+   "C": "Posterior type is more common than anterior ischemic optic neuropathy",
+   "D": "Low vitamin B12 is a risk factor for non-arteritic anterior ischemic optic neuropathy"
+  },
+  "correctAnswer": "B",
+  "year": "2020",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 265,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_265.jpg",
+  "explanation": "Symptoms are sudden painless monocular visual loss, frequently discovered on awakening, suggesting that nocturnal hypotension may play a role. Visual acuity is normal or only slightly reduced in about 30% of cases; the remainder have moderate to severe impairment. Visual field defects are typically inferior altitudinal, but central, paracentral, quadrantic and arcuate defects may also be seen.  Reference: Kanski"
+ },
+ {
+  "id": 36,
+  "source": "promotion-2020",
+  "question": "A 32-year-old woman presents complaining of blurred vision in her right eye with retro-orbital pain. Examination of the retina reveals flame hemorrhages and edema. The patient is treated with systemic corticosteroids and her symptoms resolve, but two months later she develops ataxia with weakness and paresthesias in her extremities. A lumbar puncture is performed on the patient. Which of the following findings is most likely detected in her CSF sample?",
+  "options": {
+   "A": "Predominant neutrophils",
+   "B": "Decreased glucose",
+   "C": "Gram positive cocci",
+   "D": "Oligoclonal bands"
+  },
+  "correctAnswer": "D",
+  "year": "2020",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 266,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_266.jpg",
+  "explanation": "Oligoclonal bands represent the most sensitive and specific marker of intrathecal synthesis of IgG and IgM immunoglobulins, which takes place in the central nervous system in different pathologies including demyelinating diseases, autoimmune systemic diseases and CNS infections among others."
+ },
+ {
+  "id": 37,
+  "source": "promotion-2020",
+  "question": "Manipulation of which of the following rectus muscles is most likely to result in the oculocardiac reflex?",
+  "options": {
+   "A": "Lateral",
+   "B": "Medial",
+   "C": "Superior",
+   "D": "Inferior"
+  },
+  "correctAnswer": "B",
+  "year": "2020",
+  "subspecialty": "Neuro-Ophthalmology",
+  "pdfPage": 266,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_266.jpg",
+  "explanation": "The oculocardiac reflex is a reflex resulting in severe bradycardia caused by traction applied to the extraocular muscles, especially the medial rectus muscle.",
+  "sourceNote": "The compiler marked this recall as a duplicate."
+ },
+ {
+  "id": 38,
+  "source": "promotion-2020",
+  "question": "A patient has a refractive error of +4.00 -5.25 cylinder axis 180 degrees. What is the prescription in the plus cylinder?",
+  "options": {
+   "A": "-4.00 +5.25 x 90 degrees",
+   "B": "-1.25 +5.25 x 180 degrees",
+   "C": "-1.25 +5.25 x 90 degrees",
+   "D": "-4.00 +5.25 x 180 degrees"
+  },
+  "correctAnswer": "C",
+  "year": "2020",
+  "subspecialty": "Optics",
+  "pdfPage": 279,
+  "visionRead": true,
+  "keyFrom": "both",
+  "pageScanUrl": "/images/promotion-pages/page_279.jpg",
+  "explanation": "To transpose: change the axis by 90 degrees, change the sign of the cylinder, and combine the sphere with the cylinder. Here the axis 180 becomes 90, the cylinder -5.25 becomes +5.25, and the sphere +4.00 combined with -5.25 gives -1.25, so the plus-cylinder form is -1.25 +5.25 x 90.  Reference: Subjective refraction lecture"
+ }
+]

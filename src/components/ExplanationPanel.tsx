@@ -310,6 +310,41 @@ export default function ExplanationPanel({ question, wasCorrect, selectedAnswer,
       {(question.pageScanUrl || (question.referenceLinks && question.referenceLinks.length > 0)) && (
         <>
           <SectionLabel>Check the source yourself</SectionLabel>
+          {/* Where this question and its key actually came from. These recalls
+              were pasted in as screenshots, so the page is the evidence. */}
+          {question.visionRead && (
+            <div className="mb-2.5 flex flex-col gap-1.5">
+              <p className="text-xs leading-relaxed" style={{ color: "var(--text-muted)" }}>
+                The source pasted this question in as a screenshot, with no text version, so it was
+                read off the page itself.
+                {question.keyFrom === "marked_in_image" &&
+                  " The key is the choice ticked in that screenshot — the compiler never wrote an answer out."}
+                {question.keyFrom === "text" &&
+                  " The key is the answer the compiler wrote out."}
+              </p>
+              {question.sourceHint !== undefined && (
+                <p
+                  className="text-xs leading-relaxed px-2.5 py-1.5"
+                  style={{ backgroundColor: "var(--warning-bg)", color: "var(--text-secondary)" }}
+                >
+                  {question.sourceHint === ""
+                    ? "The compiler left the answer line empty — treat this key as unconfirmed."
+                    : `Where the answer should be, the compiler wrote “${question.sourceHint}” — treat this key as unconfirmed.`}
+                </p>
+              )}
+              {question.authoredDistractors && (
+                <p className="text-xs leading-relaxed" style={{ color: "var(--text-muted)" }}>
+                  The source recorded only the correct answer here. The three wrong options were
+                  written for this bank, so they are not what the exam offered.
+                </p>
+              )}
+              {question.sourceNote && (
+                <p className="text-xs leading-relaxed italic" style={{ color: "var(--text-muted)" }}>
+                  {question.sourceNote}
+                </p>
+              )}
+            </div>
+          )}
           {question.pageScanUrl && (
             <a
               href={question.pageScanUrl}

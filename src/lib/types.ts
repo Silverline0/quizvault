@@ -43,6 +43,24 @@ export interface Question {
   reviewConcern?: string;
   /** What the source compiler wrote where an answer should have been. */
   sourceHint?: string;
+  /**
+   * Read off the source page rather than its text layer. The older sections of
+   * the recall document paste each question in as a screenshot — stem and
+   * choices inside an image — so there is nothing for a text parser to find.
+   */
+  visionRead?: boolean;
+  /**
+   * Where this key came from. "marked_in_image" means only the tick in the exam
+   * screenshot says which choice is right; the compiler never wrote it out.
+   */
+  keyFrom?: "text" | "marked_in_image" | "both";
+  /**
+   * The source recorded only the correct answer, so the wrong options were
+   * written for this bank. The key is still the source's.
+   */
+  authoredDistractors?: boolean;
+  /** What the compiler wrote in the margin, kept where it aids the reader. */
+  sourceNote?: string;
 }
 
 /**

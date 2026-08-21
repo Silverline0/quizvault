@@ -1,0 +1,116 @@
+[
+{
+  "page": 196, "year": "2021",
+  "note": "The \"2020:\" header sits at the FOOT of this page — everything above it is 2021.",
+  "questions": [
+    {
+      "stem": "An elderly diabetic woman has occasional unilateral blurry vision with halos around lights, and pain. All examination is normal: intraocular pressure is normal and there are no proliferative diabetic retinopathy findings. What is the gonioscopy finding?",
+      "options": {
+        "A": "Peripheral anterior synechiae",
+        "B": "Narrow angle",
+        "C": "Neovascularization of the angle"
+      },
+      "answer": "B", "answerSource": "both", "needsFigure": false,
+      "explanation": "This patient might have had previous attacks of angle closure. Subacute intermittent angle-closure glaucoma is frequently asymptomatic but may present with various symptoms, including frequent headaches and intermittent episodes of blurry vision, halos and eye pain. Gonioscopy is the most helpful test because it is the only one that can identify angle closure and lead to the treatment of choice, laser peripheral iridotomy. Tonometry and pachymetry can provide useful information but are not diagnostic for angle closure.",
+      "compilerNote": "The compiler recorded three options, not four. The explanation is drawn from a related self-assessment item pasted beside the recall, which asks which diagnostic test is most important rather than what gonioscopy shows — a different question, so it is not published separately."
+    },
+    {
+      "stem": "What is the management of aqueous misdirection that is not responsive to topical treatment?",
+      "options": {
+        "A": "YAG laser anterior hyaloidotomy",
+        "B": "Laser peripheral iridotomy",
+        "C": "Topical pilocarpine four times daily",
+        "D": "Trabeculectomy with mitomycin C"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "Surgical interventions for aqueous misdirection not responding to medications, which are atropine and phenylephrine, systemic carbonic anhydrase inhibitors, topical beta-blockers or alpha-2 agonists and hyperosmotic agents: YAG laser disruption of the anterior hyaloid face and posterior capsule if aphakic or pseudophakic, and if phakic it may be attempted through a pre-existing large peripheral iridotomy; vitrectomy and reformation of the anterior chamber with rupture of the anterior hyaloid face; lensectomy with disruption of the anterior hyaloid, or vitrectomy; argon laser of the ciliary processes.",
+      "compilerNote": "The source recorded only the correct answer. The three wrong options were written for this bank."
+    },
+    {
+      "stem": "What is the benefit of implanting an intraocular lens in an aphakic patient?",
+      "options": {
+        "A": "Prevents cystoid macular oedema",
+        "B": "Prevents retinal detachment"
+      },
+      "answer": "B", "answerSource": "text", "sourceAnswerText": "B?", "needsFigure": false,
+      "compilerNote": "The compiler highlighted this recall in red and wrote the answer as \"B?\" — they were not sure. Treat the key as unconfirmed."
+    },
+    {
+      "stem": "A patient has high intraocular pressure not controlled with medications after treatment for melanoma. What is the treatment?",
+      "options": {
+        "A": "Trabeculectomy",
+        "B": "Glaucoma drainage implant",
+        "C": "Transscleral cyclophotocoagulation"
+      },
+      "answer": "C", "answerSource": "marked_in_image", "sourceAnswerText": "", "needsFigure": false,
+      "compilerNote": "Option C was added by hand in the margin and appears to be the compiler's leaning rather than a recalled key."
+    }
+  ]
+},
+{
+  "page": 197, "year": "2020",
+  "questions": [
+    {
+      "stem": "A 58-year-old man presents with a two-day history of a red, painful right eye with reduced vision. He had a trabeculectomy for primary open angle glaucoma in this same eye six months ago. Examination confirms visual acuity of 20/20 in both eyes, an inflamed and milky bleb superiorly, and a hypopyon with no fundal views. Which of the following is most likely to be seen with a Gram stain of the vitreous fluid?",
+      "options": {
+        "A": "Gram positive cocci in chains",
+        "B": "Branching pseudohyphal forms",
+        "C": "Gram-positive rods",
+        "D": "Gram-negative coccobacilli"
+      },
+      "answer": "A", "answerSource": "both", "needsFigure": false,
+      "reference": "Self assessment",
+      "compilerNote": "Margin notes identify this as bleb-associated endophthalmitis, with streptococci as the organism."
+    },
+    {
+      "stem": "A 44-year-old man presents to the emergency room with right eye decreased vision following a motor vehicle accident in which he suffered blunt trauma to his right eye. On examination his IOP is 60 mm Hg OD and 18 mm Hg OS. Fundoscopic exam is significant for a vitreous hemorrhage. Paracentesis was performed, draining 0.4 ml of fluid from the anterior chamber, which contained cellular debris and macrophages leading to eventual buildup in the trabecular network. Which of the following types of glaucoma is the most likely diagnosis in this case?",
+      "options": {
+        "A": "Hemosiderotic",
+        "B": "Ghost cell",
+        "C": "Neovascular",
+        "D": "Hemolytic"
+      },
+      "answer": "D", "answerSource": "both", "needsFigure": false,
+      "explanation": "Hemolytic glaucoma is similar to ghost cell glaucoma except that in hemolytic glaucoma, macrophages phagocytize red cell debris and then occlude the trabecular meshwork. The macrophages appear as reddish cells in the aqueous and the trabecular meshwork has a reddish-brown discoloration. Ghost-cell glaucoma occurs in association with vitreous hemorrhage: red blood cells degenerate in the vitreous, migrate forward to the anterior chamber through a disrupted anterior hyaloid face, usually due to vitrectomy, cataract surgery or trauma, and then obstruct the trabecular meshwork. The degenerated cells appear as tan-coloured spheres known as ghost cells, which contain clumps of denatured haemoglobin, and are more rigid than normal red cells.",
+      "reference": "Self-assessment"
+    }
+  ]
+},
+{
+  "page": 215, "year": "2021",
+  "note": "The \"2020:\" header sits at the FOOT of this page — everything above it is 2021. The page opens with a retinoblastoma inheritance chart that is the explanation for a question on page 214.",
+  "orphanFragment": {
+    "reason": "An option block printed with no stem — the stem sits on page 214. Options were A: +3/-3 x 180, B: same but x 90, C: +1/-3 x 180, D: or 90; answer C. The compiler notes this recall was repeated in 2023.",
+    "needsPage": 214
+  },
+  "questions": [
+    {
+      "stem": "A patient has difficulty while reading. Which muscle is responsible?",
+      "options": {
+        "A": "Right superior oblique",
+        "B": "Left superior oblique",
+        "C": "Right inferior rectus",
+        "D": "Left inferior oblique"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "reference": "Dr. Mohannad Altobaigi",
+      "compilerNote": "The source recorded only the correct answer, right superior oblique, with a margin note that reading is a down-and-left gaze task. The three wrong options were written for this bank."
+    },
+    {
+      "stem": "An amblyopic patient has a refractive error. What is the management?",
+      "options": {
+        "A": "Cycloplegic refraction and patching",
+        "B": "Observation with repeat refraction in one year",
+        "C": "Immediate strabismus surgery",
+        "D": "Occlusion therapy without refractive correction"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "reference": "Dr. Mohannad Altobaigi",
+      "compilerNote": "The source recorded only the correct answer. The three wrong options were written for this bank."
+    }
+  ]
+}
+]

@@ -1,0 +1,63 @@
+[
+{
+  "page": 216, "year": "2020",
+  "questions": [
+    {
+      "stem": "A slit-lamp examination of an 8-year-old boy shows pathognomonic iris lesions. Examination shows 12 discrete hyperpigmented macules on his back and chest areas (see image). Which of the following chromosomes contains the genetic locus that is responsible for this patient's likely systemic syndrome?",
+      "options": {
+        "A": "Chromosome 16",
+        "B": "Chromosome 9",
+        "C": "Chromosome 17",
+        "D": "Chromosome 22"
+      },
+      "answer": "C", "answerSource": "both", "needsFigure": true,
+      "reference": "Self-assessment",
+      "compilerNote": "Margin notes identify the iris lesions as Lisch nodules and the syndrome as neurofibromatosis type 1."
+    },
+    {
+      "stem": "A 34-year-old patient presents to the clinic complaining of recent onset of double vision on the right gaze. Extraocular motility examination shows significant depression of the left eye on the right gaze with a limited elevation of the left eye on adduction. Forced ductions are positive when attempting to elevate the left eye in the right gaze. There is less restriction to an elevation of the left eye on the left gaze. Which of the following is the most likely next course of management?",
+      "options": {
+        "A": "Botulinum toxin injection into the superior rectus",
+        "B": "CT of the orbits and paranasal sinuses",
+        "C": "Superior oblique spacer",
+        "D": "Local steroid injection"
+      },
+      "answer": "B", "answerSource": "both", "needsFigure": false,
+      "explanation": "This clinical presentation is most consistent with Brown syndrome, whereby there is a restriction to elevation on adduction of the involved eye. Brown syndrome can be caused by a variety of problems with the tendon-trochlea complex, including sinusitis as in this case. CT of the orbits and sinuses is indicated to rule this possibility in or out, especially for an acute presentation of Brown syndrome.",
+      "reference": "Ophtha-question",
+      "compilerNote": "Margin note: Brown syndrome due to sinusitis."
+    }
+  ]
+},
+{
+  "page": 217, "year": "2020",
+  "questions": [
+    {
+      "stem": "A 4-year-old boy is brought by his parents due to the inward deviation of his left eye and diplopia. This deviation had started 3 days back. Examination revealed visual acuity was 20/20 both eyes. His extraocular motility was full in both eyes. He was having esotropia of 30 prism dioptres at near and distance. His cycloplegic refraction was +0.50. Both eyes and fundus examination were within normal limits. What is the most appropriate next step in his management?",
+      "options": {
+        "A": "Neuroimaging",
+        "B": "Give routine appointment in a pediatric neurology clinic",
+        "C": "Reassure the family and see the child in 6 weeks",
+        "D": "Prescribe +0.50 glasses both eyes"
+      },
+      "answer": "A", "answerSource": "both", "needsFigure": false,
+      "explanation": "Because the onset of nonaccommodative esotropia in an older child may be a sign of an underlying neurologic disorder, neuroimaging and neurologic evaluation may be indicated, especially when other symptoms or signs of neurologic abnormality are present, such as lateral incomitance, deviation greater at distance than near, abnormal head position, or concomitant headache.",
+      "reference": "BCSC Pediatrics",
+      "compilerNote": "The compiler wrote \"Answer: I will go with A\" rather than a recalled key; the exam interface separately shows A confirmed correct. Margin note reads acute sixth nerve palsy."
+    },
+    {
+      "stem": "A 3-year-old boy presented with an outward deviation of his right eye for 2 months. Examination revealed a white cataract in the right eye. Left eye examination was within normal limits. Ultrasound B-scan of the right eye showed total retinal detachment with calcification. What is the most appropriate next step in management?",
+      "options": {
+        "A": "Start on chemotherapy with or without radiotherapy",
+        "B": "Book for cataract extraction to evaluate the posterior segment",
+        "C": "Magnetic resonance imaging for the brain and orbit",
+        "D": "Vitreous tap for cytology"
+      },
+      "answer": "C", "answerSource": "both", "needsFigure": false,
+      "explanation": "Evaluation of a patient with presumed retinoblastoma requires imaging of the head and orbits, which can confirm the diagnosis and assess for extraocular extension and intracranial disease. Computed tomography is discouraged because of the possible increased risk of secondary tumours due to radiation exposure. Magnetic resonance imaging and ultrasonography are recommended. More invasive tests are reserved for atypical cases. Aspiration of ocular fluids for diagnostic testing should be performed only under the most unusual circumstances, because such procedures can disseminate malignant cells.",
+      "reference": "BCSC Pediatrics",
+      "compilerNote": "Margin note: retinoblastoma."
+    }
+  ]
+}
+]

@@ -1,0 +1,141 @@
+[
+{
+  "page": 263, "year": "2020",
+  "note": "The page opens with the tail of the 2021 section — an explanation for a question on page 262, and a short-answer recall on distinguishing orbital apex from cavernous sinus. The \"2020:\" header then falls mid-page.",
+  "questions": [
+    {
+      "stem": "What distinguishes an orbital apex syndrome from a cavernous sinus syndrome?",
+      "options": {
+        "A": "Optic nerve involvement",
+        "B": "Involvement of the maxillary division of the trigeminal nerve",
+        "C": "A complete third nerve palsy",
+        "D": "Proptosis without ophthalmoplegia"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "year": "2021",
+      "authoredDistractors": true,
+      "explanation": "Suspect a cavernous sinus syndrome when there is simultaneous involvement of unilateral cranial nerves III, IV, V and VI and the sympathetic nerves. A cavernous sinus lesion is distinguished from superior orbital fissure pathology by involvement of the maxillary branch of the trigeminal nerve, V2, which passes through the cavernous sinus but not the superior orbital fissure and leaves the skull through the foramen rotundum. An orbital apex syndrome is distinguished from both by optic nerve involvement together with other orbital signs.",
+      "reference": "Neuro-ophthalmology oral file",
+      "compilerNote": "This recall sits above the 2020 header and belongs to 2021. The source recorded only the correct answer; the three wrong options were written for this bank."
+    },
+    {
+      "stem": "A 15-year-old girl is brought to the emergency department by her concerned parents about her sudden onset of bilateral loss of vision. Her neurological and ophthalmic examinations are unremarkable. Which of the following criteria will confirm the diagnosis of non-organic vision loss?",
+      "options": {
+        "A": "Abnormal proprioceptive tests, including the finger-touching test",
+        "B": "Absence of relative afferent pupillary defect",
+        "C": "No eye movement with the mirror test",
+        "D": "Eye movement with rotation of an optokinetic drum"
+      },
+      "answer": "D", "answerSource": "marked_in_image", "sourceAnswerText": "E", "needsFigure": false,
+      "explanation": "The optokinetic drum can be used to elicit optokinetic nystagmus in the viewer's eye; there is usually smooth pursuit with a refixation saccade. In a patient who claims to be unilaterally or bilaterally blind, to the extent of hand motions or worse, eliciting a nystagmus with the optokinetic drum establishes a vision of at least 20/400.",
+      "reference": "touchOPHTHALMOLOGY, non-organic vision loss",
+      "compilerNote": "The recall offers only four choices, A to D, so the letter E matches nothing; the key here is the fourth choice, the one ticked in the screenshot. The compiler also marked this recall as a duplicate."
+    }
+  ]
+},
+{
+  "page": 264, "year": "2020",
+  "questions": [
+    {
+      "stem": "Which of the following most likely describes the O'Brien anesthesia?",
+      "options": {
+        "A": "Injection is given closer to the eye than the Atkinson block",
+        "B": "No risk of dysphagia or vocal cord paralysis",
+        "C": "One of the methods of facial block anesthesia",
+        "D": "Considered slightly weaker in akinesia than the Van Lint method"
+      },
+      "answer": "C", "answerSource": "both", "needsFigure": false,
+      "explanation": "It is one of the techniques for facial nerve block.",
+      "compilerNote": "The compiler marked this recall as a duplicate."
+    },
+    {
+      "stem": "A 60-year-old woman presents with recent onset horizontal diplopia. Examination revealed her visual acuity is 20/20 OU, and her pupillary exam is normal. The examination shows 25 prism dioptres of exotropia in the primary gaze (Figure A). Horizontal movement on right gaze is shown in Figure B and on left gaze in Figure C. Her vertical gaze movements are normal. Her medical history is significant for a recent stroke (see images). A lesion of which of the following structures is the most likely cause of the patient's syndrome?",
+      "options": {
+        "A": "Pons",
+        "B": "Cerebellum",
+        "C": "Midbrain",
+        "D": "Thalamus"
+      },
+      "answer": "C", "answerSource": "both", "needsFigure": true,
+      "explanation": "A large-angle exodeviation may occur in bilateral internuclear ophthalmoplegia, the so-called wall-eyed bilateral INO, and is often caused by a midbrain lesion near the third nerve nuclei.",
+      "reference": "Self-assessment",
+      "compilerNote": "Margin note: bilateral internuclear ophthalmoplegia."
+    }
+  ]
+},
+{
+  "page": 265, "year": "2020",
+  "questions": [
+    {
+      "stem": "Ischemic optic neuropathy is one of the ocular emergencies. Which of the following describes this entity?",
+      "options": {
+        "A": "Migraine is not a risk factor",
+        "B": "Signs include loss of vision or field, afferent pupillary defect, and an abnormal-looking optic nerve",
+        "C": "Posterior type is more common than anterior ischemic optic neuropathy",
+        "D": "Low vitamin B12 is a risk factor for non-arteritic anterior ischemic optic neuropathy"
+      },
+      "answer": "B", "answerSource": "both", "needsFigure": false,
+      "explanation": "Symptoms are sudden painless monocular visual loss, frequently discovered on awakening, suggesting that nocturnal hypotension may play a role. Visual acuity is normal or only slightly reduced in about 30% of cases; the remainder have moderate to severe impairment. Visual field defects are typically inferior altitudinal, but central, paracentral, quadrantic and arcuate defects may also be seen.",
+      "reference": "Kanski"
+    },
+    {
+      "stem": "A 76-year-old diabetic man presents with acute diplopia on up-gaze. Examination confirms partial left ptosis and, upon looking up-gaze, the left eye elevates only half way. The rest of the examination is normal including extraocular motility in the other gaze positions and pupil reaction. Where is the most likely site of the lesion?",
+      "options": {
+        "A": "Angle between posterior communicating and internal carotid arteries",
+        "B": "Cavernous sinus",
+        "C": "Orbital apex",
+        "D": "Brainstem"
+      },
+      "answer": "D", "answerSource": "text", "sourceAnswerText": "D ???", "needsFigure": false,
+      "explanation": "The picture is a partial left third nerve palsy with an upgaze deficit and a spared pupil. A midbrain infarction damaging the third nerve nucleus and fascicle can produce this: because the subnucleus for the right superior rectus sits on the left side, it would be injured as well, and neither eye can elevate.",
+      "compilerNote": "Option C is separately circled and ticked in red while the answer line reads D. Two different answers are marked on the page, so check this one before relying on it."
+    }
+  ]
+},
+{
+  "page": 266, "year": "2020",
+  "questions": [
+    {
+      "stem": "Manipulation of which of the following rectus muscles is most likely to result in the oculocardiac reflex?",
+      "options": {
+        "A": "Lateral",
+        "B": "Medial",
+        "C": "Superior",
+        "D": "Inferior"
+      },
+      "answer": "B", "answerSource": "both", "needsFigure": false,
+      "explanation": "The oculocardiac reflex is a reflex resulting in severe bradycardia caused by traction applied to the extraocular muscles, especially the medial rectus muscle.",
+      "compilerNote": "The compiler marked this recall as a duplicate."
+    },
+    {
+      "stem": "A 32-year-old woman presents complaining of blurred vision in her right eye with retro-orbital pain. Examination of the retina reveals flame hemorrhages and edema. The patient is treated with systemic corticosteroids and her symptoms resolve, but two months later she develops ataxia with weakness and paresthesias in her extremities. A lumbar puncture is performed on the patient. Which of the following findings is most likely detected in her CSF sample?",
+      "options": {
+        "A": "Predominant neutrophils",
+        "B": "Decreased glucose",
+        "C": "Gram positive cocci",
+        "D": "Oligoclonal bands"
+      },
+      "answer": "D", "answerSource": "both", "needsFigure": false,
+      "explanation": "Oligoclonal bands represent the most sensitive and specific marker of intrathecal synthesis of IgG and IgM immunoglobulins, which takes place in the central nervous system in different pathologies including demyelinating diseases, autoimmune systemic diseases and CNS infections among others."
+    }
+  ]
+},
+{
+  "page": 279, "year": "2020",
+  "note": "Opens with the explanation for a subjective refraction recall on the previous page, then the \"2020:\" header.",
+  "questions": [
+    {
+      "stem": "A patient has a refractive error of +4.00 -5.25 cylinder axis 180 degrees. What is the prescription in the plus cylinder?",
+      "options": {
+        "A": "-4.00 +5.25 x 90 degrees",
+        "B": "-1.25 +5.25 x 180 degrees",
+        "C": "-1.25 +5.25 x 90 degrees",
+        "D": "-4.00 +5.25 x 180 degrees"
+      },
+      "answer": "C", "answerSource": "both", "needsFigure": false,
+      "explanation": "To transpose: change the axis by 90 degrees, change the sign of the cylinder, and combine the sphere with the cylinder. Here the axis 180 becomes 90, the cylinder -5.25 becomes +5.25, and the sphere +4.00 combined with -5.25 gives -1.25, so the plus-cylinder form is -1.25 +5.25 x 90.",
+      "reference": "Subjective refraction lecture"
+    }
+  ]
+}
+]

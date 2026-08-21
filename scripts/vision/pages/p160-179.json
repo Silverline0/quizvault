@@ -1,0 +1,91 @@
+[
+{
+  "page": 160, "year": "2020",
+  "questions": [
+    {
+      "stem": "A 35-year-old woman complained of pain in her left eye of 3 weeks duration. A review of systems revealed a history of recurrent attacks of epistaxis with no arthritis. The examination of her left eye revealed scleral injection. Laboratory workup revealed a negative Quantiferon-TB gold test. Fundus fluorescein angiography showed the following (see image). What is the serious posterior segment complication in this patient?",
+      "options": {
+        "A": "Vitreous hemorrhage",
+        "B": "Retinal artery macroaneurysm",
+        "C": "Inferior snowballs",
+        "D": "Macular edema"
+      },
+      "answer": "A", "answerSource": "marked_in_image", "sourceAnswerText": "?", "needsFigure": true,
+      "compilerNote": "Margin note gives the diagnosis as granulomatosis with polyangiitis — epistaxis plus retinal vasculitis — with vitreous haemorrhage marked as the common complication."
+    },
+    {
+      "stem": "An 18-year-old presented following eye trauma from a fist fight. Examination confirms posterior vitreous detachment and vitreous hemorrhage. If retinal detachment occurs, after how long is it most likely to become symptomatic, in months?",
+      "options": {
+        "A": "22-24",
+        "B": "1-2",
+        "C": "5-6",
+        "D": "10-12"
+      },
+      "answer": "A", "answerSource": "both", "needsFigure": false,
+      "explanation": "Young vitreous has not yet undergone synchysis, or liquefaction. The vitreous therefore does not allow fluid movement through the retinal tears or dialyses. With time, however, the vitreous may liquefy over a tear, allowing fluid to pass through the break to detach the retina. The clinical presentation of the retinal detachment is thus usually delayed: 12% of detachments are identified immediately, 30% within 1 month, 50% within 8 months and 80% within 24 months. Traumatic detachments in young patients may be shallow and often show signs of chronicity, including multiple demarcation lines, subretinal deposits, and areas of intraretinal schisis.",
+      "reference": "AAO",
+      "compilerNote": "The source's option list had been mangled by a spreadsheet into dates — \"02-Jan\", \"06-May\", \"12-Oct\" — which are the ranges 1-2, 5-6 and 10-12 months. Restored here."
+    }
+  ]
+},
+{
+  "page": 178, "year": "2022",
+  "note": "The \"2021:\" and \"2020:\" headers at the foot of this page are both EMPTY — the compiler wrote the heading and recorded nothing under it. Not every page counted against those years holds questions.",
+  "questions": [
+    {
+      "stem": "Which of the following signs or symptoms is a hallmark of herpetic-induced uveitis?",
+      "options": {
+        "A": "Decreased IOP (intraocular pressure)",
+        "B": "Increased IOP (intraocular pressure)",
+        "C": "Increased inflammation",
+        "D": "Verticiform endothelial opacities"
+      },
+      "answer": "B", "answerSource": "both", "needsFigure": false,
+      "explanation": "Uveitis not due to herpes (HSV and VZV) is typically accompanied by a decrease in pressure, in contrast to the uveitis seen with herpes, which typically has an increase in pressure. The elevation in IOP with herpetic iridocyclitis is thought to be due to a trabeculitis which reduces aqueous outflow. Uveitis secondary to other causes releases cytokines that increase uveoscleral outflow, which decreases pressure. In addition, uveitis from other causes typically results in ciliary body hyposecretion and thus decreased IOP.",
+      "reference": "Eyewiki",
+      "compilerNote": "The compiler's own shorthand recall reads \"Herpetic uveitis characteristic — A. high IOP\". The full question and its real distractors were recovered from the exam screenshot pasted beside it, where the key is B."
+    },
+    {
+      "stem": "A patient with uveitis and +3 anterior chamber cells on prednisolone forte every 4 hours and an IOP of 33 mm Hg comes for follow up with +4 anterior chamber cells and an IOP of 28 mm Hg. What is the next step?",
+      "options": {
+        "A": "Decrease prednisolone forte to once daily and give latanoprost QHS",
+        "B": "Decrease prednisolone forte to once daily and give timolol BID",
+        "C": "Increase prednisolone forte to every 2 hours and give latanoprost QHS",
+        "D": "Increase prednisolone forte to every 2 hours and give timolol BID"
+      },
+      "answer": "D", "answerSource": "both", "needsFigure": false,
+      "explanation": "This patient's elevated IOP is not likely the result of a corticosteroid response, since he has only been taking them for 1 week. The more likely cause of the elevated IOP is inadequate suppression of inflammation; therefore his topical corticosteroids should be increased to eliminate this residual inflammation. Prostaglandin analogues and miotics such as pilocarpine should probably be avoided in cases of active inflammation, because of reports of them exacerbating inflammation and causing cystoid macular edema.",
+      "reference": "OphthoQ"
+    }
+  ]
+},
+{
+  "page": 179, "year": "2020",
+  "questions": [
+    {
+      "stem": "A 32-year-old woman presents with ocular pain and photophobia for 1 week. Her visual acuity is 20/30 OU, and IOP is 50 mm Hg OU. Slit-lamp findings are presented below (see image). What is the most likely etiology of this patient's condition?",
+      "options": {
+        "A": "HLA-B27 related uveitis",
+        "B": "Fuchs heterochromic iridocyclitis",
+        "C": "Herpes uveitis",
+        "D": "Sarcoidosis"
+      },
+      "answer": "C", "answerSource": "both", "needsFigure": true,
+      "explanation": "Herpetic uveitis is generally associated with more inflammation and discomfort. Fuchs heterochromic iridocyclitis is more insidious, without episodic attacks of elevated IOP. The rest are not typically associated with high IOP.",
+      "reference": "Self-assessment, ophthoquestion",
+      "compilerNote": "The compiler marked this recall as a duplicate and wrote in the margin, in Arabic, that it is probably wrong — worth a second opinion before relying on the key."
+    },
+    {
+      "stem": "A 38-year-old man needed to be prescribed a penicillin injection. However, the patient reported penicillin allergy. Which of the following might the patient have cross-reactivity to?",
+      "options": {
+        "A": "Tetracyclines",
+        "B": "Sulfonamides",
+        "C": "Cephalosporins",
+        "D": "Fluoroquinolones"
+      },
+      "answer": "C", "answerSource": "both", "needsFigure": false,
+      "compilerNote": "Margin note against sulfonamides: those cross-react with carbonic anhydrase inhibitors, not with penicillin."
+    }
+  ]
+}
+]
