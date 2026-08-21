@@ -1,0 +1,180 @@
+[
+{
+  "page": 152, "year": "2022",
+  "note": "End of the Anterior Segment list; the \"##Retina\" section and its own 2022 subsection begin lower on the page.",
+  "questions": [
+    {
+      "stem": "After cataract surgery a patient has diplopia, with one eye hyperopic and the other myopic. What is the treatment?",
+      "options": {
+        "A": "Slab-off prism",
+        "B": "Occlusion of one eye",
+        "C": "Botulinum toxin to a rectus muscle",
+        "D": "Repeat surgery on the operated eye"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "If the diplopia is still present with only one eye open it is monocular, and after cataract surgery monocular diplopia generally results from optical aberrations in the operative eye. Treatment of monocular diplopia is directed at the source, as is treatment of persistent binocular diplopia. Disruption of fusion and anisometropia may be managed by proper optical correction with a prism and a slab-off bifocal if necessary. Cataract surgery on the contralateral eye, or contact lens correction, may be required.",
+      "reference": "AAO BCSC Lens and Cataract 22-23",
+      "compilerNote": "The source recorded only the correct answer and marked the recall as a duplicate. The three wrong options were written for this bank."
+    },
+    {
+      "stem": "Mutton-fat keratic precipitates are composed of which type of cell?",
+      "options": {
+        "A": "Macrophages",
+        "B": "Epithelioid cells",
+        "C": "Neutrophils",
+        "D": "Lymphocytes"
+      },
+      "answer": "A", "answerSource": "text",
+      "sourceAnswerText": "Epitheloid cells",
+      "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "Keratic precipitates are deposits of inflammatory cells on the corneal endothelium, and their shape depends on their composition. Mutton-fat precipitates are larger because they are comprised of macrophages. Small-dot precipitates are usually composed of fibrin, while punctate precipitates are formed from neutrophils and lymphocytes.",
+      "reference": "Ophthoquestions",
+      "compilerNote": "The recall recorded its option as \"epithelioid cells\", and the compiler then crossed that out and wrote \"macrophages\" from the reference — so the option the exam offered is not the answer they settled on. Both terms are used for the granulomatous precipitate, so this is worth checking. The other options were written for this bank."
+    },
+    {
+      "stem": "What does rose bengal stain?",
+      "options": {
+        "A": "Devitalized epithelium",
+        "B": "Healthy corneal endothelium",
+        "C": "Corneal stromal collagen",
+        "D": "Conjunctival goblet cells"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "Rose bengal and lissamine green, both available as a 1% solution or in impregnated strips, are water-soluble dyes that stain devitalized epithelial cells. They are used to show the dendritic lesions of HSV and VZV.",
+      "reference": "AAO BCSC Cornea 22-23",
+      "compilerNote": "The source recorded only the correct answer and marked the recall as a duplicate. The three wrong options were written for this bank."
+    },
+    {
+      "stem": "How is ocular ischemic syndrome investigated?",
+      "options": {
+        "A": "Carotid Doppler ultrasonography",
+        "B": "Fluorescein angiography alone",
+        "C": "Optical coherence tomography",
+        "D": "Electroretinography"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "Diagnostic studies include carotid Doppler ultrasonography; ipsilateral carotid stenosis greater than 90% supports the diagnosis of ocular ischemic syndrome.",
+      "compilerNote": "First recall of the Retina section. The source recorded only the correct answer; the three wrong options were written for this bank."
+    }
+  ]
+},
+{
+  "page": 153, "year": "2022",
+  "questions": [
+    {
+      "stem": "Bleb-related endophthalmitis six months after surgery. What organism is expected?",
+      "options": {
+        "A": "Gram-positive cocci in chains",
+        "B": "Gram-negative rods",
+        "C": "Branching filamentous fungi",
+        "D": "Acid-fast bacilli"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "The microbes most commonly associated with early bleb-associated endophthalmitis include Staphylococcus epidermidis. Late-onset disease is associated with a greater percentage of Streptococcus species at 31%, and Gram-negatives such as Haemophilus influenzae at 23%, Enterococcus at 7% and Pseudomonas at 7%, with fewer Staphylococcus species at 7 to 22%.",
+      "reference": "Eyewiki",
+      "compilerNote": "The source recorded only the correct answer and marked the recall as a duplicate. The three wrong options were written for this bank."
+    },
+    {
+      "stem": "Five days after cataract surgery a patient develops endophthalmitis. What is the management?",
+      "options": {
+        "A": "Pars plana tap, inject broad spectrum antibiotics and culture",
+        "B": "Immediate pars plana vitrectomy regardless of vision",
+        "C": "Topical fortified antibiotics alone",
+        "D": "Systemic antibiotics and review in 48 hours"
+      },
+      "answer": "A", "answerSource": "text",
+      "sourceAnswerText": "Depends on vision at presentation",
+      "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "Patients presenting with light perception vision fare better with initial pars plana vitrectomy. When patients present with hand motions or better vision, a vitreous tap is appropriate.",
+      "reference": "Eyewiki",
+      "compilerNote": "The compiler declined to give a letter, answering that it depends on the vision at presentation, which is the distinction the explanation draws. The three wrong options were written for this bank. Marked as a duplicate."
+    },
+    {
+      "stem": "A patient has diabetic macular oedema and a posterior subcapsular cataract. What is the treatment?",
+      "options": {
+        "A": "Focal laser, then phacoemulsification after 3 months if the oedema has resolved",
+        "B": "Focal laser, then phacoemulsification after 1 month",
+        "C": "Phacoemulsification, then focal laser after 1 week"
+      },
+      "answer": "A", "answerSource": "both", "needsFigure": false,
+      "explanation": "It is crucial that diabetic patients have their diabetic eye disease under control before cataract surgery, because surgery causes formation of vascular permeability factors that worsen macular oedema. The prudent course is to perform focal laser and monitor the patient until the oedema resolves; if it has not resolved 3 months after laser, more laser is needed until it improves. Since the approval of ranibizumab as primary treatment for diabetic macular oedema, focal laser has taken a smaller role, but it remains important especially for extrafoveal disease.",
+      "reference": "OphthaQ",
+      "compilerNote": "Margin note: cataract surgery itself will worsen the oedema, so the oedema is treated first. Marked as a duplicate."
+    }
+  ]
+},
+{
+  "page": 154, "year": "2022",
+  "questions": [
+    {
+      "stem": "For an intraocular lens of 0 power in a myopic patient, what is the benefit of implanting it?",
+      "options": {
+        "A": "Prevents cystoid macular oedema",
+        "B": "Prevents retinal detachment",
+        "C": "Less risk of corneal decompensation",
+        "D": "No clear advantage"
+      },
+      "answer": "B", "answerSource": "both", "needsFigure": false,
+      "explanation": "It is preferable that the patient receive an intraocular lens when possible: the lens implant serves as a barrier to movement of the vitreous base and the associated traction on the retina.",
+      "reference": "AAO",
+      "compilerNote": "The same recall appears twice in the 2021 section, once answered \"Not sure\" and once \"B?\". This 2022 record is the one with the exam's four options and a settled answer, and it agrees with the retinal-detachment reading. Marked as a duplicate."
+    },
+    {
+      "stem": "A child has unilateral retinoblastoma and both parents are normal. What is the chance of the next sibling having retinoblastoma?",
+      "options": {
+        "A": "1-2%",
+        "B": "5-10%",
+        "C": "20-30%",
+        "D": "50-75%"
+      },
+      "answer": "A", "answerSource": "both", "needsFigure": false,
+      "explanation": "Where the parents are unaffected and the affected child's tumour is unilateral, the risk to the next sibling is quoted as under 1% on the AAO inheritance chart, so among these choices it is 1-2%. It rises to about 5% where the affected child's disease is bilateral, and to 45% where a parent is a carrier.",
+      "reference": "AAO",
+      "compilerNote": "Margin note works the chart through and lands on 1.5%. Marked as a duplicate."
+    },
+    {
+      "stem": "A 3-year-old boy is referred from paediatrics after being diagnosed with Usher syndrome based on hearing loss and vestibular findings. On examination you found an exotropia of 35 prism dioptres. What is the most appropriate next diagnostic step?",
+      "options": {
+        "A": "Double Maddox rod",
+        "B": "CT brain",
+        "C": "Genetic testing"
+      },
+      "answer": "C", "answerSource": "both", "needsFigure": false,
+      "explanation": "Definitive diagnosis of Usher syndrome type 1 involves identifying a homozygous proband mutation in the setting of positive symptoms and family history. The first gene to identify using single-gene sequencing is MYO7A.",
+      "reference": "Eyewiki",
+      "compilerNote": "Marked as a duplicate."
+    },
+    {
+      "stem": "Which investigation predicts the visual outcome in branch retinal vein occlusion?",
+      "options": {
+        "A": "Fluorescein angiography",
+        "B": "B-scan ultrasonography",
+        "C": "Electroretinography",
+        "D": "Gonioscopy"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "Branch retinal vein occlusion has a generally good visual prognosis, with 50 to 60% of patients reaching a final acuity of 20/40 or better even without treatment. The natural course depends on the type of occlusion, the degree of nonperfusion and the development of collaterals. The extent of capillary nonperfusion is by far the most important indicator of visual prognosis, which is why fluorescein angiography is helpful, and the area of retinal ischaemia is also the most important predictor of subsequent neovascularization.",
+      "reference": "Eyewiki",
+      "compilerNote": "The source recorded only the correct answer and marked the recall as a duplicate. The three wrong options were written for this bank."
+    },
+    {
+      "stem": "How is hydroxychloroquine toxicity investigated?",
+      "options": {
+        "A": "Multifocal ERG",
+        "B": "Full-field ERG",
+        "C": "Fluorescein angiography",
+        "D": "Optical coherence tomography"
+      },
+      "answer": "A", "answerSource": "marked_in_image", "needsFigure": false,
+      "compilerNote": "Margin notes list the recommended screening set as visual fields, fundus autofluorescence and multifocal ERG, add that the OCT must be spectral domain, and record that the visual field pattern differs by ancestry: 10-2 for non-Asian and a wider 24-2 for Asian patients. The answer line for this recall falls on the next page. Marked as a duplicate."
+    }
+  ]
+}
+]

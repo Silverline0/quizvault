@@ -1,0 +1,212 @@
+[
+{
+  "page": 123, "year": "2022",
+  "note": "Start of the \"##Anterior Segment\" section and its numbered 2022 list.",
+  "questions": [
+    {
+      "stem": "Keratitis with feathery margins, where the organism penetrates intact corneal epithelium. What is the organism?",
+      "options": {
+        "A": "Fusarium",
+        "B": "Candida",
+        "C": "Pseudomonas",
+        "D": "Acanthamoeba"
+      },
+      "answer": "A", "answerSource": "marked_in_image",
+      "sourceAnswerText": "These may be 2 separate questions. Fungi cannot penetrate intact epithelium.",
+      "needsFigure": false,
+      "explanation": "Feathery margins point to a filamentary fungus: the corneal lesions have a white or grey infiltrate with feathery borders, while ulcers caused by yeast are plaque-like and slightly more defined, resembling bacterial keratitis. The bacteria that can penetrate an intact corneal epithelium are Corynebacterium diphtheriae, Haemophilus influenzae, Neisseria gonorrhoeae, Neisseria meningitidis and Listeria species.",
+      "reference": "Eyewiki",
+      "compilerNote": "The compiler disputes the recall itself, writing that it may be two questions run together because fungi cannot penetrate intact epithelium; the description nonetheless points to a fungus, and Fusarium is the option circled. Margin notes on treatment: natamycin for filamentous fungi, amphotericin B for yeast, PHMB 0.02% for the ring infiltrate of Acanthamoeba in a contact lens wearer."
+    },
+    {
+      "stem": "A photo shows a cornea with macrostriae after refractive surgery. How many weeks post-operatively?",
+      "options": {
+        "A": "1-2 weeks",
+        "B": "2-3 weeks",
+        "C": "6-8 weeks",
+        "D": "9-10 weeks"
+      },
+      "answer": "A", "answerSource": "both", "needsFigure": true,
+      "explanation": "When present, macrostriae almost always become apparent in the early postoperative period. It is important to recognise and address this complication early, as the success of interventions decreases greatly over time and it can cause visually significant irregular astigmatism. The surgeon must examine the eye carefully for gross full-thickness folds intraoperatively or flap slippage postoperatively.",
+      "reference": "AAO",
+      "compilerNote": "The compiler notes that no specific time is given in the source and that they went with A."
+    },
+    {
+      "stem": "A large salmon patch of the conjunctiva with no systemic involvement. What is the treatment?",
+      "options": {
+        "A": "Observe",
+        "B": "Chemotherapy",
+        "C": "Excision",
+        "D": "Radiation"
+      },
+      "answer": "D", "answerSource": "both", "needsFigure": false,
+      "explanation": "Conjunctival lymphoma is a neoplastic lymphoid lesion most commonly composed of a monoclonal proliferation of B cells, appearing as a salmon-pink mobile mass. Local external-beam radiation is usually curative for lesions confined to the conjunctiva and is the mainstay of treatment; intralesional interferon alpha-2b and intralesional or systemic rituximab are more recently described. Systemic lymphoma develops in about 31% of patients and requires systemic chemotherapy. Topical 5-fluorouracil treats ocular surface squamous neoplasia, not conjunctival lymphoma, and cryotherapy alone treats neither. Lymphoid hyperplasia, by contrast, may be observed or treated with topical steroids, local excision or radiation.",
+      "compilerNote": "Marked as a duplicate."
+    }
+  ]
+},
+{
+  "page": 124, "year": "2022",
+  "note": "Item 5 in the numbered list is a bare fact, \"Rose bengal stains devitalized tissue\", used in HSV and VZV dendritic lesions. It carries no question or options and is not emitted.",
+  "questions": [
+    {
+      "stem": "Which picture most likely needs a scrape?",
+      "options": {
+        "A": "Marginal infiltrate",
+        "B": "Very red eye with a large central infiltrate",
+        "C": "Scar"
+      },
+      "answer": "B", "answerSource": "both", "needsFigure": true,
+      "explanation": "The picture is early microbial keratitis near the visual axis of a contact lens wearer, with large epithelial excavation, infiltration and spread of fluorescein into the stroma. Infectious infiltrates tend to be larger than 1 mm, more central, with a significant epithelial defect, mucous discharge, pain and photophobia and an anterior chamber reaction, where sterile infiltrates are smaller, more peripheral, with minimal epithelial damage and little anterior chamber reaction."
+    },
+    {
+      "stem": "Ocular cicatricial pemphigoid is which type of hypersensitivity reaction?",
+      "options": {
+        "A": "Type I",
+        "B": "Type II",
+        "C": "Type III",
+        "D": "Type IV"
+      },
+      "answer": "B", "answerSource": "text", "needsFigure": true,
+      "authoredDistractors": true,
+      "explanation": "The exact pathogenesis of ocular cicatricial pemphigoid remains to be elucidated, but the existing evidence supports a type II hypersensitivity response caused by an autoantibody to a cell surface antigen in the basement membrane of the conjunctival epithelium and other similar squamous epithelia.",
+      "reference": "Eyewiki",
+      "compilerNote": "The source recorded only the correct answer, and a margin note maps the types: I allergic conjunctivitis, II ocular cicatricial pemphigoid, III lupus and rheumatoid arthritis, IV delayed, as in Stevens-Johnson, V Graves. The three wrong options were written for this bank."
+    },
+    {
+      "stem": "What indicates a poor prognosis in a chemical burn?",
+      "options": {
+        "A": "More than 30% limbal ischemia",
+        "B": "Haze obscuring iris details"
+      },
+      "answer": "B", "answerSource": "marked_in_image",
+      "sourceAnswerText": "See Roper Hall classification",
+      "needsFigure": false,
+      "explanation": "On the Roper Hall classification, grade III is a guarded prognosis: total epithelial loss with stromal haze obscuring iris details, and one third to one half limbal ischaemia. Grade IV, a poor prognosis, is an opaque cornea with iris and pupil obscured and more than one half limbal ischaemia. Grade II, a good prognosis, is corneal haze with iris details still visible and under one third limbal ischaemia.",
+      "compilerNote": "The compiler gave no letter, pointing at the Roper Hall table instead; option B is the one circled. A margin note adds that limbal ischaemia would need to exceed 50% to be the worse finding. Marked as a duplicate."
+    },
+    {
+      "stem": "A patient had a chemical burn 8 months ago. On examination there is conjunctival scarring and fibrosis, keratinization, and corneal haze. What is the best option for this patient?",
+      "options": {
+        "A": "Penetrating keratoplasty",
+        "B": "Lamellar keratoplasty",
+        "C": "Limbal epithelial transplantation",
+        "D": "Keratoprosthesis"
+      },
+      "answer": "C", "answerSource": "marked_in_image", "needsFigure": false,
+      "explanation": "If total loss of limbal stem cells occurs unilaterally, an autograft of limbal epithelium from the fellow eye can repopulate the diseased cornea with normal corneal epithelium; simple limbal epithelial transplantation harvests minimal tissue from the donor eye to reduce the risk to the healthy ocular surface. If the loss is bilateral, options include a limbal stem cell allograft from a living related donor or a keratolimbal allograft from an eye bank cornea. Allogeneic transplantation requires systemic immunosuppression and is not needed when the unaffected eye can serve as a donor. Keratoprosthesis can be used in limbal stem cell deficiency but, given the risks of glaucoma and endophthalmitis, is not the first choice.",
+      "compilerNote": "For unilateral, moderate or severe chemical injuries a limbal autograft can be obtained from the healthy fellow eye."
+    }
+  ]
+},
+{
+  "page": 125, "year": "2022",
+  "questions": [
+    {
+      "stem": "A corneal ulcer after trauma has a negative scrape. What is the next step?",
+      "options": {
+        "A": "Trial of topical steroid",
+        "B": "Trial of systemic steroid",
+        "C": "Viral culture",
+        "D": "Corneal biopsy"
+      },
+      "answer": "D", "answerSource": "both", "needsFigure": false,
+      "explanation": "Corneal biopsy may be performed in cases of apparent microbial infection for which repeated culture findings from corneal scrapings are negative.",
+      "compilerNote": "Marked as a duplicate."
+    },
+    {
+      "stem": "A mature cataract with cells, no keratic precipitates and anterior chamber grade 3, with a picture showing corneal haze. What type of glaucoma is this?",
+      "options": {
+        "A": "Phacolytic",
+        "B": "Phacomorphic",
+        "C": "Lens particle",
+        "D": "Phacoantigenic"
+      },
+      "answer": "A", "answerSource": "both", "needsFigure": true,
+      "explanation": "Phacolytic glaucoma is an open-angle glaucoma without keratic precipitates. Phacomorphic glaucoma is an angle closure driven by the swollen lens. Phacoantigenic uveitis characteristically has keratic precipitates.",
+      "compilerNote": "Margin notes distinguish the four: phacolytic has no keratic precipitates, phacomorphic is an angle closure, phacoantigenic comes with keratic precipitates. Marked as a duplicate."
+    },
+    {
+      "stem": "A case with a manifest refraction of -10.00, cycloplegic of -9.50, a K reading of 39 and a thick cornea. What would you advise?",
+      "options": {
+        "A": "LASIK is not recommended",
+        "B": "Proceed with LASIK using the manifest refraction",
+        "C": "Proceed with LASIK using the cycloplegic refraction",
+        "D": "Proceed with LASIK after cutting a thicker flap"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "Steep corneas over 48.00 D are more prone to buttonholes, a central perforation of the flap, whereas flat corneas under 40.00 D are more likely to have smaller-diameter or free flaps due to transection of the hinge when a mechanical microkeratome is used. A K reading of 39 is a flat cornea, so LASIK is not recommended because of the flap complication risk.",
+      "reference": "AAO",
+      "compilerNote": "The source recorded only the correct answer and marked the recall as a duplicate. The three wrong options were written for this bank."
+    },
+    {
+      "stem": "A patient came for follow up after cataract surgery. You noticed a white sheet representing epithelial ingrowth. How will you confirm it?",
+      "options": {
+        "A": "Inject dye",
+        "B": "Argon laser over the membrane"
+      },
+      "answer": "B", "answerSource": "both", "needsFigure": false,
+      "explanation": "The characteristic appearance of epithelial ingrowth entering the anterior chamber is a thin, greyish, sheet-like growth covering the posterior corneal surface, angle, iris and ciliary body. To confirm the diagnosis, argon laser spots can be applied to the iris surface, producing characteristic white burns on the epithelial membrane covering the iris. Alternatively an aqueous aspirate can be sent for cytology. Glaucoma caused by epithelial ingrowth has a poor prognosis, as the offending membranes closing the angle are often very difficult to remove.",
+      "reference": "Eyewiki",
+      "compilerNote": "Marked as a duplicate."
+    },
+    {
+      "stem": "During cataract surgery the eye becomes tense, the red reflex is absent and the lens is rising. What is the next step?",
+      "options": {
+        "A": "Posterior sclerotomy",
+        "B": "Close the wound",
+        "C": "Remove the lens quickly",
+        "D": "Inject balanced salt solution"
+      },
+      "answer": "B", "answerSource": "both", "needsFigure": false,
+      "explanation": "This is a suprachoroidal, or expulsive, haemorrhage. Recognising it early is crucial: the wound should be closed with a suture as quickly as possible, and while awaiting the suture the anterior chamber can be filled with viscoelastic. These manoeuvres prevent intraocular contents from being expelled.",
+      "compilerNote": "The answer is printed on the next page, alongside the full OphthoQ version of the same scenario. Margin note names it a suprachoroidal haemorrhage. Marked as a duplicate."
+    }
+  ]
+},
+{
+  "page": 126, "year": "2022",
+  "note": "Opens with the answer to the suprachoroidal haemorrhage recall on page 125 and the full OphthoQ version of it.",
+  "questions": [
+    {
+      "stem": "What do you do after placing an anterior chamber IOL following posterior capsule rupture and anterior vitrectomy?",
+      "options": {
+        "A": "Surgical peripheral iridectomy intraoperatively at 6 o'clock",
+        "B": "Surgical peripheral iridectomy intraoperatively at 12 o'clock",
+        "C": "Laser peripheral iridotomy post-operatively at 6 o'clock",
+        "D": "Laser peripheral iridotomy post-operatively at 12 o'clock"
+      },
+      "answer": "B", "answerSource": "both", "needsFigure": false,
+      "explanation": "A surgical iridectomy should be performed at the time of surgery whenever an anterior chamber lens is placed, because vitreous easily occludes the small openings made by a laser peripheral iridotomy. The BCSC Glaucoma book places these surgical iridectomies at 12 o'clock in this situation; the IOL haptics usually sit at 3 and 9 o'clock, and the iridectomy is done intraoperatively to prevent iris bombe. A 6 o'clock, inferior, iridectomy is instead used for patients undergoing endothelial keratoplasty or having silicone oil left in the eye, because an injected air or oil bubble floats up and would occlude a 12 o'clock iridectomy."
+    },
+    {
+      "stem": "A picture shows unilateral arcus. What would you do?",
+      "options": {
+        "A": "Carotid Doppler",
+        "B": "Reassure, it is a normal ageing change",
+        "C": "Order thyroid function tests",
+        "D": "Start a topical steroid"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": false,
+      "authoredDistractors": true,
+      "explanation": "By the age of 80, close to 100% of individuals would be expected to have bilateral arcus senilis. Unilateral arcus is very rare and can be associated with contralateral carotid artery disease and with ocular hypotony or asymmetric cranial vascular supply, so a carotid Doppler ultrasound should be ordered to rule out carotid occlusive disease, along with a lipid panel. Arcus in someone under 40 should prompt testing for hyperlipoproteinaemia.",
+      "reference": "eyewiki, Arcus Senilis",
+      "compilerNote": "The compiler notes the recall carried no picture. The source recorded only the correct answer and marked it a duplicate; the three wrong options were written for this bank."
+    },
+    {
+      "stem": "A patient has a hyphema with a stained cornea. What is the best next course of action?",
+      "options": {
+        "A": "Anterior chamber washout",
+        "B": "Add topical brimonidine and review",
+        "C": "Start systemic aminocaproic acid",
+        "D": "Implant an aqueous shunt"
+      },
+      "answer": "A", "answerSource": "text", "needsFigure": true,
+      "authoredDistractors": true,
+      "explanation": "An anterior chamber washout should be performed at the earliest sign of corneal blood staining. The risk of staining is increased where there is intraocular pressure elevation and endothelial damage, and slit-lamp examination may reveal early yellow granular changes in the posterior corneal stroma. Because the finding may be visually significant and permanent, early irrigation is warranted. Topical brimonidine would further reduce pressure but does not address the staining; antifibrinolytics such as aminocaproic acid are controversial, have systemic side effects and no effect on staining; an aqueous shunt would address pressure but is premature and does not address staining.",
+      "compilerNote": "The source recorded only the correct answer and marked the recall a duplicate. The three wrong options were written for this bank, reconstructed from the wrong-answer discussion the compiler pasted beneath it, so they are close to but not certainly the exam's own."
+    }
+  ]
+}
+]
