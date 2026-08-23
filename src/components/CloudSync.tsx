@@ -32,13 +32,16 @@ export default function CloudSync({ onSyncComplete }: { onSyncComplete?: () => v
     if (!saved) return;
 
     loadFromCloud().then((cloudData) => {
-      if (!cloudData) return;
-
+      // A null result means the cloud holds nothing for this code yet — either
+      // a brand new code, or one whose store was lost. Returning early there
+      // meant a fresh code never got its first upload: nothing reached the
+      // cloud until the next answer happened to trigger a save. Treat "no
+      // cloud copy" as zero answers and let the comparison below push.
       const localProgress = getProgress();
-      const cloudAnswers = cloudData.answers?.length || 0;
+      const cloudAnswers = cloudData?.answers?.length || 0;
       const localAnswers = localProgress.answers?.length || 0;
 
-      if (cloudAnswers > localAnswers) {
+      if (cloudData && cloudAnswers > localAnswers) {
         // Cloud has more data — use cloud
         saveProgress(cloudData);
         setMessage(`Synced from cloud (${cloudAnswers} answers)`);

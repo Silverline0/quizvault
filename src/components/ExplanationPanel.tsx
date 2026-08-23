@@ -338,6 +338,16 @@ export default function ExplanationPanel({ question, wasCorrect, selectedAnswer,
                   written for this bank, so they are not what the exam offered.
                 </p>
               )}
+              {question.answerAddedToOptions && (
+                <p
+                  className="text-xs leading-relaxed px-2.5 py-1.5"
+                  style={{ backgroundColor: "var(--warning-bg)", color: "var(--text-secondary)" }}
+                >
+                  The other way round here: the wrong options are the exam&apos;s own, but none of
+                  them was the answer the source gives, so that answer was added as a choice. The
+                  recall most likely lost an option when it was written down.
+                </p>
+              )}
               {question.sourceNote && (
                 <p className="text-xs leading-relaxed italic" style={{ color: "var(--text-muted)" }}>
                   {question.sourceNote}

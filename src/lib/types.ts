@@ -59,6 +59,12 @@ export interface Question {
    * written for this bank. The key is still the source's.
    */
   authoredDistractors?: boolean;
+  /**
+   * The opposite case: the recall's own choices are the exam's, but none of
+   * them was the answer the source gives, so the answer was added as an option.
+   * The recall probably lost a choice when it was written down.
+   */
+  answerAddedToOptions?: boolean;
   /** What the compiler wrote in the margin, kept where it aids the reader. */
   sourceNote?: string;
 }
