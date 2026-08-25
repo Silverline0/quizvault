@@ -1,0 +1,1051 @@
+[
+ {
+  "id": 1,
+  "question": "Extensive work-up of a patient with a history of chronic granulomatous anterior uveitis reveals a positive result on the purified protein derivative (PPD) skin test. Histologically, what cells would most likely predominate at the reaction site?",
+  "options": {
+   "A": "eosinophils",
+   "B": "neutrophils",
+   "C": "B lymphocytes",
+   "D": "lymphocytes and macrophages"
+  },
+  "markedAnswer": "D",
+  "explanation": "Delayed-type hypersensitivity skin testing is a convenient and cost- effective method for assessing cell-mediated immune responses to a variety of antigens. This secondary immune response is the basis of the purified protein derivative (PPD) skin test to indicate prior exposure to Mycobacterium tuberculosis (TB). The PPD reagent is comprised of antigens purified from Mycobacteria and these antigens are taken up by dermal macrophages after injection into the dermis. When these stimulated macrophages migrate into the draining lymph node, they encounter memory T lymphocytes from the prior primary infection. The memory T lymphocytes are reactivated and recirculate back to the injection site, where they further interact with antigens from the PPD reagent and macrophages. These interactions at the injection site fully activate the T lymphocytes, releasing cytokines. These cytokines induce infiltration of additional T lymphocytes and macrophages producing the typical indurated dermal lesion of the purified protein derivative (PPD) skin test. Which of the following is NOT a characteristic of T helper-2 (Th-2) cells?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 2,
+  "question": "Which of the following is NOT a characteristic of T helper-2 (Th-2) cells?",
+  "options": {
+   "A": "Secrete interleukin-4 (IL-4)",
+   "B": "Secrete interleukin-5 (IL-5)",
+   "C": "Secrete interleukin- 10 (IL-10)",
+   "D": "Secrete interleukin-12 (IL-12)"
+  },
+  "markedAnswer": "D",
+  "explanation": "What must virus-infected cells express on their surface in order to activate CD8+ T lymphocytes?",
+  "imageUrl": "/images/uveitis-oq/p3_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 3,
+  "question": "What must virus-infected cells express on their surface in order to activate CD8+ T lymphocytes?",
+  "options": {
+   "A": "lgA",
+   "B": "IgM",
+   "C": "Major Histocompatibility (MHC) Class l Molecules",
+   "D": "Major Histocompatibility (MHC) Class Il Molecules"
+  },
+  "markedAnswer": "C",
+  "explanation": "What must antigen-presenting cells (APC) express on their surfaces in order to activate CD4+ (\"helper\") T lymphocytes?",
+  "imageUrl": "/images/uveitis-oq/p4_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 4,
+  "question": "What must antigen-presenting cells (APC) express on their surfaces in order to activate CD4+ (\"helper\") T lymphocytes?",
+  "options": {
+   "A": "lgA",
+   "B": "IgM",
+   "C": "MHC Class I Molecules",
+   "D": "MHC Class II Molecules"
+  },
+  "markedAnswer": "D",
+  "explanation": "Which of the following conditions is an example of a type V hypersensitivity reaction?",
+  "imageUrl": "/images/uveitis-oq/p5_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 5,
+  "question": "Which of the following conditions is an example of a type V hypersensitivity reaction?",
+  "options": {
+   "A": "positive purified protein derivative (PPD) tuberculin test",
+   "B": "ocular cicatricial pemphigoid",
+   "C": "Stevens Johnson syndrome",
+   "D": "Graves disease"
+  },
+  "markedAnswer": "D",
+  "explanation": "Which of the following is characteristic of cromolyn sodium?",
+  "imageUrl": "/images/uveitis-oq/p6_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 6,
+  "question": "Which of the following is characteristic of cromolyn sodium?",
+  "options": {
+   "A": "H inhibits IgE synthesis",
+   "B": "It is a competitive antagonist against histamine receptors",
+   "C": "It inhibits the degranulation of mast cells",
+   "D": "It is a potent vasoconstrictor"
+  },
+  "markedAnswer": "C",
+  "explanation": "Uveitis in pediatric age group According to the American Academy of Pediatrics, what is the recommended schedule for frequency of eye exams in a patient with a diagnosis of Juvenile Idiopathic Arthritis (JIA), with no history of uveitis, who exhibits the following characteristics: • 3 joints involved in first 6 months of disease • Antinuclear Antibodies (ANA): negative • Age at Onset of Disease: 8 years old • Duration of Disease: 3 years.",
+  "imageUrl": "/images/uveitis-oq/p7_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 7,
+  "question": "According to the American Academy of Pediatrics, what is the recommended schedule for frequency of eye exams in a patient with a diagnosis of Juvenile Idiopathic Arthritis (JIA), with no history of uveitis, who exhibits the following characteristics: • 3 joints involved in first 6 months of disease • Antinuclear Antibodies (ANA): negative • Age at Onset of Disease: 8 years old • Duration of Disease: 3 years",
+  "options": {
+   "A": "3 months",
+   "B": "6 months",
+   "C": "12 months",
+   "D": "24 months"
+  },
+  "markedAnswer": "C",
+  "explanation": "Patients with juvenile idiopathic arthritis (JIA) are considered to have a low risk of experiencing JIA-associated uveitis if they are older than 6 years old at the onset of joint disease and are negative for antinuclear antibodies (ANA). The duration of disease is not a factor in these patients in regards to the risk of having JIA-associated uveitis. These patients are considered low risk and should be examined every 12 months. Unlike uveitis in adults, which often presents with significant symptoms like ocular pain, photophobia, and injection, patients with JIA-associated uveitis, may have active and significant inflammation in an eye that appears \"quiet\" and without any symptoms. Because of the frequently asymptomatic nature of JIA- associated uveitis, significant ocular damage can occur without proper follow-up. Of course, once a patient with JIA has been found to have active uveitis, they are often followed at closer intervals, depending on their clinical course antreatment regimen. According to the American Academy of Pediatrics, what is the recommended schedule for frequency of eye exams in a patient with a diagnosis of Juvenile Idiopathic Arthritis (JIA), with no history of uveitis, who exhibits the following characteristics: • 2 joints involved in first 6 months of disease • Antinuclear Antibodies (ANA): positive • Age at Onset: 4 years old • Duration of Disease: 2 years.",
+  "imageUrl": "/images/uveitis-oq/p10_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 8,
+  "question": "According to the American Academy of Pediatrics, what is the recommended schedule for frequency of eye exams in a patient with a diagnosis of Juvenile Idiopathic Arthritis (JIA), with no history of uveitis, who exhibits the following characteristics: • 2 joints involved in first 6 months of disease • Antinuclear Antibodies (ANA): positive • Age at Onset: 4 years old • Duration of Disease: 2 years",
+  "options": {
+   "A": "1 month",
+   "B": "3 months",
+   "C": "6 months",
+   "D": "12 months"
+  },
+  "markedAnswer": "B",
+  "explanation": "Patients with juvenile idiopathic arthritis (JIA) are considered to have a high risk of experiencing JIA-associated uveitis if they are 6 years old or younger at the onset of joint disease, have had JIA for a duration 4 years or less, and are positive for antinuclear antibodies (ANA). These patients should be examined every 3 months through childhood and adolescence. Unlike uveitis in adults, which often presents with significant symptoms like ocular pain, photophobia, and injection, patients with JIA-associated uveitis, may have active and significant inflammation in an eye that appears \"quiet\" and without any symptoms. Because of the frequently asymptomatic nature of JIA-associated uveitis, significant ocular damage can occur without proper follow-up. Of course, once a patient with JIA has been found to have active uveitis, they are often followed at closer intervals, depending on their clinical course and treatment regimen. Which of the following juvenile rheumatoid arthritis (aka \"juvenile idiopathic arthritis\") patients should be seen at the most frequent follow-up intervals?",
+  "imageUrl": "/images/uveitis-oq/p10_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 9,
+  "question": "A 10-year-old boy is referred to you by his rheumatologist who has diagnosed him with some type of juvenile idiopathic arthritis JIA). The boy has a history of both ankles and his left wrist being inflamed. On slit-lamp exam, you note trace cell and flare in the anterior chambers of both eyes. Which of the following is true regarding this boy's medical condition?",
+  "options": {
+   "A": "His uveitis will likely be chronic (i.e. not acute and recurrent)",
+   "B": "His type of JIA comprises approximately 20% of all cases of JIA",
+   "C": "Hs condition also typically manifests with fever and lymphadenopathy",
+   "D": "He is likely rheumatoid factor (RF) negative"
+  },
+  "markedAnswer": "D",
+  "explanation": "Which of the following juvenile rheumatoid arthritis (JRA) patients has the lowest risk of developing chronic iridocyclitis?",
+  "imageUrl": "/images/uveitis-oq/p12_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 10,
+  "question": "Which of the following juvenile rheumatoid arthritis (JRA) patients has the lowest risk of developing chronic iridocyclitis?",
+  "options": {
+   "A": "polyarticular onset, ANA negative",
+   "B": "polyarticular onset, ANA positive",
+   "C": "systemic onset, ANA negative",
+   "D": "systemic onset, ANA positive"
+  },
+  "markedAnswer": "C",
+  "explanation": "Patients with systemic onset-JRA (aka \"Still disease\"') constitute fewer than ~5% of all JRA patients that will develop chronic iridocyclitis. In contrast, patients with polyarticular-onset JRA comprise ~ 10% of all JRA patients that will develop chronic iridocyclitis while those with pauciarticular JRA comprise ~85% of all JRA patients with uveitis. \"Still disease\" is characterized by fever, swollen lymph nodes, hepatosplenomegaly, with minimal joint involvement. In children with uveitis, which of the following are particularly important concerns with oral corticosteroid use?",
+  "imageUrl": "/images/uveitis-oq/p11_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 11,
+  "question": "In children with uveitis, which of the following are particularly important concerns with oral corticosteroid use?",
+  "options": {
+   "A": "Weight gain",
+   "B": "Agitation or irritability",
+   "C": "Growth retardation",
+   "D": "Acne"
+  },
+  "markedAnswer": "C",
+  "explanation": "Systemic corticosteroids steroids in children can cause any of these as well as numerous other systemic side effects. Of the choices listed, growth retardation is perhaps the most significant and related to premature closure of the epiphyses in the femoral leg bones. Systemic corticosteroids can be used for initial treatment and flares of non-infectious uveitis, but attempts should be made to limit the long-term high dose use in children whenever possible with early considerations for steroid-sparing immunosuppressive therapy if tolerated. Which of the following immunomodulating agents is commonly used as the first-choice agent to reduce the effective dose of systemic corticosteroids in juvenile rheumatoid arthritis (JRA)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 12,
+  "question": "Which of the following immunomodulating agents is commonly used as the first-choice agent to reduce the effective dose of systemic corticosteroids in juvenile rheumatoid arthritis (JRA)?",
+  "options": {
+   "A": "methotrexate",
+   "B": "cyclosporine",
+   "C": "azathioprine",
+   "D": "mycophenolate"
+  },
+  "markedAnswer": "A",
+  "explanation": "Weekly low-dose methotrexate is well-tolerated in children and very effective in suppressing the uveitis associated with JRA. Though systemic corticosteroids are often used in the initial treatment of JRA-related uveitis, children are verv sensitive to corticosteroid-related comblications. In particular, systemic corticosteroids may cause growth retardation from premature closure of the epiphyses. All of the following are risk factors for the development of chronic iridocyclitis in juvenile idiopathic arthritis (JIA) patients EXCEPT:.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 13,
+  "question": "All of the following are risk factors for the development of chronic iridocyclitis in juvenile idiopathic arthritis (JIA) patients EXCEPT:",
+  "options": {
+   "A": "female gender",
+   "B": "ANA negative",
+   "C": "4 or fewer joints involved",
+   "D": "pauciarticular onset"
+  },
+  "markedAnswer": "B",
+  "explanation": "The presence of ANA antibodies is actually a risk factor for the development of chronic iridocvclitis in JIA. Note that \"pauciarticular-onset\" is defined by the involvement of 4 or fewer joints during the initial 6 months of disease. A 4 year-old boy presents with a painful anterior uveitis of the right eye. You note that the patient limps to the exam chair and clutches his right ankle after sitting down. He is accompanied by his grandfather who states that other members of the family have been evaluated by doctors for similar symptoms. On exam of the right eye, the vision is 20/100; there are inferior mutton-fat keratic precipitates; and 2+ cell in the anterior chamber. There is mild vitreous haze and chorioretinal scars scattered throughout the periphery. The vision OS is 20/30 and there is trace cell in the anterior chamber. The fundus exam OS is normal. What additional finding would you most likely find in this patient?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 14,
+  "question": "What additional finding would you most likely find in this patient?",
+  "options": {
+   "A": "Hilar pulmonary nodules",
+   "B": "Infiltration of the lacrimal gland",
+   "C": "Papular dermatitis",
+   "D": "Oral aphthous ulcers"
+  },
+  "markedAnswer": "C",
+  "explanation": "The vignette alludes to the diagnosis of Blau syndrome, a rare systemic granulomatosis that presents in childhood with a classic triad of dermatitis, arthritis, and uveitis. There are both familial (autosomal dominant inheritance) and sporadic forms of the disease with the causative gene having been identified as NOD2. Patients often present in the first year of life with dermatitis as the initial finding. The dermatitis manifests as a fine and scaly papular erythematous eruption that may remit and recur (see image below). It may develop into a markedly scaly rash in later stages, and each focus of inflammation may heal with a scar. Second to present is an arthritis that affects multiple joints (polyarthritis). There is a predilection for the distal joints, particularly the knees, ankles, wrists, and proximal interphalangeal (PIP) joints. The axial skeleton is not affected. Chronic polyarthritis may unfortunately lead to joint deformation. Uveitis often presents after the dermatitis and arthritis. The uveitis is nearly always bilateral, granulomatous, and though initially anterior in location, frequently extends posteriorly into a panuveitis. Posterior disease most commonly takes the form of a multifocal choroiditis. The typical sequelae of chronic ocular inflammation, such as synechiae, cataracts, and band keratopathy often occur. Aside from the classic triad, the manifestations of Blau syndrome are protean and may include: vasculitis, nephritis, pericarditis, pneumonitis (leading to interstitial lung disease), among others. Treatment of Blau syndrome rests in immunomodulatory therapy though there is no consensus regarding the optimal treatment regimen. Tumor necrosis factor (TF) inhibitor shows some promise in efficacy. Due to its rarity, there is a great deal of variation in treatment regimens and long-term data on this unfortunately debilitating disorder are needed. The other answer choices allude to other panuveitides. Hilar pulmonary nodules (Answer A) and infiltration of the lacrimal gland are typical of sarcoidosis, and oral aphthous ulcers (Answer D) are typical of Behcet's disease. Of note, when Blau disease was first discovered, some considered it to be an early form of sarcoidosis (indeed, \"Early Onset Sarcoidosis\" was a term used to describe the sporadic form of the disease). Though this is not strictly correct, there certainly are similarities between the two conditions in terms of symptomatology. Infectious uveitis What infectious agent has been found to be the underlying cause of Kaposi Sarcoma?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 15,
+  "question": "What infectious agent has been found to be the underlying cause of Kaposi Sarcoma?",
+  "options": {
+   "A": "Varicella Zoster Virus",
+   "B": "Human Herpesvirus-4",
+   "C": "Human Herpesvirus-8",
+   "D": "Cryptococcus neoformans"
+  },
+  "markedAnswer": "C",
+  "explanation": "A 55-year-old presents with a red and sore right eye. On slit-lamp examination, you note the presence of diffuse keratic precipitates. Which of the following findings would best support a diagnosis of herpetic uveitis?",
+  "imageUrl": "/images/uveitis-oq/p17_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 16,
+  "question": "A 55-year-old presents with a red and sore right eye. On slit-lamp examination, you note the presence of diffuse keratic precipitates. Which of the following findings would best support a diagnosis of herpetic uveitis?",
+  "options": {
+   "A": "granulomatous keratic precipitates",
+   "B": "increased intraocular pressure",
+   "C": "presence of a hypopyon",
+   "D": "decreased intraocular pressure"
+  },
+  "markedAnswer": "B",
+  "explanation": "Most uveitides are associated with ciliary bod hyposecretion and decreased intraocular pressure (IOP). Herpetic uveitis is a notable exception and increased IOP helps to rule-in this diagnosis. A 48-year-old healthy male presents with 3 weeks of left eye pain, photophobia, and decreased vision. Slit lamp exam is notable for 3+ anterior chamber and anterior vitreous cell. The dilated fundus exam of the left eye is shown above. The right eye is normal. Which of the following is the most common cause of this patient's condition?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 17,
+  "question": "A 48-year-old healthy male presents with 3 weeks of left eye pain, photophobia, and decreased vision. Slit lamp exam is notable for 3+ anterior chamber and anterior vitreous cell. The dilated fundus exam of the left eye is shown above. The right eye is normal. Which of the following is the most common cause of this patient's condition?",
+  "options": {
+   "A": "Tuberculosis",
+   "B": "Cytomegalovirus (CMV)",
+   "C": "Toxoplasma gondii",
+   "D": "Varicella Zoster Virus (VZV)"
+  },
+  "markedAnswer": "D",
+  "explanation": "A 50-year-old man presents with a \"burning pain\" over the left side of his forehead. His external appearance is seen above. Involvement of which of the following nerves may indicate ocular involvement from this patient's systemic condition?",
+  "imageUrl": "/images/uveitis-oq/p19_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 18,
+  "question": "A 50-year-old man presents with a \"burning pain\" over the left side of his forehead. His external appearance is seen above. Involvement of which of the following nerves may indicate ocular involvement from this patient's systemic condition?",
+  "options": {
+   "A": "frontal nerve",
+   "B": "lacrimal nerve",
+   "C": "greater petrosal nerve",
+   "D": "nasociliary nerve"
+  },
+  "markedAnswer": "D",
+  "explanation": "\"Hutchinson sign\" is defined by the presence of zoster vesicles at the tip of the patient's nose. This sign indicates involvement of the nasociliary nerve and a greater chance that the insilateral eve is affected by zoster. A 26-year-old man complains to you of acute pain, redness, photophobia, decreased vision, and floaters in the left eye. Slit-lamp exam of the left eye shows some corneal neovascularization with associated keratitis, 2+ anterior chamber cell and flare, posterior synechaie, and patchy iris atrophy. Dilated fundus exam shows 1+ vitritis and a multifocal choroiditis. On review of systems, the patient remembers having a \"weird rash\" and swollen lymph nodes one year ago. His girlfriend took a photo of the rash which is shown in the photograph above. Which of the following is the most appropriate management for this patient?",
+  "imageUrl": "/images/uveitis-oq/p21_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 19,
+  "question": "Dilated fundus exam shows 1+ vitritis and a multifocal choroiditis. On review of systems, the patient remembers having a \"weird rash\" and swollen lymph nodes one year ago. His girlfriend took a photo of the rash which is shown in the photograph above. Which of the following is the most appropriate management for this patient?",
+  "options": {
+   "A": "single intramuscular dose of penicillin",
+   "B": "intravenous ceftriaxone",
+   "C": "hospitalization for intravenous penicillin G",
+   "D": "doxycycline for 28 days"
+  },
+  "markedAnswer": "C",
+  "explanation": "The photograph depicts a widespread maculopapular rash. This rash, together with the history of lymphadenopathy, likely represented secondary syphilis. The patient now displays ocular manifestations and therefore should be treated as though he has neurosyphilis. The treatment for neurosyphilis is intravenous aqueous penicillin G for 10 to 14 days. Alternatively, the patient could receive daily intramuscular injections of procaine penicillin as well as oral probenecid for 10 to 14 days. Also, the patient's girlfriend should be tested for syphilis as well. In a patient with no known drug allergies, what is the recommended systemic antibiotic for the treatment of ocular syphilis?",
+  "imageUrl": "/images/uveitis-oq/p22_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 20,
+  "question": "In a patient with no known drug allergies, what is the recommended systemic antibiotic for the treatment of ocular syphilis?",
+  "options": {
+   "A": "Doxycycline",
+   "B": "Ceftriaxone",
+   "C": "Penicillin",
+   "D": "Chloramphenicol"
+  },
+  "markedAnswer": "C",
+  "explanation": "The Centers for Disease Control and Prevention (CDC) recommend parenteral penicillin G as the the preferred treatment of choice for all stages of syphilis. In patients with penicillin allergy, several therapeutic options have been reported to be effective in treating syphilis, including treatment with tetracycline, doxycycline, chloramphenicol, and ceftriaxone. However, no antibiotic, other than penicillin, has been found to be effective in consistently and effectively treating neurosyphilis, congenital syphilis, or infection in pregnant patients or patients with HIV. Therefore, these patients who also have penicillin-allergy, penicillin desensitization and treatment with penicillin is highly recommended. Acquired syphilis with ocular involvement should be treated as neurosyphilis, so a lumbar puncture with examination of cerebrospinal fluid (CSF) is warranted for all cases of ocular syphilis. Regardless of CSF results, antibiotic treatment for ocular syphilis requires neurologic dosing regimens. Currently, the CDC recommends two possible regimens for the treatment of neurosyphilis: 1. 18 to 24 million units (MU) of intravenous aqueous crystalline penicillin G daily for 10-14 days. 2. (If compliance with therapy can be ensured) 2.4 MU/day of intramuscular procaine penicillin plus probenecid 500 mg 4 times a day for 10-14 days. Side Note: probenecid is a medication that is traditionally used in the treatment of gout, which is a form of arthritis caused by a build up of uric acid in the joints. Probenecid acts on renal tubular cells by competitively inhibiting the reabsorption of urate at the proximal convoluted tubule, increasing the urinary excretion of uric acid and decreasing serum urate levels. At the proximal and distal tubules, probenecid competitively inhibits the secretion of many weak organic acids, including penicillin. This results in an increased plasma concentration and extended half-life of penicillin. After completion of either of these treatment regimens, further treatment with intramuscular benzathine penicillin G, 2.4 MU weekly for three weeks may be administered if a longer duration of therapy is preferred by the clinician. Syphilis is caused by the spirochete Treponema Pallidum, which replicates once every 30 hours. Many clinicians believe higher rates of treatment failure may occur with sole treatment with intramuscular penicillin, because it may not achieve adequate and sustained intraocular levels required to achieve an adequate bactericidal effect. Therefore, most clinicians recommend initially treating neurosyphilis with intravenous aqueous crystalline penicillin G, 18 to 24 million units (MU) daily for 10-14 days, followed by intramuscular benzathine penicillin G, 2.4 MU weekly for three weeks. You are called as an Ophthalmology consult for a 44-year-old Hawaiian farmer who has developed bilateral circumcorneal conjunctival injection and congestion. The rest of the ocular exam is normal. That patient was admitted for an acute onset of fever, vomiting, and muscle aches. His laboratory values are notable for an alanine aminotransferase of 112 |U/L and, aspartate aminotransferase of 140 IU/L, and creatinine of 1.9 mg/dl. Which of the following is the most appropriate treatment for this patient's condition?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 21,
+  "question": "Which of the following is the most appropriate treatment for this patient's condition?",
+  "options": {
+   "A": "urgent hemodialysis",
+   "B": "intravenous penicillin",
+   "C": "intravenous ceftriaxone",
+   "D": "systemic corticosteroids"
+  },
+  "markedAnswer": "B",
+  "explanation": "This patient has classic risk factors for leptospirosis: (1) exposure to the natural reservoir for Leptospira which are livestock, horses, etc; and (2) being in a tropical environment. Although leptospirosis is rare overall in the United States, it is more common in Hawaii where >50% of the nation's cases occur. The initial disease, called the \"leptospiremic phase,\" occurs after an approximately 1 month incubation phase. It is characterized by an acute fever, chills, vomiting, diarrhea, and muscle aches. Approximately 10% of patients in this initial phase can develop \"severe septicemic leptospirosis\" (also known as Weil's disease) which manifests as severe liver and renal dvsfunction. Leptospirosis is caused by a spirochete and thus can cause a false positive PR or FTA-ABS syphillis test. The appropriate treatment is intravenous penicillin G for 1 week. An 22-month-old boy is evaluated for nystagmus. He had an uncomplicated birth at 37 weeks gestation. At 5-months of age, he was unable to lift his head. MRI scan showed enlarged ventricles with periventricular calcifications and he was given a diagnosis of microcephaly of unknown case. On exam, vision is fix and follow in both eyes. He has a horizontal nystagmus with 60 prism diopters of esotropia. Fundoscopic examination demonstrates 1+ disc pallor, and large macular chorioretinal scars in both eyes. The patient's Toxoplasma gondii, rubella, CMV, and HSV antibody titers are negative. Which of the following is the most likely diagnosis for this child?",
+  "imageUrl": "/images/uveitis-oq/p137_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 22,
+  "question": "What is the most common ocular manifestation of congenital rubella syndrome (CRS)?",
+  "options": {
+   "A": "cataract",
+   "B": "glaucoma",
+   "C": "pigmentary retinopathy",
+   "D": "microphthalmos"
+  },
+  "markedAnswer": "C",
+  "explanation": "The systemic manifestations of congenital rubella syndrome (CRS) are deafness (most common systemic sign), cardiac malformations (e.g. patent ductus arteriosus), and ocular findings. Of the possible ocular findings, pigmentary retinopathy is the most common in CRS. Despite the striking appearance of the fundus, vision is not typically affected by this pigmentary retinopathy. Instead, poor vision in CRS is usually caused by cataract and microphthalmos. The classic teaching is that cataract and glaucoma do not occur simultaneously in CRS. The most common cause of poor vision in children with CRS are cataract and microphthalmos. You are consulted by the Medicine team for a 45-year-old Caucasian man who complains of worsening vision and photophobia in both eyes. Your slit-lamp exam shows 2+ anterior chamber cell while your fundus exam reveals 2+ vitreous cell, diffuse chorioretinal inflammation, optic nerve swelling, and diffuse retinal vasculitis. The findings are similar in both eyes. The patient was admitted to the hospital for severe diarrhea, weight loss, and joint pain. The joint pain seems to be moving to different areas. Which of the following diagnostic tests would confirm this patient's most likely diagnosis?",
+  "imageUrl": "/images/uveitis-oq/p56_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 23,
+  "question": "The joint pain seems to be moving to different areas. Which of the following diagnostic tests would confirm this patient's most likely diagnosis?",
+  "options": {
+   "A": "duodenal biopsy",
+   "B": "anti-nuclear antibody (ANA)",
+   "C": "anti-neutrophil cytoplasmic antibody (ANCA)",
+   "D": "pathergy test"
+  },
+  "markedAnswer": "A",
+  "explanation": "A 56-year-old Caucasian man presents with bilateral chorioretinitis, vitritis, and cystoid macular edema. He also complains of diarrhea, fatigue, and arthralgias. His systemic symptoms started 2 months ago, shortly after he returned from camping in New Hampshire and his ocular symptoms started 1 week ago. What test would most likely help diagnose his condition? • A HIA-B27 • B. HLA-A29 • C. Duodenal biopsy • D. Computed tomography scan.",
+  "imageUrl": "/images/uveitis-oq/p27_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 24,
+  "question": "A 56-year-old Caucasian man presents with bilateral chorioretinitis, vitritis, and cystoid macular edema. He also complains of diarrhea, fatigue, and arthralgias. His systemic symptoms started 2 months ago, shortly after he returned from camping in New Hampshire and his ocular symptoms started 1 week ago. What test would most likely help diagnose his condition? • A HIA-B27",
+  "options": {
+   "B": "HLA-A29",
+   "C": "Duodenal biopsy",
+   "D": "Computed tomography scan"
+  },
+  "markedAnswer": "C",
+  "explanation": "Whipple disease is a rare multi-visceral disease caused by Tropherma whipplei bacterium. The clinical presentation of Whipple disease is typically dominated by symptoms of diarrhea, weight loss, fatigue, and arthralgia. Intraocular involvement is rare and occurs in less than 5% of cases. Patients can present with bilateral panuveitis, retinal vasculitis, and chorioretinitis. The gold standard for diagnosis of Whipple disease is a duodenal biopsy that demonstrates periodic acid-Schiff (PAS) -positive bacillus in macrophages within the intestinal villi. Systemic trimethoprim-sulfamethoxazole is the preferred treatment. Patients allergic to sulfonamides may be treated with ceftriaxone, tetracycline, or chloramphenicol. Other facts about Whipple disease: o Most common in middle-aged white men. o The intestinal loss of protein can result in pitting edema and weight loss. o Cardiomvopathy and valvular disease can occur. o Central nervous svstemic involvement can occur in 10% and result in coma and seizures. o PCR of peripheral blood and vitreous may show T. whipplei DNA and help confirm the diagnosis. o Differential diagnosis includes: lupus, polyarteritis nodosa, and Behcet disease. HLA-B27 is strongly correlated with the development of several distinct forms of inflammation that are given the collective title of the \"seronegative spondyloarthritides.\" Uveitis related to the seronegative spondvloarthritides is usually acute in onset and unilateral. Exam findings typically include keratic precioitates and cells in the anterior chamber. Bilateral and posterior inflammation are rare in uveitic conditions associated with the \"seronegative spondvloarthritides\" HLA-A29 is strongly correlated with birdshot chorioretinopathy. A 60-year old male who recently immigrated to the United States from Vietnam presents with blurry vision in the right eye and a fundus exam as below. What diagnostic tests should be considered?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 25,
+  "question": "A 60-year old male who recently immigrated to the United States from Vietnam presents with blurry vision in the right eye and a fundus exam as below. What diagnostic tests should be considered?",
+  "options": {
+   "A": "Carotid ultrasound and echocardiogram",
+   "B": "Chest x-ray and purified protein derivative (PPD)",
+   "C": "MRI of the brain and hearing test",
+   "D": "Blood cultures and complete blood count (CBC)"
+  },
+  "markedAnswer": "B",
+  "explanation": "An 11-year-old girl from Mexico presents with fevers, malaise and back pain. CT of the spine is shown above. The patient denies a history of trauma. Ophthalmology is consulted for blurry vision and the fundus exam is shown above. Similar findings are found in both eyes. Which of the following is the best treatment for this condition?",
+  "imageUrl": "/images/uveitis-oq/p29_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 26,
+  "question": "An 11-year-old girl from Mexico presents with fevers, malaise and back pain. CT of the spine is shown above. The patient denies a history of trauma. Ophthalmology is consulted for blurry vision and the fundus exam is shown above. Similar findings are found in both eyes. Which of the following is the best treatment for this condition?",
+  "options": {
+   "A": "Intravenous penicillin G",
+   "B": "Pyrimethamine, sulfadiazine, corticosteroids",
+   "C": "Intravenous methylprednisolone",
+   "D": "Pyrazinamide, ethambutol, isoniazid, rifampin"
+  },
+  "markedAnswer": "D",
+  "explanation": "This patient has disseminated tuberculosis (TB) with Pot disease and TB choroiditis. Pott disease is a tuberculosis of the spine, often spread hematogenously from other sites. Progressive bone destruction leads to vertebral collapse (circled in figure below) and resulting kyphosis. In a patient from a TB-endemic country, with fevers and radiologic findings consistent with Pott disease, TB should be suspected. Disseminated choroiditis is the most common presentation of ocular TB, and presents with multiple deep, discrete, yellowish lesions between 0.5 and 3.0 mm in diameter. Disc edema, vitritis, and granulomatous anterior uveitis often accompany these choroidal tubercles. Treatment of TB consists of a prolonged course of multidrug therapy, such as rifampin, isoniazid, pyrazinamide, ethambutol A 28-year-old immigrant from Ghana presents to your clinic with poor vision OU. Slit- lamp exam reveals the presence of numerous organisms swimming in the anterior chamber of both eyes. The patient shows you one of his several, intensely-itchy skin bumps. Which of the following is the currently accepted form of treatment for this disease?",
+  "imageUrl": "/images/uveitis-oq/p30_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 27,
+  "question": "Which of the following is the currently accepted form of treatment for this disease?",
+  "options": {
+   "A": "ivermectin with doxcycline",
+   "B": "thiabendazole with penicillin",
+   "C": "diethylcarbamazine with sulfadip",
+   "D": "azithromycin"
+  },
+  "markedAnswer": "A",
+  "explanation": "Which of the following is TRUE in regards to Onchocerca volvulus?",
+  "imageUrl": "/images/uveitis-oq/p30_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 28,
+  "question": "Which of the following is TRUE in regards to Onchocerca volvulus?",
+  "options": {
+   "A": "Annual ivermectin treatment has been found to effectively reduce the macrofilarial (adult nematode) load of Onchocerca volvulus",
+   "B": "Humans are the only definitive host for Onchocerca volvulus",
+   "C": "The larvae of Onchocerca volvulus usually are transmitted by ingestion of uncooked meat",
+   "D": "The microfilariae (larvae) develop into macrofilariae (adult worms) in the blackfly (genus"
+  },
+  "markedAnswer": "B",
+  "explanation": "Onchocerciasias is caused by the filarial nematode Onchocerca volvulus. Onchocerca volvulus has a multiple stage life cycle. Humans are the only definitive host. A definitive host or primary host is a host in which the parasite reaches maturity and, if possible, reproduces sexually. The blackfly (genus Simulium) acts as an obligate intermediate host. Human infection occurs when a blackfly bites a human host and introduces Onchocerca volvulus microfilariae (larvae) into the human host. The microfilariae develop into macrofilariae (adult worms) and mate in the subcutaneous tissues of the human host. During adulthood, the female worm can shed hundreds of thousands of microfilariae that can migrate throughout the body of the human host (particularly to the skin and the eye). The Onchocerca volvulus lifecycle continues when a human host is bitten by the blackfly and ingests microfilariae. Once inside the blackfly, the microfilariae penetrate the gut of the fly and migrate to the thoracic flight muscles, where they further develop along the larval stages and then migrate back to the head and the proboscis (feeding/sucking appendage) of the blackfly. The microfilariae enter another human host when the blackfly bites and feeds off the human blood. A 20-year-old man presents for unilateral, acute, blurry vision of the left eye for the past week. His left eye is comfortable and anterior examination shows no abnormalities. Visual acuity is 20/20 in the right eye and 20/100 in the left. Fundoscopic examination of the left eye demonstrates 1+ vitreous cell and haze, optic disc swelling, a cluster of gray-white placoid lesions near the superior arcade, and the finding shown in the photo, located outside the superior arcade. What is the definitive treatment?",
+  "imageUrl": "/images/uveitis-oq/p33_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 29,
+  "question": "His left eye is comfortable and anterior examination shows no abnormalities. Visual acuity is 20/20 in the right eye and 20/100 in the left. Fundoscopic examination of the left eye demonstrates 1+ vitreous cell and haze, optic disc swelling, a cluster of gray-white placoid lesions near the superior arcade, and the finding shown in the photo, located outside the superior arcade. What is the definitive treatment?",
+  "options": {
+   "A": "High dose oral prednisone",
+   "B": "Observation",
+   "C": "Oral voriconazole",
+   "D": "Laser photocoagulation"
+  },
+  "markedAnswer": "D",
+  "explanation": "All of the following statements comparing and contrasting DUSN (diffuse unilateral subacute neuroretinitis) from ocular cysticercosis are true EXCEPT:.",
+  "imageUrl": "/images/uveitis-oq/p34_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 30,
+  "question": "All of the following statements comparing and contrasting DUSN (diffuse unilateral subacute neuroretinitis) from ocular cysticercosis are true EXCEPT:",
+  "options": {
+   "A": "laser photocoagulation can be successful in early cases of DUSN, but not in ocular cysticercosis",
+   "B": "both diseases are associated with a poor visual prognosis if left untreated",
+   "C": "systemic and laboratory workup for DUSN is generally negative while those for ocular cysticercosis are positive",
+   "D": "systemic antihelminthic treatment is generally unsuccessful in both ocular diseases"
+  },
+  "markedAnswer": "D",
+  "explanation": "Systemic antihelminthic medications have shown to be efficacious in the treatment of DUSN (e.g. oral thiabendazole) but show poor efficacy in ocular cysticercosis. Though laboratory workup is generally negative for DUSN, ~50% of patients with ocular cysticercosis can have a positive ELISA test for anti-cysticercus antibodies. In addition, patients with ocular cysticercosis can have peripheral eosinophilia (i.e. blood sample) as well as increased eosinophils in aqueous samples. You are examining a one-week-old child in the nursery. Your dilated fundus exam of the right eye is shown above. A CT scan shows diffuse intracerebral calcifications and enlarged ventricles. Which of the following is the most appropriate management choice for this child?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 31,
+  "question": "Which of the following is the most appropriate management choice for this child?",
+  "options": {
+   "A": "enucleation",
+   "B": "pyrimethamine, sulfadiazine, and folinic acid for the first year of life",
+   "C": "observation, since visual prognosis is poor and treatment has no significant effect on prognosis",
+   "D": "systemic corticosteroids"
+  },
+  "markedAnswer": "B",
+  "explanation": "Treatment of congenital toxoplasmosis with pyrimethamine and sulfadiazine (and folinic acid to reduce pyrimethamine-associated side effects) for the first year of life has been shown to reduce the severity of vision loss and systemic complications in these newborns. Which one of the following anti-toxoplasma gondii serologic results is the LEAST useful in a suspected case of ocular toxoplasmosis?",
+  "imageUrl": "/images/uveitis-oq/p37_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 32,
+  "question": "Which one of the following anti-toxoplasma gondii serologic results is the LEAST useful in a suspected case of ocular toxoplasmosis?",
+  "options": {
+   "A": "Neonate with positive IgM",
+   "B": "Adult with positive IgM",
+   "C": "Adult with positive IgG",
+   "D": "Adult with negative IgG"
+  },
+  "markedAnswer": "C",
+  "explanation": "All of the following individuals with toxoplasmosis retinochoroiditis must be treated with systemic antibiotics EXCEPT:.",
+  "imageUrl": "/images/uveitis-oq/p38_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 33,
+  "question": "All of the following individuals with toxoplasmosis retinochoroiditis must be treated with systemic antibiotics EXCEPT:",
+  "options": {
+   "A": "1-week old child with congenital toxoplasmosis",
+   "B": "21-year-old patient with an active, peripheral retinochoroidal lesion from reactivated toxoplasmosis",
+   "C": "pregnant woman with acquired toxoplasmosis",
+   "D": "45-year-old patient with acquired toxoplasmosis who is taking methotrexate for rheumatoid"
+  },
+  "markedAnswer": "B",
+  "explanation": "Treatment of toxoplasmosis is always indicated for newborns with congenital toxoplasmosis. pregnant women with acquired disease (also to prevent transmission), and immunocompromised patients (e.g. AIDS, cancer, or undergoing immunomodulatory therapy). A 25-year-old Haitian male presents with floaters and mild discomfort in the right eye. Fundus exam is pictured below. The left eye is asymptomatic and has a normal exam. Which of the following can help support a diagnosis?",
+  "imageUrl": "/images/uveitis-oq/p39_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 34,
+  "question": "A 25-year-old Haitian male presents with floaters and mild discomfort in the right eye. Fundus exam is pictured below. The left eye is asymptomatic and has a normal exam. Which of the following can help support a diagnosis?",
+  "options": {
+   "A": "Visual field testing",
+   "B": "Fluorescein angiography",
+   "C": "Retinal Nerve Fiber Laver (RNFL) OCT",
+   "D": "Posterior B-scan"
+  },
+  "markedAnswer": "B",
+  "explanation": "The features of a pigmented lesion with adjacent inflammation and overlying vitritis are suggestive of recurrent Toxoplasma chorioretinitis. A diagnosis can be confirmed by anterior chamber paracentesis for Toxoplasma gondii DNA and/or serologic testing for IgM and IgG to Toxoplasma. Of the modalities listed, fluorescein angiography (FA) is the most useful to identify sectoral versus diffuse vascular involvement. While the RNFL might show thickening and visual field an enlarged blind spot or focal scotoma, they are less likely to help classify this condition. A posterior B-scan is very useful in eyes with a pigmented lesion, particularly if there is concern for new presentation, growth, or associated subretinal fluid. This is the second best answer of the choices listed, but an FA would be the most helpful A 21-year-old patient presents to your clinic with complaints of decreased vision, pain, redness, and \"seeing things floating around\" in the left eye. Visual acuity OS is 20/250. Slit-lamp exam shows some large keratic precipitates and 2+ cell/flare in the left eye. Dilated fundus exam is shown above. The patient states that he almost died 5 years ago after taking a sulfa drug because of a \"weird rash.\" What is the best course of management for this patient?",
+  "imageUrl": "/images/uveitis-oq/p39_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 35,
+  "question": "His recent CD4 count was 49 cells/microliter. He also has been complaining about some new gait disturbances. All of the following are adequate treatments for this patient EXCEPT:",
+  "options": {
+   "A": "oral pyrimethamine, sulfadiazine, and folinic acid",
+   "B": "oral azithromycin, pyrimethamine, and folinic acid",
+   "C": "oral trimethoprim/sulfamethoxazole",
+   "D": "intravitreal clindamycin"
+  },
+  "markedAnswer": "D",
+  "explanation": "The patient's presentation and fundus exam are classic with toxoplasmosis retinochoroiditis. Patients with this condition frequently present with unilateral blurry or hazy vision and floaters. A mild-to-moderate, potentially granulomatous, anterior uveitis commonly occurs. The classic fundus finding of ocular toxoplasmosis is a focal, white retinitis with overlying vitreous inflammation. This appearance is said to resemble a \"headlight in the fog.\" This focal white retinitis is often adjacent to a pigmented chorioretinal scar. The nearby retinal vessels may show perivasculitis with diffuse venous sheathing and segmental arterial sheathing. Other potential eye findings include: cystoid macular edema, cataract, serous retinal detachment, and choroidal neovascularization. The whole point of this question is to emphasize that HIV/AIDS patients presenting with ocular toxoplasmosis require extended systemic treatment due to the high association of cerebral involvement. The BCSC Uveitis book quotes a 56% incidence of cerebral involvement in these susceptible patients. Thus, local treatment with intravitreal clindamycin is not adequate for the patient in this vignette. This patient also presents with a new gait disturbance which should make the physician worry even more about CNS toxoplasmosis involvement. The classic treatment for ocular toxoplasmosis (including in HIV/AIDS patients) is oral pyrimethamine, sulfadiazine, and leucovorin (i.e. folinic acid). Other alternative regimens in HIV/AIDS patients include: o pyrimethamine + clindamycin (oral or intravenous) + leucovorin o trimethoprim-sulfamethoxazole o pyrimethamine + atovaquone + leucovorin o atovaquone + sulfadiazine o azithromycin + pyrimethamine + leucovorin Obviously, it is unlikely you will need to know the various specific regimens to treatment potentially-systemic toxoplasmosis. But just know that these immunocompromised patients need systemic treatment A 10-year-old boy presents with poor vision in the right eye for the past 6 months. His birth history is unremarkable and he had a normal eve exam as a 5-year-old. His anterior segment exam is normal. His dilated fundus exam is shown above. Which of the following features is more consistent with this disease entity compared to retinoblastoma (Rb)?",
+  "imageUrl": "/images/uveitis-oq/p42_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 36,
+  "question": "Which of the following features is more consistent with this disease entity compared to retinoblastoma (Rb)?",
+  "options": {
+   "A": "inflammatory signs in this disease compared to Rb",
+   "B": "younger age of onset in this disease compared to Rb",
+   "C": "progressive lesion growth in this disease compared to Rb",
+   "D": "presence of calcifications in this disease compared to Rb"
+  },
+  "markedAnswer": "A",
+  "explanation": "A 3-year-old immigrant girl presents to your office with acutely-decreased vision OU over the past 1 week. Before her vision loss, she was sick with a fever, runny nose, cough, and \"blood- shot\" eyes. Her mother shows you a photograph of the \"weird rash\" her daughter developed a few days after the sickness began which started on her head. Her dilated fundus exam shows a macular star, optic disc swelling, and diffuse intraretinal hemorrhages. There is no vitritis present. Which of the following agents is most likely responsible for this child's condition?",
+  "imageUrl": "/images/uveitis-oq/p42_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 37,
+  "question": "Which of the following agents is most likely responsible for this child's condition?",
+  "options": {
+   "A": "Bartonella henselae",
+   "B": "rubella",
+   "C": "rubeola",
+   "D": "parvovirus B19"
+  },
+  "markedAnswer": "C",
+  "explanation": "This child has the classic signs and symptoms of measles (rubeola) which consist of the \"three C's\" -- cough, coryza (runny nose), and conjunctivitis. The systemic symptoms begin a few days before the characteristic maculopapular rash, which starts from the head and then spreads rapidly over the entire body. \"Measles retinopathy\" can present with significant vision loss approximately 1 week after the onset of the rash. This retinopathy consists of retinal edema, a macular star, optic disc swelling, narrowed arterioles, and intraretinal hemorrhages. As the retinopathy subsides, a pigmentary retinopathy resembling either retinitis pigmentosa (e.g. bone spicules) or rubella (e.g. \"salt-and-pepper\") can be left over. Measles retinopathy can be associated with permanent visual field constriction even after the svstemic disease has been resolved 55-year-old diabetic woman develops severe headache, chills, and fever with subsequent paralysis and altered mental status. She is admitted to the hospital and is treated with supportive care. While recovering, she notes blurry vision in the right eye. Vision is 20/100 and 20/40 in the right and left eyes respectively. Anterior segment examination demonstrates 1+ anterior chamber cell of both eyes. The posterior fundus, OCT of macula, and fluorescein angiography of both eyes are shown in the image. Which of the following is the most likely diagnosis?",
+  "imageUrl": "/images/uveitis-oq/p44_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 38,
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": {
+   "A": "Toxoplasmosis retinochoroiditis",
+   "B": "Acute posterior multifocal placoid pigment epitheliopathy",
+   "C": "West Nile chorioretinitis",
+   "D": "Rubella retinopathy"
+  },
+  "markedAnswer": "C",
+  "explanation": "West Nile virus is a single-stranded RNA virus that is transmitted from birds (reservoir) to humans via the Culex mosquito. The incubation period is 3-14 days with only 20% of individuals becoming symptomatic with fevers, myalgias, nausea/vomiting, and a maculopapular rash. A small minority of these patients can develop a more serious encephalitis or meningitis. Ocular involvement has been reported mainly in patients who develop serious illness such as encephalitis and is more commonly seen in diabetics. The characteristic posterior findings include a multifocal choroiditis that is typically bilateral with ring-shaped, yellow-white lesions that are sometimes arranged in a linear pattern. The ring-shaped appearance is most easily seen in the fluorescein angiogram. Anterior uveitis, retinal vasculitis, and optic neuritis have also been reported. Treatment is aimed at controlling the intraocular inflammation with corticosteroids and the lesions will heal eventually with pigmented edges. Vision will improve unless the macula is involved. Choroidal neovascularization is a possible complication. What medical condition has been implicated as a risk factor for an increased risk of West Nile Virus-related mortality?",
+  "imageUrl": "/images/uveitis-oq/p25_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 39,
+  "question": "What medical condition has been implicated as a risk factor for an increased risk of West Nile Virus-related mortality?",
+  "options": {
+   "A": "Systemic Lupus Erythematosus",
+   "B": "Diabetes Mellitus",
+   "C": "Rheumatoid Arthritis",
+   "D": "Hypothyroidism"
+  },
+  "markedAnswer": "B",
+  "explanation": "Symptoms of West-Nile Virus-related ocular inflammation include pain, photophobia, conjunctival hyperemia, and blurry vision. Multifocal chorioretinitis, nongranulomatous anterior uveitis and vitreous inflammation are present in most patients that have ocular involvement. The characteristics of the multifocal chorioretinitis include: o Distributed throughout the midperiphery o 80% have a \"linear array\" distribution (following the course of retinal nerve fibers) o Active chorioretinal lesions are white-to-yellow; flat and deep; and evolve with differing degrees of pigmentation and atrophy. In most patients, intraocular inflammation associated with West Nile Virus infection has a self limiting course, with a return to visual acuity to baseline after several months. After becoming infected with West Nile Virus, there is usually an incubation period that can last from 2 days to 2 weeks. Although 80% of infections with West Nile Virus remain subclinical, 20% of patients can experience constitutional symptoms such as fevers, headaches, fatigue, myalgia, malaise, nausea, and rash. Severe neurological disease (meningitis and encephalitis) may occur, frequently found in association with diabetes mellitus and advanced age. Furthermore, diabetes mellitus has been implicated as a risk factor for West Nile Virus- related death. A 15-year-old teenager presents to your office with bilateral eye irritation. On slit-lamp exam, you note the presence of a mild follicular conjunctivitis OU as well as 1+ cell in the anterior chamber OU. Dilated fundus exam is normal. His review of systems is positive for lethargy, malaise, swollen lymph nodes, and a sore throat. Laboratory workup reveals elevated VCA IgM and EA titers (VCA=viral capsid antigen; EA=early antigen). Which of the following is the most appropriate systemic management for this patient?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 40,
+  "question": "Which of the following is the most appropriate systemic management for this patient?",
+  "options": {
+   "A": "intravenous acyclovir",
+   "B": "supportive treatment with adequate hydration and anti-pyretics for fever",
+   "C": "azithromycin",
+   "D": "oral acyclovir or valacyclovir"
+  },
+  "markedAnswer": "B",
+  "explanation": "This teenager's symptoms are consistent with infectious mononucleosis (IM) which is a systemic syndrome caused by the Epstein-Barr virus (EBV). There is no specific systemic treatment for the viral infection itself. The EA rises within 6-10 weeks of exposure, reaches to a maximum during the acute illness phase, and disappears 6 to 12 months after the infection. The VCAgM usually rise approximately 4 weeks after exposure. The most common ocular manifestation of IM is a mild follicular conjunctivitis. Other ocular signs include episcleritis, iridocyclitis, keratitis, dacryadenitis, optic neuritis, macular edema, retinal hemorrhages, pars planitis, and choroiditis among others. A 14-year-old girl presents to your office with a chief complaint of decreased vision, photophobia, and floaters in the right eye. On examination, there are mutton-fat keratic precipitates and 2+ anterior chamber cell and flare. Her dilated fundus exam is difficult to complete due to 3+ vitritis. On review of systems, she complains of left knee pain that started approximately 1 month after the onset of a \"weird rash.\" Luckily for you, she took a photograph of this rash which is shown above. Which of the following ancillary tests should be performed to decide on the appropriate therapy for this girl?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 41,
+  "question": "Which of the following ocular problems does NOT typically occur in patients with pars planitis?",
+  "options": {
+   "A": "vitreous hemorrhage",
+   "B": "band keratopathy",
+   "C": "cystoid macular edema",
+   "D": "bilateral disease"
+  },
+  "markedAnswer": "B",
+  "explanation": "Band keratopathy does not typically occur in patient with pars planitis. Pars planitis is typically associated with tractional and rhegmatogenous retinal detachments. Spontaneous vitreous hemorrhage is sometimes the presenting sign of pars planitis especially in children. Cystoid macular edema is the predominant cause of decreased Vision in pars planitis. 80% of pars planitis cases are bilateral although one eye is often significantly worse than then the other. A 30-year-old woman presents with a complaint of floaters in the right eye for the past month. She also notes some mild photophobia and blurry vision in the right eye. Her visual acuity is 20/60 OD and 20/20 OS. Her peripheral retinal exam shows white deposits along the vitreous base as well as white opacities in the middle of the vitreous of the right eye. Her fluorescein angiogram (FA) is shown above. Her laboratory workup does not reveal anything. Which of the following represents the best therapy for this patient's condition?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 42,
+  "question": "Which of the following represents the best therapy for this patient's condition?",
+  "options": {
+   "A": "sub-Tenon corticosteroids",
+   "B": "intravitreal corticosteroids",
+   "C": "topical NSAIDs",
+   "D": "immunomodulatory therapy"
+  },
+  "markedAnswer": "A",
+  "explanation": "This patient presents with vitreous opacities (\"snowballs\") and an aggregation of whitish material along her inferior pars plana (\"snowbank\"). Her FA shows the petaloid pattern of cystoid macular edema. These constellation of findings (and her negative systemic workup) are consistent with a diagnosis of pars planitis. For unilateral cases of pars planitis, the first line of therapy is periocular corticosteroids via the sub-Tenon's route. If this presented bilaterally, then oral prednisone is typically initiated with eventual bridging to steroid-sparing immunomodulatory therapy if the inflammation persists. Please note that pars planitis is not synonymous with the intermediate uveitis that occurs in multiple sclerosis. Pars planitis, by definition, is idiopathic and does not have a known systemic association. A 33-year-old Caucasian woman presents with a complaint of floaters in both eyes for the past 3 months. She also notes some mild photophobia and blurry vision. Her peripheral retinal exam shows a whitish deposit along the vitreous base of both eyes. She undergoes a MRI of the brain which shows multiple periventricular white matter lesions consistent with demyelination and gliosis. What treatment is contraindicated in this patient?",
+  "imageUrl": "/images/uveitis-oq/p50_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 43,
+  "question": "A 33-year-old Caucasian woman presents with a complaint of floaters in both eyes for the past 3 months. She also notes some mild photophobia and blurry vision. Her peripheral retinal exam shows a whitish deposit along the vitreous base of both eyes. She undergoes a MRI of the brain which shows multiple periventricular white matter lesions consistent with demyelination and gliosis. What treatment is contraindicated in this patient?",
+  "options": {
+   "A": "methotrexate",
+   "B": "cyclosporine",
+   "C": "infliximab",
+   "D": "sub Tenon corticosteroids"
+  },
+  "markedAnswer": "C",
+  "explanation": "In most large epidemiological studies published, which type of uveitis was LEAST common in adults?",
+  "imageUrl": "/images/uveitis-oq/p51_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 44,
+  "question": "In most large epidemiological studies published, which type of uveitis was LEAST common in adults?",
+  "options": {
+   "A": "anterior uveitisn",
+   "B": "intermediate uveitis",
+   "C": "posterior uveitis",
+   "D": "panuveitis"
+  },
+  "markedAnswer": "B",
+  "explanation": "Intermediate uveitis usually presents with what maior symptom?",
+  "imageUrl": "/images/uveitis-oq/p52_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 45,
+  "question": "Intermediate uveitis usually presents with what maior symptom?",
+  "options": {
+   "A": "eye pain",
+   "B": "conjunctival injection",
+   "C": "floaters",
+   "D": "nyctalopia"
+  },
+  "markedAnswer": "C",
+  "explanation": "Floaters and blurred vision are the predominant symptoms encountered with intermediate uveitis. Nvctalobia can occur in posterior uveitis. All of the following are considered \"seronegative spondyloarthropathies\" and may be associated with HLA-B27 positivity and acute anterior uveitis EXCEPT:.",
+  "imageUrl": "/images/uveitis-oq/p52_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 46,
+  "question": "All of the following are considered \"seronegative spondyloarthropathies\" and may be associated with HLA-B27 positivity and acute anterior uveitis EXCEPT:",
+  "options": {
+   "A": "ankylosing spondylitis",
+   "B": "reactive arthritis",
+   "C": "tubulointerstitial nephritis",
+   "D": "inflammatory bowel disease"
+  },
+  "markedAnswer": "C",
+  "explanation": "Which of the following is TRUE in regards to inflammatory bowel disease (IBD)?",
+  "imageUrl": "/images/uveitis-oq/p53_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 47,
+  "question": "Which of the following is TRUE in regards to inflammatory bowel disease (IBD)?",
+  "options": {
+   "A": "Patients with IBD and sclerouveitis are more commonly HLA-B27 negative",
+   "B": "Patients with IBD and intermediate uveitis are more commonly HLA-B27 positive",
+   "C": "Patients with IBD and acute anterior uveitis are more commonly HLA-B27 negative",
+   "D": "Patients with IBD and sclerouveitis usually develop sacroilitis"
+  },
+  "markedAnswer": "A",
+  "explanation": "Inflammatory bowel disease (IBD) is an umbrella term that represents chronic gastrointestinal inflammation, which includes both ulcerative colitis and Crohn's disease. Although IBD has a specific predilection for the intestinal tract, it is a systemic inflammatory disorder affecting multiple organs, including the eye. Patients with ID may develop sclerouveitis, but these individual are more commonly HLA-B27 negative. In addition, these patients are more likely to have symptoms resembling rheumatoid arthritis, and usually do not develop sacroiliitis. Patients with both acute anterior uveitis and IBD are more likely to be HLA-B27 positive and have sacroiliitis. Patients with IBD and intermediate uveitis are more commonly HLA B27 negative. Which of the following is TRUE in regards to patients with inflammatory bowel disease (IBD)?",
+  "imageUrl": "/images/uveitis-oq/p33_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 48,
+  "question": "Which of the following is TRUE in regards to patients with inflammatory bowel disease (IBD)?",
+  "options": {
+   "A": "Patients with IBD and intermediate uveitis are more commonly HLA-B27 positive",
+   "B": "Patients with IBD and sclerouveitis are more commonly to be HLA-B27 positive",
+   "C": "Patients with IBD and sclerouveitis frequently develop sacroillitis",
+   "D": "Patients with acute anterior uveitis and IBD are more commonly HLA-B27 positive"
+  },
+  "markedAnswer": "D",
+  "explanation": "Inflammatory bowel disease (IBD) is an umbrella term that represents chronic gastrointestinal inflammation, which includes both ulcerative colitis and Crohn's disease. Although IBD has a specific predilection for the intestinal tract, it is a systemic inflammatory disorder affecting multiple organs, including the eye. Patients with both acute anterior uveitis and IBD are more likely to be HLA-B27 positive and have sacroiliitis. Patients with IBD may develop sclerouveitis, but these individual are more commonly HLA-B27 negative. In addition, these patients are more likely to have symptoms resembling rheumatoid arthritis, and usually do not develop sacroiliitis. Patients with IBD and intermediate uveitis are more commonly HLA B27 negative. A 45-year-old patient with a history of ulcerative colitis presents to your clinic with acute left eye pain. On slit-lamp examination, there is 3+ conjunctival injection with an underlying \"bluish hue\" to the sclera, trace corneal edema, and 2+ anterior chamber cell. Dilated fundus exam is normal. Which of the following statements is TRUE regarding this patient?",
+  "imageUrl": "/images/uveitis-oq/p33_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 49,
+  "question": "A 45-year-old patient with a history of ulcerative colitis presents to your clinic with acute left eye pain. On slit-lamp examination, there is 3+ conjunctival injection with an underlying \"bluish hue\" to the sclera, trace corneal edema, and 2+ anterior chamber cell. Dilated fundus exam is normal. Which of the following statements is TRUE regarding this patient?",
+  "options": {
+   "A": "he is likely HLA-B27 positive, will have joint pain resembling rheumatoid arthritis, and will not likely develop sacroiliitis",
+   "B": "he is likely HLA-B27 negative, will have joint pain resembling rheumatoid arthritis, and will not likely develop sacroiliitis",
+   "C": "he is likely HLA-B27 positive, will have joint pain resembling rheumatoid arthritis, and will likely develop sacroiliitis",
+   "D": "he is likely HLA-B27 positive, will have joint pain resembling osteoarthritis, and will likely"
+  },
+  "markedAnswer": "B",
+  "explanation": "Patients with ulcerative colitis or Crohn disease (i.e. inflammatory bowel disease [IBD]) can present with eye pain. The most common ocular symptom is acute iritis; however a sclerouveitis (as in this case) also can occur. Patients with IBD that develop sclerouveitis are typically HLA-B27 negative, develop joint pain resembling rheumatoid arthritis, and do not develop sacroiliitis. In contrast, patients with IBD and acute iritis are usually HLA-B27 positive and will develop sacroiliitis. A 25-year-old man presents to your clinic with bilateral eye pain and redness. He states that he just returned from a trip to Mexico 2 weeks ago during which he suffered from \"pretty bad diarrhea.\" He also has been experiencing some knee and ankle pain and a \"weird skin rash\" on his feet as shown in the photograph above. What is the most common ocular manifestation of this patient's medical condition?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 50,
+  "question": "A 25-year-old man presents to your clinic with bilateral eye pain and redness. He states that he just returned from a trip to Mexico 2 weeks ago during which he suffered from \"pretty bad diarrhea.\" He also has been experiencing some knee and ankle pain and a \"weird skin rash\" on his feet as shown in the photograph above. What is the most common ocular manifestation of this patient's medical condition?",
+  "options": {
+   "A": "Iritis",
+   "B": "Subepithelial Keratitis",
+   "C": "Conjunctivitis",
+   "D": "Intermediate uveitis"
+  },
+  "markedAnswer": "C",
+  "explanation": "Which of the following is FALSE in regards to reactive arthritis syndrome?",
+  "imageUrl": "/images/uveitis-oq/p56_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 51,
+  "question": "Which of the following is FALSE in regards to reactive arthritis syndrome?",
+  "options": {
+   "A": "Associated with HLA-B27",
+   "B": "Urethritis is a necessary trigger",
+   "C": "Conjunctivitis is the most common eye finding associated with the disease",
+   "D": "Most frequently ocurs in males"
+  },
+  "markedAnswer": "B",
+  "explanation": "The seronegative spondyloarthropathies consist of ankylosing spondylitis, reactive arthritis syndrome, inflammatory bowel disease, and psoriatic arthritis. These autoimmune diseases are strongly associated with acute anterior uveitis and Human Leukocyte Antigen B-27 (HLA-B27). Reactive arthritis syndrome constitutes less than 2% of the seronegative spondyloarthropathies and occurs most frequently in young males, although 10% of patients are female. Although the classic diagnostic triad consists of nonspecific urethritis, polyarthritis, and conjunctival inflammation, reactive arthritis syndrome may be triggered by episodes of diarrhea or dysentery without urethritis. Eye involvement occurs in approximately 20% of patients with reactive arthritis syndrome, most commonly as mucopurulent papillary conjunctivitis. Acute nongranulomatous anterior uveitis occurs in up to 10% of patients and may become bilateral and chronic. A 31-year-old man presents to your office with acute pain of the right eye. On slit-lamp examination, you note diffuse non-granulomatous keratic precipitates, 2+ cell and flare, and trace corneal edema. Dilated fundus exam is normal. The patient is frustrated because he is also trying to recover from some chronic back pain recently. This back pain gets better with exercise. Which of the following diagnostic tests would be most helpful in establishing this patient's diagnosis?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 52,
+  "question": "A 31-year-old man presents to your office with acute pain of the right eye. On slit-lamp examination, you note diffuse non-granulomatous keratic precipitates, 2+ cell and flare, and trace corneal edema. Dilated fundus exam is normal. The patient is frustrated because he is also trying to recover from some chronic back pain recently. This back pain gets better with exercise. Which of the following diagnostic tests would be most helpful in establishing this patient's diagnosis?",
+  "options": {
+   "A": "anti-neutrophil antibody",
+   "B": "imaging of the proximal interphalangeal (PIP) joints",
+   "C": "HLA-B51",
+   "D": "sacroiliac imaging studies"
+  },
+  "markedAnswer": "D",
+  "explanation": "A 45-year-old man with a past medical history of ankylosing spondylitis presents with unilateral, nongranulomatous anterior uveitis with hypopyon. Testing reveals he is HLA-B27-positive. What further testing may be required in this patient?",
+  "imageUrl": "/images/uveitis-oq/p58_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 53,
+  "question": "What further testing may be required in this patient?",
+  "options": {
+   "A": "Polymerase Chain Reaction analysis of intraocular fluid",
+   "B": "Coagulation Studies",
+   "C": "Echocardiogram",
+   "D": "Urinalysis"
+  },
+  "markedAnswer": "C",
+  "explanation": "Up to 90% of patients with ankylosing spondylitis test positive for HLA-B27, although most HLA-B27-positive individuals do not develop the disease. Sacroiliac imaging studies should be obtained when indicated by a positive history of morning lower back stiffness that improves with exertion. Cardiac dysfunction and pulmonary disease are well-known and commonly reported extra-articular conditions associated with ankylosing spondylitis. Specifically, ankylosing spondylitis has been reported to be associated with aortitis, aortic valve disease, conduction disturbances, cardiomyopathy, and ischemic heart disease. The pulmonary manifestations include pulmonary fibrosis, interstitial lung disease, chest wall restriction, sleep apnea, and spontaneous pneumothorax. Which of the following two uveitis entities can be associated with a hypopyon?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 54,
+  "question": "Which of the following two uveitis entities can be associated with a hypopyon?",
+  "options": {
+   "A": "Fuchs heterochromic iridocyclitis and Juvenile Idiopathic Arthritis",
+   "B": "Posner-Schlossman syndrome and Behcet syndrome",
+   "C": "Pars planitis and Juvenile Idiopathic Arthritis",
+   "D": "HLA-B27-related uveitis diseases and Adamantiades-Behcet disease syndrome"
+  },
+  "markedAnswer": "D",
+  "explanation": "There are only two non-infectious uveitis entities that can routinely present with a hypopyon -- the HLA-B27- associated diseases and Behcet syndrome. A 44-year-old woman presents with a headache, vertigo, blurry vision and light sensitivity. Her exam revealsbilateral granulomatous panuveitis. During the course of her evaluation, she undergoes a B-scan ultrasound with similar results in both eyes (see photo above). Which of the following statements is TRUE regarding her most likely eye problem?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 55,
+  "question": "A 44-year-old woman presents with a headache, vertigo, blurry vision and light sensitivity. Her exam revealsbilateral granulomatous panuveitis. During the course of her evaluation, she undergoes a B-scan ultrasound with similar results in both eyes (see photo above). Which of the following statements is TRUE regarding her most likely eye problem?",
+  "options": {
+   "A": "Treatment with corticosteroids should be instituted",
+   "B": "This patient is likely of European descent",
+   "C": "The underlying mechanism is due to ciliary body shutdown",
+   "D": "This patient should undergo surgical repair within one week"
+  },
+  "markedAnswer": "A",
+  "explanation": "The B-scan demonstrates thickening of the posterior choroid which is commonly found during the acute uveitic phase of Vogt-Koyanagi-Harada (VKH) disease. VKH is more common in Asians, Asian Indians, and Hispanics and rare in Caucasians and Africans. The clinical stages of VKH are: • Prodromal stage - flu-like symptoms, meningitis-like symptoms (e.g.headache, neck pain), tinnitus, dysacusis, fever, nausea • Acute uveitic stage (a few days after prodromal stage) -- blurry vision, bilateral granulomatous anterior uveitis, vitritis, thickening of choroid, optic disc hyperemia/edema, multiple serous RDs • Convalescent stage (several weeks later) - resolution of serous RDs, sunset-glow fundus, perilimbal vitiligo (Sugiura sign), vitiligo, alopecia, poliosis • Chronic recurrent stage (if not treated adequately) --recurrent episodes of granulomatous anterior uveitis, iris depigmentation, posterior synechiae, cataract, glaucoma, CNV, subretinal fibrosis. The acute uveitic stage of VKH actually responds quite well to aggressive corticosteroids (e.g. topical, pericocular, and systemic). Typically, systemic corticosteroids are tapered very slowly according to the clinical response to prevent the occurrence of the chronic recurrent stage. Answer choice \"C\" is alluding to hypotony which may result in a choroidal detachment. Answer choice \"D\" is referring to a macula-off retinal detachment. A 32-year-old Japanese American woman presents to your office with bilateral decreased vision. She states that all of these eye problems began when she was diagnosed with \"aseptic meningitis\" by an ER doctor. Her fundus exam is shown above. What can be inferred about the disease that this woman most likely has?",
+  "imageUrl": "/images/uveitis-oq/p60_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 56,
+  "question": "A 32-year-old Japanese American woman presents to your office with bilateral decreased vision. She states that all of these eye problems began when she was diagnosed with \"aseptic meningitis\" by an ER doctor. Her fundus exam is shown above. What can be inferred about the disease that this woman most likely has?",
+  "options": {
+   "A": "This disease is in its late stages",
+   "B": "The patient most likely also has oral ulcers",
+   "C": "The association of this disease to HLA-A29 is one of the strongest known of any disease",
+   "D": "This disease is poorly responsive to systemic corticosteroids"
+  },
+  "markedAnswer": "A",
+  "explanation": "What Human Leukocyte Antigen (HLA) has been found to be associated with Vogt-Koyanagi- Harada Syndrome?",
+  "imageUrl": "/images/uveitis-oq/p61_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 57,
+  "question": "Among which of the following racial groups is VKH (Vogt-Koyanagi-Harada) disease the LEAST common?",
+  "options": {
+   "A": "Asians",
+   "B": "Africans",
+   "C": "Hispanics",
+   "D": "Middle Easterners"
+  },
+  "markedAnswer": "B",
+  "explanation": "VKH disease is not common among Caucasians or Africans, but it is common among other darkly-pigmented groups like Asian-Indians, Hispanics, and Native Americans. It is actually the most common cause of noninfectious uveitis in Brazil and Saudi Arabia. During which phase do the clinical signs of alopecia, vitiligo, and poliosis typically occur in patients with Vogt-Koyanagi-Harada (VKH) syndrome?",
+  "imageUrl": "/images/uveitis-oq/p63_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 58,
+  "question": "During which phase do the clinical signs of alopecia, vitiligo, and poliosis typically occur in patients with Vogt-Koyanagi-Harada (VKH) syndrome?",
+  "options": {
+   "A": "prodromal stage",
+   "B": "acute uveitic stage",
+   "C": "convalescent stage",
+   "D": "chronic recurrent stage"
+  },
+  "markedAnswer": "C",
+  "explanation": "A 48-year-old Hispanic man with no prior medical history presents for blurry vision of both eyes. The patient complains of two weeks of headaches, orbital pain, photophobia, and a week of worsening blurry vision. His vision is 20/100 OD and 20/250 OS. Anterior segment is notable for granulomatous keratic precipitates and 3+ cell. There is 2+ anterior vitreous cell. The fundus examination and OCT are shown in the images. A T-cell mediated reaction to which of the following cells is thought to play a major role in the pathophysiology of this patient's disease?",
+  "imageUrl": "/images/uveitis-oq/p64_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 59,
+  "question": "A T-cell mediated reaction to which of the following cells is thought to play a major role in the pathophysiology of this patient's disease?",
+  "options": {
+   "A": "Ganglion cells",
+   "B": "Melanocytes",
+   "C": "Pericytes",
+   "D": "Astroglia"
+  },
+  "markedAnswer": "B",
+  "explanation": "Current clinical and experimental evidence suggest the etiology of Vogt-Koyanagi-Harada (VKH) syndrome to be a cell-mediated autoimmune process against what entity?",
+  "imageUrl": "/images/uveitis-oq/p65_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 60,
+  "question": "Current clinical and experimental evidence suggest the etiology of Vogt-Koyanagi-Harada (VKH) syndrome to be a cell-mediated autoimmune process against what entity?",
+  "options": {
+   "A": "Islets of Langerhans",
+   "B": "Acetylcholine Receptors",
+   "C": "Thyroid Peroxidase",
+   "D": "Melanocytes"
+  },
+  "markedAnswer": "D",
+  "explanation": "Vogt-Koyanagi-Harada (VKH) syndrome is rare disease that is characterized by chronic, bilateral, diffuse, granulomatous panuveitis that affects pigmented structures, such as the eye, inner ear, meninges, skin, and hair. The exact etiology and pathogenesis of VKH is not fully understood, but current clinical and experimental evidence suggest VKH is mainly a T lymphocyte mediated aggression against melanocytes of all organ systems in genetically susceptible individuals. Islets of Langerhans, also known as pancreatic islets, are functional units of the endocrine pancreas and play an important role in maintaining glucose hemostasis via production of hormones. Approximately 70% of the cells which comprise the Islets are beta cells, which are responsible for insulin production. Type 1 diabetes is characterized by immune-mediated destruction of beta cells within the pancreatic islets. Myasthenia gravis is an autoimmune disease of the neuromuscular junction that leads to significant impairment of skeletal muscle function. Most cases are caused by antibodies against acetylcholine receptors (AChR). These antibodies produce complement-mediated damage and increase the rate of receptor turnover, causing loss of acetylcholine receptors from postsynaptic membranes. A minority of patients with myasthenia gravis do not possess antibodies to AChR, but may positive for antibodies against to muscle-specific kinase (MuSK), or related proteins such as agrin and low-density lipoprotein receptor-related protein 4 (LRP4). Hashimoto's thyroiditis, also known as chronic lymphocytic thyroiditis, is an autoimmune disorder directed against the thyroid gland, leading to chronic inflammation of the thyroid gland. It is the most common cause of hypothyroidism in the United States. The most common antibodies found in patients with Hashimoto's thyroiditis are antibodies directed against thyroid peroxidase (anti-TPO), thyroglobulin (anti-Tg), and TSH receptor (TBIl). Besides a history of ocular trauma or surgery, which of the following characteristics helps to distinguish VKH (Vogt-Koyanagi-Harada) disease from SO (sympathetic ophthalmia)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 61,
+  "question": "Besides a history of ocular trauma or surgery, which of the following characteristics helps to distinguish VKH (Vogt-Koyanagi-Harada) disease from SO (sympathetic ophthalmia)?",
+  "options": {
+   "A": "Granulomatous uveitis in VKH",
+   "B": "Dalen Fuchs nodules in VKH",
+   "C": "Exudative retinal detachment in SO",
+   "D": "Systemic symptoms in VKH"
+  },
+  "markedAnswer": "D",
+  "explanation": "Though systemic symptoms (e.g. poliosis, vitiligo, alopecia, hearing loss, meningeal signs) can occur in SO, they are much less common compared to their frequency in VKH disease. Other ways that differentiate these two similar entities: o Race: Asians/Indians, Hispanics, Native Americans, Middle Easterners for VKH; no racial predilection for SO o Serous (exudative) RD: common in VKH; less frequent in SO o Choriocapillaris inflammation: common in VKH; rare in SO A patient presents with headache, fever, orbital pain, nausea, and hearing difficulties. There is no intraocular inflammation found on exam and testing. What stage of Vogt-Koyanagi-Harada (VKH) syndrome does this patient's symptoms most likely represent?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 62,
+  "question": "What stage of Vogt-Koyanagi-Harada (VKH) syndrome is most likely represented by the displayed optical coherence tomographic image?",
+  "options": {
+   "A": "prodromal",
+   "B": "acute uveitic",
+   "C": "convalescent",
+   "D": "chronic recurrent"
+  },
+  "markedAnswer": "B",
+  "explanation": "Vogt-Koyanagi-Harada (VKH) syndrome and sympathetic ophthalmia (SO) are associated with which HLA haplotype?",
+  "imageUrl": "/images/uveitis-oq/p70_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 63,
+  "question": "Given the likely diagnosis, which of the following is associated with the patient's condition?",
+  "options": {
+   "A": "Choroidal granulomas",
+   "B": "Iris vessels that cross the angle and bleed with manipulation",
+   "C": "Positive herpes simplex virus PCR on anterior chamber paracentesis",
+   "D": "Cystoid macular edema"
+  },
+  "markedAnswer": "B",
+  "explanation": "The patient is presenting with Fuchs uveitis syndrome (FUS), also known as Fuchs heterochromic iridocyclitis. FUS is a chronic, low-grade, unilateral anterior uveitis that may be caused by the rubella virus. Clinical manifestations include stellate keratic precipitates (KP) diffusely scattered over the endothelium, low-grade anterior chamber (AC) and anterior vitreous cell, iris nodules and crystals, diffuse iris stromal atrophy leading to heterochromia (typically the lighter eye is the involved eye), loss of iris crypts, and anisocoria due to iris sphincter dysfunction (as seen in the photo). Iris crystals represent Russel bodies (plasma cells filled with immunoglobulins). On gonioscopy, fine radial vessels may be seen that bleed during cataract surgery (Amsler-Verrey sign). Lack of cystoid macular edema, posterior synechiae, and KP in the distribution of Arlt's triangle are clues to differentiate FUS from other causes of anterior uveitis. However, FUS is a diagnosis of exclusion and typically other infectious etiologies such as tuberculosis and syphilis should be excluded. Patients are usually asymptomatic, and the diagnosis is made on a routine examination. A significant portion of patients will develop glaucoma and cataracts, which may also be the reason for seeking care. As the anterior segment inflammation is mild, treatment with topical steroids is not necessary. A 35-year-old Caucasian man presents with blurry vision in his left eye for 2 weeks. He denies photophobia or pain. Examination of his right eye is unremarkable. Examination of his left eye is notable for trace anterior chamber cell and stellate keratic precipitates diffusely dispersed on the corneal endothelium. His irides are brown, but his left iris appears lighter in color. Based off this patient's most likely diagnosis, which one of the following is TRUE in regards to this condition?",
+  "imageUrl": "/images/uveitis-oq/p73_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 64,
+  "question": "A 35-year-old Caucasian man presents with blurry vision in his left eye for 2 weeks. He denies photophobia or pain. Examination of his right eye is unremarkable. Examination of his left eye is notable for trace anterior chamber cell and stellate keratic precipitates diffusely dispersed on the corneal endothelium. His irides are brown, but his left iris appears lighter in color. Based off this patient's most likely diagnosis, which one of the following is TRUE in regards to this condition?",
+  "options": {
+   "A": "Posterior synechiae is commonly found",
+   "B": "Aggressive treatment to eradicate the inflammatory cellular reaction is indicated",
+   "C": "Histological examination shows plasma cells in the ciliary body",
+   "D": "The lighter-colored iris is always in the involved eye"
+  },
+  "markedAnswer": "C",
+  "explanation": "Which of the following characterizes Fuchs' heterochromic uveitis?",
+  "imageUrl": "/images/uveitis-oq/p74_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 65,
+  "question": "Which of the following characterizes Fuchs' heterochromic uveitis?",
+  "options": {
+   "A": "Aggressive treatment with topical corticosteroids resolves the inflammation",
+   "B": "Bilateral ocular inflammation",
+   "C": "Vasculitis of the peripheral retinal vasculature",
+   "D": "Filiform hemorrhage after anterior chamber paracentesis"
+  },
+  "markedAnswer": "D",
+  "explanation": "Abnormal vessels bridging the anterior chamber angle can be seen on gonioscopy. A characteristic filiform hemorrhage and formation of hyphema after anterior chamber paracentesis, intraocular surgery, ocular trauma, gonioscopy, applanation tonometry or spontaneously is known as the Amsler-Verrey sign. Patients generally do well with cataract surgery and intraocular lenses can usually be implanted without significant complications. Which of the following diseases has been associated with the rubella virus?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 66,
+  "question": "Which of the following diseases has been associated with the rubella virus?",
+  "options": {
+   "A": "Giant cell arteritis",
+   "B": "Subacute sclerosing panencephalitis",
+   "C": "Cat scratch fever",
+   "D": "Fuchs' heterochromic iridocyclitis"
+  },
+  "markedAnswer": "D",
+  "explanation": "A study by de Groot-Mijnes et al (2006)1 found an association between Fuchs' heterochromic iridocyclitis (FHIC) and rubella. There are other studies (e.g. Am J Ophthalmol. 2008;145:834-40) that have shown an association of FHIC with cytomegalovirus, Toxocara caniis, toxoplasmosis, and herpes simplex. Subacute sclerosing panencephalitis (SSPE) is a rare late-onset sequelae following primary measles infection. Patients often suffer from the primary measles infection before age 2. After 5-15 years without evidence of active infection, the virus reactivates with progressive neurological decline. The disease is often fatal although it caught early can be treated successfully with antiviral agents. Cat scratch fever is a disease marked by fever, lymphadenopathy, and sometimes neuro-retinitis. As the name suggests, the causative Gram negative bacteria, Bartonella henselae or Bartonella quintana, is usually transmitted from the bite or scratch of an infected cat. Yet another reason to not like cats! Giant cell arteritis (GCA) is a systemic vasculitis of medium and large vessels predominately involving the head and neck. Despite efforts to find a causative infectious pathogen, there is still no consensus on an infectious cause for GCA. Reports exist of varicella zoster virus (VZV) DNA in the walls of temporal artery biopsies in patients with GCA but it is not clear that VZV is the cause. Other etiologies have been proposed and subsequently disproven such as Chlamydia pneumonia. At this time GCA remains truly idiopathic. 55-year-old man presents to your clinic for evaluation for cataract surgery. The patient states that the vision in his right eye is much more cloudy compared to his left eye. On slit-lamp examination, you note some iris atrophy, diffuse small keratitic precipitates, 1+ cell in the anterior chamber and anterior vitreous, and a dense posterior subcapsular cataract. There are no posterior synechiae. You note a difference in color between the two eyes. The dilated fundus exam shows a few old-looking chorioretinal scars. Which of the following biological agents has been shown to be associated with this patient's ocular condition?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 67,
+  "question": "Which of the following biological agents has been shown to be associated with this patient's ocular condition?",
+  "options": {
+   "A": "Bartonella henselae",
+   "B": "Ancylostoma caninum",
+   "C": "rubella",
+   "D": "herpes zoster"
+  },
+  "markedAnswer": "C",
+  "explanation": "This patient presents with a unilateral uveitis with iris stromal atrophy, small diffuse keratic precipitates, and lack of posterior synechiae. He also has a unilateral, posterior subcapsular cataract. These signs are typical of \"Fuchs heterochromic iridocyclitis\" (FHIC). A study by de Groot-Mines et al (2006)1 found an association of FHIC with rubella. There are other studies (e.g. Am J Ophthalmol. 2008:145:834-40) that have shown an association of FHIC with cytomegalovirus, Toxocara canis, toxoplasmosis, and herpes simplex. With which of the following HLA gene loci may Posner-Schlossman syndrome be associated?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 68,
+  "question": "With which of the following HLA gene loci may Posner-Schlossman syndrome be associated?",
+  "options": {
+   "A": "HLA-B51",
+   "B": "HLA-B27",
+   "C": "HLA-B54",
+   "D": "HLA-A29"
+  },
+  "markedAnswer": "C",
+  "explanation": "In addition to Posner-Schlossman syndrome. the HLA-B54 gene locus may also be associated with Vogt- Koyanagi-Harada (VKH) disease. HLA-B51 is associated with Behcet disease: HLA-B27 is associated with the \"seronegative spondyloarthropathies\" (e.g. ankylosing spondylitis): and HLA-A29 is associated with birdshot retinochoroidopathy. A 45-year-old male presents with symptoms of sudden onset blurred vision and discomfort in his right eye. He notes he has had three similar episodes in the same eye in the past and he was diagnosed with acute angle-closure glaucoma and underwent laser peripheral iridotomy after his last episode. His right eye has an intraocular pressure of 57 mmHG. Clinical exam of the right eye is notable for mild corneal edema, a cluster of small and medium-sized keratic precipitates located inferotemporally, 1 + anterior chamber cellular reaction, a large and patent peripheral iridotomy, and a slightly dilated pupil. He has an open angle on gonioscopy. Clinical exam of his left eye is unremarkable. Based off this patient's most likely diagnosis, which of the following is TRUE in regards to this condition?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 69,
+  "question": "Based off this patient's most likely diagnosis, which of the following is TRUE in regards to this condition?",
+  "options": {
+   "A": "Treatment of inflammation with topical corticosteroids is indicated during episodes",
+   "B": "Peripheral anterior synechie is commonly found on exam",
+   "C": "Granulomatous anterior uveitis is commonlv found on exam",
+   "D": "Bilateral presentation is common"
+  },
+  "markedAnswer": "A",
+  "explanation": "Glaucomatocyclitic crisis, also known as Posner-Schlossman A 28-year-old African American woman presents to you with a painful eye and decreased vision in this eye. Her slit-lamp exam of the affected eye is seen in the photograph above. You also notice some nodules on the pupillary border (not shown in photo). Dilated fundus exam shows mild vitritis, a moderate periphlebitis with whitish exudates, and moderate optic nerve swelling. Which of the following is the single best screening test for this patient's likely medical condition?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 70,
+  "question": "A 28-year-old African American woman presents to you with a painful eye and decreased vision in this eye. Her slit-lamp exam of the affected eye is seen in the photograph above. You also notice some nodules on the pupillary border (not shown in photo). Dilated fundus exam shows mild vitritis, a moderate periphlebitis with whitish exudates, and moderate optic nerve swelling. Which of the following is the single best screening test for this patient's likely medical condition?",
+  "options": {
+   "A": "RPR (rapid plasma reagin)",
+   "B": "ACE (angiotensin converting enzyme)",
+   "C": "chest x-ray (CXR)",
+   "D": "gallium scan"
+  },
+  "markedAnswer": "C",
+  "explanation": "A 30-year-old African American woman presents to you with a painful left eye. Her slit-lamp exam of the affected eye is seen in the photograph above. On review of systems, the patient notes a nonproductive cough, some cheek swelling, and a chronic low-grade fever. The patient also complains that the left side of her face has been drooping for the past couple of weeks. Which of the following is the most accurate diagnosis for this patient?",
+  "imageUrl": "/images/uveitis-oq/p79_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ }
+]

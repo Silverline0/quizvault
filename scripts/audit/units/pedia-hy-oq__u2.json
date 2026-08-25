@@ -1,0 +1,1052 @@
+[
+ {
+  "id": 71,
+  "question": "You are contemplating strabismus surgery in a 1-year old patient with esotropia. The patient already has developed cross-fixation in both eyes. You measure the deviation at distance and near to be 15 prism diopters. Which of the following represents the average amount of recession you should perform in each eye for this patient?",
+  "options": {
+   "A": "2.0 mm",
+   "B": "3.0 mm",
+   "C": "4.0 mm",
+   "D": "5.0 mm"
+  },
+  "markedAnswer": "B",
+  "explanation": "A table listing the amount of bilateral recessions for an esotropia can be found in standard reference texts (as shown here). In general, one would perform 3.0 mm of recessions on both medial rectus muscles (3 mm on the right, & 3 mm on the left) for 15 prism diopters of esotropia; 4.0 mm for 25 prism diopters; & 5.0 mm for 35 prism diopters. It is important to understand the concept behind strabismus surgery in that a small esotropia of 15 prism diopters needs 3 mm of bilateral medial rectus recession, while a large esotropia of 40 prism diopters will need >5 mm of bilateral medial rectus recession, without referring to a chart. Comments: Easy way to remember: 3 mm x 5 = 15 PD, 4 mm x 6 = 24 (25) PD, 5 mm x 7 = 35 PD. Multiply by successively increasing integers starting from 5.",
+  "imageUrl": "/images/pedia-hy-oq/p55_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 72,
+  "question": "All of the following distinguish cranial nerve (CN) VI palsy from Duane's syndrome EXCEPT:",
+  "options": {
+   "A": "absence of upshoots or downshoots in CN VI palsy",
+   "B": "no globe retraction on adduction in CN VI palsy",
+   "C": "lack of significant esotropia in primary position in CN VI palsy",
+   "D": "absence of lid fissure narrowing on attempted adduction in CN VI palsy"
+  },
+  "markedAnswer": "C",
+  "explanation": "In CN VI palsy, there should be significant esotropia in primary position that is proportional to the severe limitation of abduction seen in this disorder. In contrast, patients with Duane's syndrome typically have only a small-angle (if any) esotropia in primary position.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 73,
+  "question": "A 5-year-old is brought in by her mother for a \"strangely-moving\" left eye since birth. On sensorimotor exam, you note the absence of abduction of the left eye, a left face turn, and globe retraction on attempted adduction of the left eye. The rest of her ocular exam is normal. She has no significant family or birth history. The mother is insistent that the child undergo a MRI of the brain to exclude a tumor. Which of the following abnormalities would a MRI of the brain most likely find?",
+  "options": {
+   "A": "Fusiform enlargement of the optic nerve",
+   "B": "Slit-like ventricles and partially empty sella turcica",
+   "C": "Lateral rectus aplasia",
+   "D": "Hypoplastic or absent nucleus of the sixth cranial nerve"
+  },
+  "markedAnswer": "D",
+  "explanation": "This patient has Duane retraction syndrome (Type 1), an ocular motility disorder characterized by co-contraction of the medial and lateral rectus muscle leading to horizontal duction deficits and globe retraction on adduction. Globe retraction causes narrowing of the palpebral fissure. The majority of cases are unilateral and involve the left eye (72%). This condition is more common in females. The condition is caused by a hypoplastic sixth nerve nucleus or nerve with aberrant innervation of the lateral rectus by the oculomotor nerve. If a patient presents with the classic clinical findings of Duane syndrome, most clinicians would not obtain neuroimaging. An upshoot or downshoot on adduction of the affected eye is sometimes present due to vertical slippage of a tight lateral rectus muscle. The condition is mainly sporadic, followed by autosomal dominant inheritance in 10– 15% of cases. Though typically an isolated abnormality, some patients have associated systemic syndromes such as Goldenhar syndrome (hemifacial microsomia, ocular dermoids, eyelid colobomas) and Wildervanck syndrome (sensorineural hearing loss and Klippel-Feil anomaly). There are three types of Duane syndrome: Type 1: limited abduction Type 2: limited adduction Type 3: limited adduction and abduction There is also something called \"synergistic divergence\" which is sometimes classified as a fourth type of Duane syndrome. In this very rare condition, there is exotropia and the affected eye actually abducts even further on attempted adduction (\"the ocular splits\"). Type 1 is the most common, and parents may confuse the deficit as the normal eye turning in, rather than an abduction deficit. As a primary dysinnervation strabismus, surgical management will not normalize eye ductions and surgery is reserved for patients who exhibit a primary position deviation, an abnormal compensatory head posture, significant globe retraction, or large up/downshoots. The majority of patients have the ability for binocular vision, and the goal of any surgery would be to allow for binocularity in primary gaze. WRONG ANSWERS: Choice A: fusiform enlargement of the optic nerve is a classic imaging finding of optic nerve glioma. Choice B: Slit-like ventricles and partially empty sella turcica are common findings in elevated intracranial pressure (e.g. idiopathic intracranial hypertension). Patients with elevated intracranial hypertension can present with sixth nerve palsy. However, these patients would not have globe retraction on attempted adduction. These patients would also be expected to have optic disc edema. Choice C: Lateral rectus aplasia would also not cause globe retraction on adduction.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 74,
+  "question": "A patient presents with a large angle exotropia. The deviation freely alternates between the two eyes. This deviation is measured to be 40 XT at distance and at near. Surgery is planned based on two consecutive office measurements. Which of the following surgical plans best corrects this patient’s deviation?",
+  "options": {
+   "A": "Bilateral lateral rectus recession of 5 mm",
+   "B": "Bilateral medial rectus resection of 5 mm",
+   "C": "Bilateral lateral rectus recession of 8 mm",
+   "D": "Unilateral lateral rectus recession 12 mm"
+  },
+  "markedAnswer": "C",
+  "explanation": "It is a good idea to be familiar with basic strabismus surgery numbers for virgin horizontal muscles. For a medium-large angle deviation of 40 prism diopters, the proper amount of surgery to correct the deviation is 8 mm of lateral rectus recession in both eyes. Most strabismus surgeons do symmetrical bilateral recessions instead of bilateral resections. This is mainly due to the fact that most patients experience less pain with a recession. Generally, with any deviation greater than 25 prism diopters, two muscles are operated on as opposed to just one muscle. In this particular case, a bilateral lateral rectus recession of 8 mm can be performed OR a unilateral lateral rectus recession of about 8 mm and a unilateral medial rectus resection of 7 mm on the same eye. I generally perform a 1 muscle surgery for a deviation up to 20 prism diopters, and for any deviation greater than 20 or 25 prism diopters, I perform symmetrical bilateral surgery. Here is a general thought process of how to remember (or guess on an exam) these correction values for recessions: Bilateral ET surgery begins with a bilateral medial rectus (BMR) recession of 3 mm. Bilateral XT surgery begins with a bilateral lateral rectus (BLR) recession of 4 mm. The maximum BMR recession is 6 mm. The maximum BLR recession is 9 mm. Next, try to group categories of deviations as: small (15-25 PD), medium (30- 40 PD), or large (>50 PD) For this patient, he has a \"medium/high\" deviation and thus requires almost a maximum BLR recession of 9 mm. The closest answer choice to this maximum value is 8 mm. Here is a general thought process of how to remember (or guess on an exam) these correction values for resections: For ET, the resection number is larger than the recession number by ~1 mm. For example, if the deviation was ET 24, then you would recess by 4 mm OR resect by 5 mm. For XT, the resection number is smaller than the recession number by ~2 mm. For example, if the deviation was XT 25, then you would recess by 6 mm OR resect by 4 mm.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 75,
+  "question": "Which of the following represents the typical first follow-up time period after initiation of full-time patching for amblyopia for a 4-year old child?",
+  "options": {
+   "A": "2 weeks",
+   "B": "4 weeks",
+   "C": "8 weeks",
+   "D": "12 weeks"
+  },
+  "markedAnswer": "B",
+  "explanation": "The general rule that is followed to determine the follow-up interval is 1-week per year of age. Therefore, a 4-year old child should be seen again in 4 weeks. Comments: BCSC: \"The first follow-up visit after initiation of treatment should occur within 1 week for an infant and after an interval corresponding to 1 week per year of age for the older child (eg, 4 weeks for a 4-year-old).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 76,
+  "question": "Which of the following tests can quantify the amount of heterotropia a strabismic patient has?",
+  "options": {
+   "A": "cover-uncover test",
+   "B": "simultaneous prism and cover test",
+   "C": "alternate cover test (prism and cover test)",
+   "D": "Hirschberg test"
+  },
+  "markedAnswer": "B",
+  "explanation": "The cover-uncover test can only show that a heterotropia is present (i.e. it does not quantify it). The alternate cover and prism test quantifies the TOTAL amount of deviation (i.e. heterotropia + heterophoria). The Hirschberg test is a qualitative test utilizing the corneal light reflex that gives a rough idea of what type of deviation may be present. The simultaneous prism and cover test quantifies only the manifest deviation (i.e. the heterotropia). It is performed by placing a prism in front of the deviating eye and covering the non-deviating (fixating) eye simultaneously. Increasing prism powers are placed until the deviating eye no longer shifts as the fixating eye is covered.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 77,
+  "question": "A patient presents with a visually-significant right hypertropia of 30 PD. You decide to perform one-muscle surgery to correct this vertical deviation with a right superior rectus recession. What type of eyelid change might occur with this surgery?",
+  "options": {
+   "A": "upper lid lowering",
+   "B": "pseudoptosis",
+   "C": "widening of the palpebral fissure",
+   "D": "no changes in the upper lid"
+  },
+  "markedAnswer": "C",
+  "explanation": "Changes in eyelid position almost always occurs with vertical rectus muscle surgery, but more so with inferior rectus than superior rectus muscles. This is due to the connections of the lid retractors with these rectus muscles, both in the upper eyelid and even more so in the lower eyelid. When one performs a resection, one advances the muscle forward, and hence brings along the lid. So for an inferior rectus resection, the lower eyelid will be advanced upwards leading to less inferior scleral show. For a superior rectus resection, the upper eyelid will be advanced downward creating a ptosis-like appearance. Similarly, when one performs a recession, one is moving the rectus muscle further away from the insertion and also moving the eyelid with this recession. So for an inferior rectus recession, the lower eyelid will be pushed away exposing sclera below the lower limbus. For a superior rectus recession, the upper eyelid will be pushed superiorly giving an eyelid retraction appearance. In summary, vertical muscle recession will widen the palpebral fissure, and resection will narrow the palpebral fissure. BCSC comments that “The superior rectus muscle is loosely bound to the levator palpebrae superioris muscle. The eyelid may be pulled downward following resection of the superior rectus muscle, thus narrowing the palpebral fissure. In contrast, the eyelid is not usually retracted upward with small or moderate recessions.” This is a true fact but here, the recession is large. For a hypertropia of 30 PD, one has to do at least a 10 mm recession (approximately 3 PD = 1mm recession). This is considered a large recession. Hence, one would expect a widening of the palpebral fissure after such a recession.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 78,
+  "question": "You have a 20-year-old patient with 40 prism diopters of alternating exotropia who has never had strabismus surgery. You wish to perform a recess / resect procedure on the left eye. What would be a reasonable surgical plan based on the Park's criteria?",
+  "options": {
+   "A": "Left medial rectus resection 4 mm and left lateral rectus recession 3 mm",
+   "B": "Left medial rectus resection 3 mm and left lateral rectus recession 4 mm",
+   "C": "Left medial rectus resection 8 mm and left lateral rectus recession 6 mm",
+   "D": "Left medial rectus resection 6 mm and left lateral rectus recession 8 mm"
+  },
+  "markedAnswer": "D",
+  "explanation": "Nobody expects you to memorize the Park's criteria and there is no reason to memorize all the exact correction values unless you plan to be a strabismus surgeon. These types of questions generally test whether you know which muscle needs to be operated on, what type of procedure should be done (recession vs. resection), and whether the procedure requires a large or small intervention. The first step in answering this type of question is deciding what type of procedure need to be performed. We will use lay terms to explain this. In an exotropia the patient will require tightening of the medial rectus (resection) and loosening / weakening of the lateral rectus muscle (recession). All of these answer choices list those options so that was not very helpful for this particular question. Next it is important to know that in correcting any horizontal strabismus (exo or eso deviaton), the lateral rectus will always require more correction than the medial rectus. This is necessary because the lateral rectus is a very long muscle and the dose-response curve is less steep than the short, tight medial rectus. 1 mm of resection or recession of the medial rectus will give much more effect than 1 mm of resection or recession of the lateral rectus. Finally you need to know that for any 15 diopter horizontal strabismus (exo or eso deviation), your correction will be 4 mm on the lateral rectus and 3 mm on the medial rectus; the deviation type will tell you whether to resect or recess. Now you know that the 40 diopter exotropia presented in this question will require much more than a 4 mm medial rectus resection and a 3 mm lateral rectus recession. The only good answer, therefore, is choice D. Use this same logic for similar strabismus questions and you can't go wrong.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 79,
+  "question": "A 1-year-old child presents with 30-prism diopters of esotropia which has been present for 6 months according to his mother. You find significant upshoot during adduction of either eye. You also examine this child's twin sister who also has 30-prism diopters of esotropia, but no significant upshoot during adduction of either eye. Both children show alternate fixation and negligible refractive errors. What is the best course of management for both children?",
+  "options": {
+   "A": "patching therapy",
+   "B": "inferior oblique weakening and bilateral medial rectus recessions for the first child; bilateral medial rectus recessions of the same magnitude for the 2nd child",
+   "C": "inferior oblique weakening and bilateral medial rectus recessions for the first child; bilateral medial rectus recessions of greater magnitude for the 2nd child",
+   "D": "inferior oblique weakening and bilateral medial rectus recessions for the first"
+  },
+  "markedAnswer": "B",
+  "explanation": "Both children have congenital esotropia, but only the first child has inferior oblique overaction (IOOA). Since inferior oblique weakening does not significantly change primary position alignment, you should perform the same level of medial rectus recessions in both cases.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 80,
+  "question": "Which of the following strabismus surgeries poses the greatest threat to visual acuity of the operated eye if a complication occurs?",
+  "options": {
+   "A": "inferior oblique advancement",
+   "B": "inferior oblique tenotomy",
+   "C": "superior oblique spacer",
+   "D": "Harada-Ito procedure"
+  },
+  "markedAnswer": "A",
+  "explanation": "Strengthening of the inferior oblique requires reinsertion more posteriorly which predisposes the macula to greater danger should scleral perforation occur. Comments: Dear editor, I am confused. I thought to strengthen a muscle you resect it, but reinsert it at the same position as before. If the muscle is reinserted more posteriorly, then it should become weaker. Is that incorrect? \"strengthening\" a muscle can be achieved by either method. Inserting the IO more posteriorly effectively enhances its primary action (elevating). Review the anatomy and you'll see it makes senses. the IO and SO kind of act in reverse bc of their pully like system To answer the first suggestion - as I understand, you can reinsert to the same location for smaller adjustments, but can insert at a more \"distal\" location for larger adjustment as well. To answer why tighter = posteriorly, the oblique muscles' functional origins are ANTERIOR to its insertion on the globe. The distal direction of both insertions is more posteriorly - it's easier to take this in looking at a model (or at least a picture). Why is it called \"advancement\" when you reinsert the muscle posteriorly ??? Bc you advance the muscle in the vector with which it was inserted. Ie posterior temporally and superiorly for the IO.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 81,
+  "question": "A 22-year-old man presents to your office for a 3rd opinion regarding possible strabismus surgery. He is self-conscious about the appearance of his eyes, with his left eye being constantly elevated. He states that he has had this problem with his eyes since birth. His twin sister has a similar problem. Which of the following is the most likely diagnosis?",
+  "options": {
+   "A": "forceps injury during delivery",
+   "B": "congenital fibrosis syndrome",
+   "C": "Mobius syndrome",
+   "D": "thyroid eye disease"
+  },
+  "markedAnswer": "B",
+  "explanation": "One key distinguishing feature between congenital fibrosis syndrome and thyroid eye disease is the former's congenital origin. There are several variations of congenital fibrosis syndrome and they can present in both sporadic and inherited patterns. One variation, \"vertical retraction syndrome,\" affects the superior rectus such that the patient cannot depress his eye.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 82,
+  "question": "Which of the following is the most often used procedure in the treatment of type 1 Duane's syndrome with a significant face turn?",
+  "options": {
+   "A": "lateral rectus resection on the involved side",
+   "B": "medial rectus recession on the involved side",
+   "C": "lateral rectus resection on the uninvolved side",
+   "D": "medial rectus recession on the uninvolved side"
+  },
+  "markedAnswer": "B",
+  "explanation": "The most common surgical management of type 1 Duane's syndrome is medial rectus recession on the involved side. If the deviation is greater than 20 prism diopters, then bilateral medial rectus recessions are often performed. Most strabismologists would not perform lateral rectus resection due to the risk of worsening globe retraction. One of the memory tools that is often used to remember the different types of Duane's syndrome is: Type 1 - one \"D\" - abDuction deficit (thus esotropia) Type 2 - two \"D\"s) - aDDuction deficit (thus exotropia) Type 3 - three \"D\"s): abDuction and aDDuction deficit For Duane syndrome, instead of type 1-3, there is a shift into calling them esotropic Duane, exotropic Duane, and orthotropic Duane. Duane retraction syndrome is a spectrum of innervation anomalies where there is a congenital misinnervation of the lateral rectus muscle. In addition to variable amounts of limitation of abduction or adduction, there is also concurrent contraction of the medial and lateral muscles on attempted adduction. The tethering effect of the tight lateral rectus causes the overshoots in adduction. Surgical intervention is taken when there is a anomalous head position, and sometimes to treat the overshoots and globe retraction. The first procedure for esotropic Duane's (Type 1) is medial rectus recession. Recently, superior rectus recession combined with medial rectus recession have shown to provide good outcomes. In patients with exotropia Duane's (Type 2), the classic teaching is lateral rectus recession. Exotropic Duane with overshoot may be managed with Y-splitting of the lateral rectus muscle. If there is concurrent globe retraction, then the recession includes the medial rectus muscle as well (i.e. recession of anatagonist co-contracting muscle). Comments: What about type 3 Duane? In the 2020-2021 Peds BCSC, Chapter 12 (pg. 134), they do not require surgical treatment if they have minimal head turn or horizontal strabismus. Surgery can be considered if there's severe globe retraction, in which recession of both the MR and LR can be done. There are also other procedures that I will leave to the book to describe (I don't know them well).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 83,
+  "question": "You are examining a child who is brought in by his mother for a recent history of \"eye drifts upward.\" There is a left hypertropia, most obvious on right gaze. On alternate cover testing, you notice refixation downward of the left eye when it is uncovered. In addition, there is an upward shift of the right eye when the left eye is covered on alternate cover testing. Which of the following best explains this child's ocular deviation?",
+  "options": {
+   "A": "left dissociated vertical deviation",
+   "B": "left inferior oblique overaction",
+   "C": "right dissociated vertical deviation",
+   "D": "right inferior oblique overaction"
+  },
+  "markedAnswer": "B",
+  "explanation": "This patient demonstrates a left hypertropia when the left eye is adducting. In addition, there is a refixation movement downward for the left eye on alternate cover testing (and upward for the right eye) which demonstrates that Hering's law of equal innervation is being obeyed. This is consistent with a diagnosis of left inferior oblique overaction. If no refixation movement of the higher eye was found, this would be more consistent with dissociated vertical deviation which does not obey Hering's law. Comments: DVD and IOOA both cause a hypertropia. The question starts by saying a left hypertropia, so there is no way this could be a right DVD or IOOA, so C and D are out. DVD is the outward and upward drift of an eye when it is not fixing: in some cases because of intermittent suppression, when testing because it is covered. DVD violates Hering's law and is dissociated, by definition, meaning that when the eye with DVD has a refixation movement, the other eye should not move at all (left hyper, alternate cover: cover moving right to left should cause the left eye to drift up from now being suppressed under the cover; cover moving left to right should give left downward refixation with right eye staying still). IOOA, on the other hand, will give bilateral refixation movements (left hyper, alternate cover: cover moving right to left should give bilateral upwards refixation, cover moving left to right should give bilateral downward refixation). The key to the question is the right eye moving down during right cover. This does not happen in DVD, only in true left hypertropia, such as IOOA.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 84,
+  "question": "You are examining a patient who displays poor elevation of the right eye in adduction. Forced duction testing is positive for a restriction, but you are unsure whether this represents an inferior rectus restriction versus a Brown syndrome. Which of the following maneuvers would help distinguish a Brown syndrome from an inferior rectus restriction?",
+  "options": {
+   "A": "worsened restriction on forcep-induced proptosis",
+   "B": "worsened restriction on adduction",
+   "C": "worsened restriction on retropulsion",
+   "D": "worsened restriction on intorsion"
+  },
+  "markedAnswer": "C",
+  "explanation": "Both inferior rectus restriction and Brown syndrome will present with deficient elevation on adduction. To accentuate the restriction in Brown syndrome, elevation in adduction can be tested during forced duction test. In forced duction test, to test the oblique muscle, you retropulse the globe with forceps; to test the rectus muscle, you proptose globe with your forceps. Retropulsion stretches the superior oblique tendon and therefore, the restriction would be increased if it is due to Brown syndrome. In contrast for inferior rectus restriction, the restriction would be increased during forceps-induced proptosis (i.e. not retropulsion). For forced ductions of the rectus muscles, one performs the movement in the opposite direction of the suspected restriction. If you are elevating the eye with the forceps, you are checking restrictions of the inferior rectus. If you are depressing the eye, you are checking restrictions of the superior rectus. If you are abducting the eye, you are checking restriction of the medial rectus. Lastly, if you are adducting the eye, you are checking restriction of the lateral rectus. For forced ductions of the oblique muscles, the purpose of the test is to grade the over- or under-action of the inferior or superior oblique muscles. When you intort the eye, you are grading the inferior oblique. When you extort the eye, you are grading the superior oblique. For those training in programs where you perform Guyton's exaggerated traction test as forced ductions for the oblique muscles, what I am describing here is different. Guyton's exaggerated traction test checks the inferior oblique muscle with the eyeball in the adducted and elevated, retropulsed position. One performs a temporal sweeping move and the significance of the \"bump\" felt underneath is the grade of the inferior oblique. Similarly for the superior oblique, one checks the eyeball in the adducted and depressed retropulsed position. Then, one performs a temporal sweeping move to feel the \"bump\" for the grade of the superior oblique. NYSTAGMUS/DIPLOPIA.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 85,
+  "question": "A 14-year-old girl presents to your clinic with a 3-month history of peculiar eye movements. On exam, you note pendular elevation and intorsion of one eye while simultaneously, the other eye displays pendular depression and extorsion. What lesion is most commonly responsible for this eye movement disorder in children?",
+  "options": {
+   "A": "Whipple's disease",
+   "B": "neuroblastoma",
+   "C": "cerebellar tumor or infarct",
+   "D": "craniopharyngioma"
+  },
+  "markedAnswer": "D",
+  "explanation": "The clinical vignette describes the entity of see-saw nystagmus where you can imagine one eye is \"going up\" while the other eye is \"going down\" just like the playground device. This type of nystagmus is typically caused by a lesion in the parasellar or midbrain area. In children, the most common responsible lesion is a craniopharyngioma which may also cause bitemporal hemianopia visual field defects. The treatment for see-saw nystagmus is removal of the responsible lesion. Also, baclofen and clonazepam may help dampen this nystagmus. Here is a list of the commonly-tested nystagmus or nystagmoid patterns and the responsible lesions/locations: Downbeat -- cervicomedullary junction (e.g. Chiari type 1 malformation), cerebellar flocculus See-saw -- parasellar area (e.g. craniopharyngioma), midbrain Opsoclonus -- neuroblastoma [usually from adrenals] Periodic alternating nystagmus -- cervicomedullary junction, cerebellar nodulus Upbeat -- cerebellum, medulla, midbrain Comments: Think of the pituitary as the fulcrum of the see saw.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 86,
+  "question": "What is the characteristic waveform of this child's nystagmus and which way does he turn his head when his right eye is occluded?",
+  "options": {
+   "A": "exponential INCREASE in slow phase velocity; turn head to the RIGHT",
+   "B": "exponential INCREASE in slow phase velocity; turn head to the LEFT",
+   "C": "exponential DECREASE in slow phase velocity; turn head to the RIGHT",
+   "D": "exponential DECREASE in slow phase velocity; turn head to the LEFT"
+  },
+  "markedAnswer": "D",
+  "explanation": "This child displays horizontal jerk nystagmus only when either eye is occluded. In addition, his visual acuity is good with both eyes open, but worsens when either eye is covered. These features are classic for latent nystagmus. Latent nystagmus is more common in children with congenital esotropia and dissociated vertical deviation and is usually diagnosed in early childhood. Since vision is markedly reduced under monocular testing conditions, these children should not be completely occluded in either eye when assessing visual acuity. Instead, the eye not being tested can be fogged with a +5.00 lens or the occluder can be held several inches away from the non-tested eye. The characteristic waveform in latent nystagmus is an exponential DECREASE in the slow phase velocity. This pattern is opposite that of congenital motor nystagmus which shows an exponential INCREASE in the slow phase velocity. In latent nystagmus, the fast phase is toward the eye that is NOT occluded. Therefore, there will be a right jerk nystagmus when the left eye is occluded and a left jerk nystagmus when the right eye is occluded. For this child, to take advantage of the null point, the child will want to look toward the RIGHT (i.e. adduction of the left eye) when the right eye is occluded since a left jerk nystagmus will be present. To achieve this, the child will turn his head to the LEFT.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 87,
+  "question": "A 13-year-old teenage boy presents to your office with worsening abnormal eye movements that his parents have noticed over the past 6 months. In primary gaze, the boy displays a jerk nystagmus with the fast component beating downward. He appears to be adopting a chin-down head position to dampen this nystagmus. The rest of his ocular exam is normal. Which of the following choices is the most likely underlying cause of this teenager's nystagmus?",
+  "options": {
+   "A": "Arnold-Chiari malformation",
+   "B": "neuroblastoma",
+   "C": "pinealoma",
+   "D": "craniopharyngioma"
+  },
+  "markedAnswer": "A",
+  "explanation": "This teenager is displaying a jerk nystagmus in primary gaze, with the fast phase beating in a downward direction. This is the definition of downbeat nystagmus which is most often caused by an Arnold-Chiari malformation. An Arnold-Chiari malformation basically consists of a defect of the base of the skull and the upper spinal area. These defects may lead to downward displacement of the cerebellar tonsils through the foramen magnum (the opening at the base of the skull). There are several types of Arnold-Chiari malformations, discussion of which is beyond the scope of this website. Here is a list of the commonly-tested nystagmus or nystagmoid patterns and the responsible lesions/locations: Spasmus nutans -- usually no tumor; but similar nystagmus with parasellar/hypothalamic tumors Downbeat -- cervicomedullary junction (e.g. Arnold-Chiari malformation), cerebellar flocculus See-saw -- parasellar area (e.g. craniopharyngioma), midbrain Opsoclonus -- neuroblastoma [usually from adrenals] Periodic alternating nystagmus -- cervicomedullary junction, cerebellar nodulus Upbeat -- cerebellum, medulla, midbrain Comments: - Think of the pituitary as the fulcrum of the see saw.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 88,
+  "question": "A 4-year-old child with a history of congenital nystagmus presents to your office as a referral from his pediatrician. The mother of the child wants something non-invasive to be done for the child's abnormal head turn. On examination, you note that the child adopts a large left head turn to dampen his left jerk nystagmus. How would you orient Fresnel prisms over each eye to help reduce this child's left head turn?",
+  "options": {
+   "A": "base-in prism over right eye; base-in prism over left eye",
+   "B": "base-out prism over right eye; base-in prism over left eye",
+   "C": "base-out prism over right eye; base-out prism over left eye",
+   "D": "base-in prism over right eye; base-out prism over left eye"
+  },
+  "markedAnswer": "D",
+  "explanation": "To reduce significant head turns in children with nystagmus, you orient the prisms so their apices are pointing toward the null zone. This effectively shifts the image into the null zone. For this child, his null zone is in right gaze. Therefore, the prism over the right eye should be base-in while the prism over the left eye should be base-out. For surgical correction of a head turn due to nystagmus, strabismus surgery is performed to rotate the eyes away from the null point.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 89,
+  "question": "You diagnose a 3-year-old child with congenital motor nystagmus (CMN). He displays a left jerk nystagmus and an abnormal head posture. What would be this child's expected head posture?",
+  "options": {
+   "A": "right head turn",
+   "B": "left head turn",
+   "C": "chin up posture",
+   "D": "chin down posture"
+  },
+  "markedAnswer": "B",
+  "explanation": "By convention, the fast-beating component defines the direction of the nystagmus. Thus, a \"left jerk nystagmus\" indicates that the fast component is left-beating. \"Alexander's law\" states that the nystagmus is more pronounced when gaze is directed toward the side of the fast-beating component. In this case, there is a left jerk nystagmus; thus it would worsen in left gaze and improve on right gaze. To improve visual acuity, most children with CMN would adopt a head/face turn that would minimize the nystagmus movements. For this scenario since the nystagmus dampens on right gaze, the child would adopt a left head turn.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 90,
+  "question": "A 32-year-old woman presents with new-onset, binocular double vision for the past few weeks. She states that these symptoms have never happened before. Her external photograph is shown above. The patient is bothered by the diplopia and wants something done about it. She exhibits significant right hypotropia with severe restriction of elevation of the right eye. What represents the best course of management for the most common cause of this condition at this time point?",
+  "options": {
+   "A": "observation",
+   "B": "large right inferior rectus recession",
+   "C": "superior rectus resection",
+   "D": "Knapp procedure"
+  },
+  "markedAnswer": "A",
+  "explanation": "The external photograph depicts significant upper eyelid retraction. Therefore, this patient has new-onset diplopia from thyroid eye disease until proven otherwise. Typically, stability of the deviation for at least 6 months should be demonstrated before any strabismus surgery is performed. Also as stressed repeatedly on board examinations, the proper order of surgery for thyroid eye disease patients is: (1) orbital decompression (if significant proptosis is present); (2) strabismus surgery (for significant/symptomatic deviations); and then (3) eyelid surgery (e.g. lowering of upper eyelids to decrease exposure symptoms).",
+  "imageUrl": "/images/pedia-hy-oq/p71_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 91,
+  "question": "A perplexed father brings in his 3-year-old son who is exhibiting abnormal eye and head movements since early infancy. On exam, the child appears to have a right jerk nystagmus that remains horizontal even in vertical gaze. You step out for a moment to answer a message, and when you return, you are surprised to see that the child now displays a left jerk nystagmus. Given the likely diagnosis, approximately how long was your telephone call?",
+  "options": {
+   "A": "60-120 seconds",
+   "B": "5-10 minutes",
+   "C": "15-25 minutes",
+   "D": "30-40 minutes"
+  },
+  "markedAnswer": "A",
+  "explanation": "The clinical vignette is alluding to the rare entity of periodic alternating nystagmus (PAN) which may occur in congenital or acquired forms. In both forms, the jerk nystagmus lasts for approximately 60-90 seconds in one direction. There is then a period of no nystagmus for 10-20 seconds and then a resumption of jerk nystagmus in the opposite direction. The child with PAN may demonstrate alternating head turning to take advantage of the shifting null point (e.g. right head turn [i.e. left gaze] during the right jerk phase). Though the cause of PAN is currently unknown, it is thought to be due to a state of vestibular overactivity. Congenital PAN also has been associated with oculocutaneous albinism.1 The acquired form of PAN is usually associated with a lesion of the cervicomedullary junction (e.g. cerebellar nodulus or uvula). Other causes of acquired PAN include: multiple sclerosis, Chiari I malformation, and cerebellar degenerations.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 92,
+  "question": "A 10-year-old boy presents to your office with a several month history of \"restricted eye movements\" as related by his mother. His Snellen visual acuity is 20/25 OU. His pupil exam is significant for being poorly reactive to light, but more reactive to near testing. His motility exam shows poor upgaze saccades with his eyes appearing to \"sink in\" when attempting upgaze. Which of the following is likely the underlying cause of this child's ocular condition?",
+  "options": {
+   "A": "midbrain infarction",
+   "B": "multiple sclerosis",
+   "C": "pinealoma",
+   "D": "craniopharyngioma"
+  },
+  "markedAnswer": "C",
+  "explanation": "This child displays the classic ocular signs of dorsal midbrain syndrome (aka \"Parinaud syndrome\"). These signs include: paralysis of upgaze defective (voluntary) convergence pupillary light-near dissociation convergence-retraction \"nystagmus\" eyelid retraction (\"Collier's sign\") The convergence-retraction \"nystagmus\" is not considered a true nystagmus but rather a disjunctive saccadic oscillation. To elicit this movement, the patient is asked to track a downward-rotating OKN drum which will elicit an attempted upward saccade. Instead of a normal upward saccade, the patient with this syndrome will exhibit convergence and retraction of both eyes since there is co-contraction of all horizontal extraocular muscles (the medial recti acting more forcefully than the lateral recti). However, voluntary convergence movements are minimal. Typically, upward saccades are initially affected but upward pursuit movements can become affected as well. Eventually, even vestibulo-ocular responses (i.e. Dolls' head responses) and Bell's phenomenon can be paralyzed. In children, the most common causes of dorsal midbrain syndrome are pinealoma and congenital aqueductal stenosis. In young adult women, it is typically caused by multiple sclerosis. In elderly patients, the most common cause is midbrain stroke.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 93,
+  "question": "A 45-year-old woman presents with new-onset double vision for the past week. You notice an overshoot of the upper eyelids when the eyes return to primary gaze after prolonged downgaze. Which of the following would confirm your putative diagnosis for this patient?",
+  "options": {
+   "A": "MRI/MRA of the brain with specific attention to the Circle of Willis",
+   "B": "anti-MuSK antibody test",
+   "C": "anti-thyrotropin receptor antibody test",
+   "D": "electrocardiogram (EKG)"
+  },
+  "markedAnswer": "B",
+  "explanation": "The overshoot described is also known as a \"Cogan lid twitch\" and is classic for ocular myasthenia gravis. Other ancillary tests to diagnose myasthenia gravis include the classic Tensilon test (or Prostigmin test), the \"ice-pack\" test, the \"sleep test\", autoantibody tests (e.g. anti-MuSK, anti-acetylcholine receptor antibodies), and single-fiber electromyography.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 94,
+  "question": "A 3-year-old child with a history of congenital nystagmus presents to your office as a referral from his pediatrician. The mother wants something to be done for the child's abnormal head turn. On examination, you note that the child adopts a large left head turn to dampen his left jerk nystagmus. The child has already tried prism therapy, but was not compliant with keeping the glasses on. Which of the following strabismus surgeries could help reduce this child's head turn?",
+  "options": {
+   "A": "recession of the right lateral and left medial rectus muscles; resection of the right medial and left lateral rectus muscles",
+   "B": "recession of the right medial and left lateral rectus muscles; resection of the left medial and right lateral rectus muscles",
+   "C": "recession of both lateral rectus muscles; resection of both medial rectus muscles",
+   "D": "recession of all the horizontal rectus muscles to a position anterior to the"
+  },
+  "markedAnswer": "A",
+  "explanation": "This question basically asks you to describe the Kestenbaum-Anderson procedure which shifts the null point closer to primary position. In this surgery, the eyes are rotated toward the head turn or away from the null point. Thus, for a left head turn, the eyes are surgically rotated to the left. To achieve this, recessions of the left medial and right lateral recti and resections of the left lateral and right medial recti are performed. An alternative to the Kestenbaum procedure is recession of all the horizontal rectus muscles to a position posterior (not anterior) to the equator. In contrast, to achieve this effect with prisms, the apices of the prisms are directed toward the null zone. Comments: One way to think of this is you are doing an \"Eso-Exo\" procedure to correct the head turn. One eye is exotropic (in this case the right) and the other is Esotropic (the left in this question). Then simply do an esotropia surgery (LMR recess, LLR Resect) on the left eye and an exotropia surgery on the right (RLR Recess, RMR Resect) why do you surgically shift the eye AWAY form the null point? The best way I can think of it is: You are simply moving the null point from a right gaze to straight ahead. The muscles still \"think\" they are in that right gaze preference, but now they eyes are straight because you moved the muscles. -That's not a perfect explanation, but it works for my brain. Just to clarify: for a non-surgical therapy, base left prisms would be prescribed. Is this correct? Yes, exactly. You are essentially trying to allow the patient to remain in the \"null\" gaze (in this case, right gaze) with base left prism, without needing to head-tilt left. You are treating the head tilt in essence.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 95,
+  "question": "Which of the following would be most specific to confirm the child's most likely diagnosis?",
+  "options": {
+   "A": "determining if the nystagmus is purely uniplanar",
+   "B": "recording the nystagmus waveform to determine if there is any pendular component",
+   "C": "looking for increased amplitude of the nystagmus while rotating an OKN drum to the child's left",
+   "D": "looking for decreased amplitude of the nystagmus while rotating an OKN"
+  },
+  "markedAnswer": "D",
+  "explanation": "Based on the child's clinical findings of a horizontal nystagmus with good vision, the most likely/common diagnosis is congenital motor nystagmus (CMN). Though CMN is typically horizontal on upgaze and downgaze (i.e. uniplanar), absence of this feature does not preclude a diagnosis of CMN. Also, other nystagmus entities, like congenital sensory nystagmus, can present with a horizontal, uniplanar pattern. Similarly, CMN can present with other patterns besides the more common jerk nystagmus. These patterns include pendular, circular, or elliptical. One feature that occurs ONLY in CMN is \"paradoxical inversion of the OKN response.\" In other forms of jerk nystagmus, if a child with right jerk nystagmus views an OKN drum rotating to the left (thus stimulating pursuit left and jerk right), his nystagmus would increase in amplitude. However in a child with CMN, his right jerk nystagmus would actually dampen or even reverse to become a left jerk nystagmus. This peculiar phenomenon ONLY occurs in congenital motor nystagmus.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 96,
+  "question": "Which of the following would also be expected given the child's most likely diagnosis?",
+  "options": {
+   "A": "alternating nystagmus with either eye occluded",
+   "B": "stiff neck",
+   "C": "null point in primary gaze",
+   "D": "persistence of nystagmus till approximately age 12-18 years"
+  },
+  "markedAnswer": "B",
+  "explanation": "This child presents with an asymmetric, low-amplitude, high-frequency nystagmus with head nodding. This nystagmus has also been described as \"shimmering\". These features are consistent with spasmus nutans. The clinical triad of spasmus nutans is: (1) head nodding; (2) monocular or asymmetric nystagmus; and (3) torticollis (i.e. abnormal or stiff neck position). Spasmus nutans typically presents in children between 4 and 14 months of age. The direction of the nystagmus is typically horizontal, but it can also be vertical or rotary. It is typically of the pendular variety. Spasmus nutans per se is a benign entity that typically resolves by 5 years of age (the BCSC says by 3-4 years of age). However, tumors of the parasellar/hypothalamic area can present with a nearly indistinguishable nystagmus; thus many authorities will perform neuroimaging in all cases of spasmus nutans (controversial topic). Lastly, a nystagmus resembling spasmus nutans can occur in children with certain retinal disorders, like congenital stationary night blindness or rod/rod-cone dystrophy. Thus, further testing (e.g. electroretinogram) is warranted if the child displays other ocular abnormalities (e.g. abnormal fundus exam, paradoxical pupils, etc). Some extra info from Pediatric Ophthalmologist extraordinaire, Dr. Charlotte Gore: CSM (\"central, steady, and maintained\") describes fixation on a target. \"C\" and \"S\" are monocular checks (i.e. one eye covered) while \"M\" is a binocular check: \"C\" -- if the tested eye fixates centrally \"nC\" -- if the tested eye fixates eccentrically \"S\" -- if the tested eye keeps steady fixation on the target \"uS\" -- if the tested eye wanders or searches for the target \"M\" -- in a cover-uncover test, if the original uncovered eye maintains fixation as the occluder is removed from the covered eye \"uM\" -- in a cover-uncover test, if the previously-covered eye picks up fixation as it is uncovered nC suggest congenital retinal disease or a blind eye uS suggests nystagmus uM suggests amblyopia (i.e. one eye has preferred fixation) Comments: Spas\"mus\" (\"mus\"t do an MRI) NoTANs (\"No\"dding, \"T\"orticollis, \"A\"ssymetric \"N\"ystamgu\"s\")",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 97,
+  "question": "What is the value of \"?\" for this child?",
+  "options": {
+   "A": "8.4 mm",
+   "B": "5.6 mm",
+   "C": "11.2 mm",
+   "D": "10.8 mm"
+  },
+  "markedAnswer": "C",
+  "explanation": "The rationale of the Kestenbaum-Anderson procedure for correcting head turns associated with nystagmus is to shift the null zone closer to primary position. To achieve this, one surgically rotates the eye toward the head turn or away from the null zone. In this case for a right head turn, the eyes are surgically rotated to the right by performing resections of the right lateral and left medial recti and recessions of the right medial and left lateral recti. The total amount of surgery for each eye is equal to ensure that the eyes are rotated an equal amount. For this child, the total amount of surgery planned for his left eye is 8.4 + 9.8 mm = 18.2 mm. Thus, the amount of right lateral rectus resection must be 18.2 - 7.0 = 11.2 mm. Comments: Isnt that exceeding the maximum amount of resection on lateral rectus? Is this accurate? Lateral rectus procedures result in greater changes to eye position due to longer arc of contact. It seems to me that just \"adding medial and lateral corrections\" is a bit easy.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 98,
+  "question": "Which of the following is the best way to elicit the \"convergence- retraction nystagmus\" of a patient with dorsal midbrain syndrome?",
+  "options": {
+   "A": "have the patient track an object which is being moved AWAY from him or her",
+   "B": "have the patient track an object which is being moved TOWARD him or her",
+   "C": "have the patient track an upward-rotating OKN drum",
+   "D": "have the patient track a downward-rotating OKN drum"
+  },
+  "markedAnswer": "D",
+  "explanation": "The classic signs of dorsal midbrain syndrome (aka \"Parinaud syndrome\") are: paralysis of upgaze defective (voluntary) convergence pupillary light-near dissociation convergence-retraction \"nystagmus\" eyelid retraction (\"Collier's sign\") The convergence-retraction \"nystagmus\" is not considered a true nystagmus but rather a disjunctive saccadic oscillation. To elicit this movement, the patient is asked to track a downward-rotating OKN drum which will elicit an attempted upward saccade. Instead of a normal upward saccade, the patient with this syndrome will exhibit convergence and retraction of both eyes since there is co-contraction of all horizontal extraocular muscles (the medial recti acting more forcefully than the lateral recti). However, voluntary convergence movements are minimal. Typically, upward saccades are initially affected but upward pursuit movements can become affected as well. Eventually, even vestibulo-ocular responses (i.e. Dolls' head responses) and Bell's phenomenon can be paralyzed. In children, the most common causes of dorsal midbrain syndrome are pinealoma and congenital aqueductal stenosis. In young adult women, it is typically caused by multiple sclerosis. In elderly patients, the most common cause is midbrain stroke.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 99,
+  "question": "An 11-year-old girl is referred to your clinic for a history of long-standing nystagmus. On examination, you note a right jerk nystagmus that worsens in right gaze, but improves on left gaze. Which of the following laws does this nystagmus obey?",
+  "options": {
+   "A": "Listing's law",
+   "B": "Donder's law",
+   "C": "Sherrington's law",
+   "D": "Alexander's law"
+  },
+  "markedAnswer": "D",
+  "explanation": "\"Alexander's law\" states that the nystagmus is more pronounced when gaze is directed toward the side of the fast-beating component. In this case, there is a right jerk nystagmus, thus it worsens in right gaze and improves on left gaze. There is no such thing as \"Listing's law\" in Ophthalmology. However, there is something called \"Listing's plane\" which contains the center of rotation of the eye and includes its x and z axes (see \"Motor Physiology\" chapter in the Peds BCSC book). \"Donder's law\" states that every tertiary eye position is associated with a specific torsional rotation. \"Sherrington's law of reciprocal innervation\" states that contraction of a given muscle (e.g. medial rectus) is accompanied by a decrease in contraction of its antagonist (e.g. lateral rectus). This law is violated by Duane's syndrome where co-contraction of the medial and lateral recti can occur. \"Hering's law of equal innervation\" states that yoke muscles receive equal innervational input when they are activated. For example, when looking straight up, both superior rectus muscles receive the same magnitude of innervational input. This law is violated by the condition of dissociated vertical deviation (DVD). CORNEAL ABNORMALITIES.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 100,
+  "question": "You are examining a child who presents with corneal clouding of both eyes. Which of the following findings would most strongly rule-in a diagnosis of congenital hereditary endothelial dystrophy (CHED) versus congenital hereditary stromal dystrophy (CHSD)?",
+  "options": {
+   "A": "increased horizontal corneal diameters",
+   "B": "presence of epithelial edema",
+   "C": "increased intraocular pressure",
+   "D": "absence of nystagmus"
+  },
+  "markedAnswer": "B",
+  "explanation": "Both CHED and CHSD are potential causes of congenital corneal opacity. Since CHSD is extremely rare (e.g. only a few families have been reported in the literature), it is typically not remembered in the \"S-T-U-M-P-E-D\" mnemonic for different causes of congenital corneal opacity: Sclerocornea Trauma Ulcer Mucopolysaccharidoses Peters anomaly Endothelial (e.g. CHED) Dermoid Basically, the most salient difference between CHED and CHSD is that there is no edema in CHSD (and especially no epithelial edema), though the thickness may be slightly increased in CHSD compared to normal infants. CHSD is an autosomal dominant condition characterized by \"flaky\" opacities throughout the stroma. CHSD is painless and not associated with either tearing or photophobia. In CHSD and CHED, intraocular pressure and horizontal corneal diameters are normal. This helps to distinguish CHSD and CHED from congenital glaucoma. There used to be a CHED 1 and CHED 2 classification, but recent genetic studies have reclassified CHED type 1 as the same entity as Posterior Polymorphous Dystrophy (PPMD), as both are autosomal dominant on the same locus at pericentromeric chromosome 20. CHED type 2 is now reclassified as just CHED, and is autosomal recessive (BCSC Peds and Cornea 2017-2018).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 101,
+  "question": "What is the most common location of limbal dermoids?",
+  "options": {
+   "A": "superonasal limbus",
+   "B": "superotemporal limbus",
+   "C": "inferonasal limbus",
+   "D": "inferotemporal limbus"
+  },
+  "markedAnswer": "D",
+  "explanation": "A common associated syndrome of limbal dermoids is Goldenhar syndrome (aka \"oculoauriculovertebral syndrome\") whose other manifestations include hemifacial microsomia, ear deformities (including preauricular appendages), upper eyelid colobomas, and vertebral anomalies. A great way to remember this is that the inferotemporal limbus is closest to the ear lobe which itself is frequently involved in Goldenhar syndrome.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 102,
+  "question": "Which of the following is the major reason for long-term vision loss in infants with tears in Descemet's membrane caused by forceps injury?",
+  "options": {
+   "A": "secondary glaucoma",
+   "B": "corneal edema",
+   "C": "amblyopia",
+   "D": "hyphema"
+  },
+  "markedAnswer": "C",
+  "explanation": "Disruption of Descemet's membrane from forceps injury can result in stromal and epithelial corneal edema. However, this edema usually clears relatively quickly. This disruption can result in anisometropic astigmatism which commonly can cause long- term vision loss from amblyopia.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 103,
+  "question": "Which of the following features is MOST likely to be associated with megalocornea?",
+  "options": {
+   "A": "iris hyperplasia",
+   "B": "progressive condition",
+   "C": "requires gonioscopy to be able to see the anterior chamber angle",
+   "D": "carrier mothers have slightly enlarged corneal diameters"
+  },
+  "markedAnswer": "D",
+  "explanation": "Megalocornea is a X-linked condition. Carrier mothers often have slightly enlarged corneal diameters. 90% of affected patients are male. The condition is usually not associated with increased intraocular pressure and must be differentiated from infantile glaucoma. Megalocornea is usually an isolated finding and is not progressive. It may be associated with lens subluxation, iris hypoplasia, radial iris transillumination defects, and ectopic pupil. Oftentimes, the anterior chamber angle can be seen directly without the need for gonioscopy. Comments: Mega = Large or size XL. The inheritance of megalocornea is X-Linked (XL). Therefore, MEGAlocornea = XL (a large sized cornea and X-Linked)",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 104,
+  "question": "You are managing an 18-year-old patient with the ocular abnormalities shown in the photographs above. This patient is also taking a prostaglandin analog for glaucoma in both eyes. Mutations in which of the following genes is most likely to be responsible for this patient's ocular condition?",
+  "options": {
+   "A": "MYOC",
+   "B": "OPTN",
+   "C": "OPA1",
+   "D": "PITX2"
+  },
+  "markedAnswer": "D",
+  "explanation": "The photographs demonstrate the classic ocular findings of Axenfeld-Rieger syndrome (ARS): (1) posterior embryotoxon; (2) iris strands; and (3) corectopia with possible hole formation. ARS is typically an autosomal dominant disorder with mutations in the PITX2 and FOXC1 genes demonstrated to cause this phenotype. (Image credit: Cogan Pathology Collection found at: http://cogancollection.nei.nih.gov). Comments: TIGR/MYOC = Juvenile OAG, OPTN = Normal Tension Glaucoma, OPA1 = Dominant Optic Atrophy Axe the Foxy (FOXC) Pix(pics) (PITX): Axe for Axenfeld, FOXC1 for first word, PITX2 for second word.",
+  "imageUrl": "/images/pedia-hy-oq/p82_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 105,
+  "question": "You are examining a 2-year-old child in the hospital who was admitted for jaundice. Your examination is notable for the anterior segment finding seen in the photograph above. The child's past medical history is also significant for pulmonary stenosis and developmental delay. Which of the following is the most likely diagnosis for this infant?",
+  "options": {
+   "A": "velocardiofacial syndrome",
+   "B": "Axenfeld-Rieger syndrome",
+   "C": "Alagille syndrome",
+   "D": "Wilson's disease"
+  },
+  "markedAnswer": "C",
+  "explanation": "The slit-lamp photograph shows posterior embryotoxon which is defined as a thickened, \"prominent\" Schwalbe line. It is seen in up to 15% of normal patients. I t is a characteristic finding in a variety of syndromes, most commonly Axenfeld-Rieger syndrome. This child has jaundice, cardiac defects, and posterior embryotoxon which are characteristic findings of Alagille syndrome (AS). AS is an autosomal dominant disorder caused by mutations of the JAG1 gene on chromosome 20p12. It typically involves the liver, heart, skeleton, and the eye. Other characteristic findings include a broaden forehead, pointed chin, butterfly hemivertebrae, and mild developmental delay. The corneal finding in Wilson's disease is a Kayser-Fleischer ring (not posterior embryotoxon). Comments: - Alagille is also known as Arteriohepatic dysplasia. In addition to posterior embryotoxon, it is also associated with myopia and a pigmentary retinopathy (there is a question about it in the Retina section).",
+  "imageUrl": "/images/pedia-hy-oq/p83_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 106,
+  "question": "What is the generally-accepted measurement cutoff that defines a newborn as having \"microcornea\"?",
+  "options": {
+   "A": "horizontal corneal diameter less than 7 mm",
+   "B": "horizontal corneal diameter less than 9 mm",
+   "C": "horizontal corneal diameter less than 10 mm",
+   "D": "horizontal corneal diameter less than 11 mm"
+  },
+  "markedAnswer": "B",
+  "explanation": "Microcornea (defined as corneal diameter less than 9 mm in the newborn and less than 10 mm at 2 years of age) can occur in a variety of other ocular conditions including PHPV, colobomas, and nanophthalmos. Microcornea is a condition characterized by a clear cornea of normal thickness, but whose horizontal diameter is less than 10 mm. Individuals with microcornea are typically hyperopic because their corneas are relatively flat. Because of this flat corneal curvature, these individuals are more prone to angle closure glaucoma. For those patients without angle closure glaucoma, still 20% (not 5%) of them will develop an open-angle glaucoma. GLAUCOMA.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 107,
+  "question": "Mutations in which of the following genes is most likely responsible for this child's condition?",
+  "options": {
+   "A": "PITX2",
+   "B": "GLC1A",
+   "C": "GLC3B",
+   "D": "LOXL1"
+  },
+  "markedAnswer": "C",
+  "explanation": "This photograph depicts diffuse corneal edema as seen by the irregular corneal light reflex. In addition, you are told that the horizontal corneal diameters are 13.5 mm OU which are grossly abnormal (normal in newborn is 9.5-10.5 mm; normal in 1-year-old child is 10.0-11.5 mm). According to the BCSC, glaucoma should be suspected in any child whose corneal diameter is greater than 13.0 mm. Therefore, this child has congenital glaucoma until proven otherwise and should undergo an urgent examination under anesthesia with likely surgical intervention. Though primary congenital glaucoma typically occurs sporadically, it has been associated with gene mutations in certain families. The first gene demonstrated to be involved in congenital glaucoma was CYP1B1 which encodes a protein in the cytochrome P450 enzyme family. Other causative mutations involve the GLC3A, GLC3B and GLC3C genes. You should memorize some of the other glaucomas' gene associations: Axenfeld-Rieger: PITX2 or FOXC1 Juvenile-onset glaucoma: GLC1A (aka MYOC) Pseudoexfoliation glaucoma: LOXL1 Normal tension glaucoma: OPTN.",
+  "imageUrl": "/images/pedia-hy-oq/p85_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 108,
+  "question": "An 11-month-old child with a history of primary congenital glaucoma (PCG) is brought in by his mother for a 2nd opinion regarding his management. His mother is frustrated because the child has already undergone one goniotomy by a prominent glaucoma specialist, but his intraocular pressure is still in the 30 mmHg range OU. Which of the following options is the next best step for this child?",
+  "options": {
+   "A": "goniotomy",
+   "B": "observation",
+   "C": "trabeculectomy with mitomycin C",
+   "D": "glaucoma drainage implant"
+  },
+  "markedAnswer": "A",
+  "explanation": "Typically, most pediatric glaucoma specialists would attempt a second angle glaucoma surgery (e.g. another goniotomy or trabeculotomy) before moving on to trabeculectomy (+/- MMC) or a glaucoma drainage implant. The success rate of 1 or 2 angle surgeries for PCG in infants presenting from 3 months to 1 year is approximately 80%.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 109,
+  "question": "A 6-month-old child is referred to your clinic for chronic tearing and \"wincing\" OU that his mother has noticed since 1 month of age. His ocular exam is seen above. Which of the following ancillary tests is best at monitoring his response to treatment?",
+  "options": {
+   "A": "Magnetic resonance imaging",
+   "B": "Corneal pachymetry",
+   "C": "A-scan ultrasound",
+   "D": "Visual evoked potentials"
+  },
+  "markedAnswer": "C",
+  "explanation": "The photograph demonstrates the presence of corneal edema as can be seen by the irregular corneal light reflex. In a child, the primary diagnosis that should be ruled in/out is congenital glaucoma. The classic triad of symptoms for congenital glaucoma are bleparospasm, photophobia, and epiphora (i.e. tearing). This child deserves a full ophthalmic exam, most likely under anesthesia. Of the answer choices above, A-scan ultrasound is the most appropriate ancillary test to monitor disease progression. If one eye is growing excessively compared to the fellow eye, this may indicate poor IOP control in that eye. Remember, congenital glaucoma is primarily managed with surgery, not chronic medical treatment.",
+  "imageUrl": "/images/pedia-hy-oq/p87_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 110,
+  "question": "A 10-year-old child with a history of poorly-controlled juvenile open angle glaucoma presents to your office with intraocular pressures (IOPs) of 26 and 29 mmHg in the right and left eyes respectively. He has a history of Ahmed glaucoma drainage implants in both eyes. He is currently also taking daily methazolamide to help control his IOPs. Which of the following topical glaucoma medications would be LEAST effective given this patient's history?",
+  "options": {
+   "A": "latanoprost",
+   "B": "timolol",
+   "C": "brinzolamide",
+   "D": "levobunolol"
+  },
+  "markedAnswer": "C",
+  "explanation": "This child is already taking a systemic carbonic anhydrase inhibitor (CAI); therefore use of a topical CAI like brinzolamide (brand name: Azopt) would be ineffective. If topical glaucoma medications are indicated for a child (e.g. added control after multiple glaucoma surgical procedures), most specialists would choose the prostaglandin analogs given their lack of systemic side effects. As emphasized repeatedly on this website, the a2-adrenergic agonist, brimonidine (brand name: Alphagan), is contraindicated in children younger than 2 years old. In this age group, brimonidine can cause lethargy, hypotonia, and CNS depression. This medication should also be used with caution in older children. Comments: I don't disagree with the topical CAI while on a current oral CAI, but what about a tube shunt helping outflow and adding a prostaglandin analog to help with trabecular outflow? It seems that the tube will greatly diminish the effect of the latanoprost. And since the other 3 choices offered all work on aqueous production, this would seem to be most likely to help before the latanoprost. Latanoprost works in the uveoescleral outflow, not trabecular True, but the fact that there is a tube in place with high IOP says to me that no outflow is working well so wouldn’t aqueous suppression be more efficacious? Uveoscleral outflow is not IOP dependant, unlike conventional TM IRIS ABNORMALITIES.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 111,
+  "question": "An 8-year-old boy is referred to your office by his pediatrician for a baseline eye exam. Your slit-lamp exam is significant for the findings seen in the photo above. Which of the following statements is most likely true for this patient?",
+  "options": {
+   "A": "His underlying condition also features posterior subcapsular cataracts",
+   "B": "This boy is at higher risk for pilocytic astrocytomas of the optic nerve",
+   "C": "This ocular finding may be associated with spontaneous hyphemas",
+   "D": "His underlying disease is caused by an autosomal recessive genetic disease"
+  },
+  "markedAnswer": "B",
+  "explanation": "The slit-lamp photo shows multiple iris melanocytic hamartomas otherwise known as Lisch nodules. The presence of these nodules constitutes one of the criteria in the diagnosis of neurofibromatosis type 1 (NF1). The clinical diagnosis of NF1 consists of the patient exhibiting 2 or more of the following criteria: a first-degree relative with NF1 6 or more cafe-au-lait spots 2 or more neurofibromas or 1 plexiform neurofibroma axillary/inguinal/or other intertriginous freckling 2 or more Lisch nodules a distinctive osseous lesion (e.g. sphenoid bone dysplasia) optic nerve glioma A \"pilocytic astrocytoma\" of the optic nerve is equivalent to an optic glioma. On neuro- imaging, optic gliomas often appear as \"fusiform\" or \"sausage- shaped\" or \"kinked\" enlargements of the optic nerve. Answer choice \"A\" refers to the presence of posterior subcapsular cataracts in neurofibromatosis type 2 (there are no characteristic lens changes in NF1). Answer choice \"C\" refers to what may occur in juvenile xanthogranuloma (JXG). The iris lesions in JXG appear as vascularized yellowish or reddish nodules. Answer choice \"D\" is incorrect since NF1 is autosomal dominant in inheritance. According to U of Michigan's website on this, over 90% of NF1 patients will have Lisch nodules by the age of 6. NF-1 also associated with myelinated NFL and congenital iris ectropion. NF-2 also associated with cortical wedge cataract.",
+  "imageUrl": "/images/pedia-hy-oq/p89_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 112,
+  "question": "You are examining a patient with the peculiar iris abnormalities shown in the photo above. The patient also has twelve discrete hyperpigmented macules on his back and chest areas. What chromosome contains the genetic locus that is responsible for this patient's likely systemic syndrome?",
+  "options": {
+   "A": "chromosome 9",
+   "B": "chromosome 16",
+   "C": "chromosome 17",
+   "D": "chromosome 22"
+  },
+  "markedAnswer": "C",
+  "explanation": "The slit-lamp photo depicts small, sharply-demarcated excrescences of the anterior iris surface known as Lisch nodules. This patient apparently also has multiple cafe-au- lait spots and thus can be clinically diagnosed as having neurofibromatosis type 1 (NF-1). As stressed repeatedly in board review books, mutations of a genetic locus on chromosome 17 are responsible for this phakomatoses. This fact can be conveniently remembered by the number of letters in the word \"neurofibromatosis.\" Lisch nodules are hamartomatous growths that typically appear in NF-1 patients between ages 5 and 10 years. These nodules are rarely seen before the age of 3 years, while they are present in nearly 100% of all NF-1 adults. The clinical criteria for a diagnosis of NF-1 are summarized here (need 2 or more criteria): a first-degree relative with NF1 6 or more cafe-au-lait spots 2 or more neurofibromas or 1 plexiform neurofibroma axillary/inguinal/or other intertriginous freckling 2 or more Lisch nodules a distinctive osseous lesion (e.g. sphenoid bone dysplasia) optic nerve glioma Lastly, a summary of the other answer choices and their respective syndromes: chromosome 9 -- tuberous sclerosis (also chromosome 16) chromosome 22 -- NF-2 A suggested mnemonic (contributed by Dr. Matthew Weed) to remember the diagnostic critiera for NF-1 is: \"CALBORN\" (Cafe-au-lait spots, Axillary freckling, Lisch nodules, Bony deformity, Optic glioma, Relative affected, Neurofibromas)",
+  "imageUrl": "/images/pedia-hy-oq/p90_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 113,
+  "question": "You are called by your local pediatrician to take a look at one of his patients. The pediatrician is concerned by some \"iris abnormalities\" that he has noticed. Your examination is significant for multiple hypopigmented areas of the iris of this child's left eye as seen in the photo above (arrow). Which of the following statements is TRUE regarding this iris finding? (Please ignore this child's congenital heterochromia)",
+  "options": {
+   "A": "It can result in secondary glaucoma and corectopia",
+   "B": "It is associated with optic gliomas and hyperpigmented macules of the skin",
+   "C": "It is associated with trisomy 21",
+   "D": "It can be associated with oculodermal melanocytosis"
+  },
+  "markedAnswer": "C",
+  "explanation": "The photograph depicts multiple hypopigmented spots in the iris which are otherwise known as Brushfield spots. They are focal areas of stromal hyperplasia, surrounded by relative hypoplasia and are more common in patients with lightly pigmented irises. These spots are found in approximately 90% of individuals with Down syndrome (i.e. trisomy 21). The spots themselves have no consequence on visual function. Similar nodules, called Wofflin nodules can occur in normal individuals. Answer choice \"A\" refers to Cogan-Reese syndrome; choice \"B\" refers to Lisch nodules in association with neurofibromatosis type 1; and choice \"D\" refers to iris mammillations.",
+  "imageUrl": "/images/pedia-hy-oq/p92_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 114,
+  "question": "Which retinal lesion is associated with the facial skin abnormality depicted in the photo above?",
+  "options": {
+   "A": "capillary hemangioma",
+   "B": "cavernous hemangioma",
+   "C": "retinal astrocytoma",
+   "D": "proliferative retinal vasculopathy"
+  },
+  "markedAnswer": "C",
+  "explanation": "The photo shows the typical appearance of adenoma sebaceum which is actually a misnomer since these facial lesions actually do not contain adenomatous or sebaceous structures on histopathological sections. A more modern term given to these facial lesions is a facial angiofibroma. Approximately 75% of patients with tuberous sclerosis have this facial lesion which first appears in childhood and may be mistaken for common acne vulgaris. Tuberous sclerosis (TS) is one of the phakomatoses. Other manifestations of TS include: retinal astrocytomas, \"ash leaf spots,\" subungual and periungual fibromas, and seizures (80% of patients) from cortical tubers. The classic triad of TS, called Vogt triad, consists of seizures, intellectual disability, and facial angiofibromas. Comments Section: Tuberous Sclerosis: \"Fits, zits, dimwits\"",
+  "imageUrl": "/images/pedia-hy-oq/p93_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 115,
+  "question": "You see a 2-year-old with nystagmus from 3 months of age, poor vision in both eyes, and an incomplete barely visible iris in both eyes. His mother and 2 brothers all have this same finding. This patient is likely to have which of the following?",
+  "options": {
+   "A": "Nephroblastoma",
+   "B": "Wilms tumor",
+   "C": "Photosensitivity",
+   "D": "Myelinated nerve fiber layer"
+  },
+  "markedAnswer": "C",
+  "explanation": "Aniridia is a disease marked by bilateral hypoplastic irides, foveal hypoplasia with poor visual acuity, and frequent nystagmus. Other associated common features include glaucoma, optic nerve hypoplasia, cataracts, and the development of diffuse corneal scarring later in life from limbal stem cell deficiency. The disease is caused by PAX6 gene mutations and can be hereditary or arise de novo. In those cases of hereditary aniridia there is no increased risk for Wilms tumor (also known as nephroblastoma) over the general population. In patients with seemingly sporadic aniridia, up to one third of patients will develop Wilms tumor and most are diagnosed with the tumor by 5 years of age. All children with sporadic aniridia should undergo genetic testing for the Wilms tumor genetic defect. Most patients with aniridia will have photosensitivity simply due to the large amount of light entering the eye. Myelinated nerve fiber layer is associated with refractive amblyopia but is not commonly associated with aniridia. Comments: Why is B incorrect? Aniridia can be part of the WAGR Syndrome , is inherited in an AD pattern and in this case mother and 2 siblings have the disease as well, which can suggest an AD inheritance pattern! Please explain me why B is wrong... I think this question should be corrected B is incorrect because it is much less likely than C. The question stem clearly points to aniridia. The vast majority of aniridia patients experience photosensitivity (C). Approx one third of aniridia cases are sporadic, and only one third of these are associated with Wilm's tumour. So about 1 in 9 patients with aniridia will have A or B, in contrast to the vast majority of patients who will have C.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 116,
+  "question": "A 10-year-old child is referred to you by her pediatrician for a \"nystagmus workup.\" On exam, her visual acuity is 20/100 and 20/150 in the right and left eyes respectively. She indeed has horizontal jerk nystagmus. You are slightly confused by the child's exam since there does not appear to be much visible iris tissue. Both eyes have similar abnormalities. What corneal abnormality is most characteristically associated with this child's ocular condition?",
+  "options": {
+   "A": "apical thinning and acute episodes of eye pain",
+   "B": "severe corneal hypoesthesia",
+   "C": "diffuse microcystic corneal edema",
+   "D": "corneal opacification"
+  },
+  "markedAnswer": "D",
+  "explanation": "The slit-lamp photo depicts the rudimentary iris stump that occurs in aniridia. The actual name of this disease is a misnomer since there is always some iris remnant present. The main ocular conditions that occur in aniridia are: chronic angle closure glaucoma progressive corneal opacification (due to limbal stem cell deficiency) nystagmus foveal hypoplasia cataracts (especially small anterior polar cataracts) The corneal opacification occurs due to limbal stem cell deficiency. Therefore, limbal stem cell transplantation is indicated if this opacification occurs (then followed by a corneal transplant). Alternatively, a keratoprosthesis can be considered for aniridic patients with significant corneal opacity. As stated ad nauseum elsewhere on this website, sporadic cases of aniridia are much more commonly associated with Wilms tumor. For these patients, a renal ultrasound is mandatory to exclude this life-threatening tumor.",
+  "imageUrl": "/images/pedia-hy-oq/p95_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 117,
+  "question": "Which of the following statements is TRUE regarding the abnormality seen in the photograph above?",
+  "options": {
+   "A": "If this is \"typical\", then this photograph is of a right eye; It may involve more posterior structures (e.g. retina)",
+   "B": "If this is \"typical\", then this photograph is of a right eye; It is NOT usually associated with involvement of more posterior structures (e.g. retina)",
+   "C": "If this is \"typical\", then this photograph is of a left eye; It may involve more posterior structures (e.g. retina)",
+   "D": "If this is \"typical\", then this photograph is of a left eye; It is NOT usually"
+  },
+  "markedAnswer": "A",
+  "explanation": "This photograph depicts an iris coloboma. This abnormality is due to failure of the embryonic fissure to close in the 5th week of gestation. There are two main classes of iris colobomas: \"typical\" and \"atypical\". Typical: located in inferonasal quadrant can be associated with colobomas of the ciliary body, choroid, retina, and optic nerve Atypical: located anywhere besides inferonasal quadrant not usually associated with colobomas of the ciliary body, choroid, retina, and optic nerve probably result from fibrovascular remnants of the anterior hyaloid system Therefore, if the iris coloboma shown above is \"typical\", then this photograph is of a right eye. CATARACT & LENS DISORDERS.",
+  "imageUrl": "/images/pedia-hy-oq/p96_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 118,
+  "question": "An 8-year-old child with Marfan's syndrome experiences significant ectopia lentis is his right eye with almost complete absence of zonular support. A trial of refractive correction is attempted, but this does not result in satisfactory vision. You plan on a lensectomy for this subluxed lens. Which of the following is likely the worst intraocular lens and/or visual rehabilitation option?",
+  "options": {
+   "A": "traditional anterior chamber intraocular lens",
+   "B": "contact lens wear",
+   "C": "iris-fixated intraocular lens (e.g. Artisan)",
+   "D": "transscleral-sutured or glued intraocular lens"
+  },
+  "markedAnswer": "A",
+  "explanation": "Though a somewhat-controversial topic, most pediatric ophthalmologists would leave the child aphakic. Relatively good visual acuity can be achieved with glasses and especially with contact lenses. Iris and scleral-fixated (e.g. glued or sutured) lenses are regularly placed in adult eyes. However, there is continuing debate on the safety of using these techniques in the eyes of children due to concerns of endothelial cell loss, de-enclavation, and suture breakage.1,2 Because of these uncertainties, most Ophthalmologists currently would leave the child aphakic after lensectomy and provide visual rehabilitation with glasses or contact lenses. Of the answer choices provided, a traditional anterior chamber intraocular lens would certainly be the worst choice for a child given the higher risks to the endothelium compared to either iris- or scleral-fixated methods. Comments: \"de-enclavation\" = loss of iris fixation. To enclavate the iris is to pierce or nail it with the lens, thus fixing it in place.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 119,
+  "question": "Which of the following is the best method of diagnosing Wilson's disease (hepatolenticular degeneration) early in a child?",
+  "options": {
+   "A": "CT of the brain",
+   "B": "serum copper and ceruloplasmin",
+   "C": "detection of Kayser-Fleischer ring",
+   "D": "urinary copper excretion"
+  },
+  "markedAnswer": "B",
+  "explanation": "Although the \"Kayser-Fleischer ring\" is a characteristic finding in Wilson's disease, it typically is present late in the course of the disease and is therefore not a good method for detecting early disease. Instead, serum copper and ceruloplasmin levels should be obtained to definitively diagnose this serious disease early. Comments: I would say people put more stock into serum ceruloplasmin, Kayser fleischer ring, and urinary copper excretion. urinary copper excretion may be more important than serum copper. gold standard is the liver biopsy. Agreed. 24-hour urine copper excretion is more sensitive than serum copper and is always included in a diagnostic work-up.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 120,
+  "question": "A 4-year-old child presents acutely with a painful and red left eye. Her slit-lamp exam is significant for the corneal deposits seen in the photograph above. Her laboratory results are significant for a very elevated angiotensin- converting enzyme (ACE) level. Which of the following statements is TRUE regarding this disease process in children as compared to adults?",
+  "options": {
+   "A": "the incidence of arthritis is much less frequent as compared to adults",
+   "B": "the incidence of rash is much less frequent as compared to adults",
+   "C": "the incidence of panuveitis is much more frequent as compared to adults",
+   "D": "the incidence of lung involvement is much less frequent as compared to adults"
+  },
+  "markedAnswer": "D",
+  "explanation": "The slit-lamp photo depicts the classic \"mutton-fat\" keratic precipitates of a granulomatous uveitis. The abnormally elevated ACE level implies a diagnosis of sarcodosis which may present differently in children as compared to adults. In young children (<5 years old), lung involvement in sarcoidosis is much less frequent, but associated rash and arthritis are more frequent. As in adult ocular sarcoidosis, anterior uveitis is much more common than panuveitis. Lastly, one must keep in mind that the ACE level in normal children is typically higher compared to adults. Therefore, a borderline elevated ACE should not be used as the sole way to diagnose sarcoidosis in young children. Comments: Also, sarcoid-like disease presenting in kids must think of Blau Syndrome, where they have a typical rash at a very young age, and can test for NOD2/CARD15 mutation (which, interestingly, is near the Crohn's mutation)",
+  "imageUrl": "/images/pedia-hy-oq/p99_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 121,
+  "question": "His pediatrician note states that he is at the 2nd percentile of height and that he has \"stubby fingers and toes.\" Besides dispensing glasses, which of the following is generally recommended for patients with this disorder?",
+  "options": {
+   "A": "lensectomies",
+   "B": "intermittent cycloplegic use",
+   "C": "intermittent pilocarpine use",
+   "D": "laser peripheral iridotomies"
+  },
+  "markedAnswer": "D",
+  "explanation": "This child presents with high myopia, brachydactyly, and relatively short stature. In addition, the clinical vignette implies that he also has microspherophakia. These constellation of clinical findings are consistent with Weill-Marchesani syndrome (WMS). There are no formal criteria for the diagnosis of WMS. Other abnormalities in this syndrome include ectopia lentis, joint stiffness, heart defects, and a broad head (brachycephaly). One way to remember WMS is that its phenotype is somewhat the opposite of Marfan's syndrome patients who are tall, have long limbs, and hyperflexible joints. The only mutations of one gene have been definitively proven to be associated with WMS. This gene is called ADAMTS10 which encodes a zinc-dependent protease. Mutations in another gene, FBN1 (encoding fibrillin-1), also have been implicated in one large family affected by WMS. The small, loose lenses of WMS patients may move anteriorly and result in pupillary block glaucoma with markedly-high IOPs. Therefore, it is generally recommended to perform prophylactic laser peripheral iridotomies to prevent this IOP spike. Cycloplegic use (answer \"B\") would be appropriate during the actual attack of pupillary block glaucoma since it would allow the small lens to move back posteriorly. Comments: BCSC Notes: \"prophylactic LPI or lensectomy may be indicated\" but does not expand. Could you please explain the reasoning to perform one over the other? I think most would say to start with the more conservative option first (i.e. LPI). Lensectomy is very aggressive as an initial treatment. Is this the disease where two LPI's per eye, 180 degrees apart, are recommended due to the small shifting crystalline lens? Yep. You do 180^ apart LPIs for ectopic lentis (caused by trauma, PXE,Marfa, homocystinuria, WMS, Ehlors-Danlos, Sulfite oxidase deficiency(.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 122,
+  "question": "You are called to the nursery to examine a newborn child with a relatively-dense central nuclear cataract of the right eye. His ocular exam is otherwise normal in both eyes. His father is frantic because he had a similar condition as a child and did not receive timely intervention. What is the generally accepted timeframe for when cataract surgery should be performed for this child?",
+  "options": {
+   "A": "cataract surgery is not indicated at this time",
+   "B": "before 4 weeks of age",
+   "C": "before 6 weeks of age",
+   "D": "before 10 weeks of age"
+  },
+  "markedAnswer": "C",
+  "explanation": "You are told in the clinical vignette that the cataract is \"relatively-dense\" and \"central.\" From these descriptions, this cataract is likely amblyogenic and should be removed in a timely fashion. According to the BCSC, visually-significant unilateral congenital cataracts should be removed before 6 weeks of age while bilateral congenital cataracts should be removed before 10 weeks of age. Comments: Another user somewhere on this site came up with the following: Single = Six weeks Two = Ten weeks.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 123,
+  "question": "A 6-year-old child is referred to you by his pediatrician since she noticed an abnormal red reflex in both of the child's eyes. His slit-lamp exam is significant for the lens opacities OU seen in the photograph above. His mother states that the child complains of frequent tingling in the hands, feet, and the perioral area. Despite these symptoms, his mother states that the child is the smartest one in his class. Which of the following disorders is most likely the cause of this child's findings?",
+  "options": {
+   "A": "sarcoidosis",
+   "B": "myotonic dystrophy",
+   "C": "Lowe's syndrome",
+   "D": "hypoparathyroidism"
+  },
+  "markedAnswer": "D",
+  "explanation": "The slit-lamp photo shows the classic appearance of a \"Christmas tree cataract\" (i.e. \"multicolor flecks\"). The two conditions that this type of lens opacity can be associated with are: myotonic dystrophy and hypoparathyroidism. The symptoms of hypoparathyroidism are related to the low serum calcium levels that this condition induces. Therefore, these patients commonly experience paresthesias in their extremities and perioral region as well as the phenomenon of tetany. This latter sign can be elicted via tapping on the root of the facial nerve to induce tetany of the facial muscles (i.e. Chvostek's sign). These patients typically have normal intelligence. Patients with myotonic dystrophy can exhibit \"myotonia\" or inability to relax muscles when stimulated. The typical clinical vignette illustrating this is a patient who cannot release their handshake quickly. In contrast to patients with hypoparathyroidism, these patients typically display low intelligence. Other features of myotonic dystrophy (especially \"classic\" form) are ptosis, CPEO (chronic progressive external ophthalmoplegia), peripheral pigmentary retinopathy, and cardiac conduction abnormalities. The typical cataract associated with Lowe's syndrome is the \"thin disciform\" cataract. Patients with myotonic dystrophy type I (DMI) are known to have low intraocular pressures and it is hypothesized to be secondary to ciliary body detachments. Comments: For myotonic dystrophy -- imagine Frankenstein! He would have a hard time releasing a handshake, isnt too bright, cant see very far (xmas tree cataracts) definitely has ptosis, his eyes dont move around much (CPEO), and certainly has cardiac conduction issues from those bolts on his neck they electrocute him with.",
+  "imageUrl": "/images/pedia-hy-oq/p102_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 124,
+  "question": "What is the underlying cause for this child's systemic and ocular disorders?",
+  "options": {
+   "A": "Defective fibrillin-1 protein",
+   "B": "Defect in latent transforming growth factor beta-binding protein 2 (LTBP2)",
+   "C": "Sulfite oxidase deficiency or molybdenum cofactor deficiency",
+   "D": "Mutation in ADAMTS10 gene"
+  },
+  "markedAnswer": "C",
+  "explanation": "The photograph depicts a subluxed crystalline lens. There are several causes of luxated, or ectopic, lenses in children. The condition can be isolated, part of a multisystem disorder, or due to trauma and the most important conditions (according to the BCSC) are listed below: Associated with systemic conditions: Marfan syndrome Homocystinuria Weill-Marchesani syndrome Sulfite oxidase deficiency Isolated ocular conditions: Trauma Aniridia Iris coloboma Congenital glaucoma Hereditary ectopia lentis Ectopia lentis et pupillae Congenital megalocornea with zonular weakness In this case, in addition to ectopia lentis, this infant presents with recurrent seizures, hypertonia, and deep set eyes. These features are consistent with the very rare disease, sulfite oxidase deficiency. Sulfite oxidase oxidizes potentially toxic sulfites to nontoxic sulfates in the final step of the sulfur amino acid metabolism pathway. This enzyme requires molybdenum as a cofactor and the majority of cases are caused by deficient levels of this cofactor while a minority of cases are caused by deficiency of the enzyme itself. The prognosis is uniformly terrible with most children dying before the age of 5 years. WRONG ANSWERS (Choice A): Marfan syndrome is the syndrome most frequently associated with subluxated lens (presented in approximately 80% of patients). The lens is most often subluxated superiorly (think marFAN; superior on the ceiling): It is caused by an autosomal dominant mutation in FBN1 gene which makes fibrillin-1 protein. Patients are tall with long limbs/fingers, flexible joints, cardiovascular abnormalities (leading cause of death in patients), scoliosis and chest deformities. Other ocular abnormalities include an increased axial length with high myopia and increased risk of retinal detachment. (Choice B): LTBP2 mutation causes primary megalocornea with zonular weakness which leads to secondary glaucoma from anterior lens displacement. The primary treatment is lens extraction. (Choice D): Mutations in ADAMTS10 gene has been linked with Weill- Marchesani syndrome. Patients are short, with short limbs and brachydactyly (can be thought of as the opposite in appearance of Marfan patients). Lenses are microspherophakic and can dislocate into the anterior chamber when lying supine. Prophylactic laser iridectomy or lens extraction may be indicated. The condition can be inherited in an autosomal recessive or dominant fashion. Comments: You can use the memory tool: WATCH HIM SEE W: Weill-Marchesani A: Aniridia T: Trauma C: Congenital glaucoma H: Hereditary ectopia lentis H: Homocystenuria and Hyperlysinemia I: Iris coloboma M: Marfans S: Sulfite oxidase defeciency and Syphillis E: Ehlers-Danlos E: Ectopia lentis et pupillae.",
+  "imageUrl": "/images/pedia-hy-oq/p103_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 125,
+  "question": "A 15-year-old teenager presents to your clinic with the slit-lamp finding as shown in the photograph. He has a personal caregiver because of his intellectual disability and also has a history of deep vein thrombosis. Which of the following would be the most appropriate treatment of this patient's systemic disorder?",
+  "options": {
+   "A": "blood pressure control to decrease rate of aortic dilation; possible elective aortic repair",
+   "B": "systemic and topical cysteamine",
+   "C": "low lysine diet",
+   "D": "dietary restriction of methionine and supplementation with folate,"
+  },
+  "markedAnswer": "D",
+  "explanation": "This patient presents with ectopia lentis, intellectual disability, and a history of thrombotic events. These classic signs are likely the result of homocystinuria which is an autosomal recessive disease caused by a deficiency of cystathionine beta synthase. Other systemic abnormalities include a marfanoid habitus (i.e. tall, long limbs), pectus excavatum, and seizures. Other ocular abnormalities include myopia, glaucoma, and optic atrophy. There is no cure for homocystinuria, but its effects (especially on intellectual disability and thrombosis) can be greatly diminished if the affected individual is treated with high doses of vitamin B6 and follows a low methionine diet earlier in life.",
+  "imageUrl": "/images/pedia-hy-oq/p106_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 126,
+  "question": "A 1-month-old child with a history of galactosemia presents to your clinic for management of his bilateral cataracts. You perform lensectomies on both his eyes and decide to leave him aphakic OU. His current cycloplegic refraction is: +12.00 OU. You decide to prescribe him aphakic spectacles. Which of the following is the most appropriate power of these spectacles?",
+  "options": {
+   "A": "bifocal lens with distance power of +12.00 sphere OU; add power of +3.00 OU",
+   "B": "bifocal lens with distance power of +10.00 sphere OU; add power of +3.00 OU",
+   "C": "single vision glasses with power of +12.00 sphere OU",
+   "D": "single vision glasses with power of +14.00 sphere OU"
+  },
+  "markedAnswer": "D",
+  "explanation": "This child is only 1-month old and is unlikely to be able to use bifocal spectacles effectively. For these young infants, because their world is at their arms' length, the power for aphakic spectacles is chosen to correct for near vision, and hence they are given more add power than the cycloplegic refraction, to leave the infant slightly myopic. So in order for this child to have visual stimulus that is most appropriate for his viewing distance, which is 0.5 meters away, a overcorrection of hyperopia towards myopia of - 2D is utilized. Ignoring vertex distance, prescribing a +14.00 for this child with a +12.00 cycloplegic refraction will leave him with the desired two diopters of myopia. If one was putting an intraocular lens (IOL) into the eye, then the IOL calculation is aimed for hyperopia for the child's eye to grow and reach emmetropia. This means that the IOL power is less plus (for example, if the IOL master reports +26 D to reach a spherical equivalent of 0 D, then one would choose +24 D or +23 D for +2 D of hyperopia as the outcome). But we do not ever want to leave any child hyperopic who cannot accommodate -- that would cause refractive amblyopia. So if we put an IOL into the eye aimed for hyperopia, we would prescribe glasses with more add power to leave the child with slight myopia. (So yes, it is giving spectacles to cancel out the IOL power in anticipation for the eye to grow and the spectacle power to decrease over-time.) Aphakic spectacles are not a good choice in cases of monocular aphakia due to induced aniseikonia (i.e. image size disparity). For monocular cases, contact lenses are the preferred treatment modality. It is true that, in practice, even for bilateral aphakic patients, we prescribe contact lenses. But the concept of aniseikonia does not apply so we can get away with aphakic spectacles. UVEITIS.",
+  "imageUrl": "/images/pedia-hy-oq/p107_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 127,
+  "question": "What is the order of frequency of uveitis for the following childhood arthritis diseases (from most to least frequent)?",
+  "options": {
+   "A": "RF-negative polyarthritis > Still disease > oligoarthritis",
+   "B": "RF-negative polyarthritis > oligoarthritis > Still disease",
+   "C": "oligoarthritis > RF-negative polyarthritis > Still disease",
+   "D": "oligoarthritis > Still disease > RF-negative polyarthritis"
+  },
+  "markedAnswer": "C",
+  "explanation": "Juvenile idiopathic arthritis (JIA) is the most common cause of uveitis in the pediatric age group. The main subgroups of JIA are: (1) oligoarthritis; (2) rheumatoid factor (RF)- negative polyarthritis; (3) psoriatic arthritis; (4) enthesitis-related arthritis; and (5) systemic arthritis (i.e. Still's disease). Of these, anterior uveitis (10-30% of cases) is most likely to occur in the oligoarthritis variety. This subgroup is defined by a persisting arthritis that lasts greater than 6 weeks and affects 4 or less joints during the first 6 months of the disease. RF is almost always absent in these patients. ANA is typically positive in both the oligo- and polyarthritis varieties. Anterior uveitis occurs in approximately 10% of patients in both the RF-negative polyarthritis and psoriatic arthritis subgroups. Uveitis rarely ever occurs in systemic arthritis (i.e. Still's disease).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 128,
+  "question": "A 10-year-old girl presents to your office with the corneal abnormality shown in the photo above. Though difficult to measure, you estimate her intraocular pressure to be 40 mmHg despite the use of maximally-tolerated medications including an oral carbonic anhydrase inhibitor. She also has a history of joint pains affecting both knees and wrists. Which of the following would be the best choice in terms of intraocular pressure control?",
+  "options": {
+   "A": "increase in dosage of the carbonic anhydrase inhibitor",
+   "B": "trabeculotomy or goniotomy",
+   "C": "Baerveldt glaucoma drainage implant",
+   "D": "ExPress mini-shunt"
+  },
+  "markedAnswer": "C",
+  "explanation": "The slit-lamp photo depicts band keratopathy with its characteristic calcium deposits at the level of the epithelial basement membrane and Bowman's layer. This young girl also has pain in 4 joints leading to a presumptive diagnosis of pauciarticular/oligoarticular juvenile idiopathic (rheumatoid) arthritis (JIA). Glaucoma is a frequent complication of JIA either from the process itself (e.g. smoldering inflammation recalcitrant to therapy), as a side effect of corticosteroid use, or as a consequence from multiple intraocular procedures (e.g. cataract surgery, vitrectomy). Though filtering surgery can be attempted (e.g. standard trabeculectomy, ExPress shunt), they are associated with a high risk of failure since the blebs scar over quickly. Though angle surgery may be effective in some of these children, the currently-preferred choice is insertion of a glaucoma drainage implant (e.g. Baerveldt, Ahmed, Molteno, etc). Lastly, it is highly recommended that the inflammation of JIA be as well controlled as possible before inserting a drainage implant since the risk of post-operative hypotony is very high in actively-inflammed eyes. Many specialists would also give a \"stress-dose\" of systemic corticosteroids/immunosuppressives prior to the surgery and during the immediate post-operative period to prevent hypotony. Comments: This is what the book says, but you had a previous question that said do a goniotomy and a repeat goniotomy before going to a tube. That question should probably be changed. That question was probably a typical juvenile or congenital glaucoma, in which angle surgery is the primary treatment. This is a bit different - think of it more as a uveitic glaucoma than juvenile. Ideally if someone's IOP were 40 wouldn't you put in an Ahmed? It would start working immediately rather than the Baerveldt which would take some time for the rip cord to be pulled etc. Additionally a valved glaucoma drainage implant such as an Ahmed would be preferred in a uveitic glaucoma patient (given the risk for hypotony) This is exactly what my glaucoma attending says Maybe it's different in children, but a valved GDI (like the Ahmed) is far and away the best choice for immediate IOP control in uveitics. I don't know anyone who would use a Baerveldt or Molteno in this case.",
+  "imageUrl": "/images/pedia-hy-oq/p110_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 129,
+  "question": "You are participating in the management of a 5-year-old child with a history of oligoarticular juvenile idiopathic arthritis. The child is currently taking weekly oral doses of methotrexate which is alleviating his joint pain significantly. Which of the following is the most common adverse effect of methotrexate in children?",
+  "options": {
+   "A": "hepatic toxicity",
+   "B": "stomatitis",
+   "C": "gastrointestinal disturbance",
+   "D": "interstitial pneumonitis"
+  },
+  "markedAnswer": "C",
+  "explanation": "Methotrexate is oftentimes the first-line immunosuppressive that is used to treat both arthritis and uveitis in children since long-term systemic corticosteroids can have significant side effects in children (e.g. growth retardation, bone fractures, etc). The most common adverse effect of oral methotrexate is gastrointestinal disturbance (e.g. nausea/vomiting, diarrhea) which can be minimized by concurrent folic acid use or using intramusclar/subcutaneous injections instead). There are several serious (but fortunately rare) complications with methotrexate use including: hepatic toxicity, interstitial pneumonitis, and myelosuppression.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 130,
+  "question": "Which of the following is the most accurate diagnosis of this child's condition?",
+  "options": {
+   "A": "psoriatic arthritis",
+   "B": "oligoarticular juvenile idiopathic arthritis (JIA)",
+   "C": "Blau syndrome",
+   "D": "Heerfordt-Waldenstrom syndrome"
+  },
+  "markedAnswer": "C",
+  "explanation": "This child presents with a polyarthritis, skin rash, band keratopathy, anterior uveitis (granulomatous in this case), and multifocal choroiditis in an apparent autosomal dominant inheritance pattern. These characteristics are consistent with a diagnosis of Blau syndrome which is also called Jabs syndrome or familial juvenile systemic granulomatosis.1 This uncommon disorder is most often confused with juvenile idiopathic (rheumatoid) arthritis and sarcoidosis due to the findings of granulomatous anterior uveitis and band keratopathy. However unlike either of these disorders, Blau syndrome is a hereditary disease with the causative gene (NOD2) found on chromosome 16. Unlike sarcoidosis, there is no pulmonary involvement or adenopathy in this syndrome. In addition unlike Blau syndrome, JIA does not manifest with multifocal choroiditis and sometimes has positive ANA titers. Other ocular complications described with Blau syndrome include: ischemic optic neuropathy, cystoid macular edema, neovascularization resulting in vitreous hemorrhage, cataract, and glaucoma. Visual prognosis is guarded even with aggressive therapy with systemic corticosteroids and immunosuppressives. As an aside, Heerfordt-Waldenstrom syndrome is a type of sarcoidosis syndrome characterized by uveitis, parotitis, fever, and facial nerve palsy. RETINA.",
+  "imageUrl": "/images/pedia-hy-oq/p112_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 131,
+  "question": "What two diseases have retinal findings most similar to retinopathy of prematurity?",
+  "options": {
+   "A": "Incontinentia pigmenti and Familial exudative vitreoretinopathy (FEVR)",
+   "B": "Usher syndrome and Familial exudative vitreoretinopathy (FEVR)",
+   "C": "Incontinenti pigmentia and Persistent hyperplastic primary vitreous (PHPV)",
+   "D": "Usher syndrome and Persistent hyperplastic primary vitreous (PHPV)"
+  },
+  "markedAnswer": "A",
+  "explanation": "Sometimes it seems that the weirder and more rare the disease, the more likely you are to encounter it on your test; Incontinentia pigmenti (IP) and FEVR are no exception to the rule. They both have retinal findings similar to retinopathy of prematurity (ROP) with some noteworthy exceptions that allow you to distinguish each from ROP. FEVR is a genetic eye disorder affecting the growth and development of blood vessels in the retina associated with vitreous traction leading to peripheral exudation, peripheral retinal breaks, and incomplete peripheral retinal vascularization. The fundus appearance can be very similar to ROP. FEVR is inherited in an autosomal dominant manner, however, so examination of family members may be helpful. Keep in mind that there is variable expressivity so some patients with FEVR will have only mild retinal findings that are asymptomatic. Prematurity is also not a risk factor for FEVR; if a clinical vignette describes a normal sized infant from a normal pregnancy with fundus findings typical of ROP then you should be thinking about FEVR rather than ROP. IP, or Bloch-Sulzberger syndrome, is a X-linked dominant disease involving the eyes, skin, and brain. It is lethal in hemizygous males so if a clinical vignette describes a male with findings of ROP then you know that the answer choice is not IP. Skin findings include bullae on the extremities and hyperpigmented macules on the trunk. Brain abnormalities are common and include microcephaly, seizures, and intellectual disability. Finally the ocular findings are very similar to ROP and include incomplete peripheral vascularization leading to neovascular membranes leading to retinal detachment.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 132,
+  "question": "You are called to see a 3-day-old child for possible neonatal conjunctivitis of both eyes. During the course of your complete eye exam, you detect a mild amount of intraretinal hemorrhages OU on dilated fundus exam. The child otherwise appears healthy and attentive. Which of the following is the most appropriate management for this child?",
+  "options": {
+   "A": "observation only",
+   "B": "hematologic workup for possible coagulation disorder",
+   "C": "imaging for other evidence of non-accidental trauma",
+   "D": "report this incident immediately to child protective services"
+  },
+  "markedAnswer": "A",
+  "explanation": "Retinal hemorrhages from the birth trauma of vaginal delivery is fairly common with newborns. These retinal hemorrhages rarely persist beyond the first month of life. In contrast, the retinal hemorrhages of non-accidental trauma (i.e. \"shaken baby syndrome\") are typically much more extensive and can be associated with evidence of retinal tissue disruption (e.g. perimacular folds, traumatic retinoschisis). Lastly, these children are almost always very ill with approximately 1/3 of them succumbing to their associated intracranial injuries.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 133,
+  "question": "Which of the following descriptions most accurately describes stage 3 retinopathy of prematurity (ROP)?",
+  "options": {
+   "A": "ridge with extraretinal fibrovascular proliferation",
+   "B": "subtotal retinal detachment",
+   "C": "demarcation line",
+   "D": "ridge with or without small tufts of fibrovascular proliferation"
+  },
+  "markedAnswer": "A",
+  "explanation": "The International Classification of Retinopathy of Prematurity (ICROP) describes ROP by stage, zone, and extent. Worse forms of ROP are associated with higher stages and lower zones. The stages of ROP: Stage 0: immature vascularization (no ROP) Stage 1: demarcation line (i.e. has no height) Stage 2: ridge with or without small tufts of fibrovascular proliferation (i.e. has height) Stage 3: ridge with extraretinal fibrovascular proliferation Stage 4: subtotal retinal detachment (4A - extrafoveal RD; 4B - RD including fovea) Stage 5: total retinal detachment The \"zones\" or location of involvement of ROP: Zone I (i.e. posterior pole): circle (centered on the optic disc) with a radius of 30 degrees (i.e. approximately twice the disc-to-fovea distance) Zone II: from edge of zone I to point tangetial to nasal oral serrata and around to area near the temporal equator Zone III: residual cresent anterior to zone II The \"extent\" of disease is specified as hours of the clock as the examiner looks into the eye (e.g. \"3 clock hours of involvement\") \"Plus disease\" is added when vascular shunting is so severe that the posterior pole veins are enlarged and the arteries are tortuous. The Cryotherapy for Retinopathy of Prematurity (CRYO-ROP) defined \"threshold disease\" as 5 contiguous or 8 total clock-hours of stage 3 in zone I or II with plus disease. The Early Treatment for Retinopathy of Prematurity (ETROP) trial further classified ROP into either type 1 or type 2 disease. Laser treatment to the avascular retina is recommended for any eye with type 1 ROP: Type 1 ROP o Zone I, any stage with plus disease o Zone I, stage 3 without plus disease o Zone II, stage 2 or 3 with plus disease Type 2 ROP o Zone I, stage 1 or 2 without plus disease o Zone II, stage 3 without plus disease.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 134,
+  "question": "A patient is referred to you for the retinal lesion shown in the above photo. Which of the following systemic findings would most likely be found in association with this lesion?",
+  "options": {
+   "A": "pheochromocytoma",
+   "B": "acoustic neuromas",
+   "C": "meningeal angiomas",
+   "D": "intracranial arteriovenous malformations"
+  },
+  "markedAnswer": "A",
+  "explanation": "The photograph depicts a redidsh-orange vascular tumor that is fed by a dilated, tortuous retinal artery and drained by an engorged vein. These features are classic for a retinal capillary hemangioblastoma. When these lesions are detected, a systemic evaluation is warranted to search for the myriad systemic findings that can occur with von Hippel-Lindau syndrome (VHL). This syndrome is one of the classic phakomatoses (i.e. neuro-oculocutaneous syndromes) that are widely tested on Ophthalmology board exams. The retinal capillary hemangioblastoma is typically seen between the ages of 10 and 35 years. These vascular tumors can leak fluid into the macula with or without exudate retinal detachment. Also, these tumors can lead to vitreous hemorrhage and tractional retinal detachment. These retinal tumors are typically treated with either photocoagulation or cryotherapy. Some key facts regarding VHL syndrome: Caused by mutation of a gene (VHL - a tumor suppressor gene) on chromosome 3p26. Autosomal dominant inheritance pattern; high penetrance (varies by mutation) and variable expression. Central nervous system tumors can include: 20% of VHL patients have hemangioblastomas of the cerebellum, medulla, pons, and spinal cord. Other findings include: renal cell carcinoma, pheochromocytomas, cysts of the kidney/pancreas/liver, cardiac rhabdomyomas. The primary cause of death from this condition is from either cerebellar hemangioblastomas or renal cell carcinoma. WRONG CHOICES: The distractor answer choices are listing some classic findings in other phakomatoses. Acoustic neuromas are classically found in neurofibromatosis type 2. Meningeal angiomas (causing seizures) are more likely found in Sturge-Weber syndrome. Intracranial (especially midbrain) arteriovenous malformations are seen in Wyburn-Mason syndrome.",
+  "imageUrl": "/images/pedia-hy-oq/p116_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 135,
+  "question": "A 17-year-old Air Force recruit is referred to you after failing his vision test requirement to become a fighter pilot. His best corrected visual acuity is 20/40 and 20/70 in the right and left eyes respectively. His dilated fundus exam is seen above. Which of the following is a characteristic of this patient's likely condition?",
+  "options": {
+   "A": "color deficiency but without progressive loss of visual acuity",
+   "B": "progressive loss of color vision and \"hemeralopia\"",
+   "C": "\"quenching\" as seen on fluorescein angiography (FA)",
+   "D": "\"dark choroid\" sign on fluorescein angiography (FA)"
+  },
+  "markedAnswer": "D",
+  "explanation": "The fundus photo shows a Bull's eye maculopathy and loss of the foveal reflex OS>OD (i.e. \"polymorphic sheen\" or \"beaten-bronze\" appearance). In addition, there are surrounding yellow deposits (\"pisciform flecks\") in the paramacular area and relative sparing of the peripapillary retina. These features are consistent with a diagnosis of Stargardt disease. Since the flecks appear to be diffusely distributed throughout the posterior pole, you can say that this patient has fundus flavimaculatus (FF). The hallmark FA finding of Stargardt's/FF is the \"dark choroid\" sign whereby the retinal vessels are highlighted against a hypofluorescent choroid in the early phases of the FA. This is thought to be due to blockage from diffusely distributed lipofuscin. Stargardt's/FF is the most common juvenile macular dystrophy with age of onset typically in the early teenage years. The end visual acuity is typically in the 20/50 to 20/200 range. Answer \"A\" refers to the congenital color blindness entities (e.g. protanopia). Patients with these disorders have normal visual acuity and lack of retinal findings. Answer \"B\" refers to the cone dystrophies which can also present with a Bulls eye maculopathy. However, the end visual acuity is much worse compared to Stargardt patients. In addition, Stargardt itself does not confer any color vision defects. \"Hemeralopia\" (i.e. day-blindness) occurs in patients with cone dystrophies whereby their vision is actually worse in bright light conditions. Answer \"C\" refers to the peculiar FA phenomenon that can occur in birdshot chorioretinopathy (one of the white-dot syndromes).",
+  "imageUrl": "/images/pedia-hy-oq/p118_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 136,
+  "question": "Which of the following newborns should be screened for retinopathy of prematurity (ROP) (assume that all newborns have a stable clinical course)?",
+  "options": {
+   "A": "born with birth weight of 2000 grams or less",
+   "B": "born with birth weight of 2500 grams or less",
+   "C": "born at gestational age of 30 weeks or earlier",
+   "D": "born at gestational age of 32 weeks or earlier"
+  },
+  "markedAnswer": "C",
+  "explanation": "Premature infants should undergo a dilated fundus exam (DFE) to screen for retinopathy of prematurity (ROP) if they were born at gestational age of 30 weeks or earlier or had a birth weight of 1500 grams or less. Screening for ROP should also occur in premature infants with an unstable course if the pediatrician feels that the child is at high risk for ROP. Some guidelines for ROP screening: Perform first DFE at 4 weeks' chronologic age, or at corrected gestational age of 30-31 weeks, whichever is later (but no later than 6 weeks' chronologic age). In other words, the more pre-term an infant is at birth, the longer the time to develop serious ROP. Thus, by starting the screening later, you will minimize the number of traumatic eye exams while not missing the developing of serious ROP. For example, if an infant is born at 30 weeks gestational age, you would not screen her until she was 34 weeks gestational age (i.e. 4 weeks' chronologic age). Cyclomydril (0.2% cyclopentolate and 1.0% phenylephrine) is recommended for DFE for these infants. The infant may experience apnea & bradycardia during the DFE and thus the NICU nurse should be present during the exam. The ETROP (Early Treatment for Retinopathy of Prematurity) classification of ROP: o Type 1 ROP § Zone I, any stage, with plus disease § Zone I, stage 3 without plus disease § Zone II, stage 2 or 3 with plus disease o Type 2 ROP § Zone I, stage 1 or 2 without plus disease § Zone II, stage 3 without plus disease Treatment (i.e. scatter laser to the peripheral avascular retina) is done for Type I ROP; close observation is done for Type II ROP.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 137,
+  "question": "A 3-year-old patient with an uncomplicated prenatal and postnatal history presents to your clinic with unilateral leukocoria of the right eye. B-scan ultrasonography demonstrates a funnel-shaped retinal detachment, normal axial length, and no discrete masses or calcification. Fluorescein angiography of the left eye is shown above. What is the most likely diagnosis?",
+  "options": {
+   "A": "Persistent fetal vasculature",
+   "B": "Sporadic hereditary retinoblastoma",
+   "C": "Familial exudative vitreoretinopathy",
+   "D": "Retinopathy of prematurity"
+  },
+  "markedAnswer": "C",
+  "explanation": "The differential diagnosis for leukocoria is high-yield for board exams. It is the most common presenting sign of retinoblastoma in the United States and other developed countries, but can be caused by many other disease entities. A differential diagnosis for leukocoria is shown below. Tumors: retinoblastoma, medulloepithelioma, leukemia, astrocytic hamartoma (retinal astrocytoma), combined retinal hamartoma Congenital: persistent fetal vasculature, posterior coloboma, Norrie’s disease, incontinentia pigmenti, retinal dysplasia, cataract Vascular disease: retinopathy of prematurity (ROP), Coat’s disease, familial exudative vitreoretinopathy Trauma: vitreous hemorrhage, retinal detachment Inflammatory: toxocariasis, toxoplasmosis, endophthalmitis, posterior uveitis Fluorescein angiography demonstrates vascular nonperfusion in the eye without leukocoria representing bilateral disease. In the absence of premature birth (< 30 weeks’ gestational age), low birthweight (< 1500 g), excessive supplemental oxygen, or poor postnatal growth, retinopathy of prematurity is less likely and this presentation is more consistent with familial exudative vitreoretinopathy (FEVR). FEVR is a primarily autosomal dominant disease where there is incomplete vascularization of the peripheral retina to vascularize. Fundus exam will typically show avascularity of the temporal retina with varying degrees of fibrovascular proliferation that can mimic ROP. FEVR is bilateral but can be highly asymmetric. In this case, the patient has a complete funnel retinal detachment in the right eye and only mild avascularity in the left eye. Management options depend on the clinical stage of the disease but can include photocoagulation, cryopexy, vitrectomy, cataract extraction, and anti-VEGF injections. OPTIC DISC ABNORMALITIES.",
+  "imageUrl": "/images/pedia-hy-oq/p120_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 138,
+  "question": "Which of the following is true regarding this girl's most likely ocular condition?",
+  "options": {
+   "A": "her condition is inherited in an autosomal recessive pattern",
+   "B": "her condition can only be transmitted by females",
+   "C": "her condition will likely lead to 20/400 to hand motions vision in the future",
+   "D": "her condition is associated with blue-yellow dyschromatopsia"
+  },
+  "markedAnswer": "D",
+  "explanation": "The disc photos demonstrate temporal pallor with an area of \"triangular excavation.\" In addition, there is an absence of fine superficial capillaries of the temporal aspect of the disc. This young girl also displays slow loss of vision and absence of nystagmus. These features are characteristic of dominant optic atrophy which is also known as Kjer optic atrophy. Other features of dominant optic atrophy are: autosomal dominant inheritance, blue-yellow (i.e. tritan) dyschromatopsia, mild-to-moderate vision loss (20/40-20/200) level, and overall acceptable prognosis (i.e. vision rarely worse than 20/200). It is the most common of the hereditary optic atrophies and is associated with mutations in the OPA1 gene. In contrast, there exists an autosomal recessive optic atrophy that begins earlier in childhood (e.g. prior to 5 years of age) with much more severe vision loss and also nystagmus in ~50% of cases. (Answer choices \"A\" and \"C\"). Answer choice \"B\" refers to the mitochondrial inheritance of Leber's hereditary optic neuropathy, which therefore can only be passed along by females. It usually affects males in their second or third decade of life. Behr optic atrophy is another hereditary optic atrophy which is much rarer than the above diseases. Its clinical features are: onset of vision loss in early childhood (i.e. <10 years old), ataxia, intellectual disability, and urinary incontinence. Comments: Behr optic atrophy - atrophy + wet, wacky, wobbly (NPH symptoms)",
+  "imageUrl": "/images/pedia-hy-oq/p122_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 139,
+  "question": "The retinal finding in the photograph above along the superotemporal arcade is found on a routine eye exam in a 7-year-old patient who appears otherwise healthy. What is an additional concern in any child with this finding?",
+  "options": {
+   "A": "Refractive amblyopia",
+   "B": "Occult HIV infection",
+   "C": "Glaucoma",
+   "D": "Hypertension"
+  },
+  "markedAnswer": "A",
+  "explanation": "The photograph above shows a large white feathery lesion following the superotemporal arcade that appears classic for a myelinated nerve fiber layer. Myelinated nerve fiber layer (NFL) lesions are present from early in life and represent a focal abnormality in normal myelination. Myelination of retinal ganglion cells generally starts at the lateral geniculate ganglion and stops at the lamina cribrosa, although for unknown reason myelination extends into the retinal nerve fiber layer in some patients. Lesions can be large or small, generally follow a vascular distribution, frequently appear adjacent to the optic nerve head (less apparent in this case), and can result in a relative scotoma corresponding to the region of aberrant myelination. Myelinated NFL is one cause of pseudopapilledema when the area of myelination occurs circumferentially around the optic nerve head. For unclear reasons, children with myelinated nerve fiber layers are at increased risk for refractive amblyopia and should undergo careful visual acuity testing and refraction since correction of the refractive error may reverse the vision loss. HIV (or more appropriately AIDS) can make patients susceptible to cytomegalovirus retinitis which can show white exudates in the retina but there is usually hemorrhage, retinal necrosis / swelling, and the patient with a lesion this size should be symptomatic. Cotton wool spots (CWS) are white retinal lesions caused by infarcts in the NFL often associated with hypertension but CWS are usually smaller and this patient shows no other findings of HTN such as hemorrhages, microaneurysms, or arterial vascular changes.",
+  "imageUrl": "/images/pedia-hy-oq/p123_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 140,
+  "question": "Which of the following causes of decreased vision from birth would demonstrate an abnormal fundus appearance if checked within the first few months of life?",
+  "options": {
+   "A": "De Morsier syndrome",
+   "B": "Achromatopsia",
+   "C": "Cortical visual impairment",
+   "D": "Leber's congenital amaurosis"
+  },
+  "markedAnswer": "A",
+  "explanation": "De Morsier syndrome, or septo-optic dysplasia (SOD), is a congenital disease marked by midline brain developmental abnormalities and unilateral or bilateral optic nerve hypoplasia. Vision can range from near normal to severely impaired. Nystagmus is frequently present and develops around age 1-4 months when the pathways required for normal fixation typically mature. In children with SOD, the diagnosis is not typically a mystery because the fundus exam will show optic nerve hypoplasia from birth (although it may be difficult for the novice to see in a screaming child with nystagmus). Achromatopsia, or rod monochromatism, is an autosomal recessive condition marked by congenital absence of cone cells leading to poor central vision, no color vision, and nystagmus. The retinal exam is usually normal. Leber's congenital amaurosis (LCA) is an autosomal recessive disorder of rods and cones that can be thought of as a severe form of retinitis pigmentosa. Vision is usually poor and pupillary responses are sluggish. The retinal exam can vary widely but is usually normal early in life and becomes similar to retinitis pigmentosa over time (bone spicules, optic nerve pallor, attenuated vessels, etc). Both LCA and achromatopsia may require an ERG for diagnosis early in life and are some of the more common causes for abnormal vision with a normal fundus exam in an infant. Cortical visual impairment (CVI) is poor vision due to pathology occurring in the visual pathways somewhere from the lateral geniculate nucleus to the primary visual cortex in the occipital lobe. There are many different causes including periventricular leukomalacia, stroke, CNS malformations, and in utero infections. If cortical impairment occurs before the first week or two of life, there may be optic nerve pallor from transynaptic degeneration of retinal ganglion cells although usually CVI patients have normal appearing fundi and ERGs.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ }
+]

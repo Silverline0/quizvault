@@ -1,0 +1,1052 @@
+[
+ {
+  "id": 71,
+  "question": "What is the most likely diagnosis?",
+  "options": {
+   "A": "Vernal keratoconjunctivitis",
+   "B": "Contact lens overuse",
+   "C": "Prior ocular trauma",
+   "D": "Keratoconus"
+  },
+  "markedAnswer": "D",
+  "explanation": "The corneal topography shown above shows a region of marked steepening in the inferior cornea consistent with the diagnosis of keratoconus (about 54 diopters in the region of greatest steepening and about 44 diopters centrally). While other entities can cause irregular astigmatism including contact lens use, these findings are more than would be expected for contact lens associated topography changes and the patient has not worn his contacts for at least one month according to the question stem. The patient could have vernal keratoconjunctivitis (VKC) and have been misdiagnosed as allergic conjunctivitis. VKC, however, is characterized by giant papillae, limbal Horner-Trantas dots, and shield ulcers and would not be expected to cause the astigmatism shown in the topography nor the corneal findings described in the question. Corneal trauma can cause virtually any type of corneal astigmatic change and could explain the patient's small corneal scar in the right eye but would be unlikely to cause the same astigmatic change seen in the topography from both eyes. Keratoconus is a common disease associated with progressive thinning of the cornea leading to a characteristic cone shape of the cornea (\"Munson's sign\" when the cone is appreciated juxtaposed against the lower eyelid while the patient looks down). Keratoconus is associated with many diseases but atopic disease is a prominent risk factor (hence our patient's history of allergic conjunctivitis). It is believed that eye rubbing does contribute to the development and progression of keratoconus.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 72,
+  "question": "A 34-year-old man undergoes a deep anterior lamellar keratoplasty (DALK) for keratoconus. His post-operative drop regimen consists only of topical corticosteroids and antibiotics. On his post-operative week two visit, the patient complains of photophobia and glare. On exam, you note a fixed dilated pupil and some sector iris atrophy. What is the name given to these clinical findings?",
+  "options": {
+   "A": "Posner-Schlossman syndrome",
+   "B": "Alberth-Schnitzler syndrome",
+   "C": "Urrets-Zavalia syndrome",
+   "D": "Castroviejo-Paufique syndrome"
+  },
+  "markedAnswer": "C",
+  "explanation": "The presentation of a fixed dilated pupil with sector iris atrophy after penetrating keratoplasty (PKP) is classically known as Urrets-Zavalia syndrome. It was originally described in 1963 as a rare complication in keratoconus patients who underwent PKP. The original description also included secondary glaucoma as part of the syndrome (although this was rarely reported in later cases). Since then, it has been described in cases of deep anterior lamellar keratoplasty (DALK), trabeculectomy, and even after argon laser iridoplasty. The cause of this syndrome is not completely understood, but is thought to be a result of parasympathetic denervation of the iris sphincter. Answer choices \"B\" and \"D\" are made-up; Answer choice \"A\" is a classic glaucoma syndrome characterized by recurrent, unilateral bouts of very-high IOPs. These episodes are self-limited and associated with only very mild anterior chamber inflammation.",
+  "imageUrl": "/images/cornea-oq/p52_img2.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 73,
+  "question": "Which of the following conditions is associated with keratoglobus?",
+  "options": {
+   "A": "deafness",
+   "B": "Down syndrome",
+   "C": "thickened sclera",
+   "D": "atopy"
+  },
+  "markedAnswer": "A",
+  "explanation": "Keratoglobus differs from the other corneal ectatic disorders (e.g. from keratoconus and pellucid) in that it is typically present at birth. Unlike keratoconus or pellucid, keratoglobus is frequently associated with corneal perforation and rupture. Keratoglobus shows strong association with Ehlers-Danlos syndrome type VI and blue sclera. It is also associated with flexible joints, bone fractures, deafness, and teeth abnormalities. An increased risk of keratoconus (not keratoglobus) occurs in patients with atopy, Marfan syndrome, floppy eyelid syndrome, and mitral valve prolapse. The classic clinical vignette for a patient with keratoconus is a young adult who has a history of chronic eye rubbing during childhood. Some other conditions commonly in the differential diagnosis of keratoglobus are megalocornea and congenital glaucoma. Unlike keratoglobus, the corneal thickness and contour are normal in megalocornea (defined as horizontal cornea diameter ≥13 mm). In congenital glaucoma, there may be corneal edema and Haab's striae which do not occur in keratoglobus.",
+  "imageUrl": "/images/cornea-oq/p155_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 74,
+  "question": "Which of the following best distinguishes keratoglobus from pellucid marginal degeneration and keratoconus?",
+  "options": {
+   "A": "global thinning present at birth",
+   "B": "thinning at puberty",
+   "C": "peripheral thinning",
+   "D": "thinning below area of protrusion"
+  },
+  "markedAnswer": "A",
+  "explanation": "Keratoglobus is a very rare corneal ectasia which features a globular overall corneal curvature. The pattern of thinning with keratoglobus is generalized thinning, greatest in the periphery. Keratoconus generally thins paracentrally, and pellucid has a normal thickness peripherally with thinning in a band centripetal to this. Also in contrast to keratoconus or pellucid, keratoglobus is typically present at birth while the other two corneal ectasias occur in puberty or young adulthood. Keratoconus, the most common of the corneal ectasias, is a degenerative disorder that results in thinning of the cornea at the apex of the cone. These patients almost always demonstrate topographic abnormalities at a young age. It is thought to develop initially in puberty. It is commonly associated with painful episodes of corneal hydrops, apical scarring, and \"Fleischer rings\" below the cone. Pellucid marginal degeneration has inferior thinning of the cornea with protrusion of the cornea above the thinning (i.e. the corneal apex is above the area of thinning). Corneal scarring, episodes of hydrops, and iron lines are less common in pellucid compared to keratoconus. In clinical practice, it is sometimes very difficult to distinguish between pellucid and keratoconus. Differentiating between these entities can be accomplished by obtaining pachymetry measurements and correlating it to the topography. This task is easier to do with devices such as Scheimpflug cameras (e.g. Pentacam) which are able to produce topographic and pachymetry data simultaneously. Answer choice C is incorrect because both pellucid and keratoglobus have peripheral thinning. In addition, answer choice A is the most correct answer and a topic that is readily testable on the boards.",
+  "imageUrl": "/images/cornea-oq/p55_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 75,
+  "question": "Where is the thinning of the cornea in relation to the most elevated part of the cornea in pellucid marginal degeneration?",
+  "options": {
+   "A": "thinning above the protrusion",
+   "B": "thinning at the apex of the protrusion",
+   "C": "thinning temporal to the protrusion",
+   "D": "thinning inferior to the protrusion"
+  },
+  "markedAnswer": "B",
+  "explanation": "llucid marginal degeneration (PMD) is a bilateral and peripheral corneal ectatic disorder which is characterized by a band of thinning typically in the inferior cornea (e.g. 4 o'clock to 8 o'clock). The maximal protrusion in PMD occurs just superior to the area of thinning. This contrasts with keratoconus where the maximal protrusion typically coincides with the area of maximal thinning. The protruding portion of the cornea in PMD is of normal thickness. Thus, the ectatic pattern of PMD is sometimes referred to as a \"beer belly\" (i.e. someone's gut [the protruding area] hanging over his belt [the thin area] ). The topographic pattern of PMD is classically described as \"crab claw\" (i.e. central flattening with inferior steepening). The classic differences between pellucid, keratoconus, and keratoglobus are: Keratoconus • more common • usually starts at puberty • maximal thinning at the apex • Fleischer ring • Scarring is common Pellucid marginal degeneration • less common • onset during 20's-40's • maximal thinning inferior to area of protrusion • Scarring only occurs after hydrops Keratoglobus • very rare • onset at birth • thinning greatest in periphery • protrusion is generalized • No iron lines or scarring Corneal scarring, episodes of hydrops, and iron lines are less common in pellucid compared to keratoconus. In clinical practice, it is sometimes very difficult to distinguish between pellucid and keratoconus. Differentiating between these entities can be accomplished by obtaining pachymetry measurements and correlating it to the topography. This task is easier to do with devices such as Scheimpflug cameras (e.g. Pentacam) which are able to produce topographic and pachymetry data simultaneously.",
+  "imageUrl": "/images/cornea-oq/p46_img9.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 76,
+  "question": "What is the classic topographic finding in patients with pellucid marginal degeneration (PMD)?",
+  "options": {
+   "A": "asymmetric bowtie",
+   "B": "inferior steepening",
+   "C": "crab claw",
+   "D": "balloon"
+  },
+  "markedAnswer": "C",
+  "explanation": "Pellucid marginal degeneration (PMD) is a bilateral ectatic disorder that features a band of thinning, approximately 1-2 mm in width, in the inferior cornea (e.g. from 4 o'clock to 8 o'clock). Protrusion of the cornea is seen above this area of thinning, which is in contrast to keratoconus where the protrusion is within the area of thinning. Corneal scarring, episodes of hydrops, and iron lines are less common in PMD compared to keratoconus. In clinical practice, it is sometimes very difficult to distinguish between pellucid and keratoconus. Differentiating between these entities can be accomplished by obtaining pachymetry measurements and correlating it to the topography. Keratoconus has thinning directly over the area of maximal protrusion. This task is easier to do with devices such as Scheimpflug cameras (e.g. Pentacam) which are able to produce topographic and pachymetry data simultaneously. The classic topographic pattern for PMD is the \"crab claw\" configuration (see image below) which represents the shift from against-the-rule astigmatism superiorly to with-the-rule astigmatism inferiorly. The classic topographic pattern for keratoconus is the inferior steepening or asymmetric bowtie pattern.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 77,
+  "question": "A 63-year-old patient is sent to you for cataract consultation.  During examination, you determine that the patient has a visually-significant cataract.  You also notice the following corneal finding in both eyes.  Which of the following is TRUE regarding this condition?",
+  "options": {
+   "A": "Corneal cross-linking may be useful in early cases to prevent progression of this condition",
+   "B": "Endothelial keratoplasty may be needed either in combination with cataract surgery or in a staged approach",
+   "C": "Intraocular lens calculations may be inaccurate in this patient population",
+   "D": "Light microscopy will reveal a focal absence of endothelium and Descemet's membrane with secondary opacification of overlying stromal lamellae"
+  },
+  "markedAnswer": "C",
+  "explanation": "The clinical findings seen in this patient are consistent with posterior keratoconus, which is thought to be a developmental disorder that occurs during the second trimester. This condition causes a localized anterior bulging of the posterior corneal surface with overlying thinning of stroma, similar in appearance to a corneal leukoma. This condition is in the spectrum of anterior chamber dysgenesis syndromes and there may be other anterior segment abnormalities present, though many cases are isolated findings with minimal-to-moderate visual impairment. Light microscopy of this condition has shown a focal disorganization of basal epithelium and basement membrane, replacement of Bowman's membrane by fibrous tissue, and a thinned stroma with irregular arrangement of central collagen fibers. There is a variable appearance of Descemet's membrane with posterior indentations. If unilateral, trauma (oblique, blunt injury) and perforated corneal ulcer may be considered. However, most cases are bilateral, and therefore the differential includes conditions such as Peter's anomaly and congenital hereditary endothelial dystrophy. Genetic testing may be considered though no specific genetic defects have been identified thus far. This condition may be associated with other anterior segment pathology, such as polar cataract, lenticonus and ectopia lentis. Interestingly enough, there is minimal-to-no association with traditional keratoconus. Corneal thickness may be significantly thinner in the area of the lesion as compared to the rest of the cornea. The refractive power of the cornea also may be dramatically different, and thus intraocular lens (IOL) calculations may be especially challenging in these patients. Intraoperative aberrometry may help IOL calculations, but preoperative discussion should be made with these patients regarding challenges of accurate IOL selection, and the potential need for glasses/contact lenses even after uneventful cataract surgery. Treatment for this condition includes maximizing vision potential with glasses/contact lenses, especially in the pediatric population, to minimize the risk of amblyopia. Posterior KCN rarely becomes severe enough to require surgical intervention, but if needed, a penetrating keratoplasty (not endothelial keratoplasty) would be the surgical procedure of choice.",
+  "imageUrl": "/images/cornea-oq/p59_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 78,
+  "question": "Which of the following is seen with Lisch epithelial corneal dystrophy (LECD)?",
+  "options": {
+   "A": "autosomal dominant inheritance",
+   "B": "the cornea is clear between the bands of cysts",
+   "C": "it is often associated with recurrent erosions",
+   "D": "cysts covering the visual axis may require an anterior lamellar keratoplasty"
+  },
+  "markedAnswer": "B",
+  "explanation": "Lisch epithelial corneal dystrophy (LECD) is inherited in an X-linked dominant fashion. It is characterized by densely-crowded epithelial microcysts that occur in a \"band-like\" or \"feathery\" pattern. Between the bands, the corneal epithelium is clear. Generally, treatment is not needed unless a band crosses the visual axis in which case the epithelium can be scraped. These patients typically do not have epithelial erosions. Lisch epithelial corneal dystrophy most closely resembles Meesmann corneal dystrophy. Lisch and Meesmann both have intraepithelial microcysts. The difference between these two dystrophies is that Meesmann has diffuse, evenly- spaced cysts while Lisch has broad, band-shaped, feathery lesions in whorled patterns that are more densely crowded together. Extra: Signs • Lisch Corneal Dystrophy (Courtesy of Robert W. Weisenthal, MD) • Painless, gradually worsening visual acuity that is not correctable with lenses. • Gray, feathery, band-shaped corneal lesions, sometimes in whorled patterns on slit lamp examination. • Dense collections of clear intraepithelial microcysts on retro-illumination. • Unilateral or bilateral lesions. • Lesions do not stain with fluorescein or rose bengal. • No epithelial erosions are observed. • High-resolution optical coherence tomography of the cornea may have abnormal findings of epithelial hyperreflectivity with normal thickness and no stromal involvement,[6] but corneal topography may also be normal.[7] • Diffusely vacuolated cytoplasm on histopathology.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 79,
+  "question": "Which of the following conditions does Lisch epithelial corneal dystrophy most closely resemble?",
+  "options": {
+   "A": "epithelial basement membrane dystrophy",
+   "B": "Meesman corneal dystrophy",
+   "C": "Gelatinous droplike corneal dystrophy",
+   "D": "Reis-Buckler corneal dystrophy"
+  },
+  "markedAnswer": "B",
+  "explanation": "Lisch epithelial corneal dystrophy most closely resembles Meesmann corneal dystrophy. Lisch and Meesmann both have intraepithelial microcysts. The difference between these two dystrophies is that Meesmann has diffuse, evenly- spaced cysts while Lisch has broad, band-shaped, feathery lesions in whorled patterns that are more densely crowded together. Lisch epithelial corneal dystrophy (LECD) is inherited in an X-linked dominant fashion. Generally, treatment is not needed unless a band crosses the visual axis in which case the epithelium can be scraped. These patients typically do not have epithelial erosions.",
+  "imageUrl": "/images/cornea-oq/p61_img3.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 80,
+  "question": "What condition has epithelial bands of gray, feathery lesions in whorled patterns?",
+  "options": {
+   "A": "Meesmann corneal dystrophy",
+   "B": "epithelial basement membrane dystrophy",
+   "C": "Lisch epithelial corneal dystrophy",
+   "D": "gelatinous droplike corneal dystrophy"
+  },
+  "markedAnswer": "C",
+  "explanation": "The difference between these two dystrophies is that Meesmann has diffuse, evenly- spaced cysts while Lisch has broad, band-shaped, feathery lesions in whorled patterns that are more densely crowded together. Gelatinous droplike dystrophy is an autosomal recessive corneal dystrophy caused by mutations in the \"tumor-associated calcium signal transducer 2\" gene. Its onset is usually in the teens to twenties and may initially resemble band keratopathy. Eventually, the lesions may resemble \"mulberries.\" The recurrence rate is virtually 100% after penetrating keratoplasty for this dystrophy.",
+  "imageUrl": "/images/cornea-oq/p62_img7.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 81,
+  "question": "A 21-year-old patient presents with the peculiar corneal findings as seen in the slit- lamp photograph above.  His corneal findings are similar between the two eyes.  You suspect a corneal dystrophy.  Which of the following is a characteristic of this person's corneal dystrophy?",
+  "options": {
+   "A": "It is inherited in an autosomal recessive pattern",
+   "B": "It is caused by a mutation in the keratin G3 gene",
+   "C": "It is typically associated with only mild irritation symptoms",
+   "D": "The pathology of this dystrophy is located in the anterior stroma"
+  },
+  "markedAnswer": "C",
+  "explanation": "The slit-lamp photograph shows multiple, small epithelial vesicles or microcysts. This corneal finding is characteristic of Meesmann corneal dystrophy, which is an autosomal dominant disease which typically affects individuals early in life. These microcysts consist of degenerated epithelial cell products that are PAS-positive and also contain an electron-dense accumulation of granular/filamentary material called \"peculiar substance\" (hint: buzzword). These microcysts are most numerous in the interpalpebral area and extend out to the limbus. Corneal sensation may be reduced and some mild corneal thinning may occur. Typically, patients only experience mild foreign body sensation, but occasionally painful recurrent erosions can occur (but not nearly as frequent as in the stromal dystrophies). Visual acuity is only mildly reduced in these patients. The causative mutation occurs in the keratin K3 (KRT3) or the keratin K12 (KRT12) (\"Stocker- Holt variant\") genes. Most patients with Meesmann require no treatment besides artificial tears and occasionally contact lens wear for frequent symptoms. Very rarely, superficial PTK is used to reduce symptoms. Another helpful hint: these microcysts can be seen best in retroillumination. Thus, if the exam shows you a corneal photograph in retroillumination, then Meesman is the likely condition in question. Lastly, another name for Meesman is juvenile hereditary epithelial dystrophy.",
+  "imageUrl": "/images/cornea-oq/p63_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 82,
+  "question": "Central Cloudy Dystrophy of Francois is characterized by diamond shaped opacities with clear intervening spaces. What degeneration is identical in appearance to Central Cloudy Dystrophy of Francois?",
+  "options": {
+   "A": "Posterior polymorphous dystrophy",
+   "B": "posterior crocodile shagreen",
+   "C": "posterior amorphous corneal dystrophy",
+   "D": "polygonal posterior corneal dystrophy"
+  },
+  "markedAnswer": "B",
+  "explanation": "Dystrophies are inherited and therefore present at birth. Posterior crocodile shagreen is identical to Central Cloudy Dystrophy of Francois but develops in older age because it is a degeneration. Both of these conditions rarely lead to vision loss. Extra: Disease Central cloudy dystrophy of François (CCDF) is a rare corneal dystrophy with an unknown inheritance pattern. Although there have been familial cases that suggest an autosomal dominant inheritance pattern, most cases are not familial suggesting a sporadic or degenerative disorder. This disorder is characterized by bilateral, symmetric, polygonal, cloudy gray stromal opacities separated by relatively clear zones in the central cornea. Patients usually present with asymmetric, nonprogress bilateral corneal opacities that is not visually significant.[1] Treatment is usually not indicated for CCDF.",
+  "imageUrl": "/images/cornea-oq/p64_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 83,
+  "question": "What is the inheritance pattern of the corneal dystrophy seen in the photo above?",
+  "options": {
+   "A": "autosomal dominant",
+   "B": "autosomal recessive",
+   "C": "X-linked recessive",
+   "D": "X-linked dominant"
+  },
+  "markedAnswer": "A",
+  "explanation": "Lattice corneal dystrophy (LCD) of the cornea features glasslike branching lines in the stroma. Recent genetic classification of lattice dystrophies sort them into the classic type 1 (LCD1) versus other \"variants\" which include types IIIA, I/IIIA, IV, and polymorphic amyloidosis. This autosomal dominant corneal dystrophy is caused by a mutation in locus 5q31 containing the gene TGFBI. The abnormal gene leads to improper protein folding with subsequent amyloid accumulation in tissues. The \"variants\" are also due to a defect in the gene TGFBI and are inherited autosomal dominantly but present later in life compared to the classic type 1. The eponymous term Meretoja syndrome or lattice corneal dystrophy type II should be referred to as familial amyloidosis, Finnish type, or gelsolin type. It is due to a mutation in a totally different gene (9q32-34 or the gelsolin gene) and has corneal lattice-like changes with systemic amyloidosis. It is no longer considered a dystrophy. Lattice corneal dystrophy is basically primary localized corneal amyloidosis. In LCD1, deposits start in the anterior cornea (subepithelial and anterior stroma) and then progress posteriorly. They also start centrally and progress centrifugally. LCD type IIIA has recurrent erosions that start later in life. LCD type IV has more posteriorly located corneal deposits and is unlikely to present with recurrent erosions. In addition to staining with Congo red, it demonstrates \"metachromasia\" if stained with crystal violet. These amyloid deposits will also appear apple-green in color when viewed under polarized light, a property known as \"birefringence.\" These deposits will also display the property of \"dichroism\" where the deposits alternate in color from red to green when viewed through a rotating polarizing filter. Of the stromal dystrophies, lattice has the highest rate of recurrence in corneal transplant patients followed by granular and then macular dystrophies. Extra: I think the best thing you can do is remember the exceptions. Almost all corneal dystrophies you'll be tested on are autosomal dominant. There are 3 main AR exceptions --> maculAR, CHED2 (\"cheddAR\"), and gelatinous droplike (sorry, don't have a special way to remember it. And Lisch is XLD.",
+  "imageUrl": "/images/cornea-oq/p93_img5.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 84,
+  "question": "Which of the following is seen with Meretoja syndrome?",
+  "options": {
+   "A": "It is inherited in an autosomal recessive pattern",
+   "B": "It is caused by a defect in the hemiplasmin gene",
+   "C": "It features lattice corneal dystrophy and systemic amyloidosis",
+   "D": "These patients can have characteristic masked feet"
+  },
+  "markedAnswer": "C",
+  "explanation": "Of the stromal dystrophies, lattice has the highest rate of recurrence in corneal transplant patients followed by granular and then macular dystrophies. Of the corneal stromal dystrophies, the age of presentation is the youngest in macular dystrophy followed by lattice and then granular dystrophy. Mutations in locus 5q31 gene TGFBI cause all of the following corneal dystrophies: granular (Groenouw type I), Reis-Bücklers, lattice type I, and Avellino. Mnemonic: Think: BigH3 gene is located on Chromosome 5: Another name for Big is LARGE (5 letters therefore chr 5): L: Lattice (type 1), A: Avellino, R: Reis-Bucklers,G: Granular , E(empty) courtesy of Dr Olga Ceron Mutations in the gelsolin (GSN) gene are the cause of LCD2. Other corneal dystrophies and their underling gene locus: • LCD1 -- TGFBI • Granular, type 1 -- TGFBI • Granular, type 2 -- TGFBI • Macular -- CHST6 • Schnyder -- UBIAD1 • Congenital stromal -- DCN • Fleck -- PIP5K3 • Reis-Bucklers -- TGFBI • Geltantinous droplike -- TACSTD2 • Meesmann -- KRT3 or KRT12.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 85,
+  "question": "Which of the following conditions has the highest recurrence rate in grafts after penetrating keratoplasty (PKP)?",
+  "options": {
+   "A": "lattice dystrophy",
+   "B": "macular dystrophy",
+   "C": "granular dystrophy",
+   "D": "keratoconus"
+  },
+  "markedAnswer": "A",
+  "explanation": "Of the answer choices, lattice corneal dystrophy has the highest rate of recurrence in corneal transplant patients followed by granular and then macular dystrophy. Of the corneal stromal dystrophies, the age of original presentation before PKP is the youngest in macular dystrophy followed by lattice and then granular dystrophy. Mnemonic you could use to remember for age of presentation (ascending order): you 'Might Like to Grow' before getting a corneal stromal dystrophy (macular, lattice, granular; courtesy of Dr Allen Eghrari) Mnemonic for the order of recurrence in grafts: Rude Little Green Men keep coming back (Reis-Bucklers > Lattice > Granular > Macular; courtesy of Dr. Sarah Jacobs) Mnemonic for relative prevalence of the dystrophies: Get a Little More (Granular > Lattice > Macular; courtesy of Dr. Sarah Jacobs)",
+  "imageUrl": "/images/cornea-oq/p68_img6.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 86,
+  "question": "Which of the following is TRUE regarding the corneal disease demonstrated in the photo above?",
+  "options": {
+   "A": "it is caused by a mutation in locus 7q31 (gene TGFBI)",
+   "B": "it has glasslike branching lines in the epithelium",
+   "C": "it rarely presents with epithelial erosions",
+   "D": "it has a higher rate of recurrence in grafts compared to granular dystrophy"
+  },
+  "markedAnswer": "D",
+  "explanation": "This is a photo of lattice corneal dystrophy (LCD) of the cornea. In addition to staining with Congo red, it demonstrates \"metachromasia\" if stained with crystal violet. These amyloid deposits will also appear apple-green in color when viewed under polarized light, a property known as \"birefringence.\" These deposits will also display the property of \"dichroism\" where the deposits alternate in color from red to green when viewed through a rotating polarizing filter. Lattice corneal dystrophy (LCD) of the cornea features glasslike branching lines in the stroma. Recent genetic classification of lattice dystrophies sort them into the classic type 1 (LCD1) versus other \"variants\" which include types IIIA, I/IIIA, IV, and polymorphic amyloidosis. This autosomal dominant corneal dystrophy is caused by a mutation in locus 5q31 containing the gene TGFBI. The abnormal gene leads to improper protein folding with subsequent amyloid accumulation in tissues. The \"variants\" are also due to a defect in the gene TGFBI and are inherited autosomal dominantly but present later in life compared to the classic type 1. The eponymous term Meretoja syndrome or lattice corneal dystrophy type II should be referred to as familial amyloidosis, Finnish type, or gelsolin type. It is due to a mutation in a totally different gene (9q32-34 or the gelsolin gene) and has corneal lattice-like changes with systemic amyloidosis. LCD2 characteristic systemic features include: masked facies, dermatochalasis, lagophthalmos, pendulous ears, dry/lax skin, and cranial and peripheral nerve palsies. Other possible manifestations include orthostatic hypotension, cardiac conduction abnormalities, and problems with perspiration. Also, the incidence of glaucoma is increased in LCD2 which is not a feature of LCD1. It is no longer considered a dystrophy. Lattice corneal dystrophy is basically primary localized corneal amyloidosis. In LCD1, deposits start in the anterior cornea (subepithelial and anterior stroma) and then progress posteriorly. They also start centrally and progress centrifugally. LCD type IIIA has recurrent erosions that start later in life. LCD type IV has more posteriorly located corneal deposits and is unlikely to present with recurrent erosions. Of the stromal dystrophies, lattice has the highest rate of recurrence in corneal transplant patients followed by granular and then macular dystrophies. Of the corneal stromal dystrophies, the age of presentation is the youngest in macular dystrophy followed by lattice and then granular dystrophy. Mutations in locus 5q31 gene TGFBI cause all of the following corneal dystrophies: granular (Groenouw type I), Reis-Bücklers, lattice type I, and Avellino. In addition to staining with Congo red, it demonstrates \"metachromasia\" if stained with crystal violet. These amyloid deposits will also appear apple-green in color when viewed under polarized light, a property known as \"birefringence.\" These deposits will also display the property of \"dichroism\" where the deposits alternate in color from red to green when viewed through a rotating polarizing filter. Of the stromal dystrophies, lattice has the highest rate of recurrence in corneal transplant patients followed by granular and then macular dystrophies. Of the corneal stromal dystrophies, the age of presentation is the youngest in macular dystrophy followed by lattice and then granular dystrophy. Mutations in locus 5q31 gene TGFBI cause all of the following corneal dystrophies: granular (Groenouw type I), Reis-Bücklers, lattice type I, and Avellino. Mnemonic: Think: BigH3 gene is located on Chromosome 5: Another name for Big is LARGE (5 letters therefore chr 5): L: Lattice (type 1), A: Avellino, R: Reis-Bucklers,G: Granular , E(empty)",
+  "imageUrl": "/images/cornea-oq/p303_img5.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 87,
+  "question": "Which of the following statements may be true regarding the corneal condition demonstrated in the slit-lamp photos above?",
+  "options": {
+   "A": "it is caused by a defect in carbohydrate sulfotransferase 7 (CHST7)",
+   "B": "there are GAG (glycosaminoglycans) deposits that stain with colloidal iron and Alcian blue",
+   "C": "the corneal stroma between the lesions is typically clear",
+   "D": "it never involves Descemet's membrane and/or the endothelium"
+  },
+  "markedAnswer": "B",
+  "explanation": "The slit-lamp photo demonstrates focal, grayish opacities with cloudiness of the intervening stroma. These findings are classic for macular corneal dystrophy (MCD) which is the least common of the 3 classic corneal stromal dystrophies. Unlike the other corneal stromal dystrophies, macular dystrophy is autosomal recessive in inheritance and involves the ENTIRE corneal stroma including the periphery. It actually may also involve the cornea endothelium. Of the corneal stromal dystrophies, the age of presentation is the youngest in macular dystrophy followed by lattice and then granular dystrophy. MCD is caused by a defect in carbohydrate sulfotransferase 6 (CHST6). There are four major categories of corneal stromal dystrophies Epithelial and Subepithelial epithelial basement membrane dystrophy (EBMD) Meesmann epithelial corneal dystrophy (MECD) Gelatinous droplike corneal dystrophy (GDCD) Subepithelial mucinous corneal dystrophy (SMCD) epithelial recurrent erosion dystrophy (ERED) Lisch epithelial corneal dystrophy (LECD) Epithelial-Stromal TGFBI dystrophies Reis-Bucklers corneal dystrophy Thiel-Behnke corneal dystrophy Lattice corneal dystrophy lattice corneal dystrophy type 1 (LCD1) lattice corneal dystrophy variants (III, IIIA, I/IIIA, and IV) Granular corneal dystrophy granular corneal dystrophy type 1 (GCD1) granular corneal dystrophy type 2 (GCD2) Stromal Dystrophies Macular corneal dystrophy (MCD) Schnyder corneal dystrophy (SCD) Congenital stromal corneal dystrophy (CSCD) Fleck corneal dystrophy (FCD) Posterior amorphous corneal dystrophy (PACD) Pre-Descemet corneal dystrophy (PDCD) Endothelial dystrophies Fuchs endothelial corneal dystrophy (FECD) Posterior polymorphous corneal dystrophy (PPCD) Congenital hereditary endothelial dystrophy (CHED) Slit lamp photos courtesy of Dr. Vaddavalli, M.D. of the LV Prasad Eye Institute.",
+  "imageUrl": null,
+  "stemReferencesFigure": true,
+  "figureMissing": true
+ },
+ {
+  "id": 88,
+  "question": "What is the inheritance pattern of Fleck corneal dystrophy?",
+  "options": {
+   "A": "autosomal dominant",
+   "B": "autosomal recessive",
+   "C": "X-linked recessive",
+   "D": "X-linked dominant"
+  },
+  "markedAnswer": "A",
+  "explanation": "Fleck dystrophy is inherited in an autosomal dominant pattern. It is characterized by dandruff-like deposits throughout the stroma but sparing the epithelium, Bowman layer, Descemet's membrane, and endothelium. Vision is not usually decreased in this condition and it is non-progressive and can be highly-asymmetric or even unilateral. Extra: all corneal dystrophies have autosomal dominant inheritance except for Macular, CHED 2 (nystagmus associated), and gelatinous.",
+  "imageUrl": "/images/cornea-oq/p72_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 89,
+  "question": "Fleck corneal dystrophy has fleck-like opacities concentrated in what part of the cornea:",
+  "options": {
+   "A": "epithelium",
+   "B": "subepithelium",
+   "C": "stroma",
+   "D": "endothelium"
+  },
+  "markedAnswer": "C",
+  "explanation": "Fleck dystrophy is characterized by dandruff-like deposits throughout the stroma but sparing the epithelium and endothelium. This is relevant because there is not a decrease in vision with Fleck dystrophy. Opacities affecting the epithelium and endothelium are more often associated with a decrease in vision. It is inherited autosomal dominantly.",
+  "imageUrl": "/images/cornea-oq/p73_img7.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 90,
+  "question": "Which of the following tests can be used to confirm the diagnosis of the corneal dystrophy demonstrated in the photo above?",
+  "options": {
+   "A": "ELISA to quantify sulfated keratan sulfate",
+   "B": "ELISA to quantify sulfated dermatan sulfate",
+   "C": "ELISA to quantify phosphorylated keratan lysine",
+   "D": "ELISA to quantify phosphorylated dermatan sulfate"
+  },
+  "markedAnswer": "A",
+  "explanation": "The slit-lamp photo demonstrates focal, gray-white stromal opacities with intervening spaces that are not completely clear. These findings are characteristic of macular corneal dystrophy (MCD) which is the least common of the corneal stromal dystrophies. If this photo showed the entire cornea, the gray opacities would extend from limbus-to-limbus which is a feature that does not occur with either lattice or granular dystrophies. Macular dystrophy is inherited in an autosomal recessive pattern and is caused by a defect in the carbohydrate sulfotransferase 6 (CHST6) gene (chromosome 16). An ELISA test for sulfated keratan sulfate can be used to assist in the diagnosis of MCD even in individuals in the preclinical state. Extra: Macular Dystrophy MARKS the cornea. M acular (Marks cornea with no intervening clear spaces) AR (Autosomal Recessive) KS (Keratin Sulfate) Key Facts • Autosomal recessive • Also known as Groenouw type 2 • Least common and most severe of the classic stromal dystrophies • Chromosomal locus 16q22 • More severe than granular and lattice corneal dystrophies • May present with recurrent corneal abrasion episodes • Photophobia, ocular surface discomfort, and progressive loss of vision Clinical Findings • Gray-white opacities (intracellular and extracellular deposits within corneal stroma) with indistinct borders and ground glass–like haze in intervening areas • Lesions can involve full thickness of cornea and be limbus to limbus • Cornea guttata and reduced central corneal thickness can also be observed Ancillary Testing • Pachymetry • The corneal deposits are glycosaminoglycans (between the stromal lamellae, underneath the epithelium, and within keratocytes and endothelial cells), which stain positively with colloidal iron or Alcian blue in vitro Differential Diagnosis • Granular dystrophy • Reis–Bucklers dystrophy Treatment • For recurrent erosions: • topical hypertonic saline • soft contact lens • oral tetracycline antibiotics • topical antibiotics • punctal plug • Tinted cosmetic lenses to reduce photophobia • Phototherapeutic keratectomy (PTK) • Penetrating or lamellar keratoplasty Prognosis • PTK seems to eliminate recurrent erosions and improve vision by ablating opacities in cases of anterior macular dystrophy • The usual evolution is one of progressive visual impairment, starting to be severe by the third decade and requiring penetrating or lamellar keratoplasty • Recurrences in corneal grafts are not common, but when occur have the same pattern as the primary disorder • Size of the graft seems to be inversely related to recurrence (with large graft, low recurrence but increased risk of rejection)",
+  "imageUrl": "/images/cornea-oq/p74_img6.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 91,
+  "question": "Which of the following corneal dystrophies is the LEAST common in North America?",
+  "options": {
+   "A": "macular dystrophy",
+   "B": "lattice dystrophy",
+   "C": "granular dystrophy",
+   "D": "Fuchs dystrophy"
+  },
+  "markedAnswer": "A",
+  "explanation": "f these choices, Fuchs corneal dystrophy is by far the most common corneal dystrophy followed by lattice, granular, and finally macular dystrophy. Of the three classic stromal dystrophies, macular dystrophy is also the most severe in terms of vision loss. It is inherited in an autosomal recessive manner and is caused by mutations in the CHST6 gene (carbohydrate sulfotransferase) on chromosome 16. The symmetric corneal changes of this dystrophy are typically first noticed in the adolescent years as a diffuse, fine, superficial clouding in the central stroma. By the 2nd decade of life, this cloudiness extends to the periphery and typically involves the full thickness of the cornea. The Descemet's membrane may take on a guttate appearance. Macular corneal dystrophy can be associated with severe photophobia and recurrent erosions. There are 3 immunotypes of this dystrophy based on the reactivity of the individual's serum and corneal tissue to an antibody that recognizes sulfated keratan sulfate: • type I: no detectable antigenic keratan sulfate • type IA: serum lacks antigenic keratan sulfate but the keratocytes have antigenic keratan sulfate • type II: normal amounts of antigenic keratan sulfate Histopathologically, macular corneal dystrophy is characterized by the accumulation of glycosaminoglycans (GAGs) between the stromal lamellae, within the keratocytes and endothelial cells, and underneath the epithelium. These GAGs classically stain with Alcian blue (the mnemonic: \"Maryilyn Monroe Always...\") but also stain with colloidal iron, Periodic acid–Schiff (PAS), and metachromatic dyes. Of the stromal dystrophies, lattice has the highest rate of recurrence in corneal transplant patients followed by granular and then macular. Of the corneal stromal dystrophies, the age of presentation is the youngest in macular dystrophy followed by lattice and then granular dystrophy.",
+  "imageUrl": "/images/cornea-oq/p76_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 92,
+  "question": "Which of the following statements is TRUE regarding Reis-Bucklers corneal dystrophy?",
+  "options": {
+   "A": "it is a result of a defect in the TGF-beta 2 gene",
+   "B": "Bowman layer is replaced by a sheetlike connective tissue layer on histopathology",
+   "C": "recurrence in penetrating keratoplasty grafts is rare for this disorder",
+   "D": "erosions are less frequent and severe in this dystrophy compared to Thiel- Behnke corneal dystrophy"
+  },
+  "markedAnswer": "B",
+  "explanation": "In Reis-Buckler corneal dystrophy, Bowman layer is disrupted and/or absent and replaced by a sheetlike connective tissue layer. This is why patients have a lot of epithelial erosions. Only electron microscopy can distinguish Reis-Buckler from Thiel-Behnke corneal dystrophy (due to the presence of \"curly fibers\" in Thiel-Behnke). Thiel-Behnke also has Bowman's layer replaced with a fibrocellular material in a pathognomonic \"saw-tooth\" pattern. Epithelial erosions are typically more frequent and severe with Reis-Bucklers than with Thiel- Behnke. Reis-Bücklers is inherited in an autosomal dominant pattern. It is secondary to a mutation in the TGF beta-I gene (not TGF-beta 2). This gene codes for the protein keratoepithelin. Recurence in penetrating keratoplasty grafts is common in Reis-Bucklers.",
+  "imageUrl": "/images/cornea-oq/p243_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 93,
+  "question": "Which of the following is TRUE regarding Thiel-Behnke corneal dystrophy?",
+  "options": {
+   "A": "it is caused by mutations in the UBIAD1 gene",
+   "B": "electron microscopy of corneas affected by this condition does not show \"curly fibers\"",
+   "C": "initially, the honeycomb opacities spare the peripheral cornea in this condition",
+   "D": "recurrence in penetrating keratoplasty grafts is rare in this condition"
+  },
+  "markedAnswer": "C",
+  "explanation": "Thiel-Behnke is inherited in an autosomal dominant pattern and is caused by mutations in the TGFB1 gene (which codes for keratoepithelin). Like Reis-Bucklers corneal dystrophy, Thiel- Behnke affects Bowman layer. As an aside, mutations in the UBIAD1 gene are responsible for Schnyder crystalline corneal dystrophy Thiel-Behnke can only be distinguished from Reis-Bucklers via electron microscopy which shows the presence of \"curly fibers\" in Thiel-Behnke and does not in Reis-Bucklers. In Thiel-Behnke, Bowman's layer is replaced by a fibrocellular material and forms a \"saw- tooth\" pattern. Clinically these patients have honeycomb opacities at Bowman level which spare the peripheral cornea. Since the deposits are at the level of Bowman layer, recurrent erosions are common. However, recurrent erosions are typically less frequent and less severe compared to Reis- Buckler.",
+  "imageUrl": "/images/cornea-oq/p303_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 94,
+  "question": "You see a patient in clinic with the slit lamp findings seen in the anterior cornea and the histopathology findings showing an accumulation of a substance in the superficial stroma (arrow).  What is the inheritance pattern of the condition seen in the photo?",
+  "options": {
+   "A": "autosomal dominant",
+   "B": "autosomal recessive",
+   "C": "X-linked recessive",
+   "D": "X-linked dominant"
+  },
+  "markedAnswer": "A",
+  "explanation": "This is a presentation of either Reis-Buckler or Thiel-Behnke. Both are inherited autosomal dominantly. In Reis-Buckler corneal dystrophy, Bowman layer is disrupted and/or absent and replaced by a sheetlike connective tissue layer. This is why patients have a lot of epithelial erosions. Only electron microscopy can distinguish Reis-Buckler from Thiel-Behnke corneal dystrophy (due to the presence of \"curly fibers\" in Thiel-Behnke). Thiel-Behnke also has Bowman's layer replaced with a fibrocellular material in a pathognomonic \"saw-tooth\" pattern. Epithelial erosions are typically more frequent and severe with Reis-Bucklers than with Thiel- Behnke. Reis-Bücklers is inherited in an autosomal dominant pattern. It is secondary to a mutation in the TGF beta-I gene (not TGF-beta 2). This gene codes for the protein keratoepithelin. Recurence in penetrating keratoplasty grafts is common in Reis-Bucklers.",
+  "imageUrl": "/images/cornea-oq/p79_img6.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 95,
+  "question": "What is the most common inheritance pattern of posterior polymorphous corneal dystrophy (PPCD or PPMD)?",
+  "options": {
+   "A": "autosomal dominant",
+   "B": "autosomal recessive",
+   "C": "X-linked recessive",
+   "D": "X-linked dominant"
+  },
+  "markedAnswer": "A",
+  "explanation": "Posterior polymorphous corneal dystrophy (PPCD or PPMD) is a rare, typically autosomal dominant disorder that is typically asymptomatic. In very rare cases, it can be inherited in an autosomal recessive manner. PPCD is characterized by three distinct patterns of posterior corneal findings: (1) a cluster or linear arrangement of vesicles in the posterior cornea surrounded by a gray haze (as seen in the photo below); (2) band lesions; and (3) diffuse opacities. Glaucoma occurs in 10-15% of patients with PPCD. Its phenotype can vary widely with some affected individuals progressing to corneal decompensation, having broad peripheral synechiae, or progressing to advanced glaucoma. Like the iridocorneal endothelial (ICE) syndromes, it may have iris atrophy, corectopia, and iridocorneal adhesions. Unlike the ICE syndromes which are unilateral, PPMD is bilateral although it can be highly asymmetric. ICE syndromes are also sporadic without any known inheritance pattern. Bottom line: PPMD --> vesicles of posterior cornea + glaucoma in some cases + bilateral + autosomal dominant.",
+  "imageUrl": "/images/cornea-oq/p79_img6.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 96,
+  "question": "Examination of a pseudophakia 78-year-old Caucasian female reveals the above corneal finding in both eyes. Her best corrected vision in both eyes is 20/30. Her cataract surgery was performed six years ago and was reported to be uneventful. What is the likely diagnosis of this patient’s condition",
+  "options": {
+   "A": "Fuchs’ endothelial dystrophy",
+   "B": "Posterior polymorphous corneal dystrophy",
+   "C": "Iridocorneal endothelial syndrome (Chandler syndrome variant)",
+   "D": "Congenital hereditary endothelial dystrophy"
+  },
+  "markedAnswer": "B",
+  "explanation": "This most likely represents posterior polymorphous corneal dystrophy (PPCD) (Choice B), previously known as posterior polymorphous dystrophy (PPMD) or Schlichting dystrophy. This condition is marked by a diffuse abnormality of Descemet’s membrane, resulting in a multi- laminated appearance This condition can look like iridocorneal endothelial (ICE) syndrome, but ICE is usually unilateral and more likely to be appear in a middle-aged female patient . The changes in PPCD can be quite subtle: oftentimes, only an isolated group of vesicles may be noted on clinical exam. Most patients are asymptomatic, though some patients may develop corneal edema that can be medically managed in a manner similar to Fuch’s endothelial dystrophy. Mild localized swelling may be managed with anterior stromal micro puncture. The prognosis for penetrating and endothelial keratoplasty depends on the presence/absence of PAS and management of glaucoma. PPCD is known to recur in the graft in penetrating keratoplasty.",
+  "imageUrl": "/images/cornea-oq/p80_img4.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 97,
+  "question": "Which of the following disorders has endothelial changes that most closely resemble the endothelial changes associated with Iridocorneal Endothelial Syndrome (ICE) syndrome?",
+  "options": {
+   "A": "Fuchs' dystrophy",
+   "B": "Posterior Polymorphous Dystrophy (PPMD)",
+   "C": "Congenital Hereditary Endothelial Dystrophy (CHED)",
+   "D": "Axenfeld-Rieger syndrome (A-R)"
+  },
+  "markedAnswer": "B",
+  "explanation": "Both ICE and PPMD are diseases where the endothelium acts like epithelium. The difference is that PPMD is a dystrophy and is therefore bilateral. ICE syndrome is unilateral. PPMD is also autosomal dominant so often there is a family history. ICE syndrome is not inherited. Both ICE and PPMD can have corectopia, glaucoma, and endothelial dysfunction. Fuchs' dystrophy patients do not have corectopia, but they do have endothelial compromise and are predisposed toward glaucoma. A-R patients also can have corectopia and glaucoma, but their only corneal finding is posterior embryotoxon which is a prominent and anteriorly displaced Schwalbe's line.",
+  "imageUrl": "/images/cornea-oq/p81_img4.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 98,
+  "question": "Q-Posterior amorphous corneal dystrophy is associated with which of the following features?",
+  "options": {
+   "A": "myopia",
+   "B": "flat and thin cornea",
+   "C": "increase in the rate of glaucoma",
+   "D": "moderate-to-severe vision loss"
+  },
+  "markedAnswer": "B",
+  "explanation": "Posterior amorphous corneal dystrophy (PACD) (not to be confused with PPMD) is characterized by bilateral opacification of the deep stroma associated with central thinning. The patches of \"gray-white sheets\" affect the cornea diffusely (i.e. from limbus-to-limbus). These lesions can extend to Descemet's membrane and cause posterior bowing. The central cornea can be very thin (e.g. 300 micron range) and flat (e.g. <41 D). Thus, PACD is associated with hyperopia (not myopia). PACD may also be associated with a prominent Schwalbe's line, fine iris processes, iridocorneal adhesions, and corectopia. However, unlike Axenfeld-Rieger syndrome, PACD is not associated with an increased rate of glaucoma. PACD occurs during the first decade of life and is very slowly progressive. It typically only has a mild detrimental impact on visual acuity and does not usually require any treatment. PACD is inherited in an autosomal dominant pattern; however, no causative gene locus has been identified. The typical differential diagnosis of PACD includes: • Posterior polymorphous dystrophy (PPMD) • pre-Descemet's dystrophy • Congenital hereditary stromal dystrophy (CHSD) • Congenital hereditary endothelial dystrophy (CHED) • Interstitial keratitis (IK) • Posterior crocodile shagreen.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 99,
+  "question": "Which of the following is true about Fuchs Endothelial Dystrophy?",
+  "options": {
+   "A": "vision is worse in the evening",
+   "B": "guttae appear peripherally at first",
+   "C": "topical beta blockers may help corneal edema",
+   "D": "the standard corneal surgery is penetrating keratoplasty (PKP)"
+  },
+  "markedAnswer": "C",
+  "explanation": "The concepts of imbibition pressure (IP) and swelling pressure (SP) are often confusing to students and therefore a review these concepts may be helpful (Figure 1). Normally, the stroma contains negatively-charged glycosaminoglycans (GAGs, mainly dermatan sulfate in the anterior cornea and keratan sulfate in the posterior cornea) which create electrostatic repulsive forces within the stroma. Think of this as an expansive force that is known as the swelling pressure (SP). SP refers to the pressure needed in-vitro to inflate the cornea with a cannula and artificially induce edema and swelling. So a high SP does not mean that the cornea is swollen. Instead, a high SP means that the cornea is resistant to swelling because it has formidable cohesiveness and tensile stiffness (elasticity) that resists expansion. This has been measured around +55 mm Hg. If the stroma is compressed (eg, high IOP, mechanical applanation), then the SP will increase as well. However, if the stroma is expanded (eg, corneal edema), then SP will decrease. The major forces that influence the flow of aqueous into and out of the cornea can be summarized by IP = IOP - SP (where IP is imbibition pressure, IOP is intraocular pressure, and SP is swelling pressure). IP is basically a measurement of the propensity of the cornea to develop edema. As a basic rule, we want IP to be low and ideally negative, because if the IP value increases, then there is likely corneal edema. In vitro, IP = SP (because there's no IOP present, duh!). In vivo, SP is higher than IOP due to the reasons mentioned in the previous paragraph. So usually, IP = IOP - SP ==> 15mm Hg - 55 mm Hg = -40 mg Hg. When IP is negative, then there is no net flow of aqueous into the cornea. However, in pathological states, IP may become positive (ie, either IOP can increase or SP can decrease) and aqueous will enter the cornea edema will ensue. Disruptions to the endothelium (eg, Fuchs) will compromise the integrity of the stroma and will lower the SP value --> increase in IP --> edema. For the sake of completeness, conditions that elevate the IOP (eg, angle closure glaucoma) will then increase the IP as well. Lowering the IOP with topical medications (Choice C) in patients with compromised endothelium can then subsequently reduce the IP. It is noteworthy that the mechanism for hypertonic sodium chloride (Muro 128) is different in that it helps to increase SP which leads to reduced IP. Hence, using both of these medications in synergy may be especially helpful for medical management of corneal edema. While a full review of Fuch's endothelial dystrophy may be found in the explanations to other questions on this website, suffice it to say that vision in these patients is worse in the morning (choice A) and guttae appear centrally at first (choice B). Finally, the new standard for transplants in Fuchs Dystrophy is no longer a full-thickness penetrating keratoplasty (choice D), but rather a partial posterior corneal transplant: either Descemet Stripping Automated Endothelial Keratoplasty (DSAEK) or Descemet Membrane Endothelial Keratoplasty (DMEK).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 100,
+  "question": "Which of the following is TRUE regarding the corneal condition demonstrated in the photo above?",
+  "options": {
+   "A": "these deposits are made of hyaline material that stains bright red with Congo Red stain",
+   "B": "it is caused by a defect in locus 5q31 (gene TGFBI)",
+   "C": "these opacities have a butterfly appearance without clear intervening spaces",
+   "D": "vision is typically not good in early life in this condition"
+  },
+  "markedAnswer": "B",
+  "explanation": "The slit lamp demonstrates granular corneal dystrophy (GCD) type II (GCD2). Granular corneal dystrophy type 2 (GCD2) is also known as Avellino corneal dystrophy. It has the appearance of both granular and lattice dystrophies. The corneal opacities are described as looking like: stellate (star-like), snowflake, and icicle (see photo). Lattice lines are seen deep to these. Granular corneal dystrophy type 1 (GCD1). GCD1 and GCD2 are caused by a mutation in locus 5q31 which contains the TGFBI gene (which encodes the keratoepithelin protein). GCD1 has an early age of onset, starts with clear spaces between opacities that look like bread-crumbs, becomes more confluent with age, and does not extend to the limbus. Patients typically maintain good vision. Patients may have photophobia, glare, and recurrent erosions. On histopathology, there is deposition of hyaline material (keratoepithelin) that stains bright red with the Masson trichrome stain. Lattice corneal dystrophy has the highest rate of recurrence in corneal transplant patients followed by granular and then macular dystrophy. Of the corneal stromal dystrophies, the age of original presentation before PKP is the youngest in macular dystrophy followed by lattice and then granular dystrophy. Therefore, patients with granular dystrophy typically have good vision early in life. There are four major categories of corneal stromal dystrophies Epithelial and Subepithelial epithelial basement membrane dystrophy (EBMD) Meesmann epithelial corneal dystrophy (MECD) Gelatinous droplike corneal dystrophy (GDCD) Subepithelial mucinous corneal dystrophy (SMCD) epithelial recurrent erosion dystrophy (ERED) Lisch epithelial corneal dystrophy (LECD) Epithelial-Stromal TGFBI dystrophies Reis-Bucklers corneal dystrophy Thiel-Behnke corneal dystrophy Lattice corneal dystrophy lattice corneal dystrophy type 1 (LCD1) lattice corneal dystrophy variants (III, IIIA, I/IIIA, and IV) Granular corneal dystrophy granular corneal dystrophy type 1 (GCD1) granular corneal dystrophy type 2 (GCD2) Stromal Dystrophies Macular corneal dystrophy (MCD) Schnyder corneal dystrophy (SCD) Congenital stromal corneal dystrophy (CSCD) Fleck corneal dystrophy (FCD) Posterior amorphous corneal dystrophy (PACD) Pre-Descemet corneal dystrophy (PDCD) Endothelial dystrophies Fuchs endothelial corneal dystrophy (FECD) Posterior polymorphous corneal dystrophy (PPCD) Congenital hereditary endothelial dystrophy (CHED)",
+  "imageUrl": "/images/cornea-oq/p303_img5.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 101,
+  "question": "Which of the following is seen with Avellino corneal dystrophy?",
+  "options": {
+   "A": "it is caused by a defect in locus 7q31",
+   "B": "it stains positively with both Congo Red and Masson Trichrome stains",
+   "C": "lattice deposits in the anterior stroma are found in this condition",
+   "D": "LASEK is a good option for anterior stromal haze in this condition"
+  },
+  "markedAnswer": "B",
+  "explanation": "Avellino corneal dystrophy (ACD) has been reclassified as Granular corneal dystrophy type 2 (GCD2). It can be thought of as a combination of lattice and granular corneal dystrophies. It is inherited in an autosomal dominant manner and is due to a defect in the 5q31 locus (not 7q31) which contains the TGFB1 gene (which itself encodes the keratoepithelin protein). The corneal opacities are described as looking like: stellate (star-like), snowflake, and icicle (see photo). Lattice lines are seen deep to these. Because the deposits in ACD have both lattice and granular-type components, these deposits stain with both Congo Red and Masson Trichrome. The granular-like deposits have a snowflake- like appearance and are located in the anterior to mid-stroma. The lattice lines are located in the deeper stroma. LASIK and LASEK are contraindicated with Avellino dystrophy because they can make the haze worse. Epi-LASIK involves using a blunt microkeratome to remove only the epithelium and then ablating the stromal bed. The plane of separation is between the basement membrane and Bowman's layer. Early reports recommended replacing the cleaved epithelium, but most clinicians abandoned this practice as a benefit was not shown. LASEK involves placing alcohol on the epithelium and then removing the epithelium, lasering the bed, and then placing the epithelium back on the bed. Again, most clinicians have abandoned puting the epithelium back on as a benefit has not been shown. In LASEK, the epithelial basement membrane is cleaved in half between the lamina lucida and lamina densa. Some studies suggested that leaving behind the lamina densa actually gave an improved post-operative refractive result compared to epi-LASIK. These studies combined with a $40,000 price tag for the keratome was a death sentence for the epi-LASIK procedure. PRK (photorefractive keratectomy) involves scraping the epithelium off with a brush or spatula and then ablating the stromal bed.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 102,
+  "question": "Which of the following is TRUE regarding the corneal condition demonstrated in the photo above?",
+  "options": {
+   "A": "it is caused by a defect in locus 5q31 (gene TGFBI)",
+   "B": "these deposits are made of hyaline material that stains bright red with Congo Red stain",
+   "C": "these opacities have a butterfly appearance without clear intervening spaces",
+   "D": "vision is typically not good in early life in this condition"
+  },
+  "markedAnswer": "A",
+  "explanation": "Extra: Marilyn Monroe Always Gets Her Men in L A City Macular - Mucopolysaccharide - Alcian blue Granular - Hyaline - Masson trichrome Lattice - Amyloid - Congo red A few helpful tips gathered from others: Rate of Recurrence: Rude Little Green Men Keep Coming Back: (Reis- Bucklers>Lattice>Granular>Macular) Age of Onset: Might Like to Grow (Macular Youngest->Lattice->Granular Oldest) Prevelence: Get a Little More (Granular>Lattice>Macular) I hate these!",
+  "imageUrl": "/images/cornea-oq/p303_img5.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 103,
+  "question": "Which of the following is a characteristic of congenital stromal corneal dystrophy (CSCD)?",
+  "options": {
+   "A": "diffuse clouding of the central cornea with whitish flakes",
+   "B": "decreased corneal thickness",
+   "C": "progressive increase in corneal opacification",
+   "D": "typically mild vision loss"
+  },
+  "markedAnswer": "A",
+  "explanation": "CSCD is a very rare disorder that presents at birth. It is a non-progressive disease (i.e. does not get worse with age). It features bilateral opacification of the central stroma (primarily in the anterior stroma, but can occur at all levels) with whitish flakes. The peripheral cornea is clear. The central opacities result in moderate-to-severe visual loss. The epithelium is intact and erosions, edema, or decreased corneal sensation do not occur. No stromal edema occurs and the endothelium is normal in CSCD which are in contrast to congenital hereditary endothelial dystrophy (CHED). CSCD is an autosomal dominant disease caused by mutations in the decorin gene (chromosome 12).",
+  "imageUrl": "/images/cornea-oq/p172_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 104,
+  "question": "What is the inheritance pattern of congenital stromal corneal dystrophy (CSCD)?",
+  "options": {
+   "A": "autosomal dominant",
+   "B": "autosomal recessive",
+   "C": "X-linked recessive",
+   "D": "sporadic"
+  },
+  "markedAnswer": "A",
+  "explanation": "CSCD is a very rare disorder that presents at birth. It features bilateral opacification of the central stroma (at all levels) with whitish flakes. The peripheral cornea is clear. The central opacities result in moderate-to-severe visual loss. Unlike Schnyder's corneal dystrophy, this condition is typically non-progressive or very slowly progressive. CSCD is caused by mutations in the decorin gene located on chromosome 12.",
+  "imageUrl": "/images/cornea-oq/p89_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 105,
+  "question": "Which of the following is a characteristic of congenital hereditary endothelial dystrophy (CHED):",
+  "options": {
+   "A": "it is inherited in an autosomal recessive manner",
+   "B": "affected individuals do not have nystagmus",
+   "C": "it is typically slowly progressive",
+   "D": "blue sclera"
+  },
+  "markedAnswer": "A",
+  "explanation": "Congenital Hereditary Endothelial Dystrophy (CHED) is inherited in an autosomal recessive fashion. It is present at birth and does not get worse and is therefore called \"stationary\". The child develops nystagmus because there is reduced visual sensory input from birth. In both types of CHED, the cornea (not sclera) has a blueish tint because of its marked thickening. A blue sclera occurs in conditions where there is thinning of the sclera. There used to be a CHED 1 and CHED 2 classification, but recent genetic studies have reclassified CHED type 1 as the same entity as Posterior Polymorphous Dystrophy (PPMD), as both are autosomal dominant on the same locus at pericentromeric chromosome 20. CHED type 2 is now reclassified as just CHED and is autosomal recessive (BCSC Peds and Cornea 2017-2018). Extra: CHED 1 and 2 are not now one CHED. the former CHED1 is now included as part of PPMD and not called ched at all. CHED 2 is now the only CHED. One CHED to rule them all.... There can only be one... choose your As a side note, I love the memory tool from AS below. CHEDDAR cheese, CHED is AR. Also CHED is stable from birth and cheese is stable as a cultured dairy product. Disease Direct focal illumination showing Bullous keratopathy (Green arrow), diffuse stromal edema (Blue arrow) and thickened descemet’s membrane (Yellow arrow) of CHED patient. Corneal clouding seen in CHED. Congenital Hereditary Endothelial Dystrophy (CHED), one of the Congenital Corneal Opacities (CCO), is a bilateral corneal condition characterized by cloudy cornea that may be present from birth or may be infantile in onset.[1] As a consequence of the endothelial dystrophy, the cornea becomes edematous, which leads to a degradation in the patient’s vision. Genetic Tests SLC4A11 gene analysis can be performed along with examination of relatives especially in the absence of a clear history.",
+  "imageUrl": "/images/cornea-oq/p172_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 106,
+  "question": "Which of the following is a characteristic of congenital hereditary endothelial dystrophy (CHED):",
+  "options": {
+   "A": "presents at age 5",
+   "B": "nystagmus",
+   "C": "blue sclera",
+   "D": "progressively gets worse"
+  },
+  "markedAnswer": "B",
+  "explanation": "Congenital Hereditary Endothelial Dystrophy (CHED) is inherited in an autosomal recessive fashion. It is present at birth and does not get worse and is therefore called \"stationary\". The child develops nystagmus because there is reduced visual sensory input from birth. In both types of CHED, the cornea has a blueish tint because of its marked thickening. The answer choice blue sclera is a purposefully incorrect distractor answer choice. There used to be a CHED 1 and CHED 2 classification, but recent genetic studies have reclassified CHED type 1 as the same entity as Posterior Polymorphous Dystrophy (PPMD), as both are autosomal dominant on the same locus at pericentromeric chromosome 20. CHED type 2 is now reclassified as just CHED and is autosomal recessive.",
+  "imageUrl": "/images/cornea-oq/p172_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 107,
+  "question": "Which of the following is TRUE regarding the condition depicted in the photograph?",
+  "options": {
+   "A": "it is due to a mutation in the CHST6 gene",
+   "B": "it consists of subepithelial and stromal amyloid deposits",
+   "C": "recurrent erosions are rare in this condition",
+   "D": "recurrence of this disease occurs in 50% of graft patients"
+  },
+  "markedAnswer": "B",
+  "explanation": "This photograph depicts gelatinous droplike dystrophy. This corneal dystrophy is inherited in an autosomal recessive fashion. It is due to a defect in the tumor-associated calcium signal transducer 2 (TACSTD2) gene (mutations in CHST6 are responsible for macular corneal dystrophy. On light microscopy of corneas affected by gelatinous droplike corneal dystrophy, there are diffuse subepithelial and stromal amyloid deposits. Recurrent erosions are very common with these large subepithelial lesions. Recurrence of the disease occurs in nearly 100% (not 50%) of graft patients.",
+  "imageUrl": "/images/cornea-oq/p303_img5.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 108,
+  "question": "What is the inheritance pattern of the condition seen in the above photo?",
+  "options": {
+   "A": "autosomal dominant",
+   "B": "autosomal recessive",
+   "C": "X-linked recessive",
+   "D": "X-linked dominant"
+  },
+  "markedAnswer": "B",
+  "explanation": "The photo depicts gelatinous droplike dystrophy which is an autosomal recessive corneal dystrophy caused by mutations in the \"tumor-associated calcium signal transducer 2\" gene. Its onset is usually in the teens to twenties and may initially resemble band keratopathy. Eventually, the lesions may resemble \"mulberries.\" The photo above demonstrates the \"kumquat\" type of gelatinous droplike dystrophy. The recurrence rate is virtually 100% after penetrating keratoplasty for this dystrophy. (Image credit: Wikimedia Commons; http://commons.wikimedia.org). Extra: You need TACT 2 GEL with people.",
+  "imageUrl": "/images/cornea-oq/p93_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 109,
+  "question": "Ultraviolet (UV) radiation to the cornea in the form of welding burns or snow blindness is the result of damage to which layer of the cornea?",
+  "options": {
+   "A": "epithelium",
+   "B": "stroma",
+   "C": "Descemets membrane",
+   "D": "endothelium"
+  },
+  "markedAnswer": "A",
+  "explanation": "The corneal epithelium is the layer of the cornea that is highly susceptible to damage from UV radiation. At first, there may be no symptoms from the UV damage. But as the injured epithelial cells are shed, patients can experience significant eye pain. Fortunately, this damage is self-limited as the corneal epithelium generally heals within 24 hours.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 110,
+  "question": "Which of the following is a good treatment for chemical injuries to the eye:",
+  "options": {
+   "A": "topical corticosteroids for 30-90 days",
+   "B": "tetracyclines and vitamin C",
+   "C": "topical carbonic anhydrase inhibitors",
+   "D": "topical beta blockers"
+  },
+  "markedAnswer": "B",
+  "explanation": "For both acids and bases, the eye should be irrigated until the pH returns to normal as check by a urinary pH strip. Tetracyclines bind intracellular calcium and prevent PMN degranulation which causes corneal thinning. Vitamin C is a co-factor necessary for collagen synthesis that gets used up rapidly after a chemical burn. Its supplementation is thought to be beneficial. Often these patients develop glaucoma, but topical medications can cause epithelial toxicity and should be avoided if possible. Therefore, oral medications (carbonic anhydrase inhibitors) should be used if they can control pressure. Topical corticosteroids should generally be discontinued after 10-14 days so that epithelial wound healing is not delayed.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 111,
+  "question": "What is the name of the condition that mimics Terrien marginal degeneration but is seen in children?",
+  "options": {
+   "A": "Vogts limbal girdle",
+   "B": "Fuchs superficial marginal keratitis",
+   "C": "peripheral ulcerative keratitis",
+   "D": "degeneration of Helmholtz"
+  },
+  "markedAnswer": "B",
+  "explanation": "Terrien Marginal Degeneration is generally unilateral or asymmetrically bilateral. The cornea starts to thin superiorly and the thinning spreads circumferentially. The epithelium remains intact and a fine pannus traverses the area of corneal thinning. At the end of the pannus is a line of lipid deposition. Perforation of the thinned cornea is rare. Crescent shaped lamellar transplantation can be used if perforation does occur. It generally starts in the 2nd or 3rd decade of life. A similar condition occurring in children is known as Fuchs superficial marginal keratitis. Mnemonic: Terriens marginal degeneration: T: Thinning of the cornea T: Top (starts superiorly) T: age is in the Thirties T: Treatment: Transplantation (crescent shaped lamellar) if perforation occurs Extra: Disease Fuchs’ superficial marginal keratitis (FSMK) is a rare inflammatory disease of the peripheral cornea in which recurrent infiltration causes progressive peripheral corneal thinning. Clinical Findings FSMK characteristically presents with bilateral (often asymmetric) peripheral corneal stromal infiltration which causes thinning.[1][5][9] (Figure 1) The area of thinning may be well-demarcated by a grey linear band.[5] Corneal thinning may be severe and cause a descemetocele[1] or spontaneous perforation, although this is not usually observed.[4][8] Pseudopterygia characteristically form over areas of peripheral thinning.[2][6][8][9] Peripheral hydropic cysts with Descemet membrane breaks may also form.",
+  "imageUrl": "/images/cornea-oq/p96_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 112,
+  "question": "Which of the following is TRUE concerning Terrien's marginal degeneration?",
+  "options": {
+   "A": "there is loss of epithelium",
+   "B": "a lipid line occurs at the edge of the pannus",
+   "C": "steepening of the cornea 45 degrees away",
+   "D": "triangular shaped lamellar keratoplasty can be used"
+  },
+  "markedAnswer": "B",
+  "explanation": "Terrien's marginal degeneration is generally bilateral, but may be asymmetric. The cornea starts to thin superiorly and the thinning spreads circumferentially. The epithelium remains intact and a fine pannus traverses the area of corneal thinning. At the end of the pannus is a line of lipid deposition. This condition generally starts in the 2nd or 3rd decade of life. The epithelium remaining intact distinguishes Terrien's from other diseases such as Mooren ulcer and PUK (peripheral ulcerative keratitis) which have loss of epithelium. Also, Terrien's does not present with pain because there is no loss of epithelium. Corneal steepening occurs 90 degrees away (i.e. against-the-rule astigmatism is induced). Perforation of the thinned cornea is rare. Crescent-shaped lamellar transplantation can be used if perforation does occur. PUK is a manifestation of autoimmune disease. The most common cause is rheumatoid arthritis. It generally presents unilaterally as a peripheral corneal infiltration with epithelial loss. Patients experience pain because of the epithelial loss. It can be difficult to distinguish PUK from Moorens because of their similar clinical picture. However, PUK involves both the cornea and the sclera whereas Mooren's ulcer only involves cornea. Moving the conjunctiva further from the limbus also moves the feeding blood vessels further from the peripheral cornea. Blood vessels are the source of immunologic mediators. The most important treatment is to address the underlying systemic autoimmune disease.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 113,
+  "question": "Which of the following is TRUE concerning Terrien's marginal degeneration?",
+  "options": {
+   "A": "corneal thinning begins temporally",
+   "B": "a pannus crosses the thinning cornea",
+   "C": "it affects women more often than men",
+   "D": "generally occurs in the 5th or 6th decade of life"
+  },
+  "markedAnswer": "B",
+  "explanation": "Terrien's marginal degeneration is generally bilateral, but may be asymmetric. The cornea starts to thin superiorly and the thinning spreads circumferentially. The epithelium remains intact and a fine pannus traverses the area of corneal thinning. At the end of the pannus is a line of lipid deposition. This condition generally starts in the 2nd or 3rd decade of life and is more common in males (3:1 males:females). The epithelium remaining intact distinguishes Terrien's from other diseases such as Mooren ulcer and PUK (peripheral ulcerative keratitis) which have loss of epithelium. Also, Terrien's does not present with pain because there is no loss of epithelium. Corneal steepening occurs 90 degrees away (i.e. against-the-rule astigmatism is induced). Perforation of the thinned cornea is rare. Crescent-shaped lamellar transplantation can be used if perforation does occur. Mnemonic (courtesy of Dr. Olga Ceron): • T: Thinning of the cornea • T: Top (superior) • T: Transversing pannus over area of thinning • T: Thirties • T: Treatment: Transplantation (cresent shaped lamellar) if perforation occurs.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 114,
+  "question": "A 72 year old male presents for routine exam. On exam you note bilateral arcus. You also note that the cornea is mildly thinned in the clear space between the arcus and the limbus (see photo). His vision is 20/20 and there have been no changes in his glasses. You do not note any inflammation. What is the diagnosis:",
+  "options": {
+   "A": "cornea farinata",
+   "B": "polymorphic degeneration",
+   "C": "senile furrow degeneration",
+   "D": "terrien marginal degeneration"
+  },
+  "markedAnswer": "C",
+  "explanation": "Senile furrow degeneration involves slight thinning of the cornea in the lucid area between the limbus and the start of arcus. It can induce astigmatism but treatment of the condition is rarely indicated. Terrien Marginal Degeneration is generally unilateral or asymmetrically bilateral. The cornea starts to thin superiorly and the thinning spreads circumferentially. The epithelium remains intact and a fine pannus traverses the area of corneal thinning. At the end of the pannus is a line of lipid deposition. Perforation of the thinned cornea is rare. Crescent shaped lamellar transplantation can be used if perforation does occur. It generally starts in the 2nd or 3rd decade of life.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 115,
+  "question": "An 80-year-old patient presents with the corneal deposition seen in the photograph above (arrow). Interestingly, this deposition is only found in his left eye. Which of the following tests should this patient undergo based on this finding?",
+  "options": {
+   "A": "complete lipoprotein levels (e.g. LDL, HDL)",
+   "B": "genetic analysis for mutations in the PITX2 gene",
+   "C": "cardiac echocardiogram",
+   "D": "carotid Doppler"
+  },
+  "markedAnswer": "D",
+  "explanation": "This photograph depicts typical arcus senilis which is a deposition of lipid in the peripheral corneal stroma. By the age of 80 years, close to 100% of individuals would be expected to have bilateral arcus senilis. Unilateral arcus senilis is very rare and can be associated with contralateral carotid artery disease and ocular hypotony. Therefore, this patient should undergo a carotid Doppler ultrasound to rule out the presence of carotid occlusive disease. If arcus senilis occurs in young individuals (e.g. less than 40 years old), then a hyperlipoproteinemia should be ruled out with the appropriate blood lipid tests.",
+  "imageUrl": "/images/cornea-oq/p99_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 116,
+  "question": "Which of the following is a TRUE statement regarding chemical injuries?",
+  "options": {
+   "A": "Corneal acid chemical injuries rapidly degrade the proteoglycans of the cornea.",
+   "B": "Corneal acid chemical injuries are more likely to result in vision loss.",
+   "C": "Corneal alkali chemical injuries more commonly lead to glaucoma than corneal acid chemical injuries.",
+   "D": "Bases are more likely than acids to precipitate corneal proteins."
+  },
+  "markedAnswer": "C",
+  "explanation": "Actually, acidic chemicals denature and precipitate proteins in the tissues they contact. These precipitated proteins then serve as a type of barrier to further damage by the acidic chemical. In addition, ocular tissues have a higher buffering capacity for acidic compounds. In contrast, alkali chemicals cause saponification of fatty acids in cell membranes (e.g. corneal epithelium) which leads to cellular disruption. After the corneal epithelium is destroyed, the alkali chemical can easily penetrate and destroy the collagen fibrils and proteoglycans in the corneal stroma. In addition, very strong alkali chemicals can eat through the cornea and enter the anterior chamber with disastrous results, including a high incidence of severe glaucoma. The most important step for chemical injuries of any kind is immediate and copious irrigation with water or balanced saline solution. Do NOT try to neutralize a base with an acid or vice versa.",
+  "imageUrl": "/images/cornea-oq/p100_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 117,
+  "question": "Which of the following treatments is generally LEAST preferred for the condition seen in the image?",
+  "options": {
+   "A": "remove intraocular silicone oil if safe",
+   "B": "treat high serum calcium level",
+   "C": "disodium EDTA",
+   "D": "phototherapeutic keratectomy (PTK)"
+  },
+  "markedAnswer": "D",
+  "explanation": "This is a picture of band keratopathy, a corneal degeneration wherein calcium is deposited into subepithelial layers (primarily epithelial basement membrane, Bowman's layer and anterior stroma). Deposits may initially be relatively translucent (non light- blocking), but may progress into opaque (light-blocking) entities that may then cause elevations in the overlying epithelial surface, leading to chronic irritation and epitheliopathy. The causes of band keratopathy are many, and can be divided into \"C\" categories to help make it easier to remember: 1) Chronic eye disease: uveitis, long-standing retinal detachment, late sequelae of HSV infection, chronic corneal graft rejection, phthisis, exposure keratopathy, etc. 2) Causes of increased calcium levels [choice B] (eg, sarcoidosis, hyperparathyroidism, multiple myeloma, etc). Note there is conflicting evidence in the literature regarding low or high phosphate levels contributing to band keratopathy. 3) Chemical exposure: intraocular silicone oil (choice A), thiazides, mercury, phosphate- containing drops (eg, prednisolone phosphate [not the more commonly used prednisolone acetate]) 4) Congenital causes: congenital eye diseases, such as congenital band keratopathy, Norrie's disease, etc. For mild cases of band keratopathy, treatment primarily involves lubrication of the ocular surface and other comfort measures such as a bandage contact lens. If there are treatable systemic causes of elevated calcium, these should be treated as well and may require co-management with an internist, nephrologist, etc. For advanced, symptomatic cases of band keratopathy, surgical intervention may be required. This includes: a) Manual epithelial debridement (superficial keratectomy) and removal of calcium deposits, with or without 2-5% EDTA (*) as a chelating agent, and with or without diamond-burr polishing of underlying Bowman's membrane. b) Phototherapeutic keratectomy (PTK): PTK is generally not recommended because the calcium will ablate at a slower rate than the corneal stroma and the patient will wind up with irregular astigmatism. Under desperate circumstances, PTK can be tried after all other therapies have failed. *Clinically relevant note: This may sound obvious, but if you perform a chelation, you must make sure that you do not simply order \"EDTA\" because the pharmacy may send you CALCIUM EDTA (a more readily available substance), which would be completely useless to remove calcium! You must make sure to order either sodium EDTA or potassium EDTA. Extra: Disease Band Keratopathy is a corneal degeneration that is most often composed of fine dust-like calcium deposits in the sub-epithelium, Bowman’s layer and the anterior stroma. It is typically a band-shaped, horizontal opacity that grows from the peripheral cornea towards the central cornea. Initial deposits are gray but as the deposition progresses, the band becomes chalky- white and with dots in areas of corneal nerves. Band keratopathy can be caused by systemic causes (autoimmune, renal disease), as a result of introacular surgery or chronic intraocular conditions, or be idiopathic. Physical examination Physical exam findings in band keratopathy includes decreased visual acuity (often mild) with characteristic slit lamp exam findings: • Gray-white plaque with fine, dusty deposits in a horizontal band distribution on the cornea • Sparing of the extreme periphery of the cornea (normal lucency) • Lucent holes in plaque (representing corneal nerves through Bowman’s membrane) • Flakey, peripheral plaque.",
+  "imageUrl": "/images/cornea-oq/p101_img5.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 118,
+  "question": "Which of the following conditions can cause the corneal finding seen in the photo above?",
+  "options": {
+   "A": "silicone oil instillation",
+   "B": "decreased serum phosphorous level",
+   "C": "decreased serum calcium level",
+   "D": "elevated serum potassium level"
+  },
+  "markedAnswer": "A",
+  "explanation": "The slit-lamp photo depicts the classic appearance of band keratopathy. There is deposition of calcium mainly in Bowman layer but also some in the anterior stroma. Common causes of band keratopathy include: uveitis, elevated phosphorous level (e.g. in renal failure patients), elevated calcium level (e.g. sarcoidosis, hyperparathyroidism), and decreased potassium level can predispose to this condition. Also, silicone oil instillation (especially in an aphakic eye) commonly can cause band keratopathy. An unusual cause of band keratopathy is exposure to Mercurial vapors. These calcium deposits can be removed by: (1) First, removing the corneal epithelium (e.g. with alcohol); (2) Applying disodium EDTA to loosen the calcium deposits; and (3) gently removing the deposits by rubbing with Weck-Cel sponges. Some astute OQ users have noted that primary hyperparathyroidism has high calcium levels and low phosphorous levels. Therefore, they believe that answer choice B could be correct. However, it is not the low level of phosphate that is associated with band keratopathy as the question asks. It is the high level of calcium associated with hyperparathyroidism that causes band keratopathy.",
+  "imageUrl": "/images/cornea-oq/p103_img5.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 119,
+  "question": "In addition to calcium, what other substance may deposit in the anterior cornea to cause clinical signs and symptoms of band keratopathy?",
+  "options": {
+   "A": "lipofuscin",
+   "B": "iron",
+   "C": "urate",
+   "D": "potassium"
+  },
+  "markedAnswer": "C",
+  "explanation": "Band keratopathy occurs in \"calcific\" and \"noncalcific\" forms. Either entity is caused by a deposition of substances at the level of Bowman's layer. Classic \"calcific\" band keratopathy refers to the deposition of calcium hydroxyapatite and has a multitude of causes including: • Hypercalcemia (e.g. hyperparathyroidism, sarcoidosis, vitamin D toxicity, milk- alkali syndrome). • Chronic ocular disease (e.g. juvenile idiopathic arthritis, interstitial keratitis, phthisis bulbi). • Primary hereditary band keratopathy. • Hyper- and hypo- phosphatasia (e.g. in chronic renal failure patients). • Chronic exposure to mercurial vapors or mercurial preservatives (e.g. in some eyedrops). • silicone oil in aphakic eye. In addition to the classic form of calcific band keratopathy, a similar form of band keratopathy may result from the deposition of urates in the cornea. These deposits are usually brown (compared to the gray-white deposits of calcific band keratopathy) and are often secondary to systemic conditions such as gout or hyperuricemia. Another example of non-calcific band keratopathy occurs in advanced forms of spheroidal degeneration. Classic calcific band keratopathy typically beings at the corneal peripheral at the 3 and 9 o'clock meridians. Typically, this early peripheral form is demarcated from the limbus by a clear zone which is thought to be caused by the buffering capacity of the limbal vessels. Calcific band keratopathy typically begins gray in color but later turns chalky white. If a patient presents with band keratopathy of unknown etiology (e.g. no known chronic ocular inflammation), then a systemic workup should be initiated. An example of a workup for possible systemic causes includes: • serum calcium, phosphorus, uric acid • blood urea nitrogen (BUN) and creatinine (Cr) • parathyroid hormone • angiotensin-converting enzyme • urinanalysis If an underlying systemic condition (e.g. hypercalcemia) is found, then it should be treated to help limit the magnitude of band keratopathy. However oftentimes, only incomplete regression of the band keratopathy is achieved. For patients with more advanced forms of band keratopathy affecting their vision or causing ocular discomfort (e.g. photophobia, tearing), then superficial keratectomy using EDTA (ethylenediaminetetraacetic acid) can be employed. The typical protocol involves: 1. Topical anesthetic 2. Scrapping off the corneal epithelium (since EDTA cannot penetrate intact epithelium) 3. Soaking the areas of band keratopathy with EDTA (e.g. 1%) with saturated cellulose sponges. 4. Scrapping off the areas of band keratopathy with a blade. 5. Using a diamond burr to polish the corneal surface to ensure that it is smooth. 6. Apply a bandage contact lens (with or without amniotic membrane) to help with epithelial regrowh, prevention of haze, and improve patient comfort. 7. Topical antibiotic and steroid drops. Summary: band keratopathy is typically caused by calcium hydroxyapatite deposits but can also be caused by deposition of urate.",
+  "imageUrl": "/images/cornea-oq/p104_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 120,
+  "question": "Which of the following topical medications is associated with dark deposits in the conjunctiva:",
+  "options": {
+   "A": "timolol",
+   "B": "betaxolol",
+   "C": "epinephrine",
+   "D": "tamoxifen"
+  },
+  "markedAnswer": "C",
+  "explanation": "Epinephrine was a glaucoma eyedrop that was formerly used in the United States. It is no longer commercially available. Its use is associated with significant systemic and ocular side effects which include headache, palpitations, and arrhythmias. The unique ocular side effect associated with epinephrine is the formation of black deposits in the conjunctiva (see photo below). These deposits represent oxidation reactions of epinephrine. Another ocular side effect of topical epinephrine is a cystoid maculopathy that can occur if used in aphakic patients.",
+  "imageUrl": "/images/cornea-oq/p106_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 121,
+  "question": "A patient presents to your clinic and states that he was struck in the eye two months ago. He went to the emergency room and they told him that he had a lot of blood inside of his eye. You examine him and note the following findings (see photo). What is the pattern of clearance from the cornea in this condition?",
+  "options": {
+   "A": "centripetally",
+   "B": "centrifugally",
+   "C": "patchy",
+   "D": "raster"
+  },
+  "markedAnswer": "A",
+  "explanation": "This is a picture of corneal blood staining. After blood staining occurs, the cornea will clear from the periphery first, then to the center of the cornea (i.e. centripetally). Corneal blood staining is one of the most feared complications that occurs after hyphema, especially in the setting of rebleeding. Approximately <5% of patients after traumatic hyphema develop rebleeding which occurs most frequently between 2 and 5 days after the initial injury. Of those individuals that rebleed, approximately half of them will develop elevated intraocular pressure which predisposes the eye to corneal blood staining. The mechanism of blood staining is that the red blood cells in the anterior chamber release hemoglobin which penetrates the posterior corneal stroma. The keratocytes then absorb the hemoglobin and convert it into hemosiderin which leads to keratocyte death. The reason that corneal blood staining is important is because it can lead to loss of corneal transparency for years and can lead to the development of amblyopia in young children. Extra: CentriFuge, Flee from center. he cornea will clear from the periphery first, then to the center of the cornea (i.e. centripetally). Disease Corneal blood staining typically occurs after significant and prolonged hyphema, usually the result of ocular trauma, and especially in cases of chronically elevated intraocular pressure. The opacification consists of hemosiderin that has become embedded in the corneal stroma. It can take months, if not years for the cornea to clear, but with patience, it can clear completely. Unfortunately, the periphery clears first followed by the center.",
+  "imageUrl": "/images/cornea-oq/p107_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 122,
+  "question": "After how many days does rebleeding generally occur after a traumatic hyphema?",
+  "options": {
+   "A": "1 day",
+   "B": "2 to 7 days",
+   "C": "8 to 12 days",
+   "D": "2 weeks"
+  },
+  "markedAnswer": "B",
+  "explanation": "\"Rebleeding\" is the major worry after a traumatic hyphema since it can lead to corneal blood staining, poorly-controlled glaucoma, and subsequent optic atrophy. Many studies have shown rebleeding to be a major risk factor in poor visual outcome after traumatic hyphema. Per the BCSC Cornea, it generally occurs 2 to 5 days after the initial hyphema when the original clot retracts. Per the BCSC Glaucoma, it generally occurs 3-7 days after the initial hyphema.",
+  "imageUrl": "/images/cornea-oq/p108_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 123,
+  "question": "You are given the following photo and told that it developed without trauma in a 60 year old adult with diabetes who had a history of uncomplicated cataract surgery 10 years ago. He has not had this condition before. What is the LEAST LIKELY cause of this condition?",
+  "options": {
+   "A": "rubeosis iridis",
+   "B": "clotting abnormalities",
+   "C": "xanthogranuloma",
+   "D": "intraocular lens (IOL) malpositions"
+  },
+  "markedAnswer": "A",
+  "explanation": "This is a spontaneous hyphema in an adult. Xanthogranuloma (JXG) almost always presents initially in children. JXG is a type of non-Langerhan's cell histiocytosis; histopathology of a skin lesion would show Touton giant cells and large foamy histiocytes. These patients frequently present before the age of 1 year. The iris lesions are not malignant but may cause spontaneous hyphemas.",
+  "imageUrl": "/images/cornea-oq/p109_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 124,
+  "question": "How do you distinguish recurrent erosions secondary to a previous history of trauma versus ones that are caused by anterior basement membrane dystrophy (ABMD)?",
+  "options": {
+   "A": "Obtain an anterior segment optical coherence tomography (OCT)",
+   "B": "Look for subtle anterior lenticular changes",
+   "C": "Obtain a specular microscopy of the involved eye",
+   "D": "Examine the fellow eye"
+  },
+  "markedAnswer": "D",
+  "explanation": "The most common causes of recurrent erosion syndrome is from anterior basement membrane dystrophy (ABMD) and secondary to trauma. To distinguish pottraumatic erosion from dystrophic erosion, the examiner should examine the fellow eye after maximal pupillary dilation. It is much easier to detect subtle ABMD changes after the pupil is dilated since the characteristic fingerprints and whorls can be better seen in retroillumination. If no ABMD changes are found, then the most likely cause of the erosions is from previous trauma. ABMD is the most common corneal dystrophy with approximately 6-18% of the population being affected. It is more frequently detected in individuals over the age of 50 years. The characteristic corneal findings found on slit-lamp exam are: fingerprint lines, dots/microcysts; map lines; and bleb/cobblestone pattern. Approximately 10% of patients with ABMD will experience recurrent erosions. Conversely, approximately 50% of patients with recurrent erosions will have ABMD. It typically has a sporadic inheritance, but some cases may follow an autosomal dominant pattern (with incomplete penetrance).",
+  "imageUrl": "/images/cornea-oq/p110_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 125,
+  "question": "Which of the following would be the first-line treatment for recurrent erosions secondary to anterior basement membrane dystrophy (ABMD)?",
+  "options": {
+   "A": "epithelial debridement",
+   "B": "stromal micropuncture",
+   "C": "phototherapeutic keratectomy (PTK)",
+   "D": "laser-assisted in situ keratomileusis (LASIK)"
+  },
+  "markedAnswer": "A",
+  "explanation": "Patients with ABMD (aka \"map-dot-fingerprint dystrophy\") are predisposed to recurrent erosions due to poor adhesion of the epithelium to the underlying basement membrane. Conservative therapy to prevent recurrent erosions consists of hypertonic saline eyedrops and/or bandage contact lens use. Epithelial debridement is a better treatment for epithelial erosions secondary to basement membrane dystrophy. If these fail to prevent the erosions, then more invasive therapy is indicated such as anterior stromal micropuncture or PTK. Recurrent erosions secondary to shearing injuries (e.g. fingernail to the eye) are more amenable to \"anterior stromal micropuncture.\" This procedure consists of using a specially-designed 25-gauge needle and making many superficial puncture wounds in the involved area. These puncture sites are thought to stimulate adhesion of the epithelium to the basement membrane. Care should be exercised in performing this procedure in the visual axis as this procedure can sometimes lead to scarring.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 126,
+  "question": "Which of the following is most suggestive of congenital glaucoma in a 1-year-old?",
+  "options": {
+   "A": "corneal thinning",
+   "B": "horizontal corneal diameter of 10 mm",
+   "C": "vertical tears in Descemet's membrane",
+   "D": "photophobia"
+  },
+  "markedAnswer": "D",
+  "explanation": "Congenital glaucoma is associated with photophobia, corneal edema, corneal diameter greater than 12 mm, and horizontal tears in Descemet's membrane. These horizontal corneal irregularities are also known as Haab striae. Vertical tears in Descemet's membrane are associated with birth trauma with forceps delivery. Congenital glaucoma displays the triad of photophobia, tearing, and blepharospasm with bright lights. In addition, horizontal diameters are abnormally increased (normal for newborns: 9.5-10.5 mm). The first gene demonstrated to be involved in congenital glaucoma was CYP1B1 which encodes a protein in the cytochrome P450 enzyme family. Though corneal edema can occur in patients with congenital glaucoma, it is not part of the classic triad. From one of our users: Haab's striae - \"H\"orizontal Traumatic forceps-assisted Vaginal delivery - Vertical Vogt's striae - \"V\"ertical (can be rarely horizontal; are stress lines)",
+  "imageUrl": "/images/cornea-oq/p112_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 127,
+  "question": "Which of the following is TRUE regarding possible corneal findings associated with birth trauma?",
+  "options": {
+   "A": "the tears in Descemet's membrane are typically concentric to the limbus",
+   "B": "right eyes are more affected than left eyes",
+   "C": "the tears in Descemet's membrane typically occur bilaterally",
+   "D": "left eyes are more affected than right eyes"
+  },
+  "markedAnswer": "D",
+  "explanation": "The cornea of a newborn may be injured from placement of the forceps across the globe/orbit during delivery. This causes compression of the globe vertically which stretches the cornea horizontally. This results in a vertical pattern of Descemet's tears. An easy way to remember this is that birth involves the Vagina --> Vertical tears. Left eyes are more commonly affected than right eyes due to the way that most newborns present in the birth canal (i.e. left-occiput-anterior position). Most cases of Descemet's tears due to birth trauma are unilateral.",
+  "imageUrl": "/images/cornea-oq/p303_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 128,
+  "question": "In what layer of the cornea is hyaline material deposited in Salzmann nodular degeneration?",
+  "options": {
+   "A": "epithelium",
+   "B": "Bowman layer",
+   "C": "stroma",
+   "D": "Descemets layer"
+  },
+  "markedAnswer": "B",
+  "explanation": "Salzmann nodular degeneration is a type of nonspecific avascular subepithelial fibrosis with hyaline and basement membrane material deposited in Bowman's layer. This degeneration can occur from chronic keratitis and some causes include phlyctenulosis, trachoma, and interstitial keratitis. It is more common in middle- age and older women. Treatment consists of lubrication and, if severe, removing the nodules (e.g. via scraping with a blade). Extra: Salzman=bowman Figure 2. Fluorescein stain highlights discrete nodules within the cornea.[3] Figure 1. A nodule of hyalinized material can be seen causing an elevation of the attenuated corneal epithelium that is overlying it. A defect in Bowman’s layer can also be seen toward the periphery of the nodule (right side).[9] Disease Entity Salzmann’s nodular degeneration SND is a slowly progressive condition in which gray-white to bluish nodules measuring 1-3 mm are seen anterior to Bowman’s layer of the cornea, usually bilaterally[1],[2],[3]. These elevated nodules can be located near the limbus or in the mid- peripheral cornea Risk Factors Meibomian gland dysfunction is the most common coexistent condition[7]. SND has been shown to co-occur in patients with a history of ocular surface disease, including phlyctenulosis, vernal keratoconjunctivitis, interstitial keratitis, trachoma, scarlet fever, measles, and other viral diseases[4]. SND can also occur in patients with chronically dry eyes, chronic blepharitis, trichiasis, previous ocular trauma, and post-operatively (including after cataract removal Diagnosis The diagnosis of SND is usually made clinically. Slit lamp exam can show grey-white to bluish nodules posterior to the corneal epithelium[9]. These nodules can occasionally stain with fluorescein (figure 2)[3]. Corneal topography can reveal significant irregular astigmatism occurring as a result of Salzmann nodules.",
+  "imageUrl": "/images/cornea-oq/p114_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 129,
+  "question": "What is the pathophysiology underlying the corneal pigmentation indicated by the arrow?",
+  "options": {
+   "A": "Elevated serum copper levels",
+   "B": "Tear film stasis",
+   "C": "Chronic epinephrine drop utilization",
+   "D": "Iron deposition following prior metal grinding injury"
+  },
+  "markedAnswer": "B",
+  "explanation": "The brown pigmentation located centrally in this cornea and indicated by the white arrow represents a type of iron line seen in about 80% of patients with prior radial keratotomy. \"Iron lines\" form from epithelial iron deposition in areas with pooling of tears related to corneal surface irregularities. This particular iron line is sometimes referred to as a \"tear star\" because it can take on a star or asterix like appearance (not as evident in this photo). Iron lines are generally NOT visually significant. Additional well known corneal iron lines include \"Ferry's line\" at the leading edge of a filtering bleb, \"Fleisher ring or line\" surrounding the base of a cone in keratoconus, \"Stocker's line\" at the leading edge of a pterygium, and \"Hudson- Stahli line\" at the upper border of the normal tear layer (commonly seen in elderly individuals). Elevated serum copper levels may occur in Wilson disease. Late in the disease course patients develop a peripheral corneal Kayser-Fleischer ring at the level of Descemet's membrane. Chronic epinephrine drop utilization can cause \"adrenochrome\" deposits in the conjunctiva. These deposits have little clinical significance but is a popular exam topic. Iron deposition can occur in the form of a \"rust ring\" following metal foreign body injuries to the cornea. Such an injury would be expected to form a ring, may leave a corneal scar, and would not be associated with radial keratotomy.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 130,
+  "question": "In what layer of the cornea is the pigmentation indicated by the arrow located and is it visually significant?",
+  "options": {
+   "A": "Stroma; visually significant",
+   "B": "Stroma; not visually significant",
+   "C": "Epithelium; visually significant",
+   "D": "Epithelium; not visually significant"
+  },
+  "markedAnswer": "D",
+  "explanation": "The brown pigmentation located centrally in this cornea and indicated by the white arrow represents a type of iron line seen in about 80% of patients with prior radial keratotomy. \"Iron lines\" form from epithelial iron deposition in areas with pooling of tears related to corneal surface irregularities. This particular iron line is sometimes referred to as a \"tear star\" because it can take on a star or \"asterisk-like\" appearance (not as evident in this photo). Iron lines are generally NOT visually significant. Additional well known corneal iron lines include: • \"Hudson-Stahli line\" which is located at the junction of the upper two thirds and lower one third of the cornea (i.e. at the tear meniscus) • \"Ferry's line\" at the leading edge of a filtering bleb • \"Fleisher ring or line\" surrounding the base of a cone in keratoconus • \"Stocker's line\" at the leading edge of a pterygium. Extra: • Mnemonic: Filter ferry, stocker ptery, fleisher keri, HS geri (as in geriatrics)",
+  "imageUrl": "/images/cornea-oq/p116_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 131,
+  "question": "What layer of the cornea does the copper deposit in Wilson's disease as seen in the photo?",
+  "options": {
+   "A": "epithelium",
+   "B": "stroma",
+   "C": "descemets",
+   "D": "endothelium"
+  },
+  "markedAnswer": "C",
+  "explanation": "Wilson disease is inherited in an autosomal recessive fashion. The two classic ocular findings are the Kayser-Fleischer ring and the \"sunflower\" cataract. The Kayser-Fleischer ring is a brownish discoloration in the peripheral Descemet's membrane. Systemic treatment with D-penicillamine (which binds copper ions) can actually lead to a disappearance of the ring. The sunflower cataract is secondary to deposition of copper in the anterior capsule of the lens in a petaloid configuration.",
+  "imageUrl": "/images/cornea-oq/p117_img5.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 132,
+  "question": "Which of the following statements concerning Wilson disease is true:",
+  "options": {
+   "A": "treatment is with topical penicillamine",
+   "B": "there is increased serum ceruloplasmin",
+   "C": "the rings disappear with treatment",
+   "D": "posterior subcapsular cataracts are specific for Wilson Disease"
+  },
+  "markedAnswer": "C",
+  "explanation": "Wilson disease is inherited autosomal recessively. The two classic ocular findings are the Kayser- Fleischer ring and the sunflower cataract. The Kayser-Fleischer ring is a brownish discoloration in the peripheral Descemet's membrane. There is decreased serum ceruloplasmin. Systemic treatment with penicillamine can actually lead to a disappearance of the ring. The sunflower cataract is secondary to deposition of copper in the anterior capsule of the lens in a petaloid configuration.",
+  "imageUrl": "/images/cornea-oq/p118_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 133,
+  "question": "Which of the following medications is absorbed into the blood stream, goes to the aqueous and is then absorbed into the posterior cornea and anterior lens capsule resulting in pigment deposition?",
+  "options": {
+   "A": "copper",
+   "B": "chlorpromazine",
+   "C": "tamoxifen",
+   "D": "urate"
+  },
+  "markedAnswer": "B",
+  "explanation": "Chlorpromazine (Thorazine) and thioridazine (Mellaril) are phenothiazines. These medications are absorbed in the blood stream and then make their way to the aqueous. From the aqueous they absorb into the posterior cornea and anterior lens capsule and result in pigment deposition. The incidence of this lens opacity depends on both drug dose and treatment duration. This lens opacity does not disappear even with discontinuing the medication, though it generally is visually insignificant. In the retina, chlorpromazine rarely causes damage. At doses normally used (<800 mg/day) thioridazine rarely causes retinopathy. But thioridazine can result in severe retinopathy with high doses. Initially there is RPE stippling in the posterior pole. It then progresses to RPE loss in a nummular (coin-shaped) pattern. Immediate cessation of the drug is indicated when retinopathy is detected. Chlorpromazine deposits on the anterior lens capsule.",
+  "imageUrl": "/images/cornea-oq/p119_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 134,
+  "question": "Which of the following is the LEAST LIKELY to cause toxic ulcerative keratopathy?",
+  "options": {
+   "A": "Benzalkonium chloride (BAK)",
+   "B": "trifluridine 1%",
+   "C": "brimonidine 0.2%",
+   "D": "latanoprost"
+  },
+  "markedAnswer": "D",
+  "explanation": "Toxic ulcerative keratopathy is the condition caused by topically applied medications. It is due to impaired epithelial wound healing and manifests as a diffuse punctate keratitis which can lead to a persistent epithelial defect. The most common medications associated with this condition include: medications containing BAK, topical anesthetics, topical NSAIDs, trifluoridine, beta-blockers, and carbonic anhydrase inhibitors. Thus, glaucoma patients presenting with persistent corneal epithelial problems should have their medications evaluated as a potential cause. Benzalkonium chloride (BAK) is a common preservative in topical medications that actually increases the potency of drugs by causing a disruption in corneal epithelial cells. Latanoprost is generally a well-tolerated topical medication. Trifluridine 1% (i.e. Viroptic®) is highly toxic to the epithelium and its extended use can result in neurotrophic ulcers. It should generally be stopped after 14 days. Brimonidine 0.2% (i.e. Alphagan®) can cause a follicular conjunctivitis in a large proportion (~15%) of patients. Lower concentrations (e.g. 0.1%) and the use of a non- BAK preservative (e.g. Purite®) help to lower the incidence of this side effec.",
+  "imageUrl": "/images/cornea-oq/p119_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 135,
+  "question": "Which of the following contribute to the cornea's relative immune isolation?",
+  "options": {
+   "A": "presence of blood vessels and lymphatics",
+   "B": "downregulation of transforming growth factor betas",
+   "C": "upregulation of MHC molecules",
+   "D": "upregulation of Fas ligand"
+  },
+  "markedAnswer": "D",
+  "explanation": "The cornea is considered to be an \"immunologically privileged\" site meaning that the responsiveness to foreign antigens is relatively suppressed. The BCSC states that this immune privilege can be attributed to the following factors: • Absence of blood vessels and lymphatics. This impairs the delivery of immune effectors cells and the flow of antigens to the draining lymph nodes. • Expression of immunosuppressive factors (e.g. TGF-beta, neuropeptides such as alpha-melanocyte stimulating hormone). • Expression of Fas ligand (CD95) by corneal cells. This increased expression is believed to be instrumental in causing Fas-mediated apoptosis of activated lymphocytes. • In general, there is a downregulation of MHC molecules within the cornea.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 136,
+  "question": "What type of hypersensitivity reaction is seen with Stevens-Johnson Syndrome?",
+  "options": {
+   "A": "Type I 2%",
+   "B": "Type II 13%",
+   "C": "Type III 49%",
+   "D": "Type IV"
+  },
+  "markedAnswer": "D",
+  "explanation": "Type I immune reactions Are anaphylactic Or atopic reactions. In these reactions, preformed Ige antibodies bound on mast cell receptors react with the antigen causing degranulation of the mast cell with histamine release. An example of a Type I reaction is allergic conjunctivitis. Type II immune reactions are caused by cytotoxic antibodies. This reaction is where antibodies bind to foreign antigen and activate the complement pathway. An example of a type II reaction is ocular cicatricial pemphigoid. Type III immune reactions are also known as \" immune-complex reactions.\" These reactions result from immune complex deposition in tissues which activate the complement and other effector systems. An example of a Type III reaction is \"serum sickness\", systemic lupus erythematosus and rheumatoid arthritis. Previously, a copy of the BCSC (prior to 2016) fundamentals had listed Stevens Johnson syndrome as a type III reaction. Type IV immune reaction s are delayed hypersensitivity reactions. These involve recruitment of pre-sensitized immune cells. An example of a type IV reaction is allergic contact dermatitis. Stevens-Johnson Syndrome is now classified ed as a type IV immune reaction. Type V immune reactions are a newer class of hypersensitivity reactions called \" stimulatory hypersensitivity.\" This type of reaction occurs when antibodies are produced with the property of stimulating specific cell targets. The most common example would be Graves’ disease which is characterized by antibodies that stimulate the TSH receptor.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 137,
+  "question": "Which of the following are true about ocular cicatricial pemphigoid (OCP)?",
+  "options": {
+   "A": "autoantibodies are directed against bullous pemphigoid antigen II (BP180) in the basement membrane zone (BMZ)",
+   "B": "it generally has a unilateral presentation",
+   "C": "it is suggested by an inferior forniceal depth of less than 12 mm",
+   "D": "methotrexate is frequently used over cyclophosphamide in severe cases of this disease"
+  },
+  "markedAnswer": "A",
+  "explanation": "Ocular cicatrial pemphigoid is secondary to autoantibodies directed against bullous pemphigoid antigen II (BP180) in the basement membrane zone (BMZ). It is generally a bilateral disease. It is suggested by an inferior forniceal depth of less than 8 mm. Cyclophosphamide is frequently used in severe disease.",
+  "imageUrl": "/images/cornea-oq/p123_img4.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 138,
+  "question": "You are told that the patient in the photo had a biopsy of the conjunctiva and there were autoantibodies to the basement membrane zone. What type of hypersensitivity reaction is seen in the condition in the photo (see image)?",
+  "options": {
+   "A": "Type I",
+   "B": "Type II",
+   "C": "Type III",
+   "D": "Type IV"
+  },
+  "markedAnswer": "B",
+  "explanation": "This is a picture of ocular cicatricial pemphigoid.",
+  "imageUrl": "/images/cornea-oq/p124_img6.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 139,
+  "question": "A 26-year-old gentleman is referred to you by his optometrist who noted new corneal infiltrates in the right eye.  Of note, the patient was being treated empirically with neomycin ointment after suffering a small corneal abrasion.  On exam, you note several small peripheral, ring-shaped corneal infiltrates in the inferior cornea of the right eye.   There is no epithelial defect overlying these infiltrates.  What type of hypersensitivity reaction do these infiltrates represent?",
+  "options": {
+   "A": "type 1",
+   "B": "type 2",
+   "C": "type 3",
+   "D": "type 4"
+  },
+  "markedAnswer": "C",
+  "explanation": "Neomycin is known to cause peripheral corneal infiltrates as a possible side effect. These infiltrates are a type of Wessely immune ring which represents the coalescence of local antibodies to antigens with subsequent complement activation. These immune rings are type 3 hypersensitivity reactions. Other conditions that may cause a Wessely ring include corneal foreign body and contact lens reactions. The classic ocular diseases that represent different hypersensitivity reactions include: • type 1 (\"anaphylaxis\"): allergic/atopic conjunctivitis • type 2 (\"cytotoxic antibodies\"): ocular cicatricial pemphigoid • type 3 (\"immune-complex reactions\"): scleritis • type 4 (\"cell-mediated reactions\"): contact dermatitis, corneal graft rejection, Stevens-Johnson syndrome. • type 5 (\"stimulatory hypersensitivity\"): thyroid eye disease, myasthenia gravis Note: older texts, including older versions of the BCSC have listed Stevens-Johnson Syndrome as type III, but recent papers in the literature have listed SJS as type IV. Given the controversy and recent changes, one would hope SJS classification would not be a good exam question.",
+  "imageUrl": "/images/cornea-oq/p124_img6.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 140,
+  "question": "Which of the following statements regarding vernal keratoconjunctivitis is TRUE?",
+  "options": {
+   "A": "the palpebral form has giant follicles",
+   "B": "the palpebral form has Horner-Trantas dots",
+   "C": "shield ulcers may develop",
+   "D": "mast cell stabilizers are used for immediate relief"
+  },
+  "markedAnswer": "C",
+  "explanation": "A good way of remembering vernal is to know that \"vernal\" means \"Spring\". This is a good way of remembering when vernal conjunctivitis occurs and that it is related to an allergic phenomena. This allergic entity typically occurs in children within the first 2 decades of life during the spring or fall. Classic ocular signs include: (1) giant papillary conjunctivitis; (2) \"Horner- Trantas dots\" which are jellylike limbal nodules representing degenerated eosinophils; and a (3) \"shield ulcer\" which is a corneal epithelial defect involving the upper half of the cornea. The palpebral form of vernal has giant papillae. The limbal form of vernal has Horner- Trantas dots. Mast cell stabilizers take at least 2 weeks to reach effect. Extra: Differential diagnosis The main differential diagnosis to be considered is atopic keratoconjunctivitis (AKC). AKC typically has an older age of onset in the 2nd to 5th decade, as opposed to onset prior to age 10 with VKC. Conjunctival involvement is classically on the upper tarsus in VKC and on the lower tarsus in AKC. Additionally, AKC is typically more chronic in nature and more commonly results in scarring of the cornea and conjunctival cicatrization, whereas VKC is typically more self-limiting.",
+  "imageUrl": "/images/cornea-oq/p125_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ }
+]

@@ -1,0 +1,1052 @@
+[
+ {
+  "id": 1,
+  "question": "A patient presents with a visually-significant right hypertropia. You decide to perform a right inferior rectus resection. What type of eyelid change might occur with this surgery?",
+  "options": {
+   "A": "lower lid retraction",
+   "B": "lower lid elevation",
+   "C": "widening of the palpebral fissure",
+   "D": "no changes in the lower lid"
+  },
+  "markedAnswer": "B",
+  "explanation": "There are extensive fascial connections between the inferior rectus muscle and the lower eyelid. Inferior rectus recession can cause lower eyelid retraction and thus widening of the palpebral fissure. The opposite can occur with inferior rectus resection (i.e. lower eyelid elevation). In a resection, you bring the inferior rectus and capsulopalpebral fascia forward which shortens the palpebral fissure. In a recession, these are recessed posteriorly thus retracting the lower lid. Yes, this is correct. (You're pulling it all forward and snipping the IR, then locking it in place. Everything comes forward with it.)",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 2,
+  "question": "Which of the following statements is TRUE regarding the innervation of the extraocular muscles?",
+  "options": {
+   "A": "The upper division of CN III innervates the levator palpebrae while the lower division innervates the medial rectus, lateral rectus, superior rectus, and inferior oblique muscles.",
+   "B": "The upper division of CN III innervates the superior rectus while the lower division innervates the medial rectus, lateral rectus, levator palpebrae, and inferior oblique muscles.",
+   "C": "The upper division of CN III innervates the levator palpebrae and superior rectus while the lower division innervates the medial rectus, inferior rectus, and inferior oblique muscles.",
+   "D": "There is no subdivision of CN III"
+  },
+  "markedAnswer": "C",
+  "explanation": "CN III has an upper and lower division (see answer diagram below). The upper division innervates the levator palpebrae and superior rectus. The lower division innervates the medial rectus, inferior rectus, and inferior oblique muscles. Also, the parasympathetics that innervate the sphincter pupillae and ciliary muscle travel with the branch (of the lower division) that innervates the inferior oblique.",
+  "imageUrl": "/images/pedia-hy-oq/p96_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 3,
+  "question": "Which extraocular muscle has the shortest active muscular portion?",
+  "options": {
+   "A": "superior oblique",
+   "B": "superior rectus",
+   "C": "inferior oblique",
+   "D": "inferior rectus"
+  },
+  "markedAnswer": "A",
+  "explanation": "See Table 2-1 in the 2011 BCSC Pediatrics book. The active muscular portions of the medial rectus, superior rectus, lateral rectus, inferior rectus, and levator are 40 mm. The superior oblique has an active muscular portion of 32 mm. The inferior oblique has an active muscular portion of 37 mm. The muscles with the longest tendons are the superior oblique and levator with 26 mm and 14-20 mm, respectively. This makes the superior oblique the longest overall muscle. Because of its small tendon length (1 mm) the smallest overall muscle is the inferior oblique.",
+  "imageUrl": "/images/pedia-hy-oq/p3_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 4,
+  "question": "You are performing a scleral buckle for a patient with a retinal detachment. During this surgery, you need to isolate the rectus muscles. Which of the rectus muscles is 3rd CLOSEST from the limbus?",
+  "options": {
+   "A": "inferior rectus",
+   "B": "superior rectus",
+   "C": "medial rectus",
+   "D": "lateral rectus"
+  },
+  "markedAnswer": "D",
+  "explanation": "The \"Spiral of Tillaux\" describes how the rectus muscles insert progressively farther from the limbus. The mnemonic \"M-I-L-S\" describes this relationship with the medial rectus inserting closest to the limbus (~5.5 mm), followed by the inferior rectus (~6.5 mm), the lateral rectus (~6.9 mm), and the superior rectus (7.7 mm). Also note that the temporal side of the vertical recti insert more posteriorly than the nasal side of these muscles.",
+  "imageUrl": "/images/pedia-hy-oq/p3_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 5,
+  "question": "All of the following statements regarding the oblique extraocular muscles are true EXCEPT:",
+  "options": {
+   "A": "The primary action of the superior oblique is intorsion while the primary action of the inferior oblique is extorsion",
+   "B": "Their tertiary actions are both abduction",
+   "C": "Both muscles do not originate from the annulus of Zinn",
+   "D": "Both the superior and inferior oblique muscles pass closer to the globe than"
+  },
+  "markedAnswer": "D",
+  "explanation": "Actually, the inferior oblique does NOT pass closer to the globe than the inferior rectus unlike how the superior oblique passes closer to the globe than the superior rectus. Instead, the inferior oblique passes INFERIOR (i.e. farther from the globe) to the inferior rectus.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 6,
+  "question": "The following statement best describes the PRIMARY ACTION of the INFERIOR OBLIQUE and the SECONDARY ACTION of the SUPERIOR RECTUS respectively:",
+  "options": {
+   "A": "extorsion and intorsion",
+   "B": "extorsion and adduction",
+   "C": "intorsion and adduction",
+   "D": "intorsion and abduction"
+  },
+  "markedAnswer": "A",
+  "explanation": "The primary action of an extraocular muscle is its major effect on the eye while the eye is in primary position. The primary actions of the medial and lateral recti are easy to remember since they only have one action: adduction and abduction respectively. In other words, there are no secondary or tertiary actions for the horizontal recti muscles. The primary, secondary, and tertiary actions of the other extraocular muscles can be remembered (a little less) easily by the following rules: (a) the primary actions of the inferior and superior recti are depression and elevation respectively; (b) the primary actions of the oblique muscles always involve some type of TORSION; (c) use the mnemonic \"SIN-RAD\" to remember that Superior muscles IN-tort and Recti muscles AD- duct; (d) the secondary action of the obliques is OPPOSITE to their names (e.g. inferior oblique elevates); (e) the tertiary action of these muscles is either adduction or abduction. From these rules, it is easy to figure out, for example, that the primary action of the inferior oblique is EXTORSION (since oblique muscles cause torsion, and *S*uperior muscles INtort); its secondary action is elevation (OPPOSITE to inferior); and its tertiary action is abduction (since only Recti ADduct). Similarly, you can deduce the actions of the superior rectus: (1) primary action as you would expect it: elevation; (2) secondary action is one of torsion; in this case it is INtorsion (due to \"SIN-RAD\"); (3) tertiary action is adduction (again due to \"SIN-RAD\" where recti ADduct). Comments: I always say \"SIN then RAD\" because the torsion is secondary and duction is tertiary PHYSIOLOGY.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 7,
+  "question": "You are performing the Worth 4-dot test on a 5-year old child with a history of strabismus surgery as a 2-year-old. If this child has monofixation syndrome, what is the proper response to this test?",
+  "options": {
+   "A": "distance: 2 or 3 lights; near: 2 lights",
+   "B": "distance: 2 lights; near: 2 or 3 lights",
+   "C": "distance: 2 or 3 lights; near: 4 lights",
+   "D": "distance: 4 lights; near: 2 or 3 lights"
+  },
+  "markedAnswer": "C",
+  "explanation": "The Worth 4-dot test can demonstrate both the central scotoma as well as peripheral fusion which are typical of the monofixation syndrome. At distance viewing, the Worth 4-dot light projects onto the central retina which is within the central scotoma that is found in the monofixation syndrome. Therefore, the patient will see 2 or 3 lights at distance. At near viewing, the Worth 4-dot test projects outside of the central scotoma, and therefore the patient will see all 4 lights (i.e. a fusion response). Comments: - I always thought of it as: near = 4 letters (dots) in the word far = 3 letters (dots) in the word ... or 2 dots of course.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 8,
+  "question": "Which of the following tests and/or measures evaluates a patient’s ability to fuse two images?",
+  "options": {
+   "A": "Krimsky test",
+   "B": "Worth 4-Dot test",
+   "C": "Convergence amplitude",
+   "D": "Maddox rod test"
+  },
+  "markedAnswer": "B",
+  "explanation": "It is important to understand the various tests used in evaluating a patient with ocular misalignment. Although there are numerous tests, they may be categorized into the following three groups: (1) fusion & stereopsis, (2) ocular alignment, and (3) ocular movement. Fusion tests evaluate the patient’s fusional capabilities. These are useful in cases of small-angle deviations, whereby it may not be obvious whether or not the patient can fuse two images into one. Before listing the various tests, there are two important points to understand: 1. All fusion tests are dissociative to some degree and may thus underestimate the fusional capabilities of the patient. Cover tests, in particular, are extremely dissociating, so it is always recommended to perform fusion testing prior to cover testing. 2. There are only three possible outcome of any fusion tests: (1) Diplopia (cross or uncrossed), (2) suppression without anomalous retinal correspondence (ARC), and (3) suppression with ARC (harmonious or unharmonious). Fusion tests function by separating an image into two, and presenting each to an individual eye, thereby isolating the two eyes. This is typically accomplished using colors [Worth 4 dot test and Red-glass test] or lines [Bagolini lenses and the Afterimage test]. Some of these tests can be used to assess for anomalous retinal correspondence. Stereopsis tests evaluate a patient’s stereoscopic vision. Stereopsis requires fusion, so one can consider a stereopsis test (such as the Titmus test) in a similar category. If a patient has gross stereopsis, there necessarily must be some degree of fusion, though it may only be peripheral (i.e. with a central suppression scotoma). Ocular alignment tests include the following: (1) corneal light reflex- or red reflex- based tests (Hirschberg, Krimsky, and Bruckner tests); (2) subjective tests [Maddox rod, Lancaster red-green test, and the Major Amblyoscope); and (3) cover tests. Tests utilizing light reflexes can only identify manifest deviations, whereby the deviations are present at baseline before any dissociation is performed. In contrast, subjective tests and cover tests are dissociative and can identify latent deviations. The difference between the two is that the dissociation of subjective tests is all-or-nothing, whereas the dissociation of cover tests is titratable. Thus, subjective tests can only measure the total deviation (manifest plus latent), whereas not only can cover tests distinguish between manifest and latent deviations, but they can also assess the severity of latent deviations (e.g. tropia vs. phoria). Due to this, and due to the fact that children with strabismus often suppress the strabismic eye, subjective tests have a limited role in childhood strabismus. They are typically used for adult strabismus and neuro-ophthalmic pathology. The downside to cover tests is that they require reasonable visual acuity, as they are contingent upon fixation by each eye. For patients who cannot fixate in one eye due to an image that is too blurry, light reflex-based tests are an appropriate backup for estimating the deviations. Ocular motility tests include: (1) rotation tests [ductions and versions], (2) vergence tests [near point of convergence, accommodative convergence/accommodation ratio, and fusional vergence], and (3) various supplemental tests [e.g. forced duction and saccadic velocity]. These tests assess the physical mobility of the eye and evaluate the function of the extraocular muscles.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 9,
+  "question": "Which of the following is the correct order of the magnitude of fusional amplitudes in the average person?",
+  "options": {
+   "A": "convergence fusional amplitudes > divergence fusional amplitudes > vertical fusional amplitudes",
+   "B": "convergence fusional amplitudes > vertical fusional amplitudes > divergence fusional amplitudes",
+   "C": "divergence fusional amplitudes > convergence fusional amplitudes > vertical fusional amplitudes",
+   "D": "divergence fusional amplitudes = convergence fusional amplitudes > vertical"
+  },
+  "markedAnswer": "A",
+  "explanation": "For distance fixation at 6 meters, the normal convergence fusional amplitudes is ~14 prism diopters; divergence fusional amplitudes ~6 prism diopters; and vertical fusional amplitudes ~2.5 prism diopters. Comments: Think: C > D> V ( in alphabetical order): 18 >6>3 prism diopters for distance fixation and double for near fixation (C36>D12> V6)prism diopter.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 10,
+  "question": "You are performing the red-glass test in an adult patient with exotropia prior to undertaking bilateral lateral rectus recessions. The patient states that he sees a \"pinkish\" single light when you shine the test light at him. Which of the following best describes this situation?",
+  "options": {
+   "A": "harmonious ARC",
+   "B": "unharmonious ARC",
+   "C": "pseudoharmonious ARC",
+   "D": "suppression"
+  },
+  "markedAnswer": "A",
+  "explanation": "The red-glass test is one of several methods to test for the presence of anomalous retinal correspondence (ARC). The test begins with measuring the patient's deviation objectively with prism. A red glass is then placed over the non-deviating eye while the patient fixates on a white light. The patient is asked what he sees. If the patient only sees one light, then suppression is present. If the patient sees the lights superimposed on each other (i.e. pink) despite a measurable deviation, then harmonious ARC is present. If the patient sees 2 lights but the separation between the lights is smaller than the measured deviation, then unharmonious ARC is present. One of the main reasons for performing the red-glass test, is to avoid post-operative diplopia surprises.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 11,
+  "question": "You are evaluating the ocular misalignment in a patient with a cranial nerve VI palsy in the right eye. You notice that the measured deviation is smaller when the left eye is fixating on a target versus when the paretic right eye is fixating on a target. Which of the following statements best explains this phenomenon?",
+  "options": {
+   "A": "The primary deviation is larger than the secondary deviation because of Hering's law",
+   "B": "The primary deviation is larger than the secondary deviation because of Sherrington's law",
+   "C": "The secondary deviation is larger than the primary deviation because of Hering's law",
+   "D": "The secondary deviation is larger than the primary deviation because of"
+  },
+  "markedAnswer": "C",
+  "explanation": "The primary deviation is the deviation that is measured when the *normal* eye is fixating (e.g. the left eye in this case). The secondary deviation is the deviation that is measured when the paretic or restricted eye is fixating (e.g right eye here). The secondary deviation is larger than the primary deviation since more innervational signals are required to bring the paretic eye into fixation (e.g. more innervation to the lateral rectus of the right eye in this case), which results in increased signals to the corresponding yoke muscle (e.g. the medial rectus of the left eye in this case) according to Hering's law.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 12,
+  "question": "Which of the following findings essentially rules out a diagnosis of monofixation syndrome?",
+  "options": {
+   "A": "peripheral fusion",
+   "B": "absence of bimacular fusion",
+   "C": "2 lights seen on distance Worth 4-dot test",
+   "D": "60 secs arc of stereoacuity"
+  },
+  "markedAnswer": "D",
+  "explanation": "60 secs of arc implies fine stereopsis which is not possible in a patient with the monofixation syndrome. Patients with monofixation syndrome typically have stereoacuity in the range of 200-3000 sec of arc. To review, the monofixation syndrome describes a certain sensory state in strabismus. It is characterized by peripheral fusion, but without bimacular fusion (due to a macular scotoma). One may use the Worth 4 dot (W4D) test to diagnose monofixation in a child. To accomplish this, the examiner first shines the W4D flashlight at 10 feet from the child. Since the light from the flashlight projects onto the central 1 degree when viewed at this distance, a child with monofixation syndrome will only see 2 or 3 lights (i.e. non-fusion response due to absence of bimacular fusion). However, when the flashlight is brought closer to the child (e.g. 2 ft), the light will be projected onto the peripheral retina. Thus, a child with the monofixation syndrome will see 4 lights (i.e. a fusion response) at near since he has peripheral fusion.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 13,
+  "question": "You are testing the cardinal positions of gaze of a patient with strabismus. You ask the patient to look up and to the right. Which yoke muscles are being used for this gaze direction?",
+  "options": {
+   "A": "right superior rectus and right inferior oblique",
+   "B": "right superior rectus and left inferior oblique",
+   "C": "right inferior oblique and left superior rectus",
+   "D": "right and left superior recti"
+  },
+  "markedAnswer": "B",
+  "explanation": "The term yoke muscles describes the two muscles (one in each eye) that are primarily used in a particular field of gaze. For gaze up and to the right, the right superior rectus and left inferior oblique muscles are being used (please refer to the answer image below).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 14,
+  "question": "A 5-year-old child presents to your clinic with a history of esotropia. You notice lid fissure narrowing and globe retraction on attempted adduction. This ocular condition violates which principle?",
+  "options": {
+   "A": "Hering's law",
+   "B": "Sherrington's law",
+   "C": "Donder's law",
+   "D": "Listing's law"
+  },
+  "markedAnswer": "B",
+  "explanation": "The ocular condition implied by the vignette is Duane's syndrome. In this syndrome, co-contraction of the medial and lateral recti occurs, resulting in globe retraction and lid fissure narrowing. This co-contraction violates \"Sherrington's law of reciprocal innervation\" which states that contraction of a given muscle (e.g. medial rectus) is accompanied by a decrease in contraction of its antagonist (e.g. lateral rectus). Hering's law of equal innervation is violated by the condition of dissociated vertical deviation (DVD). GROWTH & DEVELOPMENT.",
+  "imageUrl": "/images/pedia-hy-oq/p10_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 15,
+  "question": "Which of the following represents the average axial length and corneal horizontal diameter of the eye of a newborn?",
+  "options": {
+   "A": "axial length: 21-23 mm; corneal horizontal diameter: 9.5-10.5 mm",
+   "B": "axial length: 21-23 mm; corneal horizontal diameter: 11.5-12.5 mm",
+   "C": "axial length: 15-17 mm; corneal horizontal diameter: 9.5-10.5 mm",
+   "D": "axial length: 15-17 mm; corneal horizontal diameter: 11.5-12.5 mm"
+  },
+  "markedAnswer": "C",
+  "explanation": "It is important to know the basic dimensions of the newborn and/or infant eye because deviations from these normal values can indicate a disease process. For example in a patient with congenital glaucoma, both the axial length and corneal horizontal diameters are grossly larger than 17 mm and 10.5 mm respectively. Comments Section: newest BCSC Peds: Axial length newborn eye= 14.5-15.5 mm. Adults- 23-24 mm.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 16,
+  "question": "All of the following are appropriate methods of assessing visual acuity in a 1-year-old infant EXCEPT?",
+  "options": {
+   "A": "Allen cards",
+   "B": "VEP (visually-evoked potentials)",
+   "C": "preferential looking",
+   "D": "fixation behavior"
+  },
+  "markedAnswer": "A",
+  "explanation": "A 1-year old infant is unlikely to be able to verbalize the pictures depicted on Allen cards. According to the BCSC Peds book, the other 3 methods can be used to estimate visual acuity in an infant. In terms of quantitating visual acuity, the BCSC Peds book states that there are two major ways to accomplish this in preverbal infants and toddlers: preferential looking (PL) and visually evoked potential (VEP). An example of a PL test is the Teller Acuity Cards II or the Cardiff Acuity test. A special form of VEP, called the sweep VEP, can also be used to assess visual acuity in preverbal kids. Allen cards can be used in children 2 to 5 years in age. Other methods that can be used in children in this 2 to 5 year age range are HOTV cards and the \"E-game\". Snellen visual acuity is usually reserved for children >5 years of age.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 17,
+  "question": "Which of the following visual acuity tests is being demonstrated in the photograph above?",
+  "options": {
+   "A": "Teller card",
+   "B": "Allen card",
+   "C": "HOTV",
+   "D": "optokinetic nystagmus testing"
+  },
+  "markedAnswer": "A",
+  "explanation": "Allen cards show pictures instead of letters. The HOTV test involves projecting the letters H-O-T-V in any order just as is done with normal letters. Then the child is given a card with the letters HOTV. The examiner points to a letter on the screen and asks the child to point to the same letter on his/her card. Teller preferential looking cards can be used to estimate visual acuity in the preverbal child. These cards consist of a series of rectangular cards where one side is blank while the other side has a series of vertical black and white stripes. There is a small peephole in the middle through which the examiner looks to observe which direction the child preferentially gazes at. Cards with progressively smaller stripe widths are presented until the child does not show a gaze preference. The last card that the child shows a gaze preference for estimates his or her visual acuity.",
+  "imageUrl": "/images/pedia-hy-oq/p12_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 18,
+  "question": "The parents of a healthy, full term 3-month-old baby present to your office and state that their baby does not look at their faces, does not fixate on objects, and also does not exhibit tracking. Your ocular exam confirms that the baby does not fix and follow. However, the child's eye exam is otherwise completely normal. What is the best next step?",
+  "options": {
+   "A": "perform a visual evoked potential (VEP)",
+   "B": "observe closely",
+   "C": "order a MRI of the brain",
+   "D": "perform an electroretinogram (ERG)"
+  },
+  "markedAnswer": "B",
+  "explanation": "Sometimes, when the results of an eye exam are completely normal in a baby, but the baby does not fixate and follow or has poor fixation, the patient may have delayed visual maturation (DVM). Although, DVM is more commonly seen in babies with other developmental disabilities and in children with neurological impairment, it can also be seen in otherwise healthy babies. Close observation to see if vision develops is appropriate. As the baby approaches 6 months of age, a visual evoked cortical potential (VEP) or electroretinogram (ERG) is appropriate. But this baby is only 3-months-old and otherwise healthy; therefore observation is acceptable. Comments: ERGs are non-diagnostic <6 months of age, so not overly helpful for this patient. I agree with observing at 5 mo age. No need to subject the patient to unnecessary testing. LCA will never have a completely normal eye exam as far as i know, other signs such as oculo-digital reflex, roving eye movements, nystagmus, photophobia, sluggish or near-absent pupillary responses should be present. besides what will knowing LCA at age 6 mo vs 12 mo change anything?",
+  "imageUrl": "/images/pedia-hy-oq/p12_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 19,
+  "question": "Which of the following conditions is associated with failure of the fetal fissure to close properly during development?",
+  "options": {
+   "A": "Bergmeister papilla",
+   "B": "nanophthalmos",
+   "C": "persistent fetal vasculature",
+   "D": "microphthalmos with cyst"
+  },
+  "markedAnswer": "D",
+  "explanation": "Only microphthalmos with cyst (aka colobomatous cyst) is associated with failure of the fetal fissure to close properly. In this congenital condition, a cyst protrudes through a coloboma in the wall of a microphthalmic eye. It can be either unilateral or bilateral, is present at birth, and is typically nonheritable. The coloboma typically involves the optic disc with variable involvement of the choroid and retina. The cystic outpouching may appear as a visible/palpable mass behind the lower eyelid due to its typically inferonasal location. Like other conditions featuring a coloboma, this condition can be associated with systemic disorders (e.g. polycystic kidney, Edward's syndrome). Management of colobomatous cysts is typically by aspiration of its contents (repeated if it recurs) or surgical excision.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 20,
+  "question": "You are examining a 3-year old child whose cycloplegic refraction reveals +2.00 sphere OU. The child is seeing 20/20 on HOTV testing and is orthotropic on alternate covering testing. The parents wonder how their child's refraction will change \"as he grows up.\" Which of the following is the most appropriate response?",
+  "options": {
+   "A": "Your child's hyperopia has likely peaked at this time. It should remain stable at this refraction for quite some time.",
+   "B": "Your child's hyperopia has likely peaked at this time. It should gradually decrease in magnitude over the next few years.",
+   "C": "Your child's hyperopia will likely increase for the next 4 years. But it will eventually stabilize at that refraction for a long time.",
+   "D": "Your child's hyperopia will likely increase for the next 4 years. But it will"
+  },
+  "markedAnswer": "D",
+  "explanation": "Humans begin life hyperopic due to the relative steepness of the cornea and short axial length at birth. This hyperopia continues to increase until it peaks at around age 6 to 8, and then a myopic shift towards emmetropia occurs. This process, in which the refractive power of the eye is adjusted during childhood, is called \"emmetropization\". Comments: Source: BCSC peds chapter on growth and development of the eye, section on refractive state: \"eyes are hyperopic at birth, become slightly more hyperopic until age 7 years, and then experience a myopic shift toward plano until the eyes reach their adult dimensions.\"",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 21,
+  "question": "Which of the following methods of measuring visual acuity can be used to estimate the visual acuity of a preverbal child?",
+  "options": {
+   "A": "Allen card",
+   "B": "Teller card",
+   "C": "HOTV",
+   "D": "Snellen"
+  },
+  "markedAnswer": "B",
+  "explanation": "Teller preferential looking cards\" can be used to assess visual acuity in the preverbal child. These cards consist of a series of rectangular cards where one side is blank while the other side has a series of vertical black and white stripes. There is a small peephole in the middle through which the examiner looks to observe which direction the child preferentially gazes at. Cards with progressively smaller stripe widths are presented until the child does not show a gaze preference. The last card that the child shows a gaze preference for estimates his or her visual acuity. Other methods of estimating visual acuity in the preverbal child is via visually-evoked potential (VEP) or optokinetic nystagmus (OKN) responses.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 22,
+  "question": "You are attempting to assess visual acuity in a preverbal 1-year old child. You use the method depicted above. What type of visual acuity card is this?",
+  "options": {
+   "A": "tumbling E",
+   "B": "Teller card",
+   "C": "Allen card",
+   "D": "HOTV card"
+  },
+  "markedAnswer": "B",
+  "explanation": "A favorite question from pediatric ophthalmologists is how to assess visual acuity in the non-verbal child. One method, as depicted here, is the Teller preferential looking card. This card has two sides: one side has stripes while the other side is just a gray background. There is a peephole in the middle so that the tester can see which way the child turns his head. A series of cards is used with each card having finer and finer stripes. Eventually, the child will not be able to distinguish between the two sides of the card which estimates his visual acuity. STRABISMUS/AMBLYOPIA.",
+  "imageUrl": "/images/pedia-hy-oq/p15_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 23,
+  "question": "You are examining a 3-year old uncooperative child who refuses to look at the small stuffed animal that you are presenting in front of her. All of the following are appropriate tests to screen for ocular misalignment in this situation EXCEPT:",
+  "options": {
+   "A": "Hirschberg",
+   "B": "Krimsky",
+   "C": "Bruckner",
+   "D": "cover-uncover test"
+  },
+  "markedAnswer": "D",
+  "explanation": "Cover testing requires that the patient maintain constant fixation on an accommodative target, which is not possible in this patient's case. The Hirschberg, Krimsky, and Bruckner are tests that use corneal light-reflex, which are useful if a patient cannot cooperate sufficiently to allow cover testing or who have poor fixation. The Hirschberg method is based on an estimation that 1 mm of corneal light reflex decentration corresponds to 15 prism diopters of deviation. So a light reflex at pupillary margin is approximately 2 mm off of the center (assuming a 4 mm pupil) and is equal to 30 PD. A light reflex in the mid-iris is 4 mm off or 60 PD. A light reflex at the limbus is 6 mm or 90 PD off. In the BCSC, one will find that 1 mm of corneal light reflex approximately equates to 7 degrees. Do not be confused as 7 degrees is equivalent to 15 prism diopters. So: Corneal light reflex at pupillary margin = 2 mm off = 15 degrees off = 30 PD off Corneal light reflex at mid-iris = 4 mm off = 30 degrees off = 60 PD off Corneal light reflex at limbus = 6 mm off = 45 degrees off = 90 PD off. The Krimsky method uses the corneal reflection as generated by a penlight and the use of a prism placed in front of the deviating eye. One slides the prism bar up and down until the corneal reflex is centered in the deviating eye. In uncooperative patients with strabismus, this is the way to measure their deviation, but it is still difficult to get an accurate quantification of the ocular deviation even when performed by the experienced strabismologist. In the Bruckner test, the direct ophthalmoscope is used to obtain a red reflex simultaneously in both eyes. If strabismus is present, the deviated eye will have a lighter and brighter reflex than the fixating eye. Please note that the Bruckner test can detect (and screen) for strabismus, but it does not measure or provide any quantitative information regarding the deviation.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 24,
+  "question": "You are examining a child 9 months status-post bilateral medial rectus recessions. The mother of this child complains of a \"tumor\" that has been present on one of her daughter's eyes for the last 8 weeks (as shown in the photograph above). Which of the following is the most appropriate management of this child's condition?",
+  "options": {
+   "A": "observation",
+   "B": "topical steroids",
+   "C": "excisional biopsy",
+   "D": "topical application of mitomycin C"
+  },
+  "markedAnswer": "B",
+  "explanation": "This is a picture of a foreign body granuloma. It can occur after strabismus surgery, typically over the muscle's reattachment site. It is a localized, elevated, hyperemic, tender mass. It was more common in the past when sutures were made from gut. They often respond to topical steroids but may need surgical excision if they persist. Here is a picture of a conjunctival granuloma. Pyogenic granulomas can also occur after strabismus surgery, typically over the muscle's reattachment site. Pyogenic granuloma is a reactive hemangioma. It is a misnomer because it is neither infectious nor does it have giant cells. It contains fibroblasts and proliferating capillaries. Histologically, it has a \"spoke-wheel\" vascular pattern. They are smooth, red, and pedunculated (elongated stalk of tissue). In Ophthalmology, they generally occur after pterygium removal or strabismus surgery. Onset is typically 3-4 weeks after surgery. Treatment is with topical or intralesional steroids. If this doesn't work, the lesion can be removed with cautery to the base and frequent post-operative steroids. Please note that a foreign body granuloma and pyogenic granuloma do not generally look at all alike. The pyogenic granuloma is a vascularized tissue that is very red. The foreign body granuloma is a chronic disease process that is mildly red in appearance. Also note from the question stem that the reaction occurred 9 months after surgery. This would be time-frame more typical of a foreign body granuloma. Histology of pyogenic granuloma. Pyogenic granuloma.",
+  "imageUrl": "/images/pedia-hy-oq/p17_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 25,
+  "question": "A 65-year-old woman undergoes strabismus surgery for a vertical deviation. She complains that her eyelids \"just don't look the same since you operated on me.\" On external exam, her right lower eyelid appears to have been advanced upward. Which of the following surgeries did you most likely perform?",
+  "options": {
+   "A": "right inferior rectus resection",
+   "B": "right inferior rectus recession",
+   "C": "right superior rectus resection",
+   "D": "right superior rectus recession"
+  },
+  "markedAnswer": "A",
+  "explanation": "Unintended changes in eyelid position can occur after operating on the vertical recti. This side effect is more common when operating on the inferior rectus muscle. Inferior rectus resection can lead to advancement of the lower eyelid (as in this case) while inferior rectus recession can pull the lower eyelid down. Comments: Mechanism: Ptosis with superior rectus resection happens because the position of tissue surrounding the rectus muscle is responsible for eyelid position, not the strength of the rectus muscle itself. When you resect, you have to bring the surrounding tissues forward. When this tissue moves forward, it causes ptosis (or reverse ptosis with inferior rectus resection). Opposite happens with recession.",
+  "imageUrl": "/images/pedia-hy-oq/p18_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 26,
+  "question": "A mother brings in her 2-year-old child with complaints of intermittent inward crossing of both eyes. You write down in your chart: \" 30 PD ET and 30 PD ET' \". The cycloplegic refraction shows +3.25 D sphere OD and +3.75 D OS. You prescribe the full cycloplegic refraction as treatment for this child. The mother asks you if her child will always have to wear these same-strength glasses. What is the most accurate response to her question?",
+  "options": {
+   "A": "Your child's prescription will not change over the next 2 to 3 years.",
+   "B": "Your child's prescription will likely decrease in power over the next 2 to 3 years.",
+   "C": "Your child's prescription will likely increase in power over the next 2 to 3 years.",
+   "D": "Your child will likely not need glasses in the next 2 to 3 years."
+  },
+  "markedAnswer": "C",
+  "explanation": "The measured hyperopia usually INCREASES until the child is 5 to 7 years old. After this time, the physician may be able to slowly decrease the amount of hyperopic correction in order to stimulate some fusional divergence. It is important to counsel the parents that glasses will have to be worn for many years to successfully treat accommodative esotropia. Comments section: Need to compensate for accomodative eso as the eye gets longer = increasing accomodative need of the eye for more power. Therefore increase the MRx hyperopia to prevent eso until they are old enough to start stimulating accomodation without causing the eso. Got the question wrong, tricky but great question. I think the concept actually being tested here is that children hit their maximum hyperopia (hence, continue to grow more hyperopic until) at 5-7 years old (according to question explanation - I personally remember it being 8yo, but I digress). Therefore, the MRx will need to increase to accommodate the increasing hyperopia in order to continue adequately addressing the Accommodative ET. The eye getting longer actually would increase the myopic refraction of a child (hence reducing a hyperopic refraction) - so this line of thinking is actually counter to what actually happens. My guess for why children continue to get more hyperopic has to do with the lens changes that occur at the same time - likely this (lens refractive power) outpaces the axial length growth until 5-7yo before the eyes begin to become more myopic (needs reference).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 27,
+  "question": "What is the best next step in management of this patient?",
+  "options": {
+   "A": "Observation",
+   "B": "MRI of the brain to evaluate for causes of a sixth nerve palsy",
+   "C": "Left medial rectus recession",
+   "D": "Left medial rectus recession with lateral rectus resection"
+  },
+  "markedAnswer": "A",
+  "explanation": "The patient has Duane retraction syndrome (Type 1), an ocular motility disorder characterized by co-contraction of the medial and lateral rectus muscle leading to horizontal duction deficits and globe retraction on adduction. Globe retraction causes narrowing of the palpebral fissure. The majority of cases are unilateral and involve the left eye (72%). The condition is caused by a hypoplastic sixth nerve nucleus with aberrant innervation of the lateral rectus by the oculomotor nerve. An upshoot or downshoot on adduction of the affected eye is sometimes present due to vertical slippage of a tight lateral rectus muscle. The condition is mainly sporadic, followed by autosomal dominant inheritance in 10– 15% of cases. There are three types of Duane syndrome: Type 1: limited abduction Type 2: limited adduction Type 3: limited adduction and abduction Type 1 is the most common, and parents may confuse the deficit as the normal eye turning in, rather than an abduction deficit. As a primary dysinnervation strabismus, surgical management will not normalize eye ductions and surgery is reserved for patients who exhibit a primary position deviation or an abnormal compensatory head posture. The majority of patients have the ability for binocular vision, and the goal of any surgery would be to allow for binocularity in primary gaze. This patient has a small esophoria in primary gaze and good vision; therefore, observation would be most appropriate. WRONG ANSWERS: B. Clues to differentiate a sixth nerve palsy from type 1 Duane syndrome is narrowing of the palpebral fissure on adduction and the relatively small angle (<30 PD) esotropia in primary gaze despite a large abduction deficit. Typically, observation of globe retraction avoids the need for neuroimaging for a potential sixth nerve palsy. C. Medial rectus recession is typically the procedure of choice for a type 1 Duane syndrome and would be considered in a patient with a large angle esotropia or head turn. D. A lateral rectus resection may worsen globe retraction. However, in patients with minimal co-contraction, sometimes a small resection can improve abduction.",
+  "imageUrl": "/images/pedia-hy-oq/p20_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 28,
+  "question": "A 44-year-old patient suffers head trauma and consequently develops a left cranial nerve VI palsy. After 3 months, the patient still has 75% paralysis of the left lateral rectus muscle and complains of debilitating diplopia. He displays approximately 20 prism diopters of esotropia on primary gaze. Which of the following is most appropriate for this patient at this time?",
+  "options": {
+   "A": "muscle transposition surgery",
+   "B": "botulinum toxin injection to the antagonist right medial rectus",
+   "C": "large recession of ipsilateral medial rectus with resection of lateral rectus",
+   "D": "observation / prisms"
+  },
+  "markedAnswer": "D",
+  "explanation": "It is advisable to wait a minimum of 6 months to see if any additional spontaneous resolution occurs. In addition, the degree of paralysis after 6 months will dictate the initial surgical procedure that is chosen. Occasionally, some clinicians will inject the antagonist medial rectus muscle to temporarily align the eyes. However, the antagonist in this case is the LEFT medial rectus muscle (not the RIGHT medial rectus muscle).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 29,
+  "question": "Which of the following is the best response to this parent's inquiry?",
+  "options": {
+   "A": "Your child would not benefit from amblyopia therapy because he is beyond the amblyogenic years.",
+   "B": "Your child would not benefit from amblyopia therapy but would be a strabismus surgery candidate",
+   "C": "We can attempt a trial of patching of the right eye since there are PEDIG studies that have found that patching in older children can still be of benefit.",
+   "D": "We can attempt a trial of patching of the left eye since there are PEDIG"
+  },
+  "markedAnswer": "B",
+  "explanation": "This child had an intermittent exotropia that started when he was approximately 10 years old. Given that phoria was controlled through his early developmental years, he has normal binocularity. The minor difference in best corrected vision would not qualify as amblyopia which is typically defined (when unilateral) as visual acuity 2 lines worse than the normal eye. The exotropia is manifest now, however, and strabismus surgery would help to restore binocularity without the use of prisms.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 30,
+  "question": "You are evaluating a four-month-old patient with 50 prism-diopters of constant esotropia. The mother of the patient states that the eyes have been crossed for two months. Which of the following findings are you LEAST likely to note on exam?",
+  "options": {
+   "A": "Fusional maldevelopment nystagmus",
+   "B": "Cross-fixation",
+   "C": "Adduction deficit",
+   "D": "Over-elevation in adduction"
+  },
+  "markedAnswer": "C",
+  "explanation": "Infantile esotropia is a form of nonaccommodative pediatric esotropia that is best considered a complex of several important findings that all relate to an underlying pathology with ocular alignment and motility. Infantile esotropia classically presents in the first six months of life with a constant large-angle esotropia. This stands in contrast to accommodative forms of pediatric esotropia that present later in life with smaller angles of deviation. Infantile esotropia leads to abnormal binocular development, which may manifest in several ways. One of these is fusional maldevelopment nystagmus (FMN), previously called latent nystagmus. FMN (Choice A) presents as horizontal, conjugate, jerk nystagmus that manifests only when one eye is occluded or blurred. The unoccluded or unblurred eye has a slow phase medially, followed by a jerk saccade laterally. Note that both eyes manifest the nystagmus. FMN is not unique to infantile esotropia and is seen in any condition that involves monocular decreased vision secondary to a pregeniculate etiology. Such conditions lead to improper binocular development, whereby when fusion is broken (through occlusion or blur), fixation is lost and nystagmus ensues. One unique subtype of FMN is manifest latent nystagmus, whereby monocular suppression or amblyopia essentially fulfill the role of an occluder, and the nystagmus is present even without occlusion or blur. Aside from FMN, another manifestation of abnormal binocular development is dissociated strabismus complex. It is known that strabismus may lead to amblyopia if suppression occurs. This can be avoided if alternate fixation is present. Infantile strabismus is unique in that a second process, cross-fixation (Choice B), can develop, which may also decrease the risk of amblyopia. In cross-fixation, suppression does not occur and both visual fields are viewed simultaneously, though with the right eye viewing the left visual field and the left eye viewing the right visual field. Finally, infantile strabismus is associated with over-elevation in adduction (Choice D), and an abduction deficit, which is understandable, given that the eyes are esotropic, and, in a way, are overly adducted.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 31,
+  "question": "Which of the following examination techniques is incorrect in measuring a patient's total strabismic deviation?",
+  "options": {
+   "A": "placing a base-up prism and a base-out prism together in front of the same eye",
+   "B": "placing a base-down prism and a base-out prism together in front of the same eye",
+   "C": "placing two base-down prisms together in front of the same eye",
+   "D": "placing a base up prism in front of one eye and a base down prism in the"
+  },
+  "markedAnswer": "C",
+  "explanation": "Stacking two horizontal or two vertical prisms on top of each other in front of one eye will lead to inaccurate measurements. It is acceptable to stack one vertical and one horizontal prism on top of each other. To measure large deviations, one could put the same-direction prism in front of both eyes (e.g. to measure a 60-prism diopter esotropia, you could put one 40-PD base-out prism in front of one eye and a 20-PD base-out prism in front of the other eye). Comments section: It does matter how the second prism is held. That is the issue. If you hold the prism in exactly the right position, you could (theoretically) hold two prisms of the same direction in front of the same eye. The problem is it would be impossible to do this accurately. I believe there is a good diagram in this article. https://www.ncbi.nlm.nih.gov/pubmed/6866442.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 32,
+  "question": "A 12-year-old boy is referred to your office by his pediatrician for evaluation of a possible cranial nerve IV palsy. All of the following support a diagnosis of congenital cranial nerve IV palsy EXCEPT:",
+  "options": {
+   "A": "head-tilt seen on old photographs",
+   "B": "facial asymmetry",
+   "C": "small vertical fusional amplitudes",
+   "D": "lack of recent head trauma"
+  },
+  "markedAnswer": "C",
+  "explanation": "For patients with congenital superior oblique palsy, there is often facial asymmetry due to a long-standing head tilt. Large, not small, vertical fusional amplitudes would be expected in the case of congenital CN IV palsy. Why would large fusional amplitudes be expected? When the palsy is congenital, the adaptation is much greater; i.e. the brain is able to perceive two widely disparate images--relative to the fovea--as one image.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 33,
+  "question": "You are rotating with your pediatric ophthalmologist and part of your responsibilities is to work up his practice's patients. You see the notation \"CSM OU\" as the visual acuity of the child you are currently examining. This visual acuity assessment is done under which of the following conditions?",
+  "options": {
+   "A": "The \"C\" is done monocularly; the \"S\" and \"M\" are done binocularly",
+   "B": "The \"C\" is done binocularly; the \"S\" and \"M\" are done monocularly",
+   "C": "The \"C\" and \"S\" are done binocularly; the \"M\" is done monocularly",
+   "D": "The \"C\" and \"S\" are done monocularly the \"M\" is done binocularly"
+  },
+  "markedAnswer": "D",
+  "explanation": "The \"CSM\" notation can be used to estimate visual acuity of infants in the 0 to 2 year age range. The \"C\" and \"S\" are done under monocular conditions while the \"M\" is done binocularly. The \"C\" stands for \"central\" and denotes the location of the corneal light reflex when the patient fixates a handlight. This is a monocular test. The \"S\" stands for \"steady\" and denotes the steadiness of fixation as the handlight is motionless and also slowly moved about. This is a monocular test. The \"M\" stands for \"maintained\" and denotes the ability of the patient to maintain fixation with 1 eye and then the opposite eye as it is uncovered from the occluder. This is a binocular test. As a commenter so nicely explained, the \"CSM\" testing is performed as follows: You cover the child's left eye and look at the right eye (monocular test). Is there foveal fixation in the right eye and is the corneal light reflex centered? If yes, then there is \"central\" fixation at the penlight. \"Central\" refers to foveal fixation with a centrally located corneal light reflex. \"Uncentral\" fixation denotes severe amblyopia or occlusion to vision. Next, keeping the left eye occluded and looking at the right eye (i.e. still monocular test), you move your penlight left/right/up/down, and see if the fixation of the right eye on your penlight is \"steady\". Motor disruptions to fixation, such as nystagmus, will cause the fixation to be \"unsteady\". Lastly, you uncover the left eye (i.e. now a binocular test) and are still looking at the right eye. Do you see a shift or movement of the right eye, which means that the left eye has picked up fixation and the right eye has lost fixation (i.e. \"unmaintained\"). If there is no movement of the right eye when you uncover the left eye, the right eye has \"maintained\" fixation. \"Unmaintained\" fixation is often observed in strabismus patients. Now, you repeat the above steps with occlusion of right eye to check the left eye. Comments: M is “m”ultiple. C and S are “s”ingle/“c”ingle.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 34,
+  "question": "A patient with an A-pattern exotropia with 5 degrees of excyclotorsion presents to your office for surgical management. You decide you want to proceed with a recess-resect procedure. Which of the following represents the most appropriate surgical plan for this patient?",
+  "options": {
+   "A": "medial rectus resection (displaced superiorly); lateral rectus recession (displaced inferiorly)",
+   "B": "medial rectus resection (displaced inferiorly); lateral rectus recession (displaced superiorly)",
+   "C": "medial rectus resection; lateral rectus recession (no vertical displacement of either muscle)",
+   "D": "medial rectus resection; lateral rectus recession (both muscles displaced"
+  },
+  "markedAnswer": "A",
+  "explanation": "If a resect-recess surgery is decided upon, then displacement of the rectus muscles should be in opposite directions according to the normal rules in managing \"A\" or \"V\" patterns. In this case of an A-pattern exotropia, the medial rectus should be tightened and displaced toward the \"apex\" (i.e. superiorly in this case) while the lateral rectus should be recessed and displaced toward the \"open area\" (i.e. inferiorly for an \"A\" pattern). A good mnemonic to remember these rules is: \"MALE\" -- Medials to the Apex; Laterals to the Empty space. Comments section: The medial rectus pulls downward on the inside side of the globe by virtue of its globe insertion being surgically displaced superiorly, while the lateral rectus pulls upward on the outside side of the globe by virtue of its globe insertion being surgically displaced inferiorly. Thus the surgical treatment for the A-pattern exotropia also treats the excyclotorsion. Look at it this way: When the eye looks up, the top half tilts back toward the muscle origins (ergo a supra-placed muscle is looser). And conversely for downgaze, an infra-placed muscle becomes looser. Now, reflect on the fact that the pt. has XT. First and foremost, the MR need to be tightened, and the LR need to be loosened. Now, notice that the XT is worse in downgaze & less bad in upgaze ('A' pattern). So... You put the MR upward on the globe *so that* in downgaze the MR are extra- tight, where they NEED to pull the eye IN more than they do in upgaze (where the eye doesn't need to be pulled in as much). Similarly for the LR; they need to be loosened, especially in downgaze, so you recess them and infraplace them *so that* in downgaze the LR are extra-loose where they need to be extra loose since the XT was worse in downgaze. Burt Kushner has pointed out for years that horizontal rectus offsets for A and V pattern always induce torsion that acts to worsen incyclotorsion in A pattern and worsen excyclotorsion in V patterns. Kenneth Wright (page 234 of his text \"Pediatric Opthalmology and Strabismus\" recommends that \"monocular A or V pattern horizontal offsets can cause significant torsional changes and should be done only on amblyopia eyes in patients with poor binocular function to avoid inducing torsional diplopia.\" The Cambridge Ophthalmological Symposium mentions worsening of existing torsion or occurrence of new torsional changes after vertical offsets for A and V pattern strabismus. In this question the patient has the quite unusual occurrence of excyclotorsion with an A pattern (A patterns usually have incyclotorsion). So vertical offsets (MR up, LR down) will improve the excyclotorsion. However, the usual A pattern has incyclotorsion and the same surgery in that situation will worsen torsion, hence the cautions cited. Nonetheless, some patients can tolerate the adverse effects on torsion and still fuse. Most strabismologists follow Wright's admonition above, but since this question poses an exceptional situation, answer A in indeed correct.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 35,
+  "question": "Which of the following is the most appropriate management for this patient?",
+  "options": {
+   "A": "defer surgery until you can convince the mother otherwise",
+   "B": "recess the medial rectus 3.5 mm in one eye",
+   "C": "recess the medial rectus 4.25 mm; resect the lateral rectus 4.25 mm; all in the same eye",
+   "D": "recess the medial rectus 3.5 mm; resect the lateral rectus 5.0 mm; all in the"
+  },
+  "markedAnswer": "D",
+  "explanation": "With 20 prism diopters of residual esotropia after proper cycloplegic correction in a child with partial accommodative esotropia, the next step in management is to operate on that 20 PD ET. In strabismus surgery, one often relies on a chart to determine the amount of recession or resection to perform, which is published here for bilateral surgeries. A 20 PD ET can be corrected by doing: 1) a bilateral medial rectus recession; 2) a unilateral recess/resect procedure, which is the case here due to patient's mom preference; 3) a bilateral lateral rectus resection. If one were to perform a bilateral medial rectus recession, one would do 3.5mm recession on both medial rectus muscles to get 20 PD of correction. Doing a 3.5mm recession on only one medial rectus would theoretically give you only 10 PD of correction. If one were to do a bilateral lateral rectus resection, one would do 5mm resection on both lateral rectus muscles. Doing a 5mm resection on only one lateral rectus would also theoretically given you only 10 PD of correction. Now, if a monocular recess/resect procedure is selected, then you would do 3.5mm recession for the medial rectus and 5mm resection for the lateral rectus, this way, you get 10 PD from the medial and 10 PD from the lateral. Because the amount of correction for recession versus resection and on medial versus lateral rectus muscles yield different outcomes, averaging the amounts would not result in proper correction.",
+  "imageUrl": "/images/pedia-hy-oq/p28_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 36,
+  "question": "A mother brings in her 3-year old child with complaints of intermittent inward crossing of both eyes. You write down in your chart: \" 30 PD ET and 45 PD ET' \". The cycloplegic refraction shows +2.25 D sphere OD and +2.75 D OS. You measure the AC/A ratio as 8:1. You want to prescribe glasses but the mother vehemently says, \"There is no way my child is going to wear glasses at this age!\" Which medication has traditionally been used for this situation and what is the most serious side effect?",
+  "options": {
+   "A": "pilocarpine 1%; increasing the risk of acute angle closure glaucoma",
+   "B": "cyclomydril 0.5%; hypnosis and/or over-sedation",
+   "C": "echothiophate 0.125%; prolonged paralysis during general anesthesia",
+   "D": "brimonidine; hypotension and CNS depression"
+  },
+  "markedAnswer": "C",
+  "explanation": "Long-acting cholinesterase inhibitors, like echothiophate iodide, can be used to suppress convergence in patients with a high AC/A ratio. In the case of accommodative esotropia, echothiophate (brand name: Phospholine Iodide) stimulates the ciliary muscle, thus reducing the central demand for accommodation which, in turn, reduces the excessive convergence of the eyes. All physicians who prescribe this medication should inform the parents of the possibility of prolonged paralysis with any depolarizing general anesthetic like succinylcholine. Another side effect of this medication is iris cyst formation. These cysts can be prevented by co-administration of 2.5% phenylephrine. Comments: The treatment for accomodative esotropia is full cycloplegic refraction glasses, period. Although the amount of hyperopia is low you cannot rule out at least partially accomodative esotropia. Dilating drops would be appropriate to encourage glasses wear although your option with cyclomydril is not ideal. It would have been better to phrase it as i dont want my child in bifocals Your answer choice makes it look as though you can treat accomodative I may be mistaken, but I think Phospholine Iodide (Echothiophate) actually potentiates accomodation with its parasympathetic action; it does not suppress accomodation. By potentiating accomodation, it relaxes the associated and exagerated convergence in high AC/A cases. Yup. From the explanation, it sounds like it EXOGENOUSLY stimulates accommodation so that there is LESS CENTRAL accommodation - hence reducing the AC/A input from the brain. By exogenously stimulating accommodation peripherally, the convergence associated with accommodation is never stimulated, so to speak.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 37,
+  "question": "A 2-year-old child presents to your office 1 year after bilateral medial rectus recession surgery for congenital esotropia. On alternate cover testing, you notice that the occluded eye moves slowly up and outward, and upon uncovering, there is no corresponding downward movement of the opposite eye. Which of the following best describes this patient's clinical condition?",
+  "options": {
+   "A": "dissociated vertical deviation, which disobeys Hering's law",
+   "B": "dissociated vertical deviation, which disobeys Sherrington's law",
+   "C": "skew deviation, which disobeys Hering's law",
+   "D": "skew deviation, which disobeys Sherrington's law"
+  },
+  "markedAnswer": "A",
+  "explanation": "This patient demonstrates the classic findings of dissociated vertical deviation (DVD) which is present in more than half of congenital esotropia patients. DVD usually occurs after 2 years of age and can occur regardless of whether the original horizontal deviation was surgically corrected. DVD is not a true hypertropia since it violates Hering's law. In the case of DVD, there is no corresponding downward movement of the opposite eye as the hypertropic eye moves downward to refixate.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 38,
+  "question": "A 55-year-old patient presents to your clinic with a right hypertropia. You decide to perform the 3-step test to isolate which muscle is paretic. The right hypertropia is worse on left gaze and left head tilt. Which of the following extraocular muscles is paretic according to this test?",
+  "options": {
+   "A": "left superior oblique",
+   "B": "right superior oblique",
+   "C": "left superior rectus",
+   "D": "right superior rectus"
+  },
+  "markedAnswer": "C",
+  "explanation": "Whenever the 3-step test is mentioned on an exam, it is very easy for the examinee to fall into the trap of assuming a 4th nerve palsy (i.e. weak superior oblique) is the culprit. However, one should always try to work through the steps of the Parks- Bielschowsky 3-step test in order to answer the question correctly. (1) A right hypertropia implies that the right inferior rectus or right superior oblique or left inferior oblique or left superior rectus is the paretic muscle. (2) Worsening of the hypertropia on left gaze isolates either the right superior oblique or left superior rectus muscles as the involved muscle. (3) Tilting of the head to the *left* induces extorsion in the right eye and intorsion in the left eye. All superior muscles (both oblique and recti) are IN-torters; thus stimulation of left eye intorsion by left head tilt implicates the left superior rectus as the paretic muscle.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 39,
+  "question": "A 5-year-old child is brought to your office because of a \"droopy right eyelid\" as shown in the external photograph above. The patient's mother states that this abnormality has been present since birth. There are no other ocular abnormalities on your exam. Which of the following is the most common cause of amblyopia in children with this condition?",
+  "options": {
+   "A": "anisometropic amblyopia",
+   "B": "strabismic amblyopia",
+   "C": "occlusion amblyopia",
+   "D": "secondary amblyopia"
+  },
+  "markedAnswer": "A",
+  "explanation": "Vision loss from congenital ptosis is usually due to *anisometropic* amblyopia and not occlusion amblyopia unless the ptosis is markedly severe. Even in severe cases of congenital ptosis, many children will assume a compensatory chin-up position to bypass the ptotic eyelid. The astigmatism often persists even after the ptosis is repaired. Therefore, appropriate spectacle correction and occlusion therapy must be maintained after any ptosis surgery.",
+  "imageUrl": "/images/pedia-hy-oq/p31_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 40,
+  "question": "A patient with a V-pattern esotropia presents to your office for surgical management. On examination, you do not find any over-elevation in adduction of either eye. Which of the following represents the most appropriate surgical plan for this patient?",
+  "options": {
+   "A": "bilateral medial rectus recessions, no vertical displacement of the insertions",
+   "B": "bilateral medial rectus recessions, superior displacement of the insertions",
+   "C": "bilateral medial rectus recessions, inferior displacement of the insertions",
+   "D": "bilateral medial rectus recessions with bilateral inferior oblique weakening"
+  },
+  "markedAnswer": "C",
+  "explanation": "The management of \"V\" pattern deviations depend on the presence of concomitant inferior or superior oblique dysfunction. For example, if a significant inferior oblique overaction exists in a V-pattern esotropia, then an inferior oblique weakening procedure is indicated during medial rectus recession. In the absence of oblique dysfunction, the \"V\" pattern can be corrected by displacing the involved muscles vertically. The medial recti are always displaced toward the \"apex\" of the pattern (e.g. downward in a \"V\" pattern and upward in a \"A\" pattern) while the lateral recti are displaced toward the \"open/empty\" part of the pattern (e.g. upward in a \"V\" pattern and downward in a \"A\" pattern). This can be remembered by the mnemonic \"MALE\" (Medial to Apex; Lateral to Empty). The vertical displacement does not change whether the muscles are being recessed or resected. In this case of a V-pattern esotropia without oblique dysfunction, either bilateral medial rectus recessions (displaced inferiorly) or lateral rectus resections (displaced superiorly) would correct this pattern. The rules for correcting A-patterns is somewhat different and is discussed in a separate question explanation. Comments: \"MALE\" can be applied to recess/resect procedure and bimedial or bilateral recessions/resections. For pattern deviations where there is no overdepression in adduction or overelevation in adduction (signifying no oblique involvement), the management is vertical transposition of the horizontal rectus muscles with whichever recession or resection or recess/resect procedure indicated for the horizontal deviation. (BCSC Peds Chapter on Pattern Strabismus, subsection on Management General Principles, p113-115 in 2017-2018 edition)",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 41,
+  "question": "A 67-year-old patient presents to your office 1 year after suffering a pupil-involving cranial nerve III palsy of the right eye. He subsequently underwent clipping of a posterior communicating artery aneurysm, but this failed to resolve his ocular motility disturbances. On examination, he has a significant right hypotropia and severe weakness in elevation and adduction with less weakness in depression. Which of the following is the primary goal of strabmismus surgery in this situation?",
+  "options": {
+   "A": "restoration of all ductions",
+   "B": "binocular function in primary position and slight upgaze",
+   "C": "restoration of lost rotational forces on the globe",
+   "D": "binocular function in primary position and in slight downgaze for reading"
+  },
+  "markedAnswer": "D",
+  "explanation": "Ocular misalignments due to cranial nerve III palsy represent some of the most difficult surgical management dilemmas encountered in the strabismologist's office. Restoration of all ocular movements or rotational forces cannot be achieved via surgery in this situation. Therefore, the goal is to regain single binocular vision on primary position as well as in the reading position (i.e. slight downgaze).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 42,
+  "question": "You have been managing a 5-year-old child with juvenile idiopathic arthritis with steroid and cycloplegic eyedrops. The patient complains of irritation of the right eye. On examination, you note severe allergic dermatitis around the right eye. Which of the following drops is most consistent with this patient's presentation?",
+  "options": {
+   "A": "prednisolone 1%",
+   "B": "atropine 1%",
+   "C": "FML 0.1%",
+   "D": "scopolamine 0.25%"
+  },
+  "markedAnswer": "B",
+  "explanation": "Of the cycloplegic eyedrops, allergic/hypersensitivity reactions are most common with atropine. Scopolamine can be associated with hypnotic effects. The systemic side effects of atropine include fever, dry mouth, flushing, tachycardia, urinary retention, delirium, nausea, and dizziness. Physostigmine is the antidote for atropine intoxication. Comments: So physostigmine is the antidote for atropine intox AND the opposite (Atropine for Mestinon when used for MG test)? Yes. Atropine = anticholinergic, physostigmine (Mestinon) = cholinergic.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 43,
+  "question": "A 6-month-old child is referred to you for congenital esotropia. Your exam confirms this diagnosis. Which of the following characteristics is commonly seen with congenital esotropia?",
+  "options": {
+   "A": "Latent Nystagmus",
+   "B": "High refractive error (> +4.00Dsph OU)",
+   "C": "A-pattern",
+   "D": "Small angle (<15 prism diopters)"
+  },
+  "markedAnswer": "A",
+  "explanation": "Common features of congenital esotropia include: onset before 6 months of age cross-fixation dissociated vertical deviation (DVD) latent nystagmus (Answer A) The angle of deviation is large (typically 35-50 prism diopters or greater), with similar angles measured at distance and near. Refractive error is typically low (<2.00D sph). Inferior oblique overaction is a common associated finding which, when present, results in a V-pattern.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 44,
+  "question": "A 7-month old child is brought into your office with a 2 month history of his \"eyes constantly turning inwards.\" The mother of this child says that she had \"crossed eyes\" also as a baby. The visual acuity is CSM in the right eye and UC, US, UM in the left eye. The child's cycloplegic refraction is +4.00 sph OU. Which of the following represents the generally-accepted order of management for this child?",
+  "options": {
+   "A": "1) Patch OD; 2) Medial Rectus Recessions; 3) Spectacles",
+   "B": "1) Spectacles; 2) Medial Rectus Recessions; 3) Patch OD",
+   "C": "1) Patch OD and Spectacles; 2) Medial Rectus Recessions",
+   "D": "1) Patch OS and Spectacles; 2) Medial Rectus Recessions"
+  },
+  "markedAnswer": "C",
+  "explanation": "The correct order of treatment in congenital esotropia is to treat any significant refractive errors with spectacles and treat amblyopia (if present) before undertaking muscle surgery. In this case, the child shows significant hyperopia and signs of amblyopia in the left eye. Therefore, spectacles should be prescribed and the good (right ) eye should be patched. Only after the visual acuity is equalized in both eyes should muscle surgery be performed. If significant refractive errors or amblyopia are not corrected first, the surgical result likely will not be stable. The \"CSM method\" is often used to describe the visual acuity in preverbal or nonverbal children. \"C\" refers to the location of the corneal light reflex as the child fixates on the examiner's muscle light under monocular conditions. The eye is given a label of \"C\" if the light reflex is near the center of the cornea. If the light reflex is not centered, then a designation of \"UC\" (\"uncentral\") is given. \"S\" refers to the \"steadiness\" of fixation as the muscle light is held motionless and also as it is slowly moved around. It is performed under monocular conditions. The eye is given a label of \"S\" if it displays steady fixation. Otherwise, it is given the designation of \"US\" (\"unsteady\"). \"M\" refers to the patient's ability to \"maintain\" fixation of a target first with one eye, and then with the fellow eye as the first eye is uncovered. Obviously, this is done under binocular conditions. A designation of \"UM\" (\"unmaintained\") is given if one of the eyes cannot maintain fixation of the target.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 45,
+  "question": "You are called to examine a 10-year-old boy in the emergency room after a history of facial trauma to the right side of his face. On his motility examination, there is deficiency of depression of his right eye, but no restriction on forced duction testing. No muscle entrapment is seen on CT of the orbits. Which of the following represents the best course of management in this situation?",
+  "options": {
+   "A": "immediate surgical exploration",
+   "B": "observation",
+   "C": "intravenous corticosteroids",
+   "D": "inferior rectus resection"
+  },
+  "markedAnswer": "B",
+  "explanation": "This patient displays signs of inferior rectus weakness, but without signs of entrapment or restriction. Observation for 6 months is generally recommended in this scenario. If the weakness does not resolve completely, then strabismus surgery (e.g. inferior rectus resection or ipsilateral superior rectus recession) can be contemplated. Comments: If the patient is well aligned in primary position, waiting is recommended. If a large right hypertropia is present, there are a variety of types of injury in which the inferior rectus could be injured; some would warrant early (not immediate) require correction (assuming no entrapment, bradycardia, etc).. Such injuries as partial or total inferior rectus transection, partial laceration of the muscle at or behind the insertion, nerve injury and/or contusion to the nerve and \"flap tear\" or partial avulsion of the inferior rectus (shearing injury) could be present. Muscle contusion with edema could be present, but should resolve with time. Some would warranted earlier intervention, others would require waiting. A statement about the presence or absence of a large hypertropia in primary gaze is warranted. Also, forced ductions in an injured ten year old are unreliable in most cases. could this not be a 4th nerve palsy? why is the diagnosis inferior rectus weakness? I like your thinking, but wouldn't he answer be the same? I was thinking along the same lines of SO pathology, ? tendon rupture or something.. but i guess they would have to comment on some ocular findings (subconj heme, chemosis etc) or CT findings assuming there's a slice thru the area of tendon/muscle rupture.. No, I could just be a traumatic 4th without affecting the SO muscle directly. Easily injured nerve given length.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 46,
+  "question": "You are about to perform strabismus surgery on a child with a family history of malignant hyperthermia. Which of the following represents the earliest sign of this potentially life-threatening complication?",
+  "options": {
+   "A": "rise in temperature",
+   "B": "myoglobinuria",
+   "C": "muscle rigidity",
+   "D": "elevation of end-tidal carbon dioxide concentration"
+  },
+  "markedAnswer": "D",
+  "explanation": "The earliest sign of malignant hyperthermia is unexplained elevation of end-tidal carbon dioxide concentration. Another very early sign is tachycardia. Other early (but later) signs include muscle rigidity, diaphoresis, rapid respiration rate, skin discoloration, and dark urine. Late signs include elevation in temperature, acid-base disorders, renal failure, and heart failure. Comments: I think the actually earliest sign is tachycardia, then followed shortly by elevated CO2. Well so on review, some sources mention both as early, and one I read described tachycardia as earliest but elevated CO2 as most reliably earliest.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 47,
+  "question": "What is the most appropriate counseling you should give the parents in this situation?",
+  "options": {
+   "A": "Your child will likely not have to wear glasses after this muscle surgery.",
+   "B": "The objective of this surgery is to produce straight eyes with glasses on.",
+   "C": "The objective of this surgery is to produce straight eyes with glasses off.",
+   "D": "Your child will likely still have to wear bifocals after this muscle surgery."
+  },
+  "markedAnswer": "B",
+  "explanation": "This child has residual (albeit less) esotropia after full correction of his hyperopia. This situation describes \"partially accommodative esotropia.\" In this situation, surgery can be undertaken to correct the residual ET. However, parents must be warned that the goal of surgery is NOT to get the child out of glasses. Actually, these children will still need glasses to maintain orthotropia. Choice \"D\" is incorrect since this child's accommodative ET component was of the refractive type; thus, there is no need for a bifocal segment. Comments: Correcting for the full ET sans glasses will lead to XT when the child gets older and needs his hyperopic correction.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 48,
+  "question": "A parent brings in her 8-month old child who appears to have congenital esotropia. The angle of deviation appears the same for both eyes. Which of the following visual states is likely TRUE for this child?",
+  "options": {
+   "A": "amblyopia in the right eye",
+   "B": "amblyopia in the left eye",
+   "C": "amblyopia in both eyes",
+   "D": "amblyopia in neither eye"
+  },
+  "markedAnswer": "D",
+  "explanation": "Typically in infants with congenital esotropia, amblyopia only occurs if one of the eyes crosses inward. Otherwise, alternate fixation occurs which leads to equal visual acuity between the two eyes. Cross-fixation also can occur in which the adducting eye is used to visualize the contralateral temporal visual field. In these cases, one may incorrectly believe there is an abduction deficit. Abduction can be elicited by doll-head's manuevers or patching of one eye while the other eye is tested for ductions.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 49,
+  "question": "A 72-year-old patient with a history of hypertension and diabetes undergoes a transposition surgery for an exotropia caused by cranial nerve III palsy. Which of the following is the earliest sign of the complication that can occur when operating on more than 2 rectus muscles?",
+  "options": {
+   "A": "corneal epithelial edema",
+   "B": "Descemet's folds",
+   "C": "anterior chamber cell and flare",
+   "D": "pupil irregularity"
+  },
+  "markedAnswer": "C",
+  "explanation": "Anterior segment ischemia is more likely to occur when simultaneous surgery on 3 or more rectus muscles occurs. This happens since the majority of the blood supply to the anterior segment derives from the anterior ciliary arteries, which travel in the 4 rectus muscles. All of the answer choices listed are signs of anterior segment ischemia, but the presence of cell and flare in the anterior chamber is the earliest sign.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 50,
+  "question": "A 2-year-old child is brought to your office by her very concerned father. He states that his daughter's eyes have been \"crossing inward more and more\" for the past 3 months. You perform your examination and measure about 20 prism diopters of esotropia at both distance and near as well as +4.00 sphere OU on cycloplegic retinoscopy. Which of the following represents the most appropriate management strategy.",
+  "options": {
+   "A": "Prescribe +4.50 sphere OU; in case the child develops more hyperopia in the next few months",
+   "B": "Prescribe +4.00 sphere OU; because she is currently that refractive state",
+   "C": "Prescribe +3.50 sphere OU; because her eyes need to have some residual stimulus for accommodation",
+   "D": "Prescribe executive bifocal spectacles with +4.00 sphere OU for distance and"
+  },
+  "markedAnswer": "B",
+  "explanation": "This child demonstrates the classic presentation of refractive accommodative esotropia: (1) age of onset between 6 months and 7 years (average: 2.5 years); (2) starts as intermittent esotropia and eventually worsens to constant esotropia; (3) angle of deviation ~20-30 prism diopters; (4) average hyperopia +4.00 diopters; and (5) equal deviation at distance and near fixation. For refractive accommodative esotropia, the appropriate management is to prescribe the full cycloplegic refraction as well as to treat any amblyopia. Choice \"D\" would be appropriate for non-refractive accommodative esotropia (i.e. high AC/A ratio).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 51,
+  "question": "Botulinum toxin type A (i.e. BoTox) paralyzes muscles by blocking the release of what neurotransmitter at the neuromuscular junction?",
+  "options": {
+   "A": "norepinephrine",
+   "B": "acetylcholine",
+   "C": "dopamine",
+   "D": "serotonin"
+  },
+  "markedAnswer": "B",
+  "explanation": "BoTox usually lasts 3 or more months when injected into the orbicularis (e.g. for blepharospasm or hemifacial spasm) and 5-8 weeks when injected into an extraocular muscle.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 52,
+  "question": "An 11-year-old boy is brought into your office with the complaints of \"headaches while reading.\" You measure no deviation with fixation at distance, but find a 15-prism diopter exophoria with fixation at near. You measure the near point of convergence to be 18 cm. The cycloplegic refraction is +0.25 sphere OU. All of the following are appropriate treatment modalities for this patient's condition EXCEPT:",
+  "options": {
+   "A": "stereograms",
+   "B": "pencil push-ups",
+   "C": "prescription of additional plus power beyond refractive error correction",
+   "D": "base-out prism therapy"
+  },
+  "markedAnswer": "C",
+  "explanation": "The clinical scenario is typical of a patient suffering from convergence insufficiency. In this condition, the patient's near point of convergence is remote (>10 cm) and there is an exophoria (not exotropia) at near fixation. Note also that there is no deviation with fixation at distance. So this is convergence insufficiency, not convergence insufficient type of intermittent exotropia or convergence weakness exotropia. The difference is that convergence insufficiency (CI) has no deviation at distance, while convergence weakness exotropia has exotropia at distance and near but greater deviation at near. Treatment of convergence insufficiency is to stimulate more convergence and improve the near point of convergence. Hence, this involves orthoptic exercises such as \"pencil pushups\" or stereograms or other near-point exercises. Base-out prisms can be used to stimulate fusional convergence during reading. If these exercises fail, base-in prism reading glasses may be used. Surgical treatment, usually medial rectus muscle resections, may be indicated in patients whose problems persist despite medical therapy. The base-out and base-in prism options noted in the BCSC may be confusing. The base- out prism is used to stimulate fusional convergence, think of this as a orthoptic exercise. The eyes need to converge to overcome the images separated by the base-out prism. The base-in prism is used to treat the symptom of asthenopia. Here, one is simply letting the eyes have a remote point of convergence and giving the patient an aid (base-in prism) to bring the images together. So if the base-out prism/orthoptic exercises fail and the patient cannot be trained to converge, then use base-in prism to help with the symptoms. Lastly, the prescription of additional plus power would not be appropriate because one converges to accommodate, so if you give additional plus power, you are taking away the patient's convergence with accommodation, further worsening the problem. Remember, accommodation stimulates fusional convergence, so prescribing more plus power will stimulate fusional divergence (think about the classic accommodative esotropia case with high AC/A ratio, you give plus Rx with bifocals to treat the esotropia).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 53,
+  "question": "A mother brings in her 5-year-old child who, she says, has never smiled at her since birth. On examination, there is absent abduction and some mild limitation to adduction in both eyes. This presentation is most consistent with which of the following diagnosis?",
+  "options": {
+   "A": "Duane's syndrome, type 3",
+   "B": "congenital fibrosis syndrome",
+   "C": "Mobius syndrome",
+   "D": "congenital cranial nerve VI palsy"
+  },
+  "markedAnswer": "C",
+  "explanation": "Mobius syndrome is a very rare disorder defined by cranial nerve VI and VII palsies. The facial nerve palsy results in a characteristic \"masked facies\". In addition, individuals with Mobius syndrome may have limb abnormalities (e.g. clubbed feet), chest-wall defects, and a deformed tongue among other abnormalities. They can also have impaired adduction, as in this case, which is somewhat improved on convergence.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 54,
+  "question": "A 34-year-old patient presents to your office with new-onset double vision on rightward gaze. Your examination is significant for depression of the left eye on rightward gaze. Forced ductions are positive when attempting to elevate the left eye during rightward gaze. There is less restriction to elevation of the left eye on leftward gaze. The patient states that he has been \"under the weather.\" Which of the following is the next course of management?",
+  "options": {
+   "A": "local steroid injection",
+   "B": "botulinum toxin injection into the superior rectus",
+   "C": "superior oblique spacer",
+   "D": "CT of the orbits and paranasal sinuses"
+  },
+  "markedAnswer": "D",
+  "explanation": "This clinical presentation is most consistent with Brown syndrome whereby there is a restriction to elevation on adduction of the involved eye. Brown syndrome can be caused by a variety of problems with the tendon-trochlea complex including sinusitis as in this case. CT of the orbits and sinuses is indicated to rule-in/out this possibility especially for an acute presentation of Brown syndrome. Also remember that, in contrast to inferior oblique paralysis which has an \"A\" pattern, Brown syndrome is associated with a \"V\" pattern (MNEMONIC: \"Victor Brown\").",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 55,
+  "question": "You diagnose a patient with monocular elevation deficiency of the left eye. The patient has a significant left hypotropia with a chin-up position. There is no restriction noted on forced duction testing. You decide to undertake strabismus surgery to alleviate this patient's symptoms. Which of the following procedures is most appropriate for this patient's condition?",
+  "options": {
+   "A": "Harada-Ito procedure",
+   "B": "superior oblique spacer",
+   "C": "Knapp procedure",
+   "D": "inferior rectus recession"
+  },
+  "markedAnswer": "C",
+  "explanation": "The indications for surgical treatment of monocular elevation deficiency include a large hypotropia on primary gaze and a chin-up head position. There are two main causes of monocular elevation deficiency: (1) Tight inferior rectus; and (2) Weak elevators of the eye (i.e. superior rectus / inferior oblique). This is why this condition used to be called double-elevator palsy. In strabismus surgery, one of the concepts is to release the restriction if there is a restriction. So we need to determine if the patient's monocular elevation deficiency is due to a tight inferior rectus or if it is due to weakly-innervated elevators. Thus, to differentiate the etiology, one would perform forced ductions. If there is restriction on forced ductions, then an inferior rectus recession is appropriate. In the absence of restriction, one would transpose the medial and lateral recti to the superior rectus. This is called the Knapp procedure. We recommend a transposition procedure here and not a resection because the elevators are weak from dysinnervation. Thus, a resection of the superior rectus probably would not work as well. This same concept is employed for surgery for complete CN VI palsy. In the Hummelsheim-type procedure, portions of the vertical recti are transposed to the lateral rectus to aid in abduction. Comments: Harada-Ito splits the superior oblique, transposing the anterior 1/3 temporally to correct excyclotorsion. A superior oblique spacer lengthens the superior oblique and can be used to weaken it in cases of inferior oblique paresis (i.e. when the superior oblique is overacting). Inferior rectus recession is used to weaken the inferior rectus, e.g. to balance a vertical tropia. I should add that IR recession would be used if there were significant restriction on forced duction testing.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 56,
+  "question": "A 33-year-old man presents after head trauma with complaints of double vision. You document the ocular deviations in your chart as shown above. Which of the following is the most likely diagnosis for this patient?",
+  "options": {
+   "A": "left inferior rectus palsy",
+   "B": "right superior rectus palsy",
+   "C": "left superior oblique palsy",
+   "D": "right inferior oblique palsy"
+  },
+  "markedAnswer": "D",
+  "explanation": "As noted in the chart documentation, this patient demonstrates a left hypertropia that increases in left gaze and left head tilt. The 3-step test localizes this to paralysis of the right inferior oblique. Here is a brief breakdown of the logic: (1) Left hypertropia: either left superior oblique, left inferior rectus, right superior rectus, or right inferior oblique is weak. (2) Worse on left gaze: narrows it down to either right inferior oblique or left inferior rectus. (3) Worse on left head tilt: isolates to right inferior oblique.",
+  "imageUrl": "/images/pedia-hy-oq/p42_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 57,
+  "question": "Which of the following represents the most appropriate initial management for this patient's condition?",
+  "options": {
+   "A": "bilateral inferior oblique recessions",
+   "B": "bilateral inferior rectus recessions",
+   "C": "bilateral splitting and displacement of superior oblique fibers",
+   "D": "management with prism only"
+  },
+  "markedAnswer": "C",
+  "explanation": "This patient's clinical presentation is most consistent with bilateral CN IV palsy. He is experiencing significant torsional diplopia, and as a result he is unable to fuse with prism. The torsion must be addressed surgically. Due to the relatively large amount of excyclotorsion, a Harada-Ito procedure is indicated bilaterally. The Harada-Ito procedure involves splitting the superior oblique tendon and displacing the anterior fibers anteriorly and laterally to enhance incyclotorsion. This type of situation (i.e. significant torsional diplopia) is relatively rare for patients with bilateral CN IV palsies. It is more common for these patients to present with hypertropia and inferior oblique overaction without significant torsional diplopia. In this situation, inferior oblique recessions/weakening is typically the preferred approach. This procedure typically has minimal impact on torsion however, and is not very effective for people who complain of significant torsional diplopia. Inferior oblique recession will sometimes reduce excyclotorsion by a few degrees, but generally does not have a major impact. Comments: Harada-Ito....SPL-ITO (split) the SO muscle.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 58,
+  "question": "A 56-year-old patient suffers head trauma and consequently develops a right cranial nerve VI palsy. After 6 months, the patient still has total paralysis of the right lateral rectus muscle. Which of the following is most appropriate for this patient at this time?",
+  "options": {
+   "A": "vertical muscle transposition surgery",
+   "B": "botulinum toxin injection to the antagonist right medial rectus",
+   "C": "large recession of the ipsilateral medial rectus with resection of the lateral rectus",
+   "D": "large lateral rectus resection only"
+  },
+  "markedAnswer": "A",
+  "explanation": "It is advised to wait a minimum of 6 months after cranial nerve VI palsy to see if any spontaneous resolution occurs. If the patient regains some lateral rectus function, then a large recession of the ipsilateral medial rectus along with lateral rectus resection is a good first operation. However in this case, there is still total paralysis and thus a vertical muscle transposition operation is indicated. Examples of vertical transposition procedures include: Hummelsheim procedure -- this is split-tendon technique whereby the lateral halves of the superior and inferior recti are cut from their insertions and re- inserted adjacent to the lateral rectus insertion. The lateral rectus is not split. Jensen procedure -- this is another split-tendon technique whereby the superior, inferior, and lateral recti are all split one-half tendon width. This split is made ~14 mm posterior to the insertion (i.e. the muscles are not cut from their insertion unlike the Hummelsheim procedure). Then a suture (e.g. 5-0 Mersiline) is placed between the adjacent muscle halves and tied relatively loosely. Foster procedure - this is a full-tendon technique whereby the entire tendon of the superior and inferior recti are cut from their insertions and then re- inserted next to the lateral rectus insertion. Posterior fixation sutures are also placed approximately 8-10 mm posterior which enhances the abducting forces of the transposed vertical recti. Since many patients with CN VI palsy are vasculopathic, one must be careful about operating on too many extraocular muscles simultaneously which could lead to anterior segment ischemia.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 59,
+  "question": "A 10-year old patient presents with a history of acquired 4th nerve palsy. Which of the following tests can be used to quantify this patient's cyclodeviation?",
+  "options": {
+   "A": "Maddox rod test",
+   "B": "double Maddox rod test",
+   "C": "red glass test",
+   "D": "Parks-Bielchowsky 3-step test"
+  },
+  "markedAnswer": "B",
+  "explanation": "The Parks-3-step test is a standard schema to help diagnose (not *quantify*) 4th nerve palsies. The Maddox rod (single Maddox rod) is used to quantify either horizontal or vertical deviations (not cyclodeviations). When performing the Maddox rod test, the red Maddox rod is placed in front of one eye, the patient is asked to look at a penlight held at distance and report what he/she sees. If the Maddox rod is oriented horizontally, the patient should see a vertical red line and a white dot from the penlight. If the dot is on the red line, then there is no horizontal deviation. If the dot is to the left or right of the line, then there is a horizontal deviation. For example, if we place this Maddox rod on the right eye and the patient sees the white light to the left of the red line, then there is an esotropia; and if the white dot is to the right of the red line, then there is an exotropia. The double Maddox rod is used to detect cyclodeviations. Here, the Maddox rod lens are placed in a trial frame and the patient wears the trial frame and fixates on a penlight held at distance. The Maddox rod lens are oriented in the trial frame vertically so that the patient sees two horizontal lines. The Maddox rod lens are rotated in the trial frame until the two horizontal lines are seen as parallel by the patient. Then the examiner looks at the angle of rotation and notes the degree of excyclotorsion or incyclotorsion. (And if you want a more detailed explanation of why this works, then perhaps you should go into pediatric ophthalmology ;) A patient with congenital superior oblique palsy does not appreciate significant cyclotorsion and may not indicate any on the double Maddox rod, so cyclotorsion is better evaluated with fundus torsion in those patients. The red glass test can be used similar to the single Maddox rod test to determine strabismus. With the red lens placed over the right eye, the patient is asked to look at a penlight at a distance or at near. If the patient sees two lights, one red and one white, with the red light to the right of the white light, then there is esotropia (uncrossed diplopia); and if the patient sees the red light to the left of the white light, then there is exotropia (crossed diplopia). In addition, the red glass test is used to determine if there is sensory adaptation to motor misalignment. For a patient with measured strabismus, the red glass test is again performed to see if there is suppression. For example, the patient has a measured deviation of ET 25, and you place the red glass over the right eye, in a *normal* patient, the ET 25 should generate a response of 2 lights the red one to the right of the white one (see explanation immediately above). Now if the patient reports seeing only 1 light (red or white), you know that there is suppression (and depending on what color, which eye is the preferred eye). Now getting even more complicated, the red glasses test can be further used to examine NRC versus ARC (normal versus anomalous retinal correspondence). Example, for this patient with measured strabismus of ET 25 with suppression (so patient reported seeing only 1 light with the red glass test above), and you know the patient has suppression. So to get the patient out of the suppression scotoma, you place a *vertical* prism in front of the eye without the red glass (here, the red glass is in front of the right eye, and so the 5 or 10 PD placed over left eye base UP). This will move the suppressed eye out of the suppression scotoma by inducing a vertical deviation. With NRC, the patient will report that the white light is now below and to the side of the red light, meaning that the ET is being \"brought out\" to the \"appropriate\" location. Now if the patient reports that the white light is now only below the red light but does not report any horizontal movement, then the patient has ARC as the horizontal deviation has been adapted by a sensory change of anomalous retinal correspondence. Furthermore, ARC is broken down into harmonious and unharmonious. Now what if the patient has the same ET 25, and you put the red glass over the right eye and the patient report seeing a *pink* light? There is a transposition of the \"red\" and \"white\" light, so there is ARC but no suppression (remember, the suppression patient only sees 1 light). Because the response is \"pink\" = complete overlap of \"red\" and \"white\" lights, we call this harmonious ARC. Unharmonious ARC is when the patient reports seeing two lights but the response is not what one would expect for a *normal* patient. But didn't we just say that a *normal* patient with ET 25 should be reporting seeing 2 lights with the red glass test? Yes, so the key here is the degree of separation and whether the diplopia is crossed. If the patient reports crossed diplopia here (red light to the left of white light), or if the separation between the red and white lights is smaller or bigger than 25 PD, then that is unharmonious ARC. *Please note that the above explanation may not precisely reflect that in the BCSC as it is written independently. But if one goes through the logic, one should be able to arrive at the same responses using the example here and that in the BCSC.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 60,
+  "question": "Using your knowledge of TAO and his alignment, which of the following would be the most appropriate plan for surgical correction of this patient’s strabismus?",
+  "options": {
+   "A": "Right lateral rectus resection",
+   "B": "Bilateral lateral rectus resection",
+   "C": "Left medial rectus recession",
+   "D": "Right medial rectus recession"
+  },
+  "markedAnswer": "D",
+  "explanation": "This patient’s coronal section CT shows classic findings of TAO including widespread moderately enlarged recti muscles forming the muscle cone surrounding the optic nerve. This patient also has severe enlargement of the right medial rectus muscle and an alignment pattern consistent with severe restriction of the right medial rectus muscle. Extraocular muscle (EOM) enlargement and fibrosis in TAO classically causes a restrictive (not paretic) strabismus. In other words, a severely involved EOM in TAO will cause the globe to be pulled in the direction of that muscle (tethering effect) and the resultant restriction will be worse when the patient tries to look away from the restricted muscle. The antagonist muscle (in this case the right lateral rectus muscle) will appear weak due to the restriction of the involved muscle. When correcting TAO, the surgical plan should NEVER involve resecting the antagonist to a restricted muscle. Making this mistake will lead to a failure to correct the strabismus and may actually worsen the patient’s motility. The only two answer choices that remain in this question after following the \"no resection rule\" are C and D. To maximize the effect of a recession for restrictive esotropia, one should choose the most restricted muscle (in this case the right medial rectus). Finally just a few high yield tips for TAO questions on standardized tests. Patients can have TAO with any type of thyroid function (hyperthyroid, hypothyroid, or euthyroid). TAO patients should undergo orbital decompression before strabismus surgery before eyelid surgery. TAO patients should not be considered for strabismus surgery until they are out of the active phase of the disease and their alignment measurements are stable. There is no consensus for exactly how long measurements must be stable before considering strabismus surgery but 6-9 months of stability is a good general rule. For standardized testing purposes, never perform a resection for TAO strabismus. In case you have forgotten how to read a strabismus alignment grid, please see the teaching diagram below. For those who may not be familiar, ET stands for esotropia, E for esophoria (patient fusing strabismus), and E(T) means intermittent esotropia (or intermittent fusion and intermittent manifest strabismus).",
+  "imageUrl": "/images/pedia-hy-oq/p47_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 61,
+  "question": "A 26-year old woman presents with significant proptosis, upper eyelid retraction, and diplopia from Graves disease. Which of the following represents the correct order of surgical interventions (if needed) by thyroid eye disease patients?",
+  "options": {
+   "A": "orbital decompression, lid surgery, strabismus surgery",
+   "B": "lid surgery, strabismus surgery, orbital decompression",
+   "C": "orbital decompression, strabismus surgery, lid surgery",
+   "D": "strabismus surgery, lid surgery, orbital decompression"
+  },
+  "markedAnswer": "C",
+  "explanation": "Ocular motility may change significantly after orbital decompression surgery. Therefore, strabismus surgery should only be undertaken *after* orbital decompression surgery (if decompression will be needed). Likewise, upper eyelid retraction may improve or resolve completely after strabismus surgery. Therefore, lid surgery should be postponed until after any significant strabismus is managed.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 62,
+  "question": "A 35-year-old man presents after head trauma with new-onset diplopia. On examination, you note a left hypertropia that is worse on right gaze and left head tilt. You measure the hypertropia on primary gaze as 10 prism diopters. There is not a significant torsional component on double maddox rod testing. Which of the following represents the most appropriate initial surgery for this patient's condition?",
+  "options": {
+   "A": "left inferior oblique weakening",
+   "B": "right superior oblique tendon tuck",
+   "C": "left inferior rectus recession",
+   "D": "right inferior rectus resection"
+  },
+  "markedAnswer": "A",
+  "explanation": "This patient's clinical presentation is most consistent with a left CN IV palsy. The indications for surgical correction are: diplopia, persistent head tilt, asthenopia, and/or a significant vertical deviation. The surgical management depends on the amount of hypertropia on primary position. If the vertical deviation is 15 prism diopters or less, then ipsilateral inferior oblique weakening is the procedure of choice. If the deviation is more than 15 prism diopters, then recession of the contralateral inferior rectus + ipsilateral inferior oblique weakening is the usual procedure of choice. An alternative for larger hyperdeviations is tucking of the superior oblique tendon if significant tendon laxity is found. Lastly, ipsilateral superior rectus recession is often performed at the same time in both scenarios if forced duction testing shows limited depression on the side of the hypertropia. Comments: IO recession has the benefit of being able to titrate the weakening based on degree of inferior oblique overaction. For 1+ or 2+ overaction, the inferior oblique muscle is recessed 10 mm for 3+ overaction, 12 mm; and 4+ overaction, 14 mm, which is the maximum recession. The muscle is recessed 10 mm by placing the anterior suture 6 mm posterior to the lateral border of the inferior rectus muscle insertion and 4 mm temporal to the lateral border of the inferior rectus. IO recession is a type of IO weakening, other types of weakening include IO myectomy, IO anterior transposition.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 63,
+  "question": "Which of the following pictures shows the correct glasses that should be prescribed for this child?",
+  "options": {
+   "A": "A",
+   "B": "B",
+   "C": "C",
+   "D": "D"
+  },
+  "markedAnswer": "B",
+  "explanation": "This child has an esotropia which is greater at near than at distance. He also has a moderate amount of hyperopia in both eyes. This situation is typical of non-refractive accommodative esotropia where there exists a high AC/A (\"accommodative convergence to accommodation\") ratio. In addition, the esotropia at near persists despite the child wearing the full cycloplegic refraction. The usual treatment for this condition is the prescription of bifocal glasses, where the bifocal segment is either a +2.50 or +3.00 add. In addition, the bifocal segment should be of the \"executive\" type where the line bisects the pupil. Lastly, the vertical height of the bifocal segment should not exceed that of the distance segment. Comments: Many practitioners don't really measure the AC/A ratio ever using tests, but use a rule of thumb that if near is more than 10-15 diopters more than distance, the esotropia is high AC/A.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 64,
+  "question": "A 25-year old man presents with the complaints of \"sleepy eyes.\" He also states that it is difficult for him to keep track of objects passing by him while he drives. He started having these symptoms when he was 16-years old, but they have gotten slowly worse over the years. On exam, you shake hands with him without noticing any abnormalities. His fundus exam shows a \"lightly-speckled\" pigmentary retinopathy OU. Which of the following ancillary tests should this patient undergo?",
+  "options": {
+   "A": "Tensilon test",
+   "B": "single-fiber electromyography (EMG)",
+   "C": "electroretinography (ERG)",
+   "D": "electrocardiogram (EKG)"
+  },
+  "markedAnswer": "D",
+  "explanation": "This patient demonstrates the classic clinical findings of chronic progressive external ophthalmoplegia (CPEO), retinal pigmentary changes, and ptosis. Syndromes that present with CPEO symptoms include Kearns-Sayre syndrome, oculopharyngeal dystrophy, and myotonic dystrophy. CPEO by itself does not have pigmentary retinopathy. I t has progressive ptosis and ophthalmoplegia. It is a mitochondrial disorder and has a mtDNA point deletion. By the 2nd decade of life, symptoms are evident. The systemic symptoms are generalized muscle weakness and muscle biopsy shows \"ragged red fibers\". In Kearns-Sayre syndrome, patient has CPEO, as well as pigmentary retinopathy. K-S syndrome is also an inherited mitochondrial disease. Cardiac evaluation is essential to rule out heart block as cardiomyopathy and cardiac conduction abnormalities are associated with this condition. Myotonic dystrophy produces symptoms similar to CPEO. In myotonic dystrophy, symptoms are worsened by cold, excitement, and fatigue. It is characteristic for the patient to be unable to let go of his or her grasp when shaking hands or turning a door knob. Myopathic facies (\"hatchet face\"- wasting of the temporalis and master muscle), frontal balding, and ptosis are often observed. Ocular findings include pigmentary retinopathy, \"Christmas tree\" cataracts (polychromatic lenticular deposits), ptosis, miotic and sluggish pupils, and ophthalmoparesis. EMG provides diagnosis by showing typical myotonic discharges. In oculopharyngeal dystrophy, the presentation is later in life, around 5th to 6th decade of life. It is an autosomal dominant inherited disease. Presentation is progressive dysphagia followed by muscle weakness, ptosis, and CPEO symptoms. This disease is seen in patients of French-Canadian ancestry.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 65,
+  "question": "A 6-month old baby presents to your office and the parents state that his eyes have been “crossed” since he was 3-months old. On examination, a large angle esotropia of 50 prism diopters is measured. The patient’s refraction is found to be +1.00 sphere OU. The patient uses both eyes equally (i.e. no apparent amblyopia). What is the next best step in management?",
+  "options": {
+   "A": "Surgery to correct the large angle esotropia",
+   "B": "Observation until 2 years of age; since this condition may spontaneously improve by age 2.",
+   "C": "Alternate patching of both eyes",
+   "D": "A prescription for the +1.00 with a prism ground into the glasses to correct for"
+  },
+  "markedAnswer": "A",
+  "explanation": "Most pediatric ophthalmologist agree that surgery to correct the large angle esotropia should be done early; as early as 4 to 6 months of age in a healthy baby. Early surgery maximizes binocular function (stereopsis). Patients who present between the ages of 2-6 months with large angle esotropias are unlikely to improve spontaneously. Prism glasses and alternate patching are not the best treatment option for treatment of infantile esotropia. The treatment is surgery to align the eyes as close to orthotropia as possible. This will allow the development of some degree of sensory fusion.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 66,
+  "question": "A 45-year-old high myope with a history of scleral buckling surgery in the right eye presents to your office with complaints of double vision since the retinal detachment repair 2 years ago. You note significant restriction of the right medial rectus and wish to perform recession of this muscle. Which of the following would be the most appropriate management for this patient?",
+  "options": {
+   "A": "medial rectus recession via \"hang back\" technique",
+   "B": "medial rectus recession after removal of the scleral buckle",
+   "C": "medial rectus recession with superior displacement away from the scleral buckle",
+   "D": "medial rectus recession with permanent attachment to the scleral buckle"
+  },
+  "markedAnswer": "A",
+  "explanation": "Strabismus surgery in the presence of a scleral buckle presents a unique and sometimes challenging situation. In these cases, a \"hang back\" recession technique can be used whereby the muscle is suspended to the stump of the original insertion with a nonabsorbable suture. This technique is also useful for patients with thin sclera (e.g. high myopes) where a posterior suture pass risks perforation.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 67,
+  "question": "A 33-year old Caucasian woman presents with a history of ataxia, incontinence, and \"weird eye movements.\" On examination, you note slow adduction of the right eye. Which of the following is true regarding this woman's eye condition?",
+  "options": {
+   "A": "the lesion responsible is located on the left side of her brain",
+   "B": "the right eye will fail to adduct on convergence",
+   "C": "esotropia usually occurs due to eventual medial rectus fibrosis",
+   "D": "the abducting eye exhibits a horizontal nystagmus"
+  },
+  "markedAnswer": "D",
+  "explanation": "This woman has internuclear ophthalmoplegia (INO) as part of her multiple sclerosis. In this condition, the responsible lesion is *ipsilateral* to the poorly-adducting eye. INO is caused by a lesion of the medial longitudinal fasiculus. There will be normal adduction of the involved eye on convergence.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 68,
+  "question": "You have just finished performing bilateral medial rectus recessions for a 2-year-old child with congenital esotropia. In the post-operative recovery room, the child appears to be nauseous. Which of the following antiemetic medications is contraindicated for this child?",
+  "options": {
+   "A": "ondansetron",
+   "B": "promethazine",
+   "C": "metoclopramide",
+   "D": "diphenhydramine"
+  },
+  "markedAnswer": "B",
+  "explanation": "Though the topic of using antiemetics in children is somewhat controversial, most experts would NOT use promethazine (brand name: Phenergan) in children 2 years or younger (and with extreme caution in older children). Promethazine can result in severe respiratory depression and even death in this vulnerable population. This serious side effect caused the FDA in 2004 to issue a \"boxed warning\" contraindicating the medication for children less than 2 years old.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 69,
+  "question": "A 42-year-old woman presents with binocular double vision for the past few weeks. Her external photograph is shown above. Which of the following extraocular muscles most likely would be affected in this patient's condition?",
+  "options": {
+   "A": "superior rectus",
+   "B": "inferior rectus",
+   "C": "lateral rectus",
+   "D": "medial rectus"
+  },
+  "markedAnswer": "B",
+  "explanation": "This patient has thyroid eye disease until proven otherwise. The hallmark clinical feature of thyroid eye disease is upper eyelid retraction as seen in this photograph. Thyroid eye disease is the most common cause of binocular diplopia in adults. The extraocular muscles affected, in decreasing order of frequency and severity are: inferior rectus, medial rectus, superior rectus, and lateral rectus. Comments: A helpful mnemonic to remember order of muscles affected: \"I am slow\" = IM SLow, which corresponds to Inferior Medial Superior Lateral.",
+  "imageUrl": "/images/pedia-hy-oq/p54_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 70,
+  "question": "In general, for an incomitant horizontal strabismus caused by a weak muscle with mild residual function, which of the following procedures would most strabismus surgeons choose as an initial procedure?",
+  "options": {
+   "A": "resection (strengthening) of the weak muscle alone",
+   "B": "transposition to the adjacent vertical muscles",
+   "C": "weakening of the direct antagonist muscle",
+   "D": "corresponding weakening procedure on the contralateral eye"
+  },
+  "markedAnswer": "C",
+  "explanation": "In the case of horizontal paralytic incomitant strabismus, one would first grade the amount of weakness of the muscle. If there is a complete paralysis, then one can do a transposition as the first procedure. However, if there is some residual function, most surgeons would use a combination of resection of the weak muscle and recession of the antagonist muscle. In this question, given that the weak muscle has mild residual function, and one can only choose one procedure, strengthening the weak muscle alone will not work as well as weakening the antagonist muscle. A resection will not increase the function of the paralyzed muscle, but will cause restriction (almost like a tether) of the resected muscle; while one can balance the weak muscle and still maintain motility by weakening its antagonist muscle.",
+  "imageUrl": "/images/pedia-hy-oq/p54_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ }
+]

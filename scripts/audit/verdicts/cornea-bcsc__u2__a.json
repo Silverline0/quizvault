@@ -1,0 +1,205 @@
+[
+ {
+  "id": 72,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 73,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 74,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 75,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 76,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 77,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 78,
+  "verdict": "needs-image",
+  "proposedAnswer": null,
+  "reason": "Terrien marginal degeneration is by definition a peripheral/marginal corneal disease diagnosed by peripheral stromal thinning, vascularization, and lipid deposition near the limbus. The provided image (p88_img1.png) is a blurry slit-beam optical section centered on the pupil and iris that does not capture the peripheral cornea/limbus, so the figure does not show the findings needed to visually confirm the diagnosis stated in the explanation.",
+  "confidence": "medium"
+ },
+ {
+  "id": 79,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 80,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 81,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 82,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 83,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 84,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 85,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 86,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 87,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 88,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 89,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 90,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 91,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 92,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 93,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 94,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 95,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 96,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 97,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "medium"
+ },
+ {
+  "id": 98,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 99,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 100,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ }
+]

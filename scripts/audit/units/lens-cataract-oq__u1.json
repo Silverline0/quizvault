@@ -1,0 +1,1052 @@
+[
+ {
+  "id": 1,
+  "question": "Where are the lens epithelial cells mitotically most active?",
+  "options": {
+   "A": "anterior capsule",
+   "B": "anterior pre-equatorial capsule",
+   "C": "posterior pre-equatorial capsule",
+   "D": "posterior capsule"
+  },
+  "markedAnswer": "B",
+  "explanation": "The anterior pre-equatorial region is where the germinative zone of maximal epithelial cell mitotic activity occurs.  The new epithelial cells formed in the germinative zone then migrate posteriorly through the equatorial zone and into the post pre-equatorial zone known as the \"bow region\".  The epithelial cells then start to elongate and lose their internal cellular organelles.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 2,
+  "question": "What are the average thicknesses of the anterior and equatorial lens capsule respectively?",
+  "options": {
+   "A": "Anterior capsule -- 14 microns; equatorial capsule -- 17 microns",
+   "B": "Anterior capsule -- 14 microns; equatorial capsule -- 23 microns",
+   "C": "Anterior capsule -- 17 microns; equatorial capsule -- 14 microns",
+   "D": "Anterior capsule -- 23 microns; equatorial capsule -- 17 microns"
+  },
+  "markedAnswer": "A",
+  "explanation": "anterior capsule -- 14 microns anterior pre-equatorial capsule -- 21 microns equatorial capsule -- 17 microns posterior pre-equatorial capsule -- 23 microns posterior capsule -- 2-4 microns The development of the lens is such that there are no viable cells adjacent to the posterior capsule but there are viable cells adjacent to the anterior capsule.  These viable 2 cells continue to lay down basement membrane (lens capsule) throughout life.  Therefore, the posterior lens capsule does not thicken with age while the anterior lens capsule does. Other fun facts: The lens capsule is composed of type IV collagen. The outer layer of the lens capsule is called the zonular lamella and is the point of attachment of the zonular fibers.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 3,
+  "question": "Where is the lens capsule thinnest?",
+  "options": {
+   "A": "anterior capsule",
+   "B": "anterior pre-equatorial capsule",
+   "C": "posterior pre-equatorial capsule",
+   "D": "posterior capsule"
+  },
+  "markedAnswer": "D",
+  "explanation": "The capsule is thinnest posteriorly (2-4 microns) and thickest in the pre-equatorial regions.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 4,
+  "question": "Which of the lens crystallins has the highest molecular weight?",
+  "options": {
+   "A": "alpha",
+   "B": "betagamma",
+   "C": "gamma",
+   "D": "epsilon"
+  },
+  "markedAnswer": "A",
+  "explanation": "The alpha crystallins have the highest molecular weight. The betagamma crystallins represent the majority of crystallins by overall weight (55%). The gamma crystallins account for the minority of crystallins by weight.",
+  "imageUrl": "/images/lens-cataract-oq/p2_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 5,
+  "question": "What is the average dioptric power of the lens?",
+  "options": {
+   "A": "10 to",
+   "B": "15 to",
+   "C": "25 to 30",
+   "D": "30 to"
+  },
+  "markedAnswer": "B",
+  "explanation": "The cornea provides another 43.25 diopters of refractive power (on average). As a surgeon selecting a lens for implantation, you should pick a lens that is around 20 diopters. If the lens calculations give an abnormal value (30 diopters), it is vital to double check that the information was not entered in error. Most commonly this is due to an abnormal axial length measurement. But other sources of error such as erroneous corneal power are also common.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 6,
+  "question": "What is the average anteroposterior depth of the lens at birth and in an adult?",
+  "options": {
+   "A": "1 mm and 8 mm",
+   "B": "3.5 mm and 5 mm",
+   "C": "2 mm and 6 mm",
+   "D": "2 mm and 7 mm"
+  },
+  "markedAnswer": "B",
+  "explanation": "Per 2011 BCSC Fundamentals, the anteroposterior width is 3 mm at birth and increases to 6 mm in an 80 year old. Per 2011 BCSC Lens and Cataract, the anteroposterior width is 3.5 mm at birth and increases to 5 mm in an \"adult\". Therefore, answer choice B is most correct. Many surgeons in the U.S. use a 2.4 to 2.7 mm incision. 2.4 to 2.7 mm is the size of the phaco probe + sleeve for coaxial phaco. The actual metal part of the phaco tip is 1.6 mm wide. The average depth of a cataract is 5 mm or larger. So, you can deduce that you are going to need to create a groove about 2-3 widths of the phaco tip to be deep enough to crack the nucleus. If you are only one phaco tip deep, you are not deep enough.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 7,
+  "question": "What is the predominant collagen of the lens capsule?",
+  "options": {
+   "A": "Type I",
+   "B": "Type II",
+   "C": "Type III",
+   "D": "Type IV"
+  },
+  "markedAnswer": "D",
+  "explanation": "The lens capsule is the basement membrane of the lens epithelial cells. All basement membranes are made of type IV collagen. Descemet's is the basement membrane of the endothelium and is thus type IV collagen as well. The sclera is predominantly made up of type I collagen and the proteoglycans, decorin, biglycan, and aggrecan. Type III collagen is associated with stromal wound healing.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 8,
+  "question": "From what germ layer is the lens derived?",
+  "options": {
+   "A": "mesoderm",
+   "B": "endoderm",
+   "C": "ectoderm",
+   "D": "neuroectoderm"
+  },
+  "markedAnswer": "C",
+  "explanation": "The optic vesicle induces the overlying ectoderm to form the lens placode. The lens placode invaginates to form first the lens pit and then the lens vesicle. The lens vesicle is a sphere with a central lumen. The periphery of the vesicle is composed of epithelial cells (anterior and posterior). The posterior epithelial cells elongate to obliterate the central lumen. The elongated cells are called primary lens fibers and make up the embryonic nucleus. They then lose their nuclei and organelles. The anterior epithelial cells remain mitotically active and migrate posteriorly to the bow region. Here, they lose their organelles and expand anteriorly and posteriorly and interdigitate with cells from the other side. These interdigitations make the Y sutures.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 9,
+  "question": "All of the following are remnants of the fetal vasculature EXCEPT:",
+  "options": {
+   "A": "Bergmeister's papillae",
+   "B": "pupillary strands",
+   "C": "Y sutures",
+   "D": "Mittendorf dots"
+  },
+  "markedAnswer": "C",
+  "explanation": "The hyaloid artery connects the optic disc to the fetal lens. As the hyaloid artery approaches the lens it branches to form the tunica vasculosa lentis. These capillaries connect to the anterior lens capillaries called anterior pupillary membrane. Remnants of the anterior pupillary membrane make iris strands. Remnants of the tunica vasculosa lentis make Mittendorf dots (which are generally inferonasal to the visual axis). Remnants of the hyaloid artery make Bergmeister's papillae. The Y sutures are secondary to lens fiber interdigitations.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 10,
+  "question": "What is the pattern of the Y sutures in the lens?",
+  "options": {
+   "A": "anterior and posterior upright Y suture",
+   "B": "anterior upright Y suture and posterior inverted Y suture",
+   "C": "anterior inverted Y suture and posterior upright Y suture",
+   "D": "anterior and posterior inverted Y suture"
+  },
+  "markedAnswer": "B",
+  "explanation": "An erect \"Y\" suture appears anteriorly while an inverted \"Y\" suture appears posteriorly.  A great memory tool contributed by one of our uses is \"Posterior for Peace\" (i.e. an inverted \"Y\" looks like a Peace sign --> posterior lens).  These Y-sutures appear at ~8 weeks of gestation. The optic vesicle induces the overlying ectoderm to form the lens placode.  The lens placode invaginates to form first the lens pit and then the lens vesicle.  The lens vesicle is a sphere with a central lumen. The periphery of the vesicle is composed of epithelial cells (anterior and posterior). The posterior epithelial cells elongate to obliterate the central lumen. The elongated cells are called primary lens fibers and make up the embryonic nucleus.  They then lose their nuclei and organelles.  The anterior epithelial cells remain mitotically active and migrate posteriorly to the bow region.  Here, they lose their organelles and expand anteriorly and posteriorly and interdigitate with cells from the other side.  These interdigitations make the Y sutures.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 11,
+  "question": "A very tall 4-year-old mentally-handicapped patient presents to your office for an exam. The child has fair skin and blonde hair. On exam, you note bilateral ectopia lentis with the lenses dislocated inferonasally. The dislocated lenses are giving the patient a high degree of astigmatism and you decide to operate. Which of the following non-ocular events should you be most worried about during the operation?",
+  "options": {
+   "A": "pulmonary embolism",
+   "B": "renal failure",
+   "C": "malignant hyperthermia",
+   "D": "liver failure"
+  },
+  "markedAnswer": "A",
+  "explanation": "7 Explanation: This patient has homocystinuria which is an autosomal recessive disease which is characterized by ectopia lentis with the lenses dislocated inferonasally. These patients are typically tall with light hair and are usually mentally-handicapped. Because of their mental deficiency, these patients frequently have to be operated on under general anesthesia. General anesthesia carries an increased risk of thromboembolic events in patients with homocystinuria.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 12,
+  "question": "What is the inheritance pattern of Marfan's syndrome?",
+  "options": {
+   "A": "autosomal dominant",
+   "B": "autosomal recessive",
+   "C": "X-linked dominant",
+   "D": "X-linked recessive"
+  },
+  "markedAnswer": "A",
+  "explanation": "About 85% of patients with Marfan's syndrome inherit the disease in an autosomal dominant fashion. About 15% inherit it sporadically. Patients with Marfan's syndrome get superotemporal ectopia of the lens. The mechanism of lens mobility in Marfan's syndrome is secondary to abnormal fibrillin. Fibrillin is a component of the lens zonules and the disease makes them brittle and prone to breaking. 50-80% of patients with Marfan's syndrome develop ectopia lentis. Another classic condition associated with ectopia lentis is homocystinuria. Patients with homocystinuria are tall and 50% have intellectual disability. They have inferonasal dislocation of their lenses. They are prone to thromboembolic events with general anesthesia. This is very relevant because the co-occurrence of intellectual disability and cataracts often necessitates general anesthesia for removal. Dietary restrictions with low methionine and high cysteine has been attempted, and coenzyme supplements (pyridoxine or vitamin B6) decrease systemic problems in about 50% of cases.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 13,
+  "question": "Where is the lens generally displaced in patients with ectopia lentis from Marfan syndrome?",
+  "options": {
+   "A": "superotemporally",
+   "B": "superonasally",
+   "C": "inferonasally",
+   "D": "inferotemporally"
+  },
+  "markedAnswer": "A",
+  "explanation": "The majority of patients with Marfan syndrome (50-80%) will develop ectopia lentis in their lifetime. Patients with Marfan syndrome experience superotemporal dislocation of their lens. The mechanism of lens instability in Marfan syndrome is secondary to abnormal fibrillin. Fibrillin is a component of the lens zonules and mutation in the responsible gene makes the zonules brittle and prone to breaking. Approximately 50-80% of patients with Marfan's syndrome develop ectopia lentis. Another condition classically associated with ectopia lentis is homocystinuria. Patients with homocystinuria are tall and 50% have an intellectual disability. They demonstrate inferonasal dislocation of their lenses. They are prone to thromboembolic events with general anesthesia. This is very relevant because the co-occurrence of intellectual disability and cataracts often necessitates general anesthesia for removal. Dietary restrictions with low methionine and high cysteine have been attempted; and coenzyme supplements (pyridoxine or vitamin B6) decrease systemic problems in about 50% of cases. Memory tool suggested by Brett Shapiro, M.D. : Marfan's syndrome -- imagine a tall marfinoid basketball player reaching out and dunking --> superotemporal subluxation Homocystinuria -- \"uria\" --> goes down toward the bladder --> inferonasal subluxation.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 14,
+  "question": "A 4-year-old child presents with a slit-shaped iris displaced inferotemporally and an ectopic lens displaced superonasally in both eyes. He is not abnormally tall and he does not have any defects in amino acid metabolism. What is the most likely inheritance pattern for this condition?",
+  "options": {
+   "A": "autosomal dominant",
+   "B": "autosomal recessive",
+   "C": "X-linked dominant",
+   "D": "X-linked recessive"
+  },
+  "markedAnswer": "B",
+  "explanation": "9 Explanation: This patient has ectopia lentis et pupillae. The buzzword description is \"an iris that has a slit-like configuration that is displaced in the opposite direction as the subluxed lens.\" It is inherited in an autosomal recessive fashion. Marfan patients experience superotemporal ectopia of the lens. The mechanism of lens mobility in Marfan's is secondary to abnormal fibrillin which makes the lens zonules prone to breaking. Fifty-80% of patients with Marfan Syndrome develop ectopia lentis. Another classic condition associated with ectopia lentis is homocystinuria. Patients with homocystinuria are tall and 50% have an intellectual disability. They have inferonasal dislocation of their lenses. They are prone to thromoembolic events with general anesthesia. This is very relevant because the co-occurence of intellectual disability and cataracts often necessitates general anesthesia for removal. Dietary restrictions with low methionine and high cystine have been attempted, and coenzyme supplements (pyridoxine or vitamin B6) decrease systemic problems in about 50% of cases.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 15,
+  "question": "A 6-year-old male patient is brought to clinic for exam. You note that the child is short for his age, has stubby fingers, and is unable to bend his wrists completely. He has an intraocular pressure of 52 in each eye. Which of the following would be the best treatment?",
+  "options": {
+   "A": "pilocarpine",
+   "B": "brimonidine",
+   "C": "prostaglandin analog",
+   "D": "cyclopentolate"
+  },
+  "markedAnswer": "D",
+  "explanation": "This patient has Weill-Marchesani syndrome with associated microspherophakia which is causing a pupillary block angle closure glaucoma. These patients are best treated with a cycloplegic because cycloplegics tend to pull the lens-iris diaphragm posteriorly, decrease the anteroposterior lens diameter, and relieve pupillary block. These patients may also need laser peripheral iridotomies to prevent these angle closure attacks.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 16,
+  "question": "What is the most common type of congenital cataract?",
+  "options": {
+   "A": "polar",
+   "B": "nuclear",
+   "C": "lamellar",
+   "D": "sutural"
+  },
+  "markedAnswer": "C",
+  "explanation": "According to the BCSC Lens and Cataract book, \"of the congenital and infantile cataracts, lamellar, or zonular, cataracts are the most common type.\" Lamellar cataracts are opacifications of specific zones within the lens.  On exam, these cataracts appear as an opacified layer that surrounds a clearer center and is itself surrounded by a layer of clear cortex.  In addition, arcuate opacities (called \"riders\") may straddle the equator of these cataracts.  Lamellar cataracts are typically bilateral and symmetrical.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 17,
+  "question": "You are called to the nursery to examine a baby.  The baby is one month old and has a dense unilateral cataract.  The mom wants to preserve any possible vision at all costs.  What is the generally-accepted age by which this cataract should be removed?",
+  "options": {
+   "A": "2 weeks old",
+   "B": "4 weeks old",
+   "C": "6 weeks old",
+   "D": "8 weeks old"
+  },
+  "markedAnswer": "C",
+  "explanation": "Visually significant unilateral cataracts are much worse for inducing amblyopia because the input to the other eye is normal.  Surgery on these cataracts should take place before age 6 weeks (this is consistent with both the BCSC Lens and Peds books). Infants with bilateral cataracts should also have surgery as soon as possible to prevent amblyopia.  However, since the deprivation is approximately equal between the two eyes, there is somewhat less urgency to remove bilateral congenital cataracts.  The BCSC states that visually-significant bilateral cataracts should be removed before age 10 weeks. 11 Once one cataract is removed, the second cataract should be removed as soon as possible. Less than 2 weeks apart for children less than 2 years old and less than one month apart for children older than 2 years is the recommended timing for the second cataract surgery.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 18,
+  "question": "You are called to the nursery to examine a baby. The baby is one month old and has dense bilateral cataracts. The mom wants to preserve any possible vision at all costs. You tell her that we should operate to remove the cataracts by what age so that the baby does not develop sensory deprivation nystagmus?",
+  "options": {
+   "A": "2-4 weeks",
+   "B": "6-10 weeks",
+   "C": "4-6 months",
+   "D": "6-8 months"
+  },
+  "markedAnswer": "B",
+  "explanation": "Infants with bilateral cataracts should have surgery as soon as possible to prevent amblyopia. Sensory deprivation nystagmus develops if vision is not restored within 6-12 weeks of birth. This is significant because the nystagmus further reduces vision and these eyes generally have 20/200 or worse vision. Once one cataract is done, the second cataract should be done as soon as possible. Less than 2 weeks for children less than 2 years and less than a month for children older than 2 years is recommended. Unilateral cataracts are much worse for inducing amblyopia because the input to the other eye is normal. Surgery on these cataracts should take place within 6 weeks of birth while the typically quoted time frame for bilateral cataracts is 10 weeks according to the 2014-15 Peds BCSC.",
+  "imageUrl": "/images/lens-cataract-oq/p11_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 19,
+  "question": "What percentage of congenital cataracts are associated with a systemic disease or syndrome?",
+  "options": {
+   "A": "10.00%",
+   "B": "25.00%",
+   "C": "33.00%",
+   "D": "75.00%"
+  },
+  "markedAnswer": "C",
+  "explanation": "12 Explanation: Congenital cataracts follow the rule of 1/3: about 1/3 are associated with a systemic disease or illness, about 1/3 are inherited with minimal effects on vision, and about 1/3 are due to undetermined causes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 20,
+  "question": "An infant undergoes surgery for cataracts that are assumed to be caused by his congenital rubella syndrome (CRS).  A few days after uncomplicated surgery in the left eye, the infant develops conjunctival injection and photophobia.  What is the proposed pathophysiology of why this likely occurred?",
+  "options": {
+   "A": "Macrophages engorged with high-molecular-weight lens protein obstructing the trabecular meshwork",
+   "B": "Previous sensitization of the infant to his own lens protein leading to a granulomatous inflammation",
+   "C": "Residual lens cortex particles obstructing the trabecular meshwork due to inadequate cortical cleanup",
+   "D": "Excessive inflammation caused by the release of live virus particles"
+  },
+  "markedAnswer": "D",
+  "explanation": "Congenital rubella syndrome (CRS) describes the myriad congenital defects that a child may develop if (s)he is infected by this RNA virus during gestation.  The risk of maternal-fetal transmission is highest within the first 10 weeks of pregnancy.  Also, the likelihood of congenital defects is low if maternal infection occurs after 18-20 weeks of gestation. The classic defects in CRS are deafness, cataracts, and heart abnormalities (e.g. patent ductus arteriorsus).  However, CRS can also result in many other systemic abnormalities (e.g. hepatosplenomegaly, intellectual disability). Besides cataracts (2nd most common eye defect), other ocular abnormalities associated with CRS include: Pigmentary retinopathy (\"salt and pepper fundus\") (40-60% of cases) -- most common eye finding.  This is not typically visually significant and does not affect the electroretinogram. Glaucoma (2-15%) -- 3rd most common eye defect.  The anterior chamber angle can have a similar appearance to that of congenital glaucoma. Microphthalmos (01-20%) 13 Keratoconus Corneal hydrops/clouding Strabismus The cataracts caused by CRS are described as pearly white nuclear opacifications and the entire lens can be opacified with liquefied cortex.  On histopathology, lens fiber nucei are retained deep within the lens and live virus particles can persist in the lens many years after the child is born.  It is the release of these live virus particles during cataract surgery that can lead to a vigorous inflammatory response after uncomplicated cataract surgery. Another well-known pearl is that cataract and glaucoma do not typically occur simultaneously in CRS. The other answer choices are alluding to the pathophysiology of lens-induced glaucomas. Answer \"A\" is alluding to phacolytic glaucoma; answer \"B\" to phacoantigenic glaucoma; and answer \"C\" to lens particle glaucoma.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 21,
+  "question": "You have just examined a 1-month-old patient born with a unilateral congenital cataract. You note that the mother never received vaccinations as a child.  She experienced a febrile illness with a diffuse rash during her first trimester of pregnancy.  Considering the putative intrauterine insult that caused the child's cataract, which of the following ocular findings would LEAST likely be present in this child?",
+  "options": {
+   "A": "retinopathy",
+   "B": "microphthalmos",
+   "C": "congenital glaucoma",
+   "D": "corneal clouding"
+  },
+  "markedAnswer": "C",
+  "explanation": "The clinical vignette is alluding to the mother experiencing rubella (\"German measles\") during her 1st trimester.  This viral infection has negatively affected her child during pregnancy and has resulted in a unilateral congenital cataract. Rubella viral particles are classically sequestered in the nucleus of the cataract.  During cataract surgery, these viral particles can be released which can cause intense post-operative inflammation. Congenital rubella can present with any of the answer choices.  However, patients with congenital rubella cataracts almost never present with simultaneous 14 congenital rubella glaucoma.  It should also be noted that rubella retinopathy is particularly common with rubella infection occurring in the 2nd trimester.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 22,
+  "question": "What type of cataract is generally seen with congenital rubella cataracts?",
+  "options": {
+   "A": "Pearly white nuclear opacifications",
+   "B": "posterior subcapsular star configurations",
+   "C": "peripheral lancet shaped opacifications",
+   "D": "fluffy undulating peripheral anterior subcapsular opacities"
+  },
+  "markedAnswer": "A",
+  "explanation": "Rubella infection in the first or second trimesters can cause cataract formation in the fetus.  Rubella infection during the first trimester gives abnormalities in the following areas:  ocular (cataracts), auditory (deafness), and systemic (cardiac). An interesting finding is that patients who develop a rubella cataract virtually never develop glaucoma and vice versa. Rubella infection in the second trimester can result in a salt and pepper fundus.  Rubella cataracts are characterized by pearly white nuclear opacifications. Sometimes the entire lens is opacified.  Also characteristic is retention of cell nuclei within the lens fibers.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 23,
+  "question": "You are examining a 16-year-old patient in clinic. His best corrected visual acuities are 20/40 in each eye. On retinoscopic exam, he has a usual red reflex with an oil droplet appearance in both eyes.  The family history is positive for hearing difficulties.  To which type of specialist should you consider referring the patient?",
+  "options": {
+   "A": "cardiologist",
+   "B": "nephrologist",
+   "C": "orthopaedist",
+   "D": "endocrinologist"
+  },
+  "markedAnswer": "B",
+  "explanation": "This patient has the classic presentation of Alport syndrome.  Alport syndrome is caused by a mutation(s) in basement membrane (collagen type IV) synthesis.  It is characterized by glomerulonephritis, eye abnormalities, and hearing loss.  Blood in urine (hematuria) is universal.  The glomerulus of the kidney is heavily reliant upon a functional 15 basement membrane as are the cochlea, retina, and lens capsule (also made of type IV collagen and a good way to remember Alport syndrome). Inheritance patterns: X-linked (85% of all cases): due to mutations in COL4A5 gene. high penetrance of hearing loss in affected males high-tone sensorineural deafness by age 20 (other tones progressively lost later in life) dot and fleck retinopathy occurs in 85% of adult males anterior lenticonus occurs in 25% retinopathy and lenticonus generally are not present until adulthood posterior polymorphous dystrophy is also associated with Alport syndrome autosomal recessive: due to mutations in COL4A3 and COL4A4 genes. autosomal dominant (very rare): also due to mutations in COL4A3 and COL4A4 genes neurosensory hearing loss heriditary hematuric nephritis lenticular changes (anterior lenticonus, spherophakia, cataracts) arcus juvenilis whitish yellow retinal lesions Prior to genetic testing being readily available, any patient with a family history of Alport syndrome and a dot and fleck retinopathy was to be considered \"diagnostic\" for having Alport syndrome.  Patients suspected of having Alport Syndrome are now sent for genetic testing confirmation. The patient in this question stem was described as having an \"oil droplet\" cataract.  Oil droplet refers to the appearance of the lens' red reflex by retinoscopy.  It has the appearance of a small oil drop in the middle of the lens. Posterior lenticonus will also give an oil droplet cataract. Posterior lenticonus is almost always unilateral and is a type of congenital cataract.  The anterior lenticonus seen in Alport Syndrome is generally bilateral and occurs later in life (acquired and not congenital). Galactosemia also produces an oil droplet cataract but it occurs within the first few weeks of life. The nucleus and deep cortex become opacified and cause the oil droplet appearance by red reflex.  Treatment involves elimination of milk from the diet.  Galactosemia is screened for at birth by law and lethal within a few weeks if not treated. Another interesting note is that certain mutations causing Usher Syndrome (congenital sensorineural hearing loss and retinitis pigmentosa) have genes that code for basement membrane as well.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 24,
+  "question": "What type of cataract develops in patients with defects in the enzyme galactose 1-phosphate uridyltransferase?",
+  "options": {
+   "A": "sunflower cataracts",
+   "B": "cortical cataracts",
+   "C": "christmas tree cataracts",
+   "D": "oil droplet cataracts"
+  },
+  "markedAnswer": "D",
+  "explanation": "This is the most common enzyme deficiency causing galactosemia. The majority of these patients (75%) will develop bilateral cataracts within a few weeks of birth. Sunflower cataracts are secondary to intraocular foreign bodies made of copper (chalcosis) and also abnormal copper metabolism (Wilson's disease). Christmas tree cataracts are secondary to myotonic dystrophy.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 25,
+  "question": "An 8-year-old female patient is brought to your clinic for an eye exam. The mom notes that the patient is having difficulty seeing. The mom states that no one else in the family has eye problems. You note bilateral aniridia and cataracts. To which of the following specialists should you refer the patient?",
+  "options": {
+   "A": "cardiologist",
+   "B": "nephrologist",
+   "C": "orthopaedist",
+   "D": "endocrinologist"
+  },
+  "markedAnswer": "B",
+  "explanation": "This patient has sporadically inherited aniridia. 1/3 of cases of aniridia are sporadically inherited. About 2/3 are inherited in an autosomal dominant pattern. The WAGR (Wilms tumor, Aniridia, Gentourinary abnormalities, and Retardation) complex is secondary to a PAX6 mutation and is associated with the sporadically inherited form. Wilms tumor is a kidney tumor that can be imaged with an abdominal ultrasound. A high percentage of aniridic patients develop cataracts. Also, since most aniridic patients have a small residual stump of remaining iris, glaucoma occurs to a high degree in these patients. Other conditions associated with a defect in the PAX6 gene are posterior embryotoxon, Peters anomaly, Axenfeld anomaly, and congenital cataracts.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 26,
+  "question": "Which of the following conditions most commonly presents with a unilateral congenital cataract?",
+  "options": {
+   "A": "Aniridia",
+   "B": "Congenital rubella syndrome",
+   "C": "Persistent fetal vasculature",
+   "D": "Lowe syndrome"
+  },
+  "markedAnswer": "C",
+  "explanation": "Congenital cataracts may be divided into bilateral and unilateral presentations. One will notice that the etiologies underlying bilateral congenital cataracts nearly all localize to the anterior segment, whereas those causing unilateral congenital cataracts typically localize to the posterior segment. Bilateral congenital cataracts may be further sub-divided into five categories: Inherited [typically autosomal dominant] Systemic syndrome [chromosomal, craniofacial, renal, musculoskeletal, and metabolic] Ocular (anterior) syndromes [aniridia, Peter's anomaly] Intrauterine infections [TORCH syndromes] Iatrogenic [steroids, radiation therapy]. Lowe syndrome is classified under the renal syndrome category, but note that it also presents with neurologic signs. In contrast, etiologies causing unilateral congenital cataracts include: Ocular anomalies [persistent fetal vasculature, posterior lenticonus/lentiglobus, posterior segment tumor, retinal detachment] Exogenous [trauma]. These etiologies represent localized processes in contrast to the many syndromes associated with bilateral congenital cataracts.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 27,
+  "question": "Which of the following syndromes is thought to be due to failure of the lens vesicle to properly separate from the surface ectoderm?",
+  "options": {
+   "A": "congenital cataract",
+   "B": "Peters anomaly",
+   "C": "Axenfeld-Rieger syndrome",
+   "D": "posterior keratoconus"
+  },
+  "markedAnswer": "B",
+  "explanation": "Peters anomaly is due to the \"localized absence of corneal endothelium and Descemet's membrane underneath a central corneal opacity.\"  It is generally inherited sporadically.  If inherited bilaterally, a genetic workup should be undertaken.  Per BCSC Cornea, it is bilateral in 80% of patients.  Glaucoma occurs in 50% of cases.  Aniridia, PFV, retinal detachment, and microcornea can also occur along with Peters anomaly. Peters anomaly type 1 is characterized by iridocorneal adhesions in the area of the nonvascularized corneal opacity.  It is associated with mutations in PITX2, FOXC1, CYP1B1, PAX6, and other genes. Peters anomaly type 2 is the occurrence of lens touch to the area of the vascularized corneal opacity. It is due to a failure of the lens vesicle to separate from the surface ectoderm.  It is due to mutations in the gene FOXE3. Peters plus syndrome includes Peters anomaly along with systemic defects.  Systemic defects can include congenital brain defect, heart defects, and craniofacial anomalies (along with others). Peter's anomaly is on the list of causes of cloudy cornea at birth. These can be remembered by the mnemonic STUMPED: Sclerocornea, Trauma (forceps), Ulcer, Mucopolysaccharidoses, Peters, Endothelial (CHED), and Dermoid. 19 Biochemistry &.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 28,
+  "question": "A 57-year-old man presents to your clinic with an intraocular pressure of 31 mmHg in both eyes.",
+  "options": {
+   "A": "With accommodation, the ciliary muscle contracts; zonular tension decreases; and the lens equatorial diameter increases",
+   "B": "With accommodation, the ciliary muscle contracts; zonular tension decreases; and the axial lens thickness increases",
+   "C": "With accommodation, then lens shape becomes more spherical; the axial lens thickness increases; and the zonular tension increases",
+   "D": "With accommodation, then lens shape becomes more spherical; the lens dioptric power increases; and the posterior lens capsule curvature increases significantly"
+  },
+  "markedAnswer": "B",
+  "explanation": "The principle that confuses many people is that contraction of the ciliary muscle works opposite from what you would expect from a muscle.  The ciliary muscle is a ring-shaped muscle whose diameter decreases when it contracts.  Because of this decrease in diameter, there is actually decreased tension on the zonular fibers which allows the lens to become more spherical.  This is counter-intuitive because when you think of a sphincter muscle contracting, you assume that there would be tightening of any structures (e.g. zonules) attached to the muscle.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 29,
+  "question": "What is the primary mechanism by which humans lose their accommodative ability as they age?",
+  "options": {
+   "A": "The zonular fibers become weaker and are no longer able to lengthen and shorten",
+   "B": "There is decreased central nervous system input to the ciliary muscle as one ages",
+   "C": "Hardening of the lens prevents it from becoming more convex as the ciliary muscle contracts",
+   "D": "Greater formation of high-molecular-mass protein aggregates as one ages results in less accommodative ability"
+  },
+  "markedAnswer": "C",
+  "explanation": "Accommodation is the method by which the eye changes focus from distance to near images.  It occurs by the change in lens shape produced by the contraction and relaxation of the ciliary muscle which exerts its forces on the zonular fibers. Hardening of the lens is thought to be the primary cause of loss of accommodation (i.e. presbyopia) since a \"harder\" lens will prevent the increase in convexity that occurs with ciliary muscle contraction. As a reference, the Helmholtz theory of accommodation states that most of the accommodative change in lens shape occurs at the central anterior lens surface.  This preferential change occurs since the central anterior capsule is thinner than the peripheral capsule and since the anterior zonular fibers insert closer to the visual axis compared to the posterior zonular fibers.  Thus, most of the change in curvature occurs at the central anterior capsule.  The posterior lens surface changes minimally while the central posterior capsule does not change at all with accommodation.",
+  "imageUrl": "/images/lens-cataract-oq/p20_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 30,
+  "question": "How does the crystalline lens remove waste from itself?",
+  "options": {
+   "A": "The aqueous humor carries off its waste products",
+   "B": "The iris blood vessels carry off its waste products",
+   "C": "The waste products do not leave the lens",
+   "D": "The anterior vitreous carries off its waste products"
+  },
+  "markedAnswer": "A",
+  "explanation": "The crystalline lens relies entirely on the aqueous humor to carry off its wastes and to meet its metabolic requirements.  The mechanism by which these metabolic waste products leave is via simple diffusion. There is absolutely no blood supply or innervation to the lens after fetal development.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 31,
+  "question": "Where does the greatest level of metabolic and replicative activity occur in the normal human crystalline lens?",
+  "options": {
+   "A": "just anterior to the posterior lens capsule",
+   "B": "in the post-equatorial zone of the lens",
+   "C": "at the lens equator",
+   "D": "in a pre-equatorial zone of the lens"
+  },
+  "markedAnswer": "D",
+  "explanation": "The metabolically active cells of the crystalline lens are found in a single layer of cuboidal epithelial cells just posterior to the anterior lens capsule.  The greatest activity of these epithelial cells occurs in the \"germinative zone\" which is a pre-equatorial zone of the lens (see diagram below). The newly-formed epithelial cells migrate from this germinative zone toward the lens equator where they begin differentiating into lens fibers. These cells complete their differentiation into fibers at the \"bow region\" of the lens which is a post-equatorial zone of the lens. As the cells differentiate into fibers, they lose all of their organelles and also increase their size. Loss of these organelles is optically advantageous since there is less scatter.  However, these lens fibers now rely on glycolysis for energy production.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 32,
+  "question": "The crystalline lens has a higher concentration of which substance in contrast to the aqueous?",
+  "options": {
+   "A": "sodium",
+   "B": "chloride",
+   "C": "potassium",
+   "D": "water"
+  },
+  "markedAnswer": "C",
+  "explanation": "The crystalline lens has a sodium concentration of 20 mM and a potassium concentration of 120 mM.  In contrast, the aqueous and vitreous have a sodium concentration of 150 mM and a potassium concentration of 5 mM.  In other words, the potassium concentration of the crystalline lens is much higher than that of the aqueous and vitreous. This ion gradient is maintained by ATP-powered pumps located within the cell membranes of the lens epithelium and each lens fiber.  These enzymes pump sodium ions out while taking potassium ions inside the lens. Because the lens is dehydrated, it has a 22 lower water balance compared to the aqueous or vitreous.  The lens is approximately 66% water and 33% protein while the aqueous and vitreous are 98% water.  The \"pump leak\" theory basically describes how ions/molecules are transported across the lens.  The main components of this theory are: Potassium and amino acids are actively transported into the anterior lens via pumps located on the anterior lens epithelium.  These substances then follow a concentration gradient passively through the posterior lens and into the vitreous. Sodium follows a concentration gradient passively from the posterior portion of the lens and then is transported actively (in exchange for potassium) across the anterior lens epithelium. The passive diffusion of these substances occurs mostly through low-resistance gap junctions between lens cells.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 33,
+  "question": "Which of the following statements properly describes the flow of ions into and out of the lens?",
+  "options": {
+   "A": "The sodium potassium ATPase on the anterior surface of the lens causes higher intralens sodium and lower intralens potassium",
+   "B": "The sodium potassium ATPase on the anterior surface of the lens causes lower intralens sodium and higher intralens potassium",
+   "C": "The sodium potassium ATPase on the posterior surface of the lens causes higher intralens sodium and lower intralens potassium",
+   "D": "The sodium potassium ATPase on the posterior surface of the lens causes lower intralens sodium and higher intralens potassium"
+  },
+  "markedAnswer": "B",
+  "explanation": "The key to remembering this is that the most metabolically active cells in the lens are the anterior lens epithelial cells. Embryologically, the posterior lens epithelial cells lose all of their organelles, expand, and become the embryonic nucleus. The sodium-potassium-ATPase on the anterior epithelium pumps sodium out of the lens and potassium into the lens.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 34,
+  "question": "Which of the following is the major free radical scavenger in the lens?",
+  "options": {
+   "A": "vitamin C",
+   "B": "vitamin E",
+   "C": "glutathione",
+   "D": "catalase"
+  },
+  "markedAnswer": "C",
+  "explanation": "All have been associated with scavenging of free radicals, but glutathione is the major free radical scavenger.  The majority of glutathione is a byproduct of glucose metabolism through the HMP shunt metabolic pathway in the lens. As one ages, there is an overall depletion of the reduced form of glutathione.  This depletion leads to increased lens protein cross-linking, protein aggregation, and light scattering.  Thus, depletion of the reduced form of glutathione is a major contributor to the development of a visually-significant cataract. (Please note that there are two mechanisms of glucose metabolism in the lens:  anaerobic glycolysis [which is more active] and the HMP shunt)",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 35,
+  "question": "Which of the following molecules is considered most important in maintaining a reducing environment in the cytoplasm of lens fibers?",
+  "options": {
+   "A": "crystallins",
+   "B": "glutathione",
+   "C": "ascorbic acid",
+   "D": "urea"
+  },
+  "markedAnswer": "B",
+  "explanation": "As we age, the proteins in our crystalline lens fibers become progressively more water insoluble.  These insoluble proteins scatter light and thus contribute to the decreased vision associated with cataracts. Another factor that causes light scatter by aging lens fibers is lens protein aggregation and cross-linking.  This aggregation/cross-linking is partly caused by protein-to-protein and protein-to-glutathione disulfide bond formation which, in turn, is accelerated by oxidative damage. Glutathione is the major molecule which promotes a reducing environment in the cytoplasm of lens fibers.  As the reduced form of glutathione gets depleted, more disulfide bonds form which leads to increased protein aggregation/cross-linking.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 36,
+  "question": "All of the following are associated with pathophysiology of cataract formation EXCEPT:",
+  "options": {
+   "A": "increase in the amount of water insoluble proteins",
+   "B": "increased levels of glutathione",
+   "C": "increase in urea insoluble proteins",
+   "D": "increase in crosslinking between proteins"
+  },
+  "markedAnswer": "B",
+  "explanation": "Glutathione is a reducing substance that is generally thought to be protective to cataract formation. The loss of glutathione is associated with cataract formation.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 37,
+  "question": "The lens is composed of lens fibers. The fibers are formed from epithelial cells at the equator. Newer fibers continue to form throughout life and the older lens fibers are pushed to the center of the lens (similar to the growth of a tree). At the equator, new fibers elongate and their nuclei line up in the bow region. During this time lens fibers express a protein on their cell membrane that is associated with this elongation. What is the name of this protein?",
+  "options": {
+   "A": "alpha tropism protein (ATP)",
+   "B": "gamma delphi protein (GDP)",
+   "C": "major intrinsic protein (MIP)",
+   "D": "tan fold protein (TFP)"
+  },
+  "markedAnswer": "C",
+  "explanation": "At the equator, new fibers elongate and their nuclei line up in the bow region. During this time lens fibers express a protein called major intrinsic protein (MIP) which presumably is correlated with the elongation of the cell. Cells elongate and the points where cells from one side touch the cells from the opposite side form sutures. After this, the cells lose their nuclei. The cells formed from birth to age 20 years old form the center of lens and are referred to as the nucleus. The cells on the outside of the lens formed after the age of 20 years old are referred to as cortex.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 38,
+  "question": "Which of the following enzymes protect against free radical or oxidative damage in the lens?",
+  "options": {
+   "A": "vitamin C and E",
+   "B": "lactoperoxidase",
+   "C": "myeloperoxidase",
+   "D": "superoxide dismutase"
+  },
+  "markedAnswer": "D",
+  "explanation": "25 Explanation: There are three main enzymes that protect against oxidative damage in the lens: superoxide dismutase, glutathione peroxidase, and catalase. Superoxide dismutase -- catalyzes the breakdown of superoxide anion (O2-) to produce hydrogen peroxide. Catalase -- catalyzes the breakdown of hydrogen peroxide to water and oxygen. Glutathione peroxidase -- catalyzes the reaction that produces glutathione disulfide (GSSG).  This GSSG then accepts hydrogen ions (in the form of NADPH from the HMP shunt).  In other words, GSSG indirectly acts as a major free radical scavenger in the lens. Other substances that act as free radical scavengers include vitamin E and ascorbic acid.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 39,
+  "question": "Which breakdown pathway of glucose is responsible for diabetic cataracts?",
+  "options": {
+   "A": "sorbitol pathway",
+   "B": "Hexose Monophosphate Shunt (HMP)",
+   "C": "anaerobic glycolysis",
+   "D": "aerobic glycolysis"
+  },
+  "markedAnswer": "A",
+  "explanation": "The sorbitol pathway is generally minimally activated. When there is an excess of glucose the sorbitol pathway is more activated. Sorbitol gets trapped in the lens and creates an osmotic gradient for water to come into the lens. This is the pathophysiology of diabetic cataracts. About 78% of the glucose in the lens goes through anaerobic glycolysis. Aerobic glycolysis is only minimally activated in the lens because of the very low oxygen tension. Even though it is minimally activated (5% of glucose goes through this pathway), the pathway is very efficient at producing ATP, and as a result, accounts for 25% of the lens' ATP. 5% of the glucose in the lens is metabolized through the HMP shunt.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 40,
+  "question": "Which of the following risk factors has the strongest association with cataracts?",
+  "options": {
+   "A": "high cholesterol",
+   "B": "no multivitamin intake",
+   "C": "liver disease",
+   "D": "smoking"
+  },
+  "markedAnswer": "D",
+  "explanation": "Smoking is the strongest modifiable risk factor for the development of cataracts.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 41,
+  "question": "All of the following are risk factors for cataract development EXCEPT:",
+  "options": {
+   "A": "African American race",
+   "B": "smoking",
+   "C": "higher education",
+   "D": "women"
+  },
+  "markedAnswer": "C",
+  "explanation": "Less education has also been associated with the development of cataracts.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 42,
+  "question": "A 25-year-old patient is referred to your clinic for worsening vision in the right eye.  He reports a history of blunt injury to the right eye one decade ago. Which of the following findings would be most likely if the patient had a subluxed lens as a result of his trauma?",
+  "options": {
+   "A": "binocular diplopia",
+   "B": "decreased accommodative reserve",
+   "C": "decreased astigmatism",
+   "D": "choroidal detachment"
+  },
+  "markedAnswer": "B",
+  "explanation": "27 Explanation: A blunt injury to the eye results in rapid expansion of the globe in an equatorial plane after the compression.  This sudden expansion can tear away zonular fibers which could result in subluxation or complete dislocation of the crystalline lens.  Symptoms and signs that lens subluxation has occurred include: Fluctuation of vision Decreased accommodation Monocular diplopia High astigmatism Iridodenesis Phacodenesis Cataract formation Obviously, one could examine the lens after dilation and determine if the lens was subluxated or dislocated and where the zonular fibers have been disrupted.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 43,
+  "question": "What is the principal type of cell that causes elevated intraocular pressure (IOP) in phacolytic glaucoma?",
+  "options": {
+   "A": "giant cells",
+   "B": "red blood cells",
+   "C": "macrophages",
+   "D": "epithelial cells"
+  },
+  "markedAnswer": "C",
+  "explanation": "Phacolytic glaucoma is one of the 4 lens-induced glaucomas.  The other three are phacomorphic glaucoma, lens particle glaucoma, and phacoantigenic glaucoma. Phacolytic glaucoma occurs in the presence of a mature or hypermature cataract.  In these cataracts, there is an increased concentration of high molecular weight lens protein. These lens proteins leak through microscopic openings in the lens capsule, which itself is macroscopically intact.  These lens proteins can become phagocytized by macrophages (aka \"refractile bodies\" due to their appearance on slit-lamp exam).  Both the lens proteins themselves and the engorged macrophages can then clog up the trabecular meshwork leading to very high IOPs. Initial therapy is with anti-glaucoma medications, but typically these patients require cataract extraction as definitive treatment. Lens particle glaucoma generally occurs when macroscopic portions of the lens (mainly cortex) remain unnoticed after cataract surgery.  It can also occur when macroscopic lens fragments are released after trauma to the lens capsule.  These pieces then make their way to the anterior chamber and directly clog the trabecular meshwork. 28 Phacoanaphylactic uveitis (also known as phacoantigenic uveitis) describes the immune-mediated granulomatous inflammation that is elicited by lens proteins released through a ruptured lens capsule.  Typically, trauma is the cause of this ruptured lens capsule. Phacoantigenic uveitis can also occur if cortical material is left in the eye after cataract surgery. This granulomatous uveitis occurs days to weeks after the inciting event.  The key distinction between phacoantigenic uveitis and lens-particle or phacolytic glaucoma is the type of immune response that is elicited (i.e. granulomatous [e.g. keratic precipitates] ). Phacomorphic glaucoma occurs when the lens becomes so large that it pushes the iris forward and closes the angle or causes pupillary block.  Thus, it is a form of chronic angle closure glaucoma that sometimes presents acutely when the angle narrows past a critical point. The key distinguishing feature between phacomorphic and the other lens-induced glaucomas is the closed angle on gonioscopy.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 44,
+  "question": "A 52-year-old female presented with angle closure glaucoma of the left eye last week. Her presenting intraocular pressure was 60 mmHg in this left eye. You did a laser peripheral iridotomy which opened her angles and reduced her intraocular pressure successfully. She presents to your clinic today for a dilated exam. On exam, you note white opacities in the subcapsular anterior lens. What is the term for this finding?",
+  "options": {
+   "A": "Glaukomflecken",
+   "B": "Fuchs spots",
+   "C": "Chandlers spots",
+   "D": "Horrisfield spots"
+  },
+  "markedAnswer": "A",
+  "explanation": "Glaukomflecken literally translates as \"glaucoma flakes or flecks.\"  Extremely high intraocular pressures during angle closure glaucoma are thought to lead to lens epithelial death with these resultant gray-white anterior subcapsular opacities. They can have the appearance of pinpoint opacities measuring 2-3 mm or more in size. Förster-Fuchs spots are dark spots due to RPE hyperplasia that are occasionally found in patients with high myopia.  They presumably develop in response to a small subretinal CNV that does not progress.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 45,
+  "question": "Which of the following is an etiology of zonular insufficiency?",
+  "options": {
+   "A": "High hyperopia",
+   "B": "Young age",
+   "C": "Mild density cataract",
+   "D": "Prior intraocular surgery"
+  },
+  "markedAnswer": "D",
+  "explanation": "Zonular insufficiency is fairly common complicating factor in cataract surgery and may lead to difficulty in several steps of the surgery.  Zonular insufficiency complicates (a) the capsulorhexis by causing a loose anterior capsule that does not tear predictably; (b) hydrodissection by providing poor countertraction against attempts to spin the nucleus; (c) nuclear disassembly as the entire lens-capsular complex may move during phacoemulsification; and (d) cortex removal, as insufficient zonular countertraction may cause the capsule to remain attached to the cortex as it is peeled and thus may be aspirated into the probe. Associated factors include:.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 46,
+  "question": "Which of the following is an etiology of a deep anterior chamber during cataract surgery?",
+  "options": {
+   "A": "Suprachoroidal hemorrhage",
+   "B": "Inadequate infusion",
+   "C": "Vitrectomized eye",
+   "D": "Fluid misdirection"
+  },
+  "markedAnswer": "C",
+  "explanation": "A deep anterior chamber typically occurs in vitrectomized eyes due to the absence of posterior vitreous pressure.  This may lead to an excessive amount of movement of the posterior capsule (described as “floppy”) due to the lack of adequate anterior hyaloid support. High myopia is another etiology of a deep anterior chamber due to 30 the greater overall space within the eye.  This affords more space within which to operate, though it may require the surgeon to position the instruments more vertically, which may pose a challenge, especially if the wounds are inadvertently made too long. Lens-iris diaphragm retropulsion syndrome (LIDRS) is the term ascribed to eyes (typically vitrectomized and/or myopic) that manifest a sudden deepening of the anterior chamber after infusion placement.  LIDRS is essentially a “reverse” pupillary block, whereby the iris is pinned against the anterior capsule, thereby trapping aqueous fluid in the posterior chamber. It is addressed by either lifting the iris or depressing the lens to allow exit of the fluid. Regarding a shallow anterior chamber, it is best to differentiate between low and high intraocular pressure etiologies.  A shallow anterior chamber in the setting of low intraocular pressure may result from a fluid input-output imbalance or from a suprachoroidal effusion.  The former results from inadequate infusion or a wound leak and may be addressed by increasing the infusion and revising or constructing a new wound, respectively.  A suprachoroidal effusion results from low intraocular pressure and mechanically shallows the anterior chamber by pushing the ciliary body-lens-iris apparatus anteriorly. A shallow anterior chamber in the setting of high intraocular pressure may result from external pressure (such as excessive eyelid squeezing or an overly tight or improperly placed eyelid speculum), positive vitreous pressure, ciliary block (i.e. fluid misdirection syndrome), or a suprachoroidal hemorrhage.  Eyelid squeezing may be addressed by calmly asking the patient to relax and take deep breaths, and a tight speculum may be loosened.  Ciliary block can be challenging to address though may require disruption of the anterior hyaloid face.  A suprachoroidal hemorrhage may begin as an effusion though converts to a hemorrhage with tearing of a choroidal vessel (often in patients with systemic vasculopathies or high myopia, where the vessels are already on stretch due to a longer axial length and greater globe volume), leading to a positive choroidal pressure that progressively shallows the anterior chamber.  In this scenario, the surgeon must immediately exit the eye with all instruments and suture the wounds, in order to prevent extrusion of intraocular contents.  The suprachoroidal hemorrhage itself may be addressed at a later date 31 Special Types of.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 47,
+  "question": "A 23-year-old patient presents to your office with the cataract seen in the photo above. This condition is characterized by all of the following EXCEPT:",
+  "options": {
+   "A": "difficulty releasing their grip from a door handle",
+   "B": "cardiac conduction defects",
+   "C": "eyelid retraction",
+   "D": "early balding and infertility in men"
+  },
+  "markedAnswer": "C",
+  "explanation": "The slit-lamp photo demonstrates the typical appearance of a \"Christmas-tree\" cataract, which appears as polychromatic lenticular deposits. These type of cataracts characteristically occur in patients with myotonic dystrophy. Myotonia is a symptom of a small handful of certain neuromuscular disorders characterized by the slow relaxation of the muscles after voluntary contraction or electrical stimulation. Myotonic dystrophy is an autosomal dominant disorder characterized by prolonged muscle contracture which would lead to the inability to release door handles or release one's grip while shaking hands. These patients have cardiac conduction defects and males have early balding and infertility. Patients with myotonic dystrophy type I (MDI) are known to have low intraocular pressures and it is hypothesized to be secondary to ciliary body detachments. Other ocular abnormalities in myotonic dystrophy include ptosis (NOT lid retraction), pigmentary retinopathy, and ophthalmoplegia resembling CPEO (chronic progressive external ophthalmoplegia).",
+  "imageUrl": null,
+  "stemReferencesFigure": true,
+  "figureMissing": true
+ },
+ {
+  "id": 48,
+  "question": "What is the term for when lens proteins leak through an intact lens capsule in a mature cataract and lead to high intraocular pressure?",
+  "options": {
+   "A": "phacolytic glaucoma",
+   "B": "lens particle glaucoma",
+   "C": "phacomorphic glaucoma",
+   "D": "phacoanaphylactic uveitis"
+  },
+  "markedAnswer": "A",
+  "explanation": "32 Explanation: Phacolytic glaucoma occurs when lens proteins leaks through an intact capsule.   The lens proteins are then taken up by macrophages.  The engorged macrophages and the lens protein itself can clog the trabecular meshwork. Lens particle glaucoma generally occurs when macroscopic portions of the lens (mainly cortex) remain unnoticed after cataract surgery.  These pieces then make their way to the anterior chamber and directly clog the trabecular meshwork. Phacoanaphylactic uveitis (also known as phacoantigenic uveitis) describes the immune-mediated granulomatous inflammation that is elicited by lens proteins released through a ruptured lens capsule.  Typically, trauma is the cause of this ruptured lens capsule. Phacoantigenic uveitis can also occur if cortical material is left in the eye after cataract surgery. This granulomatous uveitis occurs days to weeks after the inciting event. Phacomorphic glaucoma occurs when the lens becomes so large that it pushes the iris forward and closes the angle.",
+  "imageUrl": "/images/lens-cataract-oq/p32_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 49,
+  "question": "What term is used when the lens becomes so large that it pushes the iris forward and closes the angle?",
+  "options": {
+   "A": "phacolytic glaucoma",
+   "B": "lens particle glaucoma",
+   "C": "phacomorphic glaucoma",
+   "D": "phacoanaphylactic uveitis"
+  },
+  "markedAnswer": "C",
+  "explanation": "Phacolytic glaucoma occurs when lens material leaks through an intact capsule. The lens material is then taken up by macrophages. Macrophages and lens material then clog the trabecular meshwork. Lens particle glaucoma generally occurs when portions of the lens (mainly cortex) remain unnoticed after cataract surgery. These pieces then make their way to the anterior chamber and directly clog the trabecular meshwork. Phacoanaphylactic uveitis (also known as phacoantigenic uveitis) occurs when the capsular bag is violated which leads to inflammation. Phacomorphic glaucoma occurs when the lens becomes so large that it pushes the iris forward and closes the angle.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 50,
+  "question": "What is the term for when portions of the lens remain unnoticed after cataract surgery and physically block the trabecular meshwork?",
+  "options": {
+   "A": "phacolytic glaucoma",
+   "B": "lens particle glaucoma",
+   "C": "phacomorphic glaucoma",
+   "D": "phacoanaphylactic uveitis"
+  },
+  "markedAnswer": "B",
+  "explanation": "",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 51,
+  "question": "A 52-year-old psychiatric patient presents for exam. He states that he was recently placed on chlorpromazine. He states he was reading the bottle and it mentioned the medication was associated with lens changes. What would you expect to find on exam?",
+  "options": {
+   "A": "cerulean cataracts",
+   "B": "nuclear cataracts",
+   "C": "anterior capsule pigmentation",
+   "D": "anterior cortical cataracts"
+  },
+  "markedAnswer": "C",
+  "explanation": "Chlorpromazine and thioridazine are phenothiazines. These medications are absorbed in the blood stream and then make their way to the aqueous. From the aqueous they absorb into the posterior cornea and anterior lens capsule and result in pigment deposition. In the retina, chlorpromazine rarely causes damage. At doses normally used (<800 mg/day) thioridazine rarely causes retinopathy. But thioridazine can result in severe retinopathy with high doses. Initially there is RPE stippling in the posterior pole. It then progresses to RPE loss in a nummular (coin-shaped) pattern. Immediate cessation of the drug is indicated when retinopathy is detected.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 52,
+  "question": "A professional football player comes to see you complaining of blurry vision OU.  He states that he installed a hyperbaric oxygen system in his bedroom to help his muscles recover more quickly after exercise.  You recommend to him to stop the hyperbaric oxygen for fear that he may develop which of the following complications?",
+  "options": {
+   "A": "cataracts",
+   "B": "hyperopic shift",
+   "C": "optic neuropathy",
+   "D": "ischemic retinopathy"
+  },
+  "markedAnswer": "A",
+  "explanation": "Patients treated with chronic hyperbaric oxygen can develop nuclear sclerotic cataracts.  These lens changes can result in a myopic shift in refraction.  Approximately 50% of patients exposed to hyperbaric oxygen >150 times during a 1-year period will develop these cataracts.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 53,
+  "question": "What type of cataract most often develops in patients with retinitis pigmentosa (RP)?",
+  "options": {
+   "A": "anterior subcapsular",
+   "B": "posterior polar",
+   "C": "cerulean",
+   "D": "posterior subcapsular"
+  },
+  "markedAnswer": "D",
+  "explanation": "Retinitis pigmentosa (RP) is frequently associated with the development of posterior subcapsular cataracts (PSC).  Cystoid macular edema (CME) is another common ocular disorder that occurs in these patients.  You should make sure that CME is treated before undertaking cataract surgery in these patients.  Another lens-related abnormality in RP includes zonular weakness which can lead to later lens subluxation. Other conditions associated with PSC development include:  chronic steroid use, radiation exposure (e.g. brachytherapy), chronic uveitis, neurofibromatosis type 2, and Fuchs heterochromic iridocyclitis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 54,
+  "question": "The condition in this photo is associated with all of the following conditions EXCEPT?",
+  "options": {
+   "A": "topical corticosteroid use",
+   "B": "brachytherapy",
+   "C": "neurofibromatosis type",
+   "D": "Wilson's disease"
+  },
+  "markedAnswer": "D",
+  "explanation": "This is a posterior subcapsular cataract. Wilson's disease is associated with a \"sunflower cataract\" rather than a posterior subcapsular cataract.  All of the other conditions are associated with PSC cataracts.  Another (commonly-tested) cause of PSC cataracts is retinitis pigmentosa.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 55,
+  "question": "What systemic condition does this young patient most likely have?",
+  "options": {
+   "A": "diabetes",
+   "B": "myotonic dystrophy",
+   "C": "ataxia telangiectasia",
+   "D": "alpha-1 antitrypsin deficiency"
+  },
+  "markedAnswer": "A",
+  "explanation": "This is a posterior subcapsular cataract (PSC).  It is commonly associated with diabetes especially in younger patients. Myotonic dystrophy patients also commonly develop PSC cataracts, but they generally develop them after they have developed \"Christmas tree cataracts\". There are no crystals in the lens in this picture.",
+  "imageUrl": "/images/lens-cataract-oq/p35_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 56,
+  "question": "A 12-year-old patient presents to your office for exam. She states that she frequently gets up to urinate at night and recently has blurry vision. You note bilateral cortical cataracts. What underlying medical condition does the patient likely have?",
+  "options": {
+   "A": "hypertension",
+   "B": "diabetes",
+   "C": "homocystinuria",
+   "D": "schizophrenia"
+  },
+  "markedAnswer": "B",
+  "explanation": "This patient has developed snowflake cataracts from uncontrolled diabetes. Acute diabetic cataracts are generally cortical in nature. Her high blood sugar makes her go to the bathroom frequently.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 57,
+  "question": "With which of the following types of cataracts is sunlight exposure more highly correlated?",
+  "options": {
+   "A": "nuclear",
+   "B": "cortical",
+   "C": "posterior subcapsular",
+   "D": "mature"
+  },
+  "markedAnswer": "B",
+  "explanation": "According to epidemiologic studies, long-term UV radiation from sunlight is most associated with cortical cataracts.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 58,
+  "question": "During your medical mission in Ecuador, you come across the dense cataract seen in the photo above. What is the most appropriate name of this type of cataract?",
+  "options": {
+   "A": "hypermature cataract",
+   "B": "cerulean cataract",
+   "C": "Morgagnian cataract",
+   "D": "intumescent cataract"
+  },
+  "markedAnswer": "C",
+  "explanation": "A hypermature cataract occurs when part of the cortex of a mature cataract starts to liquify and leak through the lens capsule. This gives the lens capsule a shrunken type of appearance. With further cortical liquefaction, the nucleus becomes mobile and sinks to the bottom of the capsule. This is called a Morgagnian cataract. Hypermature and Morgagnian cataracts can lead to phacolytic glaucoma. Intumescent means that the cataract swells secondary to taking up an abundant amount of water. Cerulean cataracts are small bluish opacities located in the lens cortex that do not typically cause visual disability. They are a type of autosomal dominant congenital cataract and are occasionally also found in patients with Down syndrome.",
+  "imageUrl": null,
+  "stemReferencesFigure": true,
+  "figureMissing": true
+ },
+ {
+  "id": 59,
+  "question": "What type of cataract develops most frequently in patients with atopic dermatitis?",
+  "options": {
+   "A": "spokelike central",
+   "B": "anterior subcapsular",
+   "C": "cerulean",
+   "D": "nuclear sclerotic"
+  },
+  "markedAnswer": "B",
+  "explanation": "Generally bilateral, shield-like anterior subcapsular cataracts occur in up to 25% of patients with atopic dermatitis. Onset is generally in the second to third decade. Posterior subcapsular cataracts are also associated with atopic dermatitis (but less than anterior subcapsular cataracts). They occur in adults and are thought to be secondary to steroid use.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 60,
+  "question": "A 16-year-old patient presents to your office for exam after recently being punched in the right eye. On exam you note angle recession and the condition see in the photo (see image). What is the name of this pigmentary finding?",
+  "options": {
+   "A": "Fuchs ring",
+   "B": "Vossius ring",
+   "C": "Morphophakic ring",
+   "D": "Lassen ring"
+  },
+  "markedAnswer": "B",
+  "explanation": "Vossius rings are secondary to trauma to the eye that causes the iris to compress against the lens. This compression leads to a circular pigment deposition.",
+  "imageUrl": null,
+  "stemReferencesFigure": true,
+  "figureMissing": true
+ },
+ {
+  "id": 61,
+  "question": "What type of cataract most often develops following phakic pars plana vitrectomy?",
+  "options": {
+   "A": "anterior subcapsular",
+   "B": "polar",
+   "C": "nuclear",
+   "D": "posterior subcapsular"
+  },
+  "markedAnswer": "C",
+  "explanation": "The most common cataract that is induced by pars plana vitrectomy in phakic patients is a nuclear cataract. The most common cataract that is induced if silicone oil is instilled in the eye is a posterior subcapsular cataract. According to the BCSC, >90% of eyes in patients over age 50 will develop a visually-significant nuclear cataract within 2 years of vitrectomy. In addition, vitrectomy may increase the long-term risk of open-angle glaucoma by 10-20%. If you have done a post-vitrectomy cataract surgery, you understand that the procedure needs special attention. First, there is minimal/no vitreous support of the posterior capsule, which can make the anterior chamber become excessively deep. This deepening can be counteracted by lowering the bottle height and increasing the flow rate of the aspiration. Second, zonules are oftentimes weaker/broken after vitrectomy, and thus care must be made during maneuvers (e.g. nucleus rotation) that may further stress the zonules.",
+  "imageUrl": "/images/lens-cataract-oq/p37_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 62,
+  "question": "You are examining a 52-year-old patient in the clinic with the condition seen in the photograph.  The whitish opacity depicted in the photo is toward the posterior aspect of the lens.  In addition to the finding in the photo, he has nuclear sclerotic cataracts and wants them removed.  Which of the following is the patient most at risk for when you do his cataract surgery?",
+  "options": {
+   "A": "zonular weakness",
+   "B": "posterior capsule rupture",
+   "C": "iris prolapse",
+   "D": "aqueous misdirection"
+  },
+  "markedAnswer": "B",
+  "explanation": "The whitish opacity in the posterior aspect of the lens represents a posterior polar cataract.  These type of cataracts are associated with a fragile or absent posterior capsule in the area of opacity.  Thus, there is a much increased risk of posterior capsular rupture during surgery for this type of cataract. One useful technique to safely remove posterior polar cataracts is to avoid hydrodissection since the fluid wave could potentially rupture this focal weakness.  Instead, it is preferable to perform hydrodelineation whereby you separate the nucleus/epinucleus from the surrounding cortex.  By doing this, you create a protective epinuclear shell that hopefully does not disturb the area around the posterior polar cataract.  Lastly, it is advisable to remove the posterior polar portion of the cataract last.  In this way, if there is a posterior capsular rupture, the rest of the cataract has already been removed.  Alternatively, some surgeons defer on removing the posterior polar portion at all and leave it for later YAG capsulotomy several months later. In children, posterior polar cataracts cause more amblyopia than anterior polar cataracts because they are closer to the nodal point of the eye.",
+  "imageUrl": null,
+  "stemReferencesFigure": true,
+  "figureMissing": true
+ },
+ {
+  "id": 63,
+  "question": "A 16-year-old patient presents to your office for exam after recently being punched in the right eye. On exam you note angle recession and the early start of a cataract. What is the most likely pattern of cataract formation?",
+  "options": {
+   "A": "anterior star-like",
+   "B": "anterior circular",
+   "C": "posterior star-like",
+   "D": "posterior circular"
+  },
+  "markedAnswer": "C",
+  "explanation": "39 Studies.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 64,
+  "question": "The European Society of Cataract and Refractive Surgeons (ESCRS) multicenter study was a prospective trial evaluating intracameral injection of cefuroxime after cataract surgery.  What was the approximate reduction in rates of endophthalmitis using this regimen?",
+  "options": {
+   "A": "1.5x",
+   "B": "2x",
+   "C": "3x",
+   "D": "5x"
+  },
+  "markedAnswer": "D",
+  "explanation": "The ESCRS multicenter study was a prospective randomized partially masked multicenter study that recruited 16,603 patients.  This study found that the absence of intracameral cefuroxime resulted in a 4.92-fold increase in the risk of postoperative endophthalmitis. This study also found: ● 5.88-fold increased risk of endophthalmitis with use of clear corneal incisions compared to scleral tunnels. ● 3.13-fold increased risk of endophthalmitis with use of silicone IOLs compared to acrylic IOLs. This study has been one of the driving forces for intracameral injection of antibiotics at the conclusion of cataract surgery. In the United States, injection of moxifloxacin (i.e. Vigamox) into the anterior chamber at the end of cataract surgery is common. Vigamox can be injected directly into the anterior chamber whereas dilution concerns exist with cefuroxime.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 65,
+  "question": "In the Endophthalmitis Vitrectomy Study (EVS), what was the most common organism isolated on culture?",
+  "options": {
+   "A": "Staphylococcus aureus",
+   "B": "Streptococcus pneumonia",
+   "C": "Haemophilus influenza",
+   "D": "Staphylococcus epidermidis"
+  },
+  "markedAnswer": "D",
+  "explanation": "70% of the organisms isolated were Staphylococcus epidermidis.",
+  "imageUrl": "/images/lens-cataract-oq/p39_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 66,
+  "question": "Which of the following antibiotics is contraindicated to inject into the eye at the end of cataract surgery?",
+  "options": {
+   "A": "cefazolin",
+   "B": "moxifloxacin",
+   "C": "cefuroxime",
+   "D": "gentamicin"
+  },
+  "markedAnswer": "D",
+  "explanation": "Aminoglycosides are contraindicated for injection in the anterior chamber because of their severe retinal toxicity. The European Society of Cataract and Refractive Surgeons trial (ESCRS trial) was a prospective trial evaluating intracameral injection of cefuroxime.  There were >16,000 patients recruited and it ended in 2006.  The incidence of endophthalmitis was reduced 5-fold in the group treated with intracameral antibiotics. Some surgeons commonly inject moxifloxacin intracamerally at the conclusion of cataract surgery.  In the United States the injection of moxifloxacin intracamerally is FDA-approved, but off-label. And yes, we are aware of case series reporting hemorrhagic occlusive retinal vasculitis (HORV) after use of intracameral vancomycin for cataract surgery.  However, intracameral vancomycin has been used routinely for endopthalmitis prophylaxis for many years and HORV is considered very rare compared to the use of intracameral gentamicin.  In any case, given the devastating potential consequences of HORV (e.g. NLP vision), many surgeons are forgoing intracameral vancomycin.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 67,
+  "question": "In the Endophthalmitis Vitrectomy Study (EVS), what presenting vision benefited from immediate vitrectomy as opposed to just a tap and inject?",
+  "options": {
+   "A": "LP or worse",
+   "B": "HM or worse",
+   "C": "20/400 or worse",
+   "D": "20/200 or worse"
+  },
+  "markedAnswer": "A",
+  "explanation": "In this study, acute post-operative cataract surgery patients with suspected endophthalmitis were divided into two treatment groups: those receiving immediate 41 vitrectomy vs. those receiving a vitreous culture (tap) plus intravitreal antibiotic injection (inject). The study found that the majority of patients did better with a simple tap and inject. Only patients with LP or worse vision benefited from immediate vitrectomy. The study also showed that intravenous antibiotics were not of benefit once the patient was already injected with intravitreal antibiotics.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 68,
+  "question": "What were the effects of vitamins C, E, and beta carotene on cataract development in the original Age-Related Eye Disease Study (AREDS)?",
+  "options": {
+   "A": "increased incidence of cataract development",
+   "B": "no effect on cataract development",
+   "C": "decreased incidence of cataract development by 10%",
+   "D": "decreased incidence of cataract development by 20%"
+  },
+  "markedAnswer": "B",
+  "explanation": "According to the original AREDS, the vitamin formulation did not have a protective effect on cataract development.  Beta carotene has been shown to increase the risk of lung cancer in smokers and also hip fractures in women. 42 Patient Evaluation.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 69,
+  "question": "A 70-year-old woman presents with at least 6 months of progressively worsening vision in both eyes.  She states that she is experiencing more difficulty driving at night due to increased glare with oncoming headlights (\"especially those new LED headlights\").  Her vision is 20/100 OU.  On exam, you note 2-3+ nuclear sclerotic cataracts OU as well as confluent soft drusen OU.  Which of the following tests would best help you to determine whether the patient would benefit from cataract surgery?",
+  "options": {
+   "A": "Humphrey visual field using the 24-2, full-threshold, SWAP program",
+   "B": "photostress recovery time",
+   "C": "optical coherence tomography",
+   "D": "Reading a brightly-lit near card through a pinhole aperture"
+  },
+  "markedAnswer": "D",
+  "explanation": "This question is basically asking you whether you know the various forms of potential acuity estimation for a cataract evaluation patient.  These different tests \"bypass\" the cataract and allow you to estimate the patient's potential acuity if the cataract is removed. The standard potential acuity estimation tests are: Potential acuity pinhole  (PAP) test.  This is the simplest, cheapest, and fastest method to estimate a patient's potential acuity.  It involves having the patient read a brightly-lit near card through a standard pinhole aperture.  Typically, the patient is dilated prior to \"PAP'ing\" them. Potential acuity meter (PAM).  The PAM works by projecting a Snellen chart through a tiny aperture.  This projected chart is then moved around the patient's pupil until a clear path is obtained and the patient can see the projected Snellen chart. Laser interferometry (LI).  The LI projects two separate laser beams onto the retina.  These two light beams interfere with each other creating a diffraction fringe pattern on the retina.  This pattern is mostly independent of lens opacities.  The spacing of the fringe pattern is sequentially decreased until the patient cannot distinguish separate lines.  One of the drawbacks of the LI is that the pattern it projects is much larger than the fovea.  Thus, the LI may overestimate potential 43 acuity in patients who have small foveal lesions since part of the fringe pattern may be detected by extrafoveal retinal areas. The photostress recovery time (choice \"B\") is a \"poor man's electroretinogram.\"  A photorecovery test begins with measuring the patient's best corrected visual acuity.  Then a bright light is shined into the patient's eye for 10 seconds through undilated pupils. When the light is removed, the patient is asked to read the same BCVA line (or one line larger).  The time required before the patient can read the BCVA line (or one line larger) is called the photostress recovery time.   A normal photostress recovery time varies depending on which source you look at:  some sources suggest less than 27 seconds others state less than 45-60 seconds. Recovery times > 90 seconds clearly indicate a significant maculopathy.   This test is a good \"old school\" test to distinguish optic nerve disease from macular disease and can be helpful in certain patients.  Though the photostress recovery time could be helpful to determine the impact of the patient's macular degeneration, it would not necessarily tell us whether the patient would benefit from cataract surgery.  The same line-of-thinking pertains to optical coherence tomography (choice \"C\") since a macular lesion does not necessarily mean that cataract surgery would not be beneficial. SWAP (short-wavelength automated perimetry) preferentially isolates and tests the sensitivity of short-wavelength ganglion cells (i.e. the small bistratified ganglion cells). Studies have demonstrated that the rate of developing perimetric defects in early glaucoma may be higher with SWAP compared to white-on-white visual fields (e.g. standard automated perimetry; SAP).  In other words, visual field defects on SWAP may predate the same visual field defects on SAP.  The main disadvantage of the SWAP technique is the prolonged testing time, which has fortunately been reduced by the introduction of \"SITA-SWAP.\" Another disadvantage of SWAP is that it is more sensitive to media opacities compared to SAP.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 70,
+  "question": "A 64-year-old female patient presents for a cataract evaluation.  She has epithelial basement membrane (EBM) dystrophy and a nuclear sclerotic cataract.  Her best corrected vision is 20/50 and examination of her fundus is normal.  You place a hard contact lens with base curve of 42 D and -1.50 sph.  Your over-refraction is +2.50 sph which gives 20/25 visual acuity.  Which of the following assessments is most accurate as to how the EBM dystrophy and cataract are affecting her vision?",
+  "options": {
+   "A": "EBM moderately and cataract moderately",
+   "B": "EBM mildly and cataract moderately",
+   "C": "EBM mildly and cataract mildly",
+   "D": "EBM moderately and cataract mildly"
+  },
+  "markedAnswer": "D",
+  "explanation": "This patient has EBM dystrophy which gives the patient irregular astigmatism due to surface irregularities.  Hard contact lenses can eliminate irregular astigmatism and are used to judge the contribution of the irregular astigmatism on a patient's vision.  Placing the hard contact lens on her eye eliminated these irregularities and gave her relatively good vision back (20/25).   She still had a mild cataract that was reducing her vision to 20/25.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ }
+]

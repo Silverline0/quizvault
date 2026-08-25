@@ -1,0 +1,492 @@
+[
+ {
+  "id": 1,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 2,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 3,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 4,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 5,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 6,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "medium"
+ },
+ {
+  "id": 7,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "medium"
+ },
+ {
+  "id": 8,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 9,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 10,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 11,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 12,
+  "verdict": "needs-image",
+  "proposedAnswer": null,
+  "reason": "Question stem says 'the patient shown' and the diagnosis (implied mucous membrane pemphigoid vs another cicatrizing/follicular process) driving the biopsy-finding answer is entirely visual, but imageUrl is null so no figure was supplied to confirm the clinical picture actually supports linear basement-membrane immunoglobulin over the other listed histology patterns.",
+  "confidence": "high"
+ },
+ {
+  "id": 13,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 14,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "medium"
+ },
+ {
+  "id": 15,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 16,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 17,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 18,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 19,
+  "verdict": "needs-image",
+  "proposedAnswer": null,
+  "reason": "The stem explicitly states 'a photo of her anterior segment examination is shown' and asks which corneal layer the condition occupies, but imageUrl is null; a 73-year-old with 6 months of decreased vision could reflect many distinct entities, so the layer localization cannot be verified from text alone without the missing photograph.",
+  "confidence": "high"
+ },
+ {
+  "id": 20,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 21,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 22,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 23,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 24,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 25,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 26,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 27,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 28,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 29,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 30,
+  "verdict": "needs-image",
+  "proposedAnswer": null,
+  "reason": "The question explicitly asks what structure 'the arrow' indicates in a figure, but imageUrl is null, so there is no way to confirm the arrow actually points to an anteriorly displaced Schwalbe line rather than one of the other listed endothelial or stromal findings offered as distractors.",
+  "confidence": "high"
+ },
+ {
+  "id": 31,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 32,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 33,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 34,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 35,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 36,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 37,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 38,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "medium"
+ },
+ {
+  "id": 39,
+  "verdict": "needs-image",
+  "proposedAnswer": null,
+  "reason": "The differential of atopic keratoconjunctivitis versus rosacea, seborrheic dermatitis, and psoriasis depends on the described eyelid and skin appearance 'as illustrated,' but imageUrl is null, so the lichenification, discharge, and lid changes needed to distinguish these entities cannot be verified from the text alone.",
+  "confidence": "high"
+ },
+ {
+  "id": 40,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 41,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 42,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 43,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 44,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 45,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "medium"
+ },
+ {
+  "id": 46,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 47,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 48,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 49,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 50,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 51,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 53,
+  "verdict": "needs-image",
+  "proposedAnswer": null,
+  "reason": "The imageUrl for this question actually renders a printed optics data table (accommodative reserve / refractive index figures), not a clinical photo of eyelid margin findings; since the question asks 'for the findings shown' to name the causative organism, the figure needed to distinguish Staphylococcus from Moraxella or Corynebacterium is unusable.",
+  "confidence": "high"
+ },
+ {
+  "id": 54,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 55,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 56,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 57,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 58,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 59,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 60,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 61,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 62,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 63,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 64,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 65,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 66,
+  "verdict": "unanswerable",
+  "proposedAnswer": null,
+  "reason": "The question stem provides no clinical vignette, history, exam findings, or image whatsoever beyond 'What is the next appropriate step in this patient's management?' There is no way to identify which patient or scenario is referenced, so it cannot be verified that discontinuing trifluorothymidine is correct versus the other listed options.",
+  "confidence": "high"
+ },
+ {
+  "id": 67,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "medium"
+ },
+ {
+  "id": 68,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 69,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 70,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "medium"
+ },
+ {
+  "id": 71,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ }
+]

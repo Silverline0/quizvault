@@ -1,0 +1,1051 @@
+[
+ {
+  "id": 211,
+  "question": "Which of the following therapies is used to reduce the arthropathy associated with the condition seen in the photo in children:",
+  "options": {
+   "A": "high dose vit C",
+   "B": "oral cysteamine",
+   "C": "VEGF trap",
+   "D": "high dose phenylalanine"
+  },
+  "markedAnswer": "A",
+  "explanation": "This is the classic presentation of alkaptonuria. There is deposition of pigmented material near medial and lateral rectus muscle insertions. Children can be treated with high dose vitamin C to improve arthropathy.). Alkaptonuria is secondary to the inability to metabolize tyrosine and phenylalanine. It has an autosomal recessive inheritance pattern. Alkaptonuria ('black urine disease') has the characteristic darkening of the urine on standing due to elevated urinary homogentisic acid levels. EXTRA: alkaPTonuria - P = phenylalanine, T = tyrosine PU Al-\"captain\"-uria: BLACKbeard (pigmented deposits, black urine on standing) the pirate captain who says AR (auto recessive) takes Vitamin C (in this case for arthropathy and not scurvy)",
+  "imageUrl": "/images/cornea-oq/p191_img5.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 212,
+  "question": "Which of the following is a characteristic of tyrosinemia:",
+  "options": {
+   "A": "defect of tyrosine aminotransferase",
+   "B": "can give corneal epithelial dendrites",
+   "C": "hypotyrosinuria",
+   "D": "elevated blood phenylalanine level"
+  },
+  "markedAnswer": "A",
+  "explanation": "Tyrosinemia is an autosomal recessive disease secondary to a defect of tyrosine aminotransferase. The diagnosis is made by having an excess level of tyrosine in the blood and urine but a normal phenylalanine level in the blood. These patients present with pseudodendrites. If you ever see a child with recurrent dendrites you should suspect tyrosinemia. These children may have been misdiagnosed as having recurrent HSV keratitis. These patients don't have true dendrites (which is why answer choice B is incorrect) but rather pseudodendrites meaning that the lesions are not completely devoid of epithelium with distinct margins as they are with an HSV dendrite. These patients are treated by restricting dietary tyrosine and phenylalanine. Doing this leads to a reduction in intellectual disability.",
+  "imageUrl": "/images/cornea-oq/p172_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 213,
+  "question": "Which of the following conditions is associated with enlarged corneal nerves?",
+  "options": {
+   "A": "keratoglobus",
+   "B": "abetalipoproteinemia",
+   "C": "neurofibromatosis",
+   "D": "pigmentary dispersion glaucoma"
+  },
+  "markedAnswer": "C",
+  "explanation": "The above slit-lamp photo depicts enlarged corneal nerves. There are several conditions that feature this finding: • multiple endocrine neoplasia (MEN) type 2B (less frequently type 2A) o Individuals with this condition also frequently display medullary carcinoma of the thyroid gland, pheochromocytoma, a marfanoid habitus, and mucosal neuromas. • phytanic acid storage disease (i.e. Refsum syndrome) • leprosy (i.e. Hansen disease) • familial dysautonomia (i.e. Riley-Day syndrome) • neurofibromatosis • Acanthamoeba perneuritis Conditions that depict \"more visible\" corneal nerves (i.e. not necessarily enlarged, but more prominent) include: • keratoconus • Fuchs corneal dystrophy • corneal edema • ichthyosis • congenital glaucoma Extra: Mnemonic - men(2)larged K nerves MEN IIb NF2 Leprosy Acanthomoeba Refsum Glaucoma (congenital) Edema (of the cornea) Dysautonomia (Riley-day)",
+  "imageUrl": "/images/cornea-oq/p155_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 214,
+  "question": "Which of the following is associated with the condition seen in the photo:",
+  "options": {
+   "A": "MEN type IIIB",
+   "B": "Frederick's Disease",
+   "C": "pseudomonas",
+   "D": "Hansen Disease"
+  },
+  "markedAnswer": "D",
+  "explanation": "The picture shows enlarged corneal nerves. Enlarged corneal nerves are associated with MEN type IIB, Phytanic Acid Storage Disorder (Refsum Disease), leprosy (Hansen Disease), Acanthamoeba, Neurofibromatosis, and Familial Dysautonomia (Riley-Day Syndrome). Conditions that cause corneal nerves to be more visible include: keratoconus, ichthyosis, Fuchs corneal dystrophy, congenital glaucoma, and corneal edema. (Image credit: Cogan Pathology Collection found at: http://cogancollection.nei.nih.gov).",
+  "imageUrl": "/images/cornea-oq/p300_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 215,
+  "question": "Which degeneration has brownish-golden circular deposits in the superficial stroma that are secondary to age and UV exposure?",
+  "options": {
+   "A": "fuchs",
+   "B": "gelantinous droplike",
+   "C": "band keratopathy",
+   "D": "spheroidal degeneration"
+  },
+  "markedAnswer": "D",
+  "explanation": "Also known as Labrador keratopathy, it is generally bilateral and located within the interpalpebral fissure. Histopathologically, there is elastotic degeneration that occurs with UV radiation exposure. Treatment is generally with lubrication. It does not generally affect vision to a significant degree.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 216,
+  "question": "Which of the following ichthyosis disorders is most commonly associated with corneal opacities?",
+  "options": {
+   "A": "X-linked ichthyosis",
+   "B": "ichthyosis vulgaris",
+   "C": "autosomal dominant ichthyosis",
+   "D": "autosomal recessive ichthyosis"
+  },
+  "markedAnswer": "A",
+  "explanation": "Ichthyosis vulgaris (inherited in an autosomal dominant fashion) is the most common type of ichthyosis, but rarely has corneal changes. X-linked ichthyosis is the form that has corneal changes. Extra: Ichthyosis is a condition that causes widespread and persistent thick, dry, \"fish- scale\" skin. The skin of a person with ichthyosis is rough, dry and scaly and needs to be regularly moisturised. Microbial and Parasitic Infections.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 217,
+  "question": "Which of the following treatment options represents a reasonable strategy at this time?",
+  "options": {
+   "A": "Obtain cultures and change to topical fortified ceftazidime every 1 hour",
+   "B": "Obtain cultures, continue topical fortified tobramycin every 1 hour and add topical moxifloxacin every 1 hour",
+   "C": "Obtain cultures, continue topical fortified tobramycin every 1 hour and add topical steroids twice daily",
+   "D": "Obtain cultures, initiate treatment with chlorhexidine 0.02% and propamidine every 1 hour"
+  },
+  "markedAnswer": "D",
+  "explanation": "Acanthamoeba keratitis (AK) is a severe, vision-threatening infection that unfortunately is quite common in contact lens wearers, especially if there an exposure to fresh-water (such as swimming in a lake with contact lenses on). Acanthamoebae are ubiquitous protoza that are highly resistant to eradication. The organism exists as either an active, motile trophozoite or an extremely hardy, dormant double-walled cyst state. The organism can convert between these two states, often converting into the cyst state when under duress. AK is likely the end result of corneal microtrauma induced by contact lens wear since the amoeba is only capable of infection when the corneal epithelium integrity has been compromised. AK presents with the classic symptoms of infectious keratitis, but often there is a protracted clinical course and a history of failed therapy with classical topical antibiotics. In some cases, an obvious source of infection can be identified (such as swimming with contact lenses on, using home made saline solution, showering with contact lenses on, etc.), but contact lens wear may be the sole risk factor. Examination early in the disease state may reveal non-specific findings such as punctate epithelial erosions, irregular epithelium (which can look like a dendrite) and mild conjunctival injection. As the infection progresses, a classic \"ring infiltrate\" may develop along with varying amounts of anterior chamber reaction. Patients often have significant pain secondary to radial perineuritis. The infection may cause progressive corneal thinning and even perforation. Diagnosing AK can be challenging since it can mimic bacterial (eg, Pseudomonas) and/or viral (eg, herpetic) infections which are also common in contact lens wearers. Options for diagnosing AK include: • Visualization with in-vivo confocal microscopy • Culturing the amoeba in non-nutrient agar with E.coli overlay or charcoal yeast agar • Corneal scraping to preserve the cells with a cytology fixative • Corneal scraping to stain the cells with acridine Orange, calcofluour white, periodic acid-Schiff, Wright-Giemsa or Wheatly trichrome stains • corneal biopsy with visualization performed by a skilled ophthalmic pathologist Given that the patient has not responded to treatment with a fortified antibiotics, it would be reasonable to entertain the diagnosis of AK and proceed with treatment. Changing to fortified ceftazidime (choice A) would not yield much additional benefit given that the patient has already been on fortified tobramycin. Both ceftazidime and tobramycin are better at covering gram negative organisms. Similarly, adding topical moxifloxacin (choice B) would also yield very little benefit given that they are already taking Vancomycin. Adding topical steroids (choice C) would be a very unwise decision especially given that we do not know the causative organism at this time. Therefore, treatment for AK would be the most appropriate course of action at this time. (In real life, one may consider therapy with fortified vancomycin and fortified tobramycin at this time as well, but that is not listed as one of the answer choices) While treatment strategies for AK vary, the choice listed above involves using chlorhexidine with a diamidine. Oral itraconaole/ketoconazole may also be added. PHMB may also be considered, as it has been shown that when used in combination, PHMB can kill both the trophozoite and cyst without significant toxicity to the corneal epithelium.",
+  "imageUrl": "/images/cornea-oq/p196_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 218,
+  "question": "A patient presents with severe ocular pain and a linear epitheliopathy of the right eye.  His past ocular history is only significant for contact lens wear.  Gram stain and confocal microscopy show cysts within the corneal stroma.  Which of the following would be the best choice for initial treatment?",
+  "options": {
+   "A": "chlorhexidine 0.01%",
+   "B": "polyhexamethylene biguanide (PHMB) 0.02%",
+   "C": "propamidine isethionate 0.01%",
+   "D": "paromomycin 0.5%"
+  },
+  "markedAnswer": "B",
+  "explanation": "This question implies that the patient has Acanthamoeba keratitis. One of the hallmark characteristics of this infection is severe eye pain that is out of proportion to the clinical appearance of the cornea. Acanthamoeba keratitis typically begins as an epitheliopathy with or without pseudodendrites and perineural infiltrates. The presence of perineural infiltrates is virtually pathognomonic for Acanthamoeba. The often-seen-on-tests ring infiltrate is actually a late-stage manifestation of Acanthamoeba. Although the trophozoites of Acanthamoeba are highly sensitive to a wide variety of chemotherapeutic substances, the cyst form is highly resistant to most forms of therapy. Effective treatment of Acanthamoeba keratitis requires the agent to be cysticidal. Currently, the diamidines and biguanides are the most effective antiamoebics available. The biguanides that are typically used are PHMB 0.02% and chlorhexidine 0.02% (not 0.01%), of which PHMB is more commonly used. The diamidines include propamidine isethionate 0.1% and hexamidine 0.1%. This author prefers the use of monotherapy with PHMB since combination therapy has not proven superior to PHMB alone and due to corneal toxicity concerns of multi-therapy. Paromomycin 0.5% is an aminoglycoside antibiotic that, like neomycin, is effective against the trophozoite form of Acanthamoeba, but is ineffective against the cyst form. Therefore, it should not be used in the treatment of Acanthamoeba keratitis. Corticosteroids should be used with caution because if used too early they can induce cyst formation and worsen clinical outcomes.",
+  "imageUrl": "/images/cornea-oq/p198_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 219,
+  "question": "Which of the following clinical signs or symptoms is not generally seen with Acanthamoeba keratitis?",
+  "options": {
+   "A": "Radial perineuritis",
+   "B": "ring sign",
+   "C": "painless presentation",
+   "D": "pseudodendrites"
+  },
+  "markedAnswer": "C",
+  "explanation": "All of the other answer options are common with Acanthamoeba. These infections are generally very painful on presentation because they invade corneal nerves.",
+  "imageUrl": "/images/cornea-oq/p199_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 220,
+  "question": "A patient presents with a discrete inferior marginal anterior corneal infiltrate in the right eye. For the most common cause of this condition, which of the following is true?",
+  "options": {
+   "A": "The overlying epithelium is generally absent (epithelial defect)",
+   "B": "It represents a direct infectious process that is best treated with scraping and an antibiotic",
+   "C": "It represents a secondary immunologic component",
+   "D": "It is generally associated with Streptococcus blepharitis"
+  },
+  "markedAnswer": "C",
+  "explanation": "Discrete inferior infiltrates in the anterior peripheral stroma are most commonly secondary to Staphylococcal marginal keratitis. According to some textbooks (e.g. Krachmer's Cornea), these infiltrates are most likely a type III hypersensitivity reaction (they are not a direct infectious process). However, recent editions of the BCSC have stated that it represents a type IV reaction. In any case, reaction to Staphylococcal antigens (e.g. exotoxins, cell wall proteins) is thought to be the inciting stimulus. Diagnostic scraping is not necessary and could actually lead to a direct corneal infection. The marginal keratitis is best treated with antibiotics aimed at the underlying staphylococcus infection and mild steroids to reduce the inflammatory component Extra: Etiology and pathophysiology The vast majority of patients with marginal keratitis have symptomatic Staphylococcal blepharitis/conjunctivitis, or asymptomatic Staphylococcal colonization of the eyelid.[1] Marginal keratitis is thought to be the product of an inflammatory reaction against staphylococcal antigens (rather than a direct staphylococcal infection of the cornea). The presence of bacterial antigens in the peripheral area of the cornea possibly triggers a type III hypersensitivity reaction, in which immunocomplexes are formed and deposited in the peripheral corneal stroma Physical examination The disease usually begins with the formation of one or more stromal infiltrates in the peripheral cornea, typically in the points of intersection between the eyelid margin and the limbus (i.e. 2, 4, 8, and 10 o’clock positions). These infiltrates are almost always located 1-2mm parallel to the limbus,.",
+  "imageUrl": "/images/cornea-oq/p200_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 221,
+  "question": "Ophthalmomyiasis refers to proliferation of what organisms within ocular tissues?",
+  "options": {
+   "A": "Fly larva",
+   "B": "Tapeworms",
+   "C": "Fungi",
+   "D": "Leishmania parasites"
+  },
+  "markedAnswer": "A",
+  "explanation": "The term myiasis refers to infestation of tissue by fly maggots and ophthalmomyiasis refers to infestation of ocular structures by fly maggots. While not a concern in your average refractive surgery practice, it is not rare in developing world conditions with poor sanitation. Maggots can gain entry to the eye directly through an unhealthy and susceptible ocular surface or may travel through the blood stream to enter the eye. Tapeworms can affect vision by affecting the visual pathways in the brain in cysticercosis and more rarely other tape worms can settle in virtually any portion of the eye resulting in severe inflammation. Leishmania is a protozoan parasite spread through the bite of sandflies and can affect internal organs or the skin depending on the type. In regards to ophthalmology, Leishmania can cause severe granulomatous inflammation of the eyelids.",
+  "imageUrl": "/images/cornea-oq/p201_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 222,
+  "question": "Which of the following most likely would improve this patient's chronic condition?",
+  "options": {
+   "A": "oral doxycycline",
+   "B": "corticosteroid gel to eyelid margins",
+   "C": "oral azithromycin",
+   "D": "tea tree oil to eyelid margins"
+  },
+  "markedAnswer": "D",
+  "explanation": "The microscope photo is showing a typical Demodex mite, which is the most common parasite found on the human skin. In fact, almost all individuals will be colonized by this mite by 70 years old. There are two Demodex species that colonize humans: D. folliculorum and D. brevis. D. folliculorum typically is associated with \"anterior blepharitis\" (i.e. infestation of the lashes and follicles) while D. brevis is characteristically associated with \"posterior blepharitis\" (i.e. infestation of the meibomian glands). You should start to suspect Demodex-associated blepharitis in the following situations: • When a patient's blepharitis is recalcitrant to conventional treatments • Cylindrical dandruff is present at the base of the lashes • When there is madarosis or recurrent trichiasis. The classic treatment for Demodex-associated blepharitis is with tea tree oil (TTO) (e.g. daily scrub with 50% TTO and/or lid massage with 5% TTO ointment). One of the commercial formulations of TTO is marketed as Cliradex®. Other treatment options are oral ivermectin or oral metronidazole.",
+  "imageUrl": "/images/cornea-oq/p202_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 223,
+  "question": "A patient presents with a granulomatous conjunctivitis and pre-auricular lymphadenopathy. What was the most likely source of the infection?",
+  "options": {
+   "A": "uncooked pork",
+   "B": "swimming in a lake",
+   "C": "scratch from a kitten",
+   "D": "deer tick"
+  },
+  "markedAnswer": "C",
+  "explanation": "Granulomatous conjunctivitis with regional lymphadenopathy defines Parinaud's ocularglandular syndrome. This rare syndrome presents with a unilateral granulomatous conjunctivitis that develops approximately 1 week after exposure to a causative microorganism. In addition, the preauricular and/or the submandibular lymph nodes become tender and may be accompanied by constitutional symptoms (e.g. fever, malaise, headache). The majority of cases are caused by Cat-scratch disease which describes how the primary causative microorganism, Bartonella henselae is transmitted to humans. In reality, the affected individual usually cannot recall being scratched by a cat, but instead is exposed to the cat's saliva through licking. Other causes of Parinaud's includes tularemia (transmitted by rabbits), sporotrichosis, tuberculosis, and syphillis. The \"gold-standard\" treatment of Parinaud's is not agreed upon. Various antibiotic regimens have been successful (e.g. azithromycin, doxycycline).",
+  "imageUrl": "/images/cornea-oq/p203_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 224,
+  "question": "A 21 year old patient presents to the Tulane emergency room with severe eye pain.  On exam, there are superficial feathery anterior stromal infiltrates and also anterior white raised colonies.  He is suspected to have a fungal keratitis with both Aspergillus and Candida.  What would be the best initial treatment?",
+  "options": {
+   "A": "natamycin 5%",
+   "B": "fluoroquinolone",
+   "C": "Amphotericin B",
+   "D": "oral voriconazole"
+  },
+  "markedAnswer": "C",
+  "explanation": "Trauma with plant or vegetable matter, contact lens wear, prior corneal surgery (e.g. PKP and RK), chronic keratitis, and topical steroids increase the risk for fungal keratitis. Infection with Candida is more common in immunocompromised hosts and corneas with chronic epithelial defects. Pain with fungal ulcers is generally out of proportion to clinical signs (e.g. corneal edema). Filamentous fungal keratitis (e.g. Aspergillus and Fusarium) presents as a gray- white infiltrate with a \"feathery\" margin. Multifocal or satellite lesions may occur. Anterior lesion may elevate the surface of the cornea and have a rough, dry, or gritty appearance. Candida is the most common cause of yeast keratitis. It presents with anterior raised colonies. It most frequently remains superficial. Culture with blood, Sabouraud, and brain-heart infusion agars are the preferred culturing method. Confocal microscopy can identify fungal cysts and filaments. Natamycin 5% is the preferred initial treatment for filamentous fungus including Fusarium infections. The majority of fungal infections in the United States occur in the Southern U.S. and are secondary to Fusarium. This patient is located in New Orleans. So, if you are in the Southern U.S. and suspect a purely filamentary fungal infection, it is best to use natamycin 5% until the cultures are back. The other convenient thing about natamycin 5% is that it is commercially produced which means that when you send the patient to the pharmacy to pick it up, they will actually have it. Amphotericin B is a good treatment for both the filamentary Aspergillus fungal infection and those caused by the yeast Candida fungal keratitis. It is used to treat corneal ulcers caused by Candida and Aspergillus. Patients have to be sent to a compounding pharmacy for this medication. For this question, Amphotericin B is a good choice because it covers both of the suspected organisms. A newer anti-fungal that has excellent antifungal properties is voriconazole. It can be given both topically as a 1% concentration and orally. The oral form could be considered with deep corneal infections or in cases with progession to endophthalmitis. One factor that limits its use is that it is typically more expensive and also needs to be compounded. Recent studies suggest that it may be inferior to natamycin for Fusarium solani infections. For this question, answer choice D is not a good option because of the potential side effects of oral voriconazole (e.g. liver toxicity). Topical 1% voriconazole would be an acceptable answer choice. Therapeutic corneal transplant without prior eradication of the fungus has a poor prognosis with frequent recurrence of the infection in the graft. Extra: FUsarium= Natamycin, Candida Aspergillus= AMPhotericin B (FUN CAAMP)",
+  "imageUrl": "/images/cornea-oq/p204_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 225,
+  "question": "Which of the following fungal infections is more commonly associated with a fulminant keratitis?",
+  "options": {
+   "A": "Fusarium",
+   "B": "Aspergillus",
+   "C": "Curvularia",
+   "D": "Paecilomyces"
+  },
+  "markedAnswer": "A",
+  "explanation": "The BCSC Cornea book specifically mentions the following filamentous fungi: • Fusarium spp (e.g. F. solani and F. oxysporum). • Aspergillus • Curvularia • Paecilomyces • Phialophora Of these, Fusarium species are more commonly associated with a fulminant keratitis. In general, filamentous fungi are most commonly the causative organism for fungal keratitis associated with trauma and contact lens wear. In contrast, yeast (e.g. Candida spp) are most frequently the causative organism in patients with ocular surface disease (e.g. severe dry eye, post-penetrating keratoplasty). Lastly, the most common causes of fungal keratitis in the United States are trauma and contact lens wear. However, trauma is overwhelmingly the most common cause of fungal keratitis in developing countries since the rate of contact lens wear is much lower in the developing world. Extra: Fusarium = fulminant.",
+  "imageUrl": "/images/cornea-oq/p205_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 226,
+  "question": "A contact lens wearing patient from Louisiana presents with a fungal keratitis. What is the most appropriate initial treatment?",
+  "options": {
+   "A": "Natamycin 5%",
+   "B": "Fluoroquinolone",
+   "C": "Amphotericin B",
+   "D": "oral voriconazole"
+  },
+  "markedAnswer": "A",
+  "explanation": "Natamycin 5% is used for Fusarium infections. The majority of fungal infections in the United States occur in the Southern U.S. and are secondary to Fusarium. So, if you are in the Southern U.S. and suspect a fungal infection, it is best to use Natamycin 5% until the cultures are back. The other convenient thing about Natamycin 5% is that it is commercially produced which means that when you send the patient to the pharmacy to pick it up, they will actually have it. Amphotericin B is used to treat Candida and Aspergillus. Patients have to be sent to a compounding pharmacy for this medication. A new anti-fungal that has excellent antifungal properties is voriconazole. It can be given both topically and orally. One factor that limits its use is its extreme expense.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 227,
+  "question": "Which of the following culture media is most optimal for isolating fungi?",
+  "options": {
+   "A": "chocolate agar",
+   "B": "thioglycollate broth",
+   "C": "Sabouraud's agar",
+   "D": "Lowenstein-Jensen medium"
+  },
+  "markedAnswer": "C",
+  "explanation": "Sabouraud's agar is best for fungi. Lowenstein-Jensen is best for isolating mycobacteria. Aerobic bacteria can be cultured with blood agar, chocolate agar, and thioglycollate broth. Anaerobic bacteria are ideally cultured with thioglycollate broth. Thayer-Martin agar is best for Neisseria. Acanthamoeba is best cultured with nonnutrient agar with E. coli overlay. Blood and chocolate agars are good overall culture plates. Middlebrook agar grows out non-tuberculous mycobacteria (seen after LASIK). Which of the following is best for culturing Aerobic bacteria: A.Blood B.Sabouraud's agar C.Lowenstein-Jensen media D.Thayer-Martin agar A:A.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 228,
+  "question": "Which of the following statements best describes the comparative efficacy of topical natamycin versus topical voriconazole in the treatment of fungal keratitis according to the Mycotic Ulcer Treatment Trial (aka MUTT I)?",
+  "options": {
+   "A": "Natamycin treatment was associated with significantly better clinical outcomes than voriconazole",
+   "B": "Voriconazole treatment was associated with significantly better clinical outcomes than natamycion",
+   "C": "There was no statistically significant difference between natamycin and voriconazole",
+   "D": "Fusarium cases fared better with voriconazole compared to natamycin"
+  },
+  "markedAnswer": "A",
+  "explanation": "The Mycotic Ulcer Treatment Trial (aka MUTT I) was a randomized, controlled, double- blind trial comparing the efficacy of topical natamycin 5% versus topical voriconazole 1%. All enrolled participants had smear-positive fungal corneal ulcers and baseline visual acuity of 20/40 to 20/400. These participants were enrolled at Aravind Eye Care Hospitals in three different cities in India. The primary outcome was best spectacle-corrected visual acuity (BSCVA) 3 months after enrollment. The MUTT found that the natamycin-treated group did 1.8 lines better than the voriconazole-treated group at 3 months (mean BSCVA was 0.39 logMAR and 0.57 logMAR in the natamycin- and voriconazole-treated groups respectively). Subgroup analysis found that this efficacy difference was mainly for Fusarium cases where the natamycin-treated group did 4.1 lines better than the voriconazole-treated group. There was no difference in adjusted BSCVA between the two groups in non-Fusarium cases. Other interesting findings from this trial: • Natamycin-treated cases were significantly less likely to be culture-positive (<10% cases) after 6 days of treatment in contrast to voriconazole-treated cases (>50%). • Reepithelialization time and 3-month infiltrate or scar size were not significantly different between the two groups. A sister study, the Mycotic Ulcer Treatment Trial (MUTT II), was a similarly-designed trial except that it was comparing the effectiveness of oral voriconazole versus placebo (in addition to topical antifungals). The primary outcome examined was the rate of corneal perforation or the need for therapeutic penetrating keratoplasty. The MUTT II found no benefit of adding oral voriconazole to topical antifungals for this primary outcome variable. SUMMARY: • MUTT I -- topical natamycin 5% is superior to topical voriconazole 1% (most of this effect was from Fusarium cases) o MUTT II -- there is no benefit of adding oral voriconazole (and higher adverse events) on top of topical anti-fungals.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 229,
+  "question": "A 35-year-old presents with a severe, central corneal ulcer of the right eye.  His history is significant for being a farmer who works in the fields every day.  You perform a Gram stain and filamentous fungal elements are seen.  You start the patient on natamycin 5% q1hour and are contemplating your management options. According to the Mycotic Ulcer Treatment Trial II (i.e. MUTT II), what would be the most appropriate management of this patient?",
+  "options": {
+   "A": "In addition to topical natamycin 5%, the patient should be started on oral voriconazole",
+   "B": "The patient should be treated with topical anti-fungals only",
+   "C": "The patient should be switched from natamycin 5% to voriconazole 1% q1hour",
+   "D": "In addition to topical natamycin 5%, the patient should be started on topical voriconazole 1% q1hour"
+  },
+  "markedAnswer": "B",
+  "explanation": "The Mycotic Ulcer Treatment Trial (aka MUTT II), was a placebo-controlled, randomized trial that was conducted in several centers in India and Nepal. Its main objective was to compare the effectiveness of oral voriconazole versus placebo (all patients received topical antifungals). The primary outcome examined was the rate of corneal perforation or the need for therapeutic penetrating keratoplasty. The MUTT II found no benefit of adding oral voriconazole to topical antifungals for this primary outcome variable. Other interesting results of the MUTT II: • Mean 3-month visual acuity was no different in the placebo vs. oral voriconazole groups. • Mean 3-week and 3-month infiltrate and/or scar size was similar between the two groups. • No difference in re-epithelialization rates between the two groups. • Higher rate of adverse events in the oral voriconazole group (P=0.001). These adverse events included: elevated liver function tests and visual hallucinations. A sister study, the Mycotic Ulcer Treatment Trial (aka MUTT I) was a randomized, controlled, double-blind trial comparing the efficacy of topical natamycin 5% versus topical voriconazole 1%. All enrolled participants had smear-positive fungal corneal ulcers and baseline visual acuity of 20/40 to 20/400. These participants were enrolled at Aravind Eye Care Hospitals in three different cities in India. The primary outcome was best spectacle-corrected visual acuity (BSCVA) 3 months after enrollment. The MUTT found that the natamycin-treated group did 1.8 lines better than the voriconazole-treated group at 3 months (mean BSCVA was 0.39 logMAR and 0.57 logMAR in the natamycin- and voriconazole-treated groups respectively). Subgroup analysis found that this efficacy difference was mainly for Fusarium cases where the natamycin-treated group did 4.1 lines better than the voriconazole-treated group. There was no difference in adjusted BSCVA between the two groups in non-Fusarium cases. Other interesting findings from this trial: • Natamycin-treated cases were significantly less likely to be culture-positive (<10% cases) after 6 days of treatment in contrast to voriconazole-treated cases (>50%). • Reepithelialization time and 3-month infiltrate or scar size were not significantly different between the two groups. SUMMARY: • MUTT I -- topical natamycin 5% is superior to topical voriconazole 1% (most of this effect was from Fusarium cases) • MUTT II -- there is no benefit of adding oral voriconazole (and higher adverse events) on top of topical anti-fungals.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 230,
+  "question": "What is the leading risk factor for the development of fungal keratitis?",
+  "options": {
+   "A": "warm climate (Southern U.S.)",
+   "B": "previous use of topical steroids",
+   "C": "trauma with vegetable matter",
+   "D": "corneal transplant"
+  },
+  "markedAnswer": "C",
+  "explanation": "While all of the other choices increase the risk for fungal keratitis, trauma is the most common risk factor.",
+  "imageUrl": "/images/cornea-oq/p211_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 231,
+  "question": "Which of the following is a nonseptate fungus?",
+  "options": {
+   "A": "Fusarium",
+   "B": "Aspergillus",
+   "C": "Curvularia",
+   "D": "Mucor"
+  },
+  "markedAnswer": "D",
+  "explanation": "Nonseptate filamentous fungi include Mucor, Absidia, and Rhizopus. These fungi can cause life- threatening infections (\"mucormycosis\") of the paranasal sinuses, brain, and orbit, typically in immunocompromised patients. A typical clinical scenario is a poorly-controlled diabetic hospitalized for diabetic ketoacidosis. Other predisposing conditions include renal failure and gastroenteritis. These patients present with an orbital cellulitis with early visual loss from orbital apex syndrome. Another often-tested sign is seeing black eschar-like crusting in the nose or on the hard palate. Septate fungi include Fusarium, Aspergillus, and Curvularia. A nice mnemonic is: \"F.A.C.t.S\"",
+  "imageUrl": "/images/cornea-oq/p211_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 232,
+  "question": "A 23-year-old man presents to your clinic with severely-decreased vision and severe pain in the left eye. His only past ocular history is soft contact lens wear. What is the most likely microorganism that caused the ocular condition seen in this photo?",
+  "options": {
+   "A": "Bacillus cereus",
+   "B": "Propionibacterium acnes",
+   "C": "Staphylococcus aureus",
+   "D": "Pseudomonas aeruginosa"
+  },
+  "markedAnswer": "D",
+  "explanation": "Pseudomonas aeruginosa corneal infections typically result in fulminant corneal ulcers with a \"soupy\" appearance. These highly-destructive ulcers usually have an explosive onset and can perforate the cornea within a day. This gram negative rod is the most common cause of bacterial keratitis in soft contact lens wearers. Frequently, patients with these ulcers require initial hospitalization with around-the-clock fortified antibiotics. Extra: Disease Pseudomonas aeruginosa is a gram-negative rod. It is an opportunistic human pathogen, known to cause a variety of infectious diseases. In the eye, P. aeruginosa is a common cause of bacterial keratitis, particularly in contact lens wearers. It is known to be particularly virulent, with pseudomonas keratitis being more difficult to treat and have worse prognosis than other forms of bacterial keratitis. P. aeruginosa secretes proteases that can cause liquefactive necrosis of the cornea, leading to rapid corneal weakening and perforation. Diagnosis and treatment All cases of suspected pseudomonas keratitis should be scraped and cultured. Empiric broad spectrum antibiotics should be initiated for infectious keratitis. Treatment regimens for pseudomonas keratitis are variable and include monotherapy or combination therapy with a topical fluoroquinolones, aminoglycosides, cephalosporins, , carbapenems and chloramphenicol.",
+  "imageUrl": "/images/cornea-oq/p211_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 233,
+  "question": "Which of the following is LEAST ideal for obtaining bacterial cultures?",
+  "options": {
+   "A": "Dacron swab",
+   "B": "Calcium alginate swab",
+   "C": "Cotton swab",
+   "D": "Potash swab"
+  },
+  "markedAnswer": "C",
+  "explanation": "Bacterial cultures are best obtained with a platinum Kimura spatula (because it heats and cools rapidly), metal blade, calcium alginate, or Dacron swab. Cotton-tipped swabs are not ideal since cotton can inhibit growth. Typically, the corneal scrapings are used to create rows of \"C\"s in the culture plate (see answer image). Each row should be from a different sample after heating the spatula. The culture is considered positive when at least two rows grow the bacteria. The \"C\"s help the microbiologist identify the specimen as being sampled from the \"Cornea\". Viral cultures are best obtained by using a Dacron swab to swab the specimen, dipping the swab in chilled viral transport media, and then discarding the swab. The calcium in a calcium alginate swab and the wood shaft from a cotton swab can inhibit viral recovery. Lowenstein-Jensen is used to culture mycobacteria and Nocardia species. Aerobic bacteria can be cultured with blood agar, chocolate agar, and thioglycolate broth. Chocolate agar specifically grows Haemophilus species and Neisseria gonorrhoeae well. Anaerobic bacteria are ideally cultured with thioglycolate broth. Thayer-Martin agar is best for Neisseria species. Acanthamoeba is best cultured with nonnutrient agar with E. coli overlay. Sabouraud's agar is best for fungi.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 234,
+  "question": "A 27-year-old man presents with 12 hours of right eye pain and purulent discharge as shown above.  He has had 4 new sexual partners in the past two months.  Which of the following is the most likely finding on the Gram stain of the discharge?",
+  "options": {
+   "A": "Gram negative rods",
+   "B": "Gram negative diplococci",
+   "C": "Gram positive rods",
+   "D": "Gram positive cocci in clusters"
+  },
+  "markedAnswer": "B",
+  "explanation": "This patient has gonococcal conjunctivitis due to Neisseria gonorrhoeae, a Gram-negative diplococcus (answer B). Gonococcal conjunctivitis is characterized by its hyperacute nature, overwhelming purulent discharge, and N. gonorrhaoeae’s ability to invade intact corneal epithelium. N. gonorrhoeae can induce keratolysis and lead to corneal perforation without prompt treatment. As N. gonorrhoeae is a sexually transmitted infection, patients with a history of numerous sexual partners are at higher risk for contracting the infection. Treatment of gonococcal conjunctivitis is 1g intramuscular ceftriaxone along with co-treatment of suspected chlamydia with 1g oral azithromycin. In cases with corneal involvement, hospitalization and treatment with intravenous ceftriaxone 1g daily is recommended. Topical fluoroquinolone drops and frequent saline irrigation should be utilized until the discharge resolves. All sexual partners should receive treatment for gonorrhea and chlamydia as well.",
+  "imageUrl": "/images/cornea-oq/p214_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 235,
+  "question": "Which of the following would be a suitable treatment for gonococcal conjunctivitis in an adult?",
+  "options": {
+   "A": "Intramuscular ceftriaxone",
+   "B": "Oral doxycycline",
+   "C": "Topical moxifloxacin",
+   "D": "Fortified topical vancomycin"
+  },
+  "markedAnswer": "A",
+  "explanation": "The treatment of gonococcal conjunctivitis is high yield. The key here is to remember that gonococcal conjunctivitis is a systemic disease requiring systemic treatment. The mainstay of treatment is a one time dose of 1 gram of intramuscular (IM) ceftriaxone. In penicillin-allergic patients, a one time dose of IM spectinomycin or 5-7 days of oral fluoroquinolones can be used. Additional topical medications can be used along with frequent irrigation of the eye with normal saline in cases of severe conjunctivitis or corneal involvement. Due to the high rate of co-infection with Chlamydia, it is generally suggested that patients with gonococcal conjunctivitis also be treated for Chlamydia. The best treatment options for Chlamydia are doxycycline or azithromycin. This question does not give an answer choice to treat both gonococcal conjunctivitis and Chlamydia so choose the best option (to treat just the gonococcal conjunctivitis in this case).",
+  "imageUrl": "/images/cornea-oq/p215_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 236,
+  "question": "What is the recommended management?",
+  "options": {
+   "A": "Oral azithromycin",
+   "B": "Oral doxycycline plus oral azithromycin",
+   "C": "Intramuscular (IM) gentamicin plus oral azithromycin",
+   "D": "Intravenous penicillin plus oral azithromycin"
+  },
+  "markedAnswer": "C",
+  "explanation": "his patient’s hyperacute onset of conjunctivitis with a papillary reaction and copious mucopurulent discharge is typical for gonococcal conjunctivitis. It is critical to elicit sexual history, which is not provided in this vignette. These patients must be monitored daily until clinical improvement is noted. Corneal involvement can rapidly lead to perforation and any patient with corneal involvement must be admitted to the hospital for treatment. First-line treatment is 1 g IM ceftriaxone for gonococcal conjunctivitis with 1 g po azithromycin being administered as well due to the high rate of co-infection with Chlamydia. Frequent topical fluoroquinolone drops and saline irrigation are also recommended. If corneal involvement is present, 1 g IV ceftriaxone every 12-24 hours while inpatient is recommended. Patients who have an IgE-mediated allergic reaction to cephalosporins (e.g. anaphylaxis, Stevens- Johnson syndrome) may receive gentamicin or gemifloxacin. There should be a low threshold to consult Infectious Disease in these patients or any patient admitted to the hospital with corneal involvement.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 237,
+  "question": "Which of the following findings are seen in Chlamydia trachoma?",
+  "options": {
+   "A": "conjunctival follicles on the lower tarsal conjunctiva leading to an Arlt line",
+   "B": "limbal follicles and their sequelae (Herbert pits)",
+   "C": "bulbar conjunctival scarring",
+   "D": "vascular pannus most marked on the lateral limbus"
+  },
+  "markedAnswer": "B",
+  "explanation": "Chlamydia trachoma leads to limbal follicles and their sequelae (i.e. Herbert pits), tarsal conjunctival scarring, and a vascular pannus that is most marked on the superior limbus. Conjunctival follicles are most numerous on the superior tarsus.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 238,
+  "question": "Which Chlamydia serovars are associated with trachoma?",
+  "options": {
+   "A": "serovars A-C",
+   "B": "serovars D-K",
+   "C": "serovars L1-L3",
+   "D": "serovars M2"
+  },
+  "markedAnswer": "B",
+  "explanation": "Some memorable mnemonics: • \"trAChoma\" --> serovars A-C (Courtesy of Dr Jorges Montes) • \"DicK\" - which references that adult/neonatal inclusion conjunctivitis are due to sexually transmitted disease.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 239,
+  "question": "What is the difference between a true membrane and a pseudomembrane in regards to the conjunctiva?",
+  "options": {
+   "A": "Pseudomembranes are anterior to the basement membrane",
+   "B": "Membranes bleed when removed",
+   "C": "Pseudomembranes bleed when removed",
+   "D": "Membrane lead to scarring and entropion"
+  },
+  "markedAnswer": "B",
+  "explanation": "Classically, it is taught that true membranes are typically very difficult to remove and will result in bleeding if stripped off of the conjunctival surface. In contrast, pseudomembranes usually peel off easily from the conjunctival surface without bleeding. In real clinical practice, since both are signs of severe conjunctival inflammation, both can bleed when peeled off. Situations where true membranes occur include: bacterial conjunctivitis, chemical burns, and ligneous conjunctivitis. Scenarios where pseudomembranes occur include: ocular cicatricial pemphigoid, Steven Johnson syndrome, EKC (epidemic keratoconjunctivitis), and superior limbic keratoconjunctivitis.",
+  "imageUrl": "/images/cornea-oq/p218_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 240,
+  "question": "A 32-year-old personal injury attorney comes to your office with complaints of chronically red and irritated eyes for the past 4 weeks. On exam, you note a prominent follicular reaction mainly involving the lower palpebral conjunctiva as well as a mucopurulent discharge. There are no eyelid lesions and he does not use any medications. Given your presumptive diagnosis, which of the following is the most appropriate treatment for this patient?",
+  "options": {
+   "A": "erythromycin ointment OU bid for 2 weeks",
+   "B": "penicillin G intramuscular (single dose)",
+   "C": "ciprofloxacin 500 mg po for 7 days",
+   "D": "azithromycin 1 gram po (single dose)"
+  },
+  "markedAnswer": "D",
+  "explanation": "This gentleman presents with a chronic follicular conjunctivitis of both eyes. \"Chronic\" conjunctivitis is defined as lasting more than 3 weeks in duration while \"acute\" conjunctivitis is 3 weeks or less in duration. The 3 main causes of chronic follicular conjunctivitis are molluscum contagiosum, drug toxicity, and Chlamydia infections. The two types of Chlamydia infections are trachoma and inclusion conjunctivitis. In this case, since the patient does not take any medications (e.g. eyedrops like brimonidine) or has any eyelid findings (e.g. molluscum lesions), he most likely has inclusion conjunctivitis. Inclusion conjunctivitis is the most common ocular chlamydial infection in developed countries. It is considered a sexually-transmitted disease obtained by genital-ocular transmission. Alternatively, it can be contracted through sharing of eye cosmetics (e.g. mascara) or poorly chlorinated swimming pools. It presents with a follicular conjunctivitis preferentially involving the lower palpebral conjunctiva. These follicles are typically larger than the follicles seen in adenoviral conjunctivitis. Like adenoviral, inclusion conjunctivitis can present with subepithelial infiltrates (SEIs), but these tend to be less diffuse and more peripheral. Since inclusion conjunctivitis is a systemic disease, the treatment regimen MUST include oral antibiotics. Common regimens are azithromycin 1 gram (single dose), doxycycline 100 mg bid for 7 days, and erythromycin 500 mg qid for 7 days.",
+  "imageUrl": "/images/cornea-oq/p218_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 241,
+  "question": "Which of the following is a treatment for gonorrhea conjunctivitis:",
+  "options": {
+   "A": "IM injection of 1gram ceftriaxone",
+   "B": "topical steroids to slow corneal melt",
+   "C": "eye lavage twice a day",
+   "D": "treatment for high rate of concurrent HSV"
+  },
+  "markedAnswer": "A",
+  "explanation": "Gonorrhea conjunctivitis can be treated with IM injection of 1 gram of ceftriaxone, eye lavage every hour, and treatment for the high rate of concurrent chlamydia. Never put steroids on an infectious process!",
+  "imageUrl": "/images/cornea-oq/p219_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 242,
+  "question": "A 46-year-old man presents to your clinic with complaints of redness and mucus discharge of both eyes for the past 1 months.  On exam, you note a prominent follicular conjunctivitis that equally involves the superior and inferior palpebral conjunctiva.  In addition, you see some mild macropannus of the perilimbal cornea.  His history is significant for working at the local zoo.  Which of the following would be the preferred treatment for this patient?",
+  "options": {
+   "A": "topical erythromycin",
+   "B": "oral trimethoprim/sulfamethoxazole double strength 800/160 mg",
+   "C": "topical tobramycin",
+   "D": "oral doxycycline"
+  },
+  "markedAnswer": "D",
+  "explanation": "his vignette is alluding to the chronic follicular conjunctivitis that can be caused by Chlamydia psittaci which is an organism that can be spread from birds and mammals to humans. \"Psittacosis\" is also known as \"bird fanciers disease\" since this organism is transmitted from either the aerosolized fecal matter of birds (e.g. parrots, cockatoos) or their respiratory secretions. The classic presentation of systemic psittacosis is a young or middle-aged adult who presents with an abrupt fever, dry cough, and headache. There are a plethora of other systemic findings that can also occur which will not be detailed here (e.g.hepatomegaly and splenomegaly). The chronic follicular conjunctivitis associated with Chlamydia psittaci can occur without associated systemic symptoms. It is characterized by a follicular conjunctivitis that equally involves the superior and inferior palpebral conjunctiva. This contrasts with trachoma which typically involves the SUPERIOR palpebral conjunctiva and adult inclusion conjunctivitis which typically involves the LOWER palpebral conjunctiva. Remember that neonatal inclusion conjunctivitis (i.e. one of the ophthalmia neonatorum diseases) strangely results in a papillary (i.e. not follicular) reaction. Other ocular findings in psittacosis includes possible bulbar follicles, a diffuse punctate epithelial keratitis, and macropannus (i.e. >1 mm). The BCSC lumps infection with Chlamydia psittaci in with Chlamydia trachoma. Common regimens to treat Chlamydia trachoma are azithromycin 1 gram (single dose), doxycycline 100 mg bid for 7 days, and erythromycin 500 mg qid for 7 days. However, recent studies suggest that longer treatment regimens may be needed to treat Chlamydia psittaci. The preferred treatment is usually with an extended course of doxycycline 100 mg po bid. Second-line therapy includes the macrolides such as oral erythromycin or azithromycin. The course of treatment is typically much longer (e.g. >2 months) than for either trachoma or adult inclusion conjunctivitis.",
+  "imageUrl": "/images/cornea-oq/p220_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 243,
+  "question": "Which of the following clinical features of chlamydial conjunctivitis in neonates is TRUE compared to chlamydial conjunctivitis seen in adults?",
+  "options": {
+   "A": "Neonates will typically have less mucopurulent discharge compared to adults because their immune systems are less developed",
+   "B": "Infection in neonates has a poor response to topical medications",
+   "C": "Clinical examination of neonates is unlikely to show a follicular response on the conjunctiva",
+   "D": "Giemsa-stained specimens from the conjunctiva of neonates is unlikely to demonstrate intracytoplasmic inclusions"
+  },
+  "markedAnswer": "C",
+  "explanation": "Per the BCSC Cornea book, there are several distinguishing clinical and laboratory features between chlamydial conjunctivitis in neonates and adults. Among them, there is no follicular response in newborns because lymphoid tissue becomes evident in the human conjunctiva only after a few weeks-to-months of life. In addition, neonates will have a greater amount of mucopurulent discharge. Intracytoplasmic inclusions are seen in a greater percentage of conjunctival specimens from newborns as well. Finally, chlamydial conjunctivitis in neonates is more likely to have a favorable response to topical medications. Nevertheless, both oral and topical treatment is the preferred treatment protocol (e.g. systemic erythromycin and topical erythromycin/sulfacetamide).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 244,
+  "question": "Which of the following bacteria is particularly associated with a chronic angular blepharoconjunctivitis (i.e. occurring at the lateral canthal angle)?",
+  "options": {
+   "A": "Streptococcus pyogenes",
+   "B": "Staphylococcus aureus",
+   "C": "Moraxella lacunata",
+   "D": "Haemophilus influenza"
+  },
+  "markedAnswer": "C",
+  "explanation": "The most common cause of chronic blepharoconjunctivitis is Staphylococcus aureus. But Moraxella lacunata is specifically associated with a chronic angular blepharoconjunctivitis. This condition is characterized by crusting and ulceration of the skin in the lateral canthal angle. It can also produce a papillary or follicular reaction of the tarsal conjunctiva.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 245,
+  "question": "Mycobacteria can be cultured with:",
+  "options": {
+   "A": "thioglycollate broth",
+   "B": "blood",
+   "C": "Lowenstein-Jensen",
+   "D": "chocolate"
+  },
+  "markedAnswer": "C",
+  "explanation": "Aerobic bacteria can be cultured with blood agar, chocolate agar, and thioglycollate broth. Anaerobic bacteria are ideally cultured with thioglycollate broth. Thayer-Martin agar is best for Neisseria. Lowenstein-Jensen is best for myobacteria. Acanthamoeba is best cultured with Nonnutrient agar with E Coli overlay. Sabouraud's agar is best for fungus. Blood and chocolate agars are good overall culture plates. Middlebrook agar grows out non-tuberculous mycobacteria (seen after LASIK).",
+  "imageUrl": "/images/cornea-oq/p222_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 246,
+  "question": "For corneal scrapings, anaerobic bacteria are cultured ideally with which media?",
+  "options": {
+   "A": "thioglycolate broth",
+   "B": "blood",
+   "C": "Lowenstein-Jensen",
+   "D": "chocolate"
+  },
+  "markedAnswer": "A",
+  "explanation": "",
+  "imageUrl": "/images/cornea-oq/p222_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 247,
+  "question": "A 64-year-old pseudophakic patient comes in with a 4-month history of mild iritis, vitritis, and a cloudy posterior capsule.  What diagnosis should come to mind?",
+  "options": {
+   "A": "Bacillus cereus",
+   "B": "Propionibacterium acnes",
+   "C": "Staphylococcus aureus",
+   "D": "Toxic Anterior Segment Syndrome (TASS)"
+  },
+  "markedAnswer": "B",
+  "explanation": "This patient presents with delayed-onset (chronic) endophthalmitis. This is typically caused by Propionibacterium acnes. Other ocular signs include granulomatous (\"mutton-fat\") keratic precipitates, a small hypopyon, and a mild vitritis. These patients typically respond to topical steroids and have the appearance of posterior capsular opacity. Cultures and intravitreal antibiotic are indicated. If this does not cure the situation, vitrectomy with partial capsular bag removal can be performed. Some patients require their entire capsular bag and intraocular lens to be removed.",
+  "imageUrl": "/images/cornea-oq/p223_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 248,
+  "question": "Which of the following microorganisms is classically associated with an explosive endophthalmitis following penetrating trauma to the eye?",
+  "options": {
+   "A": "Bacillus cereus",
+   "B": "Propionibacterium acnes",
+   "C": "Staphylococcus aureus",
+   "D": "Streptococcus pneumonia"
+  },
+  "markedAnswer": "A",
+  "explanation": "Bacillus are characterized as Gram-positive or Gram-variable rods and are commonly found in soil or other vegetative material. They also are characterized by the production of spores which allows for their survival under adverse environmental conditions. Bacillus cereus is commonly associated with human food poisoning. The classic clinical scenario is someone suffering food poisoning after eating fried rice that has been sitting at room temperature for an extended of time (\"fried rice syndrome\"). Endophthalmitis caused by Bacillus species is typically explosive in presentation. The typical clinical scenario is post-traumatic endophthalmitis whereby soil is introduced inside a ruptured globe. Factors thought to contribute to this explosiveness are: (1) the species' motile nature; and (2) the different toxins secreted by these species. Bacillus cereus accounts for approximately 25% of cases of post-traumatic endophthalmitis. This organism is sensitive to vancomycin or clindamycin given intravitreally.",
+  "imageUrl": "/images/cornea-oq/p223_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 249,
+  "question": "Which of the following organisms is associated with an acute fulminant endophthalmitis following an open globe injury contaminated with soil?",
+  "options": {
+   "A": "Staphylococcus aureus",
+   "B": "Staphylococcus epidermidis",
+   "C": "Bacillus cereus",
+   "D": "Neisseria"
+  },
+  "markedAnswer": "C",
+  "explanation": "Bacillus cereus accounts for ~25% of cases of traumatic endophthalmitis. It is rarely a cause of endophthalmitis in other clinical settings (e.g. post-cataract surgery). Endophthalmitis caused by this organism is extremely aggressive and frequently even results in loss of the eye.",
+  "imageUrl": "/images/cornea-oq/p224_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 250,
+  "question": "Which of the following can be used in the treatment for corneal microsporidiosis?",
+  "options": {
+   "A": "Topical ivermectin",
+   "B": "Topical fumagillin",
+   "C": "Topical natamycin",
+   "D": "Topical polyhexamethylene biguanide"
+  },
+  "markedAnswer": "B",
+  "explanation": "According to the BCSC Cornea, Microsporida are protozoa but they have recently been reclassified as fungi. Rarely, they can cause conjunctivitis or epithelial keratitis in immunocompromised individuals, particularly AIDS patients. In immunocompetent patients microsporida can rarely cause stromal keratitis. In immunocompromised patients where the disease is generally more severe, topical fumagillin can be successful in treating the keratoconjunctivitis. Ivermectin is not used in an ophthalmic drop formulation. Oral ivermectin is used to treat many different worm parasites including “river blindness,” or onchocerciasis. Natamycin is a polyene antifungal agent (like amphotericin) often used in topical form for the treatment of fungal keratitis. Polyhexamethylene biguanide is a disinfectant often used to clean swimming pools. Oddly, it is also effective as a topical treatment for Acanthamoeba keratitis.",
+  "imageUrl": "/images/cornea-oq/p224_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 251,
+  "question": "A homeless 28-year-old very thin man presents to your clinic with a 1-month history of right ocular irritation. His past medical history is significant for PCP pneumonia and repeated bouts of oral thrush.  On exam he has mild, diffuse conjunctival injection and chemosis of the right eye.  You obtain a scraping of the conjunctiva which shows small gram-positive spores in the epithelial cells.  Which of the following is the best treatment for this patient?",
+  "options": {
+   "A": "topical fumagillin",
+   "B": "topical natamycin",
+   "C": "topical macrolide",
+   "D": "topical fluroquinolone"
+  },
+  "markedAnswer": "A",
+  "explanation": "This patient is presenting with microsporidiosis. Topical fumagillin is the treatment of choice. The past medical history of PCP pneumonia suggests he has AIDS. Microsporidia most commonly occurs in patients with AIDS or who are severely immunocompromised. These patients often present with conjunctivitis and epithelial keratopathy. Scraping of the conjunctival epithelial cells with the Brown and Hopps stain will reveal small gram-positive spores.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 252,
+  "question": "A 22-year-old male presents to clinic complaining of itchy eyelids. On exam he has the findings seen in the photo. Which of the following is an accurate recommendation for this patient?",
+  "options": {
+   "A": "baby shampoo",
+   "B": "ointment BID for 5 days to smother the nits",
+   "C": "Bed linen washed and dried at the highest temperature setting (at least 50°C)",
+   "D": "treatment of household pets"
+  },
+  "markedAnswer": "C",
+  "explanation": "The first photo shows pubic lice. The second photo shows the lice on the eyelashes. The nits' eggs hatch in 10 days. Therefore, the ointment has to be applied for a minimum of 10 days. Mechanical removal and treatment of the sexual partner are also treatments. What is the most common cause of acute dacryoadenitis? A.herpes simplex virus B.varicella zoster virus C.Epstein-Barr virus D.cytomegalovirus A: Acute inflammation of the lacrimal gland is most often secondary to sterile inflammatory disease. The most common viral cause is from Epstein-Barr virus. Extra: Disease Inflammation of the lacrimal gland, either the main or the accessory lacrimal gland, is called dacryoadenitis. Not infrequently, this may be a sign of more sinister pathology underlying the inflammation. Etiology Inflammation may result from infections, most commonly viral, but may also be of bacterial and rarely fungal and parasitic etiology. Other causes of inflammation include autoimmune disorders such as Thyroid Eye Disease, Sjogren's syndrome, IgG4 related disease, etc. The most common infectious etiology for dacryoadenitis is viral, with Epstein-Barr virus being the most common viral cause. Less common viral causes include adenovirus, varicella zoster, herpes simplex, rhinovirus, cytomegalovirus or mumps. Bacterial causes include Staphylococcus aureus, especially methicillin-resistant S. aureus, as well as Streptococcus species. In endemic risk areas, tuberculous infections and abscesses have also been reported. Signs Right-sided dacryoadenitis in a young man. Signs of dacryoadenitis include tenderness, edema, erythema or induration overlying the superolateral orbit, lid ptosis, conjunctival injection with or without chemosis, regional lymphadenopathy, proptosis, limitation of ocular motility and rarely visual loss. Fever and malaise may be present. Management Medical therapy Depending on the severity of the presentation, therapy could include observation and symptomatic treatment for viral dacryoadenitis. Bacterial dacryoadenitis will require systemic broad spectrum antibiotics and, when indicated, abscess drainage. Oral corticosteroids may be considered especially in idiopathic dacryoadenitis. Refractory cases may benefit from orbital radiation or systemic therapy such as rituximab or methotrexate. Biopsy for tissue diagnosis should be considered if concerned for atypical infections or for refractory disease. Surgery Although typically reserved for severe or recurrent cases, a trans-septal or trans-conjunctival biopsy of the lacrimal gland may be of diagnostic value if the etiology is in question.",
+  "imageUrl": "/images/cornea-oq/p226_img5.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 253,
+  "question": "What is the most commmon cause of viral dacryoadenitis (i.e. inflammation of the lacrimal gland)?",
+  "options": {
+   "A": "CMV",
+   "B": "Rhinovirus",
+   "C": "HSV",
+   "D": "EBV"
+  },
+  "markedAnswer": "D",
+  "explanation": "Dacryoadentitis is most commonly caused by a sterile inflammatory disease (orbital pseudotumor variant). EBV is the most common cause of viral dacryoadenitis (lacrimal gland inflammation). The multifocal corneal infiltrates are particularly associated with Epstein-Barr Virus (EBV).",
+  "imageUrl": "/images/cornea-oq/p228_img3.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 254,
+  "question": "A chalazion involves chronic inflammation of which glands?",
+  "options": {
+   "A": "meibomian or zeis glands",
+   "B": "meibomian or Moll glands",
+   "C": "meibomian and Krausse",
+   "D": "Zeis and Moll"
+  },
+  "markedAnswer": "A",
+  "explanation": "A chalazion is a lipogranulomatous inflammation involving either the meibomian or Zeis glands which develops from their obstruction. Histologically, a zonal granulomatous inflammatory response centered around lipid is seen. Please remember that meibomian and Zeis glands are examples of holocrine glands and are located within the tarsus (meibomian) and near the lid margin (Zeis). Other types of glands with some brief facts are: • Lacrimal gland - eccrine gland; located in superotemporal orbit • Krause/Wolfring (accessory lacrimal glands) - eccrine gland; located in fornix • glands of Moll - apocrine gland (\"Molly is a sweaty ape\"); located near lid Margin • goblet - holocrine gland; conjunctiva and caruncle Disease Entity Chalazion are differentiated from hordeolum (both external and internal); hordeolum result from acute purulent inflammation of eyelid glands. An external hordeolum (stye) involves the eyelash follicles; an internal hordeolum arises from bacterial infection of a meibomian gland. Disease Chalazion is a chronic sterile lipogranuloma residing within eyelid that originates from an obstructed meibomian gland of the tarsal plates.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 255,
+  "question": "Which of the following antibiotics is most effective for chalazia treatment?",
+  "options": {
+   "A": "Bactrim (sulfamethoxazole/trimethoprim)",
+   "B": "Augmentin (amoxicillin/clavulanic acid)",
+   "C": "Ciloxan (Ciprofloxacin)",
+   "D": "none"
+  },
+  "markedAnswer": "D",
+  "explanation": "Chalazia are sterile inflammations. Therefore, antibiotics do not help the process, with the exception of patients having chalazia and rosacea where tetracyclines (doxycycline) and macrolides (erythromycin) work due to their anti-inflammatory properties.",
+  "imageUrl": "/images/cornea-oq/p230_img10.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 256,
+  "question": "Chalazia are generally secondary to infection with which microorganism?",
+  "options": {
+   "A": "staph aureus",
+   "B": "Staph Epidermidis",
+   "C": "H. influenza",
+   "D": "no microorganism"
+  },
+  "markedAnswer": "D",
+  "explanation": "Chalazia are sterile inflammations. Therefore, antibiotics do not help the process.",
+  "imageUrl": "/images/cornea-oq/p230_img10.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 257,
+  "question": "A patient presents with a central bacterial keratitis. Initial gram stain reveals gram negative rods. You decide to institute broad spectrum antibiotics. Which of the following would be the worst treatment for initial coverage:",
+  "options": {
+   "A": "tobramycin",
+   "B": "ceftazidime",
+   "C": "cefazolin",
+   "D": "fluoroquinolones"
+  },
+  "markedAnswer": "C",
+  "explanation": "Cefazolin has more gram-positive coverage and would be the least optimal choice. Cefazolin is a first generation cephalosporin, ceftazidime is third-generation.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 258,
+  "question": "Infectious crystalline keratopathy has an unusual frosted branch appearance in corneal grafts. Which of the following organisms is most commonly associated with infectious crystalline keratopathy after corneal transplant?",
+  "options": {
+   "A": "Streptococcus pneumoniae",
+   "B": "Staphylococcus aureus",
+   "C": "Streptococcus viridans",
+   "D": "Staphylococcus epidermidis"
+  },
+  "markedAnswer": "C",
+  "explanation": "Infectious crystalline keratopathy (ICK) is characterized by white, branching stromal deposits resembling snowflakes with no or minimal inflammatory signs (e.g. redness, pain). The classic scenario is a patient who has undergone a penetrating keratoplasty (PKP) and is therefore taking chronic topical corticosteroids. The most commonly involved organism is Streptococcus viridans (an alpha-hemolytic Strep species) although other organisms can also cause this entity. Treatment initially consists of topical vancomycin, cessation of corticosteroids, and possible broad spectrum systemic antibiotic use. Cases resistant to treatment may eventually require a repeat PKP.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 259,
+  "question": "What is the most common cause of infectious crystalline keratopathy?",
+  "options": {
+   "A": "beta-hemolytic streptococcus species",
+   "B": "alpha-hemolytic streptococcus species",
+   "C": "coagulase-negative staphylococcus species",
+   "D": "coagulase-positive staphylococcus species"
+  },
+  "markedAnswer": "B",
+  "explanation": "Infectious crystalline keratopathy (ICK) is classically characterized by white, crystalline, opacities within the stroma with a relative paucity of associated inflammatory reaction. ICK is most commonly associated with relatively low virulence alpha-hemolytic streptococcus species such as Streptococcus viridans although it can be caused by beta- hemolytic streptococcus species as well. More rarely ICK can be caused by Haemophilus species, Pseudomonas aeruginosa, and Candida. ICK usually occurs in corneal grafts or corneas that have been treated with chronic topical steroids.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 260,
+  "question": "You are examining a 54-year-old patient who had undergone penetrating keratoplasty in the right eye 5 years prior to presentation for a corneal scar.  On exam, you note the presence of gray-white branching, needle-like opacities within the graft adjacent to a suture track.  There is no epithelial defect and the conjunctival is white and quiet.  Which of the following organisms most classically produces this characteristic presentation?",
+  "options": {
+   "A": "Staphlococcus aureus",
+   "B": "Streptococcus pneumoniae",
+   "C": "Streptococcus viridans",
+   "D": "Staphylococcus epidermidis"
+  },
+  "markedAnswer": "C",
+  "explanation": "This clinical vignettte is alluding to the condition of infectious crystalline keratopathy (ICK) which was first reported in 1983 as a non-inflammatory bacterial colonization of a corneal graft. The classic presentation is in a post-penetrating keratoplasty patient on chronic topical corticosteroids who has gray-white branching opacities with a crystalline appearance in the mid-stroma. The eye is typically quiet without stromal inflammation or conjunctival injection. This process usually occurs beneath an intact epithelium though not always. The pathogenesis of ICK is not definitely known, but the bacteria are thought to gain access to the corneal stroma via epithelial ingrowth through a suture track (or via a small epithelial defect). It is thought that the bacteria evades a host immune response by depositing a biofilm around itself or via a bacterial glycocalyx. The most common causative organism associated with ICK is Streptococcus viridans which is an alpha-hemolytic type of Streptococcus. Other less common causative organisms reported in the literature include Streptococcus pneumoniae, Haemophilus influenzae, and Mycobacterium species among many other organisms. Treatment of ICK typically begins with fortified topical antibiotics with coverage against S. viridans. Examples include fortified vancomycin or cefazolin. Most clinicians will also discontinue corticosteroids if the patient is currently using them. Extra: Disease Entity Infectious Crystalline Keratopathy (ICK) is a rare infection of the cornea that results in grey- white, branching stromal opacities in the cornea with little surrounding inflammation. It has been associated with long-term topical steroid therapy and is most commonly found in patients who have had previous penetrating keratoplasty[1].",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 261,
+  "question": "Which of the following organisms is of particular concern for causing post-refractive surgery keratitis occurring greater than 10 days after the procedure?",
+  "options": {
+   "A": "Mycobacteria",
+   "B": "Staphlococcus",
+   "C": "Streptococcus viridans"
+  },
+  "markedAnswer": "A",
+  "explanation": "Post-refractive surgery infectious keratitis occurring within 10 days are generally caused by Gram-positive bacteria. Infections occurring >10 days after the procedure are generally due to atypical mycobacteria or fungus.",
+  "imageUrl": "/images/cornea-oq/p233_img4.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 262,
+  "question": "Phlyctenulosis is characterized by which of the following?",
+  "options": {
+   "A": "it typically causes scarring with a decrease in visual acuity",
+   "B": "it is associated with Mycobacterium tuberculosis in developed countries",
+   "C": "it is associated with Staphylococcus aureus in developing countries",
+   "D": "it presents as limbal nodules with vessel engorgement"
+  },
+  "markedAnswer": "D",
+  "explanation": "Phlyctenulosis is associated with Staphylococcus aureus in developed countries and Mycobacterium tuberculosis in developing countries. It presents as limbal nodules with vessel engorgement. Phlyctenulosis is generally not associated with scarring or decreases in vision. It is thought to be due to a delayed (type IV) hypersensitivity reaction to bacterial cell wall antigens. They present as small rounded nodules and are surrounded by engorged blood vessels. They typically necrose centrally and involute over the course of 2-3 weeks. A scar is left behind in limbal hlyctenulosis . Extra: Disease Phlyctenular keratoconjunctivitis is a nodular inflammation of the cornea or conjunctiva that results from a hypersensitivity reaction to a foreign antigen Phlyctenular keratoconjunctivitis is postulated to occur secondary to an allergic, hypersensitivity reaction at the cornea or conjunctiva, following re-exposure to an infectious antigen that the host has been previously sensitized to.[2][7][8] Antigens of Staphylococcus aureus and Mycobacterium tuberculosis are most commonly associated.",
+  "imageUrl": "/images/cornea-oq/p234_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 263,
+  "question": "Which of the following is the most common mode of acquiring Toxoplasma gondii?",
+  "options": {
+   "A": "bird handling",
+   "B": "ingestion of undercooked meat",
+   "C": "ingestion of frog feces",
+   "D": "blood transfusion"
+  },
+  "markedAnswer": "B",
+  "explanation": "Toxoplasmosis is caused by infection by the protozoan, Toxoplasma gondii. It is said to infect up to one-third of the world's population and is the most common cause of posterior uveitis. It is thought that the most common (~50%) mechanism of acquiring this protozoan is via ingestion of undercooked or raw meat. Toxoplasma can also be transmitted to humans via ingestion of its oocytes via exposure to cat feces, soil, or unwashed fruits and vegetables. Acute toxoplasma infections are commonly asymptomatic in pregnant women, but this organism can be transmitted transplacentally to the fetus and cause death or major morbidity (e.g. blindness, intellectual disability, seizures). Therefore, pregnant women should avoid changing cat litter or handling raw or undercooked meat.",
+  "imageUrl": "/images/cornea-oq/p129_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 264,
+  "question": "Which of the following is the most proper treatment?",
+  "options": {
+   "A": "Prescribe a broad-spectrum fluoroquinolone to be used every hour and see the patient in 2-3 days",
+   "B": "Have the patient discontinue contact lenses. No antibiotics are necessary at this time pending serial examinations with close follow up.",
+   "C": "Have the patient use frequent artificial tears and see the patient in about a week",
+   "D": "Scrape and culture the cornea. Have the patient discontinue contact lenses. Prescribe a broad spectrum fluoroquinolone and see the patient the next day."
+  },
+  "markedAnswer": "B",
+  "explanation": "These findings are very typical of sterile infiltrates due to contact lens use. The best treatment is discontinue contact lens use until they resolve (choice B) with close follow up. At this time, the clinical picture does NOT suggest an infectious etiology, but this certainly may evolve into one quickly. The best course of action, AT THIS TIME, is to discontinue the contact lenses and arrange for close follow up. Artificial tears may be given for comfort. Topical steroids may be started if after 1-2 days of follow up, there is no evidence of infection. In general, you should have evidence of infection before starting antibiotics (choice A) - needless use of topical antibiotics will eventually breed the ophthalmic super-bug that will destroy us all in a fiery blaze of corneal ulcers. Seeing the patient after a week (choice C) is also not appropriate given that this patient represents a moderate risk of developing infectious pathology, and thus close follow up would be advisable. Scraping the cornea at this time, without evidence of clinical infection, especially in the context of intact epithelium, would not be a wise choice (answer choice D). These findings could also be consistent with Staphlococcus marginal keratitis. But the least invasive treatment would be to discontinue contact lens use.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 265,
+  "question": "You are seeing a 33 yo patient in follow up. She had a active HSV stromal corneal infection 5 years ago that was 4 mm from her visual axis. The ulcer took several months to heal and during that time she had vascular ingrowth into the cornea. Since that time she has slowly developed lipid keratopathy that is starting to encroach on her visual axis. Which of the following would be the best treatment for the patient:",
+  "options": {
+   "A": "superficial keratectomy",
+   "B": "PTK",
+   "C": "argon laser to limbal feeding vessels",
+   "D": "topical trifluoridine"
+  },
+  "markedAnswer": "C",
+  "explanation": "This cuts the source of the lipid exudate off at its origin. Often after HSV neovascular ingrowth, these vessels are leaky and sometimes the cholesterol can encroach on the visual axis.",
+  "imageUrl": "/images/cornea-oq/p237_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 266,
+  "question": "Which of the following is commonly seen with primary HSV infection:",
+  "options": {
+   "A": "endotheliitis",
+   "B": "enlarged preauricular lymph node",
+   "C": "uveitis",
+   "D": "stromal keratitis"
+  },
+  "markedAnswer": "B",
+  "explanation": "Stromal keratitis, endothelioses, and uveitis generally occur in a previously sensitized immune system and not with primary HSV infection.",
+  "imageUrl": "/images/cornea-oq/p237_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 267,
+  "question": "Herpetic disciform keratitis is characterized by which of the following:",
+  "options": {
+   "A": "underlying mechanism is a uveitis with KP",
+   "B": "HSV disciform keratitis is worse than VZV disciform keratitis",
+   "C": "overlying stroma and epithelium have edema in a round pattern",
+   "D": "underlying mechanism is a stromal keratitis"
+  },
+  "markedAnswer": "C",
+  "explanation": "Disciform keratitis is secondary to an endotheliitis. Oral acyclovir is thought to penetrate into the deeper corneal tissues through the aqueous and is used in addition to topical trifluridine (Viroptic) or topical gancyclovir (Zirgan) by some corneal specialists. Disciform keratitis secondary to HSV or VZV present the same. The overlying stroma and epithelium have edema in a round pattern.",
+  "imageUrl": "/images/cornea-oq/p237_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 268,
+  "question": "According to the Herpetic Eye Disease study (HEDS), what is the preferred treatment for herpetic stromal keratitis?",
+  "options": {
+   "A": "Oral acyclovir alone",
+   "B": "Topical steroids alone",
+   "C": "Topical trifluridine alone",
+   "D": "Topical trifluridine and topical steroids"
+  },
+  "markedAnswer": "D",
+  "explanation": "The HEDS trial showed that topical trifluridine and topical steroids expedite resolution of stromal inflammation in herpes simplex virus (HSV) stromal keratitis. The trial also examined whether adding an additional oral agent such as acyclovir to topical trifluridine and topical steroids would be beneficial and found that adding the oral agent did not provide any additional improvement. However, long term oral antiviral prophylaxis was shown to reduce recurrences of HSV keratitis leading to the general recommendation that any patient with more than one episode of HSV keratitis should be on chronic prophylaxis. Interestingly, the HEDS trial did not examine whether topical trifluridine with topical steroids is better than oral acyclovir with topical steroids. The general consensus is that an appropriately-dosed oral antiviral along with a topical steroid is an acceptable alternative to topical trifluridine with topical steroids in patients with HSV stromal keratitis. To clarify, the antiviral agent is utilized in isolated HSV stromal keratitis to prevent epithelial keratitis while on the steroid drops.",
+  "imageUrl": "/images/cornea-oq/p238_img2.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 269,
+  "question": "What was the treatment regimen for stromal keratitis in the HEDS (Herpetic Eye Disease Study) study?",
+  "options": {
+   "A": "prednisolone q2 hours with topical trifluridine qid",
+   "B": "prednisolone qid and trifluridine qid",
+   "C": "prednisolone TID and trifluridine TID",
+   "D": "prednisolone 6x/day and trifluridine 6x/da"
+  },
+  "markedAnswer": "A",
+  "explanation": "The treatment regimen for the stromal keratitis arm of the HEDS study was topical prednisolone q2 hours and topical trifluridine 4x/day. Stromal keratitis secondary to herpes simplex is mainly an autoimmune phenomenon. Therefore, the main treatment involves topical steroids. The topical antiviral was used to prevent an outbreak of epithelial keratitis. The stromal keratitis arm of the HEDS study showed that there was no benefit to adding oral acyclovir to topical prednisolone and trifluridine.",
+  "imageUrl": "/images/cornea-oq/p239_img10.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 270,
+  "question": "For the treatment of stromal keratitis in the HEDS study, what was the effect of adding oral acyclovir to topical trifluridine (Viroptic) and corticosteroid?",
+  "options": {
+   "A": "increased effect (quicker time to stromal keratitis resolution)",
+   "B": "decreased effect (longer time to stromal keratitis resolution)",
+   "C": "no effect (no change in time to stromal keratitis resolution)",
+   "D": "increase in the amount of recurrence"
+  },
+  "markedAnswer": "A",
+  "explanation": "All arms of the HEDS study had patients receiving topical antivirals.",
+  "imageUrl": "/images/cornea-oq/p239_img10.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 271,
+  "question": "Which of the following medications was used in all arms of the HEDS study?",
+  "options": {
+   "A": "topical trifluridine (Viroptic)",
+   "B": "topical corticosteroids",
+   "C": "oral acyclovir",
+   "D": "oral corticosteroids"
+  },
+  "markedAnswer": "A",
+  "explanation": "All arms of the HEDS study had patients receiving topical antivirals.",
+  "imageUrl": "/images/cornea-oq/p239_img10.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 272,
+  "question": "Which of the following statements about hsv epithelial keratitis are false:",
+  "options": {
+   "A": "topical antivirals should generally be stopped within 10-14 days to avoid neurotrophic keratopathy",
+   "B": "topical corticosteroids are indicated with epithelial keratitis to reduce the incidence of stromal keratitis",
+   "C": "it is generally a self limited disease with topical therapy only shortening the duration of symptoms",
+   "D": "valtrex should be used with caution in HIV positive patients to avoid TTP and HUS"
+  },
+  "markedAnswer": "B",
+  "explanation": "The treatment algorithm used in the HEDS study had all the patients with HSV epithelial keratitis on trifluridine 1% (Viroptic) 8x/day. One arm of the study then divided these patients into receiving oral acyclovir (400mg 5x/day) vs placebo. The study showed that there was no advantage to adding oral acyclovir on top of topical Viroptic. But there was no part of the HEDS study that involved treating epithelial keratitis with topical steroids! This would be like pouring gasoline on a fire. Epithelial keratitis is secondary to actively replicating HSV virus. Stromal keratitis is thought to be mainly an immune reaction. So, patients with stromal keratitis are treated with topical steroids for the immune reaction and topical antivirals to suppress a potential epithelial keratitis. But, patients with epithelial keratitis only receive topical antivirals.",
+  "imageUrl": "/images/cornea-oq/p272_img7.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 273,
+  "question": "According to the HEDS study, which of the following environmental factors was associated with recurrence of HSV?",
+  "options": {
+   "A": "sunlight exposure",
+   "B": "stress",
+   "C": "upper respiratory tract infection",
+   "D": "none"
+  },
+  "markedAnswer": "D",
+  "explanation": "Although most patients and corneal specialists believe there is an association with HSV outbreaks and environmental stressors, none were statistically associated in the HEDS study.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 274,
+  "question": "You diagnose a 14 year old patient with bilateral epithelial keratitis secondary to HSV. You decide to place the patient on Valacyclovir (Valtrex) to resolve the keratitis. Which of the following side effects should you be particularly concerned about in this patient?",
+  "options": {
+   "A": "thrombotic thrombocytopenic purpura and hemolytic uremia syndrome",
+   "B": "liver failure",
+   "C": "cerebral edema",
+   "D": "high output cardiomyopathy"
+  },
+  "markedAnswer": "A",
+  "explanation": "This patient is presenting with bilateral HSV epithelial keratitis and is young. This should raise suspicion that the patient is immunocompromised (possibly with AIDs). Patients who are immunocompromised and who take valacyclovir (Valtrex) can develop thrombotic thrombocytopenic purpura and hemolytic uremia syndrome.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 275,
+  "question": "What type of intranuclear inclusion body is formed by HSV and VZV?",
+  "options": {
+   "A": "Lipschick body",
+   "B": "Halberstaideter-Prowazek body",
+   "C": "Cowdry type I",
+   "D": "Smith body"
+  },
+  "markedAnswer": "C",
+  "explanation": "Halberstaedter-Prowazek Bodies are seen in trachoma. Cowdry type I bodies (Lipschutz Inclusions) are seen with Herpes Virus infections (HSV and VZV). Extra: silly memory tool: \"cow lips have herpes\" cowdry, lipschutz, for HSV and VZV.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 276,
+  "question": "What type of inclusion body caps the nucleus and is formed by Chlamydia?",
+  "options": {
+   "A": "Lipschick body",
+   "B": "Smith body",
+   "C": "Winterbach body",
+   "D": "Halberstadter-Prowazek body"
+  },
+  "markedAnswer": "D",
+  "explanation": "",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 277,
+  "question": "The condition that causes the finding in the photo is associated with which of the following:",
+  "options": {
+   "A": "dendrites with tapered ends",
+   "B": "dendrites with terminal bulbs that stain with Rose Bengal",
+   "C": "negative staining to the bed of the dendrite",
+   "D": "sectoral iris atrophy"
+  },
+  "markedAnswer": "B",
+  "explanation": "This is an HSV epithelial dendrite. HSV dendrites have terminal bulbs that stain with Rose Bengal and a bed that positively stains with fluorescein. Dendrites with tapered ends are associated with VZV. HSV is associated with patchy iris atrophy. VZV has sectoral iris atrophy. Negative staining refers to the situation where a raised lesion protrudes through the fluorescein. This can occur with VZV mucous plaque lesions.",
+  "imageUrl": "/images/cornea-oq/p242_img9.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 278,
+  "question": "A 25-year-old woman presents to your office with complaints of left eye pain for the past 3 days. Her slit-lamp exam OS is shown in the photo above. Which of the following statements is TRUE regarding the vital dye that was used in the photo above?",
+  "options": {
+   "A": "it stains exposed corneal epithelial basement membrane.",
+   "B": "it binds preferentially to virus-infected cells.",
+   "C": "it stains dead and devitalized epithelial and conjunctival cells.",
+   "D": "it does not inhibit herpes simplex virus (HSV) replication."
+  },
+  "markedAnswer": "C",
+  "explanation": "The slit-lamp photo depicts the classic dendrites of HSV epithelial keratitis which have been stained with rose bengal. Unlike fluorescein dye which stains epithelial basement membrane (e.g. in epithelial defects), rose bengal preferentially stains dead/devitalized corneal epithelial and conjunctival cells. Rose bengal binds equally well to virally-infected and non-infected devitalized cells and has the ability to inhibit HSV replication. Extra: A good memory tool: You put roses on a grave = rose bengal is for dead/devitalized cells Grass grows on the ground = fluorescein (green like grass) sticks to the basement membrane (\"ground\" that epithelial cells \"stand on\") This helpful tip is hot off the press! I give until it hurts, people.",
+  "imageUrl": "/images/cornea-oq/p243_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 279,
+  "question": "Which of the following signs or symptoms is a hallmark of herpetic-induced uveitis?",
+  "options": {
+   "A": "decreased IOP (intraocular pressure)",
+   "B": "increased IOP (intraocular pressure)",
+   "C": "increased inflammation",
+   "D": "verticiform endothelial opacities"
+  },
+  "markedAnswer": "B",
+  "explanation": "Uveitis not due to Herpes (HSV and VZV) is typically accompanied by a decrease in pressure in contrast to the uveitis seen with Herpes, which typically has an increase in pressure. The elevation in IOP with Herpetic iridocyclitis is thought to be due to a trabeculitis which reduces aqueous outflow. Uveitis secondary to other causes releases cytokines that increase uveoscleral outflow (which decreases pressure). In addition, uveitis from other causes typically results in ciliary body hyposecretion and thus decreased IOP.",
+  "imageUrl": "/images/cornea-oq/p243_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 280,
+  "question": "A 30-year-old comes in with about 1 week of injection and tearing. Her symptoms started in her right eye and then appeared in her left eye. Her slit lamp exam is shown above. What is the underlying pathophysiology of her corneal findings?",
+  "options": {
+   "A": "White blood cell aggregation along the endothelium with granuloma formation",
+   "B": "Contact lens overuse related epithelial erosions",
+   "C": "Multiple myeloma associated immune complex deposition",
+   "D": "Immunopathologic reaction localized to the anterior stroma"
+  },
+  "markedAnswer": "D",
+  "explanation": "This patient's history of acute ocular irritation in one eye followed by the other along with the photograph showing faint corneal opacities are classic for viral conjunctivitis followed by formation of subepithelial infiltrates. Usually associated with adenovirus, epidemic keratoconjunctivitis (EKC) results in a severe follicular conjunctivitis acutely. About 1-3 weeks after acute infection, multifocal subepithelial infiltrates form throughout the cornea and are believed to be a combination of white blood cells and immune-complex deposits. These complexes can result in blurred vision when in the central visual axis and may last for months. Topical steroids may be considered to aide in resolution of visually significant subepithelial infiltrates. Contact lens overuse can cause sterile corneal infiltrates, epithelial erosions / abrasions, and corneal ulcers. This patient shows stromal infiltrates, however. Multiple myeloma associated immune complex deposition is rare as opposed to EKC which is common and multiple myeloma depositions are usually crystalline in nature. Multiple myeloma is also more common in older patients (median age about 70 years). Answer choice A refers to granulomatous \"mutton fat\" keratopercipitates (KP) which are seen in some forms of anterior uveitis. These occur along the endothelium and are usually located in a wedge shaped region inferiorly called Arlt's triangle as opposed to this picture showing diffuse infiltrates in the anterior stroma. \"Mutton fat\" KP also usually appear more dense as compared to these rather faint infiltrates.",
+  "imageUrl": "/images/cornea-oq/p244_img8.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ }
+]

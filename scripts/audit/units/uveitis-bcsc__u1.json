@@ -1,0 +1,1052 @@
+[
+ {
+  "id": 1,
+  "question": "What is the ﬁrst-line oral antibiotic in the treatment of ocular Lyme disease (LD)?",
+  "options": {
+   "A": "trimethoprim-sulfamethoxazole",
+   "B": "chloramphenicol",
+   "C": "ciproﬂoxacin",
+   "D": "doxycycline"
+  },
+  "markedAnswer": "D",
+  "explanation": "Ocular LD is typically treated in the same manner as central nervous system (CNS) LD. The antibiotics doxycycline, amoxicillin, and ceftriaxone (and other penicillin family members) are most eﬀective in treating ocular LD. Chloramphenicol, a broad-spectrum antibiotic, is typically administered intravenously and orally but is also available as an ophthalmic suspension outside the US. Chloramphenicol has been used to treat intraocular rickettsial infections (gram-negative arthropod-borne bacteria), but not the spirochete Borrelia burgdorferi, the etiologic agent causing LD. Ciproﬂoxacin, a ﬂuoroquinolone, has good coverage against gram- negative bacteria, but it is not as eﬀective in treating spirochetal infections as doxycycline and the penicillin-family antibiotics.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 2,
+  "question": "What type of macrophage expresses major histocompatibility (MHC) class II antigen, can function as an antigen- presenting cell to T lymphocytes, and can exit tissue sites by aﬀerent lymphatic vessels to reenter lymph nodes?",
+  "options": {
+   "A": "activated macrophage",
+   "B": "primed macrophage",
+   "C": "stimulated macrophage",
+   "D": "resting macrophage"
+  },
+  "markedAnswer": "B",
+  "explanation": "Resting macrophages are the classic scavenging cells, capable of phagocytosis and uptake of dead cell membranes, chemically modiﬁed extracellular protein (ie, acetylated or oxidized lipoproteins), sugar ligands, naked nucleic acids, and bacterial pathogens. Resting monocytes express at least 3 types of scavenging receptors but synthesize very low levels of proinﬂammatory cytokines. Scavenging can occur in the absence of inﬂammation.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 3,
+  "question": "A 56-year-old woman with bilateral recurrent idiopathic anterior and intermediate uveitis has been stable on 10 mg/day of systemic prednisone and 15 mg/week of methotrexate for 3 months. Dual energy x-ray absorptiometry [DXA]) shows normal age-matched levels. What additional treatment should be recommended?",
+  "options": {
+   "A": "Stop steroids.",
+   "B": "Add zoledronic acid.",
+   "C": "Add calcium and vitamin D supplementation.",
+   "D": "Switch methotrexate to azathioprine."
+  },
+  "markedAnswer": "C",
+  "explanation": "This is a patient with controlled uveitis. It is advisable to spare steroids in the treatment of uveitis as much as possible; however, low doses of steroids, such as 7.5 mg/day, are permissible as long as there are no steroid-related complications. Stopping the steroids suddenly or switching to azathioprine may exacerbate uveitis. American College of Rheumatology (ACR) Task Force osteoporosis guidelines suggest that patients taking glucocorticoids (any dose with an anticipated duration of ≥3 months) maintain a total calcium intake of 1200 mg/day and vitamin D intake of 800 international units/day through diet and/or supplements. Patients with the highest risk for fracture, determined by a combination of bone mineral density (BMD) and clinical risk factors, are the ones most likely to beneﬁt from drug therapy with bisphosphonates like zoledronic acid. IgG.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 4,
+  "question": "What immunoglobulin has the highest concentration in the blood serum?",
+  "options": {
+   "A": "IgG",
+   "B": "IgA",
+   "C": "IgM",
+   "D": "IgE"
+  },
+  "markedAnswer": "A",
+  "explanation": "The correct answer is IgG. There are 5 major classes of immunoglobulins: IgA, IgG, IgM, IgE, and IgD. The most common immunoglobulin found in blood serum is IgG, followed by IgA, IgM, and then IgD and IgE. An immunoglobulin is composed of 2 domains: the Fab (fragment, antigen-binding) and the Fc (fragment crystallizable). The Fab portion is the antigen recognition-combining domain, also called the hypervariable region. The Fc region is the attachment site for eﬀector cells, activating various pathways such as complement activation. IgG is a monomer, and found mostly in the intravascular serum. IgG is signiﬁcant in that it can cross the placenta. IgG contributes to more than 50% of the serum immunoglobulins. Their Fc region binds to a variety of cells, including monocytes and killer lymphocytes. These participate in both antibody-dependent cellular cytotoxicity and cytolysis. IgA is found predominately in mucosa secretions. It is a monomer in serum, but it is a dimer in secretions. Its main function is mucosal immunity and neutralization. IgM is found mostly on B lymphocytes or in the intravascular space. Its structure is a pentamer or hexameter, and it is a strong activator of the complement system. It is also important to know that IgM is the primary immune response to new antigens (and will be elevated immediately after infection), whereas IgG is a mature immune response to antigens previously processed. IgE is a monomer that is found mostly in skin or mucosa. Its Fc domain binds mast cells, causing degranulation of the mast cell and recruitment of eosinophils.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 5,
+  "question": "By what mechanism is mycophenolate mofetil thought to ameliorate autoimmune uveitis?",
+  "options": {
+   "A": "crosslinking DNA in rapidly dividing cells",
+   "B": "induction of tolerance",
+   "C": "inhibiting bacterial ribosomes",
+   "D": "inhibits inosine monophosphate dehydrogenase and DNA synthesis"
+  },
+  "markedAnswer": "D",
+  "explanation": "Mycophenolate mofetil inhibits inosine monophosphate dehydrogenase, which prevents the synthesis of the purine nucleotide guanosine. This prevents B and T lymphocyte synthesis, and leads to aberrant base pairing, ring cleavage, and depurination, which leads to cell death. Inhibition of bacterial ribosomes characterizes the mechanism of action of some antibiotics (for example streptomycin, erythromycin, and chloramphenicol). Therapies that reliably induce immunologic tolerance in autoinﬂammatory conditions are being developed, but they have yet to show eﬃcacy in uveitis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 6,
+  "question": "What is the most likely etiology of the patient's elevated IOP?",
+  "options": {
+   "A": "Toxoplasma retinochoroiditis",
+   "B": "pupillary block with iris bombé",
+   "C": "herpetic anterior uveitis",
+   "D": "steroid-induced ocular hypertension"
+  },
+  "markedAnswer": "C",
+  "explanation": "The most likely diagnosis is a herpetic uveitis, given the classic features of a hypertensive anterior uveitis with diﬀuse stellate keratic precipitates. Although toxoplasma-associated retinochoroiditis can exhibit anterior chamber inﬂammation and ocular hypertension, this is unlikely to be the cause of the current case's inﬂammation, as dilated BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 7,
+  "question": "What medicine can be given intravitreally to treat ocular toxoplasmosis in patients who are intolerant to systemic therapy?",
+  "options": {
+   "A": "voriconazole",
+   "B": "vancomycin",
+   "C": "amikacin",
+   "D": "clindamycin"
+  },
+  "markedAnswer": "D",
+  "explanation": "Ocular toxoplasmosis is usually treated with oral antibiotics. Trimethoprim-sulfamethoxazole is most commonly used. Triple therapy with sulfadiazine, pyrimethamine, and prednisone, or quadruple therapy, with the addition of clindamycin, may also be used. In patients who are intolerant to systemic therapy or fail to respond to systemic therapy, intravitreal clindamycin can be used with or without dexamethasone. Intravitreal amikacin and vancomycin are used to treat bacterial endophthalmitis. Intravitreal voriconazole is used to treat fungal endophthalmitis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 8,
+  "question": "A 29-year-old White man presents with gradually worsening nyctalopia and decreasing vision over several years. His visual acuity is 20/30; there are rare anterior chamber cells, trace vitreous cells, and macular edema; and the retinal periphery has bone spicule pigmentation in both eyes. There is no history of trauma. He reports multiple sexual partners. There is no history of any eye disease in the family. What test would most likely reveal a speciﬁc etiology for his ﬁndings?",
+  "options": {
+   "A": "visual ﬁeld",
+   "B": "electroretinography (ERG)",
+   "C": "treponemal test",
+   "D": "HLA-A29 test"
+  },
+  "markedAnswer": "C",
+  "explanation": "Although this could be birdshot chorioretinopathy, an HLA-A29 test will be positive in 7% or more of whites; therefore, this test does not by itself make the diagnosis. In addition, such advanced birdshot chorioretinopathy would be rare in this age group. Retinitis pigmentosa should also be in the diﬀerential, but neither ERG nor visual ﬁeld is speciﬁc for the diagnosis and can be abnormal in many processes, including birdshot chorioretinopathy and syphilis, where the retina is involved. Although it is important to perform these tests, they will not enable a speciﬁc diagnosis to be made. A syphilitic etiology, which can masquerade as noninfectious uveitis, should also be on the diﬀerential list. A speciﬁc treponemal serologic test should be checked to rule out this infectious process. A positive speciﬁc treponemal serologic test result without a history of being treated for syphilis should warrant treatment of this condition.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 9,
+  "question": "What topical corticosteroid medication is most likely to cause a corticosteroid-response elevation in IOP?",
+  "options": {
+   "A": "loteprednol 0.5%",
+   "B": "ﬂuorometholone 0.1%",
+   "C": "prednisolone acetate 1%",
+   "D": "rimexolone 1%"
+  },
+  "markedAnswer": "C",
+  "explanation": "Of the choices listed, prednisolone acetate 1% demonstrates the greatest eﬀect of decreasing intraocular inﬂammation, and the greatest eﬀect of increasing IOP. Rimexolone has a slightly less potent eﬀect. Fluorometholone is a very potent corticosteroid, but penetrates poorly into the eye and therefore is less likely to result in an increase in IOP. Loteprednol is also less likely to raise IOP. Diﬂuprednate, a newer corticosteroid, may have a similar rate of elevation of IOP. Clinical studies suggest diﬂuprednate has a similar adverse eﬀect proﬁle to prednisolone, but is associated with potentially higher rises in IOP.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 10,
+  "question": "A 42-year-old Iranian man reports decreased vision in his right eye over the past 3 days. He does not endorse signiﬁcant pain or discomfort, but on review of systems, the ophthalmologist discovers that he also has ulcers on the inside of his mouth. For which HLA haplotype would the patient most likely be positive? loteprednol 0.5 A.",
+  "options": {
+   "A": "HLA-DR4",
+   "B": "HLA-B27",
+   "C": "HLA-B51",
+   "D": "HLA-A29"
+  },
+  "markedAnswer": "C",
+  "explanation": "The clinical presentation is one of Behçet disease. Panuveitis with occlusive retinal vasculitis is the most common presentation. HLA-B51 is commonly associated with Behçet disease with ocular manifestations. However, the diagnosis of Behçet is clinical, and laboratory tests are of little value in conﬁrming the diagnosis. HLA-A29 is more common in patients with birdshot chorioretinopathy, HLA-B27 is associated with acute anterior uveitis, and HLA-DR4 is weakly associated with Vogt-Koyanagi-Harada syndrome.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 11,
+  "question": "A patient presents with new stellate diﬀuse keratic precipitates, anterior chamber inﬂammation, and reduced corneal sensation. What is the most likely diagnosis?",
+  "options": {
+   "A": "glaucomatocyclitic crisis",
+   "B": "herpes simplex virus",
+   "C": "Fuchs uveitis syndrome",
+   "D": "HLA-B27 associated anterior uveitis"
+  },
+  "markedAnswer": "B",
+  "explanation": "Stellate diﬀuse KPs (as opposed to the inferior one-third of the cornea, the Arlt triangle) are seen in patients with intraocular viral infections (especially with herpes group viruses), Fuchs uveitis syndrome (sometimes called Fuchs heterochromic iridocyclitis or Fuchs heterochromic uveitis), and toxoplasmosis. As in Fuchs uveitis syndrome, uveitis secondary to herpes viruses is mostly unilateral. oocyte harvest and banking A. 56%.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 12,
+  "question": "A 27-year-old woman has bilateral panuveitis, cavitary lung lesions, and kidney failure. What prophylactic measures should be considered before initiating deﬁnitive therapy with the most eﬀective immunomodulatory treatment for this condition?",
+  "options": {
+   "A": "oocyte harvest and banking",
+   "B": "screening for thiopurine S- methyltransferase (TPMT) deﬁciency",
+   "C": "transesophageal echocardiogram",
+   "D": "dual-energy X-ray absorptiometry (DEXA) scan/bone densitometry"
+  },
+  "markedAnswer": "A",
+  "explanation": "The patient in this clinical scenario has granulomatosis with polyangiitis (GPA). Of GPA patients treated with cyclophosphamide and corticosteroids, 93% successfully achieve remission. Oocyte harvest and banking is prudent in a patient about to start cyclophosphamide who plans future pregnancies. Cyclophosphamide interferes with oogenesis and spermatogenesis. It may cause sterility in both sexes, and in some patients this may be irreversible. Other well- established adverse eﬀects include teratogenicity, hemorrhagic cystitis, and development of secondary malignancies. Variants in the gene encoding thiopurine S-methyltransferase (TPMT) alter its activity and may contribute to increased risk of hematologic events or leukopenia in treatment with thiopurines (eg, azathioprine), not cyclophosphamide. Dual-energy X-ray absorptiometry (DEXA) scan/bone densitometry detects osteopenia/osteoporosis. It is useful in long-term corticosteroid administration, but osteopenia is not a signiﬁcant risk of cyclophosphamide use. Transesophageal echocardiogram detects cardiac and valvular structural abnormalities. Cardiac valve disease is not a signiﬁcant risk of cyclophosphamide use, although acute cardiotoxicity has been reported in the setting of antineoplastic multi-drug therapy and transplant procedures involving this drug.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 13,
+  "question": "A 75-year-old man is having trouble driving at night and reading small print. He sees intermittent ﬂashes of light OU. Visual acuity is 20/50 OD, 20/20 OS with no relative aﬀerent pupillary defect. There is 2+ nuclear sclerosis OU. The fundus appearance and optical coherence tomography (OCT) result are shown in the ﬁgure. What testing and/or management should be pursued at this time?",
+  "options": {
+   "A": "cataract surgery",
+   "B": "full-ﬁeld electroretinography",
+   "C": "observation and reassurance",
+   "D": "magnetic resonance imaging (MRI) of brain and orbits with contrast"
+  },
+  "markedAnswer": "B",
+  "explanation": "This patient notes photopsias and night blindness. The fundus examination shows severe vascular attenuation without obvious pigmentary changes. The OCT shows hyperreﬂectivity and disruption of the outer nuclear layer and decreased reﬂectivity in the ellipsoid zone. This constellation of symptoms and ﬁndings in a 75-year-old patient raises concern for a paraneoplastic process such as cancer- associated retinopathy (CAR). A full-ﬁeld electroretinogram (ERG) will be abnormal in CAR. The characteristic ERG in CAR shows decreased cone responses. Blood tests for anti-retinal antibodies also can be obtained, although the antibodies often are nonspeciﬁc. MRI of the brain/orbits is not indicated, given the lack of evidence for optic nerve disease or other central nervous system disease. Observation is not appropriate in this situation, given the funduscopic and OCT ﬁndings, and cataract surgery should not be done until alternative causes for the vision loss are excluded.",
+  "imageUrl": "/images/uveitis-bcsc/p15_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 14,
+  "question": "What systemic medical condition is associated with acute posterior multifocal placoid pigment epitheliopathy (APMPPE)?",
+  "options": {
+   "A": "central nervous system lymphoma",
+   "B": "multiple sclerosis (MS)",
+   "C": "rheumatoid arthritis",
+   "D": "cerebral vasculitis"
+  },
+  "markedAnswer": "D",
+  "explanation": "Although APMPPE typically occurs in otherwise healthy adults, systemic conditions should be considered. Cerebral vasculitis can be a complicating comorbid condition, and syphilis may masquerade with an indistinguishable fundus appearance. Rheumatoid arthritis is the most common autoimmune disease associated with scleritis or peripheral ulcerative keratitis. MS has been associated with many types of ocular inﬂammation but optic neuritis and intermediate uveitis are most typical. Central nervous system lymphoma may present with intraocular lymphoma; the subretinal and vitreous aggregates of lymphoid cells may share features of APMPPE at ﬁrst, but typically aﬀect much older patients, and are progressive—both uncharacteristic of APMPPE. non-Hodgkin B-lymphocyte lymphomas A. 86% Correct Answer Explanation & Notes Discussion BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 15,
+  "question": "What is the etiology of nearly all cases of primary vitreoretinal lymphoma (PVRL)?",
+  "options": {
+   "A": "non-Hodgkin B-lymphocyte lymphomas",
+   "B": "lymphoplasmacytic lymphoma",
+   "C": "nodular lymphocyte-predominant Hodgkin disease",
+   "D": "T-lymphocyte lymphomas"
+  },
+  "markedAnswer": "A",
+  "explanation": "Nearly all (98%) cases of primary vitreoretinal lymphoma are non- Hodgkin B-lymphocyte lymphomas. Approximately 2% are T- lymphocyte lymphomas. The other types (T-lymphocyte lymphomas, nodular lymphocyte-predominant Hodgkin disease, lymphoplasmacytic lymphoma) are not implicated in PVRL. mycophenolate.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 16,
+  "question": "Gingival hyperplasia is a side eﬀect of what immunosuppressive drug?",
+  "options": {
+   "A": "mycophenolate",
+   "B": "cyclophosphamide",
+   "C": "cyclosporine",
+   "D": "methotrexate"
+  },
+  "markedAnswer": "C",
+  "explanation": "Cyclosporine induces gingival hyperplasia, and prophylactic dental cleaning and daily ﬂossing are recommended for patients taking the drug. Cyclophosphamide is associated with myelosuppression and hemorrhagic cystitis. Mycophenolate and methotrexate is associated with hepatotoxicity and gastrointestinal side eﬀects.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 17,
+  "question": "What clinical ﬁnding is most characteristic of secondary syphilis?",
+  "options": {
+   "A": "ulcerated painless papule",
+   "B": "granulomatous endarteritis",
+   "C": "truncal rash",
+   "D": "posterior uveitis"
+  },
+  "markedAnswer": "C",
+  "explanation": "A syphilis infection starts as primary syphilis with a small ulcerated painless papule called a chancre, which heals spontaneously in 6 weeks. Within a few weeks after the chancre heals, patients can develop secondary syphilis, which is heralded by a truncal rash that may spread over the entire body. Uveitis occurs in approximately 10% of secondary syphilis cases. If untreated, patients can develop latent syphilis, which has no symptoms. Of those patients with latent syphilis who do not receive treatment, 15%-30% will develop tertiary (late) syphilis, wherein the disease damages various organ systems, including the central nervous system (CNS), and is characterized by destructive granulomatous lesions with a typical endarteritis. Uveitis occurs in approximately 5% of tertiary syphilis cases. Ocular syphilis can occur at any stage of syphilis. Ocular syphilis manifests most commonly as posterior uveitis or panuveitis, but it can also present with interstitial keratitis, anterior uveitis, optic neuropathy, and retinal vasculitis. Treatment for syphilis depends on the stage and CNS involvement. Ocular syphilis and neurosyphilis are treated with either aqueous crystalline penicillin G IV or procaine penicillin IM with probenecid for 10-14 days. 3",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 18,
+  "question": "A 29-year-old man with acquired immunodeﬁciency syndrome (AIDS) has no ocular complaints and presents for a routine eye examination. His CD4+ counts are 150 cells/mm. His fundus images are shown below. What is the pathogenesis of these ﬁndings?",
+  "options": {
+   "A": "necrosis of photoreceptors",
+   "B": "focal occlusion of the choriocapillaris",
+   "C": "inﬁltration of the ganglion cell layer by cytomegalovirus (CMV)",
+   "D": "edema of the nerve ﬁber layer"
+  },
+  "markedAnswer": "D",
+  "explanation": "Human immunodeﬁciency virus (HIV) retinopathy is the most common ocular ﬁnding in patients with AIDS. It is characterized by microaneurysms, retinal hemorrhages, and cotton-wool spots. Cotton- wool spots are caused by focal microvascular occlusion of precapillary retinal arterioles (not choriocapillaris) in the nerve ﬁber layer, causing retinal edema that manifests as the characteristic whitening with feathery borders. Cytomegalovirus (CMV) retinopathy in a patient with AIDS may present as fulminant retinitis (associated with necrosis of photoreceptors) with retinal hemorrhages, or in granular or indolent form, or as frosted branch angiitis. Retinal manifestations due to CMV usually occur when the CD4+ count is below 50 cells/mm . Early CMV retinitis may masquerade as a cotton-wool spot and is distinguished from the latter by inevitable progression without treatment. 3.",
+  "imageUrl": null,
+  "stemReferencesFigure": true,
+  "figureMissing": true
+ },
+ {
+  "id": 19,
+  "question": "By what mode is the chikungunya virus typically transmitted to humans?",
+  "options": {
+   "A": "eating undercooked meat",
+   "B": "infected bodily ﬂuids",
+   "C": "infected mosquitos",
+   "D": "contaminated drinking water"
+  },
+  "markedAnswer": "C",
+  "explanation": "Chikungunya fever, a potentially fatal illness, is caused by single- stranded RNA virus of the genus Alphavirus, in the family Togaviridae. It is transmitted via infected mosquitoes including Aedes aegypti and Aedes albopictus. Toxoplasma gondii can be transmitted via ingestion of contaminated water, fruit, or vegetables with oocysts. HIV/AIDS, hepatitis B virus, and hepatitis C virus are among the diseases transmitted by contact with blood or bodily ﬂuids. Common pathogens transmitted via drinking water are norovirus, Giardia, Legionella, Salmonella, and Escherichia coli.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 20,
+  "question": "A patient with retinal vasculitis also has necrotizing pulmonary granulomas and nephritis. What serum antibody is most likely to be associated with this entity?",
+  "options": {
+   "A": "antinuclear antibody (ANA)",
+   "B": "anti-cyclic citrullinated proteins (anti- CCP)",
+   "C": "cryoglobulins",
+   "D": "anti-neutrophil cytoplasmic antibody (ANCA)"
+  },
+  "markedAnswer": "D",
+  "explanation": "The case described appears to be a retinal vasculitis associated with a systemic granulomatous process aﬀecting both lungs and kidneys. Granulomatosis with polyangiitis (GPA) is the most likely condition that would ﬁt this description; therefore, the correct serum antibody is ANCA. Approximately 10% of patients with GPA can manifest retinal vascular involvement. Systemic lupus erythematosus (as suggested by ANA) does not result in pulmonary granulomas, although it can produce a retinal vasculitis and nephritis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 21,
+  "question": "In response to innate immune stimuli, such as bacterial invasion of tissue, what are the 4 steps of neutrophil migration and activation in proper order?",
+  "options": {
+   "A": "activation, adhesion, rolling, transmigration",
+   "B": "adhesion, rolling, activation, transmigration",
+   "C": "rolling, adhesion, transmigration, activation",
+   "D": "transmigration, rolling, adhesion, activation"
+  },
+  "markedAnswer": "C",
+  "explanation": "The 4 steps of neutrophil migration and activation are:.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 22,
+  "question": "What is the pathogen associated with the development of Kaposi sarcoma?",
+  "options": {
+   "A": "herpes simplex virus type 1",
+   "B": "human herpesvirus 4",
+   "C": "cytomegalovirus",
+   "D": "human herpesvirus 8"
+  },
+  "markedAnswer": "D",
+  "explanation": "The pathogen involved with the development of Kaposi sarcoma is human herpesvirus (HHV)-8. HHV-4 is also known as Epstein-Barr virus and is associated with the development of primary central nervous system lymphomas and primary vitreoretinal lymphomas in HIV- infected individuals. Herpes simplex virus type 1 and cytomegalovirus (HHV-5) are not associated with any speciﬁc neoplasias in HIV.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 23,
+  "question": "What should be the initial treatment of neovascularization of the disc in a patient with sarcoid-related panuveitis?",
+  "options": {
+   "A": "photodynamic therapy with verteporﬁn",
+   "B": "panretinal laser photocoagulation",
+   "C": "corticosteroid and immunomodulatory treatment",
+   "D": "intravitreal anti-vascular endothelial growth factor (anti-VEGF) inhibitors"
+  },
+  "markedAnswer": "C",
+  "explanation": "Retinal neovascularization in uveitis results from chronic inﬂammation or capillary nonperfusion. Sarcoid panuveitis may be complicated with neovascularization of the disc and resolves completely with immunomodulatory and corticosteroid therapy alone. Uveitides with retinal vasculitis may cause retinal neovascularization due to ischemia and thus may necessitate retinal laser photocoagulation or intravitreal anti-VEGF injection. Treatment of subfoveal choroidal neovascularization (CNV) is accomplished with VEGF inhibitors; photodynamic therapy with verteporﬁn may be an adjunctive treatment. In all cases, however, control of inﬂammation is paramount; this also reduces the risk of recurrence of CNV.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 24,
+  "question": "What ocular inﬂammatory disorder is primarily associated with the activation of mast cells via immunoglobulin E (IgE) antibodies?",
+  "options": {
+   "A": "vernal conjunctivitis",
+   "B": "contact hypersensitivity dermatitis",
+   "C": "juvenile xanthogranuloma",
+   "D": "anterior scleritis"
+  },
+  "markedAnswer": "A",
+  "explanation": "Mast cells act as major eﬀector cells in IgE-mediated, immune- triggered inﬂammatory reactions, especially allergy or immediate hypersensitivity. Vernal conjunctivitis usually involves many conjunctival mast cells; these mast cells have IgE antibodies bound to cell-surface Fc receptors, and antigen binding results in degranulation of these cells. Preformed substances released upon degranulation include histamine, serotonin, and proteases. Eicosanoids such as leukotrienes are also produced, adding to the inﬂammatory eﬀects of mast cell activation. Juvenile xanthogranuloma is a histiocytic process aﬀecting mainly the skin and eyes, and, in rare instances, viscera. Patients usually present before age 1 with characteristic skin lesions that are reddish yellow. Histologic investigation shows large histiocytes with foamy cytoplasm and Touton giant cells. The pathogenesis of BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 25,
+  "question": "The major criteria of diagnosing Behçet disease (BD) include oral ulceration and what other ﬁnding?",
+  "options": {
+   "A": "gastroenteritis",
+   "B": "arthritis",
+   "C": "uveitis or retinal vasculitis",
+   "D": "HLA-B51 antigen positivity"
+  },
+  "markedAnswer": "C",
+  "explanation": "The diagnosis of BD is based entirely on clinical ﬁndings. The diagnostic criteria, according to the International Study Group for Behçet's disease, include recurrent oral and genital ulcers, ocular inﬂammation, skin lesions, and a positive cutaneous pathergy test. Although arthritis, as well as cardiac, gastrointestinal, pulmonary, and central nervous system (CNS) involvement, have been reported in patients with Behçet disease, these are not major criteria for diagnosis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 26,
+  "question": "What virus or virus family is most often implicated in glaucomatocyclitic crisis (Posner- Schlossman syndrome [PSS])?",
+  "options": {
+   "A": "hepatitis B",
+   "B": "West Nile virus",
+   "C": "herpesvirus",
+   "D": "rubella"
+  },
+  "markedAnswer": "C",
+  "explanation": "The herpesvirus family of viruses (namely cytomegalovirus [CMV]) has been most often implicated in PSS, indicating a possible role for antiviral therapy.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 27,
+  "question": "Three weeks ago, a 78-year-old man tripped and fell on a sidewalk and his right eye was perforated by the tooth of a rake. He has a 360-degree dense subconjunctival hemorrhage, an intraocular pressure of 8, and a peaked pupil. The left eye has the appearance shown. What is the most likely diagnosis?",
+  "options": {
+   "A": "septic endophthalmitis",
+   "B": "sarcoidosis",
+   "C": "sympathetic ophthalmia",
+   "D": "Lyme disease"
+  },
+  "markedAnswer": "C",
+  "explanation": "The attached photo is signiﬁcant for granulomatous keratic precipitates. Sympathetic ophthalmia is a bilateral granulomatous uveitis that occurs after trauma to one of the eyes. A septic endophthalmitis would not be expected in the nontraumatized eye. Sarcoidosis and Lyme disease can also cause granulomatous uveitis, though those diagnoses are less likely in this scenario. Remove the intraocular lens.",
+  "imageUrl": "/images/uveitis-bcsc/p30_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 28,
+  "question": "A patient with culture-positive Propionibacterium acnes infection after cataract surgery was treated with intravitreal antibiotics on 2 occasions. There is persistent intraocular inﬂammation. A repeat culture is positive again for P acnes. What is the next appropriate step?",
+  "options": {
+   "A": "Remove the intraocular lens.",
+   "B": "Administer topical and intravenous antibiotics.",
+   "C": "Administer topical and oral antibiotics.",
+   "D": "Administer oral corticosteroids."
+  },
+  "markedAnswer": "A",
+  "explanation": "Often there can be equatorial lens capsule sequestration of bacteria, which serves as a repository for chronic postoperative bacterial endophthalmitis caused by P acnes. In such a case, the requirement for repeat injections or pars plana vitrectomy with later recurrence of inﬂammation indicates that lens explantation is needed to eradicate the infection. Administering topical, oral, and/or intravenous antibiotics is insuﬃcient to treat bacterial endophthalmitis. Administering oral corticosteroids can help with inﬂammation initially, but it can also suppress the local immune system and allow the infection to progress unabated. juvenile idiopathic arthritis (JIA)- related iridocyclitis and Fuchs heterochromic iridocyclitis A. 72% Correct Answer sarcoidosis and syphilis B. 8% Explanation & Notes Discussion BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 29,
+  "question": "What is the diﬀerential diagnosis of chronic anterior uveitis with minimal redness and pain?",
+  "options": {
+   "A": "juvenile idiopathic arthritis (JIA)- related iridocyclitis and Fuchs heterochromic iridocyclitis",
+   "B": "sarcoidosis and syphilis",
+   "C": "multiple sclerosis and intraocular lymphoma",
+   "D": "seronegative spondyloarthropathies and Behçet disease"
+  },
+  "markedAnswer": "A",
+  "explanation": "The diﬀerential diagnosis of chronic anterior uveitis with minimal redness and pain includes JIA-related iridocyclitis and Fuchs heterochromic iridocyclitis. Multiple sclerosis and intraocular lymphoma are on the diﬀerential of intermediate uveitis. Sarcoidosis and syphilis are on the diﬀerential of a moderately severe red and painful anterior uveitis. Seronegative spondyloarthropathies and Behçet disease are on the diﬀerential of acute and severe anterior uveitis. syphilitic uveitis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 30,
+  "question": "What intraocular infection is most commonly associated with immune recovery uveitis in a patient with AIDS whose immune function has improved with antiretroviral therapy?",
+  "options": {
+   "A": "syphilitic uveitis",
+   "B": "toxoplasmosis",
+   "C": "Kaposi sarcoma (caused by human herpesvirus 8)",
+   "D": "cytomegalovirus (CMV) retinitis"
+  },
+  "markedAnswer": "D",
+  "explanation": "Immune recovery uveitis is observed in patients with previous CMV retinitis and recovered immune systems, most often in patients with AIDS who have received antiretroviral therapy. CMV retinitis is usually associated with a minimal inﬂammatory response in AIDS patients; the inﬂammation of immune recovery uveitis is presumably the reconstituted immune system’s response to CMV antigens. azathioprine.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 31,
+  "question": "What is the preferred treatment for the acute phase of serpiginous choroiditis?",
+  "options": {
+   "A": "azathioprine",
+   "B": "corticosteroid therapy",
+   "C": "antiviral therapy",
+   "D": "intravitreal anti-vascular endothelial growth factor (anti-VEGF) therapy"
+  },
+  "markedAnswer": "B",
+  "explanation": "Serpiginous choroiditis (also termed geographic choroiditis or helicoid peripapillary choroidopathy) is a typically bilateral, chronic, progressive, recurrent inﬂammatory disease of the retinal pigment epithelium (RPE), choriocapillaris, and choroid; the etiology of the condition is undetermined. Local and systemic corticosteroids are the preferred therapies for the acute phase of the disorder. Demonstrating a high rate of recurrence, serpiginous choroiditis usually requires long- term anti-inﬂammatory treatment with steroid-sparing agents, such as cyclosporine A and/or azathioprine. As a deﬁnite viral etiology of serpiginous choroiditis has not been proven, antiviral therapy is not indicated. Although intravitreal anti- VEGF therapy may be beneﬁcial when serpiginous choroiditis is complicated by choroidal neovascularization (CNV), it has not been shown to be an eﬀective therapy for serpiginous choroiditis itself.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 32,
+  "question": "Based on epidemiologic data, what is the most common type of uveitis patient an ophthalmologist is likely to encounter?",
+  "options": {
+   "A": "a 26-year-old white man with a negative review of systems who presents with sudden-onset unilateral pain, redness, decreased vision, and photophobia",
+   "B": "a 32-year-old white woman with multiple sclerosis (MS) who presents with subacute onset of ﬂoaters in both eyes",
+   "C": "a 28-year-old Hispanic man with 3 cats at home who presents with sudden onset of ﬂoaters and worsening vision in his left eye",
+   "D": "a 38-year-old woman of Native American descent who presents with sudden-onset ﬂoaters and decreased vision and, on examination, found to have bilateral exudative retinal detachments"
+  },
+  "markedAnswer": "A",
+  "explanation": "Epidemiologically, the most common form of uveitis is anterior uveitis, followed by panuveitis, posterior uveitis, and lastly, intermediate uveitis. The patient with a negative review of systems who presents with sudden-onset unilateral pain, redness, decreased vision, and photophobia likely has HLA-B27-associated acute anterior uveitis. The patient with MS has intermediate uveitis secondary to her MS. The patient who has cats likely has posterior uveitis secondary to toxoplasmosis. The patient with bilateral exudative retinal detachments likely has panuveitis secondary to Vogt-Koyanagi-Harada (VKH) syndrome. (Aside: while HLA-B27 acute anterior uveitis is classically associated with one of the seronegative spondyloarthropathies [ankylosing spondylitis, reactive arthritis, enterohepatic arthritis, psoriatic arthritis] it is more common for a B27 (+) patient to present with acute anterior uveitis in the absence of any systemic manifestations, as opposed to ﬁrst being diagnosed with one of the seronegative spondyloarthropathies and then presenting with acute anterior uveitis).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 33,
+  "question": "The treatment of cystoid macular edema associated with active uveitis should begin with what therapy?",
+  "options": {
+   "A": "topical corticosteroid",
+   "B": "topical nonsteroidal anti- inﬂammatory agents",
+   "C": "intravitreal anti-vascular endothelial growth factor (anti-VEGF) antibody injection",
+   "D": "oral acetazolamide"
+  },
+  "markedAnswer": "A",
+  "explanation": "Cystoid macular edema (CME) is a common cause of vision loss in eyes with uveitis. Treatment of CME must ﬁrst be directed toward control of intraocular inﬂammation, for which topical steroid remains ﬁrst-line therapy. If CME persists despite control of inﬂammation, periocular injection of corticosteroid may be used. Typically, 20-40 mg of triamcinolone is injected into the sub-Tenon space. Anti-VEGF therapies can also reduce inﬂammatory CME, but the action is short lived and repeat injections are required. Topical NSAIDs can be beneﬁcial in treating pseudophakic CME, but their eﬀectiveness in treating uveitic CME is not established. Oral acetazolamide has been shown to reduce uveitic CME in patients whose uveitis is well controlled.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 34,
+  "question": "What uveitis therapy has the highest risk of causing secondary glaucoma severe enough to require pressure- lowering surgery?",
+  "options": {
+   "A": "oral methotrexate",
+   "B": "intravitreal ﬂuocinolone 0.59 mg implant",
+   "C": "intravitreal triamcinolone 4 mg",
+   "D": "periocular triamcinolone injections"
+  },
+  "markedAnswer": "B",
+  "explanation": "Corticosteroids via any route carry the risk of elevated intraocular pressure (IOP) in predisposed patients. Topical corticosteroids carry the lowest risk. Periocular and intravitreal corticosteroid injections more commonly lead to elevated IOP that requires ﬁltering surgery in 1% to 2% of patients. The intravitreal ﬂuocinolone implant leads to elevated IOP that requires glaucoma therapy in about 75% of patients and glaucoma surgery in about 37% of patients. Antimetabolites such as methotrexate have not been reported to directly lead to elevated IOP.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 35,
+  "question": "A 65-year-old white woman with vitritis and negative treponemal antibody and interferon gamma release assay test results initially responds well to systemic corticosteroids; however, as the steroids are tapered, her vitritis becomes robust. A diagnostic and therapeutic pars plana vitrectomy is performed, and cytopathology discloses large, atypical lymphocytes with a large nucleus-to-cytoplasm ratio. What is the approximate chance that she has or will develop intracranial lesions characterized by the same cells?",
+  "options": {
+   "A": "60%-70%",
+   "B": "more than 90%",
+   "C": "20%-25%",
+   "D": "less than 10%"
+  },
+  "markedAnswer": "A",
+  "explanation": "The case described clinically is consistent with primary vitreoretinal lymphoma (PVRL). The cytopathology secures the diagnosis. In more than two-thirds of cases of PVRL, patients will have or will go on to develop intracranial disease. In fact, PVRL is a subset of primary central BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 36,
+  "question": "What type of juvenile idiopathic arthritis (JIA) is associated with the highest risk of developing uveitis?",
+  "options": {
+   "A": "oligoarticular onset",
+   "B": "polyarticular onset",
+   "C": "enthesitis-related arthritis (ERA)",
+   "D": "systemic onset (Still disease)"
+  },
+  "markedAnswer": "A",
+  "explanation": "Juvenile idiopathic arthritis (JIA) is classiﬁed into 5 types according to International League of Associations of Rheumatology (ILAR) guidelines. Oligoarticular onset, also known as pauciarticular onset, accounts for 80%-90% of patients with JIA-associated uveitis. Four or fewer joints are involved in the ﬁrst 6 months of the disease. Ocular involvement is rare in systemic onset JIA. Polyarticular onset cases account for only 10% of JIA-associated uveitis. Enthesitis-related BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 37,
+  "question": "A 4-year-old girl is newly diagnosed with iridocyclitis. She has had swelling of the left knee in the past, and the antinuclear antibody (ANA) titer is positive. In addition to corticosteroid eyedrops, what type of topical medication should be started?",
+  "options": {
+   "A": "miotic",
+   "B": "beta-blocker",
+   "C": "nonsteroidal anti-inﬂammatory drug (NSAID)",
+   "D": "mydriatic"
+  },
+  "markedAnswer": "D",
+  "explanation": "The patient has juvenile idiopathic arthritis with iridocyclitis. The inﬂammation in this condition is chronic, bilateral, and nongranulomatous. Posterior synechiae are very frequent and, when BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 38,
+  "question": "What ocular ﬁnding would be expected in a patient infected with chikungunya virus?",
+  "options": {
+   "A": "congenital cataract",
+   "B": "uveitis",
+   "C": "dacryoadenitis",
+   "D": "abducens nerve palsy"
+  },
+  "markedAnswer": "B",
+  "explanation": "The ocular features of chikungunya virus infection include anterior uveitis and retinitis. The anterior uveitis may be characterized by pigmented keratic precipitates, iris pigment release, and, like other types of viral anterior uveitides, elevated intraocular pressure. Varying amounts of vitritis can be seen, and the posterior segment ﬁndings involve a retinitis characterized by focal, multifocal, or conﬂuent retinitis, occasionally with retinal hemorrhages.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 39,
+  "question": "A 3-month-old child with seizures who was born in an area noted to have mouse droppings is referred by the pediatric department for ophthalmologic examination. Abnormalities were noted on computed tomography (CT) scan and clinical examination. What antibody titer is most likely to be elevated in both mother and patient?",
+  "options": {
+   "A": "lymphocytic choriomeningitis virus IgG",
+   "B": "cytomegalovirus IgG",
+   "C": "Toxoplasma gondii IgG",
+   "D": "Treponema pallidum IgG"
+  },
+  "markedAnswer": "A",
+  "explanation": "Lymphocytic choriomeningitis virus (LCMV) is a fetal teratogen, passed vertically from mother to fetus during pregnancy. Rodents are the natural host and reservoir, and infection to the mother usually occurs after eating food contaminated with infected rodent excrement or by the bite of an infected rodent. The earlier in pregnancy a mother is infected, the more severe the sequelae in the developing fetus. Manifestations in a child born to a mother infected with LCMV during pregnancy include macrocephaly, hydrocephalus, periventricular calciﬁcations with seizures, chorioretinal scars (very similar to toxoplasmosis scars), optic atrophy, nystagmus, and strabismus. Toxoplasma gondii can present very similarly when transmitted to a fetus; however, the intracranial calciﬁcations in congenital toxoplasmosis infection tend to be diﬀuse (as opposed to periventricular), and the natural hosts and reservoirs of Toxoplasma gondii are cats. Cytomegalovirus (CMV) infection in a fetus can cause intracranial calciﬁcations and hydrocephalus, but does not produce chorioretinal scarring. Syphilis infection in a fetus does not typically produce intracranial calciﬁcations or hydrocephalus, and again chorioretinal scarring is absent (syphilis infection can produce a diﬀuse, \"salt-and-pepper\" pigmentary retinopathy).",
+  "imageUrl": "/images/uveitis-bcsc/p43_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 40,
+  "question": "When stellate keratic precipitates are present in herpes simplex type 1 intraocular infections, how are they typically distributed on the corneal endothelium?",
+  "options": {
+   "A": "diﬀusely",
+   "B": "in the inferior third of the cornea (Arlt triangle)",
+   "C": "in coin-shaped, or circinate, lesions",
+   "D": "keratic precipitates are not found in herpes simplex type 1 intraocular infections"
+  },
+  "markedAnswer": "A",
+  "explanation": "Stellate keratic precipitates (KPs) are very suggestive of a viral intraocular infection and are frequently seen. However, in herpetic intraocular infections, particularly with herpes simplex viruses 1 and 2 as well as varicella-zoster virus, there may be nongranulomatous or granulomatous KPs as well. In this question, stellate KPs are identiﬁed and, when present, often are found diﬀusely. The KPs localizing only to the inferior third of the cornea (Arlt triangle) are classically found in noninfectious etiologies of intraocular inﬂammation and may be either granulomatous or nongranulomatous. Coin-shaped lesions are found in cytomegalovirus anterior uveitis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 41,
+  "question": "A 50-year-old man with a history of open-globe repair as a child presents with blurred vision and photophobia. Examination reveals bilateral panuveitis and subtle hypopigmented deep subretinal lesions. What is the most appropriate ﬁrst step in treatment for the most likely cause of these ﬁndings?",
+  "options": {
+   "A": "intravitreal steroid injection",
+   "B": "immunomodulatory agent",
+   "C": "topical steroid",
+   "D": "oral corticosteroid"
+  },
+  "markedAnswer": "D",
+  "explanation": "Sympathetic ophthalmia should be suspected in any patient with a history of penetrating globe trauma who present complaining of blurred vision, photophobia, and ocular redness. Clinical ﬁndings, which are indistinguishable from those in Vogt-Koyanagi-Harada syndrome, include bilateral panuveitis, mutton fat keratic precipitates, exudative retinal detachments, and focal choroiditis. B-scan ultrasonography demonstrates choroidal thickening. High-dose oral corticosteroids should be started immediately, but management with immunomodulatory agents is required in most patients. Topical corticosteroids are insuﬃcient to address posterior BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 42,
+  "question": "What ﬁnding would be an indication for systemic immunomodulatory therapy in a child with juvenile idiopathic arthritis (JIA)-associated iritis?",
+  "options": {
+   "A": "chronic anterior chamber cells on maximally tolerated local corticosteroid therapy",
+   "B": "systemic immunomodulatory therapy is contraindicated in children with JIA-associated iritis.",
+   "C": "presence of antinuclear antibody (ANA)",
+   "D": "presence of posterior synechiae or band keratopathy"
+  },
+  "markedAnswer": "A",
+  "explanation": "The initial treatment of patients with JIA-associated uveitis includes topical corticosteroids. More severe cases require the use of systemic or periocular corticosteroids. However, long-term use of systemic corticosteroids can lead to complications such as growth retardation. Due to high ocular morbidity, these children should be treated with weekly, low-dose methotrexate. Methotrexate is eﬀective, well tolerated and spares the complications associated with chronic ocular inﬂammation and systemic complications of corticosteroids. Recent studies also have shown the eﬃcacy of tumor necrosis factor (TNF) inhibitors in children with uveitis. Presence of ANA is a risk factor for chronic iridocyclitis in patients with JIA, but is not an indication for systemic treatment in the absence of uveitis. Posterior synechiae and band keratopathy are some of the ocular complications of JIA-associated uveitis, but not an indication for systemic treatment unless there is active uveitis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 43,
+  "question": "A patient with AIDS and cytomegalovirus (CMV) retinitis in 1 eye undergoes successful placement of an intravitreal ganciclovir implant without systemic anti-CMV therapy and also receives highly active antiretroviral therapy (HAART). Ten months later, the retinitis is inactive, and the patient's CD4+ count is 200 cells/µL. What would be the most appropriate approach for treatment of the retinitis at this time?",
+  "options": {
+   "A": "Make no changes in therapy.",
+   "B": "Begin oral valganciclovir.",
+   "C": "Leave the implant in place and insert another one in a diﬀerent quadrant.",
+   "D": "Remove the ganciclovir implant and place another one at the same surgical site."
+  },
+  "markedAnswer": "A",
+  "explanation": "Treatment of CMV retinitis involves 3 steps: immune reconstitution with HAART and concomitant treatment of the virus (intravenous ganciclovir or foscarnet, oral valganciclovir, or intravitreal ganciclovir or foscarnet [see Table 11-3]); maintenance of antiviral therapy for 3-6 months to allow for adequate immune reconstitution (despite early recovery of CD4+ cell counts); continued HAART therapy without antivirals, with dilated fundus examinations every 3 months (because immune reconstitution uveitis [IRU] can occur in patients on HAART with a history of prior CMV retinitis, even if the retinitis is currently inactive and CD4+ counts are >50 cells/µL; IRU tends to occur more frequently in eyes with more than 25% of the retinal surface involved in prior CMV infections). In the case described, at 10 months out from initial infection, on HAART, and with CD4+ counts of 200 cells/µL, this patient is immune reconstituted from a CMV risk standpoint and can safely be observed oﬀ antiviral treatment with dilated fundus examinations every 3 months. (Note that the ganciclovir implant lasts for approximately 8 months, which is ample time to allow for immune reconstitution on HAART, as oral valganciclovir therapy in this setting is typically discontinued 6 months after the initiation of HAART). There is no need to replace or remove the ganciclovir implant in the absence of new signs of CMV infection, which is unlikely at CD4+ counts >50 cells/µL (although, as stated earlier, IRU can still occur while patients are on HAART, and as such these patients should be monitored every 3 months).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 44,
+  "question": "What is the most common cause of hypotony after glaucoma surgery in a patient with uveitis?",
+  "options": {
+   "A": "ciliary body dysfunction resulting in decreased aqueous production",
+   "B": "chronic corticosteroid use",
+   "C": "increased uveoscleral outﬂow due to increased permeability",
+   "D": "peripheral anterior and posterior synechiae"
+  },
+  "markedAnswer": "A",
+  "explanation": "Intraocular surgery (including glaucoma surgery) in the setting of uveitis can lead to decreased aqueous production by the ciliary body and subsequent hypotony. Peripheral posterior synechiae (especially for 360 degrees) can lead to iris bombé with subsequent occlusion of the angle and elevated intraocular pressure. Uveoscleral outﬂow is typically increased by cycloplegics, adrenergic agonists, prostaglandin analogs, and cyclodialysis that can occur as a complication of surgery. Although cyclodialysis can be a cause of hypotony in any patient undergoing intraocular surgery, it is not the most common cause of hypotony in uveitic patients. Peripheral anterior synechiae can also occlude the angle, leading to ocular hypertension. Chronic corticosteroid use carries with it the risk of developing steroid- response ocular hypertension and glaucoma, not hypotony.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 45,
+  "question": "What are the main eﬀector cells of the innate immune system?",
+  "options": {
+   "A": "macrophages and neutrophils",
+   "B": "mast cells and eosinophils",
+   "C": "macrophages and eosinophils",
+   "D": "eosinophils and neutrophils"
+  },
+  "markedAnswer": "A",
+  "explanation": "The innate immune system is a relatively broad-acting rapid reaction force that recognizes “nonself ” foreign substances, proteins, or lipopolysaccharides. The innate response can be thought of as a preprogrammed reaction that is immediate, requires no prior exposure to the foreign substance, and is similar for all encountered triggers. The result is the generation of biochemical mediators and cytokines that recruit innate eﬀector cells, especially macrophages and neutrophils, to remove the oﬀending stimulus through phagocytosis or enzymatic degradation.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 46,
+  "question": "Systemic steroid treatment requires a taper after what time period?",
+  "options": {
+   "A": "2-3 years",
+   "B": "2-3 months",
+   "C": "2-3 days",
+   "D": "2-3 weeks"
+  },
+  "markedAnswer": "D",
+  "explanation": "Use of systemic steroid treatment for longer than 2-3 weeks requires a gradual taper of the drug over days to weeks to prevent cortisol deﬁciency resulting from suppression of the hypothalamic-pituitary- BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 47,
+  "question": "When given as long-term therapy for noninfectious uveitis, what systemic drug would have the lowest risk of toxicity?",
+  "options": {
+   "A": "methotrexate",
+   "B": "prednisone",
+   "C": "cyclophosphamide",
+   "D": "chlorambucil"
+  },
+  "markedAnswer": "A",
+  "explanation": "When long-term therapy is needed for the management of uveitis, systemic immunomodulatory therapy has, in general, fewer overall side eﬀects than chronic use of systemic prednisone. The antimetabolites (including methotrexate and mycophenolate) are frequently employed as ﬁrst-line therapy for corticosteroid-sparing control of uveitis. Of the medications listed, methotrexate has the lowest risk of overall toxicity. Hepatoxicity (which can be monitored by checking liver function tests regularly) can occur with methotrexate. By contrast, the side eﬀects of BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 48,
+  "question": "A 48-year-old patient has nyctalopia and decreased vision. Given the color photo and angiographic image shown, what is the most likely diagnosis?",
+  "options": {
+   "A": "punctate inner choroiditis",
+   "B": "multiple evanescent white dot syndrome (MEWDS)",
+   "C": "birdshot retinochoroidopathy",
+   "D": "intraocular lymphoma"
+  },
+  "markedAnswer": "C",
+  "explanation": "Patients with birdshot retinochoroidopathy present with blurred vision, ﬂoaters, and nyctalopia. Funduscopy reveals characteristic multifocal, hypopigmented, ovoid, cream-colored lesions at the level of the choroid and retinal pigment epithelium (RPE) in postequatorial, mostly nasal fundus in a radial pattern, as shown in the images (Fig. 1). Cystoid macular edema (CME), as shown in the fundus ﬂuorescein angiogram (FA) below, is a common reason for decreased vision in these patients and a sign of disease activity. Punctate inner choroiditis (PIC) commonly presents in otherwise healthy myopic white women at a younger median age (29-45 years). Lesions of PIC rarely extend to the midperiphery, and CME is uncommon. Choroidal neovascularization is a common vision- threatening complication. Intraocular lymphoma mainly aﬀects older patients, in the ﬁfth to seventh decade of life. The lesions are creamy yellow subretinal inﬁltrates with overlying RPE detachments. CME is uncommon. Lesions in MEWDS are distributed perifoveally and are discrete, white- orange spots (as shown in Fig. 2). Fluorescein angiography shows a characteristic punctate hyperﬂuorescence in a wreathlike conﬁguration. The prognosis is favorable, with visual recovery within 2 to 10 weeks. 3d79- 46ee- 8e0d- 29bacb29e129) .",
+  "imageUrl": "/images/uveitis-bcsc/p54_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 49,
+  "question": "What agent used in the therapy of uveitis may induce antichimeric antibodies?",
+  "options": {
+   "A": "interferon alfa-2a/2b",
+   "B": "abatacept",
+   "C": "tacrolimus",
+   "D": "inﬂiximab"
+  },
+  "markedAnswer": "D",
+  "explanation": "Inﬂiximab is a mouse/human-chimeric, immunoglobulin G1 kappa (IgG1k) monoclonal antibody directed against tumor necrosis factor (TNF)-a. As many as 75% of patients receiving more than 3 infusions developed antinuclear antibodies, thus causing drug-induced lupus syndrome and the formation of human antichimeric antibodies, which can lead to reduced eﬃcacy of inﬂiximab. Abatacept is a T-cell costimulation inhibitor given as an intravenous infusion. Interferon alfa-2a/2b (IFN- a2a/b), administered subcutaneously, has been reported to be beneﬁcial in some patients with uveitis. IFN- a2a has antiviral, immunomodulatory, and antiangiogenic eﬀects. Tacrolimus, a product of Streptomyces tsukubaensis, is a calcineurin inhibitor that eliminates T-cell receptor signal transduction and downregulates interleukin-2 gene transcription and receptor expression of CD4 T lymphocytes. Abatacept, IFN- a2a/b, and tacrolimus are not associated with formation of antibodies. +.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 50,
+  "question": "A 70-year-old woman has chronic anterior uveitis that responds poorly when treated with topical prednisolone acetate, 1 . The examination reveals extensive ﬁbrin formation and posterior synechiae that prevent view of the posterior segment. On gonioscopy, a pigmented mass is seen in the angle from 10 to 1 o'clock. What is the next step?",
+  "options": {
+   "A": "Obtain a B-scan.",
+   "B": "Inject intravitreal corticosteroids.",
+   "C": "Obtain a vitreous biopsy.",
+   "D": "Initiate oral corticosteroids."
+  },
+  "markedAnswer": "A",
+  "explanation": "Melanomas can be associated with an impressive inﬂammatory response, and ciliary body melanomas can break through to the anterior segment. The diﬀerential diagnosis includes infections, chronic retinal detachment, and metastatic tumors. In the absence of a posterior segment view, B-scan ultrasonography and, when available, ultrasound biomicroscopy or anterior segment optical coherence tomography, can be very helpful. 1 50 per pag.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 51,
+  "question": "What type of lymphocytes participate in the innate immune response?",
+  "options": {
+   "A": "Langerhans cells",
+   "B": "eosinophils",
+   "C": "natural killer cells and intraepithelial lymphocytes",
+   "D": "basophils and mast cells"
+  },
+  "markedAnswer": "C",
+  "explanation": "Lymphocytes include B cells, T cells, and non-B, non-T lymphocytes. Two types of lymphocytes participate in the innate immune response: 1) gamma-delta (γδ) T cells or sentinel T cells, also known as intraepithelial lymphocytes, and 2) natural killer cells. These serve as a bridge between innate and adaptive responses. Eosinophils are important in allergic immune reactions and parasitic infections. Basophils are the blood-borne equivalent of tissue-bound mast cells, which act as major eﬀector cells in IgE-mediated inﬂammatory reactions. Langerhans cells are myeloid cells with dendritic cell function.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 52,
+  "question": "Among the white dot syndromes, for what disorder are the lesions on ﬂuorescein angiography (FA) least apparent?",
+  "options": {
+   "A": "birdshot uveitis",
+   "B": "acute posterior multifocal placoid pigment epitheliopathy",
+   "C": "punctate inner choroiditis",
+   "D": "serpiginous choroiditis"
+  },
+  "markedAnswer": "A",
+  "explanation": "FA in birdshot uveitis reveals inconsistent ﬁndings depending on the age of the lesions and the phase of the study. Early birdshot uveitis lesions can show initial hypoﬂuorescence with subtle late staining. In general, however, FA does not typically highlight the lesions themselves, but rather is useful in identifying more subtle types of active inﬂammation such as retinal vasculitis, cystoid macular edema, and optic nerve head leakage. In contrast, in patients with acute posterior multifocal placoid pigment epitheliopathy (APMPPE), FA shows characteristic early blockage with late staining of the lesions, and in patients with punctate inner choroiditis (PIC), it reveals early hyperﬂuorescence with late staining of BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 53,
+  "question": "What makes the immunologic microenvironment of the conjunctiva diﬀerent from other locations within or around the eye?",
+  "options": {
+   "A": "mucosa-associated lymphoid tissue",
+   "B": "absence of antigen-presenting cells (APCs)",
+   "C": "rare mast cells",
+   "D": "Fas ligand eﬀector blockade"
+  },
+  "markedAnswer": "A",
+  "explanation": "The conjunctiva contains mucosa-associated lymphoid tissue (MALT), an interconnected network of mucosal sites in the body (the epithelial lining of the respiratory tract, gut, and genitourinary tract, and the BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 54,
+  "question": "A pseudophakic 52-year-old man complains of ﬂoaters and is found to have anterior chamber ﬂare and cells in the anterior vitreous. He has a laser demarcation around an inferior retinal detachment. What is the most likely cause of his cell and ﬂare?",
+  "options": {
+   "A": "occult endogenous endophthalmitis",
+   "B": "pseudophakic macular edema",
+   "C": "herpetic uveitis",
+   "D": "rhegmatogenous retinal detachment"
+  },
+  "markedAnswer": "D",
+  "explanation": "Chronic peripheral rhegmatogenous retinal detachment can be associated with anterior segment cell and ﬂare, along with vitreous cells. Patients often have good vision that can sometimes deteriorate because of cystoid macular edema (CME). Careful dilated fundus examination with scleral depression is of paramount importance in establishing the diagnosis. Findings may include peripheral pigment demarcation lines, subretinal ﬂuid, retinal breaks, subretinal ﬁbrosis, and peripheral retinal cysts. Photoreceptor outer segments liberated from the subretinal space may be present in the anterior chamber, simulating inﬂammatory cells. In such situations, intraocular pressure (IOP) may be elevated, as these photoreceptor outer segments are phagocytosed by the endothelial cells in the trabecular meshwork, resulting in secondary open-angle glaucoma. This condition is called Schwartz syndrome; however, the condition is rare and speciﬁc to very anteriorized tears in the retina, involving the vitreous base, that give shed photoreceptor outer segments access to the anterior chamber (otherwise, with more posterior tears, photoreceptor outer segments would be trapped in the posterior segment by an intact hyaloid face). cidofovir.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 55,
+  "question": "What medication is best used as an intravitreal injection in the treatment of cytomegalovirus retinitis?",
+  "options": {
+   "A": "cidofovir",
+   "B": "valganciclovir",
+   "C": "foscarnet",
+   "D": "acyclovir"
+  },
+  "markedAnswer": "C",
+  "explanation": "Foscarnet and ganciclovir are medications appropriate as intravitreal preparations for the treatment of CMV retinitis. Of the choices listed here, foscarnet is the best. Valganciclovir is the L-valyl ester prodrug of ganciclovir. The valine increases both the absorption of the drug in the intestines and the bioavailability of the drug once it is absorbed. Cidofovir was previously used as intravitreal therapy for the treatment of CMV, especially in the pre-highly active antiretroviral therapy (HAART) era, but this medication is associated with hypotonous uveitis, which can lead to blindness. Acyclovir is not appropriate for CMV, because acyclovir needs to be phosphorylated by a viral thymidine kinase (TK) and CMV lacks TK.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 56,
+  "question": "What stage of Vogt-Koyanagi- Harada syndrome is most likely to be associated with exudative retinal detachments?",
+  "options": {
+   "A": "prodromal",
+   "B": "convalescent",
+   "C": "chronic recurrent",
+   "D": "acute uveitic"
+  },
+  "markedAnswer": "D",
+  "explanation": "The acute uveitic stage is typically associated with exudative retinal detachments. By deﬁnition, the prodromal stage is characterized by systemic symptoms such as a ﬂulike syndrome and headaches prior to the development of clinically apparent ophthalmic disease. The convalescent stage occurs weeks to months after the exudative retinal detachments have resolved; patients can develop gradual depigmentation in the fundus and ﬁndings such as vitiligo, alopecia, and poliosis. The chronic recurrent stage is associated with repeated bouts of anterior uveitis that can lead to signiﬁcant structural damage, but it is not commonly associated with recurrence of the exudative retinal detachments.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 57,
+  "question": "A patient with necrotizing scleritis is found to have antibodies directed against proteinase 3. What disease is most likely to be associated with this ﬁnding?",
+  "options": {
+   "A": "Churg-Strauss syndrome",
+   "B": "polyarteritis nodosa",
+   "C": "granulomatosis with polyangiitis",
+   "D": "microscopic polyangiitis"
+  },
+  "markedAnswer": "C",
+  "explanation": "Testing for antineutrophil cytoplasmic antibodies (ANCA) involves 2 techniques: (1) immunoﬂuorescent testing, which evaluates for the presence of cytoplasmic or perinuclear immunoﬂuorescence patterns (c-ANCA and p-ANCA, respectively), and (2) testing for the speciﬁc antibodies that cause each immunoﬂuorescent pattern. Antibodies to proteinase 3 (PR3-ANCA) are associated with c-ANCA, and antibodies to myeloperoxidase (MPO-ANCA) are associated with p-ANCA. Tests for PR3-ANCA and c-ANCA are sensitive and speciﬁc for granulomatosis with polyangiitis. Positivity for MPO-ANCA and p- ANCA is more commonly associated with microscopic polyangiitis. Approximately 50% of patients with Churg-Strauss syndrome test positive for ANCA; they are typically, but not uniformly, MPO-ANCA positive. In a patient with antibodies to proteinase 3, the most likely associated disease will be granulomatosis with polyangiitis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 58,
+  "question": "What important condition may mimic human T-lymphotropic virus type 1 (HTLV-1) uveitis?",
+  "options": {
+   "A": "bilateral acute retinal necrosis (BARN)",
+   "B": "lymphocytic choriomeningitis virus (LCMV) uveitis",
+   "C": "adult T cell leukemia/lymphoma (ATL)",
+   "D": "idiopathic retinal vasculitis, aneurysms, and neuroretinitis (IRVAN)"
+  },
+  "markedAnswer": "C",
+  "explanation": "Human T-lymphotropic virus type 1 (HTLV-1), a retrovirus of the Oncovirinae subfamily, is endemic in Japan, the Caribbean islands, and parts of Central and South America. The major target cell of HTLV-1 is the CD4+ T cell. HTLV-1 infection is the established cause of adult T-cell leukemia/lymphoma (ATL), HTLV-1–associated myelopathy/tropical spastic paralysis (HAM/TSP), and HTLV-1 uveitis (HU), deﬁned as uveitis of undetermined origin in an HTLV-1 carrier. HU is responsive to corticosteroid therapy. For cases that progress despite adequate therapy, the clinician must consider a masquerade syndrome, as both retinal inﬁltration caused by ATL and retinal degeneration associated with HAM/TSP have been shown to mimic HU.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 59,
+  "question": "What laboratory parameter requires regular monitoring with use of systemic cyclosporine?",
+  "options": {
+   "A": "creatinine",
+   "B": "transaminases",
+   "C": "hematocrit",
+   "D": "calcium"
+  },
+  "markedAnswer": "A",
+  "explanation": "Nephrotoxicity and hypertension are the major systemic side eﬀects of cyclosporine. Serum creatinine should be monitored regularly with patients taking cyclosporine, and dosage adjustments are needed if it rises 30% or more above baseline. Sustained elevation may require discontinuation of this medication. Systemic hypertension is another major side eﬀect of cyclosporine, and the blood pressure of patients taking cyclosporine should be checked at each clinic visit. Other side eﬀects include gum hyperplasia, and hirsutism.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 60,
+  "question": "What term speciﬁcally describes the process, following protective immunization, in which antigen- responsive lymphocytes rapidly divide to increase their population?",
+  "options": {
+   "A": "homing",
+   "B": "migration",
+   "C": "clonal expansion",
+   "D": "antibody-class switching"
+  },
+  "markedAnswer": "C",
+  "explanation": "To develop immunologic memory following protective immunization, relatively rare antigen-speciﬁc lymphocytes must initially come into contact with the antigen and become stimulated. Following this initial response, antigen-responsive lymphocytes rapidly divide to increase their population in a process called clonal expansion, then migrate to other sites. In the absence of further antigenic stimulation, the lymphocytes return to a resting state but are no longer naive to the antigen. Antibody-class switching from the IgM of the initial response to IgG and other isotypes allows these smaller isotypes to be able to leak passively to a peripheral site in the event of re-exposure to the antigen. Memory also requires that lymphocytes follow a complex migratory pattern called homing, in which they pass from the circulation into various tissues, then return to the circulation via the lymphatics.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 61,
+  "question": "What therapeutic agent, used in the treatment of severe uveitis, permanently cross-links deoxyribonucleic acid (DNA) and has the highest risk of secondary malignancy?",
+  "options": {
+   "A": "azathioprine",
+   "B": "cyclophosphamide",
+   "C": "methotrexate",
+   "D": "mycophenolate mofetil"
+  },
+  "markedAnswer": "B",
+  "explanation": "Patients with uveitis/scleritis that is non-responsive to corticosteroids or that requires doses of corticosteroids too high for long-term use should be transitioned to steroid-sparing immunomodulatory therapy (IMT). Antimetabolites such as methotrexate, azathioprine, and mycophenolate mofetil have been used successfully. Cyclophosphamide is an alkylating agent that permanently cross-links DNA. Although it is very eﬀective in controlling inﬂammation, there is a signiﬁcant risk of myelosuppression, secondary infections, and subsequent neoplasia. Of these agents, cyclophosphamide has the BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 62,
+  "question": "What disorder is most likely to cause a low-grade, unilateral, chronic, anterior uveitis and be associated with iris atrophy and transillumination defects?",
+  "options": {
+   "A": "Vogt-Koyanagi-Harada (VKH) disease",
+   "B": "HLA-B27-associated uveitis",
+   "C": "sarcoidosis",
+   "D": "viral anterior uveitis"
+  },
+  "markedAnswer": "D",
+  "explanation": "Hallmark features of viral iridocyclitis include low-grade, chronic cells; diﬀuse, tiny keratic precipitates (KP) that do not remain within the Arlt triangle; iris atrophy; iris transillumination; and elevated intraocular pressure (IOP) during active ﬂare-ups. A feature more speciﬁc to herpetic iridocyclitis is the presence of larger KP with overlying stromal edema secondary to the associated underlying endothelial dysfunction (ie, disciform keratitis). Although herpetic disease comes to mind in considering these examination ﬁndings, any viral iridocyclitis can present with these ﬁndings (except disciform keratitis, which is more speciﬁc to herpetic disease), although not as pronounced as when they occur with herpetic disease. HLA-B27–associated acute anterior uveitis (AAU) can present with large keratic precipitates, a dense and ﬁbrinous anterior chamber reaction with associated formation of posterior synechiae, and a hypopyon, but iris atrophy and transillumination are not typical of HLA- B27–associated disease. VKH typically presents with bilateral exudative retinal detachments. Upon resolution of these detachments, future ﬂare-ups do tend to present as low-grade anterior chamber reactions, but there is no associated iris atrophy or transillumination. Sarcoidosis can present anywhere in the eye and can produce nongranulomatous and granulomatous inﬂammation (although the disease itself is granulomatous in nature); however, it does not result in iris atrophy or transillumination. Retinal ischemia from phlebitis with inﬂammation creates a neovascular complex in the snowbank.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 63,
+  "question": "Why does vitreous hemorrhage occur in pars planitis?",
+  "options": {
+   "A": "Retinal ischemia from phlebitis with inﬂammation creates a neovascular complex in the snowbank.",
+   "B": "Proangiogenic factors in the iris result in neovascularization with bleeding into anterior vitreous.",
+   "C": "It results from rhegmatogenous retinal detachment.",
+   "D": "Inﬂammation within the ciliary body results in neovascularization."
+  },
+  "markedAnswer": "A",
+  "explanation": "Pars planitis is an idiopathic form of intermediate uveitis. Men and women are aﬀected equally, and there is a bimodal age distribution (5- 15 years old, 20-40 years old). Approximately 80% of cases of pars planitis are bilateral, which can often be asymmetric in severity. In children, the initial presentation may consist of signiﬁcant anterior chamber inﬂammation accompanied by redness, photophobia, and discomfort. The onset in teenagers and young adults may be more insidious, with the presenting complaint generally being ﬂoaters. Ocular manifestations include anterior chamber inﬂammatory cells, vitreous cells, snowballs, and pars plana exudates. Inferior peripheral retinal phlebitis with retinal venous sheathing is common. With long- standing inﬂammation, macular edema often develops; this condition becomes chronic and refractory in approximately 10% of patients and is the major cause of vision loss. Ischemia from retinal phlebitis, combined with angiogenic stimuli from intraocular inﬂammation, can lead to neovascularization along the inferior snowbank in up to 10% of cases. These neovascular complexes can result in vitreous hemorrhages, more common in children than adults; they also may BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 64,
+  "question": "For 3 months, an 8-year-old child has had irritation and discharge in her left eye (ﬁgure). What virus is associated with this condition?",
+  "options": {
+   "A": "poxvirus",
+   "B": "parvovirus",
+   "C": "herpes simplex virus",
+   "D": "human papillomavirus"
+  },
+  "markedAnswer": "A",
+  "explanation": "The ﬁgure depicts a molluscum contagiosum lesion. Molluscum contagiosum is a viral infection of the skin caused by a DNA poxvirus and generally occurs in children and immunocompromised patients. It is spread through direct contact or shared items such as clothing or towels. When it aﬀects the periocular skin, it may result in follicular conjunctivitis. Primary herpes simplex 1 virus can manifest as a grouped vesicular eruption around the periocular skin. Parvovirus B19 causes a childhood rash called ﬁfth disease, which is commonly called slapped cheek syndrome. Human papillomavirus 6 and 11 have been associated with conjunctival papillomas and verruca vulgaris (common wart).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 65,
+  "question": "Vitreous biopsy should be considered in cases of uveitis if what condition is suspected?",
+  "options": {
+   "A": "intraocular lymphoma",
+   "B": "traumatic uveitis",
+   "C": "retinoblastoma",
+   "D": "human leukocyte antigen (HLA)-B27 uveitis"
+  },
+  "markedAnswer": "A",
+  "explanation": "Primary intraocular lymphoma (also known as primary vitreoretinal lymphoma and previously known as reticulum cell sarcoma) masquerades as chronic uveitis in patients above the age of 50 (peak 75-84 years old). Lymphoma will frequently respond to topical or systemic corticosteroids, but it is often not until it recurs or becomes recalcitrant to steroid therapy that a neoplastic cause is entertained. The gold standard for diagnosing intraocular lymphoma is histologic conﬁrmation of atypical lymphocytes, which requires vitrectomy. Further studies that can be performed on the vitrectomy specimen for lymphoma include high IL-10 to IL-6 ratio (supportive only, not diagnostic), immunohistochemistry for lambda or kappa light chains, ﬂow cytometry (evaluating for a clonal population of B-cells or T-cells), and IgH gene or T-cell receptor (TCR) gene rearrangement to elucidate monoclonality that typify a neoplastic, lymphomatous process. A vitrectomy can be not only diagnostic, but also therapeutic in cases of lymphoma, as it can remove visually signiﬁcant vitritis. Vitreous biopsy can be negative in one-third of cases, so repeat vitrectomy/vitreous biopsy should be considered if high suspicion exists and the initial biopsy is negative.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 66,
+  "question": "A 5-year-old girl presents with sudden onset of itching and tearing in both eyes after playing outside. Examination reveals conjunctival injection with moderate chemosis, and edematous eyelids. What type of immune response caused the response?",
+  "options": {
+   "A": "lymphocyte-mediated eﬀector response--delayed hypersensitivity",
+   "B": "combined antibody and cellular mechanism--immediate hypersensitivity",
+   "C": "lymphocyte-mediated eﬀector response--cytotoxic lymphocytes",
+   "D": "antibody-mediated eﬀector response"
+  },
+  "markedAnswer": "B",
+  "explanation": "The eﬀector responses of adaptive immunity can be divided into 3 main categories: antibody-mediated responses, lymphocyte-mediated responses (delayed hypersensitivity and cytotoxic lymphocytes), and combined antibody and cellular mechanisms. This patient is experiencing an acute allergic response mediated by IgE. Mast cells bind IgE antibodies to their surface through a high-aﬃnity Fc receptor speciﬁc for IgE molecules, positioning the antigen-recognition site of the bound IgE externally. Combining 2 adjacent IgE antibody molecules with a speciﬁc allergen causes degranulation of the mast cell and release of preformed and de novo synthesized mediators within minutes. This acute inﬂammatory reaction is called immediate hypersensitivity (previously termed Coombs and Gell type I, or anaphylaxis).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 67,
+  "question": "What human leukocyte antigen (HLA) molecule types belong to the major histocompatibility (MHC) class I?",
+  "options": {
+   "A": "HLA-A, -B, -C, and -D",
+   "B": "HLA-A, -B, and -C",
+   "C": "HLA-A and -B",
+   "D": "HLA-DR, -DP, and -DQ"
+  },
+  "markedAnswer": "B",
+  "explanation": "MHC proteins are cell-surface glycoproteins expressed by white blood cells. In humans, the MHC proteins are called HLA molecules. Historically, 6 families of HLA molecules have been identiﬁed: HLA-A, - B, and -C belong to class I, whereas HLA-DR, -DP, and -DQ belong to class II. Small mammals are carriers.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 68,
+  "question": "What feature characterizes West Nile virus retinopathy?",
+  "options": {
+   "A": "Small mammals are carriers.",
+   "B": "Ocular involvement is common.",
+   "C": "The virus is a double-stranded DNA ﬂavivirus.",
+   "D": "The virus can be transmitted to humans by mosquitoes."
+  },
+  "markedAnswer": "D",
+  "explanation": "West Nile virus is typically transmitted to humans by mosquitoes. Retinopathy is an uncommon manifestation of the disease, which is caused by a single-stranded RNA ﬂavivirus. The bird serves as the primary host. The retinitis is typically bilateral. Although there is no proven treatment, the disease is usually self-limited. The visual prognosis is favorable.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 69,
+  "question": "A 40-year-old man with a history of incarceration and injection drug use presents with bilateral choroiditis, and further workup for systemic disease is planned. What underlying factor may lead to a falsely negative puriﬁed protein derivative (PPD) test result?",
+  "options": {
+   "A": "Mycobacterium avium-intracellulare (MAC) infection",
+   "B": "HIV infection",
+   "C": "history of Bacille Calmette-Guérin (BCG) vaccination",
+   "D": "tuberculosis infection"
+  },
+  "markedAnswer": "B",
+  "explanation": "PPD testing is used to evaluate for prior tuberculosis exposure. However, both false-negative and false-positive results may occur. False-negative results may occur at rates of up to 25% of patients and can be due to underlying immunosuppression (eg, secondary to HIV infection, corticosteroid use, advanced age). False-positive results may occur secondary to atypical mycobacterial infection (eg, MAC) or a history of BCG vaccination in the past.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 70,
+  "question": "A patient presents with scleritis. What clinical feature is more suggestive of an infectious rather than a noninfectious etiology?",
+  "options": {
+   "A": "Site of inﬂammation is status post pterygium excision.",
+   "B": "Site of inﬂammation is thin.",
+   "C": "Site of inﬂammation is necrotic.",
+   "D": "Site of inﬂammation is avascular."
+  },
+  "markedAnswer": "A",
+  "explanation": "Surgery and trauma are risk factors for infectious scleritis, which occurs at the site of the previous surgery. Scleritis with thin, necrotic, or avascular sclera may be caused by a noninfectious process.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ }
+]

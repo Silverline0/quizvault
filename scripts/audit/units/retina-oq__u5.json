@@ -1,0 +1,407 @@
+[
+ {
+  "id": 281,
+  "question": "Which of the following peripheral retinal pathologies confers the LEAST risk of retinal detachment?",
+  "options": {
+   "D": "acute operculated retinal hole in a symptomatic patient",
+   "C": "lattice degeneration in an aphakic patient",
+   "B": "atrophic retinal hole in a phakic patient",
+   "A": "horseshoe retinal tear"
+  },
+  "markedAnswer": "B",
+  "explanation": "Atrophic retinal holes are not typically associated with vitreoretinal traction and thus do not confer an increased risk of retinal detachment. These peripheral retinal lesions are often found incidentally and are estimated to occur in approximately 5% of the general population. They do not need to be treated with laser demarcation. Horseshoe retinal tears have a high incidence of progression to retinal detachment and should always be treated with prophylactic laser demarcation. The high risk is due to the almost universally-present vitreous traction along the edge of this flap tear. Individuals with lattice degeneration, with or without holes, do not typically need to be treated with prophylactic laser demarcation in the absence of other risk factors. However, if other risk factors exist (e.g. history of retinal detachment in the fellow eye; aphakia; flap tears), then these eyes should be lasered. Overall, operculated retinal holes have a lower risk of retinal detachment compared to horseshoe tears. However, many clinicians will laser barricade these lesions if they are symptomatic; if there is persistent vitreous traction at its margin; if the hole is large; or if the hole is superior in location. Q- Which of the following types of retinal detachment is most closely associated with excessive panretinal photocoagulation (PRP)?",
+  "imageUrl": "/images/retina-oq/p266_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 282,
+  "question": "Which of the following types of retinal detachment is most closely associated with excessive panretinal photocoagulation (PRP)?",
+  "options": {
+   "D": "mixed-type",
+   "C": "tractional",
+   "B": "rhegmatogenous",
+   "A": "exudative"
+  },
+  "markedAnswer": "A",
+  "explanation": "Excessive sessions of panretinal photocoagulation may elicit a great amount of chorioretinal edema and consequently cause retinal and choroidal detachment. This complication of PRP typically occurs a few days after the PRP session. Management usually consists of simply close observation with or without systemic corticosteroids. The Choroid • A 33-year-old woman presents to your office with increasingly blurry vision in the right eye for the past 3 days. The patient is a busy professional and is annoyed because she says \"I finally got over the flu and now I have to deal with this!\" Dilated fundus exam and fluorescein angiogram are seen above. All of the following are true regarding this disease EXCEPT:.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 283,
+  "question": "• A 33-year-old woman presents to your office with increasingly blurry vision in the right eye for the past 3 days. The patient is a busy professional and is annoyed because she says \"I finally got over the flu and now I have to deal with this!\" Dilated fundus exam and fluorescein angiogram are seen above. All of the following are true regarding this disease EXCEPT:",
+  "options": {
+   "D": "patients are typically HLA-A29 positive",
+   "C": "foveal granularity is pathognomonic",
+   "B": "no treatment is necessary",
+   "A": "it affects women more frequently than men"
+  },
+  "markedAnswer": "D",
+  "explanation": "The fundus photograph shows multiple gray-white dots at the level of the RPE. The fluorescein angiogram shows that each white dot is composed of multiple hyperfluorescent spots in a \"wreathlike\" cluster. These findings are typical of MEWDS (multiple evanescent white dot syndrome) which occurs more frequently in women (4:1 ratio of F:M), is usually unilateral (80% of cases), and resolves spontaneously without treatment. HLA-A29 positivity is typical for birdshot retinochoroidopathy whose chorioretinal lesions may look similar to MEWDS. However, vitritis is *always* present in birdshot. Q- The top OCT image is abnormal and taken from the right eye of a patient with vision loss. The lower OCT image is taken from the normal left eye of the same patient. Which of the following diseases would be expected to result in the changes demonstrated in the right eye?",
+  "imageUrl": "/images/retina-oq/p268_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 284,
+  "question": "The top OCT image is abnormal and taken from the right eye of a patient with vision loss. The lower OCT image is taken from the normal left eye of the same patient. Which of the following diseases would be expected to result in the changes demonstrated in the right eye?",
+  "options": {
+   "D": "Cystoid macular edema",
+   "C": "Choroidal neovascular membrane",
+   "B": "Epiretinal membrane",
+   "A": "Multiple evanescent white dot syndrome"
+  },
+  "markedAnswer": "A",
+  "explanation": "Multiple evanescent white dot syndrome (MEWDS) is a poorly understood, idiopathic inflammatory condition of the inner choroid and/or outer retina. It tends to occur unilaterally in younger myopic females and often presents with central vision loss, enlarged blind spot, and photopsias. Photopsias are very characteristic of MEWDS and other poorly understood inflammatory conditions such as acute zonal occult outer retinopathy (AZOOR) and idiopathic enlarged blind spot syndrome; photopsias as a prominent feature in a young patient with central vision loss should raise suspicion for these conditions. The hallmark features of MEWDS are short-lived white dots usually lasting from days to a week after visual symptoms begin, macular pigment stippling, macular wreath- like punctuate hyperfluorescence on fluorescein angiography, and mild disc edema in some cases. Recently with the advent of high quality spectral domain OCT (SD-OCT) images, it has been discovered that there are non-specific but characteristic outer segment and RPE changes on SD-OCT. Essentially the OCT shows disruption of the usual contour of these layers without evidence of retinal edema. Similar changes can be seen in AZOOR, commotio retinae, and solar retinopathy. In the correct clinical context, however, the disruption of the normal inner segment- outer segment and RPE layers is essentially diagnostic of MEWDS. This is helpful in cases such as this question where the white dots have long since resolved by the time the patient is examined. • Q-A 33-year-old man presents to your office with complaints of having \"new blind spots\" OS. Dilated fundus exam of this eye is seen above. Which of the following statements regarding this disease is correct?",
+  "imageUrl": "/images/retina-oq/p269_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 285,
+  "question": "• Q-A 33-year-old man presents to your office with complaints of having \"new blind spots\" OS. Dilated fundus exam of this eye is seen above. Which of the following statements regarding this disease is correct?",
+  "options": {
+   "D": "choroidal neovascularization (CNV) occurs in 75% of these patients",
+   "C": "treatment with immunosuppressives may help",
+   "B": "no treatment is necessary",
+   "A": "visual prognosis is generally good"
+  },
+  "markedAnswer": "C",
+  "explanation": "Serpiginous choroidopathy may initially be confused with APMPPE (acute posterior multifocal placoid pigment epitheliopathy) since both can present with large placoid yellowish lesions at the level of the RPE. However, the lesions in APMPPE resolve spontaneously over a few weeks and visual prognosis is generally good. In contrast, patients with serpiginous usually do poorly. In select cases, treatment with immunosuppressives (e.g. mycophenylate, cyclosporine, azathioprine, and prednisone) may induce remission. According to the BCSC, CNV only rarely occurs at the margin of an area of chorioretinal atrophy. • Q-Which of the following features would be concerning for malignancy if seen on examination of this lesion?",
+  "imageUrl": "/images/retina-oq/p271_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 286,
+  "question": "• Q-Which of the following features would be concerning for malignancy if seen on examination of this lesion?",
+  "options": {
+   "D": "Thickness of 0.5 mm - 1 mm",
+   "C": "Overlying clumps of orange pigment",
+   "B": "Location in mid-periphery",
+   "A": "Overlying drusen formation"
+  },
+  "markedAnswer": "C",
+  "explanation": "The image above shows a hyperpigmented lesion with a vessel spanning superficially across the lesion suggesting that it is located in the deep retina or choroid. The appearance of this lesion is classic for a small choroidal nevus (diameter can be roughly inferred based on the adjacent blood vessels and is probably 0.5-1.5 disc diameters wide. The primary concern for any pigmented choroidal lesion is to ensure that it is not a melanoma. Features suggestive of melanoma rather than nevus include elevation of the lesion, width over 10 mm, overlying orange pigment clumping, adjacent sub- retinal fluid, visual symptoms from the lesion, and rapid growth on serial examinations. This lesion demonstrates none of these concerning features although if there is concern then the lesion should be followed over time with photographs to observe for rapid growth. When present, drusen overlying a choroidal hyperpigmented lesion is reassuring because it is a sign of chronicity and suggests the lesion is a benign nevus. Ultrasound can help distinguish a nevus from a melanoma in questionable causes because most choroidal nevi are less than 1 mm thick while most melanomas are more than 3 mm thick. Q-Which of the following is NOT a recommended management choice for an isolated choroidal hemangioma?",
+  "imageUrl": "/images/retina-oq/p272_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 287,
+  "question": "Which of the following is NOT a recommended management choice for an isolated choroidal hemangioma?",
+  "options": {
+   "D": "external beam radiation",
+   "C": "systemic chemotherapy",
+   "B": "photodynamic therapy (PDT)",
+   "A": "observation"
+  },
+  "markedAnswer": "C",
+  "explanation": "Choroidal hemangiomas are benign and *never* metastasize. Therefore, systemic chemotherapy is never indicated. The most viable current treatment for these benign tumors is photodynamic therapy (PDT). In cases unresponsive to PDT, radiation therapy (e.g. brachytherapy or external beam radiation) may be employed. Small choroidal hemangiomas causing no visual symptoms may be observed with serial fundus photographs. Q-Which of the following ocular tumors typically displays high, regular internal reflectivity and acoustic solidity on ultrasonography?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 288,
+  "question": "Which of the following ocular tumors typically displays high, regular internal reflectivity and acoustic solidity on ultrasonography?",
+  "options": {
+   "D": "choroidal metastases",
+   "C": "choroidal hemangioma",
+   "B": "advanced retinoblastoma",
+   "A": "choroidal melanoma"
+  },
+  "markedAnswer": "C",
+  "explanation": "Ultrasonography can be used to distinguish different types of posterior segment tumors. The different ultrasound characteristics of these tumors is very high yield on most board exams. Here is a summary of these characteristics: Choroidal hemangioma • Dome-shaped • Acoustic solidity • High, regular internal reflectivity. This is the result of the tumor being composed of tightly packed blood vessels thus giving it a very regular pattern on A-scan. Choroidal melanoma • Usually is smooth, dome-shaped • \"Collar button\" (\"mushroom shape\") configuration (present in <25% cases) is pathognomonic • Low-to-medium, regular internal reflectivity. Retinoblastoma • Advanced forms display high, irregular internal reflectivity. The irregularity is due to the focal areas of calcification within the tumor. Also, necrosis and hemorrhage within the tumor contribute to its internal heterogeneity. Choroidal metastases • Irregular, lumpy contour. • Medium-to-high internal reflectivity (with irregular internal structure) Q-A 21-year old man is referred to your clinic by his optometrist with the diagnosis of \"rule out retinal detachment, right eye.\" Dilated fundus exam shows an exudative retinal detachment and the fluorescein angiogram (FA) shows a diffuse \"leopard-spot pattern\" without leakage. Incidentally, the patient is a +6.00 hyperope OU and has a family history of lung cancer. Which of the following conditions is most likely also present in this patient?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 289,
+  "question": "Which of the following conditions is most likely also present in this patient?",
+  "options": {
+   "D": "uveal effusion syndrome",
+   "C": "CAR (carcinoma-associated retinopathy)",
+   "B": "multiple sclerosis",
+   "A": "BDUMP (bilateral diffuse uveal melanocytic proliferation)"
+  },
+  "markedAnswer": "D",
+  "explanation": "This patient is a high hyperope whose fundus photograph shows an exudative retinal detachment. The FA shows a diffuse \"leopard-spot\" pattern *without* any leakage. These findings are classic features of \"uveal effusion syndrome.\" (Note: the family history of lung cancer was a red herring to sway you to pick \"BDUMP\" which is associated with lung cancer and can also have a leopard spot pattern on FA). Which tumors are most commonly associated with the bilateral diffuse uveal melanocytic proliferation (BDUMP) syndrome?",
+  "imageUrl": "/images/retina-oq/p275_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 290,
+  "question": "Which tumors are most commonly associated with the bilateral diffuse uveal melanocytic proliferation (BDUMP) syndrome?",
+  "options": {
+   "D": "tumors of skin, prostate, and ovaries",
+   "C": "tumors of brain, liver, and prostate",
+   "B": "tumors of ovaries, uterus, and lung",
+   "A": "tumor of prostate, bladder, and lung"
+  },
+  "markedAnswer": "B",
+  "explanation": "Bilateral diffuse uveal melanocytic proliferation (BDUMP) presents with bilateral diffuse thickening of the choroid, reddish/brownish choroidal discoloration, serous retinal detachments, and cataracts. The choroidal thickening may resemble large choroidal nevi distributed throughout the fundus. This presentation is typically associated with a systemic cancer and thus a systemic workup is indicated in these patients. The presence of BDUMP is most commonly associated with tumors of the ovaries, uterus, and lung. However, BDUMP can occur with cancer of the pancreas, gallbladder, colon, and esophagus. Q-A 45-year-old woman from Missouri presents with new-onset blurry vision and floaters OS. On Humphrey visual field testing, she has a mildly-enlarged blind spot OS. She has a history of chronic vision loss in the right eye due to some type of \"episode\" in the past. Dilated fundus exam is seen above. There is 1-2+ vitreous cell OS. Which of the following is the most likely diagnosis?",
+  "imageUrl": "/images/retina-oq/p276_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 291,
+  "question": "A 45-year-old woman from Missouri presents with new-onset blurry vision and floaters OS. On Humphrey visual field testing, she has a mildly-enlarged blind spot OS. She has a history of chronic vision loss in the right eye due to some type of \"episode\" in the past. Dilated fundus exam is seen above. There is 1-2+ vitreous cell OS. Which of the following is the most likely diagnosis?",
+  "options": {
+   "D": "serpiginous choroidopathy",
+   "C": "multifocal choroiditis and panuveitis (MCP)",
+   "B": "ocular histoplasmosis syndrome (OHS)",
+   "A": "acute posterior multifocal placoid pigment epitheliopathy (APMPPE)"
+  },
+  "markedAnswer": "C",
+  "explanation": "The fundus photograph shows multiple yellow choroidal lesions with a varying degree of scarring. The punched-out morphology of these lesions resembles OHS. However, the presence of vitritis rules out OHS in favor of MCP as the diagnosis. The incidence of vitritis in patients with MCP is approximately 90%. MCP is one of the white-dot syndromes that is more common in females, affects both eyes, and has a generally-poor visual prognosis (like serpiginous). (By the way: the woman being from Missouri was a red herring leading you to the incorrect diagnosis of OHS). Q-An otherwise healthy 70-year-old male comes in for a routine examination. His vision is 20/20 uncorrected in both eyes. His exam is essentially normal except for early cataracts and the fundus lesion noted in the picture above. What is the most likely diagnosis?",
+  "imageUrl": "/images/retina-oq/p276_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 292,
+  "question": "An otherwise healthy 70-year-old male comes in for a routine examination. His vision is 20/20 uncorrected in both eyes. His exam is essentially normal except for early cataracts and the fundus lesion noted in the picture above. What is the most likely diagnosis?",
+  "options": {
+   "D": "Melanocytoma",
+   "C": "Congenital hypertrophy of the retinal pigment epithelium (CHRPE)",
+   "B": "Choroidal melanoma",
+   "A": "Choroidal nevus"
+  },
+  "markedAnswer": "A",
+  "explanation": "The image above shows a hyperpigmented lesion with a vessel spanning superficially across the lesion suggesting that it is located in the deep retina or choroid. The appearance of this lesion is classic for a small choroidal nevus (diameter can be roughly inferred based on the adjacent blood vessels and is probably 0.5-1.5 disc diameters wide. The primary concern for any pigmented choroidal lesion is to ensure that it is not a melanoma. Features suggestive of melanoma rather than nevus include elevation of the lesion, width over 10 mm, overlying orange pigment clumping, adjacent sub- retinal fluid, visual symptoms from the lesion, and rapid growth on serial examinations. This lesion demonstrates none of these concerning features although if there is concern then the lesion should be followed over time with photographs to observe for rapid growth. CHRPE is, as the name suggests, a congenital lesion marked by hypertrophy of the retinal pigmented epithelium. Generally speaking it is slightly darker than a choroidal nevus and often demonstrates a central lacunae (or depigmented space within the lesion). CHRPE are virtually always benign although can very, very rarely lead to an adenocarcinoma of the RPE. When CHRPE occurs in clusters (more than 4 CHRPE or numerous bilateral CHRPE then the findings can be a harbinger of underlying familial adenomatous polyposis (FAP). The phenotypic variant of FAP with extraintestinal neoplasms including desmoid tumours, osteomas, epidermoid cysts, lipomas, and CHRPE is known as “Gardner syndrome.” Choroidal melanocytomas are a rare neoplasm that are usually located immediately adjacent to the optic nerve, are virtually always benign, and are classically extremely darkly pigmented. They can very rarely undergo malignant transformation and thus are often followed with serial photos / exams. Diagnostic Approach to Retinal Disease Which of the following fluorescein angiography (FA) hyperfluorescence patterns shows its peak intensity EARLIEST?",
+  "imageUrl": "/images/retina-oq/p277_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 293,
+  "question": "Which of the following fluorescein angiography (FA) hyperfluorescence patterns shows its peak intensity EARLIEST?",
+  "options": {
+   "D": "leakage",
+   "C": "pooling",
+   "B": "staining",
+   "A": "window defect"
+  },
+  "markedAnswer": "A",
+  "explanation": "There are 5 major patterns of hyperfluorescence in FA: (1) leakage; (2) staining; (3) pooling; (4) transmission (window) defect; and (5) autofluorescence. Transmission (window) defect occurs due to a defect of the overlying RPE, thus allowing more normal choroidal fluorescence to be seen. Since the filling of the choroidal circulation is early, the intensity of window defect hyperfluorescence occurs the earliest. This type of hyperfluorescence fades in the late phases of the FA as the choroidal circulation is diluted with blood not containing fluorescein Which of the following is true regarding electroretinogram (ERG) testing?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 294,
+  "question": "Transmission (window) defect occurs due to a defect of the overlying RPE, thus allowing more normal choroidal fluorescence to be seen. Since the filling of the choroidal circulation is early, the intensity of window defect hyperfluorescence occurs the earliest. This type of hyperfluorescence fades in the late phases of the FA as the choroidal circulation is diluted with blood not containing fluorescein Which of the following is true regarding electroretinogram (ERG) testing?",
+  "options": {
+   "D": "the ERG can be used to estimate visual acuity",
+   "C": "the macula contributes 10-15% of total photopic response",
+   "B": "rod function can be measured by the photopic ERG",
+   "A": "rod function can be measured by the 30-Hz flicker response"
+  },
+  "markedAnswer": "C",
+  "explanation": "The ERG measures the mass response of the photoreceptors and cannot be used to estimate visual acuity. In fact, only 10-15% of the ERG response can be attributable to photoreceptors in the macula. Cone function can be measured with a 30-Hz flicker response since rods do not respond over 20-Hz. In addition, cone function can be measured with the photopic ERG, which is performed when the eye is in the light-adapted state. To measure rod function, one can perform an ERG with the eye in the dark-adapted state (i.e. scotopic ERG). Q.A 45-year-old diabetic woman is undergoing a fluorescein angiogram (FA) prior to undergoing focal laser photocoagulation for clinically-significant macular edema. Shortly after the injection of fluorescein, the patient complains of severe nausea and lightheadedness. What is the estimated incidence of this side effect?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 295,
+  "question": "Shortly after the injection of fluorescein, the patient complains of severe nausea and lightheadedness. What is the estimated incidence of this side effect?",
+  "options": {
+   "D": "10%",
+   "C": "5%",
+   "B": "1%",
+   "A": "0.1%"
+  },
+  "markedAnswer": "D",
+  "explanation": "According to the BCSC, the incidence of nausea/vomiting/syncope from FA is approximately 10%. Other notable possible side effects are: • urticarial (anaphylactoid) reactions - 1% • cardiovascular shock (anaphylactic) - <1:100,000 • temporary (6-12 hours) yellowing of skin and conjunctiva - all patients You should also warn your patients that their urine may appear bright orange-yellow for 24-36 hours after FA. Which of the white dot syndromes, depicted in the photos above, has the WORST visual prognosis?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 296,
+  "question": "Which of the white dot syndromes, depicted in the photos above, has the WORST visual prognosis?",
+  "options": {
+   "D": "D",
+   "C": "C",
+   "B": "B",
+   "A": "A"
+  },
+  "markedAnswer": "C",
+  "explanation": "The white dot syndromes with the worst visual prognosis are serpiginous choroidopathy (Panel C) and multifocal choroiditis and panuveitis (not depicted above). The \"pseudopodial\" spread of serpiginous lesions typically occurs outward from the optic disc. These lesions become atrophic over time and lead to dense corresponding scotomas. The typical treatment of serpiginous choroidopathy is with systemic immunosuppressives; though even with treatment, the visual prognosis is generally poor. Panel \"A\" depicts multiple evanescent white dot syndrome (MEWDS); Panel \"B\" shows birdshot retinochoroidopathy; and Panel \"D\" shows acute zonal occult outer retinopathy (AZOOR). • What type of hyperfluorescence would occur in the central macula on fluorescein angiography in an eye with this OCT finding?",
+  "imageUrl": "/images/retina-oq/p281_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 297,
+  "question": "• What type of hyperfluorescence would occur in the central macula on fluorescein angiography in an eye with this OCT finding?",
+  "options": {
+   "D": "Staining Category: Retina and Vitreous Topic: Diagnostic Approach to Retinal Disease",
+   "C": "Window defect",
+   "B": "Leakage",
+   "A": "Pooling"
+  },
+  "markedAnswer": "A",
+  "explanation": "All of the answer choices are examples of types of hyperfluorescence seen on FA. The OCT in this case shows a retinal pigment epithelial detachment. Pooling is marked by hyperfluorescence that increases in size and intensity progressively as dye enters a closed space (such as fluorescein leakage into a retinal pigment epithelial detachment). Once the closed space fills, the area of hyperfluorescence remains stable in size differentiating pooling from leakage. In the FA of this patient (see below), there is hyperfluorescence present early in the FA with a slow increase in intensity yet the area of hyperfluorescence does not continue to expand after reaching a maximal size. Leakage is marked by hyperfluorescence that increases in size and intensity over time corresponding to extravasation of dye from leaking blood vessels. Choroidal neovascular membranes and neovascularization are examples of lesions that leak on FA. Window defects are usually related to damage to the retinal pigment epithelium causing increased visibility of the underlying hyperfluorescent choroid. Geographic atrophy is a classic example of a lesion that exhibits window defect related hyperfluorescence. Hyperfluorescence from a window defect is usually more prominent early in the FA and declines with time corresponding to the concentration of dye in the choroid. Staining is marked by uptake of fluorescein into structures such as drusen or the optic disc. Staining causes hyperfluorescence that maintains its intensity late into the FA but without an increase in the area of hyperfluorescence over time. • Q-Which of the following molecules acts as a VEGF receptor decoy?",
+  "imageUrl": "/images/retina-oq/p282_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 298,
+  "question": "Which of the following molecules acts as a VEGF receptor decoy?",
+  "options": {
+   "D": "aflibercept",
+   "C": "pegaptanib",
+   "B": "bevacizumab",
+   "A": "ranibizumab"
+  },
+  "markedAnswer": "D",
+  "explanation": "Angiogenesis is a key process by which choroidal neovascularization (CNV) occurs in macular diseases such as age-related macular degeneration (AMD). Stimulators of angiogenesis include vascular endothelial growth factor (VEGF); transforming growth factor alpha and beta; fibroblast growth factor families; and angiopoietin-1 and -2. A significant body of research and clinical experience supports the use of VEGF inhibitors in a variety of retinal diseases associated with neovascularization. The BCSC emphasizes knowing the specific differences among these anti-VEGF agents: • Pegaptanib (brand: Macugen). This is a RNA oligonucleotide ligand (aptamer) that binds the VEGF165 isoform with great specificity. In other words, it does not bind to all active VEGF-A isoforms. It is not used widely anymore for AMD since patients still lose vision in contrast to the newer anti-VEGF agents where significant vision gain frequently occurs. • Ranibizumab (brand: Lucentis). This is a recombinantly produced, humanized, antibody (Fab) fragment that binds VEGF. Ranibizumab inhibits the biologic activity of all active forms of VEGF-A and their active degradation products. Ranibizumab lacks a Fc region and thus avoids Fc recyling. Lack of this Fc region also makes it very small and thus allows easier penetration into the retina and faster systemic clearance. • Bevacizumab (brand: Avastin). This is a recombinant, full-length, humanized monoclonal antibody that is FDA-approved for the treatment of metastatic colorectal cancer and is used off-label for a variety of retinal conditions such as AMD. Like ranibizumab, it binds all active forms of VEGF-A. Bevacizumab has two antigen-binding domains while ranibizumab only has one. In other words, bevacizumab is much larger than ranibizumab which may lead to the former molecule lingering in the body longer. • Aflibercept (brand: Eylea). This is a soluble protein that acts as a VEGF receptor decoy (\"Trap\"). Eylea combines the ligand-binding elements from VEGFR1 and VEGFR2 fused to the Fc constant region of IgG. Thus, it \"traps\" all available VEGF with greater affinity and prevents it from binding to native VEGF receptors. Aflibercept also binds placental-like growth factor (PIGF). • The suffix of the name tells you how it works Ranibizum\"ab\" and Bevacizum\"ab\" are antibodies Afliber\"cept\" is a receptor analog Pegatin\"ib\" is a small molecule inhibitor • A 14-year-old male with mental delay comes in for a routine eye examination. He corrects to 20/20 OU with a minor myopic prescription. On dilated fundus exam you note the following exam findings. What skin finding would you most expect to see in this patient?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 299,
+  "question": "What skin finding would you most expect to see in this patient?",
+  "options": {
+   "D": "Cortical tubers",
+   "C": "Subependymal nodules",
+   "B": "Nevus flammeus",
+   "A": "Periungal fibromas"
+  },
+  "markedAnswer": "A",
+  "explanation": "Standardized tests LOVE to test the phakomatoses including tuberous sclerosis (TS). The fundus photos shown above showcase the classic findings of retinal astrocytic hamartomas which are present in 50% of patients with tuberous sclerosis and are bilateral in 30%. These are superficial retinal masses that arise from glial astrocytes in the nerve fiber layer. Below (in the explanation image) is a beautiful OCT section through a smaller astrocytic hamartoma demonstrating clearly how it arises from the retinal nerve fiber layer. Astrocytic hamartomas can be flat with indistinct margins (see green arrow below), elevated with sharply demarcated margins and a classic “mulberry” or “fish egg” appearance (see yellow arrow below), or a hybrid of the two morphologic appearances (pink arrow). These rarely if ever cause visual disability. With careful perimetry a small scotoma may be seen in the visual field corresponding to the lesion (similar to a cotton wool spot) but this would rarely be symptomatic. It is incredibly rare (case reportable) for astrocytic hamartomas to grow once they are found on exam. Just to refresh your memory, TS is caused by an autosomal dominantly inherited mutation of tumor suppressor genes TSC1 (i.e. hamartin) on chromosome 9 or TSC2 (i.e. tuberin) on chromosome 16. Other clinical features of tuberous sclerosis include: Brain - Cortical tubers (90%) - Subependymal nodules (80%) - Subependymal giant cell astrocytomas (10-15%) Cognitive / behavioral pathology - Epilepsy (85%) - Intellectual disability (50%) - Autism (25-61%) Q-You are following a 16-year old boy who suffered a penetrating ocular injury two months ago when hammering iron nails. His initial open globe repair was performed by another eye surgeon at an outside facility. On your initial exam of the child, two weeks after his injury, you noted a small foreign body located in the anterior vitreous. You have been performing serial electroretinograms (ERGs) as shown above. Based on this information, which of the following represents the best course of management?",
+  "imageUrl": "/images/retina-oq/p285_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 300,
+  "question": "Based on this information, which of the following represents the best course of management?",
+  "options": {
+   "D": "removal of the foreign body",
+   "C": "continued serial ERGs",
+   "B": "confirmatory electrooculogram (EOG)",
+   "A": "intravitreal triamcinolone"
+  },
+  "markedAnswer": "D",
+  "explanation": "Iron toxicity to the eye, \"siderosis\", causes characteristic changes in the ERG. In the early phases, there is an increased (more negative) a-wave and a normal b-wave. In more advanced phases, the b-wave amplitude becomes smaller. Eventually, siderosis may lead to total extinguishing of the ERG. Removal of a small iron foreign body is justified if the b-wave amplitude decreases. Q-Which of the following is a relative contraindication to indocyanine green angiography?",
+  "imageUrl": "/images/retina-oq/p287_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 301,
+  "question": "Which of the following is a relative contraindication to indocyanine green angiography?",
+  "options": {
+   "D": "Fluorescein allergy",
+   "C": "Iodide allergy",
+   "B": "Latex allergy",
+   "A": "Egg allergy"
+  },
+  "markedAnswer": "C",
+  "explanation": "Both fluorescein angiography (FA) and indocyanine green angiography (ICG) are relatively safe procedures. Mild reactions to FA including nausea, vomiting, or vasovagal reactions are estimated to occur in 10% of patients while hives occur in 1% and severe anaphylactic reactions occur in about .001% (1/100,000). Patient’s who are allergic to FA tend to have recurrent symptoms when re-exposed to fluorescein. ICG is better tolerated than FA and mild reactions including nausea or vomiting occur in less than 1%. ICG does contain iodide, however, so caution should be used in performing ICG on any patient with a prior severe allergic reaction to iodide or shellfish. Other relative contraindications to ICG include liver disease (ICG is hepatically eliminated) and metformin. There are vague reports in the literature that ICG may precipitate lactic acidosis in patients on metformin although the evidence for this is poor. To be safe, you may ask patients to stop their metformin 1-2 days prior to ICG administration. Q-Which of the following is FALSE regarding the anti-VEGF drug ranibizumab (i.e. Lucentis)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 302,
+  "question": "Which of the following is FALSE regarding the anti-VEGF drug ranibizumab (i.e. Lucentis)?",
+  "options": {
+   "D": "the ANCHOR trial compared the effect of ranibizumab to photodynamic therapy (PDT)",
+   "C": "the MARINA trial showed ranibizumab's efficacy in predominantly classic CNV lesions",
+   "B": "the PIER study evaluated the effect of quarterly ranibizumab injections after an initial (monthly) 3 injections",
+   "A": "it inhibits the biologic activity of all active forms of VEGF-A"
+  },
+  "markedAnswer": "C",
+  "explanation": "The MARINA trial looked at the effect of ranibizumab on minimally classic / occult CNV lesions (\"M\" for minimally). The ANCHOR trial studied the effect of ranibizumab on predominantly classic CNV (an anchor looks like a \"C\" for classic). • The figure trilogy shown above demonstrates from left to right a color fundus photo, early fluorescein angiography (FA) image, and late FA image. How would you best characterize the hyperfluorescence seen on the late FA adjacent to the optic nerve (indicated by the white arrow in the right FA image)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 303,
+  "question": "• The figure trilogy shown above demonstrates from left to right a color fundus photo, early fluorescein angiography (FA) image, and late FA image. How would you best characterize the hyperfluorescence seen on the late FA adjacent to the optic nerve (indicated by the white arrow in the right FA image)?",
+  "options": {
+   "D": "Window defect",
+   "C": "Pooling",
+   "B": "Staining",
+   "A": "Leakage"
+  },
+  "markedAnswer": "B",
+  "explanation": "All of the answer choices are examples of types of hyperfluorescence seen on FA. Pooling is marked by hyperfluorescence that increases in size and intensity progressively throughout the FA as dye enters a closed space (such as fluorescein leakage into a retinal pigment epithelial detachment). Once the closed space fills, the area of hyperfluorescence remains stable in size differentiating pooling from leakage. Leakage is marked by hyperfluorescence that increases in size and intensity over time corresponding to extravasation of dye from leaking blood vessels. Choroidal neovascular membranes and neovascularization are examples of lesions that leak on FA. Window defects are usually related to damage to the retinal pigment epithelium causing increased visibility of the underlying hyperfluorescent choroid. Geographic atrophy is a classic example of a lesion that exhibits window defect related hyperfluorescence. Hyperfluorescence from a window defect is usually more prominent early in the FA and declines with time corresponding to the concentration of dye in the choroid. Staining is marked by uptake of fluorescein into structures such as drusen, the optic disc, and peripapillary atrophy. Staining causes hyperfluorescence that gradually increases in intensity throughout the FA but without an increase in the area of hyperfluorescence over time. Unlike a window defect, staining remains hyperfluorescent late in the FA. This patient demonstrates prominent peripapillary atrophy that is evident on the color fundus photo where the underlying sclera can be seen through the thinned retina and absent choroid / RPE. Early in the FA, retinal vessels can be seen passing over the atrophic area with minimal hyperfluorescence. Late in the FA, however, hyperfluorescence is clearly shown in an area exactly matching the peripapillary atrophy on the color fundus photo. This is a classic picture for staining. Q-A 50-year-old Caucasian professional gardener presents to the ophthalmologist due to a complaint of bumping into objects at night. He noted these symptoms several weeks ago and also notes occasional flashes of light in his right eye. He has been otherwise healthy, denies any medication use or toxic habits, and denies trauma. Visual acuity is 20/40 OD and 20/25 OS, and intraocular pressures are within- normal-limits. Anterior segment and dilated fundus examinations are unremarkable in both eyes. Humphrey visual field testing demonstrates paracentral scotomas in both eyes. An OCT of the macula is unremarkable in both eyes. What is the typical response seen in this condition on a full-field electroretinogram (ERG)?",
+  "imageUrl": "/images/retina-oq/p289_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 304,
+  "question": "Visual acuity is 20/40 OD and 20/25 OS, and intraocular pressures are within- normal-limits. Anterior segment and dilated fundus examinations are unremarkable in both eyes. Humphrey visual field testing demonstrates paracentral scotomas in both eyes. An OCT of the macula is unremarkable in both eyes. What is the typical response seen in this condition on a full-field electroretinogram (ERG)?",
+  "options": {
+   "D": "Greater attenuation of the b-wave than that of the a-wave",
+   "C": "Greater attenuation of the a-wave than that of the b-wave",
+   "B": "Equal attenuation of both the a-wave and b-wave",
+   "A": "Normal response"
+  },
+  "markedAnswer": "D",
+  "explanation": "This clinical scenario raises concern for melanoma-associated retinopathy (MAR). MAR often presents acutely or subacutely with decreased visual acuity, nyctalopia, and/or photopsias. Examination of the anterior and posterior segments is often unremarkable though rare cases of vitelliform lesions have been described. Given the lack of findings on examination, ancillary testing and history form the backbone of MAR diagnosis. In this case, we are given a Caucasian middle-aged male who is presumed to spend a great deal of time outdoors given his profession. Patients with MAR may have a personal or family history of autoimmune conditions, suggesting a possible association. Formal visual field testing often reveals a central, cecocentral, or paracentral scotoma. Most importantly, ERG testing shows greater attenuation of the b-wave compared to the a-wave, typically seen on dark-adapted protocols. This is termed an electronegative response, as the negative a-wave far outweighs the typically positive b-wave; oftentimes, the b-wave does not reach the isoelectric point. The presentation of MAR may precede or follow the diagnosis of melanoma by several years. MAR is associated with cutaneous melanoma in the great majority of cases, though rare cases of uveal melanoma have been described. The entity of MAR is crucial for the ophthalmologist to keep in mind, as timely diagnosis may be life- saving. Unfortunately, there is no treatment for MAR. Several autoantibodies have been identified in patients with MAR; however, their diagnostic utility has yet to be elucidated. The patient in this case scenario should be referred to a dermatologist for skin surveillance. Understanding the differential diagnosis of an electronegative ERG assists in the diagnosis of several conditions. On an ERG, the a-wave represents the photoreceptor response, whereas the b-wave represents the bipolar cell response. As such, in MAR, it is the bipolar cells that are targeted. Any condition affecting either the inner retina as a whole or the bipolar cells will manifest an electronegative ERG response. Differential Diagnosis for Electronegative ERG Inner Retinal Process • Ischemia: Central retinal artery or vein occlusion • Drugs & Toxicity: siderosis (iron), cinchonism (quinine), methanol • Juvenile X-linked retinoschisis Bipolar Cell or Photoreceptor-Bipolar Synapse Process • Melanoma-associated retinopathy • Congenital stationary night blindness - Schubert-Bornstein variant • Autosomal dominant neovascular inflammatory vitreoretinopathy (ADNIV) Miscellaneous • Duchenne and Becker muscular dystrophies Which of the following statements is CORRECT regarding the wavelengths of light and barrier filter used in fluorescein angiography (FA)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 305,
+  "question": "• Duchenne and Becker muscular dystrophies Which of the following statements is CORRECT regarding the wavelengths of light and barrier filter used in fluorescein angiography (FA)?",
+  "options": {
+   "D": "the excitation light is 465–490 nm; fluorescein fluoresces at 520–530 nm; the barrier filter is yellow-green",
+   "C": "the excitation light is 465–490 nm; fluorescein fluoresces at 520–530 nm; the barrier filter is blue",
+   "B": "the excitation light is 520-530 nm; fluorescein fluoresces at 465-490 nm; the barrier filter is yellow-green",
+   "A": "the excitation light is 520-530 nm; fluorescein fluoresces at 465-490 nm; the barrier filter is blue"
+  },
+  "markedAnswer": "D",
+  "explanation": "The basic principles of fluorescein angiography are: 1) Camera flash unit emits white light. 2) This white light is passed through a blue (\"excitatory\") filter which only allows blue light to enter the eye. 3) The blue light (wavelength of 465-490 nm) causes excitation of unbound fluorescein molecules which are circulating in the retinal and choroidal circulations. 4) The fluorescein molecules emit photons of light at 520-530 nm (yellow-green). 5) This emitted yellow-green light, as well as some reflected blue light, pass through a yellow-green (\"barrier\") filter which only allows yellow-green light to enter the camera lens. you can also think of a slit lamp exam--you shine blue light on fluorescein and it glows yellow. Also a mnemonic for conjunctival telangiectasia: You sit on the SOFA when you watch the TELE-vision (tele-ngectasia) Sickle cell Osler Weber Rendau Fabry's Ataxia telengiectasia • Q-A 28-year-old engineer comes to you with complaints of a \"central blurry spot\" in the left eye. Dilated fundus exam and fluorescein angiogram (FA) are shown above. Which of the following does NOT typically occur in this patient's disease?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 306,
+  "question": "A 28-year-old engineer comes to you with complaints of a \"central blurry spot\" in the left eye. Dilated fundus exam and fluorescein angiogram (FA) are shown above. Which of the following does NOT typically occur in this patient's disease?",
+  "options": {
+   "D": "bilateral findings",
+   "C": "intra or sub-retinal hemorrhage",
+   "B": "multifocal serous pigment epithelial detachments (PEDs)",
+   "A": "a pinpoint leak with expanding dot on FA"
+  },
+  "markedAnswer": "C",
+  "explanation": "The FA in this question shows the \"expanding-dot\" pattern of dye leakage commonly seen in CSR. Although the \"smoke-stack\" configuration of leakage on FA is considered pathognomonic for CSR it only occurs in 10% of patients and the expanding dot pattern is actually much more common. The differential diagnosis of central serous chorioretinopathy (CSCR) in an older patient includes: choroidal neovascularization (CNV) from age-related macular degeneration (AMD), serous detachments from optic pits, idiopathic polypoidal choroidal vasculopathy (PCV), and uveal effusion syndrome. Retinal hemorrhage of any kind does not typically occur with CSR and would more indicative of CNV from AMD or PCV. In many cases, findings of CSR are seen in the fellow eye including retinal pigment epithelial (RPE) changes, active sub retinal or sub-RPE fluid, or choroidal thickening on enhanced-depth OCT. Q.You are following two patients with choroidal melanoma. One of the patients receives brachytherapy with a I-125 plaque. The other patient receives external beam radiation (EBT). Assuming that both patients receive equal doses of radiation, which patient would develop radiation retinopathy first and what is the typical threshold dose to develop this ocular complication?",
+  "imageUrl": null,
+  "stemReferencesFigure": true,
+  "figureMissing": true
+ },
+ {
+  "id": 307,
+  "question": "A 26 year-old male presents for a routine eye examination. His visual acuity is 20/20 OU without correction. On fundus examination, he is discovered to have RPE mottling in the macula in both eyes. Fluorescein angiography is performed and depicted in the images provided. Which of the following is the most appropriate management option for this patient?",
+  "options": {
+   "D": "Observation",
+   "C": "Focal macular photocoagulation in one or both eyes",
+   "B": "Photodynamic therapy in one or both eyes",
+   "A": "Anti-VEGF therapy in one or both eyes"
+  },
+  "markedAnswer": "D",
+  "explanation": "The patient depicted in this case has central serous chorioretinopathy (CSCR). This condition is often asymptomatic and only becomes symptomatic when the fovea becomes involved. CSCR is idiopathic and frequently occurs bilaterally in males 25-50 years old. When symptomatic, a serous detachment of the subfoveal neurosensory retina is present and is often associated with a retinal pigment epithelial detachment (PED). Fluorescein angiography most commonly reveals an expansile dot of hyperfluorescence as depicted in both images of this case. A) Anti-VEGF therapy is minimally effective for CSCR when a secondary choroidal neovascular membrane is absent. The pathophysiology of CSCR is believed to be related to choriocapillaris hyperpermeability and choroidal congestion as recently demonstrated by enhanced-depth imaging (EDI) spectral domain optical coherence tomography (SD OCT) studies. There has been some recent interest in anti-VEGF therapy for chronic CSCR; however, prospective trials demonstrate low response of anti-VEGF therapy when compared to PDT. B) Photodynamic therapy (PDT) at full or reduced fluence is an effective treatment option for symptomatic and vision-reducing subretinal fluid that fails to resolve after 3-4 months, especially when the leakage found on fluorescein angiography is within the central macula. Since the patient is asymptomatic and has 20/20, this option is inappropriate. C) Focal macular photocoagulation is an effective treatment option for symptomatic and vision-reducing subretinal fluid that fails to resolve after 3-4 months. This option is best when the leakage found on fluorescein angiography is not within 500 microns of the central macula. Since the patient is asymptomatic and has 20/20, this option is inappropriate. D) Observation is the best management option for all cases of asymptomatic CSCR with 20/20 visual acuity, and for most symptomatic cases with reduced visual acuity having a duration of less than 3-4 months. Spontaneous resolution occurs in approximately 90% of cases within 3-4 months. If the subretinal fluid fails to improve or worsens after 3-4 months of observation, then PDT or focal macular photocoagulation should be considered.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ }
+]

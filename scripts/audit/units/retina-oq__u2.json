@@ -1,0 +1,1052 @@
+[
+ {
+  "id": 71,
+  "question": "All of the following were conclusions of the ETDRS (Early Treatment Diabetic Retinopathy Study) EXCEPT:",
+  "options": {
+   "D": "aspirin use did not change the risk of cardiovascular morbidity and mortality",
+   "C": "focal laser increased chance of 2-line gain in visual acuity",
+   "B": "focal laser decreased risk of moderate visual acuity loss",
+   "A": "early scatter photocoagulation resulted in a small reduction in the risk of severe visual loss"
+  },
+  "markedAnswer": "D",
+  "explanation": "The original ETDRS study addressed 3 main questions: (1) is focal photocoagulation effective for diabetic macular edema? (2) is early scatter photocoagulation effective for earlier stages of diabetic retinopathy? (3) is aspirin effective in delaying progression of diabetic retinopathy? All of the answer choices were conclusions of the ETDRS except that aspirin was actually found to reduce the risk of death and morbidity from cardiovascular causes. Q- According to the ETDRS trial, which of the following diagnostic tools should be used to detect and classify diabetic macular edema as clinically significant?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 72,
+  "question": "According to the ETDRS trial, which of the following diagnostic tools should be used to detect and classify diabetic macular edema as clinically significant?",
+  "options": {
+   "D": "non-stereoscopic fundus photography",
+   "C": "slit lamp biomicroscopy with a diagnostic contact lens",
+   "B": "fluorescein angiography (FA)",
+   "A": "optical coherence tomography (OCT)"
+  },
+  "markedAnswer": "C",
+  "explanation": "The ETDRS criteria for staging levels of clinically-significant macular edema (CSME) from diabetes only used slit-lamp biomicroscopy with a diagnostic contact lens to detect retinal thickening. Obviously, modern clinicians now rely on adjunctive tools like OCT to help in their diagnosis and management of diabetic macular edema. Leakage on a FA is not always associated with macular retinal thickening. Q-A 57-year-old man with proliferative diabetic retinopathy in both eyes presents with sudden vision loss of the left eye after waking up. His vision is 20/30 OD and 20/200 OS. The patient has not followed up with an ophthalmologist in over a year. Fundoscopic examination of the right and left eyes are shown in the images. Which of the following would be an indication for early vitrectomy?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 73,
+  "question": "Which of the following would be an indication for early vitrectomy?",
+  "options": {
+   "D": "Diagnosis of type 2 diabetes mellitus (DM)",
+   "C": "Poor vision in the opposite eye",
+   "B": "Extramacular tractional retinal detachment on B-scan ultrasonography",
+   "A": "Prior completed panretinal photocoagulation (PRP)"
+  },
+  "markedAnswer": "C",
+  "explanation": "The patient is presenting with new vitreous hemorrhage in the left eye, most likely due to proliferative diabetic retinopathy (PDR). The Diabetic Retinopathy Vitrectomy Study (DRVS) studied the use of vitrectomy in PDR patients. Patients with severe vision loss (5/200 or less) from vitreous hemorrhage and a diagnosis of type 1 DM had better visual outcomes with early vitrectomy versus delayed vitrectomy. However, this advantage was not found in patients with type 2 DM. Therefore, it is reasonable to observe these patients for 4-6 weeks before considering vitrectomy. Other indications for earlier vitrectomy include poor visual acuity in the fellow eye, or ultrasound evidence of a rhegmatogenous detachment or tractional detachment involving the macula. WRONG ANSWERS: • (Choice \"A\"). The DRVS also studied early vitrectomy in patients with advanced PDR without vitreous hemorrhage. Patients with severe, active PDR had better visual outcomes with early vitrectomy and vitrectomy was more beneficial with increasing severity of neovascularization. Previous PRP increased the chance of good vision. Patients with complete prior PRP who present with vitreous hemorrhage secondary to PDR can therefore likely be observed for a greater period of time. • (Choice \"B\"). Patients with dense vitreous hemorrhage obscuring fundus examination should be monitored with B-scan ultrasonography to ensure there is no macula involving tractional detachment or rhegmatogenous detachment that would require prompt intervention. Extramacular tractional retinal detachments can be observed. • (Choice \"D\"). The DRVS did not show a benefit for early vitrectomy in PDR type II DM patients with severe vitreous hemorrhage. It is reasonable to observe these patients for 4-6 weeks before considering vitrectomy. Other pathology : A 81-year-old patient presents with acute vision loss in the left eye. His visual acuity is hand motions at 2 foot OS. There is a 3-4+ afferent pupillary defect in the left eye. Dilated fundus exam is shown in the photograph above. Despite your best efforts, you cannot locate the causative embolus. Which of the following laboratory tests should you obtain in this situation?",
+  "imageUrl": "/images/retina-oq/p63_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 74,
+  "question": "You are seeing a 22-year old patient as part of his routine annual exam. On dilated examination, you note the presence of a peculiar finding (arrow) as depicted in the photograph above. Which of the following best describes the cause of this ocular finding?",
+  "options": {
+   "D": "necrosis of lens epithelial cells",
+   "C": "secondary opacity due to topical corticosteroid use",
+   "B": "remnant of the hyaloid system",
+   "A": "congenital posterior polar cataract"
+  },
+  "markedAnswer": "B",
+  "explanation": "This photograph depicts a \"Mittendorf dot\" which is a remnant of the tunica vasculosa lentis and hyaloid system. It is typically located inferonasal to the posterior pole of the lens. This is visually insignificant as is a \"Bergmeister papilla\" which is a fibroglial tuft of tissue extending from the optic nerve and which also represents a remnant of the hyaloid system Q-A 64-year-old woman presents for routine examination. She has no visual complaints and best-corrected vision is 20/25 in both eyes. She has no ocular or medical history. Anterior segment examination demonstrates no abnormalities. Fundoscopic examination of the left eye is limited by the finding shown in the photo. The patient’s finding is composed of which of the following?",
+  "imageUrl": "/images/retina-oq/p65_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 75,
+  "question": "The patient’s finding is composed of which of the following?",
+  "options": {
+   "D": "Cholesterol-containing crystals",
+   "C": "Monoclonal B-cell population with enlarged nuclei and minimal cytoplasm",
+   "B": "Calcium-containing phospholipids",
+   "A": "Amyloid"
+  },
+  "markedAnswer": "B",
+  "explanation": "The finding shown is asteroid hyalosis, a degenerative disease due to the development of yellow-white disc shaped bodies (“asteroid bodies”) composed of calcium-containing phospholipids within the collagen matrix of the normal vitreous. The cause is unknown, and the majority of patients have unilateral findings. Patients are usually greater than 50-years-old and a link between hypertension and diabetes has been established. Initially, asteroid bodies develop around retinal blood vessels, but may become so extensive that visualization of the fundus is not possible. Despite this, visual acuity is usually only minimally affected. Fluorescein angiography is one imaging modality that can typically bypass the opacities if posterior pathology is suspected and needs to be characterized or monitored. Abnormal vitreoretinal adhesions such as vitreoschisis are well documented in this condition. Even in the presence of a PVD, residual vitreoretinal adhesions are likely and should be expected if patients undergo vitrectomy. Patients rarely require treatment in the form of vitrectomy, however, as they are typically asymptomatic. WRONG ANSWERS: • (Choice A): Amyloidosis can lead to accumulation of amyloid material in the ocular structures. It is most often seen in primary familial cases of amyloidosis due to a mutation in the transthyretin gene (a dominantly inherited condition); secondary amyloidosis and nonfamilial cases rarely present with ocular findings. Patients with the familial transthyretin gene mutation additionally have a peripheral neuropathy, amyloid nephropathy, and cardiomyopathy. In the eye, the amyloid material is likely excreted from the retinal vasculature with early findings of retinal sheathing, cotton-wool spots, and localized vitreous veils. As the material accumulates, the vitreous is described as a “cob-web” appearance and visual acuity is decreased. Vitrectomy will restore vision and the material removed will demonstrate birefringence with Congo-red staining. • (Choice C): A monoclonal b-cell population with enlarged nuclei would be concerning for primary vitreoretinal lymphoma (PVRL). PVRL can be thought of as a subset of primary CNS lymphoma (PCNSL). It most often involves the retina, RPE, and vitreous and is frequently of the diffuse large B-cell lymphoma type. When initially presenting in the eye, the disease is a masquerade syndrome that can present with a variety of clinical manifestations and is most frequently misdiagnosed as a posterior uveitis with prominent vitritis. Patients complain of decreased vision and floaters. It is usually a disease of the elderly. PCNSL (disease involving the brain, spinal cord, or meninges) will develop in most patients diagnosed with PVRL, and therefore MRI of the brain is mandatory in any patient with a diagnosis of PVRL. Conversely, 25% of patients with a diagnosis of PCNSL have ocular involvement at time of diagnosis, and approximately 25% of PCNSL patients without initial ocular involvement will develop PVRL. The characteristic lesions of PVRL are sub-RPE sharply defined, yellow- white, tumors (see image). However, the disease can present with many manifestations. For instance, it can simulate a multifocal choroiditis, multiple evanescent white-dot syndrome, an acute retinal necrosis with retinal vasculitis and branch arterial occlusions, optic neuritis, or an isolated vitritis to name a few. Therefore, the diagnosis is difficult. MRI, LP with cytology, and vitrectomy usually all necessary to establish a diagnosis, but can often produce inconclusive results. Treatment involves systemic chemotherapy and/or local therapy with intravitreal methotrexate and rituximab. • (Choice D): Cholesterol-containing crystals describes cholesterolosis, also known as synchysis scintillans, which presents with yellow-white crystalline bodies within the vitreous and anterior chamber. In contrast to asteroid hyalosis, these bodies typically settle inferiorly and are seen in eyes with prior trauma and vitreous hemorrhage. Q-What layer of the retina shown above contains the nuclei of the cells attacked in melanoma-associated retinopathy (MAR)?",
+  "imageUrl": "/images/retina-oq/p66_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 76,
+  "question": "What layer of the retina shown above contains the nuclei of the cells attacked in melanoma-associated retinopathy (MAR)?",
+  "options": {
+   "D": "Layer D",
+   "C": "Layer C",
+   "B": "Layer B",
+   "A": "Layer A"
+  },
+  "markedAnswer": "A",
+  "explanation": "MAR is a paraneoplastic, acquired retinal syndrome marked by antibody production to retinal bipolar cells in the inner nuclear layer with evidence of bipolar cell dysfunction on electroretinogram (ERG). The classic ERG findings are that of a \"negative ERG\" with a near normal A-wave but a markedly diminished B-wave. This same pattern of negative ERG is seen with congenital stationary night blindness and retinoschisis. MAR tends to affect predominately rod function while CAR tends to present with both cone and rod retinal dysfunction (cone > rod) although either can affect rods and/or cones. The vast majority of MAR patients have a known history of melanoma at onset. OCT is generally normal in MAR. Recently investigators have discovered that at least some cases of MAR are due to antibodies to the TRPM1 cation transduction channel on bipolar cells. In this spectral domain OCT slice, layer A is the inner nuclear layer (where the bipolar cells reside), layer B is the nerve fiber layer, layer C is the ganglion cell layer, and layer D is the outer nuclear layer. mnemonic is MAR (melanoma affects rods) and CAR (Cone and Rods), and the ERG looks like an m (one dip, then flat = no b wave). Q-A 38-year-old lawyer presents with 3 months of blurry vision in the left eye. Visual acuity is 20/200 OS and anterior segment exam is normal. OCT and fluorescein angiography are shown above for the left eye. The patient is observed without improvement and opts for photodynamic therapy (PDT). What is the most common cause of vision loss after PDT in patients with this condition?",
+  "imageUrl": "/images/retina-oq/p4_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 77,
+  "question": "A 38-year-old lawyer presents with 3 months of blurry vision in the left eye. Visual acuity is 20/200 OS and anterior segment exam is normal. OCT and fluorescein angiography are shown above for the left eye. The patient is observed without improvement and opts for photodynamic therapy (PDT). What is the most common cause of vision loss after PDT in patients with this condition?",
+  "options": {
+   "D": "Choroidal Ischemia",
+   "C": "Optic Neuropathy",
+   "B": "Cataract progression",
+   "A": "Retinal detachment"
+  },
+  "markedAnswer": "D",
+  "explanation": "This patient has central serous chorioretinopathy (CSCR), which is a condition which causes idiopathic serous detachments of the retina. It typically presents between ages 35 and 55 with a 3:1 male-female ratio. Type-A personality, hypertension, Cushing syndrome, sleep apnea, psychopharmacologic medication use, corticosteroid use, and pregnancy are all associated with CSCR. The OCT in this case demonstrates a large amount of subretinal fluid, and fluorescein angiography demonstrates a classic “expansile dot” seen in CSCR . While photodynamic therapy (PDT) can be an effective treatment for CSCR, it does carry the risk of choroidal ischemia (answer D) and subsequent atrophy, which occurs in 4% of eyes. Retinal detachment (answer A), cataract progression (answer B), and optic neuropathy (answer C) are not known complications of PDT. Retinal degenerations associated with systemic diseases You are examining a 33-year-old woman with a history of breast cancer as part of her routine wellness exam. On dilated fundus exam, you see what is depicted in the photograph shown above. Both fundi have similar findings. All of the following entities are in the differential diagnosis for these retinal crystals EXCEPT:.",
+  "imageUrl": "/images/retina-oq/p69_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 78,
+  "question": "",
+  "options": {
+   "D": "thioridazine toxicity",
+   "C": "methoxyflurane toxicity",
+   "B": "nitrofurantoin toxicity",
+   "A": "tamoxifen toxicity"
+  },
+  "markedAnswer": "D",
+  "explanation": "The photo shows refractile opacities in the retina consistent with crystalline retinopathy. All of the medications listed except for thioridazine (Mellaril) can result in a crystalline retinopathy. Other causes of a crystalline retinopathy include: canthaxanthine toxicity, talc, anti- freeze (ethylene glycol) ingestion, primary hereditary hyperoxaluria, and Bietti crystalline dystrophy. Q-Which of the following attributes usually distinguishes primary Leber congenital amaurosis (LCA) from LCA-like disorders like Batten and Refsum's diseases?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 79,
+  "question": "Which of the following attributes usually distinguishes primary Leber congenital amaurosis (LCA) from LCA-like disorders like Batten and Refsum's diseases?",
+  "options": {
+   "D": "facial malformations in the primary LCA disorders",
+   "C": "severe hearing loss in the LCA-like disorders",
+   "B": "presence of seizures and clear mental deterioration in the LCA-like disorders",
+   "A": "progressively-extinguished electroretinogram (ERG) in the primary LCA disorders"
+  },
+  "markedAnswer": "B",
+  "explanation": "Both disorders can present with poor vision and extinguished ERGs. However, the main characteristic that differentiates primary LCA from LCA-like disorders is the *absence of mental deterioration and seizures* in the former disease category. Q-Which of the following medications, taken at high dosages, would be most likely to cause a pigmentary retinopathy leading to vision loss after 6 months of use?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 80,
+  "question": "Which of the following medications, taken at high dosages, would be most likely to cause a pigmentary retinopathy leading to vision loss after 6 months of use?",
+  "options": {
+   "D": "chlorpromazine",
+   "C": "tamoxifen",
+   "B": "thioridazine",
+   "A": "hydroxychloroquine"
+  },
+  "markedAnswer": "B",
+  "explanation": "The two main phenothiazines are chlorpromazine (brand: Thorazine) and thioridazine (brand: Mellaril) and have been used as antipsychotic agents especially for the treatment of schizophrenia. Only thioridazine (especially at doses >800 mg/day) has been commonly associated with a severe pigmentary retinopathy that can develop even after only week-to-months of high-dose use. The thioridazine-associated retinopathy classically begins as coarse RPE stippling in the posterior pole. Eventually, patchy atrophy of the RPE and choriocapillaris occurs with a characteristic nummular (\"coin-like\") pattern. In the late stages, thioridazine retinal toxicty can mimic the appearance of choroideremia or Bietti crystalline dystrophy. Visual dysfunction including blurred vision, visual field loss, and night blindness is common and can still progress even if the medication is stopped. In contrast, pigmentary retinopathy is rare with chlorpromazine use. Common ocular side effects of chlorpromazine use includes: pigmentation of the eyelids, interpalpebral conjunctiva, cornea, and anterior lens capsule; as well as anterior and posterior subcapsular cataracts. Hydroxychloroquine toxicity is relatively rare especially with less than 5 years of use. It begins with a subtle granular depigmentation of the paracentral RPE. Eventually, continued exposure to hydroxychloroquine can lead to bilateral atrophic bull's eye maculopathy with paracentral scotomas. In severe cases, it can cause widespread retinal atrophy with severe visual loss. Typical screening tests for hydroxychloroquine toxicity include 10-2 static perimetry (for non-Asians), 24-2 or 30-2 static perimetry (for Asians), and SD-OCT. The earliest finding on OCT is disruption of the parafoveal ellipsoid zone. Q-Which of the following diseases is the leading cause of blindness in the United States for patients aged 20-64 years?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 81,
+  "question": "Which of the following diseases is the leading cause of blindness in the United States for patients aged 20-64 years?",
+  "options": {
+   "D": "diabetic eye disease",
+   "C": "open angle glaucoma",
+   "B": "amblyopia (all types)",
+   "A": "uncorrected refractive error"
+  },
+  "markedAnswer": "D",
+  "explanation": "According to the BCSC, the leading cause of blindness in U.S. patients aged 20-64 years is diabetic retinopathy. Diabetic macular edema, macular ischemia, and tractional retinal detachment are some of the factors that lead to vision loss in diabetic eye disease. According to the World Health Organization, the leading causes of blindness worldwide in 2002 were (in descending order): cataract, glaucoma, age- related macular degeneration, corneal opacities, diabetic retinopathy, childhood blindness, trachoma, and onchocerciasis. According to the BCSC Glaucoma book, the leading causes of blindness were cataract, onchocerciasis, and glaucoma. (Editor's note: I am not sure which source to believe. I think most authorities would agree that cataract is the #1 cause of worldwide blindness, while the other causes are debatable) Q-When a patient is taking hydroxychloroquine, which of the following oral medications has a synergistic retinal toxicity?",
+  "imageUrl": "/images/retina-oq/p72_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 82,
+  "question": "When a patient is taking hydroxychloroquine, which of the following oral medications has a synergistic retinal toxicity?",
+  "options": {
+   "D": "azathioprine",
+   "C": "gatifloxacin",
+   "B": "tamoxifen",
+   "A": "prednisone"
+  },
+  "markedAnswer": "B",
+  "explanation": "Concomitant use of hydroxychloroquine and tamoxifen can have a five- fold increased risk of retinal toxicity. This is relevant because tamoxifen is often taken as adjuvant therapy for years after a person has had breast cancer. Given that hydroxychloroquine is also a chronic medication, it is likely that their paths will cross in a few of your patients. Vision loss may progress even after cessation of the medication. Other relevant facts about hydroxychloroquine and screening for retinal toxicity are that the highest recommended dose is 5 mg/kg/day of total body weight. The recommendations changed from dosing based on ideal body weight to total body weight. This was done to avoid overdosing in obese (due to physician error in not accounting for ideal body weight) and very thin patients (who would have their dose increased because their weight is actually below ideal body weight). Hydroxychloroquine is also cleared by the kidneys so patients with low GFRs may be at risk of retinal toxicity. The revised screening recommendations also include objective tests such as spectral domain OCT, multifocal ERG, and fundus autofluorescence. Asian patients may show an extramacular pattern of retinal damage and thus screening with 24-2 static perimetry may benefit this population. Q-According to the 2016 AAO (American Academy of Ophthalmology) Update, which of the following tests constitute accepted screening for retinal toxicity from hydroxychloroquine or chloroquine?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 83,
+  "question": "According to the 2016 AAO (American Academy of Ophthalmology) Update, which of the following tests constitute accepted screening for retinal toxicity from hydroxychloroquine or chloroquine?",
+  "options": {
+   "D": "10-2 visual field in non-Asian patients, spectral domain OCT, fundus autofluorescence",
+   "C": "10-2 visual field in Asian patients, spectral domain OCT, multifocal ERG",
+   "B": "24-2 visual field in non-Asian patients, Amsler grid, spectral domain OCT",
+   "A": "10-2 visual field in non-Asian patients, fundus autofluorescence, full-field ERG"
+  },
+  "markedAnswer": "D",
+  "explanation": "The AAO's 2016 Update on \"Recommendations on Screening for Chloroquine and Hydroxychloroquine Retinopathy\" recommends getting automated visual fields and spectral-domain OCT for routine primary screening given their wide availability. Specifically, the update recommends: • 10-2 SITA for non-Asian patients • 24-2 or 30-2 SITA for Asian patients. The rationale for this is that toxicity often manifests beyond the macula in this patient demographic. Other helpful screening tests: • Multifocal ERG • Autofluorescence (AF). Increased autofluorescence in parafoveal / extramacular areas may precede areas of thinning on SD-OCT. Late RPE loss appears as an area of reduced AF. Tests not recommended for screening: • Fundus exam and photography. Obviously, if changes are visible on ophthalmoscopy (e.g. Bull's eye maculopathy), then the damage is already very advanced and would have been detected by the other methods much earlier. • Time-domain OCT. • Fluorescein angiography. This test will detect RPE defects, but these are considered late changes. • Full-field ERG. • Amsler grid. • Color vision testing. • Electro-oculogram (EOG). Other clinical pearls from this update include: • The most frequent region of the retina to show early damage is inferotemporal which corresponds with a superonasal field defect. • SD-OCT shows localized thinning of the photoreceptor layers in the parafoveal region in non-Asian eyes or near the arcades in Asian eyes. Q-A 31-year old man presents to the emergency room with \"the worst headache of my life\" and promptly falls unconscious. While awaiting the results of his urgent CT scan, you perform a dilated fundus exam which is shown in the photograph above. Which of the following is the most likely diagnosis?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 84,
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": {
+   "D": "Terson syndrome",
+   "C": "Purtscher retinopathy",
+   "B": "Valsalva retinopathy",
+   "A": "Retinal macroaneurysm (RAM)"
+  },
+  "markedAnswer": "D",
+  "explanation": "Terson syndrome can occur in patients who suffer from a subarachnoid or subdural hemorrhage. It is characterized by vitreous and sub-ILM or subhyaloid hemorrhages. Although RAM and Valsalva retinopathy can present with multiple levels of intraocular hemorrhages, they do not feature systemic symptoms like headache or loss of consciousness. Q-You are examining a 35-year old patient as part of his routine eye examination. On dilated fundus exam, you note the presence of these lesions in both eyes as depicted in the photograph above. What systemic test should this patient undergo?",
+  "imageUrl": "/images/retina-oq/p75_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 85,
+  "question": "You are examining a 35-year old patient as part of his routine eye examination. On dilated fundus exam, you note the presence of these lesions in both eyes as depicted in the photograph above. What systemic test should this patient undergo?",
+  "options": {
+   "D": "liver function tests (LFTs)",
+   "C": "colonoscopy",
+   "B": "abdominal ultrasound",
+   "A": "serum S-100 marker"
+  },
+  "markedAnswer": "C",
+  "explanation": "The retinal lesions, associated with familial adenomatous polyposis (FAP) resemble those of congenital hypertrophy of the retinal pigment epithelium (CHRPE). However, the lesions in FAP can be distinguished from CHRPE by the following characteristics: • Smaller. • More ovoid. • More irregular and often with a \"fish tail\" configuration. • Less uniform in pigmentation. • Multiple. • Bilateral. The presence of >4 widely-spaced, small lesions which are bilateral are suggestive of FAP. This condition is caused by mutations of the adenomatous polyposis (APC) gene and follows an autosomal dominant inheritance pattern with incomplete penetrance. CHRPE are usually uniformly heavily-pigmented except for occasional depigmented lacunae. Patients with probable FAP should undergo a screening colonoscopy to look for suspicious colonic polyps. Note: Gardner syndrome = FAP + extracolonic tumors • Q-A 30-year-old man presents to you with complaints of decreased vision in the left eye. Dilated fundus exam OS is notable for the lesion seen in the photograph above. The patient states that his dad also had \"some type of similar eye problem.\" Unfortunately, the patient's father died at an early age and therefore cannot be examined. What are the most common causes of death for individuals with this condition?",
+  "imageUrl": "/images/retina-oq/p75_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 86,
+  "question": "The patient states that his dad also had \"some type of similar eye problem.\" Unfortunately, the patient's father died at an early age and therefore cannot be examined. What are the most common causes of death for individuals with this condition?",
+  "options": {
+   "D": "cerebellar hemangioblastomas and pheochromocytomas",
+   "C": "cerebellar hemangioblastomas and renal cell carcinoma",
+   "B": "spinal cord tumors and liver cysts",
+   "A": "pheochromocytomas and meningiomas"
+  },
+  "markedAnswer": "C",
+  "explanation": "The photograph depicts a redidsh-orange vascular tumor that is fed by a dilated, tortuous retinal artery and drained by an engorged vein. These features are classic for a retinal capillary hemangioblastoma. These tumors can occur in both hereditary (autosomal dominant) and sporadic forms. When there are only hemangioblastomas of the eye, the condition is called von Hippel lesions, but when there is also central nervous system and visceral involvement, it is called von Hippel- Lindau syndrome. Vision loss from these lesions can occur from serous retinal detachment or exudate collecting underneath the macula. Vitreous hemorrhage and retinal detachment are other causes of vision loss in von Hippel-Lindau disease. Other key facts regarding VHL syndrome: • Caused by mutation of a gene (VHL - a tumor suppressor gene) on chromosome 3p26. • Autosomal dominant inheritance pattern; high penetrance (varies by mutation) and variable expression. • Central nervous system tumors can include: 20% of VHL patients have hemangioblastomas of the cerebellum, medulla, pons, and spinal cord. • Other findings include: renal cell carcinoma, pheochromocytomas, cysts of the kidney/pancreas/liver, cardiac rhabdomyomas. All of the answer choices are possible systemic manifestations of von Hippel-Lindau disease. The primary cause of death from this condition is from cerebellar hemangioblastomas and renal cell carcinoma. Therefore, when this characteristic capillary hemangioma is found, a thorough systemic evaluation should be undertaken. A 23-year-old gentleman presents with jaundice, bilateral pigmentary retinopathy, and the anterior segment finding shown in the photograph above. Which of the following is the most likely diagnosis for this patient?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 87,
+  "question": "A 23-year-old gentleman presents with jaundice, bilateral pigmentary retinopathy, and the anterior segment finding shown in the photograph above. Which of the following is the most likely diagnosis for this patient?",
+  "options": {
+   "D": "Charcot-Marie Tooth syndrome",
+   "C": "Alagille syndrome",
+   "B": "Waardenburg syndrome",
+   "A": "Myotonic dystrophy"
+  },
+  "markedAnswer": "C",
+  "explanation": "This clinical presentation is consistent with a diagnosis of Alagille syndrome whose constellation of findings includes: intrahepatic cholestasis (causing jaundice), posterior embryotoxon and/or Axenfeld anomaly, pigmentary retinopathy, congenital heart disease, flattened facies, and other bony abnormalities. The other answer choices are other syndromes that can also manifest a pigmentary retinopathy. Briefly, some other key ocular/systemic findings in these other conditions: • Myotonic dystrophy - ptosis, cardiac conduction defects, frontal balding, \"Christmas-tree\" cataract, ophthalmoplegia • Waardenburg syndrome - \"dystopia canthorum\" (lateral displacement of inner canthi/puncta), deafness, heterochromia, white lock of hair, pale skin/hair/eyes (partial albinism) • Charcot-Marie Tooth syndrome - (many phenotypes), distal muscle weakness/wasting, kyphosis/scoliosis Q-All of the following have been successful in the treatment of lupus retinal vasculitis and its consequences EXCEPT:.",
+  "imageUrl": "/images/retina-oq/p78_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 88,
+  "question": "• Charcot-Marie Tooth syndrome - (many phenotypes), distal muscle weakness/wasting, kyphosis/scoliosis Q-All of the following have been successful in the treatment of lupus retinal vasculitis and its consequences EXCEPT:",
+  "options": {
+   "D": "immunosuppressive therapy",
+   "C": "plasmapheresis",
+   "B": "panretinal photocoagulation",
+   "A": "hydroxychloroquine"
+  },
+  "markedAnswer": "A",
+  "explanation": "Hydroxychloroquine (Plaquenil) is used to treat primarily the joint pain and skin inflammation of lupus, not its ocular manifestations. The other modalities listed have been used to treat the retinal vasculitis (or its consequences; e.g. retinal ischemia) caused by lupus. Q-A 45-year-old woman has been newly-diagnosed with systemic lupus erythematosus. The patient weighs 60 kilograms. Her rheumatologist wishes to start her on hydroxychloroquine for the patient's joint aches. The patient's ocular exam is unremarkable. Which of the following is the maximal dose this patient could take on a daily basis?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 89,
+  "question": "A 45-year-old woman has been newly-diagnosed with systemic lupus erythematosus. The patient weighs 60 kilograms. Her rheumatologist wishes to start her on hydroxychloroquine for the patient's joint aches. The patient's ocular exam is unremarkable. Which of the following is the maximal dose this patient could take on a daily basis?",
+  "options": {
+   "D": "300 mg",
+   "C": "240 mg",
+   "B": "180 mg",
+   "A": "120 mg"
+  },
+  "markedAnswer": "D",
+  "explanation": "The most recent recommendations from the American Academy of Ophthalmology state that all patients should keep daily hydroxychloroquine (HCQ) use to ≤ 5.0 mg/kg of real body weight. Thus, the maximum allowed dosage for this patient would be 5 * 60 = 300 mg/day. For patients taking ≤ 5.0 mg/kg/day, the estimated risk of HCQ retinal toxicity is <1% during the first 5 years of treatment and <2% up to 10 years. However, the risk increases to ~20% after 20 years of treatment. The most important risk factors for HCQ retinal toxicity are: • Daily dose >5.0 mg/kg of real body weight. • Duration of use >5 years • Renal disease. HCQ and chloroquine are both cleared to a significant degree by the kidneys. Thus, renal function needs to be monitored closely to prevent unusually high serum levels of these medications. • Tamoxifen use. The risk of HCQ toxicity is increased ~5x with the concomitant use of this breast cancer drug. The mechanism underlying this increased risk is not understood. • Macular disease. Significant central photoreceptor loss could interfere with the tests (e.g. 10-2, SD-OCT) used to screen for HCQ retinal toxicity. Q-A 44-year-old man presents for an annual eye exam. His visual acuity is 20/20 OU. His anterior segment exam is normal. His external and dilated fundus exams are seen in the photographs above. Which of the following is the main cause of vision loss in these patients?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 90,
+  "question": "A 44-year-old man presents for an annual eye exam. His visual acuity is 20/20 OU. His anterior segment exam is normal. His external and dilated fundus exams are seen in the photographs above. Which of the following is the main cause of vision loss in these patients?",
+  "options": {
+   "D": "choroidal neovascularization (CNV)",
+   "C": "optic nerve dysfunction",
+   "B": "recurrent vitreous hemorrhage (VH)",
+   "A": "subretinal hemorrhage (SRH)"
+  },
+  "markedAnswer": "D",
+  "explanation": "The fundus photo shows the characteristic red-brown bands radiating from the optic nerve that are seen in angioid streaks. The external photograph is demonstrating the neck skin laxity and small papules characteristic of \"pseudoxanthoma elasticum\" (PXE). PXE is one of several systemic conditions associated with the presence of angioid streaks. The others can be remembered by the mnemonic \"PEPSI\" (Pseudoxanthoma elasticum, Ehlers-Danlos syndrome, Paget disease of bone, Sickle cell anemia, Idiopathic). Beta-thalassemia is another systemic condition associated with angioid streaks. Though spontaneous subretinal hemorrhages can occur in angioid streaks, they are rarely the cause of permanent vision loss. However, CNV can occur in angioid streaks and is the main cause of visual morbidity for these patients. Q-A 17-year-old boy presents to your clinic for evaluation of some odd ocular findings detected by his pediatrician. His past medical history and review of systems are positive for burning pain in the extremities, renal insufficiency, hypertension, and reddish-purple skin blemishes. Your anterior segment exam is shown in the photo on the top-left while your posterior segment exam is shown in the photo on the top- right. This patient's condition is the result of a defect in which of the following enzymes?",
+  "imageUrl": "/images/retina-oq/p80_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 91,
+  "question": "This patient's condition is the result of a defect in which of the following enzymes?",
+  "options": {
+   "D": "sphingomyelinase",
+   "C": "glucocerebrosidase",
+   "B": "alpha-galactosidase A",
+   "A": "hexosaminidase A"
+  },
+  "markedAnswer": "B",
+  "explanation": "This patient's ocular exam is significant for corneal verticillata, abnormally-dilated conjunctival vessels, and retinal vessel tortuosity. In the context of the patient's systemic medical history, these ocular findings are consistent with Fabry's disease which is caused by mutations in the alpha-galactosidase A gene which causes an accumulation of ceramide trihexoside. Tay-Sachs disease is caused by a deficiency of hexosaminidase A; Gaucher's disease is caused by a deficiency of glucocerebrosidase; and Niemann-Pick Is caused by a deficiency of sphingomyelinase. Try to remember that Fabry and Hunter syndromes are both X-linked recessive. This can be remembered by imaging a \"fabulous\" hunter aiming a bow and arrow at a target shaped like an \"X\". • Q-A 4-year-old child is brought by her parents to your office because the child is having difficulty seeing in movie theaters. Her mom says that \"she trips all over the place when trying to get to her seat at the theaters.\" In addition, the mother states that \"she is just clumsy in general.\" The mother also states that she has foul-smelling stools and is much shorter than the other girls in her class. On dilated fundus exam, you see the diffuse pathology as seen in the photograph above. Which of the following is the most appropriate management for this patient?",
+  "imageUrl": "/images/retina-oq/p81_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 92,
+  "question": "Which of the following is the most appropriate management for this patient?",
+  "options": {
+   "D": "vitamin A and E",
+   "C": "low phytanic acid diet",
+   "B": "oral acetazolamide to treat associated cystoid macular edema",
+   "A": "cardiac workup with electrocardiogram"
+  },
+  "markedAnswer": "D",
+  "explanation": "This patient has a pigmentary retinopathy causing nyctalopia. She also has foul-smelling stools likely caused by fat malabsorption, ataxia causing her \"clumsiness\", and growth retardation. Her constellation of symptoms is consistent with abetalipoproteinemia (Bassen-Kornzweig syndrome) which is the inability of the body to synthesize apolipoprotein B. This leads to fat malabsorption and fat-soluble vitamin deficiency, including vitamin A deficiency. Treatment is with large doses of vitamin supplements (A, D, E, K). To avoid intestinal symptoms, substitution of medium-chain triglycerides for long-chain triglycerides may be employed. Q-A 65-year-old woman presents for an annual diabetic eye exam after being diagnosed five years prior. She is happy with her vision and has no complaints. The patient has a significant medical history of rheumatoid arthritis, hepatitis C, hyperlipidemia, diabetes mellitus (A1c 6.2%), and a recent diagnosis of breast cancer. Best corrected visual acuity is 20/25 OU. Her fundus exam is shown in the photos. Which of the following medications is responsible for her fundus findings?",
+  "imageUrl": "/images/retina-oq/p83_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 93,
+  "question": "Which of the following medications is responsible for her fundus findings?",
+  "options": {
+   "D": "Tamoxifen",
+   "C": "Nicotinic acid",
+   "B": "Inteferon alpha-2a",
+   "A": "Hydroxychloroquine"
+  },
+  "markedAnswer": "B",
+  "explanation": "Interferon alpha-2a (IFA2a) is a historical treatment for viral hepatitis and has been associated with the development of an occlusive retinal microvasculopathy characterized by multiple cotton-wool spots, retinal hemorrhages, and areas of capillary nonperfusion on fluorescein angiography. Patients are usually minimally symptomatic but may experience paracentral visual field defects. Diabetes and hypertension are associated with a higher risk of development of retinopathy from IFA2a use. The fundus findings are typically reversible on cessation of the drug. WRONG ANSWERS: • Hydroxychloroquine (HCQ) is an agent used mainly for the treatment of lupus and rheumatoid arthritis. Development of HCQ maculopathy is dependent on the dose and duration of use. The American Academy of Ophthalmology (AAO) recommends a maximum of dose of 5.0 mg/kg real weight. Toxicity involves the degeneration of the RPE and overlying sensory retina initially in an enlarging ring around the macula in a bull’s eye pattern that can later involve the fovea. The earliest sign of toxicity is paracentral visual field loss. After five years of use, the AAO recommends screening patients annually with at least visual field testing and OCT. • Nicotinic acid can be used for the treatment of hyperlipidemia and can rarely cause cystoid macula edema (CME) in patients receiving high doses (1.5-5g/day). The CME in this condition interestingly is not visible on fluorescein angiography. Cessation of the drug causes prompt resolution. • Tamoxifen is an agent used for the treatment of breast carcinoma and can cause macular edema and crystalline body formation in the inner retina. In severe cases, central vision can be lost permanently due to macular degenerative pseudocyst formation (similar to those seen in macular telangiectasia type 2) which may coalesce to create the appearance of a lamellar hole. Q-A mother brings in her 12-year-old son who complains of acutely blurred central vision OU for the past 24 hours accompanied by a temporal headache. Best corrected visual acuity is 20/40- OU. The child notes some \"missing lines\" on Amsler grid testing in both eyes. Dilated fundus examination of the right eye is depicted in the photograph shown above. Similar findings are found in the fundus of the left eye. Which of the following medications may increase the risk of this child's presumptive ocular condition? (Please ignore the black dot artifact)",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 94,
+  "question": "A mother brings in her 12-year-old son who complains of acutely blurred central vision OU for the past 24 hours accompanied by a temporal headache. Best corrected visual acuity is 20/40- OU. The child notes some \"missing lines\" on Amsler grid testing in both eyes. Dilated fundus examination of the right eye is depicted in the photograph shown above. Similar findings are found in the fundus of the left eye. Which of the following medications may increase the risk of this child's presumptive ocular condition?",
+  "options": {
+   "D": "psoralens",
+   "C": "tacrolimus ointment",
+   "B": "amiodarone",
+   "A": "hydroxychloroquine"
+  },
+  "markedAnswer": "D",
+  "explanation": "This child's history and fundus exam are classic for solar retinopathy. Risk factors that predispose an individual to developing this photochemical damage include: (a) younger age; (b) clearer lenses; and (c) drugs that photosensitize the eye like psoralen or tetracycline. Factors that predispose to a slightly lower risk of solar retinopathy include high refractive errors and dark fundus pigmentation. Psoralens are naturally occurring phototoxic compounds that can enter a cell, absorb photons of light, and then produce a photochemical reaction to alter the cell's DNA or other structures. These compounds may be taken orally in the treatment of extensive vitiligo or other skin disorders. Psoralens may be used in conjunction with UVA phototherapy (i.e. \"PUVA\" -- psoralen UVA) for some skin conditions. The most widely used psoralen in the United states is methoxsalen. Q-A 6-year old Puerto Rican child with a fair complexion is brought by his mother for an eye examination. He has had nystagmus since birth and his visual acuity is currently 20/100 OU. The child is wearing knee and elbow pads because his mother says that he gets bad bruises when he falls. His anterior segment exam is shown in the photograph above. Which of the following is the most likely diagnosis for this patient?",
+  "imageUrl": "/images/retina-oq/p85_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 95,
+  "question": "A 6-year old Puerto Rican child with a fair complexion is brought by his mother for an eye examination. He has had nystagmus since birth and his visual acuity is currently 20/100 OU. The child is wearing knee and elbow pads because his mother says that he gets bad bruises when he falls. His anterior segment exam is shown in the photograph above. Which of the following is the most likely diagnosis for this patient?",
+  "options": {
+   "D": "Chediak-Higashi syndrome",
+   "C": "Hermansky-Pudlak syndrome",
+   "B": "infantile Refsum's disease",
+   "A": "Abetalipoproteinemia"
+  },
+  "markedAnswer": "C",
+  "explanation": "For any patient with oculocutaneous albinism, one should rule out the possibility of two life-threatening systemic disorders: (1) Chediak-Higashi syndrome; and (2) Hermansky-Pudlak syndrome. This patient's presentation is consistent with Hermansky-Pudlak syndrome which manifests with oculocutaneous albinism, a bleeding diathesis, pulmonary fibrosis, and colitis. The major cause of death in this syndrome is from pulmonary fibrosis. This syndrome has been described mainly in Puerto Rican individuals. A great mnemonic to remember the signs of Hermansky-Pudlak syndrome is the \"Four P's of Hermansky-Pudlak\": Platelet disorder, Pulmonary Fibrosis, Puerto Ricans, and Pigment-less (Courtesy of Dr. Brian Shapiro). The systemic features of Chediak-Higashi syndrome include large eosinophilic, peroxidase-positive inclusion bodies in the myeloblasts and promyelocytes of the bone marrow, neutropenia, abnormal susceptibility to infection, and peculiar malignant lymphoma. Q-A 60-year-old man presents with complaints of a \"discoloration of vision\" in both - eyes. His medical history is only significant for taking 400 mg of avanafil. What colors is this patient most likely seeing?",
+  "imageUrl": "/images/retina-oq/p86_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 96,
+  "question": "A 60-year-old man presents with complaints of a \"discoloration of vision\" in both - eyes. His medical history is only significant for taking 400 mg of avanafil. What colors is this patient most likely seeing?",
+  "options": {
+   "D": "blue",
+   "C": "red",
+   "B": "yellow",
+   "A": "brown"
+  },
+  "markedAnswer": "D",
+  "explanation": "Avanafil (brand name: Stendra) is one of the newer phosphodiesterase- 5 (PDE5) inhibitors, which are used in the treatment of erectile dysfunction (ED). Other medications in this class include sildenafil (brand: Viagra), vardenafil (brand: Levitra), and tadalafil (brand: Cialis). Any of these PDE5 inhibitors can cause transient \"blue vision\" especially when they are taken in higher-than-recommended dosages. These PDE5 inhibitors crossreact with the PDE6 inhibitor which is present in the retina and plays a role in color vision. The blue vision typically lasts 2 to 3 hours and resolves spontaneously. It has been reported to occur in ~3% of men taking sildenafil. Another potential (rare) side effect is the increased incidence of nonarteritic anterior ischemic optic neuropathy (NAION). PDE5 inhibitors have been estimated to increase one's NAION risk by a factor of 2. ===================================== \"Yellow vision\" (aka \"xanthopsia\") can occur as a side effect from the cardiac glycosides (e.g. digitalis). This class of medication can also cause blurred vision, pericentral scotomata, and defective color vision. Q-A 51-year-old man is referred to your clinic because of peculiar fundus findings as seen in the photo above. What other systemic findings would you most likely find in this patient?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 97,
+  "question": "A 51-year-old man is referred to your clinic because of peculiar fundus findings as seen in the photo above. What other systemic findings would you most likely find in this patient?",
+  "options": {
+   "D": "Weber nodes",
+   "C": "nailbed hemorrhages",
+   "B": "erythema migrans",
+   "A": "low body temperature"
+  },
+  "markedAnswer": "C",
+  "explanation": "These excellent photos depict widespread white-centered retinal hemorrhages, known classically as Roth spots. These lesions are thought to result from the rupture of retinal capillaries with exudation of whole blood which eventually results in fibrin being deposited in the middle of the hemorrhage. Roth spots are classically associated with subacute bacterial endocarditis whose other systemic manifestations include: fever, chills, heart murmur, splenomegaly, \"Janeway lesions\" (non-painful erythematous palm lesions), \"Osler's nodes\" (tender lesions on toes and fingertips), and splinter hemorrhages of the nailbeds. Roth spots can also be found in a wide range of other conditions, including: • leukemia • severe anemia • thrombocytopenia • sepsis • hypertensive or diabetic retinopathy • anoxia • carbon monoxide poisoning • intracranial hemorrhage • birth trauma • shaken baby syndrome • prolonged intubation • multiple myeloma • ocular decompression after glaucoma surgery Which of the following traits is more frequently seen in patients who present with the abnormality seen in the photo?",
+  "imageUrl": "/images/retina-oq/p88_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 98,
+  "question": "Which of the following traits is more frequently seen in patients who present with the abnormality seen in the photo?",
+  "options": {
+   "D": "hypertension",
+   "C": "myopia",
+   "B": "younger age",
+   "A": "male"
+  },
+  "markedAnswer": "C",
+  "explanation": "This fundus photo of the left eye demonstrates a classic full- thickness macular hole. Idiopathic macular holes are most frequently found in patients with the following characteristics: • Older age (i.e. 60-80 years old) • Women • Myopia (i.e. can present earlier in age if myopic) Idiopathic macular holes are thought to be associated with posterior perifoveal vitreous detachment, which is often how posterior vitreous detachments (PVDs) begin. This term is used for when there is localized detachment of the vitreous over the perifovea. This mechanism of idiopathic macular hole formation explains why the demographics of macular holes mirrors those of PVD. Q-All of the following are true regarding hydroxychloroquine retinal toxicity EXCEPT:.",
+  "imageUrl": "/images/retina-oq/p89_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 99,
+  "question": "All of the following are true regarding hydroxychloroquine retinal toxicity EXCEPT:",
+  "options": {
+   "D": "dosages based on ideal body weight may lead to an increased risk of retinal toxicity",
+   "C": "once the medication is stopped, further vision loss does not occur",
+   "B": "developing retinal toxicity from this drug is rare within the first 5 years of taking it",
+   "A": "in late stages, a bull's eye maculopathy appears"
+  },
+  "markedAnswer": "C",
+  "explanation": "Vision loss may progress even after cessation of the medication. The 2016 AAO Update1 states that, after a baseline evaluation, annual examination should begin at 5 years due to the very low risk of developing any toxicity with less than 5 years of use (in the absence of other risk factors or unusually high dosages). Toxicity is 1% at 5 years and 2% at 10 years of hydroxychloroquine use. Major risk factors include: high dosages of chloro- and hydroxychloroquine and their use for an extended time period (e.g. >20 years), other retinal disease, and concomitant use of Tamoxifen. The highest recommended dose is 5 mg/kg of total body weight. The recommendations changed from dosing based on ideal body weight to total body weight to avoid overdosing in obese patients (due to physician error in not accounting for ideal body weight) and very thin patients (who would have their dose increased because their weight is actually below ideal body weight and adjusting the dose to the proper level would actually increase the calculated dose). Hydroxchloroquine is also cleared by the kidneys so patients with low GFRs may be at risk of retinal toxicity. The revised screening recommendations also include objective tests such as spectral domain OCT, multifocal ERG, and fundus autofluorescence.Asian patients may show an extramacular pattern of retinal damage.Another thing to remember with hydroxychloroquine is that concurrent use of Tamoxifen will have a synergistic retinal toxicity (up to 5x the risk). Retinal vascularity Q-Which of the following is FALSE regarding the Central Retinal Vein Occlusion (CRVO) division of \"The Standard Care vs. Corticosteroid for Retinal Vein Occlusion (SCORE) Study\"?",
+  "imageUrl": "/images/retina-oq/p95_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 100,
+  "question": "Which of the following is FALSE regarding the Central Retinal Vein Occlusion (CRVO) division of \"The Standard Care vs. Corticosteroid for Retinal Vein Occlusion (SCORE) Study\"?",
+  "options": {
+   "D": "Participants with perfused and non-perfused central retinal vein occlusions were included.",
+   "C": "The intravitreal triamcinolone treatment groups outperformed the observation group.",
+   "B": "There was no statistically significant difference in the percentage of patients who gained 3 or more lines of vision in the 1mg vs the 4mg group.",
+   "A": "Participants who received the 4-mg dose of intravitreal triamcinolone had the highest rates of cataract formation, cataract surgery, and elevated pressure within the treated eye."
+  },
+  "markedAnswer": "D",
+  "explanation": "The Standard Care vs. Corticosteroid for Retinal Vein Occlusion (SCORE) Study CRVO was a multicenter, randomized, clinical trial of 271 participants that compared the efficacy and safety of 1-mg and 4-mg doses of preservative-free intravitreal triamcinolone with observation for eyes with vision loss associated with macular edema secondary to a perfused central retinal vein occlusion (CRVO). After one year, 27 percent of patients in the 1 milligram group and 26 percent of patients in the 4 milligram group experienced a visual gain of three or more lines. Only 7 percent of patients in the observation group experienced a similar visual gain. Patients in the corticosteroid treatment groups were five times more likely to have a substantial visual gain at one year. These results appeared to last up to two years, though the two-year results included a smaller number of patients. Participants who received the 4 milligram dose had the highest rates of cataract formation, cataract surgery, and elevated pressure within the eye, indicating that the 1 milligram dose is safer for patients. This study established intravitreal triamcinolone as an improvement over the previous standard of care observation in the treatment of CRVO-associated macular edema. Q-A 55-year-old obese patient with a past medical history of hypertension sees you for complaints of new blurry vision in the right eye. His initial visual acuity is 20/100 OD. Dilated fundus examination is seen in the photograph above. You decide on observation only and to re-examine the patient in 3 months. On his 3 month follow- up, his visual acuity is 20/200 and his fluorescein angiogram demonstrates severe macular ischemia. Which of the following is the best course of management for this patient at this time according to the Branch Retinal Vein Occlusion Study (BVOS)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 101,
+  "question": "Which of the following is the best course of management for this patient at this time according to the Branch Retinal Vein Occlusion Study (BVOS)?",
+  "options": {
+   "D": "grid first, then scatter photocoagulation",
+   "C": "scatter photocoagulation",
+   "B": "grid photocoagulation to areas of retinal edema",
+   "A": "observation"
+  },
+  "markedAnswer": "A",
+  "explanation": "The Branch Retinal Vein Occlusion Study (BVOS) demonstrated that grid laser was helpful in increasing the chances of 20/40 vision and a gain in >= 2 lines of vision for patients with chronic (>3 months) macular edema caused by a BRVO. However, this benefit was only seen in patients with intact macular perfusion. In cases of macular non-perfusion, no treatment is indicated. Some key findings of the BVOS: • For BRVO with macular edema, there was spontaenous improvement in ~1/3 of patients after 3 months. • Again, for patients with BRVO with macular edema for >3 months and 20/40 or worse vision, the chances of gaining 2 lines of vision doubled by performing grid laser. • Forty (40) percent of treated eyes had worse than 20/40 and 12% of treated eyes had 20/200 or worse vision after 3 years. These statistics demonstrated that laser treatment of BRVO patients oftentimes did not result in good visual outcomes. • For eyes without neovascularization (NV), eyes treated with sectoral PRP developed significantly less NV than non-treated eyes. • For eyes with NV, eyes treated with sectoral PRP developed significantly less vitreous hemorrhage. This report from the BVOS recommended only performing sectoral PRP after NV developed. Of course, with the advent of anti-VEGF agents, the treatment recommendations of the BVOS are now outdated. For example, according to the BRAVO study published in 2010, this patient may benefit from monthly intravitreal ranibizumab started at the time of presentation. Q-A 22-year-old man presents for a second opinion regarding a longstanding retinal lesion. The patient has noted stable, poor vision in his left eye for as long as he can remember. His past medical history is unremarkable. Best-corrected visual acuity is 20/15 in the right eye and 20/200 in the left eye. The anterior examination demonstrates a clear anterior chamber without cell or flare. The posterior examination of the right eye is normal. The left fundus and late frame fluorescein angiography are shown. Given the likely diagnosis, what further workup is indicated?",
+  "imageUrl": "/images/retina-oq/p92_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 102,
+  "question": "Given the likely diagnosis, what further workup is indicated?",
+  "options": {
+   "D": "Serum anti-Toxocara IgG titer",
+   "C": "MRI of the brain",
+   "B": "No further workup indicated",
+   "A": "Genetic testing and renal ultrasound"
+  },
+  "markedAnswer": "C",
+  "explanation": "The lesion is a retinal cavernous hemangioma. These tumors are hamartomas composed of clusters of thin-walled saccular aneurysms filled with stagnate venous blood and give the appearance of a “cluster of grapes”. They can present within the retina or the optic nerve head. Overlying the lesion, there may be variable amounts of fibrous membranes that can occasionally be associated with vitreous traction and preretinal, or vitreous hemorrhage. The surrounding retinal blood vessels are normal and fluorescein angiography demonstrates delayed filling of the lesion with layering within the saccular aneurysms in the late frame as demonstrated in the photo. Leakage is not seen. Complications such as exudation and hemorrhage are rare. Typically, these lesions are asymptomatic, but can cause loss of vision if present in the macula or if vitreous traction causes vitreous hemorrhage. These tumors do not increase in size and treatment with photocoagulation or cryotherapy to obliterate the tumor is rarely required. Retinal cavernous hemangiomas are usually solitary, sporadic, and unassociated with any systemic condition. There is evidence, however, that some cases can be inherited as an autosomal-dominant neurocutaneous syndrome associated with cerebral, optic pathway, brainstem, and skin cavernous malformations which typically present with neurological manifestations before the age of 25. As such, neuroimaging and a thorough skin examination should be obtained in any patient with a retinal cavernous hemangioma. WRONG ANSWERS: • (Choice A): Retinal capillary hemangiomas (also known as retinal angiomas, or retinal capillary hemangioblastomas) are congenital, hereditary capillary hamartomas of the retina and optic nerve head. Retinal tumors present as red or pink lesions that are usually associated with arteriovenous (AV) shunting between a dilated tortuous feeding artery and large draining vein. Optic nerve tumors are often flat, not associated with AV shunting, and may be confused for papilledema or a peripapillary choroidal neovascular membrane. Leakage and exudation from these tumors will cause decreased vision. Von Hippel-Lindau (VHL) disease is inherited in an autosomal dominant manner with incomplete penetrance and variable expressivity and is characterized by retinal and CNS angiomas as well as kidney, liver, pancreas, and epididymis angiomas, cysts or adenomas. Other systemic tumors include renal cell carcinoma and pheochromocytomas. The diagnosis of a retinal capillary hemangioma requires a systemic workup with genetic testing. Cerebral angiomas and renal cell carcinomas are the leading cause of death in these patients. • (Choice B): Although the majority of retinal cavernous hemangiomas are sporadic, some are associated with a likely autosomal dominant neurocutaneous syndrome with cerebral, optic pathway, brainstem, and skin cavernous malformations. Cerebral hemangiomas can lead to seizures, intracranial hemorrhage, and death. Therefore, neuroimaging should be obtained to rule out this possibility. • (Choice D): Ocular toxocariasis is an inflammatory condition in response to parasitic antigens left by a dead or dying parasite Toxocara canis or Toxocara cati. It typically presents in children or young adults with decreased vision due to a peripheral or macular granuloma. Treatment is with systemic or local corticosteroids. Serum anti-Toxocara IgG titers may aid in the diagnosis but are insensitive. Q-An 8-year boy is brought to your attention for poor vision in the left eye. Dilated fundus exam and corresponding fluorescein angiogram are shown above. All of the following are true regarding this condition EXCEPT:.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 103,
+  "question": "An 8-year boy is brought to your attention for poor vision in the left eye. Dilated fundus exam and corresponding fluorescein angiogram are shown above. All of the following are true regarding this condition EXCEPT:",
+  "options": {
+   "D": "a responsible gene has been found on chromosome 4",
+   "C": "the condition is non-hereditary",
+   "B": "the condition is more prevalent in males",
+   "A": "it is associated with systemic vascular abnormalities"
+  },
+  "markedAnswer": "A",
+  "explanation": "Coats disease is *not* a hereditary retinal condition even though a responsible gene has been implicated which is located on chromosome 4. There are no systemic manifestations of this condition and it is much more prevalent among males (85%). In addition, it is typically unilateral and can present with leukocoria and thus should be included in the differential diagnosis of retinoblastoma. Q-You are examining a patient with an acute blood pressure of 220/110. You note the presence of multiple small, grayish lesions located in the deep retina. What is the name given to these lesions that may occur with an acute hypertensive episode?",
+  "imageUrl": "/images/retina-oq/p95_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 104,
+  "question": "What is the name given to these lesions that may occur with an acute hypertensive episode?",
+  "options": {
+   "D": "ischemic angiomatosis retinae",
+   "C": "Roth spots",
+   "B": "cotton wool spots (CWS)",
+   "A": "focal intraretinal periarteriolar transudates (FIPTs)"
+  },
+  "markedAnswer": "A",
+  "explanation": "FIPTs are different from CWS in that they are at the precapillary level while CWS occur in the superficial radial capillary net. Consequently, FIPTs are deeper, smaller, and more gray than CWS. FIPTs were originally described by Hayreh et al in 1986 and *exclusively occur* in malignant hypertension, unlike CWS which may occur in a variety of ocular diseases. On fluorescein angiogram, FIPTs appear as punctate foci of leakage while CWS typically hypofluoresce due to nonperfusion. Q- A 85-year old patient presents with progressive visual loss in the left eye occurring over the preceding 3 weeks. Visual acuity is 20/100 OS and the intraocular pressure (IOP) is 12 mmHg OS. Slit-lamp exam shows florid neovascularization of the iris and 1+ flare OS. The patient's past medical history is significant for a past myocardial infarction as well as a stroke. Dilated fundus exam OS shows narrowed retinal arteries, mid-peripheral intraretinal hemorrhages, and dilated retinal veins. Besides a systemic workup, which of the following should you promptly perform?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 105,
+  "question": "intraocular pressure (IOP) is 12 mmHg OS. Slit-lamp exam shows florid neovascularization of the iris and 1+ flare OS. The patient's past medical history is significant for a past myocardial infarction as well as a stroke. Dilated fundus exam OS shows narrowed retinal arteries, mid-peripheral intraretinal hemorrhages, and dilated retinal veins. Besides a systemic workup, which of the following should you promptly perform?",
+  "options": {
+   "D": "intravenous corticosteroids",
+   "C": "temporal artery biopsy",
+   "B": "intravitreal corticosteroid injection",
+   "A": "full panretinal photocoagulation"
+  },
+  "markedAnswer": "A",
+  "explanation": "This patient's history of subacute vision loss, iris neovascularization, anterior chamber inflammation, and fundus findings (i.e. narrowed arteries, dilated veins, mid-peripheral intraretinal hemorrhages) are most consistent with \"ocular ischemic syndrome.\" This disease entity is caused by chronic, severe carotid obstruction. Because the patient has florid neovascularization of the iris, prompt panretinal photocoagulation (PRP) should be performed. The patient also requires testing with carotid artery imaging. The decision to perform carotid surgery is based on a number of factors including (among others) the degree of stenosis and other comorbid conditions and is generally not made by the ophthalmologist. In some ways this question is tricky but it simulates standardized tests well. Many test takers recognize that this patient has ocular ischemia and want to treat both the eye (PRP) and appropriately address carotid disease. Ocular ischemia can occur from stenosis anywhere along the path from the common carotid to the ophthalmic artery. Not everyone with ocular ischemia syndrome will have a stenosis amenable to intervention and ultimately it is vascular surgery's decision on what intervention would be indicated. Q-A 64-year old patient with a past medical history of hypertension sees you for complaints of new-onset blurry vision in the right eye. Dilated fundus examination is seen in the photograph above. In which quadrant does this disease entity most commonly occur?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 106,
+  "question": "A 64-year old patient with a past medical history of hypertension sees you for complaints of new-onset blurry vision in the right eye. Dilated fundus examination is seen in the photograph above. In which quadrant does this disease entity most commonly occur?",
+  "options": {
+   "D": "superonasal",
+   "C": "superotemporal",
+   "B": "inferonasal",
+   "A": "inferotemporal"
+  },
+  "markedAnswer": "C",
+  "explanation": "A branch retinal vein occlusion most commonly occurs (>60%) in the superotemporal quadrant. This is exemplified in the fundus photograph above (i.e. not a trick question!). Q-A 69-year-old African American phakic male with a past medical history of sickle cell disease presents with a macula-off retinal detachment (RD) with several breaks noted inferiorly and superiorly. Of the following options, which is the best management option?",
+  "imageUrl": "/images/retina-oq/p98_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 107,
+  "question": "A 69-year-old African American phakic male with a past medical history of sickle cell disease presents with a macula-off retinal detachment (RD) with several breaks noted inferiorly and superiorly. Of the following options, which is the best management option?",
+  "options": {
+   "D": "Pars plana vitrectomy",
+   "C": "Combined scleral buckle with pars plana vitrectomy",
+   "B": "Primary scleral buckle",
+   "A": "Observation"
+  },
+  "markedAnswer": "D",
+  "explanation": "Of the available answer choices, pars plana vitrectomy (choice D) is the best option to repair the retinal detachment. Observation (choice A) is not indicated as the retinal detachment needs surgical intervention. Placing a scleral buckle (choices B and C) in eyes of patients with sickle cell disease is not recommended due to concern for causing anterior segment ischemia. Other factors known to increase the risk of anterior segment ischemia after RD repair in these patients include: • detachment of extraocular muscles • use of local anesthesia with epinephrine • overzealous photocoagulation or cryopexy • inadequate patient hydration • inadequate patient oxygenation. Q-All of the following are acceptable options for a non-diabetic patient presenting with only one cotton-wool spot (CWS) EXCEPT:.",
+  "imageUrl": "/images/retina-oq/p98_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 108,
+  "question": "All of the following are acceptable options for a non-diabetic patient presenting with only one cotton-wool spot (CWS) EXCEPT:",
+  "options": {
+   "D": "laboratory workup",
+   "C": "observation",
+   "B": "carotid ultrasound",
+   "A": "measurement of blood pressure"
+  },
+  "markedAnswer": "C",
+  "explanation": "A workup should be initiated for any non-diabetic patient with any number of CWSs to determine its systemic cause. Observation only is not the favored option Q- According to the BVOS (Branch Retinal Vein Occlusion Study), when is scatter laser photocoagulation indicated in eyes with branch retinal vein occlusion (BRVO)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 109,
+  "question": "number of CWSs to determine its systemic cause. Observation only is not the favored option Q- According to the BVOS (Branch Retinal Vein Occlusion Study), when is scatter laser photocoagulation indicated in eyes with branch retinal vein occlusion (BRVO)?",
+  "options": {
+   "D": "presence of neovascularization (NV)",
+   "C": "presence of at least 10 disc areas (DA) of non-perfusion on fluorescein angiogram (FA)",
+   "B": "presence of at least 5 disc areas (DA) of non-perfusion on fluorescein angiogram (FA)",
+   "A": "chronic macular edema with vision 20/40 or worse 3 months after initial presentation"
+  },
+  "markedAnswer": "D",
+  "explanation": "Though the risk of NV is much higher in eyes with >= 5 DAs of non-perfusion (~40%), the BVOS did not recommend scatter laser photocoagulation for the presence of non-perfusion alone. Instead, it recommended that scatter laser photocoagulation be performed when NV develops. If >= 5 DAs of non-perfusion are present, then the patient should be observed closely at 4 month intervals to rule-out NV. Answer choice \"A\" describes the criteria for deciding on grid laser for chronic macular edema caused by a BRVO. Q-A 27-year-old woman presents with an acute visual field defect in her right eye. She states that it began suddenly 1 hour ago. Her visual acuity is 20/25- and you detect an inferior field defect on confrontation visual fields. Her ocular exam is only significant for the finding seen in the photo above. Of note, she also has been experiencing severe hearing loss in both ears. She also went to her primary care physician yesterday for a new, severe \"migraine\" headache associated with some \"balance problems.\" Which of the following represents the best overall management choice for this patient?",
+  "imageUrl": "/images/retina-oq/p100_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 110,
+  "question": "She also went to her primary care physician yesterday for a new, severe \"migraine\" headache associated with some \"balance problems.\" Which of the following represents the best overall management choice for this patient?",
+  "options": {
+   "D": "intravenous methylprednisone",
+   "C": "oral acetazolamide",
+   "B": "intravenous immunoglobulin",
+   "A": "anterior chamber paracentesis"
+  },
+  "markedAnswer": "D",
+  "explanation": "This patient presents with an acute branch retinal artery occlusion (BRAO), bilateral sensorineural hearing loss, and encephalopathy. These findings constitute the clinical triad of Susac syndrome. Susac syndrome is a rare disorder with a female to male predilection of 3 to 1. The typical age at diagnosis is in young adults 20-40 years old. As of present, the exact cause of Susac syndrome is not known, but it is hypothesized to be an immune- mediated injury involving the endothelium of the retina, cochlea and cerebral vasculature. The BRAO that occurs in Susac syndrome can occur at any time during the course of the disease. Its negative effect on vision varies since it can affect just small, peripheral retinal areas, or much larger areas of the macula. Yellowish-white retinal wall \"Gass plaques\" can be found in this disease and are often found at sites other than arteriolar bifurcations (unlike Hollenhorst plaques). The hearing loss in this disease is typically bilateral, asymmetric, and sensorineural. It also can vary from mild/insidious to severe/acute. Unfortunately, this hearing loss is typically permanent. The encephalopathy in Susac syndrome can manifest with headache (often confused with migraine), confusion, memory problems, ataxia, and personality changes. As of present, there is no standard treatment regimen for Susac syndrome. However, most experts start with intravenous methylprednisolone. Other alternative and adjunctive treatments include: intravenous immunoglobulin (*after* 1 month of oral prednisone), cyclosporine, cyclophosphamide, methotrexate, mycophenolate mofetil, azathioprine, plasmapheresis, infliximab, and etanercept. Lastly, though there are anecdotal reports of anterior chamber paracentesis and oral acetazolamide helping reverse retinal arterial occlusions, they are far from proven. Q-A 75-year-old woman is referred to you by the emergency room for \"painless loss of vision\" in the left eye. On exam, her visual acuity is 20/20 and 20/40 in the right and left eyes respectively. There is a brisk afferent pupillary defect in the left eye. Your exam is significant for the findings seen above. A fluorescein angiogram (FA) is performed (frame at 25 seconds shown above). The blood supply preserving this woman's central acuity is a branch most directly from which artery?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 111,
+  "question": "Your exam is significant for the findings seen above. A fluorescein angiogram (FA) is performed (frame at 25 seconds shown above). The blood supply preserving this woman's central acuity is a branch most directly from which artery?",
+  "options": {
+   "D": "lacrimal artery",
+   "C": "ophthalmic artery",
+   "B": "posterior ciliary artery",
+   "A": "central retinal artery"
+  },
+  "markedAnswer": "B",
+  "explanation": "The fundus photo shows retinal whitening but with preservation of perfusion in the foveal area. The corresponding FA shows absence of dye in the majority of the retinal blood vessels except for a few vessels feeding the fovea. This presentation is consistent with a cilioretinal-sparing central retinal artery occlusion (CRAO). The blood supply to the inner layers of the retina is typically derived entirely from the central retinal artery (CRA). The exception is that approximately 15-30% of eyes have a cilioretinal artery which is a branch most directly from the posterior ciliary arteries (PCAs). The CRA, PCAs, and lacrimal artery are branches of the ophthalmic artery. Most cases of CRAO are visually-devastating with greater than two-thirds of cases having visual acuity of worse than 20/400. The majority of CRAO cases associated with good central visual acuity are those with a patent cilioretinal artery. Vision of NLP typically does not occur in CRAO, but can occur with simultaneous choroidal infarction (e.g. ophthalmic artery occlusion). What is the most important prognostic factor for visual recovery in the ocular condition demonstrated above?",
+  "imageUrl": "/images/retina-oq/p102_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 112,
+  "question": "What is the most important prognostic factor for visual recovery in the ocular condition demonstrated above?",
+  "options": {
+   "D": "The extent of macular exudate formation",
+   "C": "The extent of retinal ischemia",
+   "B": "The extent of macular edema",
+   "A": "The formation or absence of epiretinal membrane"
+  },
+  "markedAnswer": "C",
+  "explanation": "All of the answer choices listed above are reasons for visual loss following branch retinal vein occlusion (BRVO) (pictured above in the fundus montage of a right eye). The extent of capillary nonperfusion, however, is by far the most important indicator of visual prognosis in BRVO. For this reason (among other reasons), fluorescein angiography is helpful in evaluation of BRVO. Likewise, it makes sense that the area of retinal ischemia is also the most important predictor of subsequent neovascularization. Q-A 48-year-old man presents for sudden onset, painless vision loss in the left eye for the past two days. Past medical history is significant for hypertension, hyperlipidemia, and coronary artery disease. The patient noted waking up to near total loss of vision in the left eye, but denies headaches, eye pain, or changes in the right eye. V ision is 20/20 OD and 20/400 OS. Fundus examination and late-frame fluorescein angiography are shown in the image. Which of the following is the most common etiology of the patient’s disease?",
+  "imageUrl": "/images/retina-oq/p103_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 113,
+  "question": "Which of the following is the most common etiology of the patient’s disease?",
+  "options": {
+   "D": "Embolic obstruction",
+   "C": "Thrombosis",
+   "B": "Elevated intraocular pressure",
+   "A": "Reduced blood flow from carotid artery obstruction"
+  },
+  "markedAnswer": "D",
+  "explanation": "The patient is presenting with a central retinal artery occlusion (CRAO). The most common cause of a CRAO is embolic, although vascular narrowing, thrombosis, arterial spasm, and reduced blood flow via carotid/ophthalmic artery obstruction, decreased systemic blood pressure, or elevated intraocular pressure can all lead to occlusive retinal arterial disease. The most common etiology of emboli is from ulcerated atheromatous plaques of the carotid artery, followed by cardiac valvular disease. Patients with an embolic CRAO typically experience sudden, painless vision loss that may be preceded by episodes of amaurosis fugax. Ocular manifestations include widespread ischemic whitening of the inner retina most prominent in the posterior pole with sparing of the fovea (“cherry-red spot”). The narrowest part of the central retinal artery is where it perforates the dural sheath of the optic nerve and emboli here will not be visualized on ophthalmic examination. Three major types of emboli occur: 1. Platelet-fibrin: gray-white, elongated plaques associated with large-vessel arteriosclerosis. 2. Cholesterol (Hollenhorst): yellow globules associated with carotid artery disease. 3. Calcific: solid, white plaques associated with cardiac valvular disease Both platelet-fibrin and cholesterol emboli are soft and become fragmented easily. Additionally, during an acute obstruction, collateral flow can develop. As such, fluorescein angiography (FA) will rarely show complete absence of arterial flow. Rather, it will demonstrate a significant flow reduction which will continue to be depressed even after obstruction is relieved due to collapse of the capillary bed by an ischemic and swollen inner retina. Typically, the retinal whitening resolves several weeks following the event, but flow usually is still reduced likely due to loss of the capillary bed in the remaining necrotic inner retina. Visual prognosis is dependent on the duration of obstruction but is generally poor. There is no proven treatment for CRAO, and patients should emergently be worked up for sources of emboli with evaluation of the carotids and heart for secondary prevention of future embolic events. In patients in which giant cell arteritis (GCA) is a concern, an erythrocyte sedimentation rate and/or C-reactive protein should be measured. WRONG ANSWERS: A-C: The most common cause of a CRAO is embolic, although vascular narrowing, thrombosis, arterial spasm, and reduced blood flow via carotid/ophthalmic artery obstruction, decreased systemic blood pressure, or elevated intraocular pressure can all lead to occlusive retinal arterial disease. Q-You are examining a 33-year old African American man with complaints of new- onset of \"haze\" in the right eye. Dilated fundus examination reveals stage 4 proliferative sickle cell retinopathy (PSCR) with a small vitreous hemorrhage (VH) inferiorly. There is a large frond of \"sea fan\" neovascularization (NV) also located inferiorly. Which of the following represents the most accepted (classic) management for this patient?",
+  "imageUrl": "/images/retina-oq/p104_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 114,
+  "question": "You are examining a 33-year old African American man with complaints of new- onset of \"haze\" in the right eye. Dilated fundus examination reveals stage 4 proliferative sickle cell retinopathy (PSCR) with a small vitreous hemorrhage (VH) inferiorly. There is a large frond of \"sea fan\" neovascularization (NV) also located inferiorly. Which of the following represents the most accepted (classic) management for this patient?",
+  "options": {
+   "D": "photocoagulation to close feeder vessels to the neovascular frond",
+   "C": "anti-VEGF agent to induce regression of NV",
+   "B": "low-intensity photocoagulation to the ischemic peripheral retina",
+   "A": "pars plana vitrectomy with removal of VH and endolaser"
+  },
+  "markedAnswer": "B",
+  "explanation": "Low-intensity photocoagulation to the peripheral ischemic retina may cause regression of the NV and decrease the chance of recurring VH. Photocoagulation of the feeder vessels is *not* recommended because this may cause retinal breaks, breaks in Bruch's membrane, and possible choroidal neovascularization. Vitrectomy is not indicated at this time since the VH is small and may resolve on its own. Currently, there have been only two letters to the editor regarding the efficacy of intravitreal bevacizumab for proliferative sickle cell retinopathy.1,2 As such, this modality is currently NOT the most accepted course of treatment. Q-Which of the following ancillary tests can be helpful in distinguishing between a central retinal vein occlusion (CRVO) and carotid occlusive disease?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 115,
+  "question": "Which of the following ancillary tests can be helpful in distinguishing between a central retinal vein occlusion (CRVO) and carotid occlusive disease?",
+  "options": {
+   "D": "fluorophotometry",
+   "C": "visual evoked potential (VEP)",
+   "B": "optical coherence tomography",
+   "A": "ophthalmodynamometry"
+  },
+  "markedAnswer": "A",
+  "explanation": "Ophthalmodynamometry can be used to measure retinal artery pressure. It will show a normal artery pressure in CRVO but a low artery pressure in carotid occlusive disease. As an aside, fluorophotometry can be used to measure the rate of aqueous humor formation. This procedure involves giving fluorescein either topically or systemically and measuring the decline of concentration of fluorescein in the anterior chamber by optical means. Q-A 68-year-old patient underwent complicated cataract surgery 6 weeks ago. He states his vision still seems \"distorted\" in this eye. The surgery was complicated by intraoperative floppy iris syndrome and prolonged phacoemulsification energy. His fluroscein angiogram and optical coherence tomography (OCT) are shown above. Which of the following treatments would be the LEAST recommended post- operatively for this patient's condition?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 116,
+  "question": "A 68-year-old patient underwent complicated cataract surgery 6 weeks ago. He states his vision still seems \"distorted\" in this eye. The surgery was complicated by intraoperative floppy iris syndrome and prolonged phacoemulsification energy. His fluroscein angiogram and optical coherence tomography (OCT) are shown above. Which of the following treatments would be the LEAST recommended post- operatively for this patient's condition?",
+  "options": {
+   "D": "repositing of any incarcerated iris tissue",
+   "C": "topical corticosteroids",
+   "B": "subconjunctival ranibizumab",
+   "A": "topical bromfenac"
+  },
+  "markedAnswer": "B",
+  "explanation": "The late phase angiogram shows the classic petalloid pattern of fluorescein leakage consistent with cystoid macular edema (CME). The OCT findings, which show cystic areas of low reflectivity, are classic for the diagnosis. CME is caused by abnormal perifoveal retinal capillary permeability and can occur in many conditions such as: • post-intraocular surgery (e.g. cataract surgery; where it is called Irvine- Gass syndrome) • diabetic retinpathy • branch or central retinal vein occlusion • any type of uveitis (especially pars planitis) • panretinal photocoagulation • retinitis pigmentosa • subretinal disease processes (e.g. choroidal neovascularization) • niacin supplementation Post-cataract surgery CME typically occurs 6-10 weeks postoperatively. In uncomplicated cataract surgery, there is a high rate of spontaneous resolution over the course of 6 months, but most clinicians will treat to hasten its resolution especially if the patient is symptomatic. Typical management starts with topical corticosteroids and NSAIDs (e.g. bromfenac). If the CME is unresponsive to topical treatment, then periocular (e.g. subTenon Kenalog®) or intravitreal (e.g. Triesence®) injection of steroid preparations are commonly employed. Intravitreal (not subconjunctival) anti-VEGF agents (e.g. ranibizumab) are occasionally employed for the treatment for pseudophakic CME. Subconjunctival and topical anti-VEGF agents (e.g. bevacizumab) are occasionally used to induce regression of corneal neovascularization in the setting of high-risk corneal grafts. If the cataract surgery was complicated by vitreous loss or iris prolapse, then these anatomical issues are addressed. For example, a YAG vitreolysis can be performed to break apart any vitreous strands adherent to the cornea (i.e. causing traction). If there is iris incarcerated in the wound, this tissue can be reposited back into the eye to resolve any persistent inflammation that could be contributing to chronic CME. Q-A 35-year-old Caucasian female presents with multiple subjective paracentral scotomas just superior to fixation in the left eye for 1 week. She is otherwise healthy. Visual acuity was 20/20 OD and 20/30 OS. Both pupils reacted well to light and there was no APD. Exam and testing is shown in the figure. Optos wide angle color fundus photo is shown top left, fundus autofluorescence top middle, and infrared (IR) image top right. A spectral domain OCT slice taken horizontally through the macular lesions seen on IR imaging is shown in the bottom panel. What is the pathophysiology thought to underlie this diagnosis?",
+  "imageUrl": "/images/retina-oq/p107_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 117,
+  "question": "What is the pathophysiology thought to underlie this diagnosis?",
+  "options": {
+   "D": "Retinal pigment epithelium degeneration",
+   "C": "Choroidal inflammation",
+   "B": "Ischemia of the inner retinal capillary bed",
+   "A": "Light inducted photoreceptor toxicity"
+  },
+  "markedAnswer": "B",
+  "explanation": "This is a classic example of a relatively newly described diagnosis, paracentral acute middle maculopathy (PAMM) which most experts believe to be a variant of acute macular neuroretinopathy (AMN). Both are thought to be caused by retinal ischemia although AMN typically involves the deeper portions of the retina (e.g. the ellipsoid region) while the aptly named PAMM results in middle retinal lesions caused by ischemia of the deep retinal capillary bed just deep to the inner nuclear layer. AMN is an exceedingly rare disease initially described in 1975. This disease tends to affect females (approximately 85%) in their reproductive years (mean age 27). The etiology remains unknown but reports are published of associated oral contraceptive use, preceding viral illness, and recent use of stimulants such as epinephrine or ephedrine. Both AMN and PAMM are clinical diagnoses marked by the presence of one or more reddish-brown central macular round or “wedge shaped” lesions that correlate precisely to the location of the patients’ paracentral relative scotomas. Spectral domain OCT (SD-OCT) and infrared (IR) fundus photographs help immensely with diagnosis of both AMN and PAMM. You can see in this example that the lesions exhibited on SD-OCT and IR imaging (used for fundus visualization during OCT image capture) are not clearly seen on the fundus exam nor on fundus autofluorescence images. In some cases, however, the lesions may be seen on fundoscopy. Q-Which of the following is FALSE regarding the \"The Standard Care vs. Corticosteroid for Retinal Vein Occlusion (SCORE) Study\" ?",
+  "imageUrl": "/images/retina-oq/p108_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 118,
+  "question": "Corticosteroid for Retinal Vein Occlusion (SCORE) Study\" ?",
+  "options": {
+   "D": "The researchers concluded that intravitreal triamcinolone should replace laser as the standard of care for retinal vein occlusion-associated macular edema.",
+   "C": "Study subjects that received intravitreal triamcinolone were more likely to develop cataracts than subjects that received laser photocoagulation.",
+   "B": "The study evaluated the effects of intravitreal triamcinolone in subjects with branch retinal vein occlusions.",
+   "A": "The study evaluated the effects of intravitreal triamcinolone in subjects with central retinal vein occlusions."
+  },
+  "markedAnswer": "D",
+  "explanation": "The Standard Care vs. Corticosteroid for Retinal Vein Occlusion (SCORE) Study evaluated both central retinal vein occlusions and branch retinal vein occlusions. SCORE CRVO was a multicenter, randomized, clinical trial of 271 participants that compared the efficacy and safety of 1-mg and 4-mg doses of preservative- free intravitreal triamcinolone with observation for eyes with vision loss associated with macular edema secondary to a perfused central retinal vein occlusion (CRVO). After one year, 27 percent of patients in the 1 milligram group and 26 percent of patients in the 4 milligram group experienced a visual gain of three or more lines. Only 7 percent of patients in the observation group experienced a similar visual gain. Patients in the corticosteroid treatment groups were five times more likely to have a substantial visual gain at one year. These results appeared to last up to two years, though the two-year results included a smaller number of patients. Participants who received the 4 milligram dose had the highest rates of cataract formation, cataract surgery, and elevated pressure within the eye, indicating that the 1 milligram dose is safer for patients. This study established intravitreal triamcinolone as an improvement over the previous standard of care observation in the treatment of CRVO-associated macular edema. SCORE BRVO was a multicenter, randomized clinical trial of 411 participants that compared the efficacy and safety of 1-mg and 4-mg doses of preservative-free intravitreal triamcinolone with standard care (grid photocoagulation in eyes without dense macular hemorrhage and deferral of photocoagulation until hemorrhage clears in eyes with dense macular hemorrhage) for eyes with vision loss associated with macular edema secondary to branch retinal vein occlusion (BRVO). After one year, 29 percent of patients in the laser treatment group, 26 percent of patients in the 1 milligram corticosteroid injection group, and 27 percent of patients in the 4 milligram injection group experienced a visual gain of three or more lines. These results appeared to last up to three years, though the three-year results included a smaller number of patients. However, patients who received either dose of corticosteroid medication were more likely to develop a cataract or experience elevated pressure within the eye than patients who received laser treatment. Also, between one and two years after enrollment in the study, patients in the 4 milligram group underwent more cataract surgeries than patients in the other groups. The researchers recommended that grid photocoagulation remain the standard of care and the benchmark against which other treatments are compared in future clinical trials. A 65-year-old woman presents with 5 days of blurry vision in the left eye. Which of the following was identified as a risk factor for this condition in the “Eye Disease Case-Controls Study Group” study?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 119,
+  "question": "A 65-year-old woman presents with 5 days of blurry vision in the left eye. Which of the following was identified as a risk factor for this condition in the “Eye Disease Case-Controls Study Group” study?",
+  "options": {
+   "D": "Increased body mass index",
+   "C": "Elevated HDL",
+   "B": "Diabetes",
+   "A": "Daily alcohol consumption"
+  },
+  "markedAnswer": "D",
+  "explanation": "This patient has a branch retinal vein occlusion (BRVO), as demonstrated in the photo above. The Eye Disease Case-Controls Study Group identified several independent risk factors for the development of BRVO including: • Systemic arterial hypertension • History of cardiovascular disease • Increased body mass index (answer D) • History of glaucoma • Higher serum levels of alpha 2-globulin. Elevated HDL levels (answer C) and increasing alcohol intake (answer A) were associated with a lower risk for BRVO. Unlike for central retinal vein occlusion, diabetes (answer B) was NOT an independent risk factor for BRVO. Q-A 77-year old patient presents with acute vision loss in the left eye. His visual acuity is hand motions at 1 foot OS. There is a 3-4+ afferent pupillary defect in the left eye. Dilated fundus exam is shown in the photograph above. Which of the following options are proven treatments for this disease entity?",
+  "imageUrl": "/images/retina-oq/p111_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 120,
+  "question": "A 77-year old patient presents with acute vision loss in the left eye. His visual acuity is hand motions at 1 foot OS. There is a 3-4+ afferent pupillary defect in the left eye. Dilated fundus exam is shown in the photograph above. Which of the following options are proven treatments for this disease entity?",
+  "options": {
+   "D": "none of the above",
+   "C": "inhalation of 95% oxygen and 5% carbon dioxide",
+   "B": "anterior chamber paracentesis",
+   "A": "ocular massage"
+  },
+  "markedAnswer": "D",
+  "explanation": "The fundus photo shows the characteristic features of a branch (BRAO) or central retinal artery occlusion (CRAO). Due to the rarity of this disease, there are no randomized trials that have proven the efficacy of any treatments vs. observation alone. However given the dismal visual prognosis in CRAO, you may want to offer these patients any treatment even if only anecdotal evidence supports its use. Q-A 70-year-old patient with a past medical history of hypertension and diabetes sees you for severe vision loss in the left eye. His initial visual acuity is 20/400 OS. Dilated fundus examination is seen in the photograph above. Fluorescein angiography shows approximately 15 disc areas of non-perfusion and diffuse macular edema. There were no abnormalities noted on the anterior segment exam except for moderate nuclear sclerotic cataract. Considering data from the Central Retinal Vein Occlusion Study (CVOS) only, which of the following is the accepted course of management for this patient at the time of initial presentation?",
+  "imageUrl": "/images/retina-oq/p112_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 121,
+  "question": "There were no abnormalities noted on the anterior segment exam except for moderate nuclear sclerotic cataract. Considering data from the Central Retinal Vein Occlusion Study (CVOS) only, which of the following is the accepted course of management for this patient at the time of initial presentation?",
+  "options": {
+   "D": "panretinal photocoagulation (PRP) AND grid photocoagulation to areas of retinal edema",
+   "C": "observation",
+   "B": "grid photocoagulation to areas of retinal edema",
+   "A": "panretinal photocoagulation (PRP)"
+  },
+  "markedAnswer": "C",
+  "explanation": "The fundus photograph shows the diffuse intraretinal hemorrhages that are typical for a central retinal vein occlusion (CRVO). There are two main subtypes of CRVO: non-ischemic and ischemic. The ischemic form is defined by at least 10 disc areas of capillary non-perfusion on fluorescein angiography (posterior pole view). The CVOS (Central Retinal Vein Occlusion Study) found that prophylatic PRP for ischemic CRVO did *not* completely prevent the development of iris or angle neovascularization and that future PRP was less effective. Specifically, 20% with ischemic CRVO still developed iris/angle neovascularization. Therefore, PRP is only recommended when iris or angle neovascularization first occurs. The CVOS also found that macular grid laser did *not* significantly improve visual acuity in CVO patients with macular edema. However, there was a trend toward improved outcomes for younger (<65 years old) patients, with *non-ischemic CRVO*, who received macular grid laser. Therefore, many retinal specialists will consider macular grid laser for these younger, perfused patients. Editor's note: of course with the results of the BRAVO/CRUISE studies, use of anti-VEGF medications like ranibizumab is now the most popular way of treating macular edema associated with branch and central vein occlusions. Q-A 61-year-old obese patient with a past medical history of hypertension sees you for complaints of new blurry vision in the right eye. His initial visual acuity is 20/50 OD. Dilated fundus examination is seen in the photograph above. According to the Branch Vein Occlusion Study (BVOS), which of the following is the best initial course of management for this patient ?",
+  "imageUrl": "/images/retina-oq/p113_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 122,
+  "question": "A 61-year-old obese patient with a past medical history of hypertension sees you for complaints of new blurry vision in the right eye. His initial visual acuity is 20/50 OD. Dilated fundus examination is seen in the photograph above. According to the Branch Vein Occlusion Study (BVOS), which of the following is the best initial course of management for this patient ?",
+  "options": {
+   "D": "grid first, then scatter photocoagulation",
+   "C": "scatter photocoagulation",
+   "B": "grid photocoagulation to areas of retinal edema",
+   "A": "observation"
+  },
+  "markedAnswer": "A",
+  "explanation": "This patient has a branch retinal vein occlusion (BRVO). For macular edema caused by a BRVO, the BVOS (Branch Retinal Vein Occlusion Study) recommended waiting for 3 months to allow for spontaneous resolution of edema and blood. Eyes with macular edema are then treated with grid laser if visual acuity is 20/40 or worse. In addition, a fluorescein angiogram (FA) must demonstrate the absence of macular non-perfusion. If macular non-perfusion is present on FA, then laser should not be undertaken. In current practice, anti-VEGF agents are first line therapy for RVO-related macular edema [though intravitreal steroids such as triamcinolone or sustained release dexamethasone (Ozurdex) may be considered first line for pseudophakic patients]. More recent studies (BRAVO/CRUISE) have also shown that delaying treatment for even a few months (as was done in the BVOS) may lead to worse outcomes and so treatment for RVO-related macular edema is no longer delayed as in the BVOS. Q-A 65-year-old man presents to your clinic with complaints of decreased vision in the left eye for the past one week. His visual acuity OS is 20/100. There is no afferent pupillary defect. His anterior segment exam is completely normal. His dilated fundus exam is shown above along with a corresponding OCT. According to the CRUISE study, which of the following is the recommended initial treatment?",
+  "imageUrl": "/images/retina-oq/p114_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 123,
+  "question": "A 65-year-old man presents to your clinic with complaints of decreased vision in the left eye for the past one week. His visual acuity OS is 20/100. There is no afferent pupillary defect. His anterior segment exam is completely normal. His dilated fundus exam is shown above along with a corresponding OCT. According to the CRUISE study, which of the following is the recommended initial treatment?",
+  "options": {
+   "D": "intravitreal ranibizumab every month for 12 months",
+   "C": "intravitreal ranibizumab every month for 6 months",
+   "B": "sustained-release intravitreal dexamethasone",
+   "A": "intravitreal bevacizumab every month for 12 months"
+  },
+  "markedAnswer": "C",
+  "explanation": "This patient presents with the typical \"blood and thunder\" fundus appearance of a central retinal vein occlusion (CRVO). This is demonstrated by the diffuse intraretinal hemorrhages, swollen optic nerve, and acutely-decreased vision. The CRUISE study1, published in 2010, investigated the effect of intravitreal ranibizumab (0.3 and 0.5 mg doses) versus sham injection on CRVO-associated macular edema involving the fovea. The treatment protocol consisted of monthly intravitreal ranibizumab injections for 6 months followed by a 6-month \"observation period\" during which all participants could receive additional injections according to a pre-specified reinjection protocol. This pivotal study showed that both ranibizumab dosages were highly effective in improving the vision of patients with CRVO-associated macular edema. Specifically, at the initial 6-month endpoint, the mean change from baseline visual acuity (the primary endpoint) was a gain of 12.7 and 14.9 letters in the ranibizumab groups compared to only 0.8 letters in the sham injection group. The drug groups also showed significant positive results for other visual parameters (e.g. gain of at least 15 letters) as well as quality-of-life scores. The same issue of Ophthalmology in which the CRUISE study was published also contained articles for the initial BRAVO2 and Ozurdex3 results. Briefly, the BRAVO trial was an analogous trial to CRUISE which enrolled patients with BRVO-associated macular edema. It showed similar results to the CRUISE trial. The Ozurdex trial (GENEVA) (Answer \"B\") showed the efficacy of a single dexamethasone intravitreal implant on macular edema associated with either BRVOs or CRVOs. Q-All of the following were identified by the \"Eye Disease Case-Control Study Group\" study as risk factors for developing a branch retinal vein occlusion (BRVO) EXCEPT:.",
+  "imageUrl": "/images/retina-oq/p115_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 124,
+  "question": "",
+  "options": {
+   "D": "increased body mass index",
+   "C": "glaucoma",
+   "B": "hypertension",
+   "A": "diabetes"
+  },
+  "markedAnswer": "A",
+  "explanation": "Unlike for CRVO, diabetes was *not* found as a risk factor for the development of a BRVO. Cardiovascular disease is an additional risk factor for developing a BRVO. Diabetes associated with CRVO : A B C D (C&D are next to each other) Diabetes not associated with BRVO : A B C D (B&D are not next to each other) You can also remember B for BMI and BRVO (elevated BMI is a risk factor for BRVO but not CRVO) Q-A 22-year-old man presents to your office for a routine eye exam. On dilated fundus exam, the vascular abnormality seen in the photo above is present throughout the fundus of the left eye only. The patient states that he had a recent \"complicated tooth extraction\" where he bled profusely afterwards. Which of the following is TRUE regarding this patient's ocular condition?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 125,
+  "question": "Which of the following is TRUE regarding this patient's ocular condition?",
+  "options": {
+   "D": "it may be associated with vascular malformations of the brain",
+   "C": "there is leakage of these lesions on fluorescein angiography (FA)",
+   "B": "visual acuity is uniformly good",
+   "A": "it is inherited in an autosomal dominant fashion"
+  },
+  "markedAnswer": "D",
+  "explanation": "The photograph demonstrates abnormally-dilated retinal vessels with abnormal arteriovenous communications. This finding is typical of retinal racemose angioma (aka congenital retinal arteriovenous malformation) which is a developmental malformation by which there is no intervening capillary bed between some retinal arteries and veins. These malformations are typically unilateral, non-hereditary, and can be associated with poor vision if the fovea is involved. In addition, these abnormal vessels are at risk for obstruction and subsequent neovascularization. Notably, these abnormal vessels do not leak on FA. Instead, there is rapid venous filling since there is no intervening capillary bed. This vascular malformation may be associated with the phakomatosis, Wyburn- Mason syndrome. The systemic manifestations of this syndrome include ipsilateral vascular malformations of the brain, orbit and mandible. The vascular abnormalities of the mandible may present with unexpected bleeding after a \"routine\" tooth extraction. Q-You are examining a 55-year old man as part of his routine annual wellness checkup. His visual acuity is 20/20 OU. Dilated fundus exam is shown in the above photograph. What medical problem should you inquire about and what treatment should be given for this retinal condition?",
+  "imageUrl": "/images/retina-oq/p117_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 126,
+  "question": "You are examining a 55-year old man as part of his routine annual wellness checkup. His visual acuity is 20/20 OU. Dilated fundus exam is shown in the above photograph. What medical problem should you inquire about and what treatment should be given for this retinal condition?",
+  "options": {
+   "D": "hypertension; photocoagulation of this lesion",
+   "C": "diabetes; photocoagulation of this lesion",
+   "B": "hypertension; observation only at this time",
+   "A": "diabetes; observation only at this time"
+  },
+  "markedAnswer": "B",
+  "explanation": "The fundus photograph shows a retinal arterial macroaneurysm (RAM). These lesions may be observed without treatment if they are not causing macular edema that affects vision. In the case of visually-significant macular edema, the RAM may be lightly treated with photocoagulation using a larger spot size (e.g. 200 to 500 microns). However, one must always remember that photocoagulation of the RAM may induce retinal arterial thrombosis and subsequent infarction of the distal retina. Hypertension is present in two-thirds of patients with a RAM. Q-Which of the following conditions is associated with an abnormal glucose tolerance test?",
+  "imageUrl": "/images/retina-oq/p118_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 127,
+  "question": "Which of the following conditions is associated with an abnormal glucose tolerance test?",
+  "options": {
+   "D": "Retinal arterial macroaneurysm",
+   "C": "Type 3 perifoveal telangiectasia with retinal capillary obliteration",
+   "B": "Type 2 perifoveal telangiectasia",
+   "A": "Leber miliary aneurysms"
+  },
+  "markedAnswer": "B",
+  "explanation": "Leber miliary aneurysms (i.e. unilateral parafoveal telangiectasia type 1) typically occurs in males and resembles a macular variant of Coats disease with a circinate type of exudates. When edema is present, laser photocoagulation may be indicated and can be successful in resolving exudation. Type 2 bilateral parafoveal telangiectasia has equal sex predilection and affects both eyes. Perifoveal (mostly temporal) retinal changes typically include thickening, loss of transparency with grayish appearance, small telangiectatic vessels, and a cystic appearance of the fovea. Choroidal neovascularization may develop. Approximately one-third of patients with this variant will have an abnormal glucose tolerance test. This condition does not typically respond to laser photocoagulation but may show some improvement with anti-VEGF agents. Patients with type 3 bilateral parafoveal telangiectasia with retinal capillary obliteration show vision loss from the loss of perifoveal capillaries. Type 3, like type 2, does not respond well to laser photocoagulation. Retinal macroaneurysms are acquired ectasias of mostly second-order retinal arterioles. Vision loss may occur from occlusion of the arteriole or due to hemorrhage. Hemorrhage may span all layers of the retina (e.g. vitreous hemorrhage, sub-ILM, intraretinal or subretinal). Retinal edema is also a cause of vision loss in these cases. The most common association with retinal arterial macroaneurysms is chronic hypertension (two-thirds of cases). Laser photocoagulation can be considered in cases of vision loss due to macular edema. Thrombosis and subsequent arterial obstruction is a possible complication of laser photocoagulation treatment of macroaneurysms. HTN Retinopathy Which of the following hypertensive retinal lesions are indicative of an ischemic retinopathy?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 128,
+  "question": "Which of the following hypertensive retinal lesions are indicative of an ischemic retinopathy?",
+  "options": {
+   "D": "hard exudates and new retinal vessels",
+   "C": "blot hemorrhages and IRMA",
+   "B": "venous beading and new retinal vessels",
+   "A": "microaneurysms and IRMA (intraretinal microvascular abnormalities)"
+  },
+  "markedAnswer": "B",
+  "explanation": "Chronic hypertensive retinal lesions include microaneurysms, IRMAs (intraretinal microvascular abnormalities), dot-blot hemorrhages, hard exudates, venous beading, and new retinal vessels. The last two findings are signs of ischemic retinopathy. Q-An 85-year-old woman with a history of hypertension, hyperlipidemia, and diabetes presents for sudden vision loss in the right eye. Her last hemoglobin A1c was 6.5% and she takes metformin. Her ophthalmic examination one year prior to presentation was normal. The patient’s best corrected visual acuity is 20/200 OD and 20/30 OS. Dilated fundus examination of the left eye is normal. The right eye is shown in the image with an accompanying fluorescein angiogram. Which of the following is an indication for treatment of the lesion shown?",
+  "imageUrl": "/images/retina-oq/p120_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 129,
+  "question": "Which of the following is an indication for treatment of the lesion shown?",
+  "options": {
+   "D": "Vitreous hemorrhage",
+   "C": "Three or more lesions within the macula",
+   "B": "Acute spontaneous rupture",
+   "A": "Progressive subfoveal exudation"
+  },
+  "markedAnswer": "A",
+  "explanation": "The patient has an acquired retinal macroaneurysm (RAM) located on the inferior arcade. RAM develop in the sixth to seventh decade of life, typically off of a third order arterial branch. The most common risk factor is hypertension. They are more common in women, and are more frequent in the right eye, but are bilateral in 10% of cases. Visual symptoms are typically due to exudation spreading into the macula. However, spontaneous bleeding may also occur (sometimes precipitated by Valsalva); are at multiple retinal levels (e.g., subretinal, under the internal limiting membrane, subhyaloid, and vitreous); and cause sudden vision loss. Pathology shows a break in the arterial wall closed off by a fibrin platelet clot and surrounded by varying amounts of blood, exudate, macrophages, hemosiderin, and a fibroglial reaction. Prognosis is excellent with many aneurysms spontaneously closing by thrombosis after a period of exudation or bleeding. Patients with chronic exudation or bleeding in the macula are at greatest risk of permanent vision loss. As spontaneous healing is frequent, treatment is not often indicated, but should be considered with persistent exudation within the fovea. Treatment is with laser photocoagulation with large- spot-size and long-duration focused at the aneurysm. WRONG ANSWERS: • Spontaneous rupture can cause acute loss of vision; however most bleeding RAMs have an excellent prognosis with spontaneous resolution. • Multiple lesions may develop due to focal arterial wall aging defects, but this is not an indication for treatment. • Hemorrhage may occur at multiple levels of the retina (e.g., subretinal, under the internal limiting membrane, subhyaloid, and vitreous). However, most bleeding RAMs have an excellent prognosis with spontaneous resolution. AMD Q-Which of the following is NOT considered to be a risk factor for the development of age-related macular degeneration (AMD)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 130,
+  "question": "Which of the following is NOT considered to be a risk factor for the development of age-related macular degeneration (AMD)?",
+  "options": {
+   "D": "hypercholesterolemia",
+   "C": "light iris color",
+   "B": "myopia",
+   "A": "cigarette smoking"
+  },
+  "markedAnswer": "B",
+  "explanation": "The main risk factor for the development of AMD is, of course, increased age. Other risk factors are hyperopia (not myopia), light iris color, cigarette smoking, hypertension, hypercholesterolemia, being female, and family history. Q-Which of the following is NOT a classic pattern of retinal pigment epithelial (RPE) abnormality in non-neovascular AMD (age-related macular degeneration)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 131,
+  "question": "Which of the following is NOT a classic pattern of retinal pigment epithelial (RPE) abnormality in non-neovascular AMD (age-related macular degeneration)?",
+  "options": {
+   "D": "non-geographic atrophy",
+   "C": "focal hyperpigmentation",
+   "B": "geographic atrophy",
+   "A": "diffuse hyperpigmentation"
+  },
+  "markedAnswer": "A",
+  "explanation": "The main manifestation of \"dry\", non-neovascular AMD is the presence of drusen. The main patterns of RPE abnormality that occur in dry AMD are: geographic atrophy, non-geographic atrophy, and focal hyperpigmentation. Q-The presence of which of the following drusen patterns predisposes the patient to the highest risk of developing choroidal neovascularization (CNV) in age-related macular degeneration (AMD)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 132,
+  "question": "The presence of which of the following drusen patterns predisposes the patient to the highest risk of developing choroidal neovascularization (CNV) in age-related macular degeneration (AMD)?",
+  "options": {
+   "D": "many intermediate confluent soft drusen",
+   "C": "many intermediate hard drusen",
+   "B": "multiple small confluent drusen",
+   "A": "multiple small hard drusen"
+  },
+  "markedAnswer": "D",
+  "explanation": "The AREDS (Age-Related Eye Disease Study) trial demonstrated that both the number and size of drusen contribute to the risk of developing advanced AMD over 5-years. In addition, eyes with soft confluent drusen are more likely to progress to advanced AMD (e.g. CNV or geographic atrophy) than eyes with only hard discrete drusen. Q-A 77-year-old Caucasian man presents to your clinic for a routine eye examination. He has no visual symptoms and his visual acuity is 20/25- OU. His dilated fundus exam is seen above. He has a 60 pack-year history of cigarette smoking which he continues to indulge in to this day. You have a specific therapy in mind for this patient. Which of the following compounds is relatively contraindicated for this patient?",
+  "imageUrl": "/images/retina-oq/p123_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 133,
+  "question": "A 77-year-old Caucasian man presents to your clinic for a routine eye examination. He has no visual symptoms and his visual acuity is 20/25- OU. His dilated fundus exam is seen above. He has a 60 pack-year history of cigarette smoking which he continues to indulge in to this day. You have a specific therapy in mind for this patient. Which of the following compounds is relatively contraindicated for this patient?",
+  "options": {
+   "D": "lutein",
+   "C": "beta-carotene",
+   "B": "copper",
+   "A": "zinc"
+  },
+  "markedAnswer": "C",
+  "explanation": "This fundus photograph shows multiple confluent soft drusen, many of which are more than 125 microns in size. This photograph is characteristic for a patient with \"intermediate\" (Category 3) age-related macular degeneration (AMD) as defined by the original AREDS trial. This patient would benefit from AREDS vitamin supplementation to reduce the chance of developing advanced AMD. The original AREDS vitamin formulation consisted of vitamin C, vitamin E, beta carotene, zinc oxide, and cupric oxide. Caution should be used in using beta-carotene in current or past smokers since there appears to be a higher risk of lung cancer for this sub-population of patients. The more recent AREDS2 formulation replaces the beta-carotene component with lutein and zeaxanthin. A post-hoc subgroup analysis done in AREDS2 compared lutein + zeaxanthin + AREDS without beta carotene versus the original AREDS formulation (i.e. had beta-carotene). This analysis found a hazard ratio of 0.82 in favor of the lutein + zeathanin + AREDS without beta carotene for progression to advanced AMD. Thus, the AREDS2 recommended that the beta-carotene component be completely replaced with lutein + zeathanin (in addition to the concern of increased lung cancer in former/current smokers). Q-Which of the following statements best summarizes the results of the VEGF Inhibition Study in Ocular Neovascularization (VISION) study?",
+  "imageUrl": "/images/retina-oq/p123_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 134,
+  "question": "Which of the following statements best summarizes the results of the VEGF Inhibition Study in Ocular Neovascularization (VISION) study?",
+  "options": {
+   "D": "There was less chance of moderate vision loss at 1 year for the pegaptanib group as compared to placebo",
+   "C": "Aflibercept demonstrated noninferiority to monthly ranibizumab and had a safety profile similar to ranibizumab",
+   "B": "Bevacizumab administered monthly was equivalent to ranibizumab administered monthly. Also, bevacizumab administered as needed was equivalent to ranibizumab as needed",
+   "A": "There was less chance of 15-letter loss and more chance of letters gained in the ranibizumab groups compared to placebo for minimally classic/occult lesions"
+  },
+  "markedAnswer": "D",
+  "explanation": "The VISION study was the first pivotal study demonstrating the efficacy of anti- VEGF agents in the treatment of neovascular age-related macular degeneration. In this study, patients were randomized to placebo or pegaptanib (i.e. Macugen) at doses of 0.3 mg, 1.0 mg, or 3.0 mg. At 1 year, 45% of patients receiving placebo suffered moderate vision loss (i.e. 3 lines or more) compared to 30%, 29%, and 35% in the 0.3 mg, 1.0 mg, and 3.0 mg pegaptanib groups. In addition, pegaptanib showed efficacy for all lesion types. Answer choice \"A\" refers to the MARINA (minimally classic/occult trial of the anti- VEGF antibody ranibizumab in the treatment of neovascular AMD) trial which randomized patients with minimally classic or occult lesions to placebo or monthly ranibizumab injections (0.3 mg and 0.5 mg doses) for 2 years. At 1 year, ~95% of both ranibizumab groups lost fewer than 15-letters as compared to 62.2% of patients receiving sham injections. Also, visual acuity improved by 15 or more letters in 24.8%, 33.8%, and 5.0% in the 0.3 mg, 0.5 mg, and placebo groups respectively. These benefits of ranibizumab were maintained at the 2-year endpoint. Answer choice \"B\" refers to the CATT (Comparison of AMD Treatments Trial). Basically at 1 year, bevacizumab (i.e. Avastin) was found equivalent to ranibizumab on both a monthly and as-needed basis. Answer choice \"C\" refers to the VIEW-1 and 2 studies which demonstrated the noninferiority of aflibercept (i.e. VEGF Trap-Eye) to monthly ranibizumab. Importantly, one study arm demonstrated that the regimen of aflibercept every 2 months (after 3 initial monthly doses) was equivalent to monthly ranibizumab. -------------------------- Q-Which of the following micronutrients was NOT used in the original AREDS (Age Related Eye Disease Study) trial but was studied in the AREDS2 trial and did NOT demonstrate a benefit in the prevention of advanced AMD (age-related macular degeneration)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 135,
+  "question": "-------------------------- Q-Which of the following micronutrients was NOT used in the original AREDS (Age Related Eye Disease Study) trial but was studied in the AREDS2 trial and did NOT demonstrate a benefit in the prevention of advanced AMD (age-related macular degeneration)?",
+  "options": {
+   "D": "zeaxanthin",
+   "C": "lutein",
+   "B": "medium-chain polyunsaturated fatty acids (MCPUFAs)",
+   "A": "long chain polyunsaturated fatty acids (LCPUFAs)"
+  },
+  "markedAnswer": "A",
+  "explanation": "The AREDS (Age-Related Eye Disease Study) 2 trial explored whether lutein, zeaxanthin, and LCPUFAs (DHA/EPA) are beneficial in preventing the development of advanced AMD. This trial also explored the effect of eliminating beta carotene from the original AREDS formulation. The addition of DHA and EPA was found to be of no benefit in reducing the risk of progression to advanced AMD. The trial did not investigate MCPUFAs. A post-hoc subgroup analysis done in AREDS2 compared lutein + zeaxanthin + AREDS without beta carotene versus the original AREDS formulation (i.e. had beta- carotene). This analysis found a hazard ratio of 0.82 in favor of the lutein + zeathanin + AREDS without beta carotene for progression to advanced AMD. Thus, the AREDS2 recommended that the beta-carotene component be completely replaced with lutein + zeathanin (in addition to the concern of increased lung cancer in former/current smokers). For participants with very low levels of dietary lutein/zeaxanthin, adding these supplements to the AREDS formulation helped lower their risk of advanced AMD. The original AREDS formulation was: • vitamin C - 500 mg • vitamin E - 400 IU • beta carotene - 15 mg • zinc oxide - 80 mg • cupric oxide - 2 mg (to prevent zinc-induced anemia) The AREDS 2 formulation currently recommended is: • vitamin C - 500mg • vitamin E - 400 IU • zinc oxide - 80 mg • cupric oxide - 2 mg • lutein - 10 mg • zeaxanthin - 2 mg Q-Which of the following types of drusen is associated with the LEAST likelihood of developing choroidal neovascularization (CNV) or geographic atrophy (GA)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 136,
+  "question": "The original AREDS formulation was: • vitamin C - 500 mg • vitamin E - 400 IU • beta carotene - 15 mg • zinc oxide - 80 mg • cupric oxide - 2 mg (to prevent zinc-induced anemia) The AREDS 2 formulation currently recommended is: • vitamin C - 500mg • vitamin E - 400 IU • zinc oxide - 80 mg • cupric oxide - 2 mg • lutein - 10 mg • zeaxanthin - 2 mg Q-Which of the following types of drusen is associated with the LEAST likelihood of developing choroidal neovascularization (CNV) or geographic atrophy (GA)?",
+  "options": {
+   "D": "three intermediate hard drusen in one eye",
+   "C": "one druse ~130 microns in diameter in one eye",
+   "B": "soft confluent drusen in both eyes with RPE change",
+   "A": "reticular pseudodrusen in both eyes"
+  },
+  "markedAnswer": "D",
+  "explanation": "The original AREDS (Age-Related Eye Disease Study) used the following categories to define the stages of AMD and the patient's likelihood of developing \"advanced\" AMD: • Category 1 (No AMD) -- no or few small (<63 microns in diameter) drusen. This was the control group in the AREDS study. Actually, 0.45% of these patients progressed to advanced AMD. • Category 2 (Early AMD) -- extensive small drusen, pigment abnormalities, or at least 1 intermediate (63-124 microns) size druse. These patients had only a 1.3% probability of progression to advanced AMD by 5 years. • Category 3 (Intermediate AMD) -- extensive intermediate drusen; at least one large ( ≥125 microns) druse; or noncentral geographic atrophy (GA). These patients had a 18% probability of progression to advanced AMD by 5 years. • Category 4 (Advanced AMD) -- at least one of the following: o GA involving the foveal center o presence of CNV o serous or hemorrhagic detachment of the neurosensory retina or RPE o Retinal hard exudates o Subretinal and sub-RPE fibrovascular proliferation o Disciform scar o (Thus, if a patient had advanced AMD in one eye, then the AREDS found a 43% probability of progression to advanced AMD in the fellow eye at 5 years) Since these categories are somewhat difficult to remember, a simplified 4-point grading system was developed by AREDS to classify the severity of age-related macular degeneration (AMD) and to predict an individual's risk of developing advanced AMD in one eye. This grading system is as follows: • presence of any pigment abnormalities -- 1 point • presence of 1 or more large (≥125 micron in diameter) drusen -- 1 point • presence of neovascular AMD -- 2 points • for patients with no large drusen, presence of bilateral intermediate (63- 124 microns) drusen -- 1 point These risk factors are added over both eyes and have a range from 0 to 4. The 5- and 10-year risk of developing AMD in 1 eye is as follows: • 0 points: 0.5% risk over 5 years 1% risk over 10 years • 1 point: 3% risk over 5 years 7% risk over 10 years • 2 points: 12% risk over 5 years 22% risk over 10 years • 3 points 25% risk over 5 years 50% risk over 10 years • 4 points: 50% risk over 5 years 67% risk over 10 years Also, reticular pseudodrusen (aka subretinal drusenoid deposits) have been associated with a greater risk for choroidal neovascularization (CNV) and geographic atrophy (GA). The BCSC also specifically states that an eye with soft and confluent drusen is more likely to progress to CNV than one with only hard drusen. Answer \"D\" would be a patient with \"AREDS Category 2\" (or \"Early\") AMD and thus would have the least likelihood (~1.3% over 5 years) of progressing to advanced AMD. Clinical Pearl: to determine if a druse is \"large\" (i.e. ≥125 microns in diameter), compare its size to a vein width near the optic disc margin. Vein widths here are estimated to be ~120-150 microns in diameter. Q-Which of the following is considered a susceptibility gene for the development of age-related macular degeneration (AMD)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 137,
+  "question": "Which of the following is considered a susceptibility gene for the development of age-related macular degeneration (AMD)?",
+  "options": {
+   "D": "OAT",
+   "C": "BEST-1",
+   "B": "CHM",
+   "A": "CFH"
+  },
+  "markedAnswer": "A",
+  "explanation": "The BCSC specifically mentions two specific susceptibility genes for the development of age-related macular degeneration (AMD): • CFH (1q31) o This gene codes for complement factor H. o The CFH Y402H mutation confers a 4.6-fold increased risk for AMD when heterozygous and a 7.4-fold increased risk when homozygous. • ARMS2 (10q26) o \"Age-Related Maculopathy Susceptibility 2\" o Poorly understood gene product and function o ARMS2 A69S mutation confers a 2.7-fold increased risk for AMD when heterozygous and an 8.2-fold increased risk when homozyous. If an individual is homozygous for these mutations in both genes, the risk for AMD is an astonishing 50-fold higher. Mutations in CHM are responsible for choroideremia. This is an X-linked recessive disease which is characterized by widespread and progressive degeneration of the retinal pigment epithelium (RPE) and choriocapillaris. Studies have localized the CHM gene product to the RPE. These individuals typically develop night blindness during the first or second decade of life, and later develop ring scotomata similar to retinitis pigmentosa. However, most patients with this disease maintain good central visual acuity for 4 or 5 decades. Mutations in VMD2 (BEST1; chromosome 11) are responsible for Best disease. These individuals typically have a yellow, \"yolk-like\" macular lesion present in childhood. This \"yolk\" eventually breaks down leaving a mottled geographic atrophy pattern. Individuals with Best disease have relatively-good (e.g. 20/30) vision despite the dramatic appearance of the macular lesions. This condition is inherited in an autosomal dominant pattern. Mutations in OAT are responsible for gyrate atrophy. This condition is characterized by geographic paving-stone-like areas of atrophy that coalesce to form a scalloped border between abnormal and normal RPE. Gyrate atrophy is an autosomal recessive condition. Mutations in OAT result in markedly-high elevations of ornithinewhich is toxic to the retina and choroid. Treatment consists of dietary arginine restriction (if possible) and vitamin B6 supplementation (if the patient is actually responsive to this therapy). Other findings in gyrate atrophy include: posterior subcapsular cataracts, and high myopia with high astigmatism. Visual acuity is usually normal in these patients until the age of 10 years. (memory aid = GOAT -gyrate OAT ) Q-Which of the following patients would benefit the least from AREDS (Age-Related Eye Disease Study) formulation vitamins?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 138,
+  "question": "(memory aid = GOAT -gyrate OAT ) Q-Which of the following patients would benefit the least from AREDS (Age-Related Eye Disease Study) formulation vitamins?",
+  "options": {
+   "D": "has bilateral subfoveal geographic atrophy",
+   "C": "has extensive intermediate drusen",
+   "B": "has >=1 large druse",
+   "A": "history of vision loss due to AMD in 1 eye"
+  },
+  "markedAnswer": "D",
+  "explanation": "Patients with non-subfoveal geographic atrophy benefited from AREDS vitamins in preventing advanced AMD. Patients with bilateral sub-foveal geographic atrophy are essentially end-stage AMD, at which point vitamins are no longer beneficial. The other ocular characteristics that benefited from these vitamins included: eyes with intermediate AMD (i.e. >=1 large druse or extensive intermediate drusen) and advanced unilateral AMD (i.e. vision loss from AMD in the fellow eye). Q-A 75-year-old male with a history of a choroidal neovascular membrane in the right eye 5 years before comes in for a routine eye exam with no new ocular complaints. His right eye exam is stable and requires no acute intervention. The figure above shows a color photo, red free photo, and an OCT of his left fundus. Where are the hypopigmented lesions in his fundus located?",
+  "imageUrl": "/images/retina-oq/p212_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 139,
+  "question": "His right eye exam is stable and requires no acute intervention. The figure above shows a color photo, red free photo, and an OCT of his left fundus. Where are the hypopigmented lesions in his fundus located?",
+  "options": {
+   "D": "Extending between Bruch's and the RPE",
+   "C": "In the choriocapillaris",
+   "B": "In the deep choroid",
+   "A": "In the outer plexiform layer"
+  },
+  "markedAnswer": "D",
+  "explanation": "The white dots located in the fundus are drusen associated with age related macular degeneration. Drusen can vary in size from small (< 64 microns) to intermediate (64-124 microns) to large (>124 microns). Drusen collect in the inner aspect of Bruch?s membrane and grow into the space between Bruch's and the RPE. It is this disruption of Bruch's membrane that allows vessels from the choriocapillaris to grow into the subretinal space and form what is commonly referred to as a \"choroidal neovascular membrane.\" Q-All of the following statements regarding the \"Treatment of Age-Related Macular Degeneration with Photodynamic Therapy\" (TAP) study are true EXCEPT:.",
+  "imageUrl": "/images/retina-oq/p130_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 140,
+  "question": "related macular degeneration. Drusen can vary in size from small (< 64 microns) to intermediate (64-124 microns) to large (>124 microns). Drusen collect in the inner aspect of Bruch?",
+  "options": {
+   "D": "there was no overall difference in visual acuity in eyes in which the classic CNV component was more than 0% but less than 50% of the entire lesion area",
+   "C": "the benefit was greatest in eyes with predominantly classic choroidal neovascularization (CNV)",
+   "B": "59% of PDT-treated patients with predominantly classic lesions lost less than 15 letters compared to 31% in the sham-treated group",
+   "A": "minimally classic choroidal neovascularization (CNV) treated with PDT showed significant improvement compared to placebo"
+  },
+  "markedAnswer": "A",
+  "explanation": "There was no significant difference in vision endpoints between the minimally-classic CNV and placebo groups (answer \"A\"). Answer choice \"D\" gives the definition of minimally-classic CNV and basically reiterates the above fact of there being no difference. Q-Which of the following vascular endothelial growth factor (VEGF) isoforms is thought to be the most pathologic in neovascular AMD (age-related macular degeneration)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ }
+]

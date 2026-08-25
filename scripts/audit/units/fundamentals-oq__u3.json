@@ -1,0 +1,1052 @@
+[
+ {
+  "id": 141,
+  "question": "A 3-year-old child is brought to your office for exam. The mother states that her child had congenital cataracts and that they were removed. Culture showed that they were secondary to rubella. She has read about rubella infection and is worried that the child might develop glaucoma secondary to rubella. What would be the most accurate response to her inquiry?",
+  "options": {
+   "A": "\"You definitely should worry because the two are related.\"",
+   "B": "\"There is no need to worry about that. Since he developed rubella cataracts, it is highly unlikely he will develop rubella glaucoma.\"",
+   "C": "\"I wouldn't worry about amblyopia.\"",
+   "D": "\"It probably wasn't a rubella cataract.\""
+  },
+  "markedAnswer": "B",
+  "explanation": "Rubella infection in the first trimester gives abnormalities in the following areas: Ocular (cataracts), auditory (deafness), and systemic (cardiac). An interesting finding is that patients who develop a rubella cataract virtually never develop glaucoma and vice versa. Rubella infection in the second trimester gives salt and pepper fundus.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 142,
+  "question": "What is the most common ocular manifestation of fetal alcohol syndrome?",
+  "options": {
+   "A": "glaucoma",
+   "B": "optic nerve hypoplasia",
+   "C": "congenital cataracts",
+   "D": "coloboma"
+  },
+  "markedAnswer": "B",
+  "explanation": "Fetal alcohol syndrome (FAS) results in delayed growth, intellectual disability, and abnormal behavior patterns. The majority of FAS patients have optic nerve hypoplasia. Other ocular abnormalities include: strabismus, blepharoptosis, epicanthus, cataract, glaucoma, persistent fetal vasculature, and anomalies resembling Peters and Axenfeld anomalies.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 143,
+  "question": "What consult should you order if you suspect de Morsier syndrome?",
+  "options": {
+   "A": "renal consult",
+   "B": "endocrine consult",
+   "C": "cardiology consult",
+   "D": "orthopedic consult"
+  },
+  "markedAnswer": "B",
+  "explanation": "Endocrine evaluation for pituitary hypoplasia (can be fatal if missed).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 144,
+  "question": "since a portion of the iris typically remains in aniridia, what condition can this lead to?",
+  "options": {
+   "A": "cataract",
+   "B": "glaucoma",
+   "C": "cloudy cornea",
+   "D": "retinal detachment"
+  },
+  "markedAnswer": "B",
+  "explanation": "\"Aniridia\" is somewhat of a misnomer since a small iris stump is typically still present. This iris stump progressively rotates anteriorly as the patient ages causing chronic angle closure glaucoma in a large percentage of patients (50-75%).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 145,
+  "question": "What is the term for a small disorganized eye?",
+  "options": {
+   "A": "nanophthalmos",
+   "B": "microphthalmos",
+   "C": "keratoglobus",
+   "D": "exophthalmos"
+  },
+  "markedAnswer": "B",
+  "explanation": "Nanophthalmos refers to an eye that is small but without intraocular abnormalities. These patients tend to be very hyperopic. They have thick sclera which can lead to choroidal effusions after cataract surgery. Keratoglobus is a keratectasia (like pellucid marginal degeneration and keratoconus) characterized by diffuse corneal thinning which is present at birth. The other keratectasias present later in life.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 146,
+  "question": "What does the dorsal ophthalmic artery become?",
+  "options": {
+   "A": "primitive dorsal ophthalmic artery",
+   "B": "long ciliary arteries",
+   "C": "the ophthalmic artery",
+   "D": "the central retinal artery"
+  },
+  "markedAnswer": "C",
+  "explanation": "The dorsal ophthalmic artery becomes the ophthalmic artery at around the sixth week of gestation. The ophthalmic artery supplies the short posterior ciliary arteries, central retinal artery, and temporal long posterior ciliary artery.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 147,
+  "question": "What is the frond of tissue near the optic nerve that is associated with regression of the hyaloid vasculature?",
+  "options": {
+   "A": "Cloquet's canal",
+   "B": "Mittendorf dot",
+   "C": "Bergmeister's papilla",
+   "D": "Axenfeld loops"
+  },
+  "markedAnswer": "C",
+  "explanation": "Bergmeister's papilla are remnants of the hyaloid vasculature near to or attached to the optic nerve head.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 148,
+  "question": "What eye finding presents with the following: a small pouch of retinal tissue that pouches downward between the sclera and nerve under the dural sheath.",
+  "options": {
+   "A": "optic nerve drusen",
+   "B": "temporal crescent",
+   "C": "coloboma",
+   "D": "optic pit"
+  },
+  "markedAnswer": "D",
+  "explanation": "An optic pit is thought to connect the subretinal space to the subdural space and allow cerebral spinal fluid to drain into the subretinal space. This mechanism is thought to be the reason why serous retinal detachments occur with optic pits. Comments: - \"A localized defect in the optic fissure on the optic nerve head allows dysplastic retina to herniate into the subdural space through a defect in the lamina cribrosa, allowing cerebrospinal fluid to cause serous retinal detachments. Optic pits are usually located temporally or inferiorly and can cause arcuate Field defects.\" Oxford basic sciences.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 149,
+  "question": "Describe the development of the embryonic lens nucleus from the optic vesicle.",
+  "options": {
+   "A": "The lens vesicle starts with an anterior and posterior layer of epithelial cells.",
+   "B": "The anterior cells or primary lens fibers of the vesicle lengthen to fill the cavity of the vesicle and form the embryonic nucleus.",
+   "C": "The posterior cells or primary lens fibers of the vesicle lengthen to fill the cavity of the vesicle and form the adult nucleus.",
+   "D": "The anterior cells or primary lens fibers of the vesicle lengthen to fill the cavity of the vesicle and form the adult nucleus."
+  },
+  "markedAnswer": "A",
+  "explanation": "The lens vesicle starts with an anterior and posterior layer of epithelial cells. The posterior cells or primary lens fibers of the vesicle lengthen to fill the cavity of the vesicle, lose their nuclei, and forms the embryonic nucleus. The anterior layer remains throughout life. The anterior layer of epithelial cells continues to lay down basement membrane (lens capsule) throughout life. Therefore, the posterior capsule is not enlarged with age while the anterior capsule is enlarged.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 150,
+  "question": "What are the 3 primary germ layers?",
+  "options": {
+   "A": "ectoderm, mesoderm, and endoderm",
+   "B": "neural crest, mesoderm, and endoderm",
+   "C": "ectoderm, mesoderm, and neural crest",
+   "D": "ectoderm, neural crest, and endoderm"
+  },
+  "markedAnswer": "A",
+  "explanation": "The embryologic origin of commonly tested tissues are: Neural crest: corneal stroma, corneal endothelium, and iris stroma Surface ectoderm: corneal epithelum and lacrimal drainage system Neuroectoderm: iris pigmented epithelium, iris sphincter, iris dilator muscle, RPE, and neurosensory retina. Another interesting fact is that the temporal portion of the sclera as well as the fibers of the extraocular muscles derive from mesoderm. The rest of the sclera is derived from neural crest.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 151,
+  "question": "The hyaloid artery is a branch of which artery in the developing eye?",
+  "options": {
+   "A": "primitive ventral ophthalmic artery",
+   "B": "primitive dorsal ophthalmic artery",
+   "C": "secondary dorsal ophthalmic artery",
+   "D": "secondary ventral ophthalmic artery"
+  },
+  "markedAnswer": "B",
+  "explanation": "Mnemonic:.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 152,
+  "question": "What is analogous to the nictitating membrane of dogs?",
+  "options": {
+   "A": "plica semilunaris",
+   "B": "caruncle",
+   "C": "conjunctiva",
+   "D": "puncta"
+  },
+  "markedAnswer": "A",
+  "explanation": "The plica semilunaris is a crescent-shaped fold of conjunctiva lateral to and partly- under the caruncle. This is considered a vestigial structure that is analogous to the nictitating membrane found in dogs.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 153,
+  "question": "Which of the following accurately describes the growth of the anterior and posterior capsules with age?",
+  "options": {
+   "A": "anterior capsule and posterior capsule thicken with age",
+   "B": "anterior and posterior capsule do not thicken with age",
+   "C": "anterior capsule thickens with age and the posterior does not",
+   "D": "anterior capsule does not thicken with age and the posterior does"
+  },
+  "markedAnswer": "C",
+  "explanation": "The lens vesicle starts with an anterior and posterior layer of epithelial cells. The posterior layer expands and losses its nuclei. The anterior layer remains throughout life. The anterior layer of epithelial cells continues to lay down basement membrane (lens capsule) throughout life. Therefore, the posterior capsule is not enlarged with age while the anterior capsule is enlarged.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 154,
+  "question": "What is the most common quadrant for an iris coloboma to occur?",
+  "options": {
+   "A": "superiotemporal",
+   "B": "superonasal",
+   "C": "inferotemporal",
+   "D": "inferonasal"
+  },
+  "markedAnswer": "D",
+  "explanation": "The most common quadrant of the iris where coloboma occurs is inferonasal. This leads to the classic \"keyhole\" appearance of the pupil.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 155,
+  "question": "What is the optic ventricle?",
+  "options": {
+   "A": "space between the outer and inner layers of the optic cup",
+   "B": "space anterior to the outer optic cup",
+   "C": "space posterior to the outer optic cup",
+   "D": "space between the outer and inner layers of the optic sulci"
+  },
+  "markedAnswer": "A",
+  "explanation": "The optic ventricle is the space between the outer and inner layers of the optic cup that becomes the subretinal space. It is important because it is a potential space that is prone to disease (i.e. serous retinal detachment).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 156,
+  "question": "When are the largest number of axons achieved in the optic nerve?",
+  "options": {
+   "A": "8 weeks",
+   "B": "16 weeks",
+   "C": "20 weeks",
+   "D": "24 weeks"
+  },
+  "markedAnswer": "B",
+  "explanation": "The largest number of axons achieved in the optic nerve is 3.7 million at 16 weeks gestation.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 157,
+  "question": "There are three waves of ingrowth of neural crest cells associated with development of the anterior chamber. What does the first wave form?",
+  "options": {
+   "A": "iris and pupillary membrane",
+   "B": "double layered endothelium",
+   "C": "corneal stroma (keratocytes)",
+   "D": "trabecular meshwork"
+  },
+  "markedAnswer": "B",
+  "explanation": "There are three waves of ingrowth of neural crest cells associated with development of the anterior chamber: The first wave forms the corneal endothelium. The second wave forms the iris and pupillary membrane. The third wave forms the corneal stroma and sclera. The trabecular meshwork also develops from neural crest cells.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 158,
+  "question": "There are three waves of ingrowth of neural crest cells associated with development of the anterior chamber. What does the third wave form?",
+  "options": {
+   "A": "iris and pupillary membrane",
+   "B": "double layered endothelium",
+   "C": "corneal stroma (keratocytes)",
+   "D": "trabecular meshwork"
+  },
+  "markedAnswer": "C",
+  "explanation": "There are three waves of ingrowth of neural crest cells associated with development of the anterior chamber: The first wave forms the corneal endothelium. The second wave forms the iris and pupillary membrane. The third wave forms the corneal stroma and sclera. The trabecular meshwork also develops from neural crest cells.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 159,
+  "question": "There are three waves of ingrowth of neural crest cells associated with development of the anterior chamber. What does the second wave form?",
+  "options": {
+   "A": "iris and pupillary membrane",
+   "B": "double layered endothelium",
+   "C": "corneal stroma (keratocytes)",
+   "D": "trabecular meshwork"
+  },
+  "markedAnswer": "A",
+  "explanation": "There are three waves of ingrowth of neural crest cells associated with development of the anterior chamber: The first wave forms the corneal endothelium. The second wave forms the iris and pupillary membrane. The third wave forms the corneal stroma and sclera. The trabecular meshwork also develops from neural crest cells.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 160,
+  "question": "Which germ layer forms the temporal portion of the sclera?",
+  "options": {
+   "A": "neuroectoderm",
+   "B": "mesoderm",
+   "C": "surface ectoderm",
+   "D": "endoderm"
+  },
+  "markedAnswer": "B",
+  "explanation": "The temporal portion of the sclera as well as the fibers of the extraocular muscles derive from mesoderm. The rest of the sclera is derived from neural crest.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 161,
+  "question": "Which germ layer forms the retinal pigment epithelium and neurosensory retina?",
+  "options": {
+   "A": "neuroectoderm",
+   "B": "mesoderm",
+   "C": "surface ectoderm",
+   "D": "endoderm"
+  },
+  "markedAnswer": "A",
+  "explanation": "A detailed listing of the derivatives of the ocular tissues follows: Ectoderm • Neuroectoderm • retinal pigment epithelium • neurosensory retina • optic nerve, axons, and glia • Cranial neural crest • corneal stroma • corneal endothelium • iris pigment epithelium • sclera (also derived from mesoderm) • trabecular meshwork • bones / cartilage • ciliary ganglion • choroidal stroma • extraocular muscle sheaths and tendons • fat (also dervied from mesoderm) • melanocytes • optic nerve sheath • meningeal sheath of optic nerve • Surface ectoderm • lens • vitreous (also derived from mesoderm) • conjunctival epithelium • lacrimal drainage system • lacrimal gland • cilia of skin of eyelids and caruncle • sweat glands Mesoderm • extraocular muscle fibers • fat (also derived from cranial neural crest) • iris stroma • iris sphincter • iris dilator • sclera (temporal portion) • vitreous (also derived from surface ectoderm) • vascular endothelium.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 162,
+  "question": "Which embryonic layer is the iris sphincter and dilator muscle derived from?",
+  "options": {
+   "A": "ectoderm",
+   "B": "endoderm",
+   "C": "neural crest",
+   "D": "mesoderm"
+  },
+  "markedAnswer": "D",
+  "explanation": "A detailed listing of the derivatives of the ocular tissues follows (BCSC Fundamentals book: \"Ocular Development\"): ABOVE this Question.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 163,
+  "question": "Which germ layer forms the lacrimal drainage system?",
+  "options": {
+   "A": "neuroectoderm",
+   "B": "mesoderm",
+   "C": "surface ectoderm",
+   "D": "endoderm"
+  },
+  "markedAnswer": "C",
+  "explanation": "The embryologic origin of various ocular tissues can be found in BCSC's Fundamentals book.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 164,
+  "question": "The notochord induces the overlying surface ectoderm to differentiate into what?",
+  "options": {
+   "A": "placenta",
+   "B": "neuroectoderm",
+   "C": "mesoderm",
+   "D": "mesenchyme"
+  },
+  "markedAnswer": "B",
+  "explanation": "The embryologic origin of commonly tested tissues are: Neural crest: corneal stroma, corneal endothelium, and iris stroma Surface ectoderm: corneal epithelum and lacrimal drainage system Neuroectoderm: iris pigmented epithelium, iris sphincter, iris dilator muscle, RPE, and neurosensory retina. Another interesting fact is that the temporal portion of the sclera as well as the fibers of the extraocular muscles derive from mesoderm. The rest of the sclera is derived from neural crest.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 165,
+  "question": "From where do neural crest cells arise?",
+  "options": {
+   "A": "mesoderm",
+   "B": "mesenchyme",
+   "C": "endoderm",
+   "D": "ectoderm"
+  },
+  "markedAnswer": "D",
+  "explanation": "Here's a quick review of the embryologic origins of ocular structures: Ectoderm • Neuroectoderm • retinal pigment epithelium • neurosensory retina • optic nerve, axons, and glia • Cranial neural crest • corneal stroma • corneal endothelium • iris pigment epithelium • sclera (also derived from mesoderm) • trabecular meshwork • bones / cartilage • ciliary ganglion • choroidal stroma • extraocular muscle sheaths and tendons • fat (also dervied from mesoderm) • melanocytes • optic nerve sheath • meningeal sheath of optic nerve • Surface ectoderm • lens • vitreous (also derived from mesoderm) • conjunctival epithelium • lacrimal drainage system • lacrimal gland • cilia of skin of eyelids and caruncle • sweat glands Mesoderm • extraocular muscle fibers • fat (also derived from cranial neural crest) • iris stroma • iris sphincter • iris dilator • sclera (temporal portion) • vitreous (also derived from surface ectoderm) • vascular endothelium Cranial.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 166,
+  "question": "Through what foramen does CN V2 exit the skull?",
+  "options": {
+   "A": "foramen ovale",
+   "B": "foramen rotundum",
+   "C": "foramen lacerum",
+   "D": "foramen magnum"
+  },
+  "markedAnswer": "B",
+  "explanation": "CN V2 exits the skull through the foramen rotundum.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 167,
+  "question": "Which cranial nerve (or its branches) is usually not affected by a properly- administered retrobulbar injection of anesthetic?",
+  "options": {
+   "A": "CN II",
+   "B": "CN III",
+   "C": "CN IV",
+   "D": "CN V"
+  },
+  "markedAnswer": "C",
+  "explanation": "A retrobulbar block provides akinesia by blocking cranial nerves III and VI; decreased ocular sensation by blocking the ciliary nerves which are branches of CN V1; and also affects that eye's visual input by affecting CN II.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 168,
+  "question": "Fibers from which CN III subnuclei cross to innervate the contralateral muscle?",
+  "options": {
+   "A": "superior rectus",
+   "B": "inferior rectus",
+   "C": "levator palpebrae superioris",
+   "D": "inferior oblique"
+  },
+  "markedAnswer": "A",
+  "explanation": "The superior rectus subnuclei fibers of CN III cross to innervate the contralateral muscle. There are other trivia associated with cranial nerves that are frequently asked. The levator subnuclei within the CN III nucleus is the only subnuclei that is fused and therefore supplies axons to muscles in both eyes. Cranial nerve IV has the longest intracranial course.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 169,
+  "question": "Which subnuclei within the CN III nucleus is the only subnuclei that is fused and therefore supplies axons to muscles in both eyes?",
+  "options": {
+   "A": "superior rectus subnuclei",
+   "B": "inferior rectus subnuclei",
+   "C": "levator subnuclei",
+   "D": "inferior oblique subnuclei"
+  },
+  "markedAnswer": "C",
+  "explanation": "There are other trivia about cranial nerves that are frequently asked. The superior rectus subnuclei fibers of CN III cross to innervate the contralateral muscle. Cranial nerve IV has the longest intracranial course.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 170,
+  "question": "The 3rd order neuron of the sympathetic chain travels with which nerve in the posterior cavernous sinus?",
+  "options": {
+   "A": "CN IV",
+   "B": "CN V",
+   "C": "CN VI",
+   "D": "CN VII"
+  },
+  "markedAnswer": "C",
+  "explanation": "Within the posterior cavernous sinus, sympathetic fibers destined for the dilator muscles leave the carotid in conjunction with CN VI for a few millimeters. In the anterior cavernous sinus, the sympathetics combine with the nasociliary branch of V1.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 171,
+  "question": "Describe the postganglionic fibers emanating from the ciliary ganglion?",
+  "options": {
+   "A": "Parasympathetic axons to iris sphincter",
+   "B": "Sympathetic axons to iris sphincter",
+   "C": "Parasympathetic axons to iris dilator",
+   "D": "Sympathetic axons to iris dilator"
+  },
+  "markedAnswer": "A",
+  "explanation": "A good way of remembering whether the sympathetic or parasympathic nerves synapse in the ciliary ganglion is to remember the three orders of the sympathetic chain. These are: (1) hypothalamus to ciliospinal center of Budge-Waller; (2) from the ciliospinal center to the superior cervical ganglion; and (3) from the superior cervical ganglion to the iris dilator muscle.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 172,
+  "question": "Which extraocular muscles does the inferior division of CNIII innervate?",
+  "options": {
+   "A": "Medial rectus, inferior rectus, and inferior oblique",
+   "B": "Inferior rectus and inferior oblique",
+   "C": "Inferior rectus, inferior oblique, and lateral rectus",
+   "D": "Medial rectus, inferior rectus, inferior oblique, and lateral rectus"
+  },
+  "markedAnswer": "A",
+  "explanation": "The inferior division of CN III innervates the medial rectus, inferior rectus, and inferior oblique. The superior division of CNIII innervates the superior rectus and the levator.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 173,
+  "question": "How many short posterior ciliary arteries enter the globe around the optic nerve (ON)?",
+  "options": {
+   "A": "2",
+   "B": "5",
+   "C": "20",
+   "D": "40"
+  },
+  "markedAnswer": "C",
+  "explanation": "There are approximately 20 short posterior ciliary arteries that enter the globe in a ring around the optic nerve.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 174,
+  "question": "Which cranial nerve (CN) has the longest intracranial course?",
+  "options": {
+   "A": "CN II",
+   "B": "CN III",
+   "C": "CN IV",
+   "D": "CN V"
+  },
+  "markedAnswer": "C",
+  "explanation": "Cranial nerve IV (trochlear nerve) is unique in that it is the only cranial nerve whose axons cross before exiting the brainstem. It is also the only cranial nerve that emerges dorsally from the brain stem (at the level of the caudal midbrain). The trochlear nerve has the longest intracranial course, which predisposes it to damage during closed head trauma. As you probably know, CN IV supplies innervation to the superior oblique muscle.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 175,
+  "question": "What is the function of the Edinger-Westphal nucleus?",
+  "options": {
+   "A": "it supplies postganglionic parasympathetic innervation to the ciliary muscle and pupillary sphincter",
+   "B": "it supplies preganglionic parasympathetic innervation to the ciliary muscle and pupillary sphincter",
+   "C": "it supplies postganglionic parasympathetic innervation to the ciliary muscle and pupillary dilator",
+   "D": "it supplies preganglionic parasympathetic innervation to the ciliary muscle and pupillary dilator"
+  },
+  "markedAnswer": "B",
+  "explanation": "The pupillary light reflex pathway is a rite of passage for the boards. The signal travels with the optic nerve, decussates in the chiasm, travels with the optic tracts, then splits from the optic tracts to reach the pretectal nuclei at the level of the superior colliculus.",
+  "imageUrl": "/images/fundamentals-oq/p86_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 176,
+  "question": "What are the three branches of cranial nerve V1 (i.e. the ophthalmic branch of the trigeminal nerve)?",
+  "options": {
+   "A": "frontal, lacrimal, and nasociliary",
+   "B": "ophthalmic, maxillary, and mandibular",
+   "C": "frontal, ophthalmic, and trochlear",
+   "D": "frontal, trochlear, and supraorbital"
+  },
+  "markedAnswer": "A",
+  "explanation": "The trigeminal nerve (CN V) has three main divisions: V1 (ophthalmic nerve), V2 (maxillary nerve), and V3 (mandibular nerve). In turn, the three branches of V1 are the frontal, lacrimal, and nasociliary nerves. A mnemonic to remember the branches of V1 is NFL: nasociliary, frontal, lacrimal. Please see the answer image for an illustration of these important nerve branches.",
+  "imageUrl": "/images/fundamentals-oq/p86_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 177,
+  "question": "What does the inferior division of CN III innervate?",
+  "options": {
+   "A": "inferior rectus and inferior oblique",
+   "B": "medial rectus and inferior rectus",
+   "C": "medial rectus, inferior rectus, and inferior oblique",
+   "D": "medial rectus and inferior oblique"
+  },
+  "markedAnswer": "C",
+  "explanation": "The inferior division of CN III innervates the medial rectus, inferior rectus, and inferior oblique.",
+  "imageUrl": "/images/fundamentals-oq/p87_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 178,
+  "question": "From what structure do the short ciliary nerves arise?",
+  "options": {
+   "A": "nasociliary branch of V1",
+   "B": "The ciliary ganglion",
+   "C": "lacrimal branch of V1",
+   "D": "ethmoidal branch of V1"
+  },
+  "markedAnswer": "B",
+  "explanation": "The short ciliary nerves arise from the ciliary ganglion. There are 6 to 10 short ciliary nerves. The long ciliary nerves pass by the ciliary ganglion without synapsing in it.",
+  "imageUrl": "/images/fundamentals-oq/p88_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 179,
+  "question": "What produces the aqueous portion of the tear film?",
+  "options": {
+   "A": "goblet cells",
+   "B": "meibomian glands",
+   "C": "glands of Krause and Wolfring",
+   "D": "gland of Moll"
+  },
+  "markedAnswer": "C",
+  "explanation": "The tear film is composed of 3 main layers: the superficial lipid layer, the middle aqueous layer, and the innermost mucin layer.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 180,
+  "question": "What makes the aqueous layer of the tear film?",
+  "options": {
+   "A": "glands of Moll",
+   "B": "goblet cells",
+   "C": "main and accessory lacrimal glands",
+   "D": "meibomian glands"
+  },
+  "markedAnswer": "C",
+  "explanation": "The accessory glands of Krause and Wolfring produce the aqueous component of tears. The lacrimal gland produces mainly reflex tears. The glands of Wolfring are found at the non-marginal tarsal borders. The glands of Krause are found in the fornices. The meibomian glands produce the oily layer. The goblet cells make the mucin layer.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 181,
+  "question": "What makes the oily layer of the tear film?",
+  "options": {
+   "A": "glands of Krause",
+   "B": "goblet cells",
+   "C": "gland of Wolfring",
+   "D": "meibomian glands"
+  },
+  "markedAnswer": "D",
+  "explanation": "The meibomian glands produce the oily layer. The accessory glands of Krause and Wolfring produce the aqueous component of tears. The lacrimal gland produces mainly reflex tears. The glands of Wolfring are found at the non-marginal tarsal borders. The glands of Krause are found in the fornices. Goblet cells make the mucin layer.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 182,
+  "question": "What produces the mucin portion of the tear film?",
+  "options": {
+   "A": "glands of Wolfring",
+   "B": "meibomian glands",
+   "C": "goblet cells",
+   "D": "glands of Krause"
+  },
+  "markedAnswer": "C",
+  "explanation": "The accessory glands of Krause and Wolfring produce the aqueous component of tears. The lacrimal gland produces mainly reflex tears. The glands of Wolfring are found at the non-marginal tarsal borders. The glands of Krause are found in the fornices. The goblet cells produce mucin. The meibomian glands produce the superficial oil layer.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 183,
+  "question": "What primarily produces the lipid layer of the tear film?",
+  "options": {
+   "A": "goblet cells",
+   "B": "meibomian glands",
+   "C": "glands of Krause and Wolfring",
+   "D": "gland of Moll"
+  },
+  "markedAnswer": "B",
+  "explanation": "The tear film consists of three layers: the anterior lipid layer, the middle aqueous layer, and the posterior mucin layer. The lipid layer is secreted primarily by the meibomian glands which are located at the tarsal border of the upper and lower eyelids. There are approximately 30-40 of these glands in the upper eyelid and 20- 30 smaller glands in the lower eyelid. This superficial layer is approximately 0.1-0.2 microns thick. Some of the lipid is also secreted by the sebaceous glands of Zeiss. One of the main functions of this layer is to slow down evaporation of the tear film.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 184,
+  "question": "Which glands are apocrine sweat glands?",
+  "options": {
+   "A": "Glands of Moll",
+   "B": "Glands of Zeis",
+   "C": "Glands of Wolfring",
+   "D": "Glands of Krause"
+  },
+  "markedAnswer": "A",
+  "explanation": "Eccrine refers to any gland that secretes sweat. In pathology, the glands of Moll form cysts and are referred to as apocrine hidrocystomas. If you can remember that the glands of Moll are apocrine glands, you can figure out that apocrine hidocystomas have as their origin the glands of Moll.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 185,
+  "question": "Which of the following types of glands has a secretory mechanism different from the others?",
+  "options": {
+   "A": "Lacrimal",
+   "B": "Moll",
+   "C": "Wolfring",
+   "D": "Krause"
+  },
+  "markedAnswer": "B",
+  "explanation": "There are 3 types of exocrine glands if grouped by their method of secretion: • Merocrine -- cells excrete their substances by exocytosis (i.e. substances are \"freely\"-released) • Apocrine -- cells \"bud\" or \"pinch off\" a plasma membrane-bound vesicle containing the secretion (see diagram below) • Holocrine -- the entire cell disintegrates to release its substance The glands of Moll have an apocrine secretory mechanism. The accessory glands of Krause and Wolfring produce the aqueous component of the tear film. The lacrimal gland produces mainly reflex tears. The glands of Wolfring are found at the non-marginal tarsal borders. The glands of Krause are found mainly in the fornices. Wolfring, Krause, and lacrimal glands secrete their products via a merocrine method of exocrine secretion. The meibomian glands and goblets cells of the conjunctiva secrete their products via a holocrine mechanism.",
+  "imageUrl": "/images/fundamentals-oq/p92_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 186,
+  "question": "Besides meibomian glands, what other glands' secretions contribute to the lipid layer?",
+  "options": {
+   "A": "glands of Moll",
+   "B": "gland of Zeis",
+   "C": "glands of Krause",
+   "D": "glands of Wolfring"
+  },
+  "markedAnswer": "B",
+  "explanation": "The Zeis and meibomian glands produce the oil layer. The accessory glands of Krause and Wolfring produce the aqueous component of tears. The lacrimal gland produces mainly reflex tears. The glands of Wolfring are found at the non-marginal tarsal borders. The glands of Krause are found in the fornices.",
+  "imageUrl": "/images/fundamentals-oq/p92_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 187,
+  "question": "What is the most abundant immunoglobulin found in tears?",
+  "options": {
+   "A": "IgM",
+   "B": "IgD",
+   "C": "IgA",
+   "D": "IgE"
+  },
+  "markedAnswer": "C",
+  "explanation": "One way to remember this is that \"A\" can stand for Abundant.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 188,
+  "question": "How large is the average tear lake of an upright person?",
+  "options": {
+   "A": "10 microL",
+   "B": "20 microL",
+   "C": "30 microL",
+   "D": "50 microL"
+  },
+  "markedAnswer": "A",
+  "explanation": "Per 2011 BCSC Fundamentals Pharmacology the average tear lake in an upright person is 10 microliters and per BCSC Cornea the average tear volume of an adult is 7 microliters.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 189,
+  "question": "What is the volume of a drop administered from a standard commercial eyedrop dispenser?",
+  "options": {
+   "A": "10 µl",
+   "B": "20 µl",
+   "C": "30 µl",
+   "D": "50 µl"
+  },
+  "markedAnswer": "D",
+  "explanation": "A standard commercial eyedrop dispenser releases a volume of approximately 50 µl. The volume of the tear lake is approximately 7 µl in the blinking eye of an upright patient. This volume increases to only ~10 µl after administering an eyedrop. Thus, only ~20% of the administered eyedrop is retained in the tear lake. So, it is rarely necessary to add a second drop since most of the first drop is already wasted.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 190,
+  "question": "What wavelength of light is rhodopsin most sensitive?",
+  "options": {
+   "A": "510 nm",
+   "B": "530 nm",
+   "C": "550 nm",
+   "D": "570 nm"
+  },
+  "markedAnswer": "A",
+  "explanation": "Rhodpsin is most sensitive to the 510 nm (green light) wavelength of the electromagnetic spectrum. It demonstrates less absorption of blue and yellow light and cannot absorb longer wavelengths (e.g. red light). This fact must be committed to memory.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 191,
+  "question": "What were the compounds used in the original AREDS (age-related eye disease study) to reduce age-related macular degeneration progression?",
+  "options": {
+   "A": "Vit D 500 mg, Vit E 800 IU, beta carotene 15 mg, xanthine 80 mg, tyrosine 2 mg",
+   "B": "Vit B12 250 mg, Vit C 600 IU, beta carotene 30 mg, zinc oxide 80 mg, Cupric oxide 4 mg",
+   "C": "Vit C 500 mg, Vit E 400 IU, beta carotene 15 mg, zinc oxide 80 mg, Cupric oxide 2 mg",
+   "D": "Vit C 500 mg, Vit E 400 IU, lutein 10 mg, zeaxanthin 2 mg, zinc oxide 80 mg, Cupric oxide 2 mg"
+  },
+  "markedAnswer": "C",
+  "explanation": "The original AREDS vitamin formulation consisted of vitamin C, vitamin E, beta carotene, zinc oxide, and cupric oxide. Caution was advised in using beta carotene in heavy smokers since there appeared to be a higher risk of lung cancer for this sub- population of patients. Knowing the components of the original AREDS formulation is high-yield. Knowing the exact dosages is probably not as high yield. The original AREDS formulation was: • vitamin C - 500 mg • vitamin E - 400 IU • beta carotene - 15 mg • zinc oxide - 80 mg • cupric oxide - 2 mg (to prevent zinc-induced anemia)",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 192,
+  "question": "Which of the following is the actual light-sensitive molecule of \"phototransduction\" and is regenerated via the \"visual cycle\"?",
+  "options": {
+   "A": "vitamin A",
+   "B": "opsin",
+   "C": "all-trans retinal",
+   "D": "11-cis retinal"
+  },
+  "markedAnswer": "D",
+  "explanation": "The visual cycle is basically the process by which the light-sensitive molecule, 11- cis retinal, is regenerated for use by the photoreceptors. This 11-cis retinal molecule (which is a derivative of vitamin A) is actually the only light sensitive molecule in the process of visual phototransduction (i.e. converting light energy into electrical signals that will be eventually interpreted as vision). The process of visual phototransduction is summarized in the photo below (top pane):.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 193,
+  "question": "Which type of visible light is particularly harmful to the retina?",
+  "options": {
+   "A": "blue",
+   "B": "green",
+   "C": "yellow",
+   "D": "red"
+  },
+  "markedAnswer": "A",
+  "explanation": "Blue light leads to the formation of the phototoxic compound A2E which damages cytochrome oxidase and leads to RPE death and subsequent photoreceptor death. This is thought to be part of the mechanism of dry ARMD. The carotenoids lutein and zeazanthin are thought to act as blue light filters.",
+  "imageUrl": "/images/fundamentals-oq/p97_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 194,
+  "question": "Which of the following most accurately describes the cycle of rhodopsin?",
+  "options": {
+   "A": "all-trans-retinaldehyde is photolyzed in photoreceptors to 11-cis- retinaldehdye. The all-trans-retinaldehdye is transported to the RPE that then recycles 11-cis-retinaldehyde",
+   "B": "11-cis-retinaldehyde is photolyzed in photoreceptors to all-trans- retinaldehdye. The all-trans-retinaldehdye is transported to Muller cells that then recycles 11-cis-retinaldehyde",
+   "C": "11-cis-retinaldehyde is photolyzed in photoreceptors to all-trans- retinaldehdye. The all-trans-retinaldehdye is transported to the RPE that then recycles 11-cis-retinaldehyde",
+   "D": "all-trans-retinaldehyde is photolyzed in photoreceptors to 11-cis- retinaldehdye. The all-trans-retinaldehdye is transported to Muller cells that then recycles 11-cis-retinaldehyde"
+  },
+  "markedAnswer": "C",
+  "explanation": "The rhodopsin gene is located on chromosome 3. Rhodopsin is the combination of opsin and 11-cis-retinaldehyde. Opsin is synthesized by the photoreceptors. The majority of rhodopsin is located in the plasma membrane of the outer segments. 11- cis-retinaldehyde is photolyzed in photoreceptors to all-trans-retinaldehyde. Light- activated rhodopsin activates transducin which ultimately leads to a hyperpolarization of the cell. The all-trans-retinaldehdye is transported to the RPE that then recycles 11-cis-retinaldehyde.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 195,
+  "question": "Blue light absorbed by the retina is thought to make what phototoxic compound?",
+  "options": {
+   "A": "B3D",
+   "B": "A2E",
+   "C": "C6C",
+   "D": "D49E"
+  },
+  "markedAnswer": "B",
+  "explanation": "Blue light leads to the formation of the phototoxic compound A2E which damages cytochrome oxidase and leads to RPE death and subsequent photoreceptor death. This is thought to be part of the mechanism of dry age-related macular degeneration. The carotenoids lutein and zeaxanthin are thought to act as blue light filters.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 196,
+  "question": "Of what is rhodopsin the combination?",
+  "options": {
+   "A": "transthyretin and 11-cis-retinaldehyde",
+   "B": "opsin and 11-cis-retinaldehyde",
+   "C": "opsin and 11-trans-retinaldehyde",
+   "D": "opsin and transthyretin"
+  },
+  "markedAnswer": "B",
+  "explanation": "The rhodopsin gene is located on chromosome 3. Rhodopsin is the combination of opsin and 11-cis-retinaldehyde. Opsin is synthesized by the photoreceptors. The majority of rhodopsin is located in the plasma membrane of outer segments. 11-cis- retinaldehyde is photolyzed in photoreceptors to 11-trans-retinaldehyde. Light- activated rhodopsin activates transducin which ultimately leads to a hyperpolarization of the cell. The 11-trans is transported to the RPE that then recycles 11-cis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 197,
+  "question": "Describe the cilium that connects the outer to inner rod and cone segments.",
+  "options": {
+   "A": "it has a 9 plus 0 cross-sectional configuration",
+   "B": "it has a 10 plus 0 cross-sectional configuration",
+   "C": "it has a 9 plus 2 cross-sectional configuration",
+   "D": "it has a 9 plus 4 cross-sectional configuration"
+  },
+  "markedAnswer": "A",
+  "explanation": "explanation?? pictures??? - As a general rule (i am not sure how strictly this applies), motile cilia usually have a 9 + 2 microtubule configuration and sensory cilia having a 9 + 0 structure. In colloquial terms, this means there are 9 microtubules running the length of the wall of all cilia, while motile cilia have an additional 2 running down the center of the lumen. there are exceptions, but no use in splitting hairs. ;-) here is an image:.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 198,
+  "question": "What synthesizes opsin?",
+  "options": {
+   "A": "photoreceptors",
+   "B": "Muller cells",
+   "C": "retinal pigment epithelial (RPE) cells",
+   "D": "ganglion"
+  },
+  "markedAnswer": "A",
+  "explanation": "The rhodopsin gene is located on chromosome 3. Rhodopsin is the combination of opsin and 11-cis-retinaldehyde. Opsin is synthesized by the photoreceptors. The majority of rhodopsin is located in the plasma membrane of outer segments.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 199,
+  "question": "Where is the majority of rhodopsin located?",
+  "options": {
+   "A": "plasma membrane of inner segments",
+   "B": "plasma membrane of outer segments",
+   "C": "golgi apparatus of outer segments",
+   "D": "golgi apparatus of inner segments"
+  },
+  "markedAnswer": "B",
+  "explanation": "The rhodopsin gene is located on chromosome 3. Rhodopsin is the combination of opsin and 11-cis-retinaldehyde. Opsin is synthesized by the photoreceptors. The majority of rhodopsin is located in the plasma membrane of outer segments. 11-cis- retinaldehyde is photolyzed in photoreceptors to 11-trans-retinaldehyde. Light- activated rhodopsin activates transducin which ultimately leads to a hyperpolarization of the cell. The 11-trans is transported to the RPE that then recycles 11-cis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 200,
+  "question": "Which membrane surface of the RPE has the Na+K+-ATPase?",
+  "options": {
+   "A": "apical",
+   "B": "basal",
+   "C": "tangential",
+   "D": "transverse"
+  },
+  "markedAnswer": "A",
+  "explanation": "The apical surface has the Na+K+-ATPase. This ATPase transports ions from the subretinal space into the RPE cells. The net flow of ions across this apical surface creates an electrical potential that can be measured. This is the basis of the electrooculogram (EOG).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 201,
+  "question": "What creates most of the viscosity of the vitreous?",
+  "options": {
+   "A": "collagen",
+   "B": "keratin sulfate",
+   "C": "chondroitin",
+   "D": "hyaluronic acid"
+  },
+  "markedAnswer": "D",
+  "explanation": "Hyaluronic acid is found naturally in the body and is also manufactured. It is a cohesive viscoelastic used for anterior chamber maintenance. An example is Healon.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 202,
+  "question": "Light-activated rhodopsin activates which second molecule?",
+  "options": {
+   "A": "integrin",
+   "B": "transducin",
+   "C": "transthyretin",
+   "D": "plasmin"
+  },
+  "markedAnswer": "B",
+  "explanation": "The rhodopsin gene is located on chromosome 3. Rhodopsin is the combination of opsin and 11-cis-retinaldehyde. Opsin is synthesized by the photoreceptors. The majority of rhodopsin is located in the plasma membrane of outer segments. 11-cis- retinaldehyde is photolyzed in photoreceptors to 11-trans-retinaldehyde. Light- activated rhodopsin activates transducin which ultimately leads to a hyperpolarization of the cell. The 11-trans is transported to the RPE that then recycles 11-cis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 203,
+  "question": "Accumulation of what compound is the proposed mechanism of diabetic cataracts?",
+  "options": {
+   "A": "glucose",
+   "B": "HMP",
+   "C": "sorbitol",
+   "D": "albumin"
+  },
+  "markedAnswer": "C",
+  "explanation": "The lens does not have mitochondria to convert a lot of glucose to ATP. When there is an excess of glucose in the lens it is converted by aldose reductase to sorbitol which creates an osmotic gradient.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 204,
+  "question": "Which type of light is thought to penetrate deeper into the lens to cause damage?",
+  "options": {
+   "A": "UVA light",
+   "B": "UVB light",
+   "C": "green light",
+   "D": "red light"
+  },
+  "markedAnswer": "A",
+  "explanation": "UVB (<320 nm) is generally fitered out by the cornea and the ascorbic acid in the aqueous before it reaches the lens. UVA (320-400 nm) penetrates into the lens to generate oxygen free radicals and insoluble protein formation. Glutathione (GSH) is a major oxygen scavenger found in young people that diminishes with age.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 205,
+  "question": "Which molecule is found in aqueous humor at concentrations 10-50 times higher than in plasma?",
+  "options": {
+   "A": "ascorbic acid",
+   "B": "potassium",
+   "C": "sodium",
+   "D": "chloride"
+  },
+  "markedAnswer": "A",
+  "explanation": "Ascorbic acid is also known as vitamin C.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 206,
+  "question": "Which of the lens crystallins constitute the predominant crystallin (by weight) in the human lens?",
+  "options": {
+   "A": "alpha",
+   "B": "beta",
+   "C": "gamma",
+   "D": "phi"
+  },
+  "markedAnswer": "B",
+  "explanation": "Crystallins are water-soluble proteins and constitute >90% of all proteins found in the human lens. It is thought that they help stabilize the lens and help maintain clarity. They also have antioxidant properties that help maintain lens clarity with age. The high refractive index of the lens is also due to a high concentration of these crystallins.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 207,
+  "question": "What are the 3 glycosaminoglycans found in the corneal stroma?",
+  "options": {
+   "A": "keratan sulfate, collagen sulfate, and dermatan sulfate",
+   "B": "integrin sulfate, chondroitin sulfate, and dermatan sulfate",
+   "C": "keratan sulfate, chondroitin sulfate, and dermatan sulfate",
+   "D": "lamellin sulfate, chondroitin sulfate, and dermatan sulfate"
+  },
+  "markedAnswer": "C",
+  "explanation": "The three predominant GAGs that are found in the corneal stroma are: keratan sulfate, chondroitin sulfate, and dermatan sulfate. GAGs are long, unbranched polysaccharides that consist of a repeating disaccharide unit. They are negatively-charged and are usually associated with a small amount of protein to form proteoglycans. GAGs bind large amounts of water and therefore form gel-like structures (e.g. vitreous). They are classified into distinct groups based on the core disaccharide unit: Chondroitin sulfates: most abundant GAG in body; found in cartilage, bones, tendons, and ligaments Keratan sulfates: found in cornea and other connective tissue Dermatan sulfates: found in skin, blood vessels, tendons, lungs Heparins/heparan sulfates: involved in coagulation, angiogenesis, developmental processes Hyaluronates: skin, cartilage, vitreous.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 208,
+  "question": "What is the primary metabolic substrate for the corneal epithelium, stroma, and endothelium, and where does it come from?",
+  "options": {
+   "A": "glucose from the aqueous",
+   "B": "glucose from the tears",
+   "C": "amino acids from the aqueous",
+   "D": "amino acids from the tears"
+  },
+  "markedAnswer": "A",
+  "explanation": "The main metabolic substrate for the corneal epithelial cells, stromal keratocytes, and endothelium is glucose. The primary source (90%) of this glucose is from the aqueous. This glucose is moved via carrier-mediated transport through the endothelium.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 209,
+  "question": "Is lipid solubility or water solubility more important for corneal penetration, and why?",
+  "options": {
+   "A": "neither is important",
+   "B": "lipid solubility is more important because of the epithelial barrier",
+   "C": "water solubility is more important because of the epithelial barrier",
+   "D": "lipid solubility is more important because of the stromal barrier"
+  },
+  "markedAnswer": "B",
+  "explanation": "The initial barrier of entry into the cornea is the lipophilic (\"lipid-loving\") corneal epithelium. Getting across this inital \"hurdle\" is key. In contrast, the corneal stroma is hydrophilic (\"water-loving\") meaning that polar compounds will have an easier time traversing it.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 210,
+  "question": "What is the primary route of ATP production in the crystalline lens?",
+  "options": {
+   "A": "aerobic glycolysis",
+   "B": "HMP shunt",
+   "C": "anaerobic glycolysis",
+   "D": "xylose metabolism"
+  },
+  "markedAnswer": "C",
+  "explanation": "ATP is produced in the lens primarily via anaerobic glycolysis in metabolically- active cells in its anterior portion. Anaerobic metabolism is required since the lens has a very low oxygen tension (i.e. via passive diffusion from the surrounding aqueous).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ }
+]

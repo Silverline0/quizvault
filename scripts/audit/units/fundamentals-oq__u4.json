@@ -1,0 +1,842 @@
+[
+ {
+  "id": 211,
+  "question": "Which of the following statements most accurately describes the ionic composition inside the lens?",
+  "options": {
+   "A": "sodium low, potassium low",
+   "B": "sodium high, potassium high",
+   "C": "sodium low, potassium high",
+   "D": "sodium high, potassium low"
+  },
+  "markedAnswer": "C",
+  "explanation": "The Na+/K+-ATPase (sodium-potassium adenosine triphosphatase) regulates the ionic composition inside the lens. This enzyme pumps sodium OUT of the lens and potassium INTO the lens. Therefore, relative to the aqueous, sodium levels are low (10 mmol/L) and potassium levels are high (˜120 mmol/L) inside the lens. This gradient creates an ionic current IN at the anterior and posterior poles and OUT at the equatorial region.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 212,
+  "question": "Which of the lens crystallins is the largest in size?",
+  "options": {
+   "A": "alpha",
+   "B": "beta",
+   "C": "gamma",
+   "D": "phi"
+  },
+  "markedAnswer": "A",
+  "explanation": "Crystallins are proteins found in the lens. It is thought that they help stabilize the lens. They also have anti-oxidant properties that help maintain lens clarity with age.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 213,
+  "question": "What was the effect of high levels of vitamin E, C, and beta carotene on the incidence of cataracts as was tested in the AREDS and Vitamin E, Cataract and Age-Related Maculopathy Trial (VECAT) trials?",
+  "options": {
+   "A": "reduced nuclear cataracts",
+   "B": "increased cataracts",
+   "C": "no effect on cataracts",
+   "D": "reduced cortical cataracts"
+  },
+  "markedAnswer": "C",
+  "explanation": "These two prospective trials showed that high dose vitamin supplements didn't reduce the incidence nor the progression of cataracts.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 214,
+  "question": "What mechanism is most responsible for aqueous humor formation?",
+  "options": {
+   "A": "diffusion",
+   "B": "ultrafiltration",
+   "C": "osmosis",
+   "D": "active secretion"
+  },
+  "markedAnswer": "D",
+  "explanation": "Aqueous humor is produced by the ciliary processes of the ciliary body via a few different mechanisms. These mechanisms are either \"passive\" (diffusion and ultrafiltration) or \"active\" (i.e. \"active secretion\" which is energy- dependent).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 215,
+  "question": "What lens zonule material is defective in Marfan's syndrome and results in a high rate of ectopia lentis?",
+  "options": {
+   "A": "keratin",
+   "B": "fibrillin",
+   "C": "laminin",
+   "D": "fibronectin"
+  },
+  "markedAnswer": "B",
+  "explanation": "Marfan syndrome patients commonly exhibit superotemporal lens dislocation (ectopia lentis). The mechanism of lens instability in Marfan syndrome is secondary to abnormal fibrillin.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 216,
+  "question": "Describe the corneal epithelium and stroma in terms of lipophilicity.",
+  "options": {
+   "A": "epithelium is lipophilic; stroma is hydrophilic",
+   "B": "epithelium is hydrophilic; stroma is lipophilic",
+   "C": "epithelium and stroma are both hydrophilic",
+   "D": "epithelium and stroma are both lipophilic"
+  },
+  "markedAnswer": "A",
+  "explanation": "The corneal epithelium is hydrophobic (\"fears water\") and lipophilic (i.e. \"loves lipid\") while the corneal stroma is the opposite (i.e. hydrophilic [loves water] and lipophobic (\"fears lipid\"). The corneal endothelium is similar to the epithelium in this regard (i.e. hydrophobic/lipophilic).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 217,
+  "question": "What is the lipophilicity of the corneal epithelium and stroma respectively?",
+  "options": {
+   "A": "epithelium is lipophilic; stroma is hydrophilic",
+   "B": "epithelium is hydrophilic; stroma is lipophilic",
+   "C": "epithelium and stroma are both hydrophilic",
+   "D": "epithelium and stroma are both lipophilic"
+  },
+  "markedAnswer": "A",
+  "explanation": "The corneal epithelium is hydrophobic (\"fears water\") and lipophilic (i.e. \"loves lipid\") while the corneal stroma is the opposite (i.e. hydrophilic [loves water] and lipophobic (\"fears lipid\"). The corneal endothelium is similar to the epithelium in this regard (i.e. hydrophobic/lipophilic).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 218,
+  "question": "What is the name for the tonic slow muscle fibers?",
+  "options": {
+   "A": "Felderstruktur",
+   "B": "Fibrillenstruktur",
+   "C": "Schwartz",
+   "D": "Holliday"
+  },
+  "markedAnswer": "A",
+  "explanation": "The tonic slow muscle fibers are Felderstruktur.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 219,
+  "question": "What is the \"Felderstruktur neuromuscular junction\" and what type of movement are they responsible for?",
+  "options": {
+   "A": "En plaque and saccadic movements",
+   "B": "En plaque and smooth pursuit movements",
+   "C": "En grappe and saccadic movements",
+   "D": "En grappe and smooth pursuit movements"
+  },
+  "markedAnswer": "D",
+  "explanation": "Fibrillenstruktur muscles use en plaque neuromuscular junctions and are responsible for saccadic movements.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 220,
+  "question": "What is the \"Fibrillenstruktur neuromuscular junction\" and for what type of movement are they responsible?",
+  "options": {
+   "A": "En plaque and saccadic movements",
+   "B": "En plaque and smooth pursuit movements",
+   "C": "En grappe and saccadic movements",
+   "D": "En grappe and smooth pursuit movements"
+  },
+  "markedAnswer": "A",
+  "explanation": "Fibrillenstruktur muscles use en plaque neuromuscular junctions and are responsible for saccadic movements.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 221,
+  "question": "What is the name for the twitch-type muscle fibers found in eye muscles?",
+  "options": {
+   "A": "Felderstruktur",
+   "B": "Fibrillenstruktur",
+   "C": "Schwartz",
+   "D": "Holliday"
+  },
+  "markedAnswer": "B",
+  "explanation": "The tonic slow muscle fibers are Felderstruktur. The twitch-type muscle fibers are Fibrillenstruktur.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 222,
+  "question": "What are the two most common ocular findings seen in Lowe syndrome?",
+  "options": {
+   "A": "congenital cataracts and glaucoma",
+   "B": "congenital cataracts and retinal detachment",
+   "C": "glaucoma and corneal clouding",
+   "D": "glaucoma and optic nerve hypoplasia"
+  },
+  "markedAnswer": "A",
+  "explanation": "Patients with Lowe syndrome present with glaucoma, cataracts, renal tubular dysfunction, and intellectual disability.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 223,
+  "question": "With which mutation are aniridia, posterior embryotoxon, Peters anomaly, Axenfeld anomaly, and congenital cataract all associated?",
+  "options": {
+   "A": "PAX2",
+   "B": "PAX4",
+   "C": "PAX6",
+   "D": "PAX8"
+  },
+  "markedAnswer": "C",
+  "explanation": "PAX6 is associated with aniridia, posterior embryotoxon, Peters anomaly, Axenfeld anomaly, and congenital cataracts.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 224,
+  "question": "An 8-year-old mentally impaired child presents to your clinic for a routine exam. On exam, you note that about 50% of his iris is absent. You examine both of his parents and find that they have normal irises. Which of the following tests should you order?",
+  "options": {
+   "A": "cardiac echo",
+   "B": "abdominal ultrasound",
+   "C": "colonoscopy",
+   "D": "esophagogastroduodenoscopy (EGD)"
+  },
+  "markedAnswer": "B",
+  "explanation": "This patient has aniridia. Remember, that aniridia is not a lack of iris. Rather, the majority of cases have a residual stump of iris that often overlaps the trabecular meshwork (TM) and leads to glaucoma. His parents had normal irides which leads you to the conclusion that this is sporadically inherited aniridia. Wilms, aniridia, genitourinary defects, and intellectual disability are associated with the nonfamilial form of aniridia (WAGR complex). Therefore, an abdominal ultrasound must be administered to rule out a Wilms tumor.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 225,
+  "question": "Leber hereditary optic neuropathy (LHON) is a result of what enzyme deficiency?",
+  "options": {
+   "A": "NADH dehydrogenase",
+   "B": "alpha-galactosidase A",
+   "C": "sphingomyelinase",
+   "D": "N-acetyl-alpha-D-glucosaminidase"
+  },
+  "markedAnswer": "A",
+  "explanation": "A deficiency of the enzyme, NADH dehydrogenase, causes LHON. The most common single base change occurs at nucleotide 11778 of the ND-4 gene. This leads to an abnormality of mitochondrial NADH dehydrogenase and thus impaired ATP production. Highly energy-dependent tissues, like the optic nerve, are therefore severely affected.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 226,
+  "question": "What cellular element is abnormal in Leber hereditary optic neuropathy?",
+  "options": {
+   "A": "plasma membrane",
+   "B": "endoplasmic reticulum",
+   "C": "mitochondria",
+   "D": "golgi apparatus"
+  },
+  "markedAnswer": "C",
+  "explanation": "The most common nucleotide deletion position of Lebers is 11778. This leads to an abnormality in the NADH dehydrogenase of the mitochondria. It manifests in males aged 10-30 years old. It presents as an acute, severe (<20/200), painless, monocular visual loss with central scotoma. There are three findings that are classic: 1) elevation of the disc; 2) peripapillary telangiectasia; and 3) retinal arteriolar tortuosity. The second optic nerve becomes involved weeks to months later.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 227,
+  "question": "Microspherophakia is most commonly associated with which systemic condition?",
+  "options": {
+   "A": "homocystinuria",
+   "B": "fetal alcohol syndrome (FAS)",
+   "C": "Marfan syndrome",
+   "D": "Weill-Marchesani syndrome"
+  },
+  "markedAnswer": "D",
+  "explanation": "There are no formal criteria for the diagnosis of Weill-Marchesani syndrome (WMS). Some abnormalities in this syndrome include ectopia lentis, joint stiffness, heart defects, a broad head (brachycephaly), and microspherakia. One way to remember WMS is that its phenotype is somewhat the opposite of Marfan's syndrome patients who are tall, have long limbs, and hyperflexible joints.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 228,
+  "question": "Which of the following is an important homeobox gene found in the eye?",
+  "options": {
+   "A": "PAX2",
+   "B": "PAX4",
+   "C": "PAX6",
+   "D": "PAX8"
+  },
+  "markedAnswer": "C",
+  "explanation": "PAX6 is associated with aniridia, posterior embryotoxon, Peters anomaly, Axenfeld anomaly, and congenital cataracts. 1/3 of cases of aniridia are sporadically inherited. About 2/3 are inherited autosomal dominantly. The WAGR complex is secondary to a PAX6 mutation and is associated with the sporadically inherited form (Wilms tumor, Aniridia, Gentourinary abnormalities, and Retardation). Wilms tumor is a kidney tumor that can be imaged with an abdominal ultrasound. A high percentage of aniridic patients develop cataracts. Also, because most aniridic patients have a small residual stump of remaining iris, glaucoma occurs to a high degree in these patients.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 229,
+  "question": "Where is the rhodopsin gene located?",
+  "options": {
+   "A": "chromosome 1",
+   "B": "chromosome 2",
+   "C": "chromosome 3",
+   "D": "chromosome 7"
+  },
+  "markedAnswer": "C",
+  "explanation": "The rhodopsin gene is located on chromosome 3. Rhodopsin is the combination of opsin and 11-cis-retinaldehyde. Opsin is synthesized by the photoreceptors. The majority of rhodopsin is located in the plasma membrane of outer segments. 11-cis- retinaldehyde is photolyzed in photoreceptors to 11-trans-retinaldehyde. Light- activated rhodopsin activates transducin which ultimately leads to a hyperpolarization of the cell. The 11-trans is transported to the RPE that then recycles 11-cis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 230,
+  "question": "On what chromosome are the genes encoding for the L and M cone opsins located?",
+  "options": {
+   "A": "Y chromosome",
+   "B": "chromosome 3",
+   "C": "chromosome 7",
+   "D": "X chromosome"
+  },
+  "markedAnswer": "D",
+  "explanation": "Opsins are involved with color vision. There are three types of opsins in the normal person. Mammals have both M cones and S cones. This system gives blue/yellow color vision. In primates, the M cones are split into two groups: the L and M cones. This system gives red/green color vision.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 231,
+  "question": "What is the inheritance pattern of chronic progressive external ophthalmoplegia?",
+  "options": {
+   "A": "X-linked recessive",
+   "B": "X-linked dominant",
+   "C": "maternal",
+   "D": "autosomal recessive"
+  },
+  "markedAnswer": "C",
+  "explanation": "One syndrome that is often asked about is Kearns-Sayre syndrome. This syndrome has chronic progressive external ophthalmoplegia (CPEO) with heart block and severe retinitis pigmentosa (RP). If you suspect Kearns-Sayre you should order a cardiology consult.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 232,
+  "question": "What condition has bilateral optic nerve hypoplasia and absent septum pellucidum?",
+  "options": {
+   "A": "Marfan syndrome",
+   "B": "Gardner's syndrome",
+   "C": "de Morsier syndrome",
+   "D": "Weill-Marchesani syndrome"
+  },
+  "markedAnswer": "C",
+  "explanation": "Young patients with findings of optic nerve hypoplasia need an MRI to evaluate the septum pellucidum and pituitary gland. Approximately 15% of patients with optic nerve hypoplasia will have pituitary abnormalities. Therefore, endocrine evaluation for pituitary hypoplasia is very important if you have a patient with optic nerve hypoplasia and/or de Morsier syndrome. These patients need to be treated so that they do not develop hypoglycemic seizures or growth retardation. Missing life threatening illnesses is never good on tests.",
+  "imageUrl": "/images/fundamentals-oq/p116_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 233,
+  "question": "What syndrome is characterized by chronic progressive external ophthalmoplegia (CPEO), heart block, and severe retinitis pigmentosa (RP)?",
+  "options": {
+   "A": "Lowe syndrome",
+   "B": "Kearns-Sayre syndrome",
+   "C": "Weill-Marchesani syndrome",
+   "D": "Fuchs deviation"
+  },
+  "markedAnswer": "B",
+  "explanation": "The classic clinical findings of Kearns-Sayre syndrome are: chronic progressive external ophthalmoplegia (CPEO), retinal pigmentary changes, and cardiomyopathy. An EKG is necessary to diagnose the presence of possible heart block.",
+  "imageUrl": "/images/fundamentals-oq/p116_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 234,
+  "question": "A 32-year-old male presents for routine follow-up. He has a history of aniridia and is being followed for low vision, corneal decompensation, and glaucoma. Previous workup demonstrated a heterozygous mutation in PAX6. PAX6 (PAired homeoboX 6) is a homeobox gene. Which of the following describes the function of a homeobox gene?",
+  "options": {
+   "A": "Causes lyonization",
+   "B": "Induces programmed cell death",
+   "C": "Regulates cell division and replication",
+   "D": "Regulates gene expression and cell differentiation during embryogenesis"
+  },
+  "markedAnswer": "D",
+  "explanation": "A homeobox (Hox gene) is a gene that regulates the pattern of anatomical development during embryogenesis. Homeobox genes share approximately 180 base pairs which encodes the homeodomain, a sequence of 60 amino acids. The homeodomain protein product is a transcription factor that binds to DNA promoter sequences and can determine cell differentiation during embryogenesis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 235,
+  "question": "What is the most common nucleotide substitution position in Leber hereditary optic neuropathy (LHON)?",
+  "options": {
+   "A": "position 11779",
+   "B": "position 11778",
+   "C": "position 11777",
+   "D": "position 11776"
+  },
+  "markedAnswer": "B",
+  "explanation": "LHON development is associated with a single nucleotide base change of \"G\" to \"A\" at nucleotide position 11778 in the ND-4 gene. This leads to an abnormality of NADH dehydrogenase of the mitochondria.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 236,
+  "question": "What percentage of carbonic anhydrase enzyme in the eye has to be inhibited before a significant lowering of intraocular pressure (IOP) occurs?",
+  "options": {
+   "A": "50%",
+   "B": "60%",
+   "C": "85%",
+   "D": "99%"
+  },
+  "markedAnswer": "D",
+  "explanation": "Kinetic analyses have demonstrated that there is 100 times more carbonic anhydrase enzyme in the ciliary body than is needed to produce aqueous humor. Therefore, more than 99% of this enzyme must be inhibited before a significant decrease in IOP occurs. The 2011 BCSC Fundamentals notes in two different sections that greater than 99% needs to be inhibited to lower pressure. There is slight confusion on this topic because the Glaucoma section says that more than 90% needs to be inhibited to lower pressure. But our feeling is to go with the more technical information based on kinetic analyses and go with greater than 99%.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 237,
+  "question": "What unique side effect is seen with epinephrine eyedrop use for glaucoma patients?",
+  "options": {
+   "A": "Arlt's line formation",
+   "B": "intractable follicular reaction",
+   "C": "black conjunctival deposits",
+   "D": "prolongation of paralysis if used with depolarizing general anesthetics"
+  },
+  "markedAnswer": "C",
+  "explanation": "Epinephrine was a glaucoma eyedrop that was formerly used in the United States. It is no longer commercially available. Its use is associated with significant systemic and ocular side effects which include headache, palpitations, and arrhythmias.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 238,
+  "question": "Which of the following medications is contraindicated in acute angle-closure glaucoma?",
+  "options": {
+   "A": "prostaglandin",
+   "B": "beta blocker",
+   "C": "pilocarpine 1%",
+   "D": "pilocarpine 4%"
+  },
+  "markedAnswer": "D",
+  "explanation": "Pilocarpine 4% is contraindicated in acute angle-closure glaucoma because it shifts the lens iris diaphragm forward. Patients are generally placed on pilocarpine 1% so that a YAG PI can be placed.",
+  "imageUrl": "/images/fundamentals-oq/p120_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 239,
+  "question": "What beta blocker is beta-1 selective and therefore has less respiratory side effects?",
+  "options": {
+   "A": "timolol",
+   "B": "levobunolol",
+   "C": "betaxolol",
+   "D": "metipranolol"
+  },
+  "markedAnswer": "C",
+  "explanation": "Presently, betaxolol (brand name: Betoptic) is the only selective beta-1 antagonist topical glaucoma medication. As such, it has much less negative side effects on the pulmonary, central nervous, and other systemic systems. The trade-off in using betaxolol is that it is not as effective in lowering IOP compared to the non-selective beta blockers like timolol.",
+  "imageUrl": "/images/fundamentals-oq/p120_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 240,
+  "question": "What allergy should you ask about before prescribing acetazolamide (brand name: Diamox)?",
+  "options": {
+   "A": "amide -caines",
+   "B": "ester -caines",
+   "C": "sulfa",
+   "D": "penicillin"
+  },
+  "markedAnswer": "C",
+  "explanation": "More accurately, patients should avoid acetazolamide if they have a sulfonamide allergy. Most physicians will give methazolamide if patients are allergic to sulfa. Ironically, methazolamide contains sulfa. However, there is a ring structure in acetazolamide that makes patients more prone to sulfa allergies and to react in a more violent manner than if they take methazolamide (which does not have the ring moiety).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 241,
+  "question": "In patients with a ruptured posterior lens capsule, what side effect has been associated with prostaglandin analog (PGA) eyedrop use (e.g. latanoprost)?",
+  "options": {
+   "A": "corneal edema",
+   "B": "glaucoma",
+   "C": "cystoid macular edema",
+   "D": "retinal detachment"
+  },
+  "markedAnswer": "C",
+  "explanation": "The association of cystoid macular edema (CME) and PGA eyedrop use was originally reported with Xalatan (i.e. latanoprost). There is still considerable debate whether the prostaglandin-analogs significantly increase the risk of post-operative CME. However, if faced with a patient with active CME or a post-operative patient with risks factors for its development (e.g. ruptured posterior capsule), it is probably prudent for the clinician to use another ocular hypotensive.",
+  "imageUrl": "/images/fundamentals-oq/p122_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 242,
+  "question": "What fatal side effect has been most associated with systemic mannitol and/or urea that are utilized to acutely decrease elevated intraocular pressure (IOP)?",
+  "options": {
+   "A": "brain aneurysm",
+   "B": "subarachnoid hemorrhage",
+   "C": "aortic dissection",
+   "D": "carotid dissection"
+  },
+  "markedAnswer": "B",
+  "explanation": "Both mannitol and urea are administered intravenously since the former cannot be absorbed from the gastrointestinal tract and the latter tastes very bad. Both agents have been associated with subarachnoid hemorrhage due to acute volume overload and/or rapid brain shrinkage which perhaps places traction on the subarachnoid vessels. The elderly are at increased risk for this fatal side effect since their brain matter is already shrunken.",
+  "imageUrl": "/images/fundamentals-oq/p122_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 243,
+  "question": "After how many months of steroid use will a steroid-induced rise in intraocular pressure (IOP) be permanent?",
+  "options": {
+   "A": "6 months",
+   "B": "12 months",
+   "C": "18 months",
+   "D": "24 months"
+  },
+  "markedAnswer": "C",
+  "explanation": "When the clinician uses any form of corticosteroid to treat ocular inflammation, he or she must be cognizant of the risk of steroid-induced elevation of IOP. For example, approximately 5% of patients will develop an IOP > 31 mmHg after 6 weeks of treatment with topical dexamethasone.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 244,
+  "question": "What of the following eye drugs is a direct cholinergic agonist?",
+  "options": {
+   "A": "pilocarpine",
+   "B": "physostigmine",
+   "C": "phenylephrine",
+   "D": "tropicamide"
+  },
+  "markedAnswer": "A",
+  "explanation": "Physostigmine acts by inhibiting acetylcholinesterase. Therefore, it is an indirect cholinergic. Another indirect cholinergic is echothiophate iodide(i.e. Phospholine iodide).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 245,
+  "question": "Epinephrine is most accurately described with which of the following?",
+  "options": {
+   "A": "mydriatic and cycloplegic",
+   "B": "mydriatic and not cycloplegic",
+   "C": "cycloplegic and not mydriatic",
+   "D": "neither cycloplegic nor mydriatic"
+  },
+  "markedAnswer": "B",
+  "explanation": "Adrenergic agents are generally primarily mydriatics. You have to add an anticholinergic agent if you want to suppress the cholinergically induced response of accommodation. That is why you add cyclogyl if you are interested in a cycloplegic refraction.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 246,
+  "question": "What cholinesterase inhibitor is classically used in accommodative esotropia?",
+  "options": {
+   "A": "physostigmine",
+   "B": "echothiophate",
+   "C": "phenylephrine 2.5%",
+   "D": "succinylcholine"
+  },
+  "markedAnswer": "B",
+  "explanation": "Echothiophate (brand name: Phospholine Iodide) is an indirect-acting muscarinic receptor agonist that works by inactivating acetylcholinesterase, thus prolonging the action of acetylcholine that is naturally released at the neuromuscular junction.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 247,
+  "question": "Anticholinergics are most accurately described with which of the following?",
+  "options": {
+   "A": "mydriatic and cycloplegic",
+   "B": "mydriatic and not cycloplegic",
+   "C": "cycloplegic and not mydriatic",
+   "D": "neither cycloplegic nor mydriatic"
+  },
+  "markedAnswer": "A",
+  "explanation": "Adrenergic agents are generally primarily mydriatics. You have to add an anticholinergic agent if you want to suppress the cholinergically induced response of accommodation. That is why you add cyclogyl if you are interested in a cycloplegic refraction. Anticholinergic agents are both mydriatic and cycloplegic.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 248,
+  "question": "How do you prevent the pupillary border abnormality (seen in the photo above) in children using chronic echothiophate eyedrops for accommodative esotropia?",
+  "options": {
+   "A": "topical atropine eyedrops",
+   "B": "topical phospholine iodide eyedrops",
+   "C": "topical phenylephrine 2.5% eyedrops",
+   "D": "topical loteprednol eyedrops"
+  },
+  "markedAnswer": "C",
+  "explanation": "Echothiophate is an indirect-acting muscarinic receptor agonist that works by inactivating acetylcholinesterase, thus prolonging the action of acetylcholine that is naturally-released at the neuromuscular junction.",
+  "imageUrl": null,
+  "stemReferencesFigure": true,
+  "figureMissing": true
+ },
+ {
+  "id": 249,
+  "question": "Which of the following is a main action of direct acting muscarinic agonists?",
+  "options": {
+   "A": "mydriasis",
+   "B": "induction of a higher overall dioptric power to the eye's refractive state",
+   "C": "decreased aqueous outflow through the trabecular meshwork",
+   "D": "increased aqueous outflow through the uveoscleral pathway"
+  },
+  "markedAnswer": "B",
+  "explanation": "The three main actions of direct acting muscarinic agonists are: miosis, accommodation, and increased aqueous outflow. Accommodation causes the lens to acquire a more spherical shape thus adding refractive power to the overall refractive state of the eye. Accommodation occurs through circular muscle constriction. The longitudinal muscle of the ciliary body attaches to the scleral spur. Contracture of the longitudinal muscle causes tension on the scleral spur which opens the trabecular meshwork. Direct acting muscarinic agonists (Pilocarpine) cause longitudinal muscle contraction.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 250,
+  "question": "Which of the following patients would hate pilocarpine 1% the most?",
+  "options": {
+   "A": "23-year-old with a plano manifest refraction",
+   "B": "23-year-old with a +2.00 diopter manifest refraction",
+   "C": "72-year-old with a +1.00 diopter manifest refraction",
+   "D": "72-year-old with a +1.00 diopter cycloplegic refraction"
+  },
+  "markedAnswer": "A",
+  "explanation": "Pilocarpine induces miosis and accommodation. The 72-year-old patient has little accommodative reserve left and will not likely have a refractive change. Younger patients have ample accommodative ability. Giving them a drug that stimulates accommodation will essentially make them more myopic. The patient with a plano refraction will become more myopic and thus symptomatic especially for distance viewing. The young hyperopic patient would actually be closer to plano with pilocarpine use.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 251,
+  "question": "Which sequence is in the proper order, from longest to shortest, regarding the duration of action of these mydriatics/cycloplegics?",
+  "options": {
+   "A": "scopolamine > atropine > homatropine >cyclopentolate > tropicamide > phenylephrine",
+   "B": "atropine > homatropine > scopolamine > cyclopentolate > tropicamide > phenylephrine",
+   "C": "atropine > homatropine > scopolamine > cyclopentolate > phenylephrine > tropicamide",
+   "D": "atropine > scopolamine > homatropine > cyclopentolate > tropicamide > phenylephrine"
+  },
+  "markedAnswer": "D",
+  "explanation": "The duration of action of these mydriatics/cycloplegics is as follows: • phenylephrine - 3 to 5 hours • tropicamide - 4-6 hours • cyclopentolate - 2 days • homatropine - 3 days • scopolamine - 4-7 days • atropine - 7-14 days Comments: My memory cue: ASH-CT.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 252,
+  "question": "\" What would be the most accurate response to her question?",
+  "options": {
+   "A": "\"Yes, you are correct - they are the same chemical.\"",
+   "B": "\"Actually, Miochol is short-acting and Miostat lasts for 24 hours.\"",
+   "C": "\"Actually, Miostat is short-acting and Miochol lasts for 24 hours.\"",
+   "D": "\"Actually, Miochol is carbachol and Miostat is acetylcholine but both are short-acting.\""
+  },
+  "markedAnswer": "B",
+  "explanation": "The generic of Miochol® is acetylcholine and the generic of Miostat® is carbachol. When administered intracamerally, both medications rapidly constrict the pupil. This miotic effect is useful when trying to determine if there is vitreous prolapse into the anterior chamber. If there is a vitreous strand emanating into the anterior chamber, the pupil is often peaked against the taut strand of vitreous. Miosis accentuates this \"peaking\", thus making complete anterior vitrectomy much easier.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 253,
+  "question": "Which of the following ocular medications are alpha-2 selective agonists?",
+  "options": {
+   "A": "iopidine and dorzolamide",
+   "B": "phenylephrine and apraclonidine",
+   "C": "apraclonidine and brimonidine",
+   "D": "brimonidine and phenylephrine"
+  },
+  "markedAnswer": "C",
+  "explanation": "The main alpha-1 adrenergic agonist that is used in the eye care profession is phenylephrine which is used for dilation purposes. It achieves dilation by directly stimulating the iris dilator muscle.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 254,
+  "question": "Which of the following mydriatic medications is also a cycloplegic medication?",
+  "options": {
+   "A": "alphagan",
+   "B": "phenylephrine",
+   "C": "tropicamide",
+   "D": "apraclonidine"
+  },
+  "markedAnswer": "C",
+  "explanation": "Tropicamide is an anticholinergic. And as such, it is both a mydriatic and a cycloplegic agent. For \"cycloplegic\" refractions, people generally use cyclopentolate because it has a longer-acting effect and gives greater cycloplegia.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 255,
+  "question": "What drug is a alpha1 adrenergic blocking agent that causes miosis without affecting accommodation?",
+  "options": {
+   "A": "dapiprazole",
+   "B": "pilocarpine",
+   "C": "physostigmine",
+   "D": "dorzolamide"
+  },
+  "markedAnswer": "A",
+  "explanation": "Dapiprazole also known as rev-eyes is given after dilation. Rev-eyes causes pupillary miosis but the person's accommodation is not reversed.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 256,
+  "question": "What is the most commonly used direct-acting, alpha-1 adrenergic agonist used by eye care professionals?",
+  "options": {
+   "A": "phenylephrine",
+   "B": "epinephrine",
+   "C": "brimonidine",
+   "D": "dipivefrin"
+  },
+  "markedAnswer": "A",
+  "explanation": "The main alpha-1 adrenergic agonist that is used in the eye care profession is phenylephrine which is used for dilation purposes. It achieves dilation by directly stimulating the iris dilator muscle. One must remember that the iris sphincter, which is parasympathetically-innervated, is stronger than the iris dilator. Therefore, dilation with only phenylephrine is oftentimes not sufficient to provide adequate dilation especially during the ophthalmic exam which uses bright lights. Thus, cycloplegia (e.g. tropicamide) should also be provided.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 257,
+  "question": "What are two categories of cholinergic receptors?",
+  "options": {
+   "A": "postganglionic autonomic receptor and postganglionic parasympathetic muscarinic receptors",
+   "B": "preganglionic autonomic receptor and postganglionic parasympathetic muscarinic receptors",
+   "C": "preganglionic autonomic receptor and preganglionic parasympathetic muscarinic receptors",
+   "D": "preganglionic autonomic receptor and postganglionic sympathetic muscarinic receptors"
+  },
+  "markedAnswer": "B",
+  "explanation": "Cholinergic receptors are by definition sensitive to acetylcholine. But they can be broken down to their response to other compounds as well. The two categories of cholinergic receptors are: muscarinic receptors which are supplied by postganglionic parasympathetic nerves and nicotinic receptors which are supplied by somatic motor and preganglionic autonomic nerves. Anesthesia:.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 258,
+  "question": "What is the mechanism of action of the anesthetic lidocaine?",
+  "options": {
+   "A": "release of calcium from the sarcoplasmic reticulum within axons",
+   "B": "increase in axonal cAMP levels",
+   "C": "blockage of axonal sodium channels",
+   "D": "blockage of axonal potassium channels"
+  },
+  "markedAnswer": "C",
+  "explanation": "Lidocaine (as well as other anesthetics in this drug class) increases the threshold for electrical excitability and eventually blocks nerve conduction by blocking axonal sodium channels.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 259,
+  "question": "Which of the following agents should not be used during ruptured globe repairs?",
+  "options": {
+   "A": "midazolam",
+   "B": "succinylcholine",
+   "C": "fentanyl",
+   "D": "halothane"
+  },
+  "markedAnswer": "B",
+  "explanation": "Depolarizing nicotinic antagonists used for general anesthesia, like succinylcholine, can cause simultaneous depolarization of the extraocular muscles. This effect can lead to unwanted extraocular muscle contraction and extrusion of the intraocular contents through an ocular laceration.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 260,
+  "question": "Which of the following is a known systemic side effect of retrobulbar lidocaine injection?",
+  "options": {
+   "A": "increased cough",
+   "B": "miosis",
+   "C": "tachypnea",
+   "D": "drowsiness"
+  },
+  "markedAnswer": "D",
+  "explanation": "Lidocaine is an amide local anesthetic that comes in strengths of 0.5%, 1%, and 2% (with or without epinephrine) for injection. When administered as part of a retrobulbar block, it causes ocular anesthesia and akinesia within 5-minutes and lasts for approximately 1-2 hours. Some possible systemic side effects: • Supression of cough (which can be quite useful). • Decreased respiratory rate (even respiratory arrest). • Drowsiness. Comments: - Lidocaine makes you so tired that you can't cough or even breathe.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 261,
+  "question": "Intraoperative prostaglandin (PG)-mediated miosis is prevented by which medication which is used commonly before cataract surgery?",
+  "options": {
+   "A": "phenylephrine",
+   "B": "flurbiprofen",
+   "C": "tropicamide",
+   "D": "dapiprazole"
+  },
+  "markedAnswer": "B",
+  "explanation": "Topical NSAIDs such as flurbiprofen 0.003% (brand name: Ocufen) and suprofen 1% (Profenal) are commonly administered prior to cataract surgery for the prevention of PG-mediated pupillary miosis during ocular surgery. Many surgeons will also start their normal topical NSAID a day (or more) before cataract surgery to prevent miosis and also with the belief that it will prevent post-operative cystoid macular edema (CME). However, the data behind the prevention of CME with the use of topical NSAIDs is somewhat controversial. Intracameral ketorolac 0.3% with phenylephrine 1% (brand name: Omidria) is also commercially available to prevent intraoperative miosis. Phenylephrine is an alpha-1-adrenergic agonist which is commonly used for pupillary dilation. It achieves dilation by directly stimulating the iris dilator muscle. One must remember that the iris sphincter, which is parasympathetically-innervated, is stronger than the iris dilator. Therefore, dilation with only phenylephrine is oftentimes not sufficient to provide adequate dilation especially if the eye is exposed to very bright lights (e.g. operating microscope). Thus, cycloplegia (e.g. with an anticholinergic like tropicamide) should also be provided.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 262,
+  "question": "What lifestyle risk factor should you ask about when prescribing AREDS supplements?",
+  "options": {
+   "A": "gastric cancer",
+   "B": "prostate cancer",
+   "C": "smoking history",
+   "D": "kidney stones"
+  },
+  "markedAnswer": "C",
+  "explanation": "Smoking and beta carotene increase the risk of lung cancer. When prescribing AREDs supplements to smokers, choose the one that does not contain beta carotene.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 263,
+  "question": "Which of the following medications is the prodrug of acyclovir?",
+  "options": {
+   "A": "ganciclovir",
+   "B": "famciclovir",
+   "C": "valacyclovir",
+   "D": "penciclovir"
+  },
+  "markedAnswer": "C",
+  "explanation": "Valacyclovir is the amino acid ester prodrug of acyclovir and has a much higher bioavailability compared to acyclovir alone (54% vs 20%). It is typically dosed at 1 gram tid for 7-14 days when used for herpes zoster (HZV) infections.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 264,
+  "question": "A 12-year-old boy is brought to the emergency room in severe distress. His mother states that the boy has been having trouble breathing, is urinating all over the place, and is sweating profusely. On examination, his heart rate is 30 beats per minute and his pupils are 1 mm in size OU. The mother states that, \"He was just playing at our next-door neighbor's farm.\" What is the most appropriate treatment for this child?",
+  "options": {
+   "A": "intramuscular epinephrine",
+   "B": "intravenous phenytoin",
+   "C": "intramuscular parathion",
+   "D": "pralidoxime"
+  },
+  "markedAnswer": "D",
+  "explanation": "This child presents with excessive parasympathetic activity as evidenced by his excessive sweating, urination, and bradycardia. These signs are most likely caused by excessive acetylcholine in his body as a result of pesticide poisoning while playing at the farm. An example of a classic insecticide is parathion which is an indirect acetylcholinesterase inhibitor. A mnemonic that can be used to remember the signs of parasympathetic hyperactivity is DUMBELLS: Diarrhea, Urination, Miosis, Bradycardia, Bronchoconstriction, Emesis, Lacrimation, Salivation, Sweating, Secretion.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 265,
+  "question": "Which of the following medications is NOT considered a prodrug?",
+  "options": {
+   "A": "latanoprost",
+   "B": "valacyclovir",
+   "C": "brimonidine",
+   "D": "famciclovir"
+  },
+  "markedAnswer": "C",
+  "explanation": "Latanoprost, valacyclovir and famciclovir are prodrugs that are converted to prostaglandin F2alpha, acyclovir, and penciclovir respectively. Brimonidine is not a prodrug.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 266,
+  "question": "What is the most commonly used direct-acting, alpha-1 adrenergic agonist used by eye care professionals?",
+  "options": {
+   "A": "phenylephrine",
+   "B": "epinephrine",
+   "C": "brimonidine",
+   "D": "dipivefrin"
+  },
+  "markedAnswer": "A",
+  "explanation": "The main alpha-1 adrenergic agonist that is used in the eye care profession is phenylephrine which is used for dilation purposes. It achieves dilation by directly stimulating the iris dilator muscle. One must remember that the iris sphincter, which is parasympathetically-innervated, is stronger than the iris dilator. Therefore, dilation with only phenylephrine is oftentimes not sufficient to provide adequate dilation especially during the ophthalmic exam which uses bright lights. Thus, cycloplegia (e.g. tropicamide) should also be provided.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ }
+]

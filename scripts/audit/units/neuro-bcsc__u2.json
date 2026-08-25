@@ -1,0 +1,1050 @@
+[
+ {
+  "id": 72,
+  "question": "A hypertensive adult experienced onset of complete left ptosis 2 days ago. There is anisocoria and partial limitation of ductions in the left eye. What is the most appropriate initial management strategy?",
+  "options": {
+   "A": "observation as long as there is no diplopia",
+   "B": "Tensilon test to rule out myasthenia gravis (MG)",
+   "C": "imaging to rule out intracranial aneurysm",
+   "D": "referral to primary care physician for more aggressive control of hypertension"
+  },
+  "markedAnswer": "C",
+  "explanation": "The description is of a patient with pupil-involving third nerve palsy, and the usual causes are intracranial aneurysm, microvascular infarction, and diabetes. An aneurysm may be fatal and must be ruled out. Observation is not appropriate. A Tensilon test may be indicated if the initial workup is negative, BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 73,
+  "question": "What imaging technique is preferred to detect acute subarachnoid hemorrhage?",
+  "options": {
+   "A": "magnetic resonance angiography (MRA)",
+   "B": "computed tomography (CT)",
+   "C": "computed tomography angiography (CTA)",
+   "D": "magnetic resonance imaging (MRI)"
+  },
+  "markedAnswer": "B",
+  "explanation": "CT is the preferred imaging modality to detect acute subarachnoid hemorrhage. MRI is not preferred for detecting acute hemorrhage, but it can clarify the evolution of BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 74,
+  "question": "A 15-year-old boy has the fundus ﬁndings shown below, which looked the same in both eyes. His best-corrected visual acuity at distance is 20/20 in each eye with -2.00 sphere in each eye. What other examination ﬁnding may be abnormal?",
+  "options": {
+   "A": "perimetry",
+   "B": "near vision",
+   "C": "color vision",
+   "D": "contrast sensitivity"
+  },
+  "markedAnswer": "A",
+  "explanation": "The fundus photo demonstrates small optic nerves with nasalization of the retinal vessels and no discernible cup. There is no pallor noted. These ﬁndings are consistent with optic nerve hypoplasia, which can be unilateral or bilateral. They can be associated with visual ﬁeld defects, but in the setting of normal visual acuity are typically not associated with color vision or contrast sensitivity abnormalities. Near vision is expected to be similar to distance vision in these patients. fascicle in pons.",
+  "imageUrl": "/images/neuro-bcsc/p100_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 75,
+  "question": "In benign essential blepharospasm, where in the central nervous system is the seventh nerve hyperactivity thought to originate?",
+  "options": {
+   "A": "fascicle in pons",
+   "B": "facial nucleus",
+   "C": "facial root in cerebellopontine angle",
+   "D": "basal ganglia"
+  },
+  "markedAnswer": "D",
+  "explanation": "Functional neuroimaging suggests that benign essential blepharospasm occurs due to dysfunction of the basal ganglia. Hemifacial spasm occurs due to compression of the facial root in the cerebellopontine angle. Facial myokymia occurs due to intramedullary disease of the pons at the facial nucleus or fascicle.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 76,
+  "question": "A 34-year-old woman with a metallic foreign body has head and neck pain and notes new left upper eyelid ptosis. Her right pupil is larger than the left and redilates more briskly after direct or consensual stimulus. What is the most appropriate imaging test to obtain ﬁrst?",
+  "options": {
+   "A": "MRI of the neck",
+   "B": "magnetic resonance imaging (MRI) of the brain",
+   "C": "computed tomography (CT) angiogram of the brain",
+   "D": "CT angiogram of the neck"
+  },
+  "markedAnswer": "D",
+  "explanation": "The patient has signs and symptoms to suggest a painful left- sided Horner syndrome with recent onset. Cervical carotid dissection must be excluded, and either CT or MR angiography of the neck should be performed as the initial test. Brain/head studies are not adequate to evaluate the area of concern. Catheter angiography may be done if the CTA or MRA is abnormal but is not the ﬁrst test to be ordered. In fact, it may be less sensitive for initial diagnosis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 77,
+  "question": "For 3 days, a 23-year-old college student has had trouble reading and has transient amaurosis in her right eye. She also complains of fatigue, headache, weight loss, and low-grade fever. Visual acuity is 20/20 OU at distance, and at near she can see 3-point type (20/15 equivalent). There is no aﬀerent pupillary defect. Anterior and posterior segments are normal. Visual ﬁelds are shown below. Radial pulses were diminished. What is the most characteristic ocular ﬁnding in this condition?",
+  "options": {
+   "A": "retinal microaneurysms",
+   "B": "retinal arteriovenous anastomoses",
+   "C": "vitreous hemorrhage",
+   "D": "retinal neovascularization"
+  },
+  "markedAnswer": "B",
+  "explanation": "This case describes Takayasu arteritis, an occlusive vasculitis that caused a right posterior circulation stroke in this patient, resulting in left homonymous hemianopia. Takayasu is an idiopathic, chronic granulomatous inﬂammation that aﬀects the aorta, aortic arch, and main branches. Carotid and vertebral artery stenosis are common and can result in ischemic stroke, as well as amaurosis fugax episodes. Ocular ischemic syndrome, hypertensive retinopathy, and optic atrophy can be present on eye examination, but the examination may be normal. The most characteristic ocular ﬁndings are retinal arteriovenous anastomoses, best demonstrated by ﬂuorescein angiography. Milder changes found earlier in the course of the disease include small-vessel dilation and microaneurysm; more severe ischemia may result in peripheral retinal nonperfusion, iris and retinal nonperfusion, iris and retinal neovascularization, and vitreous hemorrhage. It is most common in Asian or African females in their 20s. Diminished radial pulses and systemic hypertension can help diagnose the condition, but angiography is diagnostic.",
+  "imageUrl": "/images/neuro-bcsc/p104_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 78,
+  "question": "An 85-year-old woman presents with binocular horizontal diplopia at distance. She does not have diplopia with reading. She says that she started wearing glasses in her 40s. Examination demonstrates deep superior sulci, high lid creases, and bilateral ptosis. She has a 10-prism-diopter esotropia at distance, which is comitant. She has mild upgaze limitation with both eyes. What is the most likely cause for her symptoms?",
+  "options": {
+   "A": "bilateral sixth-nerve palsies",
+   "B": "sagging eye syndrome",
+   "C": "heavy eye syndrome",
+   "D": "ocular myasthenia gravis"
+  },
+  "markedAnswer": "B",
+  "explanation": "Sagging eye syndrome presents in older patients with a mild- to moderate-angle esotropia at distance (ie, divergence insuﬃciency). Lateral gaze is full, but there can be limitation of supraduction. In sagging eye syndrome, the lateral rectus- superior rectus band degenerates, with inferior displacement of the lateral rectus muscle, along with prolapse of connective BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 79,
+  "question": "What component of the ocular exam is more suggestive of an optic neuropathy than of a maculopathy?",
+  "options": {
+   "A": "large relative aﬀerent pupillary defect",
+   "B": "central scotoma",
+   "C": "mild optic nerve head pallor",
+   "D": "abnormal color vision"
+  },
+  "markedAnswer": "A",
+  "explanation": "A large relative aﬀerent pupillary defect is highly suggestive of unilateral or asymmetric optic neuropathy (although CRAO and CRVO an also cause large APDs). A small relative aﬀerent pupillary defect can be seen with signiﬁcant asymmetric retinal damage involving the macula. Color vision can be altered in patients with maculopathies or optic neuropathies. A central scotoma might be seen in both maculopathies and optic neuropathies. Mild optic nerve head pallor is common in numerous chronic retinopathies such as cone dystrophies.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 80,
+  "question": "What neuroimaging ﬁnding is characteristic of tuberous sclerosis?",
+  "options": {
+   "A": "acoustic neuroma",
+   "B": "cerebellar hemangioblastoma",
+   "C": "intracranial calciﬁed hamartoma",
+   "D": "leptomeningeal vascular malformation"
+  },
+  "markedAnswer": "C",
+  "explanation": "Tuberous sclerosis is associated with intracranial calciﬁed astrocytic hamartomas. Acoustic neuroma is the classic neuroimaging ﬁnding for neuroﬁbromatosis type 2. Cerebellar hemangioblastoma is associated with von Hippel–Lindau disease. Leptomeningeal vascular malformation is a feature of Sturge- Weber syndrome (encephalofacial angiomatosis).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 81,
+  "question": "A 57-year-old man has been experiencing intermittent diplopia as well as lid droopiness over the past 3 weeks. His symptoms are worse in the afternoon and evening and seem to improve after a good night’s rest. He does not report any trouble speaking, swallowing, or breathing. What laboratory testing is most useful to establish a diagnosis?",
+  "options": {
+   "A": "anti-thyroid peroxidase antibody",
+   "B": "neuromyelitis optica antibody",
+   "C": "acetylcholine receptor binding antibody",
+   "D": "acetylcholine receptor blocking antibody"
+  },
+  "markedAnswer": "C",
+  "explanation": "The correct answer is acetylcholine receptor binding antibody. Binding antibodies are most commonly requested, since they are detected in almost 90% of patients with generalized myasthenia gravis and 50% of patients with ocular myasthenia. The patient in this case needs serologic testing to evaluate for ocular myasthenia gravis. Blocking antibodies are usually requested when the binding antibody is negative. Blocking antibodies are rarely present (1%) when the binding antibody is absent. Anti-thyroid peroxidase antibodies are most commonly associated with Hashimoto thyroiditis and are not commonly drawn in the initial workup for myasthenia gravis. Anti-muscle speciﬁc kinase (MuSK) antibodies can sometimes be detected in patients who do not have anti-acetylcholine receptor antibodies, but they are not detected more frequently than binding antibodies. Neuromyelitis optica antibodies can be found in Devic disease or neuromyelitis optica.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 82,
+  "question": "An obese and asymptomatic 15- year-old girl is found to have optic disc abnormalities. B-scan echography shows normal retrobulbar optic nerve size and refractile bodies beneath the disc surface. What management is recommended for this patient?",
+  "options": {
+   "A": "oral acetazolamide, 500 mg twice daily",
+   "B": "intravenous methylprednisolone, 1 gram daily for 3 days",
+   "C": "magnetic resonance imaging of the orbits",
+   "D": "optic disc photos and visual ﬁeld monitoring"
+  },
+  "markedAnswer": "D",
+  "explanation": "This case describes a young patient with optic disc drusen (ODD), which represent refractile, often calciﬁed nodules located within the optic nerve head. When buried beneath the retinal nerve ﬁber layer (NFL), they crowd the optic disc and elevate the retinal NFL, mimicking true optic nerve edema (ie, pseudopapilledema). They demonstrate hyperechoic signal on B-scan or CT.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 83,
+  "question": "A 35-year-old man has vertical, binocular diplopia that seems worse when driving. He has a left hypertropia of 5 PD in primary gaze, absent on right gaze, increasing to 9 PD on left gaze with clockwise gaze- evoked nystagmus. There is no head tilt. What additional ﬁnding on examination would help to support the most likely diagnosis?",
+  "options": {
+   "A": "slow left-eye adducting saccade",
+   "B": "variable ptosis with sustained upgaze",
+   "C": "proptosis of right eye greater than left",
+   "D": "increased vertical fusional amplitude"
+  },
+  "markedAnswer": "A",
+  "explanation": "This patient has an incomitant left hypertropia (worse in left gaze) and gaze-evoked nystagmus. The hypertropia does not follow a cranial nerve pattern, and the presence of nystagmus suggests a supranuclear disorder such as skew deviation. Skew deviation may occur with internuclear ophthalmoplegia in a young person who has demyelinating disease, and in an older person may result from ischemia. Given the left hypertropia, the lesion causing the skew deviation is most likely on the left side of the brainstem; the hallmark of a left internuclear ophthalmoplegia (INO) would therefore be slowed adduction saccadic velocity in the left eye. Both thyroid eye disease (which can cause proptosis) and ocular myasthenia gravis (which can cause ﬂuctuating ptosis) may cause the same ocular deviation (left hypertropia worse in left gaze), but would not produce the nystagmus. Increased vertical fusional amplitude is seen most commonly with longstanding cranial nerve (CN) IV palsy or other vertical strabismus and would not be expected in this patient, whose strabismus does not ﬁt that pattern.",
+  "imageUrl": "/images/neuro-bcsc/p112_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 84,
+  "question": "Based upon the most likely cause of his disorder, what long-term treatment would be preferred?",
+  "options": {
+   "A": "azathioprine 150 mg by mouth daily",
+   "B": "fractionated stereotactic radiotherapy to the spinal lesion",
+   "C": "interferon beta-1, a weekly intramuscular injection",
+   "D": "surgical decompression of the spinal cord"
+  },
+  "markedAnswer": "A",
+  "explanation": "The patient had a bout of optic neuritis, and myelitis involving 3 or more vertebral segments, and he had a brain MRI scan nondiagnostic for multiple sclerosis, which is classic for neuromyelitis optica (NMO). In NMO, the episodes of vision loss tend to recur, with severe visual impairment (< 20/200) in at least 1 eye. The mainstay of treatment during the acute period remains high-dose intravenous (IV) corticosteroids (1000 mg daily x 3-5 days). Use of other immunosuppressive drugs such as azathioprine, mycophenolate, and rituximab can reduce the risk of relapse. For poorly responsive NMO, administration of IVIG or plasmapheresis can be considered. orbital MRI with ﬂuid-attenuated inversion recovery (FLAIR) imaging A. 19% brain MRI with FLAIR imaging B. 67%.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 85,
+  "question": "What is the most helpful neuroimaging modality in managing a 35-year-old female patient's ﬁrst episode of acute, unilateral optic neuritis? interferon beta-1, a weekly intramuscular injection C. 57 Your Answer surgical decompression of the spinal cord D.",
+  "options": {
+   "A": "orbital MRI with ﬂuid-attenuated inversion recovery (FLAIR) imaging",
+   "B": "brain MRI with FLAIR imaging",
+   "C": "orbital computed tomography (CT) with contrast",
+   "D": "orbital magnetic resonance imaging (MRI) with T1 post- contrast fat-saturation"
+  },
+  "markedAnswer": "B",
+  "explanation": "Optic neuritis is a clinical diagnosis based on historical and examination ﬁndings. Orbital MRI with T1 post-contrast fat- saturation, especially coronal and axial views, can conﬁrm the optic nerve enhancement consistent with the diagnosis. However, of the choices provided, the correct answer is brain MRI with FLAIR imaging, because in managing this patient, the most important factor is determining her multiple sclerosis (MS) risk. Risk of MS is directly related to the presence of concomitant brain MRI demyelinating lesions, best seen on FLAIR and often periventricular. Orbital MRI with FLAIR may show optic nerve diameter asymmetry and subtle enhancement but is of less prognostic value and is less helpful without fat saturation. Orbital CT with contrast is excellent in screening for large mass lesions of the orbit but has limited value with assessing inﬂammatory soft tissue disease and would not be prognostically helpful in this scenario.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 86,
+  "question": "Following an automobile accident, a young man complains of diplopia. In primary position he has 6 prism diopters (PD) of right hypertropia. In left gaze he has 12 PD of right hypertropia, and in right gaze 9 PD of left hypertropia. In primary position, the patient has 16 degrees of excyclotorsion. On right head tilt he has a right hypertropia, and in left head tilt he has a left hypertropia. What is the most likely diagnosis?",
+  "options": {
+   "A": "right third and fourth cranial nerve palsies",
+   "B": "a right orbital ﬂoor fracture with entrapment",
+   "C": "bilateral partial third cranial nerve palsies",
+   "D": "bilateral fourth cranial nerve palsies"
+  },
+  "markedAnswer": "D",
+  "explanation": "Bilateral fourth cranial nerve palsy should always be considered whenever a unilateral fourth nerve palsy is suspected, especially after head trauma. Bilateral cranial fourth nerve palsy presents with: crossed hypertropia (ie, the right eye is higher on left gaze, and the left eye is higher on right gaze) excyclotorsion of 10 degrees or greater (best measured with double Maddox rod testing) a large (≥25 prism diopters) V pattern strabismus habitual chin down position This patient demonstrates both crossed hypertropia and high amounts of excyclotorsion following head trauma, which is indicative of bilateral fourth nerve palsies. The presence of a third nerve palsy alone or in combination with a fourth nerve palsy would result in horizontal misalignment. Entrapment of ocular muscles is not variable in gaze positions and is not aﬀected by head tilt.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 87,
+  "question": "What extraocular muscles receive innervation from a nucleus on the contralateral side of the brain?",
+  "options": {
+   "A": "superior rectus and superior oblique",
+   "B": "superior rectus and lateral rectus",
+   "C": "lateral rectus and superior oblique",
+   "D": "inferior rectus and inferior oblique"
+  },
+  "markedAnswer": "A",
+  "explanation": "The 2 extraocular muscles that receive contralateral innervation are the superior rectus and superior oblique. The oculomotor nerve (CN III) nucleus is located dorsally within the midbrain beneath the aqueduct connecting the third and fourth ventricles. The nuclear complex itself represents a collection of subnuclei that have speciﬁc identiﬁable functions. The ﬁbers destined to innervate the levator palpebrae superioris, medial rectus, inferior rectus, pupil sphincter, and ciliary body muscles exit ventrally ipsilateral to the individual nuclei from which they originate. In contrast, the ﬁbers from the superior rectus subnucleus, which lies along the midline, cross before exiting the brainstem to innervate the superior rectus muscle. Within the midbrain, the CN III is topographically organized into a superior division (supplying the superior rectus and levator palpebrae superioris muscles) and an inferior division (supplying the medial and inferior rectus, inferior oblique, pupillary sphincter, and ciliary body muscles), but the true anatomical division into 2 branches occurs at the level of the anterior cavernous sinus/superior orbital ﬁssure. Fibers to both levator palpebrae superioris originate in the central caudal nucleus. The trochlear nerve (CN IV) nucleus lies within the gray matter in the dorsal aspect of the caudal midbrain just below the aqueduct, directly contiguous with the more rostral CN III nucleus. The intra-axial portion (fascicle) of CN IV is very short, running dorsally around the periaqueductal gray to cross within the anterior medullary vellum just caudal to the inferior colliculi and below the pineal gland. CN IV is the only CN that exits on the dorsal surface of the brainstem and has the longest BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 88,
+  "question": "A 24-year-old woman fell oﬀ a ladder and hit her head. She had immediate loss of vision in the left eye. Examination 18 hours later showed that she had no light perception in the left eye. The left eye has a 4+ relative aﬀerent pupillary defect (RAPD). What ﬁnding would be expected on dilated fundus examination?",
+  "options": {
+   "A": "normal funduscopic examination",
+   "B": "optic nerve pallor",
+   "C": "dense vitreous hemorrhage",
+   "D": "optic nerve edema"
+  },
+  "markedAnswer": "A",
+  "explanation": "Vision loss in traumatic optic neuropathy is typically immediate and often severe (24%-86% of patients have no light perception at presentation). An aﬀerent defect is invariably present. The optic disc is usually normal at onset and becomes atrophic within 4 to 6 weeks. Vitreous hemorrhage could cause severe vision loss, but it would not cause a dense RAPD.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 89,
+  "question": "A 51-year-old patient develops a unilateral facial palsy. What feature should prompt imaging?",
+  "options": {
+   "A": "associated pain",
+   "B": "associated viral syndrome",
+   "C": "history of herpes zoster",
+   "D": "slow progression over a period of 1 month"
+  },
+  "markedAnswer": "D",
+  "explanation": "Facial nerve palsy can be attributed to a variety of causes. The most common, Bell palsy, is attributed to idiopathic inﬂammation and edema of the nerve within the conﬁnes of the fallopian canal of the inner ear. This condition typically presents abruptly and can be associated with a viral syndrome and sometimes pain. Ramsay-Hunt syndrome (herpes zoster oticus) presents with abrupt loss of facial nerve function, typically with severe ipsilateral ear pain and vesicles visible on examination of the external auditory canal. Bell palsy is a diagnosis of exclusion, and an additional workup should be pursued if the loss of facial nerve function continues for more than 3 weeks after onset. A slow, insidious loss of facial nerve function as described in this scenario is worrisome for a neoplastic process and warrants neuro-imaging.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 90,
+  "question": "A patient is seen with asymptomatic visual ﬁeld loss and bilateral elevated optic nerves. The left optic nerve is shown in the ﬁgure. What workup is necessary?",
+  "options": {
+   "A": "Humphrey visual ﬁeld and observation",
+   "B": "Lyme titers, Toxocara titers, and Bartonella titers",
+   "C": "intravenous steroids",
+   "D": "magnetic resonance imaging/magnetic resonance venography (MRI/MRV) of brain"
+  },
+  "markedAnswer": "A",
+  "explanation": "The ﬁgure shows optic disc drusen causing elevation of the left optic nerve. The correct workup is a Humphrey visual ﬁeld. Most patients with disc drusen are asymptomatic, but visual ﬁeld defects are common, including inferior nasal defects and enlarged blind spots. These patients have elevated discs that show calciﬁed drusen as hyper-echoic or highly reﬂective on B-scan or computed tomography (CT) scan. Papilledema would require MRI/MRV to rule out intracranial mass lesions causing increased intracranial pressure and to rule out cerebral venous sinus thrombosis. Infection can cause papilledema including Lyme, Toxocara, and Bartonella, but this ﬁgure does not show papilledema. double Maddox rod.",
+  "imageUrl": "/images/neuro-bcsc/p122_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 91,
+  "question": "What clinical test best quantiﬁes torsional strabismus?",
+  "options": {
+   "A": "double Maddox rod",
+   "B": "red glass test",
+   "C": "alternate cover test",
+   "D": "cover-uncover test"
+  },
+  "markedAnswer": "A",
+  "explanation": "The double Maddox rod test helps identify and quantify torsional misalignment when vertical diplopia is present. The alternate cover test, cover-uncover test, and red glass test are used to identify and quantify horizontal and vertical misalignment, but not torsional misalignment.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 92,
+  "question": "A patient who is comatose after trauma is found to have no spontaneous eye movements. Both pupils are irregular and mid-dilated, with minimal light response. The fundi appear normal. On his brain magnetic resonance imaging (MRI) scan, what structure would be expected to show damage?",
+  "options": {
+   "A": "optic tracts",
+   "B": "basal ganglia",
+   "C": "pons",
+   "D": "midbrain"
+  },
+  "markedAnswer": "D",
+  "explanation": "Brainstem injury from trauma may produce eye movement and pupillary abnormalities. Isolated pontine trauma would cause horizontal gaze paresis and pinpoint pupils, whereas midbrain injury tends to produce mid-dilated, irregular pupils with more diﬀuse eye movement abnormalities. Basal ganglia injury can produce abnormal eye movements but should not aﬀect the pupils, while optic tract lesions can cause aﬀerent but not eﬀerent pupillary dysfunction.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 93,
+  "question": "A patient with bilateral nasal visual ﬁeld loss is noted to have abnormal optic discs (right eye is shown; left eye had a similar appearance). If B-scan ultrasonography were performed, what would be the expected ﬁndings?",
+  "options": {
+   "A": "decreased diameter of optic nerve sheath when patient looks 30 degrees away from primary gaze",
+   "B": "increased diameter of optic nerve sheath when patient looks 30 degrees away from primary gaze",
+   "C": "hypoechoic disc appearance",
+   "D": "hyperechoic disc appearance"
+  },
+  "markedAnswer": "D",
+  "explanation": "! & # The most common cause of nasal visual ﬁeld loss is glaucoma, but the disc pictured here has no cupping and is elevated without any obscuration of the retinal nerve ﬁber layer or blood vessels. This appearance is suggestive of optic nerve head drusen, which may be sporadic or inherited in an autosomal dominant pattern. When drusen are suspected, appropriate imaging will help to conﬁrm the diagnosis. Disc drusen appear hyperechoic on B-scan ultrasonography. A decrease in the diameter of the optic nerve sheath when patient looks 30 degrees away from primary gaze describes a positive 30-degree test, which is characteristic of papilledema.",
+  "imageUrl": "/images/neuro-bcsc/p126_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 94,
+  "question": "A 75-year-old hypertensive female presents for evaluation of sudden-onset diplopia. Her vision is 20/20, with normal color vision in each eye. She has a left relative aﬀerent pupillary defect. She has a left hypertropia that is worse in right gaze and improves with right head tilt. Where is the most likely causative lesion? &",
+  "options": {
+   "A": "right brainstem",
+   "B": "left orbital apex",
+   "C": "right skull base",
+   "D": "left cavernous sinus"
+  },
+  "markedAnswer": "A",
+  "explanation": "This woman has a left cranial nerve (CN) IV palsy with a left relative aﬀerent pupillary defect without any visual loss. This would suggest that the lesion is in the brainstem near the right CN IV nucleus and aﬀecting the pupillary ﬁbers near the right superior colliculus, which would result in a left relative aﬀerent pupillary defect (similar in eﬀect to a right optic tract lesion due to the extra nasal ﬁbers that decussate at the optic chiasm). Orbital apex lesions would result in decreased visual acuity and most likely aﬀect other cranial nerves. The optic nerve is usually not aﬀected in cavernous sinus lesions unless they expand to aﬀect the optic canal. The aﬀerent pupillary ﬁbers do not course along the skull base. variability.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 95,
+  "question": "A 23-year-old man presents with a gradual loss of eye movements, pigmentary changes in the retina, and cardiac conduction abnormalities. What additional ﬁnding is expected on examination? right brainstem A. 36 Correct Answer left orbital apex B. 39 Your Answer right skull base C.",
+  "options": {
+   "A": "variability",
+   "B": "blepharospasm",
+   "C": "doll's head maneuver improves motility",
+   "D": "ptosis"
+  },
+  "markedAnswer": "D",
+  "explanation": "Kearns-Sayre syndrome is an inherited mitochondrial myopathy that includes chronic progressive external ophthalmoplegia (CPEO), pigmentary retinopathy, and cardiac conduction abnormalities. CPEO is characterized by slowly progressive, symmetric ophthalmoplegia often associated with bilateral ptosis. Blepharospasm is typically seen in older patients and is not part of Kearns-Sayre syndrome. Variability is expected in myasthenia gravis. Improved eye movements with doll’s head maneuver indicate a supranuclear gaze palsy. Ophthalmoplegia associated with CPEO cannot be overcome with doll’s head maneuver.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 96,
+  "question": "What is the best initial treatment option for the condition shown? The woman pictured is trying to relax her face.",
+  "options": {
+   "A": "botulinum toxin injection",
+   "B": "radiofrequency (RF) ablation of the left trigeminal ganglion",
+   "C": "surgical extirpation of orbicularis oculi (left side)",
+   "D": "microvascular decompression of the CN VII root exit zone"
+  },
+  "markedAnswer": "A",
+  "explanation": "Botulinum toxin injection into the facial muscles has proved very eﬀective and is the treatment of choice for hemifacial spasm. Reinjection is required, at intervals of 3-4 months. Irritation of the facial nerve at its root exit zone (from the brainstem) by an aberrant blood vessel is thought to be the cause of hemifacial spasm in most patients. Chronic transmission of arterial pulsation BCSC Excerpt References Notes.",
+  "imageUrl": "/images/neuro-bcsc/p130_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 97,
+  "question": "For 2 weeks, a healthy 44-year- old woman reports photopsias and painless visual blur in her left eye. One month ago, she had a mild upper-respiratory infection. Her visual acuity is 20/20 OD and 20/25 OS. She has a left-relative aﬀerent pupillary defect (RAPD) and no obvious fundus abnormalities. What part of the visual pathway is most likely aﬀected? &",
+  "options": {
+   "A": "optic tract",
+   "B": "retina",
+   "C": "optic nerve",
+   "D": "occipital cortex"
+  },
+  "markedAnswer": "B",
+  "explanation": "Enlargement of the blind spot/temporal scotoma with associated photopsias in the setting of a normal-appearing fundus is suggestive of a retinal process such as acute idiopathic blind-spot enlargement (AIBSE) syndrome, multiple evanescent white dot syndrome (MEWDS), or acute zonal outer occult retinopathy (AZOOR). Photopsias are a prominent symptom thought to reﬂect disease of the outer retina. Spectral domain optical coherence tomography (OCT) line scans of the peripapillary retina reveal attenuation of the outer layers. Although AIBSE, MEWDS, and AZOOR represent outer retinal disorders, patients with these conditions can have an RAPD. An optic nerve condition would be unlikely to present with such a large enlargement of the blind spot without signiﬁcant papilledema. Theoretically, compressive optic neuropathy could cause a similar visual ﬁeld defect with a normal-appearing optic nerve, but a cecocentral scotoma is much more common with compressive optic neuropathy. In addition, the photopsias point toward a retinal etiology. A lesion aﬀecting the optic tract or occipital cortex would cause a homonymous visual ﬁeld defect.",
+  "imageUrl": "/images/neuro-bcsc/p131_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 98,
+  "question": "What condition is visual evoked potential (VEP) testing most helpful in conﬁrming?",
+  "options": {
+   "A": "glaucoma",
+   "B": "compressive optic neuropathy",
+   "C": "cone dystrophy",
+   "D": "demyelinating optic neuropathy"
+  },
+  "markedAnswer": "D",
+  "explanation": "Visual evoked potential (VEP) testing measures electrical signals over the occipital cortex produced in response to a visual stimulus. It shows an increased latency in demyelination. Other optic neuropathies generally have a normal latency, but might show a decrease in the VEP's amplitude.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 99,
+  "question": "A 53-year-old man has transient vision loss in the right eye, lasting 15 minutes. Fundus examination showed a calciﬁed plaque in an arteriole adjacent to the optic disc. Where is the likeliest source of the calciﬁed plaque?",
+  "options": {
+   "A": "carotid stenosis",
+   "B": "aortic arch atheroma",
+   "C": "aortic valve disease",
+   "D": "giant cell arteritis"
+  },
+  "markedAnswer": "C",
+  "explanation": "Calciﬁed plaques are typically caused by heart valve or aorta calciﬁcation. Carotid stenosis typically predisposes patients to Hollenhorst plaques. Aortic arch atheroma can lead to Hollenhorst plaques or platelet-ﬁbrin plaques. Giant cell arteritis can cause transient vision loss, but it would not cause a plaque.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 100,
+  "question": "What structure in the brainstem is responsible for the excitatory burst in horizontal eye movements? &",
+  "options": {
+   "A": "paramedian pontine reticular formation",
+   "B": "rostral interstitial nucleus of the medial longitudinal fasciculus",
+   "C": "nucleus prepositus hypoglossi",
+   "D": "interstitial nucleus of Cajal"
+  },
+  "markedAnswer": "A",
+  "explanation": "Ocular motility is mediated by speciﬁc structures within the brainstem. Excitatory burst cells are constantly ﬁring nerves that generate the tone for extraocular movement. Omnipause cells tonically inhibit the excitatory burst cells, and cortical impulses (signals for saccades, smooth pursuit, or vestibular-ocular reﬂex [VOR]) inhibit omnipause cells, which results in conjugate extraocular movement. A neural integrator receives cortical and cerebellar input to determine the amount of tone needed (ie, how far the eyes should move). For horizontal movement, the excitatory burst cells are found in the paramedian pontine reticular formation (PPRF), located adjacent to the nucleus of cranial nerve VI. Damage to the PPRF results in ipsilateral gaze palsy. The nucleus prepositus hypoglossi (NPH) is the neural integrator for horizontal movement. The rostral interstitial nucleus of the medial longitudinal fasciculus (riMLF) and interstitial nucleus of Cajal (INC), respectively, are the excitatory burst cells and neural integrator for vertical/torsional movement. 2 Filter by 50 per p.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 101,
+  "question": "Resting pupil size is inﬂuenced by several factors, including ambient light, level of arousal, patient age, and neurologic disease. What typically causes small pupils?",
+  "options": {
+   "A": "pontine hemorrhage",
+   "B": "anxiety",
+   "C": "younger age",
+   "D": "elevated intraocular pressure"
+  },
+  "markedAnswer": "A",
+  "explanation": "Extremely small pupils suggest pontine hemorrhage, narcotic intoxication, or pilocarpine use. Pupils typically become smaller as a result of age. Elevated intraocular pressures and anxiety can lead to larger pupils.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 102,
+  "question": "A lesion of what structure would result in optic atrophy and contralateral homonymous hemianopia?",
+  "options": {
+   "A": "parietal lobe",
+   "B": "occipital lobe",
+   "C": "temporal lobe",
+   "D": "optic tract"
+  },
+  "markedAnswer": "D",
+  "explanation": "Lesions of the optic tract produce incongruous homonymous defects in the hemiﬁelds contralateral to the aﬀected optic tract, as well as atrophy of the optic nerves. Because the optic tract involves crossed ﬁbers from the contralateral eye, the corresponding atrophy of crossed retinal ﬁbers (those nasal to the macula) involves the papillomacular ﬁbers and the nasal radiating ﬁbers in the contralateral eye, causing atrophy in the corresponding nasal and temporal horizontal portions of the disc (“band” or “bow-tie” atrophy). Atrophy in the ipsilateral eye involves only the arcuate temporal bundles, which enter the disc BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 103,
+  "question": "A 78-year-old man developed a stroke with mild arm and leg weakness and a right facial nerve palsy. His right eyelids do not close completely. What other aspect of his examination is most important for his risk of corneal ulceration?",
+  "options": {
+   "A": "conjunctival culture",
+   "B": "Bell phenomenon",
+   "C": "corneal sensation",
+   "D": "lissamine green stain"
+  },
+  "markedAnswer": "C",
+  "explanation": "In patients with facial nerve palsy, the most crucial question is the status of the trigeminal nerve. Patients developing facial nerve palsy from stroke or intracranial surgery are also at risk of developing a trigeminal neuropathy that may eliminate their corneal sensitivity. The combination of an anesthetic cornea and lagophthalmos places these patients at a very high risk of developing corneal exposure and ulceration. Intact corneal sensation is protective for maintaining blink reﬂex and lacrimation, especially in patients who may lack concomitant upgaze with lid closure (Bell phenomenon). The risk of combined neurotrophic and neuroparalytic keratitis demands an aggressive approach that possibly includes early tarsorrhaphy or gold weight implant. Although an intact Bell phenomenon may help protect the cornea from exposure in some cases of lagophthalmos, corneal sensation is the most important exam ﬁnding to help determine risk of corneal ulceration. Lissamine green stain may highlight devitalized conjunctival epithelial cells, but this is not predictive for ulceration. Conjunctival culture to assess the ocular surface ﬂora is also not predictive of risk of corneal complications. &",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 104,
+  "question": "A man with HIV infection that was untreated for several years developed rapid peripheral vision loss over 3 weeks. He is otherwise well, without fever or chills, although he is slightly confused. Visual acuity is 20/400 OU, pupils react briskly, and the fundus appears normal. What abnormality can be expected to be found in his cerebrospinal ﬂuid (CSF)?",
+  "options": {
+   "A": "John Cunningham (JC) virus positivity",
+   "B": "India ink–stained cysts",
+   "C": "elevated 14-3-3 protein",
+   "D": "oligoclonal bands"
+  },
+  "markedAnswer": "A",
+  "explanation": "Many immunocompromised states, including HIV infection, can lead to progressive multifocal leukoencephalopathy (PML) and neurological dysfunction. PML can cause confusion, memory problems, focal weakness, and/or vision loss, depending upon the part of the brain that is involved. In this case, the occipital cortex was aﬀected bilaterally, and this led to central and peripheral vision loss. Characteristic ﬁndings on magnetic resonance imaging (MRI) include T2 ﬂuid-attenuated inversion recovery (FLAIR) white matter hyperintensity in multiple locations. PML is associated with JC virus activity; this virus can be latent in many immunocompetent persons and become active only with immunosuppression.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 105,
+  "question": "Slit-lamp examination of a large pupil that is minimally reactive to light reveals vermiform movements. The pupil reaction is slow to near stimulus. The patient has no ptosis, and ocular motility is normal. Where is the responsible lesion located?",
+  "options": {
+   "A": "ipsilateral ciliary ganglion",
+   "B": "fascicular portion of cranial nerve III",
+   "C": "dorsal midbrain/pineal region",
+   "D": "ciliospinal center of Budge-Waller"
+  },
+  "markedAnswer": "A",
+  "explanation": "The ﬁndings are characteristic of damage either to the iris sphincter muscle or its innervation from the parasympathetic system, as in Adie tonic pupil. Herpes zoster can give this same picture. Lesions at the dorsal midbrain also produce light near dissociation, but ﬁndings are bilateral and not vermiform in terms of constriction. Fascicular CN III lesions should give either ptosis and/or a motility deﬁcit along with the pupil dilation, and vermiform movements are again not present. Sympathetic denervation at the second-order neuron (ciliospinal center) leads to Horner syndrome with a miotic pupil. &",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 106,
+  "question": "A 10-year-old boy with a history of neuroﬁbromatosis type 1 presented with no light perception (NLP) vision, prominent and disﬁguring proptosis, and corneal scarring OD. Magnetic resonance imaging (MRI) revealed a fusiform enlargement of the optic nerve approaching the chiasm. What is the most likely preferred management of this lesion?",
+  "options": {
+   "A": "surgical resection",
+   "B": "chemotherapy",
+   "C": "stereotactic, fractionated irradiation",
+   "D": "careful observation for any progression"
+  },
+  "markedAnswer": "A",
+  "explanation": "Optic pathway gliomas (OPG) in children, including optic gliomas conﬁned to the optic nerve body itself, are almost always benign astrocytomas whose natural history is stable without signiﬁcant progression over time. Some may even show spontaneous regression. Thus, there is no universally accepted management of OPG, but indications for treatment depend on clinical progression by vision loss, loss of visual quality of life, or extension of the lesion into the optic chiasm (rare). Radiation or chemotherapy treatment depends on age and association with neuroﬁbromatosis type 1 (NF1). Surgical treatment may be entertained in cases of severe vision loss, with the purpose of reducing disﬁguring proptosis and extension into the chiasm. In this case, careful observation is not preferred, because the tumor is approaching the chiasm, there is no visual potential in the aﬀected eye, and the patient has disﬁguring proptosis. Radiation is not preferred in this case, due to signiﬁcant long- term side eﬀects with NF1, although it can be an option in patients over 5 years old with progressive optic nerve glioma. Chemotherapy with carboplatin and vincristine is an emerging BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 107,
+  "question": "A patient presents with optic nerve head (ONH) swelling and delayed choroidal ﬁlling on ﬂuorescein angiography. What condition do they most likely have?",
+  "options": {
+   "A": "bartonella neuroretinitis",
+   "B": "giant cell arteritis",
+   "C": "optic nerve sheath meningioma",
+   "D": "demyelinating optic neuritis"
+  },
+  "markedAnswer": "B",
+  "explanation": "Fluoroscein angiography might demonstrate delayed or absent choroidal ﬁlling in a patient with giant cell arteritis. This can be either with or without ONH edema. Other causes of optic-nerve BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 108,
+  "question": "A 76-year-old man has worsening constant diplopia over 6 months. He has a history of excised left-sided facial squamous cell carcinoma and diabetes mellitus. Examination reveals 3 mm left ptosis and reduced left eye motility. His right eye moves normally. Numbness of his left cheek is found on examination. What is the most likely cause of his diplopia?",
+  "options": {
+   "A": "cavernous sinus tumor",
+   "B": "intracavernous carotid artery (ICA) aneurysm",
+   "C": "microvascular damage",
+   "D": "sympathetic chain denervation"
+  },
+  "markedAnswer": "A",
+  "explanation": "Constant left-sided ptosis and ophthalmoplegia suggests cranial nerve (CN) III palsy. Ipsilateral facial numbness indicates CN V lesion. The most common location for multiple CN palsies is the cavernous sinus, and diﬀerential diagnosis is broad. Given a history of facial malignancy, anesthesia of CN V suggests recurrence of squamous cell carcinoma with perineural spread into the cavernous sinus. Perineural spread usually indicates malignant tumor such as adenoid cystic carcinoma or squamous cell carcinoma, as in this case. Sympathetic chain denervation would not lead to dysmotility. Uncontrolled type II diabetes mellitus causes an ischemic, not slowly progressive, CN palsy. An opportunistic cavernous sinus infection secondary to uncontrolled diabetes, such as mucormycosis, would be expected to progress rapidly, have other ﬁndings such as necrotic nasal debris, and render the patient acutely ill. ICA aneurysm would not account for the presence of CN V and CN VI palsy. 2 2",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 109,
+  "question": "What is a clinical feature of Adie tonic pupil?",
+  "options": {
+   "A": "anisocoria worse in dim light",
+   "B": "sectoral iris constriction",
+   "C": "accommodative spasm",
+   "D": "relative aﬀerent pupillary defect"
+  },
+  "markedAnswer": "B",
+  "explanation": "Adie tonic pupil is a parasympathetic denervation of the pupillary sphincter resulting in a ﬁxed (tonic) and dilated pupil. Because the denervation is segmental, there can be sectors of the iris that still constrict, but not to the same degree as a normal contralateral pupil. This results in anisocoria that is more pronounced in bright light. Because the parasympathetic innervation of the ciliary muscle may also be aﬀected, accommodative insuﬃciency, not spasm, may occur, resulting in blurred vision. Because the aﬀerent visual pathway is uninvolved, there is no relative aﬀerent pupillary defect (Marcus-Gunn pupil) despite the unequal parasympathetic tone to the pupillary sphincter muscles. The parasympathetic ﬁbers associated with the light reﬂex are aﬀected more than those for the near response; this results in light-near dissociation. Adie tonic pupil, when associated with decreased deep tendon reﬂexes, is called Holmes-Adie syndrome. c87f- 4305- 8a00- 355fb7ea306d) .",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 110,
+  "question": "In a patient with an acute optic neuropathy, what symptom suggests the arteritic form?",
+  "options": {
+   "A": "sudden vision loss",
+   "B": "prior transient monocular visual loss",
+   "C": "pain that accompanies eye movements",
+   "D": "severe color vision deﬁcit"
+  },
+  "markedAnswer": "B",
+  "explanation": "Arteritic anterior ischemic optic neuropathy causes isolated, sudden, permanent vision loss, often preceded by or associated with episodes of transient visual loss or episodes of transient diplopia.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 111,
+  "question": "A 47-year-old man noted diﬃculty reading with his left eye. His visual acuity was 20/40 in the left eye, 20/20 in the right. Humphrey visual ﬁeld testing showed a central scotoma in the left eye and superotemporal loss in the right eye. Neuroimaging showed a lesion aﬀecting the aﬀerent visual system. Where would the lesion be located?",
+  "options": {
+   "A": "optic tract",
+   "B": "posterior chiasm",
+   "C": "lateral geniculate nucleus",
+   "D": "anterior chiasm"
+  },
+  "markedAnswer": "D",
+  "explanation": "This patient has a junctional scotoma with central loss in the ipsilateral eye and a temporal hemianopia in the opposite eye. This is caused by a lesion compressing the optic nerve at its junction with the anterior optic chiasm. Posterior chiasmal compression typically causes a bitemporal hemianopia. Optic tract lesions and lateral geniculate nucleus lesions cause homonymous hemianopia.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 112,
+  "question": "A patient with counting ﬁngers vision in each eye due to cataract reports seeing objects and people that are not real. What eﬀect is cataract surgery likely to have on this symptom?",
+  "options": {
+   "A": "The symptoms will persist unchanged.",
+   "B": "The symptoms will resolve.",
+   "C": "The unreal images will be clearer.",
+   "D": "Unformed images (lights, spots) will occur."
+  },
+  "markedAnswer": "B",
+  "explanation": "In the setting of poor visual acuity in both eyes, this patient has formed visual hallucinations, owing to “release” of visual information by deaﬀerented cortex. This constitutes Charles Bonnet syndrome. Generally, these patients are aware that the hallucinations are not real. In many cases, the visual hallucinations will remit if the visual function can be improved.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 113,
+  "question": "What magnetic resonance imaging (MRI) sequence would be best for detecting the demyelinating lesions associated with multiple sclerosis (MS)?",
+  "options": {
+   "A": "diﬀusion weighted imaging (DWI)",
+   "B": "T2 fast-spin echo (FSE)",
+   "C": "ﬂuid-attenuated inversion recovery (FLAIR)",
+   "D": "T1 with gadolinium contrast"
+  },
+  "markedAnswer": "C",
+  "explanation": "Both active and inactive demyelinating lesions are best detected with FLAIR images. FLAIR provides T2-weighted images without the high (bright) CSF signals, making this imaging modality ideal for detecting periventricular white matter lesions in a BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 114,
+  "question": "An 18-year-old woman reports tunnel vision in both eyes. Visual acuity is 20/400 OU, pupils react briskly, and anterior and posterior segments are normal. She is able to ambulate without diﬃculty. What ﬁnding on Goldmann perimetry conﬁrms a nonorganic component to her vision loss?",
+  "options": {
+   "A": "nasal step",
+   "B": "generalized ﬁeld constriction",
+   "C": "overlapping and spiraling isopters",
+   "D": "central scotomata"
+  },
+  "markedAnswer": "C",
+  "explanation": "The disparity between visual acuity and examination result raises suspicion for nonorganic vision loss. In Goldmann kinetic perimetry, the visual ﬁeld is tested continuously in a clockwise or counterclockwise direction, starting with the (smallest) I4e stimulus. A common nonorganic response shows a spiraling isopter getting closer and closer to ﬁxation as testing continues. As larger stimuli are employed, there is often further constriction, resulting in overlapping isopters. A step across the vertical or horizontal midline (eg, nasal step) may indicate at least some physiologic component to the ﬁeld abnormality. Central scotomata may occur in many disease processes, such as toxic or nutritional optic neuropathy or Leber hereditary optic neuropathy, and are not suggestive of nonphysiologic disease. While generalized ﬁeld constriction can occur in the setting of nonphysiologic visual loss, it also can occur in disease processes such as retinitis pigmentosa. Generalized constriction does not conﬁrm nonorganic vision loss. &",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 115,
+  "question": "Acquired cases of prosopagnosia typically result from stroke aﬀecting what region(s) of the brain?",
+  "options": {
+   "A": "bilateral inferior occipitotemporal lobes or right inferior occipital lobe",
+   "B": "bilateral superior occipitoparietal lobes or right superior parietal lobe",
+   "C": "bilateral posterior occipital lobes or splenium of corpus callosum and unilateral occipital lobe",
+   "D": "bilateral occipitoparietal lobes or left parietal lobe"
+  },
+  "markedAnswer": "A",
+  "explanation": "Prosopagnosia is a disorder of recognition involving visual-visual disconnection; it is characterized by the inability to recognize familiar faces. It is usually congenital, but acquired cases can result from stroke in the bilateral inferior occipitotemporal lobes or right inferior occipital lobe. The ventral occipitotemporal pathway is responsible for the processing of physical attributes of an object. Examination typically shows superior homonymous visual ﬁeld defects. By contrast, the dorsal occipitoparietal pathway is responsible for visuospatial processing. enabling guidance of movement towards an object. Alexia without agraphia (patient cannot read but can write) results from damage to the splenium of the corpus callosum and the left occipital lobe.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 116,
+  "question": "What functional action of the superior oblique muscle contributes to the exotropia seen in a complete third nerve palsy?",
+  "options": {
+   "A": "tertiary",
+   "B": "primary",
+   "C": "secondary",
+   "D": "quaternary"
+  },
+  "markedAnswer": "A",
+  "explanation": "In a complete third nerve palsy, the only functioning EOMs are the lateral rectus and superior oblique. The tertiary action of the superior oblique is abduction that exacerbates the outward position (exotropia) of the eye.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 117,
+  "question": "What pupillary abnormality may be present in an optic tract lesion?",
+  "options": {
+   "A": "ﬁxed, irregular pupils",
+   "B": "anisocoria worse in dim light",
+   "C": "contralateral relative aﬀerent pupillary defect",
+   "D": "light-near dissociation"
+  },
+  "markedAnswer": "C",
+  "explanation": "There is an asymmetric hemidecussation of the optic nerve axons at the chiasm, with more crossed (53%) than uncrossed (47%) ﬁbers. Thus, each optic tract contains more axons from the contralateral eye than the ipsilateral eye. Pupillomotor ﬁbers travel in the optic tract and exit just before the lateral geniculate nucleus for the brachium of the superior colliculus. When an optic tract lesion occurs, it can damage both pupillomotor and visual ﬁbers, resulting in a contralateral visual ﬁeld defect and relative aﬀerent pupillary defect. Light-near dissociation can occur with dorsal midbrain lesions. Sympathetic nerves do not travel in the optic tract, and a tract lesion does not cause a Horner syndrome. Fixed pupils are not a result of optic tract damage.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 118,
+  "question": "What feature characterizes the mydriasis caused by Adie pupil?",
+  "options": {
+   "A": "poor response to topical pilocarpine",
+   "B": "quick redilation on looking from near to far distances",
+   "C": "light-near dissociation",
+   "D": "thickening of the iris stroma"
+  },
+  "markedAnswer": "C",
+  "explanation": "Mydriasis caused by neurologic disease such as Adie pupil (idiopathic tonic pupil) is easily overcome with instillation of full- strength or even dilute pilocarpine. Damage to the ciliary ganglion or short ciliary nerves produces an Adie pupil, which is characterized by a large pupil with poor reaction to light but a strong and tonic pupillary response to near vision (light-near dissociation). The pupil experiences a slow tonic redilation on looking from near to far distances. Stromal thinning is observed in areas of sphincter paralysis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 119,
+  "question": "Three days ago, a 62-year-old woman experienced transient visual loss in the right eye that lasted 10 minutes. She denies prior similar episodes and has had no headaches, weight loss, or jaw pain with chewing. Her visual acuity is 20/20 OU. Color vision, pupillary reactions, and ocular motility are normal OU. Given the right fundus appearance shown, what test would be most likely to conﬁrm the cause of her ﬁndings?",
+  "options": {
+   "A": "blood testing for hypercoagulable conditions",
+   "B": "serum lipid proﬁle",
+   "C": "erythrocyte sedimentation rate (ESR) test",
+   "D": "carotid ultrasonography"
+  },
+  "markedAnswer": "D",
+  "explanation": "Fundus photography shows an arteriolar embolus in the distribution of the superotemporal artery of the right eye. The carotid arteries, heart valves, and aorta would be the most likely source of the embolus, unless the patient has a patent foramen ovale or other shunt. A fasting serum lipid proﬁle may be helpful to evaluate underlying risk for atherosclerosis but will not reveal the source of the embolus. Giant cell arteritis can cause central retinal artery occlusion, but since none of the vessels in the retina have an elastic layer, they typically cannot cause branch retinal artery occlusions or emboli. Therefore, testing for erythrocyte sedimentation rate is not indicated. The yield of blood testing for a hypercoagulable state is exceedingly low and would not be a ﬁrst-line test in this setting.",
+  "imageUrl": "/images/neuro-bcsc/p159_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 120,
+  "question": "Following a motor vehicle accident 2 days ago, a 25-year- old woman reports painful sudden vision loss in her right eye. She has not lost consciousness and had no head or facial trauma. Visual acuity is light perception OD, 20/20 OS with no relative aﬀerent pupillary defect. Anterior and posterior segment examination is normal. She reports diplopia viewing the 20/40 line with 4 PD base down OS. What is the most appropriate action in managing this patient?",
+  "options": {
+   "A": "urgent computed tomography (CT) orbits with ﬁne cuts through the optic canals",
+   "B": "serologic testing for syphilis and Lyme disease",
+   "C": "re-examination in 1 week with reassurance",
+   "D": "intravenous methylprednisolone 1 gram daily for 3 days"
+  },
+  "markedAnswer": "C",
+  "explanation": "This scenario describes nonphysiologic vision loss occurring after a motor vehicle accident. The key ﬁndings supporting this diagnosis are mechanism of injury not suggestive of severity of vision loss, as well as examination inconsistencies such as light perception (LP) vision OD without relative aﬀerent pupillary defect. In addition, diplopia while testing the 20/40 line with mild induced prism over 1 eye demonstrates that her vision is much better than LP. In this setting, reassurance with close follow-up is appropriate. Serologic testing for syphilis and Lyme disease, intravenous methylprednisolone, and/or urgent CT are not indicated in this case, because there was a normal eye examination with no demonstrable optic neuropathy. &",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 121,
+  "question": "A 58-year-old man was recently diagnosed with myasthenia gravis. He also has a past medical history of hypertension, gout, and stroke. His medications include allopurinol, furosemide, prednisone, and warfarin. Which of those medications may be causing or worsening the myasthenia gravis?",
+  "options": {
+   "A": "warfarin",
+   "B": "prednisone",
+   "C": "allopurinol",
+   "D": "furosemide"
+  },
+  "markedAnswer": "B",
+  "explanation": "Myasthenia gravis (MG) can be caused, unmasked, or worsened by antiarrhythmics, statins, antibiotics, chemotherapeutic drugs, antiepileptic drugs, quinolones, penicillamine, corticosteroids, beta-blockers and calcium channel blockers. Allopurinol has not been shown to worsen symptoms of myasthenia gravis. Furosemide is a diuretic, and warfarin is a blood thinner. magnetic resonance imaging (MRI) with intravenous (IV) gadolinium A. 1% Explanation & Notes Discussion BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 122,
+  "question": "What is the gold standard imaging study to exclude a cerebral aneurysm?",
+  "options": {
+   "A": "magnetic resonance imaging (MRI) with intravenous (IV) gadolinium",
+   "B": "woman with a chronic right red eye has been treated with topical antibiotics and steroids, but has not had relief. She also reports pulsatile tinnitus. As shown, she has 3 mm of proptosis and redness in the right eye that does not blanch with phenylephrine.",
+   "C": "computed tomography (CT) with contrast",
+   "D": "conventional angiography"
+  },
+  "markedAnswer": "D",
+  "explanation": "What abnormality might an ophthalmologist expect to ﬁnd on magnetic resonance imaging (MRI) of her brain and orbits? ! % # magnetic resonance angiography (MRA) The deﬁnitive method to exclude a cerebral aneurysm is conventional angiography. The other choices (CT with contrast, MRI with IV gadolinium, MRA), are less-invasive methods to evaluate the orbital vasculature, and can be helpful, but are not the best way to exclude an aneurysm. 5ec4- 4dee- 8beb- d43c2052bb72)  diﬀuse ﬁbroinﬂammatory inﬁltration of orbital fat spaces A. 1% dilation of the right superior ophthalmic vein B. 93%.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 123,
+  "question": "A 62-year-old hypertensive woman with a chronic right red eye has been treated with topical antibiotics and steroids, but has not had relief. She also reports pulsatile tinnitus. As shown, she has 3 mm of proptosis and redness in the right eye that does not blanch with phenylephrine. What abnormality might an ophthalmologist expect to ﬁnd on magnetic resonance imaging (MRI) of her brain and orbits? magnetic resonance angiography (MRA) B.",
+  "options": {
+   "A": "diﬀuse ﬁbroinﬂammatory inﬁltration of orbital fat spaces",
+   "B": "dilation of the right superior ophthalmic vein",
+   "C": "optic nerve compression at the right orbital apex",
+   "D": "thickening of the posterior wall of the right globe"
+  },
+  "markedAnswer": "B",
+  "explanation": "Abnormal connections between the carotid artery or its branches and the cavernous sinus introduce high arterial pressures into the normally low-pressure venous circulation of the cavernous sinus. Such a high-pressure connection may reverse blood ﬂow within the superior ophthalmic vein and produce venous congestion within the orbit. Arterialization of conjunctival vessels is a classic sign of this ﬁstula, which can be high-ﬂow, characterized by a direct communication between the internal carotid artery and the cavernous sinus, or indirect, involving connections mediated by small arterial feeders BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 124,
+  "question": "What drug has been most commonly associated with the condition that could cause mental status changes and hemianopsia in a patient with multiple sclerosis (MS)?",
+  "options": {
+   "A": "natalizumab",
+   "B": "glatiramer acetate",
+   "C": "ﬁngolimod",
+   "D": "interferon ß-1a"
+  },
+  "markedAnswer": "A",
+  "explanation": "Altered mental status in the presence of a hemianopic visual ﬁeld defect raises concern for progressive multifocal leukoencephalopathy, a condition associated with natalizumab in patients who are John Cunningham (JC)-virus positive. The other therapies have either not been associated or been associated with encephalopathy only in rare cases. Fingolimod can cause macular edema. &",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 125,
+  "question": "What cranial nerve (CN) is most susceptible to damage within the cavernous sinus?",
+  "options": {
+   "A": "cranial nerve III (oculomotor)",
+   "B": "cranial nerve VI (abducens)",
+   "C": "cranial nerve IV (trochlear)"
+  },
+  "markedAnswer": "B",
+  "explanation": "cranial nerves V and V (trigeminal, ophthalmic, and maxillary divisions) D. 1 2 1% BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 126,
+  "question": "An ophthalmologist sees a patient whose examination results show an inﬁltrative optic neuropathy in association with leptomeningeal enhancement on brain magnetic resonance imaging (MRI) and an abnormal computed tomography (CT) scan of the chest. Bronchoscopic biopsy demonstrates noncaseating granulomas. What is the most likely diagnosis in this case?",
+  "options": {
+   "A": "syphilis",
+   "B": "sarcoidosis",
+   "C": "tuberculosis",
+   "D": "Lyme disease"
+  },
+  "markedAnswer": "B",
+  "explanation": "Sarcoid optic neuropathy is a granulomatous inﬂammatory condition and can present as an inﬁltrative optic neuropathy. Hilar adenopathy on chest CT would raise suspicion of sarcoidosis, and biopsy demonstrating noncaseating granulomata is consistent with sarcoidosis. In cases of neurosarcoidosis, MRI scan commonly shows pachymeningeal and leptomeningeal enhancement. Corticosteroids and other immunomodulators like methotrexate and tumor necrosis factor (TNF) blockers are the mainstays of treatment. While the imaging characteristics described in this case could be consistent with tuberculosis, characteristic pathologic ﬁndings include caseating granulomata (rather than the noncaseating ones of sarcoidosis). Lyme disease can present as an optic neuropathy without chest CT ﬁndings. It usually causes neuroretinitis with macular exudates in addition to optic disc edema. A CT chest would not be initially helpful in detecting syphilis infection. 1bde- 4c07- be14- 8708da826e9c)  optic nerve glioma.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 127,
+  "question": "For what vision-threatening tumor is there an increased risk in a child with the ﬁndings shown in the ﬁgure? syphilis A.",
+  "options": {
+   "A": "optic nerve glioma",
+   "B": "retinal hamartoma",
+   "C": "retinal hemangioblastoma",
+   "D": "optic nerve sheath meningioma"
+  },
+  "markedAnswer": "A",
+  "explanation": "The presence of Lisch nodules (shown on the iris in the Figure) raises suspicion for neuroﬁbromatosis type 1. Children with neuroﬁbromatosis type 1 are at increased risk for vision loss secondary to optic pathway glioma. Neuroﬁbromatosis type 2 is associated with the development of acoustic neuromas, meningiomas, and retinal hamartomas. Von Hippel-Lindau disease is associated with the development of retinal hemangioblastomas, which commonly are multiple and bilateral.",
+  "imageUrl": "/images/neuro-bcsc/p171_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 128,
+  "question": "A 55-year-old woman with a history of migraine with visual aura, who is also followed as a glaucoma suspect, developed a persistent visual ﬁeld defect after a migraine headache. She had no other neurologic symptoms. There was no relative aﬀerent pupillary defect (RAPD). Cup-to-disc ratio was 0.7 OU. The Goldmann visual ﬁelds are shown below. What is the most likely cause of the visual ﬁeld defect?",
+  "options": {
+   "A": "progression to primary open- angle glaucoma",
+   "B": "ischemic stroke",
+   "C": "acute onset of CNS demyelinating disease",
+   "D": "central nervous system (CNS) infection"
+  },
+  "markedAnswer": "B",
+  "explanation": "Patients with migraine aura are at a mild increased risk of ischemic stroke compared to the general population and also those who have migraines without aura. This patient suﬀered a persistent right homonymous visual ﬁeld defect, indicating a lesion aﬀecting the left post-chiasmal visual pathway. Given her history of migraines with aura, ischemic stroke is the most likely cause for her persistent visual ﬁeld defect. The other answers are less likely, given her history. A CNS infection would be unlikely in an otherwise healthy individual and would not cause an isolated visual ﬁeld defect without other neurologic symptoms. Demyelinating disease rarely aﬀects the cortex to cause homonymous visual ﬁeld defect. (However, demyelinating disease can aﬀect the optic tract and cause a homonymous visual ﬁeld defect, but it was unlikely in this patient because there was no RAPD.) Progression of primary open-angle glaucoma would be an unlikely cause of such a congruous homonymous visual ﬁeld defect.",
+  "imageUrl": null,
+  "stemReferencesFigure": true,
+  "figureMissing": true
+ },
+ {
+  "id": 129,
+  "question": "For 3 days, a 33-year-old woman was noted to have bilaterally enlarged, poorly light-reactive pupils. Visual acuity is 20/20 OU. She is orthotropic at distance and her motility at near is shown. What disorder most likely accounts for her ﬁndings?",
+  "options": {
+   "A": "bilateral pharmacologic mydriasis",
+   "B": "bilateral third nerve palsy",
+   "C": "bilateral tonic pupils",
+   "D": "bilateral optic neuropathy"
+  },
+  "markedAnswer": "A",
+  "explanation": "This woman demonstrates symmetric, round pupils nonreactive to accommodation. In the absence of a third nerve palsy, the most likely explanation is bilateral pharmacologic mydriasis. Patients with severe bilateral visual loss from optic neuropathy BCSC Excerpt References Notes.",
+  "imageUrl": "/images/neuro-bcsc/p173_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 130,
+  "question": "For an optic nerve glioma, what is the most likely ﬁnding on orbital imaging?",
+  "options": {
+   "A": "hyperintensity on T-1 weighted, precontrast magnetic resonance imaging (MRI)",
+   "B": "fusiform enlargement of the optic nerve",
+   "C": "enhancement of the optic nerve sheath (\"tram-tracking\")",
+   "D": "dilated superior ophthalmic vein"
+  },
+  "markedAnswer": "B",
+  "explanation": "Most optic nerve gliomas (ONGs) exhibit a fusiform shape on computed tomography (CT) and MRI. Globular or multilobulated shapes may occur, but are less common. The optic nerve may also have a characteristic tortuosity or kinking. If mucinous degeneration has occurred, cystic spaces within the lesion may be evident. ONG is typically either isointense or hypointense to gray matter on precontrast T1-weighted MRI. Enhancement with gadolinium is the rule, although it is less intense than that seen in optic nerve sheath meningioma (ONSM). \"Tram-tracking\" is a classic sign of ONSM, due to tumor growth along the nerve sheath. Of note, fusiform shapes are also quite common with ONSM; the optic nerve should appear as a lucency on imaging of ONSM, as opposed to ONG. A dilated superior ophthalmic vein is usually a sign of orbital and cavernous sinus congestion and is classically seen in carotid- cavernous ﬁstula. 102c- 409a- b3fe- 583cf2ef7256&t=637622985884730000)",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 131,
+  "question": "Stenosis of the carotid artery causes what visual symptom in its early stages?",
+  "options": {
+   "A": "visual loss in the supine position",
+   "B": "gaze-evoked visual loss",
+   "C": "transient visual loss in bright light",
+   "D": "binocular diplopia"
+  },
+  "markedAnswer": "C",
+  "explanation": "Hypoperfusion from severe carotid artery stenosis leads to transient monocular vision loss (TMVL) in several situations. Ocular ischemic syndrome is characterized in part by a hypotensive, ischemic retinopathy with low retinal artery pressure, poor perfusion, and midperipheral retinopathy. In the early stages, there may be transient or persistent blurred vision or transient visual loss on exposure to bright light. Binocular diplopia is incorrect because it is not likely to occur in ocular ischemia, but instead is due to cranial nerve palsy and other forms of strabismus. Vision in ocular ischemic syndrome would be expected to improve, not worsen, in the supine position. Gaze-evoked visual loss is associated with increased intracranial pressure, such as in idiopathic intracranial hypertension (IIH), due to compression of the optic nerve within an edematous sheath on lateral gaze.",
+  "imageUrl": "/images/neuro-bcsc/p175_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 132,
+  "question": "A 53-year-old woman reports worsening ability to keep her eyes open. Because of this, she has stopped driving and reading. The examining ophthalmologist observes forceful, episodic bilateral eyelid closure with simultaneous contraction of the corrugator and procerus muscles. What is the best next step in management?",
+  "options": {
+   "A": "acetylcholine receptor antibodies",
+   "B": "magnetic resonance imaging (MRI) of the brain",
+   "C": "psychiatric referral",
+   "D": "botulinum toxin injection"
+  },
+  "markedAnswer": "D",
+  "explanation": "Essential blepharospasm consists of episodic contraction of the orbicularis oculi. Onset usually occurs between ages 40 and 60 years. Initially, the spasms are mild, but they may progress to the point that the patient’s daily activities are severely disrupted. The exact cause of benign essential blepharospasm is unknown, BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 133,
+  "question": "A 44-year-old man who had gastric bypass surgery 8 months ago currently has indeterminate onset, progressive diﬃculty reading. Visual acuity is 20/60 OD, 20/150 OS. He has poor color vision, no relative aﬀerent pupillary defect (RAPD), and normal-appearing optic nerves. What treatment is most likely to address the cause of his vision loss?",
+  "options": {
+   "A": "intravenous corticosteroids for 3 days followed by an 11-day oral taper",
+   "B": "oral soluble form of vitamin A",
+   "D": "immediate optic nerve sheath fenestration, both eyes"
+  },
+  "markedAnswer": "B",
+  "explanation": "Gastric bypass patients are susceptible to intestinal malabsorption syndrome, including vitamin B deﬁciency. Vitamin B deﬁciency results in a bilateral, insidious, nutritional optic neuropathy that causes central vision loss with cecocentral scotomata on visual ﬁeld testing and eventually bilateral temporal optic nerve pallor. Treatment is parenteral B supplementation. Intravenous corticosteroids for 3 days followed by an 11-day oral taper is the treatment for acute optic neuritis, not nutritional optic neuropathy. The oral soluble form of vitamin A is the treatment for vitamin A deﬁciency, which causes nyctalopia and retinal dysfunction. Immediate optic nerve sheath fenestration, both eyes, would be a treatment option in extreme cases of fulminant idiopathic intracranial hypertension with severe papilledema. 12 12 12 References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 134,
+  "question": "What supranuclear ocular motor system is responsible for maintaining an image on the fovea during brief head movements?",
+  "options": {
+   "A": "vergence system",
+   "B": "optokinetic system",
+   "C": "ocular ﬁxation system",
+   "D": "vestibular-ocular system"
+  },
+  "markedAnswer": "D",
+  "explanation": "The vestibular-ocular system holds the image of an object on the fovea during brief head movement. The optokinetic system holds the image of an object on the fovea during sustained head movement. The ocular ﬁxation system holds the image of a stationary object on the fovea when there is no head movement. The vergence system enables the eyes to move in opposite directions so that the image of an object remains on the fovea of both the right and left eyes for near and distance viewing with normal ocular alignment.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 135,
+  "question": "When does radiation optic neuropathy typically occur after radiation therapy?",
+  "options": {
+   "A": "after decades",
+   "B": "during or immediately after",
+   "C": "after 1 to 2 years",
+   "D": "within a few weeks"
+  },
+  "markedAnswer": "C",
+  "explanation": "Radiation optic neuropathy is a complication that occurs after radiation that involves the optic nerves. This typically occurs months (average 18 months) after radiation treatment and produces subacute optic neuropathy. Radiation optic neuropathy is in part dose-related; it is more likely to occur with higher doses (typically > 5000 cGy). MRI typically shows enhancement of the optic nerves.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 136,
+  "question": "Automated static perimetry has several indices to gauge the reliability of a visual ﬁeld test. What reliability index measures how often the patient identiﬁes the stimulus in the previously placed physiologic blind spot?",
+  "options": {
+   "A": "false-negative response rate",
+   "B": "gaze tracker",
+   "C": "ﬁxation losses",
+   "D": "false-positive response rate"
+  },
+  "markedAnswer": "C",
+  "explanation": "The reliability of perimetry results is assessed by identifying the following patient response characteristics: Fixation losses: how often the patient identiﬁes the stimulus in the previously plotted physiologic blind spot location (ie, a response not expected), indicating that the eye is not aligned with the ﬁxation target. False-positive response rate: how frequently the patient signals when no target is displayed.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 137,
+  "question": "A 45-year-old woman reports bilateral eyelid twitching for the past 3 months. She has noticed that it has gotten worse, and on occasion has made it diﬃcult to read and perform her job in data entry. She reports no new external stressors. How would her condition typically be managed?",
+  "options": {
+   "A": "neuroimaging",
+   "B": "a trial of muscle relaxants and sedatives",
+   "C": "episodic injections of botulinum toxin type A",
+   "D": "neurosurgical decompression of the facial nerve"
+  },
+  "markedAnswer": "C",
+  "explanation": "Benign essential blepharospasm (BEB) is a form of bilateral facial dystonia. It is more common in middle-aged women. Characterized by increased blinking and involuntary spasms of the muscles around the eyes, the spasms usually start as twitches and progress to forceful contractures. This condition can be severe in some individuals, causing diﬃculty with activities of daily living. It may even render these patients functionally blind due to episodic sustained contracture. Diagnosis is made clinically, and neuroimaging is rarely indicated. The exact cause of BEB is unknown, but is believed to originate in the basal ganglia. BEB must be diﬀerentiated from hemifacial spasm. Hemifacial spasm involves the contracture of the entire side of one’s face and is almost always unilateral. Hemifacial spasm is due to vascular compression of the facial nerve at the brain stem by enlarged vessels. Magnetic resonance imaging/magnetic resonance angiography (MRI/MRA) can be useful in visualizing this vascular abnormality. Unlike benign cases of blepharospasm, hemifacial spasm can occur at any time, even during sleep. Treatment options for hemifacial spasm may include surgical decompression of the brain stem, as well as temporizing treatments such as Botox injections. Management of BEB can include injection with Botox, surgical myectomy, and ablation of the facial nerve. Episodic injection of Botox type A is the ﬁrst line of treatment and is usually very eﬀective at relieving symptoms. Injections start working after several days and typically last for up to 4 months. As the eﬀect wears oﬀ, re- injection is required. Botox type B can also be used, but in general, injections are less tolerated and less eﬀective. However, treatment failure with injection with Botox type A may be followed by a trial of injection with Botox type B. Complications of Botox injection usually result from medication spread to adjacent muscles and can include blepharoptosis, epiphora, diplopia, lagophthalmos, and ectropion. For patients unresponsive to Botox therapy, subtotal myectomy of the orbicularis oculi is the next option for treatment. This may also BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 138,
+  "question": "A 30-year-old woman presents with multiple subcutaneous nodules and the ﬁnding shown on slit-lamp examination (Fig. 1) An abnormality of what chromosome is most likely to be associated with this presentation?",
+  "options": {
+   "A": "chromosome 17",
+   "B": "chromosome 22",
+   "C": "chromosome 5",
+   "D": "chromosome 11"
+  },
+  "markedAnswer": "A",
+  "explanation": "The slit-lamp photo shows Lisch nodules, pigmented iris hamartomas present in 94%-97% of patients over 6 years old with neuroﬁbromatosis type 1 (NF1), also known as von Recklinghausen disease. NF1 is inherited in an autosomal dominant manner and has been linked to chromosome 17. The disease is characterized by the presence of multiple cutaneous pigmented macules (café-au-lait spots), neuroﬁbromas, iris (Lisch) nodules, optic pathway glioma, and osseous defects, including sphenoid wing dysplasia. Chromosome 22 is linked to neuroﬁbromatosis type 2, and Lisch nodules are not a common feature of this disease. NF2 classically involves bilateral acoustic neuromas, multiple meningiomas, and posterior subcapsular cataracts. Chromosome 5 is linked to cri-du-chat syndrome, with a variety of ocular features such as strabismus and optic atrophy. Chromosome 11 is linked to aniridia and the WAGR syndrome: Wilms tumor, aniridia, genitourinary, and renal disorders.",
+  "imageUrl": "/images/neuro-bcsc/p185_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 139,
+  "question": "A 12-year-old girl presents with 1 day of severe headache, nausea, vomiting, and diplopia. On examination, she is found to have bilateral optic nerve head swelling. Magnetic resonance imaging (MRI) shows no mass lesions and no abnormal enhancement. What is the likely ﬁnding to explain the diplopia?",
+  "options": {
+   "A": "incomitant exotropia",
+   "B": "comitant exotropia",
+   "C": "comitant esotropia",
+   "D": "incomitant esotropia"
+  },
+  "markedAnswer": "D",
+  "explanation": "Visual acuity, color vision, and pupillary reactions often initially are normal in the setting of increased intracranial pressure. A sixth nerve palsy can result from increased intracranial pressure and is referred to as a false localizing sign in this setting. This would appear clinically as an incomitant esotropia. Comitant alignment would be suggestive of a phoria (with or without decompensation), which would not be expected to explain diplopia in the setting of increased intracranial pressure. Incomitant exotropia could occur due to a third nerve BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 140,
+  "question": "In a patient with ptosis but no extraocular motility limitation, what ﬁnding, aside from fatigability, should prompt a workup for myasthenia gravis?",
+  "options": {
+   "A": "loss of corneal sensation",
+   "B": "orbicularis oculi weakness",
+   "C": "pupil involvement",
+   "D": "lid elevation on adduction"
+  },
+  "markedAnswer": "B",
+  "explanation": "Ptosis is a common problem whose etiology varies from benign involutional changes to serious neurologic disease. A thorough examination is critical to determining the workup.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 141,
+  "question": "A 54-year-old woman presents with a progressive painless decline in vision in her right eye over a year. Examination shows mild, chronic-appearing disc edema and dilated veins in the right eye. Magnetic resonance imaging (MRI) T1-weighted images with contrast are shown in the ﬁgure. Based on the history, examination, and imaging, what is the most likely diagnosis?",
+  "options": {
+   "A": "optic nerve glioma",
+   "B": "optic perineuritis",
+   "C": "optic nerve sheath meningioma",
+   "D": "cavernous hemangioma"
+  },
+  "markedAnswer": "C",
+  "explanation": "The ﬁndings of progressive, painless vision loss; mild, chronic- appearing disc edema; and optic nerve sheath enhancement on MRI (red arrows) are consistent with an optic nerve sheath meningioma. These meningiomas are usually detected in adults aged 40-50 years and aﬀect women 3 times as often as men. Disc edema may be present, especially if the tumor extends anteriorly. Neuroimaging shows enhancement of the optic nerve sheath, displaying a “tram track” appearance on axial images and a “bull’s eye” appearance on coronal images. Optic nerve gliomas are the most common primary tumors of the optic nerve, but typically occur in younger people, and neuroimaging shows fusiform or globular enlargement of the optic nerve. Cavernous hemangiomas are the most common intraorbital tumor in adults, but will cause an intraconal mass that is distinct from the optic nerve. Optic perineuritis will cause enhancement of the optic nerve sheaths on MRI that looks similar to an optic nerve sheath meningioma, but presents with acute or subacute painful vision loss.",
+  "imageUrl": "/images/neuro-bcsc/p189_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ }
+]

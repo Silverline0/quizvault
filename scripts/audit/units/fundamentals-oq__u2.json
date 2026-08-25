@@ -1,0 +1,1052 @@
+[
+ {
+  "id": 71,
+  "question": "The basal layer of the corneal epithelium is attached to the basal lamina by what?",
+  "options": {
+   "A": "hemidesmosomes",
+   "B": "desmosomes",
+   "C": "integrins",
+   "D": "occluding zonules"
+  },
+  "markedAnswer": "A",
+  "explanation": "The basal layer of the corneal epithelium is attached to a basal lamina by hemidesmosomes (see below).",
+  "imageUrl": "/images/fundamentals-oq/p36_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 72,
+  "question": "Which types of collagen are in Bowman's Layer?",
+  "options": {
+   "A": "Type I and II",
+   "B": "Type I and V",
+   "C": "Type II and V",
+   "D": "Type III and V"
+  },
+  "markedAnswer": "B",
+  "explanation": "Bowman's Layer is primarily Type I and V collagen. The sclera is mostly made up of type I collagen and the proteoglycans, decorin, biglycan, and aggrecan. Type III collagen is associated with stromal wound healing. Type IV is associated with basement membranes (Descemet's and lens capsule).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 73,
+  "question": "The epithelial cells of the crystalline lens have a normal globule configuration. What cellular configuration do the rest of the cells in the crystalline lens have and where do they attain this shape?",
+  "options": {
+   "A": "globular and pre-equatorial",
+   "B": "globular and equatorial",
+   "C": "ribbon-like and pre-equatorial",
+   "D": "ribbon-like and equatorial"
+  },
+  "markedAnswer": "D",
+  "explanation": "The metabolically active cells of the crystalline lens are found in a single layer of cuboidal epithelial cells just posterior to the anterior lens capsule. The greatest activity of these epithelial cells occurs in the \"germinative zone\" which is a pre- equatorial zone of the lens (see diagram below).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 74,
+  "question": "What is the thickness of the cornea at the limbus?",
+  "options": {
+   "A": "0.6 mm",
+   "B": "0.7 mm",
+   "C": "1.0 mm",
+   "D": "2.0 mm"
+  },
+  "markedAnswer": "C",
+  "explanation": "The peripheral cornea near the limbus is approximately 1.0 mm in thickness. The cornea also becomes flatter in the periphery with the most flattening occurring nasally and superiorly compared to temporally and inferiorly.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 75,
+  "question": "What are the flattest two quadrants of the peripheral cornea?",
+  "options": {
+   "A": "inferior and superior",
+   "B": "superior and nasal",
+   "C": "medial and lateral",
+   "D": "lateral and inferior"
+  },
+  "markedAnswer": "B",
+  "explanation": "The central 1/3 of the cornea is nearly spherical. The cornea becomes progressively flatter in the periphery; however, this flattening is not the same in all directions. There is actually more flattening nasally and superiorly compared to temporally and inferiorly.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 76,
+  "question": "What is the shape of the normal cornea?",
+  "options": {
+   "A": "prolate",
+   "B": "oblate",
+   "C": "spherical",
+   "D": "sinusoidal"
+  },
+  "markedAnswer": "A",
+  "explanation": "The curvature of the normal cornea flattens from the center to the periphery by up to 4.00 D. This progressive flattening of the cornea is referred to as a prolate shape. Also, the normal cornea is typically flatter nasally compared to temporally.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 77,
+  "question": "How thick is Bowman's layer?",
+  "options": {
+   "A": "6-8 microns",
+   "B": "8-14 microns",
+   "C": "15-18 microns",
+   "D": "19-23 microns"
+  },
+  "markedAnswer": "B",
+  "explanation": "The average thickness of the epithelium is 50 microns. The average thickness of Bowman's is 8-14 microns. Descemet's is 3 microns at birth and increases to 10 microns as an adult.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 78,
+  "question": "What protein constitutes 90-95% of total lens protein?",
+  "options": {
+   "A": "albumin",
+   "B": "lens crystallins",
+   "C": "hemoglobin",
+   "D": "transthyretin"
+  },
+  "markedAnswer": "B",
+  "explanation": "Crystallins are proteins found in the lens. It is thought that they help stabilize the lens and help maintain clarity. They also have anti-oxidant properties that help maintain lens clarity with age. In the human lens, there are two major types of crystallins: a and ß,gamma-crystallins. a-crystallins have the largest molecular weight but the ß-crystallins constitute the predominant crystallin. gamma-crystallins are expressed early in life and are therefore concentrated in the nucleus.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 79,
+  "question": "Histologically, what is the lens capsule?",
+  "options": {
+   "A": "it is the basal lamina of the lens epithelium",
+   "B": "it is the basal lamina of the lens endothelium",
+   "C": "It is a separately derived structure derived from neural crest",
+   "D": "It is composed of type I collagen"
+  },
+  "markedAnswer": "A",
+  "explanation": "The lens capsule is an elastic basement membrane composed of type IV collagen. It is laid down by the adjacent lens epithelial cells and is thus the epithelial layer's basal lamina. The outer layer of the lens capsule is called the zonular lamella and is where the zonular fibers attach. The anterior lens capsule continues to thicken with age, while the posterior capsule remains the same thickness (~2-4 microns). The thickest portion of the lens capsule is in the pre- and post-equatorial zones of the lens.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 80,
+  "question": "What are the collagen types in the corneal stroma?",
+  "options": {
+   "A": "I, III, V and VI",
+   "B": "I, III, IV, and V",
+   "C": "I, V, VI, VIII",
+   "D": "V, VI, VII, and VIII"
+  },
+  "markedAnswer": "A",
+  "explanation": "Descemet's is the basement membrane of the endothelium and thus it is type IV collagen. This question refers to stroma only.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 81,
+  "question": "What is the term that describes when the pupillary ruff is more extended onto the visible surface of the iris?",
+  "options": {
+   "A": "ectropion uvea",
+   "B": "entropion uvea",
+   "C": "iris inversus",
+   "D": "iris enversus"
+  },
+  "markedAnswer": "A",
+  "explanation": "This is particularly seen with neovascularization of the iris where the abnormal vessels growing on the surface of the iris contract and pull the pigmented portion of the iris onto the anterior surface.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 82,
+  "question": "What is the normal endothelial cell count in young adults?",
+  "options": {
+   "A": "2500/mm2",
+   "B": "3000/mm2",
+   "C": "3500/mm2",
+   "D": "4000/mm2"
+  },
+  "markedAnswer": "B",
+  "explanation": "You have approximately 4000/mm2 at birth. \"Young adults\" have about 3000/mm2. It decreases approximately linearly till the age of 60 when you have about 2500/mm2. At that point, humans lose cells at a lower rate than when young. Thus, a 70 and 80 year old would have more cells than you would think.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 83,
+  "question": "What quadrants (from most to least) have the highest density of neurons in the optic nerve head?",
+  "options": {
+   "A": "inferior, superior, nasal, and then temporal",
+   "B": "inferior, nasal, superior, and then temporal",
+   "C": "inferior, superior, temporal, and then nasal",
+   "D": "superior, inferior, nasal, and then temporal"
+  },
+  "markedAnswer": "A",
+  "explanation": "This can be remembered by the \"ISNT\" rule. This is important in glaucoma diagnosis because the optic nerve head should follow this pattern. If, for instance, you notice that the inferior rim is thinner than the superior rim, it would lend evidence to a diagnosis of glaucoma.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 84,
+  "question": "What is the blood supply to the nerve fiber layer portion of the optic nerve?",
+  "options": {
+   "A": "central retinal artery",
+   "B": "short posterior ciliary arteries",
+   "C": "short anterior ciliary arteries",
+   "D": "long anterior ciliary arteries"
+  },
+  "markedAnswer": "A",
+  "explanation": "The blood supply to the nerve fiber layer portion of the optic nerve is by the central retinal artery.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 85,
+  "question": "Where in the optic tract do the upper retinal fibers travel?",
+  "options": {
+   "A": "superiorly",
+   "B": "inferiorly",
+   "C": "medially",
+   "D": "laterally"
+  },
+  "markedAnswer": "C",
+  "explanation": "Upper retinal fibers (both crossed and uncrossed) travel medially in the optic tract. Lower retinal fibers travel laterally in the optic tract. The macular fibers assume a dorsolateral position as they approach the lateral geniculate body.",
+  "imageUrl": "/images/fundamentals-oq/p42_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 86,
+  "question": "Where in the optic tract do the lower retinal fibers travel?",
+  "options": {
+   "A": "superiorly",
+   "B": "inferiorly",
+   "C": "medially",
+   "D": "laterally"
+  },
+  "markedAnswer": "D",
+  "explanation": "The optic tract is composed of fibers from the ipsilateral temporal retina and the contralateral nasal retina.",
+  "imageUrl": "/images/fundamentals-oq/p42_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 87,
+  "question": "Prior to giving off any branches, where is the ophthalmic artery in relation to the optic nerve?",
+  "options": {
+   "A": "superio-laterally",
+   "B": "infero-laterally",
+   "C": "superio-medially",
+   "D": "infero-medially"
+  },
+  "markedAnswer": "B",
+  "explanation": "The ophthalmic artery is a branch of the internal carotid artery (ICA) and gives rise to several important blood vessels (e.g. central retinal artery, lacrimal artery, posterior ciliary arteries). The ophthalmic artery typically branches from the ICA just after the ICA emerges from the cavernous sinus.",
+  "imageUrl": "/images/fundamentals-oq/p43_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 88,
+  "question": "Which of the following is the most common presentation of a dural venous sinus thrombosis?",
+  "options": {
+   "A": "increased IOP (intraocular pressure)",
+   "B": "papilledema",
+   "C": "neovascularization",
+   "D": "angle recession glaucoma"
+  },
+  "markedAnswer": "B",
+  "explanation": "The cavernous sinus is continuous with the superior sagittal, transverse, straight, sigmoid, and petrosal sinuses. These are known as the \"venous sinuses\". Thrombosis in any venous sinus can lead to increased intracranial hypertension and papilledema. Any young patient presenting with papilledema needs to be ruled out for having a venous sinus thrombosis.",
+  "imageUrl": "/images/fundamentals-oq/p43_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 89,
+  "question": "The surgical limbus consists of an anterior blue zone and a posterior white zone. What does the white zone overly?",
+  "options": {
+   "A": "clear cornea",
+   "B": "termination of Bowman's membrane",
+   "C": "trabecular meshwork",
+   "D": "anterior ciliary body"
+  },
+  "markedAnswer": "C",
+  "explanation": "The surgical limbus describes the transition zone from sclera to clear cornea. It consists of two \"zones\" both of which are approximately 1 mm in length.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 90,
+  "question": "Aqueous humor passes from the trabecular meshwork (TM) into Schlemm's canal to deep and midscleral venous plexuses and then drains next into what structure?",
+  "options": {
+   "A": "juxtacanalicular canal",
+   "B": "episcleral venous plexus",
+   "C": "pterygopalatine fossa",
+   "D": "cavernous sinus"
+  },
+  "markedAnswer": "B",
+  "explanation": "Aqueous humor leaves the eye by passing through the trabecular meshwork and then into Schlemm's canal. From there, aqueous flows into collector channels then to deep and midscleral venous plexuses and then into the episcleral venous plexus.",
+  "imageUrl": "/images/fundamentals-oq/p45_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 91,
+  "question": "What is the average rate of formation of aqueous humor?",
+  "options": {
+   "A": "0.02 uL/min",
+   "B": "0.2 uL/min",
+   "C": "2 uL/min",
+   "D": "20 uL/min"
+  },
+  "markedAnswer": "C",
+  "explanation": "The ciliary body epithelium produces aqueous humor at a rate of approximately 2- 3 uL/min.",
+  "imageUrl": "/images/fundamentals-oq/p45_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 92,
+  "question": "How are the cells of the nonpigmented and pigmented epithelium of the ciliary body arranged with regard to their apices and basal surfaces?",
+  "options": {
+   "A": "basal of nonpigmented to apex of pigmented",
+   "B": "apex of nonpigmented to basal of pigmented",
+   "C": "apex of nonpigmented to apex of pigmented",
+   "D": "basal of nonpigmented to basal of pigmented"
+  },
+  "markedAnswer": "C",
+  "explanation": "The cells of the nonpigmented and pigmented epithelium of the ciliary body are arranged apex of nonpigmented to apex of pigmented with regard to their apices and basal surfaces.",
+  "imageUrl": "/images/fundamentals-oq/p46_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 93,
+  "question": "Which of the trabecular meshwork (TM) layers is responsible for the majority of aqueous resistance?",
+  "options": {
+   "A": "uveal",
+   "B": "corneoscleral",
+   "C": "juxtacanalicular",
+   "D": "iris"
+  },
+  "markedAnswer": "C",
+  "explanation": "This is the portion of the trabecular meshwork (TM) that is directly adjacent to the canal. The uveal portion of the trabecular meshwork (the inner-most layer adjacent to the aqueous) can sometimes be seen on gonioscopy as \"iris processes\".",
+  "imageUrl": "/images/fundamentals-oq/p46_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 94,
+  "question": "Which of the following is the predominant component of \"uveoscleral outflow\" of aqueous humor?",
+  "options": {
+   "A": "Aqueous flows across the ciliary body and into the trabecular meshwork",
+   "B": "Aqueous flows across the ciliary body and into the suprascleral space",
+   "C": "Aqueous flows across the ciliary body and into the supraciliary space",
+   "D": "Aqueous flows into the episcleral venous system"
+  },
+  "markedAnswer": "C",
+  "explanation": "Any outflow of aqueous that does not occur via the trabecular meshwork is called uveoscleral outflow. Another term for uveoscleral outflow is \"pressure- independent outflow.\"",
+  "imageUrl": "/images/fundamentals-oq/p46_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 95,
+  "question": "Which type of ciliary muscle attaches to the scleral spur and upon contracture causes the TM (trabecular meshwork) to open?",
+  "options": {
+   "A": "the circular ciliary muscle",
+   "B": "the longitudinal ciliary muscle",
+   "C": "the tangential ciliary muscle",
+   "D": "the spherical ciliary muscle"
+  },
+  "markedAnswer": "B",
+  "explanation": "This is the mechanism by which pilocarpine works.",
+  "imageUrl": "/images/fundamentals-oq/p47_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 96,
+  "question": "The nonpigmented layer of the ciliary body (which makes aqueous and is contact with the posterior chamber) is derived from which embryonic layer of the optic cup?",
+  "options": {
+   "A": "the inner nonpigmented layer",
+   "B": "the outer nonpigmented layer",
+   "C": "the inner pigmented layer",
+   "D": "the outer pigmented layer"
+  },
+  "markedAnswer": "A",
+  "explanation": "The inner nonpigmented layer also forms the neurosensory retina.",
+  "imageUrl": "/images/fundamentals-oq/p47_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 97,
+  "question": "Which of the following substances is lower in the aqueous as compared to plasma in humans?",
+  "options": {
+   "A": "ascorbate",
+   "B": "lactate",
+   "C": "magnesium",
+   "D": "glucose"
+  },
+  "markedAnswer": "D",
+  "explanation": "For some reason, knowing the relative concentrations of different substances within the aqueous compared to plasma is always high-yield. Here is a quick high- yield summary: • Glucose concentration in the aqueous is ~70% that in plasma. • Lactate concentration in the aqueous is always higher than that in plasma. • Ascorbic acid (i.e. vitamin C) concentration is 10-50 times higher than that in plasma. • Sodium, potassium, and magnesium are roughly equal between aqueous and plasma. • Calcium concentration is ~one-half that of plasma. • There is much less overall protein concentration (e.g. 0.02 g / 100 mL) in normal aqueous compared to that in plasma (7 g / 100 mL). Most of the protein in human aqueous is albumin and transferrin.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 98,
+  "question": "During gonioscopy, the slit beam is split into two parts and then converges onto what angle structure?",
+  "options": {
+   "A": "anterior TM",
+   "B": "Schwalbe's line",
+   "C": "posterior TM",
+   "D": "scleral spur"
+  },
+  "markedAnswer": "B",
+  "explanation": "Schwalbe's line is the posterior most extension of Descemet's membrane.",
+  "imageUrl": "/images/fundamentals-oq/p49_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 99,
+  "question": "What are the 3 layers of the ciliary muscle?",
+  "options": {
+   "A": "longitudinal, radial, and tangential",
+   "B": "longitudinal, wavy, and circular",
+   "C": "oblique, radial, and circular",
+   "D": "longitudinal, radial, and circular"
+  },
+  "markedAnswer": "D",
+  "explanation": "The longitudinal portion of the ciliary muscle attaches to the scleral spur and upon contracture causes the TM (trabecular meshwork) to open. This is the mechanism by which pilocarpine lowers intraocular pressure.",
+  "imageUrl": "/images/fundamentals-oq/p49_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 100,
+  "question": "Approximately how many ciliary processes of the ciliary body are there?",
+  "options": {
+   "A": "50",
+   "B": "60",
+   "C": "75",
+   "D": "90"
+  },
+  "markedAnswer": "C",
+  "explanation": "The Fundamentals BCSC states there are approximately 70 ciliary processes of the ciliary body. Per the glaucoma BCSC there are about 80 or so ciliary processes.",
+  "imageUrl": "/images/fundamentals-oq/p49_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 101,
+  "question": "Where in the ciliary body is the blood-aqueous barrier?",
+  "options": {
+   "A": "zonulae occludentes at the apical border",
+   "B": "zonulae occludentes at the basal border",
+   "C": "gap junctions at the apical border",
+   "D": "gap junctions at the basal border"
+  },
+  "markedAnswer": "A",
+  "explanation": "The blood-aqueous barrier is located at the apical border of the inner, nonpigmented epithelium of the ciliary body. Zonulae occludentes, which are tight junctions between these cells, maintain this blood-aqueous barrier.",
+  "imageUrl": "/images/fundamentals-oq/p50_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 102,
+  "question": "Where is the major arterial circle of the anterior uvea located?",
+  "options": {
+   "A": "midperipheral iris",
+   "B": "anterior ciliary body",
+   "C": "posterior ciliary body",
+   "D": "lateral iris"
+  },
+  "markedAnswer": "B",
+  "explanation": "The posterior ciliary vessel forms the intramuscular circle of the iris, which also supplies the major arterial circle located in the anterior ciliary body.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 103,
+  "question": "The posterior ciliary arteries supply which of the following structures?",
+  "options": {
+   "A": "uveal tract",
+   "B": "lateral eyelid skin",
+   "C": "central cornea",
+   "D": "recti muscles"
+  },
+  "markedAnswer": "A",
+  "explanation": "There are approximately 16 to 20 short posterior ciliary arteries that enter the globe in a ring around the optic nerve. In addition, there are typically 2 long posterior ciliary arteries that enter the sclera on either side of the optic nerve (along the horizontal meridian). These short and long posterior ciliary arteries derive from the ophthalmic artery. These posterior ciliary arteries supply the following: • Uveal tract. • Cilioretinal arteries. • Sclera. • Margin of the cornea. • Adjacent conjunctiva.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 104,
+  "question": "What is the average volume of the vitreous cavity?",
+  "options": {
+   "A": "2 mL",
+   "B": "5-6 mL",
+   "C": "7-8 mL",
+   "D": "8-10 mL"
+  },
+  "markedAnswer": "B",
+  "explanation": "The average volume of the vitreous cavity per the BCSC Fundamentals is 5-6 mL. The average volume of the vitreous itself is 4 mL (per the BCSC Fundamentals and Pathology). The average volume of the anterior chamber is 200 µL. The average volume of the posterior chamber is 60 µL.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 105,
+  "question": "Which of the following cell types of the retina extends from the internal limiting membrane to the external limiting membrane of the retina?",
+  "options": {
+   "A": "Müller cell",
+   "B": "bipolar cell",
+   "C": "amacrine cell",
+   "D": "horizontal cell"
+  },
+  "markedAnswer": "A",
+  "explanation": "Müller cells are glial cells that extend from the internal limiting membrane outward to the external limiting membrane. The nuclei of Müller cells are located in the inner nuclear layer. These cells serve many functions including providing nutritional and structural support to the rest of the retina.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 106,
+  "question": "What serves as the basis for the electrooculogram (EOG)?",
+  "options": {
+   "A": "transretinal potential",
+   "B": "trans-RPE potential",
+   "C": "extraocular muscle potential",
+   "D": "transcorneal potential"
+  },
+  "markedAnswer": "B",
+  "explanation": "The apical surface of the RPE has the Na+K+-ATPase. This ATPase transports ions from the subretinal space into the RPE cells. The net flow of ions across this apical surface creates an electrical potential that can be measured. This is the basis of the electrooculogram (EOG).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 107,
+  "question": "What is the average total internal volume of the adult eye (i.e. globe)?",
+  "options": {
+   "A": "6.5 to 7 ml",
+   "B": "8 to 9.5 ml",
+   "C": "10 to 11.5 ml",
+   "D": "15 to 17.5 ml"
+  },
+  "markedAnswer": "A",
+  "explanation": "The average total internal volume of the adult eye is approximately 6.5-7 mL.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 108,
+  "question": "What is the S-shaped channel through the vitreous that is associated with regression of the hyaloid vasculature?",
+  "options": {
+   "A": "Cloquet canal",
+   "B": "Mittendorf dot",
+   "C": "Bergmeister papilla",
+   "D": "Axenfeld loops"
+  },
+  "markedAnswer": "A",
+  "explanation": "Cloquet canal is a remnant of the hyaloid vasculature between the lens and the optic nerve head. It is a clear central zone through the vitreous humor.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 109,
+  "question": "At what location is the ora serrata closest to the limbus?",
+  "options": {
+   "A": "inferiorly",
+   "B": "superiorly",
+   "C": "temporally",
+   "D": "nasally"
+  },
+  "markedAnswer": "D",
+  "explanation": "The ora serrata is the boundary between the pars plana and the retina. It is closest to Schwalbe line (i.e. the limbus) nasally where it is 5.75 mm away. It is farthest from Schwalbe line temporally where it is 6.50 mm away.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 110,
+  "question": "Which of the following does NOT provide interconnections within the outer plexiform layer?",
+  "options": {
+   "A": "photoreceptors",
+   "B": "horizontal",
+   "C": "bipolar cell",
+   "D": "ganglion"
+  },
+  "markedAnswer": "D",
+  "explanation": "Interconnections between photoreceptors, horizontal, and bipolar cells make up the outer plexiform layer. Interconnections between bipolar, amacrine, and ganglion cells make up the inner plexiform layer.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 111,
+  "question": "What cell type does NOT provide interconnections within the inner plexiform layer?",
+  "options": {
+   "A": "bipolar",
+   "B": "amacrine",
+   "C": "photoreceptors",
+   "D": "ganglions"
+  },
+  "markedAnswer": "C",
+  "explanation": "Interconnections between bipolar, amacrine, and ganglion cells make up the inner plexiform layer.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 112,
+  "question": "What is the composition of the photoreceptors in the foveola?",
+  "options": {
+   "A": "all cones",
+   "B": "95% cones and 5% rods",
+   "C": "90% cones and 10% rods",
+   "D": "85% cones and 15% rods"
+  },
+  "markedAnswer": "A",
+  "explanation": "The foveola is the central depression within the fovea itself. It is located approximately 4.0 mm temporal and 0.8 mm inferior to the optic disc. It is approximately 350 microns in diameter. The photoreceptors in the foveola are all cones. The fovea is approximately 1.5 mm in diameter (i.e. the diameter of an average-sized optic disc).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 113,
+  "question": "What is the primary difference between the outer segments of the rod photoreceptor compared to the cone photoreceptor in humans?",
+  "options": {
+   "A": "cone discs are not attached to the cell membrane whereas rod discs are attached",
+   "B": "rod discs are not attached to the cell membrane whereas cones discs are attached",
+   "C": "there is no major differences between the outer segments of rods and cones",
+   "D": "rod discs are thinly attached to the cell membrane whereas cones discs are not attached"
+  },
+  "markedAnswer": "B",
+  "explanation": "The photoreceptor layer of the retina consists of neuroepithelial cells called cones and rods. Each of the photoreceptors consists of an outer segment and an inner segment (see diagram below). The outer segments contact the apical processes of the retinal pigment epithelium (RPE); however there are no intercellular connections (e.g. tight junctions) between the outer segments and the RPE.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 114,
+  "question": "How large is the foveola?",
+  "options": {
+   "A": "300 microns",
+   "B": "350 microns",
+   "C": "400 microns",
+   "D": "450 microns"
+  },
+  "markedAnswer": "B",
+  "explanation": "The photoreceptors in the foveola are all cones. The foveola is 4.0 mm temporal and 0.8 mm inferior to the optic nerve. The foveola is 350 microns in diameter. The fovea is 1.5mm in diameter (the size of one optic disc).",
+  "imageUrl": "/images/fundamentals-oq/p56_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 115,
+  "question": "What is the diameter of the fovea?",
+  "options": {
+   "A": "1.0 mm",
+   "B": "1.25 mm",
+   "C": "1.5 mm",
+   "D": "1.75 mm"
+  },
+  "markedAnswer": "C",
+  "explanation": "The fovea is approximately 1.5 mm in diameter and is the concave central retinal depression. One way to remember this is that it is approximately the the size of the optic disc (average-sized).",
+  "imageUrl": "/images/fundamentals-oq/p56_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 116,
+  "question": "How wide is the parafovea?",
+  "options": {
+   "A": "0.25 mm wide",
+   "B": "0.5 mm wide",
+   "C": "0.75 mm wide",
+   "D": "1.0 mm wide"
+  },
+  "markedAnswer": "B",
+  "explanation": "This is the area where the ganglion cell layer, inner nuclear layer, and outer plexiform layer are thickest. Commets: - - Cone only zones, no GCC or INL Umbo: 200um Foveola:350um Fovea:1500um Rods start to appear, multilayered GCC Parafovea: 500um surrounding fovea Perifovea:1500um surrounding parafovea.",
+  "imageUrl": "/images/fundamentals-oq/p56_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 117,
+  "question": "How wide is the perifovea (i.e. the most peripheral region of the macula)?",
+  "options": {
+   "A": "1.0 mm",
+   "B": "1.25 mm",
+   "C": "1.5 mm",
+   "D": "1.75 mm"
+  },
+  "markedAnswer": "C",
+  "explanation": "The perifovea is defined as the most peripheral portion of the macula. It is 1.5 mm wide. The parafovea is the area directly surrounding the fovea and it is where the ganglion cell layer is the thickest. The parafovea is 0.5 mm wide.",
+  "imageUrl": "/images/fundamentals-oq/p57_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 118,
+  "question": "How is the pattern of cystoid macular edema (CME) on fluorescein angiogram (FA) described?",
+  "options": {
+   "A": "smoke stack",
+   "B": "circular",
+   "C": "petaloid",
+   "D": "sunshine"
+  },
+  "markedAnswer": "C",
+  "explanation": "This edema in the outer plexiform layer near the fovea and the photoreceptor axons are oriented obliquely in the foveal region which leads to the cystoid pattern.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 119,
+  "question": "Where is the foveola located in relation to the optic nerve?",
+  "options": {
+   "A": "5.0 mm temporal and 1.0 mm inferior to the optic nerve",
+   "B": "4.0 mm temporal and 0.8 mm inferior to the optic nerve",
+   "C": "3.0 mm temporal and 0.5 mm inferior to the optic nerve",
+   "D": "4.5 mm temporal and 0.5 mm inferior to the optic nerve"
+  },
+  "markedAnswer": "B",
+  "explanation": "The photoreceptors in the foveola are all cones. The foveola is 4.0 mm temporal and 0.8 mm inferior to the optic nerve. The foveola is 350 microns in diameter. The fovea is 1.5mm in diameter (the size of one optic disc).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 120,
+  "question": "Hemorrhages in the nerve fiber layer of the retina are manifested clinically as what?",
+  "options": {
+   "A": "branching",
+   "B": "dot blot hemorrhages",
+   "C": "flame shaped hemorrhages",
+   "D": "NVE"
+  },
+  "markedAnswer": "C",
+  "explanation": "The nerve fiber layer has a parallel arrangement of the cells to the inner surface. Hemorrhages here result in a flame-shaped appearance. Hemorrhages in the deeper retinal layers appear clinically as dot/blot hemorrhages.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 121,
+  "question": "What is the average volume of the vitreous itself?",
+  "options": {
+   "A": "2 mL",
+   "B": "4 mL",
+   "C": "7-8 mL",
+   "D": "9-10 mL"
+  },
+  "markedAnswer": "B",
+  "explanation": "The average volume of the vitreous cavity per the BCSC Fundamentals book is 5-6 mL. The average volume of the vitreous itself is 4 mL (per the BCSC Fundamentals and Pathology books). The average volume of the anterior chamber is 200 µL. The average volume of the posterior chamber is 60 µL.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 122,
+  "question": "What is the most abundant non-neural cell type in the inner nuclear layer of the retina?",
+  "options": {
+   "A": "ganglion cells",
+   "B": "Muller cells",
+   "C": "bipolar cells",
+   "D": "horizontal cells"
+  },
+  "markedAnswer": "B",
+  "explanation": "Muller cells are non-neural and mainly structurally-supportive. Their end- footplates form the internal limiting membrane and the external limiting membrane. They also serve as an ionic buffer to the extracellular space and play a role in vitamin A metabolism of the cones.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 123,
+  "question": "What percentage of people have a macular-supplying cilioretinal artery?",
+  "options": {
+   "A": "15%",
+   "B": "45%",
+   "C": "60%",
+   "D": "85%"
+  },
+  "markedAnswer": "A",
+  "explanation": "In general, the inner portion of the retina is supplied by branches of the central retinal artery. However, in 30% of eyes and 50% of people, a cilioretinal artery (branching from the ciliary circulation) also provides some bloodflow to the inner retina. To be even more tricky, this cilioretinal artery contributes to macular circulation in only approximately 15% of people. In other words, not everyone who has a cilioretinal artery has collateral circulation to their macula supplied by this artery. Just for fun: how is it that if the probability of one eye having a cilioretinal artery is 30% that people would have a 50% chance of having one? Let's take a specific example. Assume you have 50 people and they have 100 eyes. 50 of them are right eyes and 50 of them are left eyes. Of the 50 right eyes, 30% have a cilioretinal artery or 15 of the 50 eyes. Of the 50 left eyes, 30% have a cilioretinal artery or 15 of the 50 eyes. So, you would initially think that 30/50 people or 60% would have a cilioretinal artery. HOWEVER, there are some lucky bastards that have a cilioretinal artery in BOTH eyes. Let's take the case of people with a cilioretinal artery in the right eye. Of these 15 people, 30% of them will have a cilioretinal artery in the other eye too (15 x 30% = about 5 people). These 5 people need to be subtracted from the grand total of 30 people (even though they have two eyes with a cilioretinal artery, they are only one person). That leaves 25 people of the 50 people or about 50% with a cilioretinal artery.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 124,
+  "question": "What are the average anteroposterior and transverse diameters of the globe?",
+  "options": {
+   "A": "23-25 mm and 21 mm respectively",
+   "B": "23-25 mm and 24 mm respectively",
+   "C": "21-23 mm and 28 mm respectively",
+   "D": "21-23 mm and 21 mm respectively"
+  },
+  "markedAnswer": "B",
+  "explanation": "The anteroposterior diameter of the globe is approximately 23-25 mm (longer in myopes; shorter in hyperopes) while the transverse diameter (i.e. at its widest point) of the globe is approximately 24 mm.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 125,
+  "question": "What are the distances from the limbus to the insertions of the following rectus muscles: medial, inferior, lateral, and superior (respectively)?",
+  "options": {
+   "A": "5.0, 6.5, 6.9, 7.7",
+   "B": "5.0, 6.5, 6.9, 8.3",
+   "C": "5.5, 6.0, 6.9, 8.3",
+   "D": "5.5, 6.5, 6.9, 7.7"
+  },
+  "markedAnswer": "D",
+  "explanation": "The order of these muscles can be remembered by the mnemonic \"M-I-L-S\".",
+  "imageUrl": "/images/fundamentals-oq/p61_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 126,
+  "question": "Where is the thinnest part of the sclera?",
+  "options": {
+   "A": "1 mm anterior to the extraocular muscle insertions",
+   "B": "2 mm anterior to the extraocular muscle insertions",
+   "C": "just posterior to the extraocular muscle insertions",
+   "D": "at the extraocular muscle insertions"
+  },
+  "markedAnswer": "C",
+  "explanation": "This is relevant for patients who have sustained blunt trauma to the eyes. This is the location where they are most likely to have a ruptured globe after blunt trauma. It is also important to recognize how thin the sclera is at these locations since many strabismus surgeries take place at these locations. The sclera averages approximately 0.3 mm in thickness immediately posterior to the insertion of the recti muscles.",
+  "imageUrl": "/images/fundamentals-oq/p61_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 127,
+  "question": "What is the most common quadrant for scleral rupture in an open globe caused by blunt trauma?",
+  "options": {
+   "A": "inferonasal",
+   "B": "inferotemporal",
+   "C": "superonasal",
+   "D": "superotemporal"
+  },
+  "markedAnswer": "C",
+  "explanation": "According to the BCSC Fundamentals book, the most common site of scleral rupture following blunt trauma is the superonasal quadrant near the limbus.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 128,
+  "question": "Which of the following statements regarding the crystalline lens sutures is TRUE?",
+  "options": {
+   "A": "The anterior lens suture is an erect Y-shape while the posterior lens suture is an inverted Y-shape",
+   "B": "The anterior lens suture is an inverted Y-shape while the posterior lens suture is an erect Y-shape",
+   "C": "Both the anterior and posterior lens sutures are erect Y-shapes",
+   "D": "Both the anterior and posterior lens sutures are inverted Y-shapes"
+  },
+  "markedAnswer": "A",
+  "explanation": "At approximately 8 weeks of gestation, visible \"Y-sutures\" become visible in the crystalline lens. These sutures represent the ends of the lens fibers (from opposite sides of the lens) interdigitating with each other at the anterior and posterior lens poles.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 129,
+  "question": "What is the defect in Peters anomaly?",
+  "options": {
+   "A": "defect in Descemet's membrane and endothelium",
+   "B": "glaucoma",
+   "C": "optic nerve hypoplasia",
+   "D": "iris strands, posterior embryotoxon, and glaucoma"
+  },
+  "markedAnswer": "A",
+  "explanation": "Peters anomaly is a central defect in Descemet's membrane and absence of endothelium resulting in cloudy central cornea. This is part of cloudy cornea of birth: \"STUMPED\" Sclerocornea, Trauma, Ulcer, Mucopolysaccharidoses, Peters, Endothelial (CHED), Dermoid.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 130,
+  "question": "When does tear production first occur?",
+  "options": {
+   "A": "at birth",
+   "B": "1 week after birth",
+   "C": "3-6 weeks after birth",
+   "D": "3-6 months after birth"
+  },
+  "markedAnswer": "C",
+  "explanation": "This is why babies do not form tears when they cry and congenital obstructions of the lacrimal system are not noticed at birth. They begin to be noticed when the baby actually starts to make tears. According to the 2011 Plastics BCSC book, the lacrimal gland is not fully formed and does not generally function until 6 weeks after birth.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 131,
+  "question": "Oculodermal melanocytosis is most commonly associated with which of the following ocular diseases?",
+  "options": {
+   "A": "glaucoma",
+   "B": "uveal melanoma",
+   "C": "retinal detachment",
+   "D": "cataract"
+  },
+  "markedAnswer": "A",
+  "explanation": "Ocular melanocytosis is also called \"congenital melanosis of the episclera\" and occurs in approximately 1/2500 individuals. On clinical exam, it appears as patches of slate-gray episcleral pigmentation. Microscopically, it consists of a focal proliferation of subepithelial melanocytes. Some key associations: • Approximately 10% of patients with ocular melanocytosis develop glaucoma. • Approximately half of these individuals will also have ipsilateral dermal melanocytosis (aka \"nevus of Ota\") and a proliferation of dermal melanocytes in the periocular skin of CN V1 and V.",
+  "imageUrl": "/images/fundamentals-oq/p64_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 132,
+  "question": "The nonpigmented layer of the ciliary body is continuous with which layer of the iris?",
+  "options": {
+   "A": "posterior pigmented epithelial layer of the iris",
+   "B": "posterior nonpigmented epithelial layer of the iris",
+   "C": "anterior pigmented layer epithelial of the iris",
+   "D": "anterior nonpigmented layer epithelial of the iris"
+  },
+  "markedAnswer": "A",
+  "explanation": "The posterior pigmented epithelial layer of the iris (Answer \"A\") is a continuation of the nonpigmented layer of the ciliary body and thus the neurosensory retina. The pigmentation of this posterior epithelial layer of the iris begins mid-gestation at the pupillary margin and proceeds peripherally. This advancing pigmentation stops at the end of the 7th month of gestation at the iris root.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 133,
+  "question": "What may be located on the nasal, posterior pole of the lens that is associated with regression of the hyaloid vasculature?",
+  "options": {
+   "A": "Cloquet's canal",
+   "B": "Mittendorf's dot",
+   "C": "Bergmeister's papilla",
+   "D": "Axenfeld loops"
+  },
+  "markedAnswer": "B",
+  "explanation": "Mittendorf's dot is a common finding in many normal individuals and is seen as a small focal opacity in the nasal aspect of the posterior pole of the lens.",
+  "imageUrl": "/images/fundamentals-oq/p66_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 134,
+  "question": "Which embryonic vitreous has lens zonules and vitreous fibrils attached to the internal limiting membrane (ILM)?",
+  "options": {
+   "A": "primary vitreous",
+   "B": "secondary vitreous",
+   "C": "tertiary vitreous",
+   "D": "quaternary vitreous"
+  },
+  "markedAnswer": "C",
+  "explanation": "There are 3 stages in the embryologic development of the human vitreous. The \"primary vitreous\" consists of the hyaloid artery, vasa hyaloidea propia, some mesenchymal cells, and the tunica vasculosa lentis. At approximately the 9th week of gestation, the \"secondary vitreous\" replaces the primary vitreous; the only remnants of the primary vitreous are Cloquet's canal and occasionally, Bergmeister papilla and a Mittendorf dot. The \"tertiary vitreous\" consists of the zonular fibers which hold the lens in place.",
+  "imageUrl": "/images/fundamentals-oq/p66_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 135,
+  "question": "What classic ocular finding is seen with 2nd trimester rubella infection?",
+  "options": {
+   "A": "congenital cataracts",
+   "B": "congenital glaucoma",
+   "C": "salt and pepper fundus",
+   "D": "retinal detachment"
+  },
+  "markedAnswer": "C",
+  "explanation": "Rubella infection in the first trimester gives abnormalities in the following areas: ocular (cataracts), auditory (deafness), and systemic (cardiac). An interesting finding is that patients who develop a rubella cataract virtually never develop glaucoma and vice versa. Rubella infection in the second trimester gives salt and pepper fundus.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 136,
+  "question": "When is mature vascularization of the retina complete?",
+  "options": {
+   "A": "3 months prior to a full-term birth",
+   "B": "at birth to 3 months after a full-term birth",
+   "C": "6 months after a full-term birth",
+   "D": "9 months after a full-term birth"
+  },
+  "markedAnswer": "B",
+  "explanation": "Per the BCSC Retina and Peds book, normal retinal vascularization is complete in the nasal quadrants at approximately 36 weeks of gestation and on the temporal side at 40 weeks.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 137,
+  "question": "What is the normal adult number of axons in the optic nerve?",
+  "options": {
+   "A": "1.0 million",
+   "B": "1.1 million",
+   "C": "1.8 million",
+   "D": "1.9 million"
+  },
+  "markedAnswer": "B",
+  "explanation": "The largest number of axons achieved in the optic nerve is 3.7 million at 16 wks. These nerves are pruned to 1.1 million by the 33 week and stay at that number.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 138,
+  "question": "During which trimesters is rubella infection associated with sequestration of the virus in the lens and viability of the virus for months after birth?",
+  "options": {
+   "A": "1st and 2nd",
+   "B": "2nd and 3rd",
+   "C": "1st and 3rd",
+   "D": "all three trimesters"
+  },
+  "markedAnswer": "A",
+  "explanation": "Rubella infection in the first or second trimesters can give cataracts. Rubella infection during the first trimester gives abnormalities in the following areas: ocular (cataracts), auditory (deafness), and systemic (cardiac). An interesting finding is that patients who develop a rubella cataract virtually never develop glaucoma and vice versa. Rubella infection in the second trimester gives salt and pepper fundus. Rubella cataracts are characterized by pearly white nuclear opacifications. Sometimes the entire lens is opacified. Also characteristic is retention of cell nuclei within lens fibers.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 139,
+  "question": "In the human lifespan (including in-utero development) what is the greatest number of axons contained within the optic nerve?",
+  "options": {
+   "A": "2.2 million",
+   "B": "2.9 million",
+   "C": "3.7 million",
+   "D": "4.2 million"
+  },
+  "markedAnswer": "C",
+  "explanation": "The largest number of axons achieved in the optic nerve is 3.7 million at 16 weeks gestation.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 140,
+  "question": "What is the classic triad for rubella infection in the 1st trimester?",
+  "options": {
+   "A": "ocular (cloudy cornea), vestibular (nystagmus), and systemic (joint swelling)",
+   "B": "ocular (glaucoma), auditory (deafness), and systemic (joint swelling)",
+   "C": "ocular (cataracts), auditory (deafness), and systemic (cardiac)",
+   "D": "ocular (retinal detachment), auditory (deafness), and systemic (renal agenesis)"
+  },
+  "markedAnswer": "C",
+  "explanation": "Rubella infection in the first trimester gives abnormalities in the following areas: ocular (cataracts), auditory (deafness), and systemic (cardiac). An interesting finding is that patients who develop a rubella cataract virtually never develop glaucoma and vice versa. Rubella infection in the second trimester gives salt and pepper fundus.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ }
+]

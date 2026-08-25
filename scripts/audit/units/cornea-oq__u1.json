@@ -1,0 +1,1051 @@
+[
+ {
+  "id": 1,
+  "question": "What is the average thickness of the corneal epithelium?",
+  "options": {
+   "A": "40 microns",
+   "B": "50 microns",
+   "C": "60 microns",
+   "D": "70 microns"
+  },
+  "markedAnswer": "B",
+  "explanation": "This question is very relevant for refractive surgery because it figures into calculations of ablation depth. Say you have an average central corneal thickness of 555 microns and you are contemplating PRK (photorefractive keratectomy) surgery. The first part of the procedure is removing the epithelium. The amount of tissue removed should be estimated to be 50 microns. \"Munnerlyn's formula\" is used to calculate the predicted ablation depth (in microns) per diopter of planned correction. From this formula: ablation depth (in microns) = (ablation zone (in mm)^2 * diopter of myopia to be corrected) all divided by 3. For a rough estimate, each diopter of myopia corrected will remove 14 microns of tissue. You should always leave 300 microns of residual stromal bed. So with this example patient, after removal of theepithelium, (555-50= 505 microns) and leaving 300 microns of residual stromal bed, you are left with 205 microns to work with. This puts the upper end of myopic correction around 14.5 diopters of correction (i.e. 205/14 = 14.64).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 2,
+  "question": "Which lymph nodes drain fluid from the medial eyelid lymphatic system and conjunctiva?",
+  "options": {
+   "A": "submandibular and submental",
+   "B": "mandibular",
+   "C": "parotid",
+   "D": "preauricular"
+  },
+  "markedAnswer": "A",
+  "explanation": "The submandibular and submental lymph nodes drain fluid from the medial eyelid lymphatic system and conjunctiva. The preauricular lymph nodes drain fluid from the lateral eyelid lymphatic system.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 3,
+  "question": "Which lymph nodes drain fluid from the lateral eyelid lymphatic system?",
+  "options": {
+   "A": "submental",
+   "B": "mandibular",
+   "C": "parotid",
+   "D": "preauricular"
+  },
+  "markedAnswer": "D",
+  "explanation": "The preauricular lymph nodes drain fluid from the lateral eyelid lymphatic system. The submandibular and submental lymph nodes drain fluid from the medial eyelid lymphatic system and conjunctiva.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 4,
+  "question": "What is the approximate concentration of corneal endothelial cells that a human has at birth?",
+  "options": {
+   "A": "6,000 cells/mm2",
+   "B": "5,000 cells/mm2",
+   "C": "4,000 cells/mm2",
+   "D": "3,000 cells/mm2"
+  },
+  "markedAnswer": "C",
+  "explanation": "You have approximately 4,000 cells/mm2 per eye at birth. \"Young adults\" have about 3,000 cells/mm2. It decreases approximately linearly (~0.6% per year) till the age of 60 when you have about 2,500 cells/mm2. At that point, humans lose cells at a slower rate than when they are young. Thus, a 70- and 80-year-old would have more endothelial cells than you would think.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 5,
+  "question": "Approximately how many endothelial cells does a 60 year old have?",
+  "options": {
+   "A": "3,500-4000 cells/mm^2",
+   "B": "2,850 to 3,000 cells/mm^2",
+   "C": "2,250-2,500 cells/mm^2",
+   "D": "1,850-2,000 cells/mm^2"
+  },
+  "markedAnswer": "C",
+  "explanation": "You have approximately 4,000 cells/mm2 at birth. \"Young adults\" have about 3000 cells/mm2. This cell count decreases approximately linearly till the age of 60 years when you have about 2,500 cells/mm2. At that age, humans lose endothelial cells at a slower rate than when they were younger. According to the BCSC Clinical Optics book, the average endothelial cell count in the \"cataract age group\" is 2,250 cells/mm2.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 6,
+  "question": "Below what threshold endothelial cell density (ECD) would cataract surgery be considered risky for causing pseudophakic bullous keratopathy (PBK)?",
+  "options": {
+   "A": "1,000 cells/mm^2",
+   "B": "1,500 cells/mm^2",
+   "C": "1,750 cells/mm^2",
+   "D": "2000 cells/mm^2"
+  },
+  "markedAnswer": "A",
+  "explanation": "Normal corneal endothelial cell density (ECD) is approximately 1500-3500 cells/mm2 (average ~2400 cells/mm2) in adults. ECD is relatively stable from age 20 to 50, but declines at a rate of approximately 0.5% per year afterwards. If ECD is less than 1000 cells/mm2, the patient is at increased risk for corneal edema after intraocular surgery. Other values you should know: • Coefficient of variation (CV). This is calculated as the standard deviation of the mean cell area divided by the mean cell area. The CV is a measure of how variable endothelial cell size is for a person's cornea. The term polymegathism denotes an increased variation in individual cell areas (i.e. increased CV). A CV >0.40 is considered significantly abnormal and such a cornea is at increased risk for post-operative edema. • Hexagonality. Healthy/normal endothelial cells are hexagonal. Stressed or unhealthy endothelial cells assume other shapes (e.g. round, square, triangular). Thus, lower percentages of hexagonality (\"pleomorphism\") are associated with a less healthy endothelium. A value of <50% hexagonality is considered abnormal and such a cornea is at increased risk for post-operative edema. • The mean endothelial cell size is approximately 150-350 microns2. • If the pre-operative central corneal thickness is greater than 640 microns, there is a higher risk of symptomatic corneal edema after intraocular surgery.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 7,
+  "question": "You are evaluating a LASIK pre-operative patient and are interested in knowing the thinnest point in the cornea.  Which of the following devices is the best option?",
+  "options": {
+   "A": "optical pachymetry",
+   "B": "ultrasound pachymetry",
+   "C": "Pentacam",
+   "D": "corneal topography"
+  },
+  "markedAnswer": "C",
+  "explanation": "The Pentacam is a type of Scheimpflug camera. It obtains a corneal tomography map which is a 3 dimensional picture of the cornea. The two types of devices that obtain corneal tomography are the scanning slit and Scheimpflug camera. The Scheimpflug camera (e.g. Pentacam) involves taking pictures of the cornea while the camera rotates around the cornea so that the plane of the camera lens is parallel to the corneal surface which minimizes the distortion of the image. Here is a good video describing the process: https://www.youtube.com/watch?v=lhDjuZYpIYs. Because the entire surface of the cornea is scanned, you are more likely to find the thinnest part of the cornea with the Pentacam than any of the other devices listed as answer choices. Optical pachymetry is done by attaching a device to the slit lamp that then takes a pachymentry measurement. It is no longer used. Ultrasound pachymetry is very accurate but is prone to erroneously high pachymetry values if the tip of the probe is not exactly perpendicular to the corneal surface. The Schempflug camera is the most accurate device for imaging the posterior corneal surface. Elevations seen on the posterior corneal surface can be one of the earliest signs of keratoconus or early (forme fruste) keratoconus. Some general rules for elevation map abnormalities are: 1) elevation >12 microns from the anterior surface at 5 mm 2) elevation >15 microns from the posterior surface.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 8,
+  "question": "Of the following answer choices, what is the major nutritional source for the cornea?",
+  "options": {
+   "A": "glucose from the aqueous humor",
+   "B": "glucose from the tear film",
+   "C": "glucose from the limbal circulation",
+   "D": "glucose from the eyelid blood vessels when closed"
+  },
+  "markedAnswer": "A",
+  "explanation": "The cornea is normally an avascular structure and it therefore depends on two main sources for its nutrition: (1) glucose from the underlying aqueous humor; and (2) oxygen diffusing through the tear film. The peripheral cornea does receive some oxygen from the limbal circulation.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 9,
+  "question": "Which of the following is responsible for the majority of the eye's refractive power?",
+  "options": {
+   "A": "air-tear interface",
+   "B": "tear-cornea interface",
+   "C": "corneal stroma",
+   "D": "crystalline lens"
+  },
+  "markedAnswer": "A",
+  "explanation": "The air-tear interface provides most of the optical power of the eye. This is simply a fact that should be memorized. Many medical students and new Ophthalmology residents incorrectly believe the tear-cornea interface is the major refracting element of the eye. According to Gullstrand’s model eye, the anterior cornea has about +48.8 D of refractive power and the posterior corneal surface has a power of –5.8 D. This makes a total refractive power of the cornea of +43.0 D. The average refractive power of the lens is 19.11 D. The total power of the eye is therefore roughly 60-62D. What is the average dioptric power of the cornea? A.42.00 B.43.25 C.44.75 D.46.00 A: This is a value that has to be committed to memory. The cornea contributes approximately 75% of the total dioptric power of a normal human eye. The air/tear film surface of the eye has 49 Diopters of refraction and the endothelium/aqueous interface has -6.0 Diopters. This is an average right around 43 Diopters. The average radius of curvature of the human cornea is 7.8 mm.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 10,
+  "question": "What is the average dioptric power of the cornea?",
+  "options": {
+   "A": "42.00",
+   "B": "43.25",
+   "C": "44.75",
+   "D": "46.00"
+  },
+  "markedAnswer": "B",
+  "explanation": "This is a value that has to be committed to memory. The cornea contributes approximately 75% of the total dioptric power of a normal human eye. The air/tear film surface of the eye has 49 Diopters of refraction and the endothelium/aqueous interface has -6.0 Diopters. This is an average right around 43 Diopters. The average radius of curvature of the human cornea is 7.8 mm.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 11,
+  "question": "Which of the following is a contributor to the aqueous component of tears?",
+  "options": {
+   "A": "meibomian glands",
+   "B": "Krause glands",
+   "C": "moll glands",
+   "D": "goblet cells"
+  },
+  "markedAnswer": "B",
+  "explanation": "The aqueous component of tears is created by the lacrimal glands, Krause glands, and glands of Wolfring.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 12,
+  "question": "Which of the following is the most correct location for the corneal epithelial stem cells?",
+  "options": {
+   "A": "inferior conjunctival fornix",
+   "B": "Descemet's layer",
+   "C": "Palisades of Vogt",
+   "D": "basal epithelial level"
+  },
+  "markedAnswer": "C",
+  "explanation": "The corneal stem cells are located in a region of the limbus called the \"palisades of Vogt.\" These are radially-oriented fibrovascular ridges that are perpendicular to the corneal margin. The palisades are more concentrated in the inferior and superior limbus. the \"basal epithelial level\" is not the correct answer. The limbal stem cells from the palisades migrate centripetally to create the basal epithelial level.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 13,
+  "question": "What type of collagen primarily constitutes the sclera?",
+  "options": {
+   "A": "Type I",
+   "B": "Type II",
+   "C": "Type III",
+   "D": "Type IV"
+  },
+  "markedAnswer": "A",
+  "explanation": "The sclera is mostly made up of type I collagen and the proteoglycans, decorin, biglycan, and aggrecan. Type III collagen is associated with stromal wound healing. Type IV is associated with basement membranes (Descemet's and lens capsule). Mnemonic: Sclera is Type I collagen: the l in sclera is 1 Extra: Type I = Corneal stroma and sclera Type II = Vitreous Type III = Corneal wound healing/scarring Type IV = basement membranes (i.e. lens capsule and Descemet's)",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 14,
+  "question": "Which of the following cells in the eye produce lactoferrin?",
+  "options": {
+   "A": "corneal epithelial cells 8%",
+   "B": "eyelid columnar cells 5%",
+   "C": "lacrimal gland acinar cells 59%",
+   "D": "conjunctival goblet cells 28%"
+  },
+  "markedAnswer": "C",
+  "explanation": "Microassays (taking a small quantity of tears) have been developed that can aid in the determination of the etiology of dry eye. Below are listed some of these assays. Lactoferrin is made by the acinar cells in the lacrimal gland. Lactoferrin binds iron and prevents bacterial growth. Measuring the amount of lactoferrin is an indirect measure of lacrimal gland function. This helps to differentiate patients that have aqueous tear deficiency from evaporative dry eye (EDE). Matrix metalloproteinase 9 (MMP-9) is an inflammatory cytokine released by epithelial cells in response to stress (e.g. blepharitis). Elevated levels are suggestive of evaporative dry eye (EDE). Other inflammatory conditions (e.g. allergy, infection, and peripheral ulcerative keratitis) can confuse the picture of blepharitis being the cause of dry eye. IgE levels can be measured by a microassay technique. This helps to differentiate patients that have allergic conjunctivitis. Taking a small quantity of tears and measuring their osmolarity is known as tear osmolarity. Values of 306-308 mOsm/L are suggestive of aqueous tear deficiency (ATD). Sjogren syndrome now has a microassay kit that can detect new biomarkers that could be more sensitive than traditional serum based tests such as SS-A, SS-B, and rheumatoid factor. The new biomarkers being tested are proprietary to the company producing the kits.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 15,
+  "question": "What part of the corneal is abnormal when Waite-Beetham lines are present?",
+  "options": {
+   "A": "corneal epithelium",
+   "B": "Bowman's",
+   "C": "deep stroma",
+   "D": "endothelium"
+  },
+  "markedAnswer": "C",
+  "explanation": "Waite-Beetham lines are faint deep stromal wrinkles. They occur early in the process of corneal edema. Other signs occurring with corneal edema: -folds in Descemet’s occurs when the stroma has increased 10% or more -corneal epithelial edema occurs when the corneal thickness is above 700 microns Corneal pachymetry can be used as an indirect measure of endothelial functioning. The BCSC Lens & Cataract book states that CCT values above 640 microns predispose a patient to corneal decompensation after cataract surgery. Also, endothelial cell counts of less than 1,000 cells/mm2 are associated with a high risk of corneal decompensation after cataract surgery. Extra: It might be better to ask where these lines are rather than what is abnormal. They occur during corneal edema and edema often occurs when the endothelium is abnormal.",
+  "imageUrl": "/images/cornea-oq/p10_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 16,
+  "question": "How quickly do cilia (eyelashes) typically take to regrow if cut?",
+  "options": {
+   "A": "1 week",
+   "B": "2 weeks",
+   "C": "4 weeks",
+   "D": "8 weeks"
+  },
+  "markedAnswer": "B",
+  "explanation": "According to the BCSC Cornea book, cilia are naturally replaced every 3-5 months. It takes cilia 2 weeks to regrow when cut and 2 months to regrow if pulled out. There are twice as many cilia along the upper eyelid margin as along the lower eyelid margin. As you can see from the diagram below, the glands of Moll and Zeis are located closer to the cilia compared to the more posterior location of the meibomian glands, or the glands of Wolfring or Krause.",
+  "imageUrl": "/images/cornea-oq/p11_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 17,
+  "question": "What part of the orbicularis is responsible for involuntary blinking?",
+  "options": {
+   "A": "pretarsal and preseptal",
+   "B": "orbital and preseptal",
+   "C": "glabellar",
+   "D": "tarsal"
+  },
+  "markedAnswer": "A",
+  "explanation": "The orbicularis oculii muscle is the main protractor of the eyelid and also contributes to the lacrimal pump. It is innervated by CN VII (facial nerve). This muscle is divided into 3 parts: pretarsal, preseptal, and orbital. The pretarsal and preseptal portions are collectively known as the \"palpebral\" parts of the orbicularis. These palpebral parts are responsible for involuntary and spontaneous blinking while the orbital portion is responsible for voluntary eyelid closure. The corrugator muscle causes vertical wrinkles between the eyebrows. This can be remembered because corrugated roofs also have vertical wrinkles. The procerus depresses the heads of the eyebrows and causes horizontal wrinkles just inferior to the heads of the eyebrows.",
+  "imageUrl": "/images/cornea-oq/p11_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 18,
+  "question": "What are the major proteoglycans of the cornea?",
+  "options": {
+   "A": "chondroitin sulfate",
+   "B": "phosphorous sulfate",
+   "C": "dermatan and keratan sulfate",
+   "D": "hyaluronic acid"
+  },
+  "markedAnswer": "C",
+  "explanation": "",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 19,
+  "question": "What is the water content of the cornea?",
+  "options": {
+   "A": "56%",
+   "B": "62%",
+   "C": "72%",
+   "D": "78%"
+  },
+  "markedAnswer": "D",
+  "explanation": "",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 20,
+  "question": "What is the physical basis for why the cornea is transparent?",
+  "options": {
+   "A": "lattice arrangement of collagen fibrils producing destructive interference",
+   "B": "tight packing of epithelial cells to produce a layer with a varying refractive index",
+   "C": "water content of cornea kept at approximately 58%",
+   "D": "lattice elements of the cornea are the same size as the wavelenght of visible light"
+  },
+  "markedAnswer": "A",
+  "explanation": "The lattice arrangement of collagen fibrils embedded in the extracellular matrix is partly responsible for the transparency of the cornea. This specific pattern serves as a diffraction grating to reduce light scattering by destructive interference. There is more light scattering in the anterior cornea compared to the posterior cornea. The cornea is also transparent since the size of the lattice elements is smaller than the wavelength of visible light. Another factor that contributes to corneal transparency is that the water content of the corneal stroma is kept at approximately 78%. This constant corneal hydration is controlled by intact epithelial and endothelial barriers and the functioning of the endothelial pump. These control factors cause the cornea to be \"wetter\" closer to the endothelium and drier toward the epithelium. One other factor that promotes corneal transparency is the tight packing of epithelial cells to produce a layer with a nearly uniform index of refraction.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 21,
+  "question": "Which of the following correctly describes keratocyte distribution and density in the corneal stroma?E",
+  "options": {
+   "A": "They are parallel to and between corneal lamellae and are more numerous in the anterior stroma.",
+   "B": "They are perpendicular to and through corneal lamellae and are more numerous in the anterior stroma.",
+   "C": "They are parallel to and between corneal lamellae and are more numerous in the posterior stroma.",
+   "D": "They are perpendicular to and through corneal lamellae and are more numerous in the posterior stroma."
+  },
+  "markedAnswer": "A",
+  "explanation": "Keratocytes are modified fibroblasts. They are found as flattened cells that are parallel to and between corneal lamellae. They are responsible for digesting and producing stromal molecules. They are more numerous in the anterior stoma and are least numerous posteriorly. Keratocyte population declines with age.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 22,
+  "question": "What is the average tear volume of an adult?",
+  "options": {
+   "A": "3-5 microliters",
+   "B": "7-10 microliters",
+   "C": "12-15 microliters",
+   "D": "15-18 microliters"
+  },
+  "markedAnswer": "B",
+  "explanation": "Per the BCSC Fundamentals Pharmacology the average tear lake in an upright person is 10 microliters and per BCSC Cornea the average tear volume of an adult is 7 microliters. A drop from a standard bottle of medication dispenses 50 microliters with each drop. Therefore, you never need to write a prescription for a patient that uses two drops. Also, if you ever look at a patient's prescription bottle and it says to take two drops, you can be reasonably certain a non- eyecare provider wrote it.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 23,
+  "question": "What is the name given to the peripheral endothelial guttae that human corneas can develop with normal aging?",
+  "options": {
+   "A": "Fuchs dystrophy",
+   "B": "spheroidal degeneration",
+   "C": "Hassall-Henle bodies",
+   "D": "Cowdry bodies"
+  },
+  "markedAnswer": "C",
+  "explanation": "The peripheral corneal guttae that our corneas develop with aging are called Hassall-Henle bodies. They are wartlike excrescences that occur in the peripheral part of Descemet's membrane, and are best seen with specular reflection techniques. These guttae are only pathologic when they begin to affect the central cornea. Central corneal guttae associated with progressive stromal and then epithelial edema is referred to as Fuchs dystrophy. Spheroidal degeneration is characterized by golden-brown, spheroidlike deposits in the superficial stroma of the cornea. It is another common corneal degeneration that can occur with aging. It is generally bilateral, found in the interpalpebral zone, and is more commmon in males. Other common synonymous names are: climatic droplet keratopathy and Labrador keratopathy. Cowdry bodies are eosinophilic nuclear inclusions composed of nucleic acid and protein seen in cells infected with herpes simplex virus, varicella-zoster virus, and cytomegalovirus.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 24,
+  "question": "A patient presents to your clinic in rural Arizona complaining of significant irritation of the eyes. He says he doesn't usually use drops of any kind but often has redness and irritation of the eyes, especially when it's windy outside. You decide to measure tear secretion by using tear strips. You want to measure basic & reflex tearing in one test. Which test would be best to accomplish this?",
+  "options": {
+   "A": "Schirmer II",
+   "B": "Phenol red-impregnated cotton thread",
+   "C": "Schirmer I",
+   "D": "Basic secretion test"
+  },
+  "markedAnswer": "C",
+  "explanation": "The three most common tests to measure tear production are: (1) the \"basic secretion test\"; (2) Schirmer I; and (3) Schirmer II. The basic secretion test consists of placing a drop of topical anesthetic on the eye of interest. This is followed by blotting off any excess fluid in the tear meniscus. A standard-size filter-paper is then placed at the junction of the middle and lateral thirds of the lower eyelids. The amount of wetting of this filter-paper at 5 minutes is recorded. \"Abnormal\" values are wetting less than 3 mm while \"equivocal\" values measure 3-10 mm. The basic secretion test measures the eyes' basal secretion of tears. Abnormal values are suggestive of aqueous tear deficiency (ATD). The Schirmer I test is performed exactly like the basic secretion test except that it does not use a topical anesthetic. Therefore, theoretically, the Schirmer I test measures both basic and reflex tear production. Wetting of the filter paper of less than 5.5 mm at 5 minutes is considered abnormal. The Schirmer II is performed by placing a drop of anesthetic into the eye, placing filter paper into the lower eyelid, and then the nasal mucosa is simultaneously stimulated with a cotton-tipped applicator. Wetting values less than 15 mm at 2 minutes is considered abnormal for the Schirmer II test. This is considered a test of reflex secretion only. The BCSC Plastics book discusses the Schirmer I test in relation to evaluating epiphora. It notes that at 5 minutes there should \"normally\" be about 15 mm of filter paper staining. More than this amount could signify too many tears. The phenol red-impregnated cotton thread test is a newer method of tear production measurement that involves placing a specialized cotton thread into the fornix and measuring how much of the thread turns red. Less than 10mm is considered abnormal and suggests a diagnosis of dry eye. This test has not been directly compared to Schirmer testing in clinical trials, although it has been suggested as an alternative. Unfortunately, the BCSC and the primary literature differ on the minimum cutoffs for the Schirmer I and II tests to determine abnormality. Therefore, this is hard to test accurately. Knowing the purpose of the tests is more important than the absolute cutoffs for the purposes of board and OKAP exams. Extra: Mnemonic: Basic Secretion Test (3 letters), so less than 3 abnormal Schirmer I, less than 5ish, abnormal Schirmer II, less than 15, abnormal (3 x 5 from above = 15) You can remember schirmer II is at 2 minutes bc of the II in the name!",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 25,
+  "question": "What is the diagnostic test that measures tear production without using topical anesthesia?",
+  "options": {
+   "A": "basic secretion test",
+   "B": "Schirmer I",
+   "C": "Schirmer IV",
+   "D": "lacrimal function test"
+  },
+  "markedAnswer": "B",
+  "explanation": "",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 26,
+  "question": "Measurements less than how many mm are considered abnormal in the basic secretion test at 5 minutes?",
+  "options": {
+   "A": "3 mm",
+   "B": "5.5 mm",
+   "C": "7 mm",
+   "D": "15 mm"
+  },
+  "markedAnswer": "A",
+  "explanation": "",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 27,
+  "question": "Tear break up times less than how many seconds are considered the cut off for normal?",
+  "options": {
+   "A": "5 seconds",
+   "B": "10 seconds",
+   "C": "15 seconds",
+   "D": "20 seconds"
+  },
+  "markedAnswer": "B",
+  "explanation": "Tear break-up times are measured by placing a drop of fluorescein with an artificial tear on the surface of the eye. The excess dye is wiped away. Turn the cobalt blue filter on the slit lamp on. You ask the patient to blink once and then refrain from blinking. Then count the number of seconds it takes for the even sheen to be disrupted as evidenced by dark spots in the sheen, wavy-ness to the sheen, or loss of the glossy-appearing surface.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 28,
+  "question": "Which of the following choices best represents the threshold time under which tear breakup time (TBUT) would be considered abnormal?",
+  "options": {
+   "A": "< 2 seconds",
+   "B": "<6 seconds",
+   "C": "<10 seconds",
+   "D": "<15 seconds"
+  },
+  "markedAnswer": "C",
+  "explanation": "",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 29,
+  "question": "Which of the following tests of tear production only measures the basal secretion of tears?",
+  "options": {
+   "A": "basic secretion test",
+   "B": "Schirmer I",
+   "C": "Schirmer II",
+   "D": "Schirmer III"
+  },
+  "markedAnswer": "A",
+  "explanation": "",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 30,
+  "question": "What is the threshold tear meniscus below which is considered abnormal and a sign of dry eye?",
+  "options": {
+   "A": "1.0 mm",
+   "B": "0.8 mm",
+   "C": "0.3 mm",
+   "D": "0.1 mm"
+  },
+  "markedAnswer": "C",
+  "explanation": "The normal tear meniscus (the fluid collection between the lower lid and the inferior cornea) is normally convex in shape and 1.0 mm in height. Heights of 0.3 mm or less are considered abnormal and a sign of dry eye. Another way to measure dry eye states is tear break-up time. Tear break-up times are measured by placing a drop of fluorescein with an artificial tear on the surface of the eye. The excess dye is wiped away. Turn the cobalt blue filter on the slit lamp on. You ask the patient to blink once and then refrain from blinking. Then count the number of seconds it takes for the even sheen to be disrupted as evidenced by dark spots in the sheen, wavy-ness to the sheen, or loss of the glossy- appearing surface.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 31,
+  "question": "Which of the following swabs is MOST ideal for obtaining viral cultures of corneal scrapings?",
+  "options": {
+   "A": "Dacron swab",
+   "B": "calcium alginate swab",
+   "C": "cotton swab",
+   "D": "potash swab"
+  },
+  "markedAnswer": "A",
+  "explanation": "Viral cultures are best obtained by using a Dacron swab to swab the specimen, dipping the swab in chilled viral transport media, and then discarding the swab. The calcium in a calcium alginate swab and the wood shaft from a cotton swab can inhibit viral recovery. Bacterial cultures are best obtained with a platinum Kimura spatula (because it heats and cools rapidly), metal blade, calcium alginate, or Dacron swab (again, cotton can inhibit growth). This is used to create rows of \"C\"s in the culture plate. Each row should be from a different specimen after heating the spatula. Two rows should grow the bacteria for a positive test. The \"C\"s are to help the microbiologist identify the specimen as from the \"Cornea\"",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 32,
+  "question": "Which of the following are true about tetracyclines:",
+  "options": {
+   "A": "can be used during pregnancy",
+   "B": "cause dry eye",
+   "C": "cause GI upset",
+   "D": "can be used in children older than 3 years old"
+  },
+  "markedAnswer": "C",
+  "explanation": "Tetracyclines cause birth defects, permanent staining of teeth in children, and diarrhea. They are contraindicated in children less than 10 years old.",
+  "imageUrl": "/images/cornea-oq/p20_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 33,
+  "question": "Q- You have diagnosed a patient with meibomian gland dysfunction (MGD) and want to start them on doxycycline 100 mg po bid.  In which of the following patient profiles would it be safest to start such therapy?",
+  "options": {
+   "A": "23-year-old woman with a history of breast cancer",
+   "B": "28-year-old man with a history of asthma",
+   "C": "48-year-old man with a history of liver disease",
+   "D": "52 year old woman taking warfarin"
+  },
+  "markedAnswer": "B",
+  "explanation": "Tetracyclines should be used with caution in women of child bearing age, women who are nursing, patients with a history of liver disease, patients taking certain medications such as warfarin, and children under the age of 8 years. Tetracyclines can cause permanent discoloration of teeth and bones if taken under the age of 8 or exposure during pregnancy. Other side effects of the systemic tetracyclines include: photosensitization, GI upset, and oral/vaginal candidiasis. This class of antibiotics can also reduce the efficacy of oral contraceptives. The typical dosing of doxycycline for MGD is 100 mg po bid for 3-4 weeks, tapering to 50-100 mg qdaily based on the clinical response.",
+  "imageUrl": "/images/cornea-oq/p21_img9.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 34,
+  "question": "Which of the following conditions would this device (see photo above) be most useful in helping to diagnose?",
+  "options": {
+   "A": "Sjogren's syndrome",
+   "B": "blepharoptosis",
+   "C": "open angle glaucoma",
+   "D": "neurotrophic keratopathy"
+  },
+  "markedAnswer": "D",
+  "explanation": "The photo is depicting a handheld esthesiometer (Cochet-Bonnet) which is a method of measuring corneal sensation. This device finds its primary use in the diagnosis and evaluation of neurotrophic keratopathy. As you probably know, neurotrophic keratopathy can be the result of many disease processes, including: • herpes simplex • herpes zoster • CN V palsy (e.g. surgery for trigeminal neuralgia) • topical medications (e.g. anesthetics, NSAIDs) • diabetes • chronic contact lens wear • LASIK • familial dysautonomia (\"Riley-Day syndrome\") • leprosy The Coche-Bonnet esthesiometer can quantitatively measure corneal sensation. It contains a thin, flexible nylon filament which can be retracted to various lengths. To begin the measurement, the examiner touches the patient's unanesthetized cornea with the filament being fully-extended (i.e. to 6 cm). The longer the filament is, the less rigid it is and thus the less force it applies to the corneal surface. The filament is then retracted incrementally until the patient reports sensation. Thus, an eye whose esthesiometer reading is 2 cm would have reduced corneal sensitivity compared to one whose esthesiometer reading is 5 cm. Typically, esthesiometry readings are measured over the different quadrants of the cornea (e.g. superior, inferior, nasal, temporal) which may give clues about the underlying etiology of the corneal hypoesthesia. For example, herpes zoster can be associated with \"patchy hypoesthesia\" while other conditions (e.g. CN V palsy from trauma) can result in diffuse hypoesthesia.",
+  "imageUrl": "/images/cornea-oq/p21_img9.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 35,
+  "question": "Which of the following corneal lesions is most commonly associated with negative staining?",
+  "options": {
+   "A": "herpes simplex virus (HSV)",
+   "B": "Pseudomonas corneal ulcer",
+   "C": "adenovirus",
+   "D": "varicella zoster virus (VZV)"
+  },
+  "markedAnswer": "D",
+  "explanation": "Positive staining with fluorescein is the term used when this vital stain stains an area of interest bright green. Positive staining occurs in areas of disruption of the surface epithelial intercellular junctions; e.g. which occurs in corneal epithelial defects (e.g. corneal abrasion, corneal ulcers, epithelial dendrites of HSV, etc). In contrast, negative staining is the term used when the area of interest projects above the surrounding tear film. Thus, the fluorescein surrounds and highlights the area. This is seen clinically as a dark area surrounded by the bright green dye. Examples where negative staining occurs include VZV \"pseudodendrites\" and with superficial punctate keratopathy. Other examples include anterior basement membrane dystrophy and Thygeson superficial punctate keratitis. The \"pseudodendrites\" of VZV are actually collections of heaped up epithelial cells which contrast with the epithelial defect (i.e. ulcer) of HSV dendritic lesions. Adenovirus causing epidemic keratoconjunctivitis has punctate staining initially. Later, subepithelial infiltrates may develop causing negative staining.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 36,
+  "question": "What is the term that is used when surface irregularities protrude through the fluorescein stain and are seen as dark spots?",
+  "options": {
+   "A": "negative staining",
+   "B": "positive staining",
+   "C": "blue staining",
+   "D": "bulbar staining"
+  },
+  "markedAnswer": "A",
+  "explanation": "Positive staining with fluorescein is the term used when this vital stain stains an area of interest bright green. Positive staining occurs in areas of epithelial disruption (e.g. corneal abrasion, corneal ulcer, etc). In contrast, negative staining is the term used when the area of interest projects above the surrounding tear film. Thus, the fluorescein surrounds and highlights the area. This is seen clinically as a dark area surrounded by the bright green dye. Examples were negative staining occurs include herpes zoster \"pseudodendrites\" and with superficial punctate keratopathy.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 37,
+  "question": "How many points on the cornea does the instrument (seen in the photo above) use to estimate corneal power?",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "8",
+   "D": "16"
+  },
+  "markedAnswer": "B",
+  "explanation": "The manual keratometer estimates corneal power by reading 4 points of the central 3.2 mm zone. The instrument contains doubling prisms to stabilize the image and therefore to allow more accurate focusing. The anterior corneal curvature is then obtained from the convex mirror formula and corneal power is calculated empirically using Snell’s law of refraction. The keratometer uses an assumed index of refraction (1.3375 instead of the actual 1.376 of the anterior cornea) to account for the small contribution from the posterior corneal surface. The keratometer also assumes a standard corneal thickness and also ensures that 45 diopters of refracting power equals 7.5 mm radius of curvature (i.e. K (diopters) = 337.5/r).",
+  "imageUrl": null,
+  "stemReferencesFigure": true,
+  "figureMissing": true
+ },
+ {
+  "id": 38,
+  "question": "Which of the following is suggestive of a dry eye state?",
+  "options": {
+   "A": "decreased tear osmolarity",
+   "B": "increased tear lysozyme level",
+   "C": "basic secretion test of 10 mm at 5 minutes",
+   "D": "decreased tear lactoferrin level"
+  },
+  "markedAnswer": "D",
+  "explanation": "Virtually all forms of dry eye are associated with increased osmolarity. This feature can be tested with \"osmometers\" which are becoming more widely available in routine clinical practices. In addition, the dry eye state results in decreased tear lysozyme and lactoferrin levels. The basic secretion test is one of the standard tests of tear secretion. It is performed by anesthetizing the patient's eye, blotting out the excess tears, and then placing a filter paper strip at the junction of the middle and lateral thirds of the lower eyelids. Any value greater than or equal to 10 mm is considered \"normal.\"",
+  "imageUrl": "/images/cornea-oq/p24_img6.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 39,
+  "question": "You are examining a post-operative cataract surgery patient who underwent the procedure yesterday.  She also has a past ocular history of corneal guttata.  You write in your chart, \"2+ Descemet folds.\"  By what percentage does the corneal thickness have to increase before Descemet's folds are seen on slit-lamp examination?",
+  "options": {
+   "A": "5%",
+   "B": "10%",
+   "C": "30%",
+   "D": "50%"
+  },
+  "markedAnswer": "B",
+  "explanation": "According to the BCSC, Descemet's folds occur when the overall corneal thickness increases by at least 10%. Corneal epithelial edema occurs when the overall corneal thickness increases to at least 700 microns. It is sometimes useful to obtain a pre-operative pachymetry in patients with corneal guttata to predict their risk of developing visually-significant corneal edema after intraocular surgery. A central corneal thickness greater than 640 microns is quoted as placing a patient at a greater risk for symptomatic corneal edema after intraocular surgery. Extra: comprehensive list of the stats that apply to this topic: Caution in phaco if endothelial count <1000 What pre-op pachy risks symptomatic edema post op? 650 At what pachy do you see epi edema? >700 Pt gets edema once his/her endo count <500 \"normal\" endo count: 1500-3500 born with 4000 young adult: 3000 age 60: 2500 donor cornea is required to have how many cells? 2000 What % increase in K thickness is necessary to see D folds? 10%.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 40,
+  "question": "In general, what is the minimal acceptable endothelial cell density that a donor cornea should have to be suitable for transplantation?",
+  "options": {
+   "A": "1,750 cells/mm2",
+   "B": "2,000 cells/mm2",
+   "C": "2,250 cells/mm2",
+   "D": "2,500 cells/mm2"
+  },
+  "markedAnswer": "B",
+  "explanation": "There are a multitude of criteria that a donor cornea should fulfill before being considered suitable for transplantation. One of these criteria is a endothelial cell count ≥ 2000 cells/mm2. Other criteria include death-to-preservation time of 12-18 hours and age of donor between 2 years and 70 years old. There are many conditions that prevent the use of a donor cornea (too many to list here). These exclusionary criteria include: death of unknown cause; active septicemia; HIV/hepatitis B/C infection; and active ocular inflammation (e.g. scleritis). Mnemonic: TWO thousand TO donate.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 41,
+  "question": "According to the \"Cornea Donor Study\", how did younger donors (i.e. <66 years old) compare to older donors (i.e. ≥66 years old) in terms of penetrating keratoplasty graft failure at 5 years?",
+  "options": {
+   "A": "higher rate of late graft failure at 5 years",
+   "B": "higher rate of early graft failure at 5 years",
+   "C": "no difference in terms of graft failure at 5 years",
+   "D": "higher rate of all types of graft failure at 5 years"
+  },
+  "markedAnswer": "C",
+  "explanation": "The Cornea Donor Study (CDS) was designed to analyze the effect of donor age on cornea graft survival after penetrating keratoplasty. It was undertaken because of two prime motivators: (1) the pool of younger donors was expected to shrink given the increasing rates of refractive surgery that precludes later transplantation of these altered corneas; and (2) the overall population of the United States over the age of 65 years was expected to increase. By including older donors, the potential pool of viable corneal tissue could be expanded. During that time, many U.S. eye banks had set the upper age limit for donor eligibility at 65 years or less -- an arbitrary rule without any evidence to back it up. Thus, the CDS was designed to determine if graft survival rate was any different between donors older than 65 years versus those 65 years or younger. The CDS enrolled graft recipients who were considered to be at \"moderate risk\" for graft failure -- namely, those with Fuchs dystrophy or pseudophakic corneal edema. \"High risk\" recipients were excluded (e.g. prior failed graft, history of herpes simplex keratitis, chemical burns) as were \"low risk\" recipients (e.g. keratoconus, stromal dystrophies). A total of 1,090 individuals across 80 sites underwent corneal transplantation during the CDS. The primary outcome measure of the CDS was graft survival at 5 years. The 5-year cumulative probability of graft survival was 86% in both groups. Using donor as a continuous variable, there was not a significant relationship between donor age and outcome. However, there was a suggestion of a slightly higher success rate at the younger end of donor ages. A follow-up report from the CDS presented the 10-year results of graft survival between the two groups. Again, it found no overall significant difference between these two groups of donors. However, when donor age was analyzed as a continuous variable, higher donor age was associated with lower graft success after the first 5 years (p<0.001). Also, the success rate was higher for donors aged 12 to 33 years (96% success) compared to donors aged 72 to 75 years (62% success). The success rate was relatively constant (75%) for donors aged 34 to 71 years.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 42,
+  "question": "Which of the following characteristics regarding a potential donor corneal graft is LEAST desirable?",
+  "options": {
+   "A": "endothelial cell count of 2,500 cells/mm^2",
+   "B": "death to preservation time of 10 hours",
+   "C": "age of donor -- 14 months old",
+   "D": "tissue storage time of 2 days"
+  },
+  "markedAnswer": "C",
+  "explanation": "Corneal grafts in the United States are processed by tissue banks. The grafts obtained come with paperwork describing the grafts. The more important values given to the surgeon are: death-to-cooling time, death-to-preservation time, endothelial cell count, and donor infectious disease serology. The death-to-cooling time is the time from when the donor dies to the time that the body was cooled. The death-to-preservation time is the time from when the donor dies to when the cornea was placed into the preservation medium (e.g. Optisol GS). Donor grafts less than 2 years old are very flimsy and difficult to work with. The upper age limit of donors is generally 70-years-old. Most surgeons will not accept grafts with endothelial cell counts less than 2,000 cells/mm2. The ideal death-to-preservation time is less than 12-18 hours. The ideal tissue storage time is as short as possible with anything less than 4 days being good.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 43,
+  "question": "What is the threshold corneal thickness beyond which corneal epithelial edema is likely to occur?",
+  "options": {
+   "A": "600 microns",
+   "B": "700 microns",
+   "C": "800 microns",
+   "D": "900 microns"
+  },
+  "markedAnswer": "B",
+  "explanation": "Epithelial edema occurs when the overall corneal thickness increases to at least 700 microns. Descemet folds occur when the overall corneal thickness increases by at least 10%. It is sometimes useful to obtain a pre-operative pachymetry in patients with corneal guttata to predict their risk of developing visually-significant corneal edema after intraocular surgery. A central corneal thickness greater than ~650 microns is generally quoted as placing a patient at a greater risk for symptomatic corneal edema.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 44,
+  "question": "What threshold preoperative corneal thickness portends a poor corneal prognosis after cataract surgery?",
+  "options": {
+   "A": "600 microns",
+   "B": "650 microns",
+   "C": "750 microns",
+   "D": "800 microns"
+  },
+  "markedAnswer": "B",
+  "explanation": "It is advisable to obtain central corneal thicknesses via pachymetry on patients with guttae prior to phacoemulsification. A thickness greater than ~650 microns increases the risk of symptomatic and chronic corneal edema after cataract surgery. Also, corneal endothelial cell counts less than 1,000 cells/mm2 portend a poor corneal prognosis after cataract surgery.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 45,
+  "question": "What does the vital dye fluorescein detect?",
+  "options": {
+   "A": "disruption of mucin coat",
+   "B": "disruption of intercellular junctions",
+   "C": "disruption of basement membranes",
+   "D": "devitalized cells"
+  },
+  "markedAnswer": "B",
+  "explanation": "The vital dye fluorescein can be used to detect disruption of the surface epithelial intercellular junctions, e.g. which occurs in corneal epithelial defects. It is a form of the water-soluble dye hydroxyanthene. Fluorescein is also used to measure \"tear breakup time\" (TBUT) and for applanation tonometry. Rose Bengal and lissamine green stain devitalized cells or when a disruption occurs in the overlying mucin coat. They are most commonly used to assess dry eye states. Rose Bengal is much more irritating to the ocular surface as compared to either lissamine green or fluorescein.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 46,
+  "question": "In general, what does the vital dye rose bengal stain?",
+  "options": {
+   "A": "corneal epithelium",
+   "B": "disruption of intercellular junctions",
+   "C": "disruption of epithelial cells",
+   "D": "devitalized cells"
+  },
+  "markedAnswer": "C",
+  "explanation": "Classically, it is taught that rose bengal stains \"devitalized cells.\" In regards to the cornea and conjunctiva, rose bengal stains areas where there is a disruption in the protective mucin coating (e.g. focal dry spots of the cornea or conjunctiva). As you might have experienced already, rose bengal is not that well-tolerated by patients since it is more toxic to the corneal/conjunctival epithelium.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 47,
+  "question": "Which of the following corneal topography interpretations is an example of regular astigmatism?",
+  "options": {
+   "A": "bowtie",
+   "B": "inferior steepening",
+   "C": "superior steepening",
+   "D": "asymmetric bowtie"
+  },
+  "markedAnswer": "A",
+  "explanation": "Most patients with normal corneas have a symmetric pattern that is oval, round, or has a \"bowtie\" shape. These patients are said to have \"regular astigmatism.\" The other answer choices are examples of \"irregular astigmatism.\" The answer image shows an example of \"inferior steepening\" in a patient with keratoconus. The red area of the color map indicates higher dioptric powers.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 48,
+  "question": "\"Papillae\" are the vascular changes that occur when there are fibrous bands that anchor the conjunctiva to the tarsus. Photos of which area of the eye are most suggestive of a papillary condition?",
+  "options": {
+   "A": "everted upper eyelid",
+   "B": "everted lower eyelid",
+   "C": "nasal fornix",
+   "D": "temporal fornix"
+  },
+  "markedAnswer": "A",
+  "explanation": "Conjunctival papillae are classically illustrated as a central vascular tuft that is surrounded by edema and an inflammatory reaction. Papillae can be differentiated from follicles by the presence of a \"red dot\" in the middle of the bump -- the red dot represents the central vascular tuft. If you are shown a picture of an everted UPPER eyelid on a test, it should raise a strong suspicion that what they are trying to show you is a papillary reaction. The same rationale goes for photos of the INFERIOR palpebral conjunctiva and the presence of follicles. In other words in real life, often times it is difficult to distinguish papillae from follicles. A helpful hint is that papillae are easy to see with UPPER LID eversion, whereas follicles are more prominent in the LOWER LID / fornix. Extra: The way I remember it: PaP illae the \"a\" between the two \"P\"s reminds you of the central vascular tuft, and uPPer or suPerior lid F O llicles the \"O\" reminds you of the white centre and surrounding dilated vessel, and lOwer lid or the \"F\" for inFerior lid or Fornix.",
+  "imageUrl": "/images/cornea-oq/p30_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 49,
+  "question": "A 40-year-old African American woman presents with acute, unilateral eye pain and photophobia. Slit-lamp exam of the involved eye is shown above. What type of inflammatory cells are associated with these specifically-shaped corneal endothelial lesions?",
+  "options": {
+   "A": "antigen-presenting cells (APCs)",
+   "B": "lymphocytes",
+   "C": "macrophages",
+   "D": "neutrophils"
+  },
+  "markedAnswer": "C",
+  "explanation": "The photograph depicts \"mutton-fat\" keratic precipitates (KP). In general, KP are simply deposits of inflammatory cells on the corneal endothelium. The shape of KP depends on its composition. For example, mutton-fat KP are larger since they are comprised of macrophages. \"Small dot\" KP are usually composed of fibrin while \"punctate\" KP are formed from neutrophils and lymphocytes.",
+  "imageUrl": "/images/cornea-oq/p31_img4.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 50,
+  "question": "Which type of corneal topographic map is based upon a reference axis through the line of sight and gives a better estimation of central corneal power ?",
+  "options": {
+   "A": "axial map",
+   "B": "tangential map",
+   "C": "instantaneous map",
+   "D": "optical map"
+  },
+  "markedAnswer": "A",
+  "explanation": "The axial power map is also known as a \"sagittal curvature\" map. The axial power map is less accurate when measuring the peripheral cornea. The axial power map is based upon a reference axis through the line of sight and gives a better estimation of central corneal power. The instantaneous map estimates corneal power based upon a best-fit spherical approximation at the point of the cornea being measured. The instantaneous map is a better estimation of peripheral corneal power. The instantaneous power map is also known as the tangential power map or meridional power map.",
+  "imageUrl": "/images/cornea-oq/p32_img2.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 51,
+  "question": "Which type of topographic map estimates corneal power based upon a best-fit spherical approximation and is a better estimation of peripheral corneal power?",
+  "options": {
+   "A": "axial map",
+   "B": "instantaneous map",
+   "C": "corneal map",
+   "D": "power map"
+  },
+  "markedAnswer": "B",
+  "explanation": "Axial - thru visual axis, measures central power. Could probably give some WW2 mnemonic here. On the tip of my tongue... Hmm. Axis powers were in Central Europe for most of the war, and they lost because they miscalculated the power of the periphery (Allies).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 52,
+  "question": "What is the name for the point located at the intersection of a person's line of fixation and the corneal surface?",
+  "options": {
+   "A": "geographic center",
+   "B": "corneal vertex",
+   "C": "cornea plana",
+   "D": "corneal apex"
+  },
+  "markedAnswer": "B",
+  "explanation": "The corneal vertex is the point located at the intersection of the line of fixation and the corneal surface. The corneal apex is the highest point in the cornea. Almost always, the corneal apex and the corneal vertex are not at the same point. This is relevant for refractive surgery since you should center your ablation around the corneal vertex.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 53,
+  "question": "Where is the thinnest location of the cornea for most individuals?",
+  "options": {
+   "A": "superotemporal to the geographic center",
+   "B": "inferiornasal to the geographic center",
+   "C": "inferotemporal to the geographic center",
+   "D": "superonasal to the geographic center"
+  },
+  "markedAnswer": "C",
+  "explanation": "The adult human cornea measures approximately 11-12 mm horizontally and 9-11 mm vertically. It is approximately 540 microns thick centrally and this thickness increases gradually toward the periphery which is roughly 700 microns thick. The thinnest part of the cornea for most individuals is typically in the inferotemoral quadrant. Therefore, it is probably advisable to measure central corneal thickness at this location when performing pachymetry prior to refractive surgery and/or as part of a glaucoma evaluation. Please note that the BCSC Cornea book states: \"The thinnest zone [of the cornea] is about 1.5 mm temporal to the geographic center.\" However, most studies utilizing pachymetry maps (e.g. Pentacam) specify that the thinnest location is in the inferotemporal quadrant.1.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 54,
+  "question": "Which of the following is a manifestation of meibomian gland dysfunction?",
+  "options": {
+   "A": "increased tear breakup time",
+   "B": "anterior telangiectatic vessels",
+   "C": "keratin absence",
+   "D": "hyperemia of the eyelid margin"
+  },
+  "markedAnswer": "D",
+  "explanation": "Hyperemia of the eyelid margin, faster tear breakup time, posterior telangiectatic vessels, and keratin plugging are suggestive of meibomian gland dysfunction.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 55,
+  "question": "Which of the following is NOT associated with meibomian gland dysfunction (MGD)?",
+  "options": {
+   "A": "rosacea",
+   "B": "oral retinoid therapy",
+   "C": "decreased tear breakup time",
+   "D": "neurotrophic ulcer"
+  },
+  "markedAnswer": "D",
+  "explanation": "Meibomian gland dysfunction (MGD) is the most common cause of evaporative tear dysfunction. MGD occurs as a result of progressive obstruction of the meibomian gland orifices. This obstruction leads to increased intraluminal pressure within the gland, which eventually results in atrophy of the gland. Consequently, there is reduced secretion of the lipid layer of the tear film and/or secretion of an abnormal meibum which results in increased evaporation of the tear film. This sequence of events leads to a \"vicious cycle\" whereby increased evaporation leads to increased inflammation along the lid margin which leads to further keratinization of the orifices. MGD is broadly classified as \"obstructive\" (hyposecretory) and \"non-obstructive\" (hypersecretory). Obstructive causes of MGD include blepharitis, rosacea, and pemphigoid. Non-obstructive causes of MGD include meibomian seborrhea. Like all forms of evaporative tear dysfunction, MGD is associated with a faster (thus, decreased) tear breakup time (TBUT). Remember that a normal TBUT is typically >10 seconds. Thus, in a patient with severe MGD, you could see a TBUT of <5 seconds. Oral retinoids, like isotretinoin, can cause atrophic changes in the meibomiand glands thus leading to MGD and evaporative tear dysfunction. These compounds inhibit the differentiation of meibomian acinar cells and stimulate proliferation of the duct epithelium resulting in thicker ducts. Of the answer choices, neurotrophic ulcers are not classically associated with MGD. Instead, this type of ulcer is associated with anything that causes problems with corneal innervation. Common causes of neurotrophic ulcers include: herpes simplex infection, herpes zoster ophthalmicus, poorly-controlled diabetes, chronic contact lens wear, and damage to the trigeminal nerve or ganglion.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 56,
+  "question": "What is specular microscopy primarily used to view?",
+  "options": {
+   "A": "corneal epithelium",
+   "B": "Bowman's layer",
+   "C": "Descemet's membrane",
+   "D": "corneal endothelium"
+  },
+  "markedAnswer": "D",
+  "explanation": "Specular reflections from the corneal endothelium can be viewed under high magnification to assess the health of the endothelium. The average endothelial cell density (ECD) in adults is often quoted as approximately 2400 cells/mm2. The mean cell size is approximately 150-350 microns2. You should be cautious in performing intraocular surgery (e.g. phacoemulsification) for patients whose corneas have fewer than approximately 1000-1200 endothelial cells/mm2.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 57,
+  "question": "Which of the following devices most accurately measures posterior corneal curvature?",
+  "options": {
+   "A": "high-frequency ultrasonography",
+   "B": "Scheimpflug camera",
+   "C": "scanning-slit topographer",
+   "D": "keratometer"
+  },
+  "markedAnswer": "B",
+  "explanation": "High-frequency ultrasonography (also known as ultrasound biomicroscopy) uses a water-bath immersion tip. It is able to visualize 5 mm into opaque media. Structures posterior to the iris are able to be imaged with great accuracy (which includes the ciliary sulcus). This is the most accurate device for measuring sulcus-to-sulcus distances used to calculate lengths for phakic iols. Scheimpflug cameras (e.g. Pentacam) are mounted on a rotating arm (just like a slit lamp arm) and take 50 images of the cornea while rapidly rotating around (in about 2 seconds). The images are used as data points to generate anterior and posterior curvature maps, pachymetry maps, and anterior chamber depth. For posterior curvature maps, they are more accurate than scanning-slit topographers because they take actual images of the posterior cornea. Scanning-slit topographers (e.g. Orbscan) have mathematically derived posterior curvature maps. A keratometer measures the anterior corneal curvature and assumes the posterior corneal curvature to be a fixed constant.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 58,
+  "question": "A 31-year-old man complains of slowly-progressive decreased vision in both eyes over the past decade. His slit-lamp exam is significant for the corneal abnormality shown above.  He does not complain of any pain and states that the deposits were much smaller five years ago.  Which of the following ancillary lab tests should be ordered for this patient?",
+  "options": {
+   "A": "serum creatinine",
+   "B": "lipid profile",
+   "C": "liver function tests",
+   "D": "serum calcium levels 1"
+  },
+  "markedAnswer": "B",
+  "explanation": "The slit-lamp photo demonstrates central corneal opacification with a hint of subepithelial crystals and also dense arcus lipoides. These characteristics are consistent with Schnyder corneal dystrophy. This rare, progressive stromal dystrophy is inherited in an autosomal dominant fashion and is caused by a mutation in the gene, UbiA prenyltransferase domain- containing protein 1 (UBIAD1). On pathology, the opacities consist of cholesterol and phospholipids and thus stain red with Oil red O stain. Patients with this disorder are typically diagnosed in the second to third decade of life. The corneal opacification starts centrally (at all levels) and next develops in the periphery (arcus lipoides). It is not until the center and periphery are affected, that the mid-periphery starts to become also involved. Lastly, corneal sensation is reduced. 1 Schnyder has a loss of photopic vision with the pupil constricted. Under scotopic conditions, the pupil is dilated and light is able to pass around the central cholesterol deposition. This is the same phenomena that occurs with posterior subcapsular cataracts. All patients with Schnyder's dystrophy should have their cholesterol levels checked. Treatment for this condition consists of improving visual acuity through glasses and contact lenses for mild disease. P atients do not typically present with symptoms such as recurrent erosions as seen with other stromal dystrophies such as lattice dystrophy. Progression of this disease occurs slowly over a period of many years. If visual acuity drops significantly, phototherapeutic keratectomy (PTK) may be used to debulk the most superficial lesions (recall that these deposits occur in the epithelium, Bowman and stromal layers). Penetrating keratoplasty is reserved for the most severe cases, and recurrences may occur even after successful surgery. Follow up and monitoring includes educating patients to encourage their first-degree family relatives to have regular eye exams.",
+  "imageUrl": "/images/cornea-oq/p38_img5.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 59,
+  "question": "A 29-year-old man complains of slowly progressive decreased vision in both eyes over the past decade. His slit-lamp exam is significant for the corneal abnormality shown above and is similar for both eyes. He does not complain of any pain and states that the deposits were much smaller five years ago. The deposits are composed of WHAT SUBSTANCE in this corneal condition ?",
+  "options": {
+   "A": "calcium",
+   "B": "cholesterol",
+   "C": "amino acids Glycosaminoglycans (GAGs)"
+  },
+  "markedAnswer": "B",
+  "explanation": "Can remember that the inheritance is Autosomal Dominant because the gene is UBI(AD)1, The slit-lamp photo demonstrates central corneal opacification with a hint of subepithelial crystals and dense arcus lipoides. These characteristics are consistent with Schnyder corneal dystrophy. This rare, progressive stromal dystrophy is inherited in an autosomal dominant fashion and is caused by a mutation in the gene, UbiA prenyltransferase domain-containing protein 1 (UBIAD1). On pathology, the opacities consist of cholesterol and phospholipids and thus stain red with Oil red O stain. Patients with this disorder are typically diagnosed in the second to third decade of life. The corneal opacification starts centrally (at all levels) and next develops in the periphery (arcus lipoides). It is not until the center and periphery are affected, that the mid-periphery starts to become also involved. Lastly, corneal sensation is reduced. Schnyder has a loss of photopic vision with the pupil constricted. Under scotopic vision, the pupil is dilated, and light is able to pass around the central cholesterol deposition. This is the same phenomena that occurs with posterior subcapsular cataracts. All patients with Schnyder's dystrophy should have their cholesterol levels checked. Congenital stromal corneal dystrophy (CSCD) is secondary to a defect in decorin (DCN). CSCD is a very rare disorder that presents at birth. It features opacification of the central anterior stroma with flakes. The peripheral cornea is clear. Macular corneal dystrophy (MCD) is caused by a defect in carbohydrate sulfotransferase 6 (CHST6). Gelatinous droplike dystrophy is secondary to a defect in tumor-associated calcium signal transducer 2 (TACSTD2).",
+  "imageUrl": "/images/cornea-oq/p39_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 60,
+  "question": "A 35-year-old woman complains of slowly progressive decreased vision in both eyes over the past 7 years. Her slit-lamp exam is significant for the corneal abnormality shown above and is similar for both eyes. She does not complain of any pain and states that the deposits were much smaller a few years ago. Which of the following would also be found in this condition?",
+  "options": {
+   "A": "preservation of photopic vision",
+   "B": "preservation of scotopic vision",
+   "C": "presence of an afferent pupillary defect in the more severely affected eye",
+   "D": "elevated serum creatinine"
+  },
+  "markedAnswer": "B",
+  "explanation": "",
+  "imageUrl": null,
+  "stemReferencesFigure": true,
+  "figureMissing": true
+ },
+ {
+  "id": 61,
+  "question": "A 25-year-old man presents to your office with the corneal abnormality shown above in both eyes. He states that he first noticed some central corneal deposits as a teenager but that they were not as extensive as they are now. What is the inheritance pattern of this patient's corneal disorder?",
+  "options": {
+   "A": "autosomal dominant",
+   "B": "autosomal recessive",
+   "C": "X-linked recessive",
+   "D": "X-linked dominant"
+  },
+  "markedAnswer": "A",
+  "explanation": "",
+  "imageUrl": "/images/cornea-oq/p41_img5.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 62,
+  "question": "Which of the following is an appropriate management strategy for the right eye?",
+  "options": {
+   "A": "fortified antibiotics",
+   "B": "penetrating keratoplasty",
+   "C": "C3F8 injection into anterior chamber",
+   "D": "hypotonic saline eyedrops"
+  },
+  "markedAnswer": "C",
+  "explanation": "The clinical vignette is describing an episode of acute hydrops in a patient with keratoconus. Acute hydrops occurs when there is a spontaneous rupture in Descemet membrane. This defect allows the passage and collection of fluid into the corneal stroma. The \"I-S value\" compares the keratometric reading of the inferior cornea to the superior cornea. Because keratoconus is characterized by preferential inferior steepening, I-S values above 1.4 are associated with keratoconus. One would also suspect keratoconus in this patient because of the extremely high Kmax value of the left eye. Classically, episodes of acute hydrops were treated conservatively with topical hypertonic saline drops, patching, cycloplegia, aqueous suppressants, and/or a bandage soft contact lens while awaiting the defect in Descemet membrane to repair itself. Unfortunately, this spontaneous repair takes approximately 6-12 weeks. More recently, the injection of air or gas (e.g. C3F8, SF6) into the anterior chamber has gained popularity in expediting the resolution of the edema. This \"pneumatic descemetopexy\" has been shown to significantly speed up the time to recovery although it does not appear to influence final visual outcomes or the need for later corneal transplantation. Extra: Etiology Etiology is unknown. However, it is associated with atopy, Down’s Syndrome, Leber’s congenital amaurosis, and Ehler’s Danlos/connective disorders. The hereditary pattern is neither prominent nor predictable, but positive family histories have been reported. The prevalence of keratoconus if often reported to be 1 in 700.[1] Risk Factors • Eye rubbing, associated with atopy or vernal keratoconjunctivitis • Sleep apnea • Connective tissue disorders • Floppy eyelid syndrome[2] • Retinitis pigmentosa • Positive family history • Down syndrome Signs Early signs of Keratoconus include: • Asymmetric refractive error with high or progressive astigmatism • Keratometry showing high astigmatism and irregularity (the axis that does not add to 180 degrees) • Scissoring of the red reflex on retinoscopy • Inferior steepening, skewed axis, or elevated keratometry values on K reading and computerized corneal topography • Corneal thinning, especially in the inferior cornea. Maximum corneal thinning corresponds to the site of maximum steepening or prominence. • Rizutti’s sign or a conical reflection on the nasal cornea when a penlight is shone from the temporal side • Fleischer ring, an iron deposit often present within the epithelium around the base of the cone. It is brown in color and best visualized with a cobalt blue filter • Vogt’s striae, fine, roughly vertically parallel striations in the stroma. These generally disappear with firm pressure applied over the eyeball and re-appear when pressure is discontinued. Later signs of Keratoconus include: • Munson’s sign, a protrusion of the lower eyelid in downgaze. • Breaks in Bowman’s membrane • Acute hydrops, a condition where a break in Descemet’s membrane allows aqueous enter into the stoma causing severe corneal thickening, decreased vision, light sensitivity, tearing, and pain. • Stromal scarring after the resolution of acute hydrops, which paradoxically may improve vision in some cases by changing corneal curvature and reducing irregular astigmatism.",
+  "imageUrl": "/images/cornea-oq/p41_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 63,
+  "question": "Which of the following statements is TRUE about keratoconus?",
+  "options": {
+   "A": "the underlying pathophysiology is a fragmentation of Descemets layer",
+   "B": "the typical presentation is generally around puberty to early adulthood",
+   "C": "flat corneas (less than 34 diopters) should make the clinician suspicious for keratoconus",
+   "D": "in patients with keratoconus in one eye and the other eye appears completely normal on exam and corneal topography, it is acceptable to perform refractive surgery"
+  },
+  "markedAnswer": "B",
+  "explanation": "Keratoconus, the most common of the corneal ectasias, is a degenerative disorder that results in thinning of the cornea at the apex of the cone. These patients almost always demonstrate topographic abnormalities at a young age. It is thought to develop initially in puberty to early adulthood. It is occasionally associated with painful episodes of corneal hydrops, apical scarring, and \"Fleischer rings\" below the cone. It is thought to be due to fragmentation of Bowman's layer with a bowing forward of the cornea. Steep corneas (greater than 50 diopters) and high astigmatism should make the clinician suspicious for keratoconus. Keratoconus is considered a bilateral disease. As such, it is not acceptable to perform refractive surgery on a topographically normal eye when the other eye has keratoconus. Keratoglobus is a very rare corneal ectasia which features a globular overall corneal curvature. Unlike keratoconus and pellucid marginal degeneration, the corneal is thinnest in the periphery and there is generalized protrusion of the cornea in patients with keratoglobus. Also in contrast to keratoconus or pellucid, keratoglobus is typically present at birth while the other two corneal ectasias occur in puberty or young adulthood. Pellucid marginal degeneration has inferior thinning of the cornea with protrusion of the cornea above the thinning (i.e. the corneal apex is above the area of thinning). Corneal scarring, episodes of hydrops, and iron lines are less common in pellucid compared to keratoconus. In clinical practice, it is sometimes very difficult to distinguish between pellucid and keratoconus. Differentiating between these entities can be accomplished by obtaining pachymetry measurements and correlating it to the topography. This task is easier to do with devices such as Scheimpflug cameras (e.g. Pentacam) which are able to produce topographic and pachymetry data simultaneously. Extra: The primary pathological process of keratoconus is thought to begin with fragmentations in Bowman's. These focal weaknesses cause the cornea to bow forward, forming the ectatic \"cone\" over time. Hydrops occurs in already established cases of keratoconus; it is not typically the presenting symptom/sign. This often confuses people, since we speak of episodes of \"acute\" hydrops ---> we mean that the attack of hydrops OCCURS acutely, not that it occurs in \"acute keratoconus\" (ie. not necessarily in the acute/early phase of the disease). The primary pathological process of an attack of hydrops is an acute disruption in Descemet's; as the cone bends further and further forward, creating more and more physical stress on the cornea as a whole, Descemet's is eventually compromised. You can think of it as suddenly \"snapping\" after being stretched further and further as per the process described above. This sudden break allows a rush of aqueous to bypass the endothelium and gain access to the stroma, causing flash corneal edema and acute pain. So....... Primary pathology of keratoconus = breaks in Bowman's Primary pathology of (acute) hydrops = sudden focal break in Descemet's 2/2 progressively increased stress on the cornea as the cone gets worse Hope this helps :)",
+  "imageUrl": "/images/cornea-oq/p44_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 64,
+  "question": "Where is the thinning of the cornea in relation to the most elevated part of the cornea in keratoconus?",
+  "options": {
+   "A": "thinning above the cone",
+   "B": "thinning at the apex of the cone",
+   "C": "thinning temporal to the cone",
+   "D": "thinning inferior to the cone"
+  },
+  "markedAnswer": "B",
+  "explanation": "Extra: the thinning is located in the inferior, paracentral region of the *cornea*...but the thinnest area is at the *apex* of the *cone*. In contrast, in pellucid, the thinnest area is *below* the area of protrusion.",
+  "imageUrl": "/images/cornea-oq/p46_img9.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 65,
+  "question": "What is the clinical finding in keratoconus where a conical reflection on the nasal cornea is seen when a penlight is shone temporally?",
+  "options": {
+   "A": "Vogt lines",
+   "B": "Munson sign",
+   "C": "Rizzuti sign",
+   "D": "Fleischer ring"
+  },
+  "markedAnswer": "C",
+  "explanation": "Rizzuti's sign describes the finding in keratoconus whereby a conical reflection is seen on the nasal cornea when a penlight is shone temporally. A nice photo of this condition can be found here. A Fleischer ring is an iron line deposited at the base of the cone. It provides a landmark for the peripheral edge of the cone. To detect early Fleisher rings, you can use the cobalt blue filter at the widest setting. Munson sign occurs in advanced keratoconus whereby the corneal protrusion causes angulation of the lower lid on downgaze. Vogt lines are fine opaque parallel lines seen in the deep stroma of keratoconus patients. Digital pressure on the eye can make the lines disappear while the intraocular pressure is transiently elevated. They reappear when digital pressure deceases. Vogt lines are distinguished from the superficial linear scars that occur from previous hydrops episodes.",
+  "imageUrl": "/images/cornea-oq/p46_img9.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 66,
+  "question": "What is the name of sign seen in keratoconus where the lower eyelid is displaced secondary to a bulging cornea:",
+  "options": {
+   "A": "Vogt lines",
+   "B": "Munson sign",
+   "C": "Rizzutti sign",
+   "D": "Fleischer ring"
+  },
+  "markedAnswer": "B",
+  "explanation": "",
+  "imageUrl": "/images/cornea-oq/p47_img5.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 67,
+  "question": "What is the name of the sign seen in keratoconus where an iron line is deposited at the base of the cone?",
+  "options": {
+   "A": "Vogt lines",
+   "B": "Munson sign",
+   "C": "Rizzutti sign",
+   "D": "Fleischer ring"
+  },
+  "markedAnswer": "D",
+  "explanation": "A Fleischer ring is an iron line deposited at the base of the cone. Munson sign is where the lower eyelid is displaced secondary to a bulging cornea. Rizzutti sign is the name of the sign seen in keratoconus where a conical reflection on the nasal cornea is seen when a penlight is shone from the temporal side. Vogt lines are fine opaque parallel lines seen in the deep stroma of Keratoconus patients. Digital pressure on the eye can make the lines disappear while the pressure is high. They reappear when digital pressure ceases.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 68,
+  "question": "Which agent is part of the typical treatment regimen for this patient's condition?",
+  "options": {
+   "A": "Urgent penetrating keratoplasty",
+   "B": "Topical hypo-osmotic saline",
+   "C": "Topical fortified vancomycin",
+   "D": "Topical cycloplegic"
+  },
+  "markedAnswer": "D",
+  "explanation": "The corneal topography shown above shows a region of marked steepening in the inferior cornea consistent with the diagnosis of keratoconus (about 54 diopters in the region of greatest steepening and about 44 diopters centrally). Keratoconus is a common disease associated with progressive thinning of the cornea leading to a characteristic cone shape of the cornea (\"Munson's sign\" when the cone is appreciated juxtaposed against the lower eyelid while the patient looks down). Keratoconus is associated with many diseases but atopic disease is a prominent risk factor. It is believed that eye rubbing does contribute to the development and progression of keratoconus including the development of hydrops. Our patient has a corneal topography diagnostic of keratoconus and then develops acute eye pain with corneal edema and no evidence of infectious etiologies -- all consistent with hydrops. Hydrops is caused by a sudden rupture in Descemet's membrane leading to acute corneal edema. The treatment of hydrops is supportive and includes any combination of the following: cycloplegic agents, hypertonic agents, soft bandage contact lens, and aqueous suppressants. Hydrops may lead to corneal scarring that eventually requires corneal transplant, but hydrops is NOT an indication for urgent surgery. There is no evidence for infection to warrant topical fortified antibiotics (e.g. vancomycin) and topical allergy medications will not help the patient's pain.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 69,
+  "question": "What is the primary underlying pathophysiology of this patient's acute vision loss?",
+  "options": {
+   "A": "Sudden break in Bowman's layer",
+   "B": "Sudden break in Descemet's membrane",
+   "C": "Acute toxic endothelial failure",
+   "D": "Mechanical loss of epithelium"
+  },
+  "markedAnswer": "B",
+  "explanation": "The corneal topography shown above shows a region of marked steepening in the inferior cornea consistent with the diagnosis of keratoconus (about 54 diopters in the region of greatest steepening and about 44 diopters centrally). Keratoconus is a common disease associated with progressive thinning of the cornea leading to a characteristic cone shape of the cornea (\"Munson's sign\" when the cone is appreciated juxtaposed against the lower eyelid while the patient looks down). Keratoconus is associated with many diseases, but atopic disease is a prominent risk factor. It is believed that eye rubbing does contribute to the development and progression of keratoconus including the development of hydrops. Our patient has a corneal topography diagnostic of keratoconus and then develops acute eye pain with corneal edema consistent with hydrops. Hydrops is caused by a sudden rupture in Descemet's membrane leading to acute corneal edema. The treatment of hydrops is supportive and includes any combination of the following: cycloplegic agents, hypertonic agents, soft bandage contact lens, and aqueous suppressants. Hydrops may lead to corneal scarring that eventually requires corneal transplant, but hydrops is NOT an indication for urgent surgery.",
+  "imageUrl": "/images/cornea-oq/p49_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 70,
+  "question": "Which of the following is the best way to improve the patients vision?",
+  "options": {
+   "A": "soft toric contact lens",
+   "B": "gas permeable contact lens",
+   "C": "photorefractive keratectomy (PRK)",
+   "D": "penetrating keratoplasty (PK)"
+  },
+  "markedAnswer": "B",
+  "explanation": "This keratoconus patient likely has irregular astigmatism that would be best corrected with a gas permeable contact lens. PRK is contraindicated in KCN and PKP is not necessary at this time given his 20/40 vision.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ }
+]

@@ -1,0 +1,1052 @@
+[
+ {
+  "id": 141,
+  "question": "Which of the following vascular endothelial growth factor (VEGF) isoforms is thought to be the most pathologic in neovascular AMD (age-related macular degeneration)?",
+  "options": {
+   "D": "VEGF 206",
+   "C": "VEGF 189",
+   "B": "VEGF 165",
+   "A": "VEGF 121"
+  },
+  "markedAnswer": "B",
+  "explanation": "These are the 4 major isoforms of the VEGF protein. They are created by alternate splicing of the VEGF gene on chromosome 6. VEGF 165 is the isoform thought to be most involved in neovascular AMD and is the primary target of the anti-VEGF drug pegaptanib (Macugen). Q-Which of the following statements is TRUE regarding the different types of choroidal neovascularization (CNV)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 142,
+  "question": "Which of the following statements is TRUE regarding the different types of choroidal neovascularization (CNV)?",
+  "options": {
+   "D": "Type 3 neovascularization originates in the capillary plexus of the retina and grown toward the RPE",
+   "C": "Type 2 neovascularization typically appears as a area of red discoloration often associated with an exudate",
+   "B": "Type 1 neovascularization occupies the compartment between the RPE and outer segments of the retina",
+   "A": "Type 2 neovascularization is the most common form of CNV"
+  },
+  "markedAnswer": "D",
+  "explanation": "The BCSC specifically indicates an anatomical classification for choroidal neovascularization: • Type 1 CNV o Occurs when new vessels from the choriocapillaris grow through a defect in the Bruch membrane into the sub-RPE space. o Leakage and bleeding can lead to the vascularized serous or fibrovascular pigment epithelial detachment (PED). These fibrovascular PEDs often have an irregular contour. o Previously, known as \"occult\" CNV. o Poorly-delineated and stains late with irregular margins during fluorescein angiography. • Type 2 CNV o When abnormal vessels from the choriocapillaris penetrate through the RPE. Thus, type 2 CNV is located between the RPE and the outer segments of the retina. o Less common than type 1 CNV. o Has a lacy or gray-green appearance on fundus exam. o Previously, known as \"classic\" CNV. o Has a well-demarcated vascular pattern early on fluorescein angiography. The fluorescein dye then pools into the subneurosensory retinal space. • Type 3 CNV o Originates from blood vessels sprouting from the deep capillary plexus of the retina which grow downward toward the RPE. o Were originally called retinal angiomatous proliferations. o Appear as a small area of red discoloration frequently associated with an exudate. Q-A 55-year old woman presented with an asymptomatic fundus lesion identified incidentally after cataract surgery in the left eye. Which of the following conditions is most likely?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 143,
+  "question": "A 55-year old woman presented with an asymptomatic fundus lesion identified incidentally after cataract surgery in the left eye. Which of the following conditions is most likely?",
+  "options": {
+   "D": "Choroidal melanoma",
+   "C": "Acute Retinal Necrosis",
+   "B": "Rhegmatogenous retinal detachment",
+   "A": "Peripheral choroidal neovascularization"
+  },
+  "markedAnswer": "A",
+  "explanation": "Peripheral exudative hemorrhagic chorioretinopathy (PEHCR) is a peripheral (usually temporal) choroidal neovascular membrane (CNVM). This entity is typically seen in the periphery of an older (mean: 77 years old) woman (69%) and is often asymptomatic. Approximately 25% of patients experience bilateral lesions. Treatment with anti-VEGF injections are sometimes recommended if exudation encroaches the macula. However, these lesions can often be observed as they are not sight-threatening in the same way as macular CNVMs. WRONG ANSWERS: • Choroidal melanoma would be the next most likely of the answer choices, but the presence of hard exudates on the edge closest to the macula makes this less likely, as melanomas rarely exude lipid. • Rhegmatogenous retinal detachments almost always cause symptoms of floaters or flashing lights. • Acute retinal necrosis typically presents with floaters, reduced vision, and pain. Q-Which of the following is NOT considered to be a risk factor for the development of age-related macular degeneration (AMD)?",
+  "imageUrl": "/images/retina-oq/p133_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 144,
+  "question": "Which of the following is NOT considered to be a risk factor for the development of age-related macular degeneration (AMD)?",
+  "options": {
+   "D": "cigarette smoking",
+   "C": "female gender",
+   "B": "darker iris color",
+   "A": "increased age"
+  },
+  "markedAnswer": "B",
+  "explanation": "Most population-based studies have found that the most important factor in developing age-related macular degeneration (AMD) is advanced age. In resource-rich countries, approximately 10% of individuals over the age of 65 years and 25% over the age of 75 years have AMD. Other classic risk factors: • Female • Cigarette smoking • Hypertension • Hypercholesterolemia • Positive family history • Cardiovascular disease • Light iris color • Caucasian race • Hyperopia The BCSC specifically mentions the MESA (Multi-Ethnic Study of Atherosclerosis) study which found the prevalence of AMD to be highest in whites and lowest in African Americans. Acquired diseases affecting macula Q-A patient with no significant past ocular history aside from cataract undergoes cataract surgery complicated by vitreous loss. Two months after surgery, the vision deteriorates prompting evaluation in your clinic. An OCT is performed and is pictured above. Based on the history and OCT findings, what is the most likely pathophysiology of this finding?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 145,
+  "question": "A patient with no significant past ocular history aside from cataract undergoes cataract surgery complicated by vitreous loss. Two months after surgery, the vision deteriorates prompting evaluation in your clinic. An OCT is performed and is pictured above. Based on the history and OCT findings, what is the most likely pathophysiology of this finding?",
+  "options": {
+   "D": "Retinal ischemia induced release of vascular endothelial growth factor (VEGF)",
+   "C": "Weak intercellular adhesions",
+   "B": "Vitreomacular traction",
+   "A": "Inflammation induced blood-retina barrier breakdown"
+  },
+  "markedAnswer": "A",
+  "explanation": "The OCT demonstrates prominent cystoid macular edema (CME). CME after cataract surgery is also known as Irvine-Gass syndrome. There are many causes for CME including vitreomacular traction, inflammation / uveitis, diabetes, X-linked hereditary retinoschisis, epiretinal membrane, and retinitis pigmentosa. Following cataract surgery the most important influences are inflammatory mediators such as prostaglandins that disrupt blood vessel integrity resulting in leakage of fluid into the macula. Vitreomacular traction (VMT) can occur following vitreous loss during cataract surgery and can cause CME, but there is no evidence of VMT on this OCT. The first treatment for most cases of CME (including post-surgical CME) is medical therapy with topical steroids and topical NSAIDs. Q-Which of the following is generally FALSE regarding polypoidal choroidal vasculopathy (PCV)?",
+  "imageUrl": "/images/retina-oq/p135_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 146,
+  "question": "Which of the following is generally FALSE regarding polypoidal choroidal vasculopathy (PCV)?",
+  "options": {
+   "D": "fluorescein angiography (FA) is the optimal method of diagnosing PCV",
+   "C": "The most frequent presentations of PCV are serous or hemorrhagic detachments of the retina and RPE",
+   "B": "PCV lesions have a predilection to being located in the peripapillary region",
+   "A": "PCV is classically described to occur in hypertensive middle-aged women of African or Asian ancestry"
+  },
+  "markedAnswer": "D",
+  "explanation": "PCV was originally described by Yannuzzi et al in 1982 as a distinct form of choroidal neovascularization with a predilection for the peripapillary area. It is characterized by dilated choroidal vascular channels terminating in \"polyps\" leading to serous and hemorrhagic detachments of the retina and RPE. Another key feature is that there is either minimal or no cystic change of the overlying retina even if the subretinal hemorrhage is severe. Unlike choroidal neovascularization solely associated with age-related macular degeneration (AMD), PCV is classically associated with more darkly-pigmented individuals (e.g. Blacks and Asians). In fact, some experts believe that virtually all African American patients with neovascular AMD have concomitant PCV. In some clinical studies from Japan, over 50% of neovascular AMD patients had PCV. Also in contrast to neovascular AMD, PCV is not typically associated with drusen. Q-Though FA is routinely used in the evaluation of choroidal neovascularization in general, ICG angiography is much more helpful in the diagnosis and management of PCV. This is because the longer wavelengths used in ICG are able to penetrate more deeply into the choroid and also past any thick hemorrhage. What is the primary goal in using a preferential hyperacuity perimeter (PHP) for a patient?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 147,
+  "question": "What is the primary goal in using a preferential hyperacuity perimeter (PHP) for a patient?",
+  "options": {
+   "D": "to estimate visual acuity in non-verbal children",
+   "C": "to detect higher order aberrations in preparation for refractive surgery",
+   "B": "to detect new-onset neovascular AMD",
+   "A": "to detect early paracentral glaucomatous visual field defects"
+  },
+  "markedAnswer": "B",
+  "explanation": "The PHP is a visual field analyzer used specifically to detect new-onset neovascular AMD and to distinguish it from non-neovascular AMD. It is more sensitive than Amsler grid screening in detecting visual changes related to neovascular AMD. It uses the \"Vernier acuity phenomenon\" which is based on our ability to perceive a small difference in the spatial localization of two or more stimuli. This property permits the detection of early metamorphopsia caused by the displacement of photoreceptors by a choroidal neovascular membrane. Q-A 61-year-old female presents with the complaint of gradually reducing vision in the right eye for 6 months. She denies having any medical problems and does not take any medications. She has never had any eye surgeries, and until 6 months ago, was seeing \"20/20.\" On examination, her best-corrected visual acuity is 20/60 OD. The images depict her condition. Which of the following is the most appropriate initial management option?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 148,
+  "question": "The images depict her condition. Which of the following is the most appropriate initial management option?",
+  "options": {
+   "D": "Pars Plana Vitrectomy with membrane peeling OD",
+   "C": "Topical Prednisolone 1% QID OD",
+   "B": "Anti-VEGF therapy OD",
+   "A": "Observation"
+  },
+  "markedAnswer": "D",
+  "explanation": "The images depict an epiretinal membrane (ERM) with secondary cystoid macular edema (CME). Notice the prominent retinal striae on the color fundus photograph. A) Observation is inappropriate given that the patient is symptomatic and has moderately reduced vision. Since she has noticed worsening vision over the past 6 months, the vision is likely to continue deteriorating if observation is continued. B) Anti-VEGF therapy is inappropriate given that it has no efficacy for this condition. The CME is due to the circumfrential tractional forces exerted by the ERM on the retinal blood vessels running through the nerve fiber layer, and is not caused by inflammatory mediators. C) Topical or intravitreal steroids are inappropriate for this condition for the same reason as described for anti-VEGF therapy. D) Pars plana vitrectomy with membrane peeling +/- internal limiting peeling is the appropriate option. Once the ERM is removed and the tractional forces are relieved, the CME resolves. Removing the internal limiting membrane along with the ERM will prevent recurrence of the ERM. An ERM is unable re-proliferate on the surface of the nerve fiber layer, which in part explains the popularity of internal limiting membrane peeling by vitreoretinal surgeons. Q-Which of the following attributes helps to distinguish a vitelliform lesion from choroidal neovascularization (CNV) due to age-related macular degeneration (AMD)?",
+  "imageUrl": "/images/retina-oq/p137_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 149,
+  "question": "Which of the following attributes helps to distinguish a vitelliform lesion from choroidal neovascularization (CNV) due to age-related macular degeneration (AMD)?",
+  "options": {
+   "D": "marked blocked fluorescence in the early phases of the fluorescein angiogram (FA) in CNV lesions",
+   "C": "better than expected visual acuity compared to the lesion appearance",
+   "B": "hyperfluoresence of the vitelliform material",
+   "A": "diffuse, sometimes confluent, yellowish deposits at the level of the RPE"
+  },
+  "markedAnswer": "C",
+  "explanation": "Although vitelliform lesions may be very large and located directly under the fovea, the associated visual acuity is often good compared to similarly-looking CNV lesions. Answer choice \"D\" is wrong since it is actually vitelliform lesions that show blocked fluorescence in the early phases of the FA while CNV lesions (e.g. classic) usually leak early. Q-A 75-year-old male smoker presents with six months of night and peripheral vision loss. His OCT image as shown below is similar in both eyes. Which of the following would help to support the putative diagnosis?",
+  "imageUrl": "/images/retina-oq/p138_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 150,
+  "question": "A 75-year-old male smoker presents with six months of night and peripheral vision loss. His OCT image as shown below is similar in both eyes. Which of the following would help to support the putative diagnosis?",
+  "options": {
+   "D": "Posterior B-scan ultrasound",
+   "C": "Anterior chamber paracentesis for viral DNA",
+   "B": "Retinal nerve fiber layer (RNFL) OCT",
+   "A": "Electroretinogram (ERG)"
+  },
+  "markedAnswer": "A",
+  "explanation": "The key finding in this OCT image is attenuation of the parafoveal ellipsoid zone (IS/OS) boundary. This is representative of a photoreceptor degeneration and can occur in inherited retinal dystrophies such as retinitis pigmentosa or cone dystrophy. The demographic information suggests a recent rapid progression in an older male, so consideration needs to be given for cancer- associated retinopathy (CAR). The modality most useful to help identify generalized retinal dysfunction is the electroretinogram (ERG). WRONG ANSWERS: • RNFL OCT can help identify optic disc pallor, but this can also be seen in glaucoma or inherited retinal dystrophies. • Anterior chamber paracentesis for viral DNA would be useful for ruling out viral- mediated anterior uveitis, cytomegalovirus retinitis, acute retinal necrosis, or progressive outer retinal necrosis. • B-scan ultrasound would be most useful in this case if there was concern of an exudative retinal detachment or scleritis, but these are not described in the question. Q-A 30-year old lawyer presents to your office with new-onset metamorphopsia in the right eye. Dilated fundus exam and fluorescein angiogram (FA) are seen above. Which of the following FA patterns is most common in this condition?",
+  "imageUrl": null,
+  "stemReferencesFigure": true,
+  "figureMissing": true
+ },
+ {
+  "id": 151,
+  "question": "Which of the following FA patterns is most common in this condition?",
+  "options": {
+   "D": "staining pattern",
+   "C": "expansile dot pattern",
+   "B": "smokestack pattern",
+   "A": "diffuse pattern"
+  },
+  "markedAnswer": "C",
+  "explanation": "Central serous chorioretinopathy (CSCR) is characterized by the development of well-delineated serous retinal or RPE detachments. It typically occurs in young men and has some association with type A personalities and periods of high stress (although this relationship has never been proven). The most common FA pattern is the \"expansile dot\" pattern; the least common pattern is the \"diffuse pattern.\" Although some residents think the \"smokestack\" pattern occurs commonly in CSCR, it actually only occurs in approximately 10% of cases. Q-A 53-year-old man presents with decreased vision in the right eye for the past several months. OCT of the right eye is shown above. Which of the following is TRUE regarding this disease process?",
+  "imageUrl": "/images/retina-oq/p140_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 152,
+  "question": "A 53-year-old man presents with decreased vision in the right eye for the past several months. OCT of the right eye is shown above. Which of the following is TRUE regarding this disease process?",
+  "options": {
+   "D": "Intravitreal injection of ocriplasmin has been shown to resolve this problem in approximately one-quarter of patients",
+   "C": "Hyalocytes are the predominant cell type involved in this disease process",
+   "B": "Surgical correction typically results in vision improvement in about 33% of eyes",
+   "A": "The patient most likely has a Mittendorf dot accompanying this lesion"
+  },
+  "markedAnswer": "D",
+  "explanation": "The OCT clearly demonstrates the process of vitreomacular traction (VMT) with tenting-up of the retina due to incomplete separation of the posterior vitreous at the macula. This traction can also result in cystic edema and a shallow retinal detachment. Typical clinical symptoms include decreased and distorted vision. On exam, there is often an abnormal vitreous opacity overlying the macular region with traction on the macula and also the optic nerve. Because of this traction, fluorescein angiogram may show leakage of dye from the macular retinal vessels and from the optic disc. VMT is a subset of epiretinal membrane and glial cells are the predominant cell type involved. Surgical correction of VMT has been demonstrated to result in visual improvement of two lines or greater in 75% of eyes.1 Ocriplasmin2 is a recombinant protease that targets fibronectin and laminin. Ocriplasmin is administered through an intravitreal injection. By causing separation at the vitreoretinal interface, some patients can avoid surgery. At day 28, 26% of ocriplasmin injected eyes had resolution of vitreomacular adhesion vs. 10% of placebo-injected eyes. Q-A 60-year-old patient presents with a recent decline in vision, 8 weeks after cataract surgery. The patient's OCT is presented here. Which of the following would be an INAPPROPRIATE treatment for the ocular condition shown in the spectral domain OCT above?",
+  "imageUrl": "/images/retina-oq/p141_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 153,
+  "question": "A 60-year-old patient presents with a recent decline in vision, 8 weeks after cataract surgery. The patient's OCT is presented here. Which of the following would be an INAPPROPRIATE treatment for the ocular condition shown in the spectral domain OCT above?",
+  "options": {
+   "D": "Subtenon's kenalog",
+   "C": "Vitrectomy with internal limiting membrane peeling",
+   "B": "Topical NSAIDS",
+   "A": "Topical steroids"
+  },
+  "markedAnswer": "C",
+  "explanation": "The OCT demonstrates prominent cystoid macular edema (CME). There are many causes for CME including post-surgical (e.g., Irvine-Gass syndrome), vitreomacular traction (VMT), inflammation / uveitis, diabetes, X-linked hereditary retinoschisis, epiretinal membrane, and retinitis pigmentosa. The most important influence on CME formation is inflammatory mediators such as prostaglandins that disrupt blood vessel integrity resulting in leakage of fluid into the macula. For this reason, the first treatment for most cases of CME (including post-surgical CME) is medical therapy with topical steroids and topical NSAIDs. With severe CME or CME refractory to topical treatment, subtenon's kenalog is often utilized. Vitrectomy with internal limiting membrane peel would only be appropriate if the patient demonstrated traction on the macula from an epiretinal membrane or VMT. If present, such traction would be visible on a high quality spectral domain OCT such as this figure. Remember that one goal of standardized tests is to identify inappropriate risk taking. Always think twice before choosing a surgical intervention as an answer choice when an effective medical intervention is also an option. • • Q-A 23-year-old female with no past ocular or medical history presents with 3 weeks of central visual loss and flashing lights in her left eye. She demonstrates 20/60 vision in the left eye and a mild left afferent pupillary defect. Her fundus examination is remarkable only for retinal pigment epithelium stippling in the left eye and mild disc edema. The right eye vision and exam is normal. An OCT and FA is performed and results from the left eye are shown above. What is the most likely diagnosis?",
+  "imageUrl": "/images/retina-oq/p142_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 154,
+  "question": "A 23-year-old female with no past ocular or medical history presents with 3 weeks of central visual loss and flashing lights in her left eye. She demonstrates 20/60 vision in the left eye and a mild left afferent pupillary defect. Her fundus examination is remarkable only for retinal pigment epithelium stippling in the left eye and mild disc edema. The right eye vision and exam is normal. An OCT and FA is performed and results from the left eye are shown above. What is the most likely diagnosis?",
+  "options": {
+   "D": "Neuroretinitis",
+   "C": "Demyelinating optic neuritis",
+   "B": "Multiple evanescent white dot syndrome",
+   "A": "Epiretinal membrane"
+  },
+  "markedAnswer": "B",
+  "explanation": "Multiple evanescent white dot syndrome (MEWDS) is a poorly understood, idiopathic inflammatory condition of the inner choroid and/or outer retina. It tends to occur unilaterally in younger myopic females and often presents with central vision loss, enlarged blind spot, and photopsias. Photopsias are very characteristic of MEWDS and other poorly understood inflammatory conditions such as acute zonal occult outer retinopathy (AZOOR) and idiopathic enlarged blind spot syndrome; photopsias as a prominent feature in a young patient with central vision loss should raise suspicion for these conditions. The hallmark features of MEWDS are short-lived white dots usually lasting from days to a week after visual symptoms begin, macular pigment stippling, macular wreath- like punctuate hyperfluorescence on fluorescein angiography, and mild disc edema in some cases. With the advent of high quality spectral domain OCT (SD-OCT) images, it has been discovered that there are non-specific but characteristic outer segment and RPE changes on SD-OCT. Essentially the OCT shows disruption of the usual contour of these layers without evidence of retinal edema. Similar changes can be seen in AZOOR, commotio retinae, and solar retinopathy. In the correct clinical context, however, the disruption of the normal inner segment- outer segment and RPE layers is essentially diagnostic of MEWDS. This is helpful in cases such as this question where the white dots have long since resolved by the time the patient is examined. Q-A 23-year-old female with no past ocular or medical history presents with 3 weeks of central visual loss and flashing lights in her right eye. She demonstrates 20/60 vision in the right eye and a mild right afferent pupillary defect. Her fundus examination is remarkable only for retinal pigment epithelium stippling in the right eye and mild disc edema. The left eye vision and exam is normal. An OCT is performed of both eyes (see image above: the superior image is from the right eye and inferior image is from the normal left eye). What is the most likely diagnosis?",
+  "imageUrl": "/images/retina-oq/p145_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 155,
+  "question": "What is the most likely diagnosis?",
+  "options": {
+   "D": "Multiple evanescent white dot syndrome",
+   "C": "Demyelinating optic neuritis",
+   "B": "Neuroretinitis",
+   "A": "Migraine associated retinal artery occlusion"
+  },
+  "markedAnswer": "D",
+  "explanation": "Multiple evanescent white dot syndrome (MEWDS) is a poorly understood, idiopathic inflammatory condition of the inner choroid and/or outer retina. It tends to occur unilaterally in younger myopic females and often presents with central vision loss, enlarged blind spot, and photopsias. Photopsias are very characteristic of MEWDS and other poorly understood inflammatory conditions such as acute zonal occult outer retinopathy (AZOOR) and idiopathic enlarged blind spot syndrome; photopsias as a prominent feature in a young patient with central vision loss should raise suspicion for these conditions. Other causes of photopsias associated with vision loss are often short lasting (migraine), have prominent exam findings (retinal detachment or tears), or don't typically present in a young patient (cancer-associated retinopathy and melanoma- associated retinopathy). The hallmark features of MEWDS are short-lived white dots usually lasting from days to a week after visual symptoms begin, macular pigment stippling, macular wreath-like punctuate hyperfluorescence on fluorescein angiography, and mild disc edema in some cases. Recently with the advent of high quality spectral domain OCT (SD-OCT) images, it has been discovered that there are non-specific but characteristic outer segment and RPE changes on SD-OCT. Essentially the OCT shows disruption of the usual contour of these layers without evidence of retinal edema. Similar changes can be seen in AZOOR, commotio retinae, and solar retinopathy. In the correct clinical context, however, the disruption of the normal ellipsoid zone and RPE layers is essentially diagnostic of MEWDS. This is helpful in cases such as this question where the white dots have long since resolved by the time the patient is examined. • Q-A 64-year-old Caucasian male is referred to your clinic for a 1-month history of blurry vision in his left eye. He denies any recent ocular or head trauma, and his ocular history includes trace nuclear sclerotic cataracts in both eyes. On exam, his best corrected visual acuity in the left eye measures 20/100 and does not improve with pinhole. Posterior examination does not show a posterior vitreous detachment, and retinal findings correlate with optical coherence tomography imaging shown above. What in-office test can be performed to confirm the diagnosis?",
+  "imageUrl": "/images/retina-oq/p145_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 156,
+  "question": "What in-office test can be performed to confirm the diagnosis?",
+  "options": {
+   "D": "Marcus-Gunn test",
+   "C": "Krimsky-Hirschberg test",
+   "B": "Jones test",
+   "A": "Watzke-Allen test"
+  },
+  "markedAnswer": "A",
+  "explanation": "As you may have guessed, all of the answers are eponymous tests from famous ophthalmologists. The patient’s symptoms and imaging data all indicate that he has a macular hole, specifically stage 3. The macular hole staging nomenclature adheres to the following parameters: • Stage 1 – also known as an impending macular hole, it demonstrates a loss of foveal depression without full thickness break. • Stage 2 – full thickness break ≤ 400 microns in diameter with the posterior hyaloid still attached to the fovea on OCT imaging. • Stage 3 – full thickness break > 400 microns with the posterior hyaloid noted to be detached over the macula; however, vitreous is still attached to the optic nerve head (thus, no posterior vitreous detachment observed on exam such as in our patient). • Stage 4 – same as stage 3 with the addition of a complete PVD. A full thickness macular hole can be difficult to discern from a partial thickness lamellar hole on fundus examination. If you do not have the luxury of OCT imaging, you can perform a Watze- Allen test (choice A) at the slit lamp. Using a 78D or 90D noncontact lens, a thin beam of light is projected over the macula across the fovea, and the patient is asked to report on its appearance. If the patient notices a break in the line, this may indicate a full thickness macular hole. The Jones test (choice B) is used to evaluate the lacrimal drainage system and is composed of two separate tests. The Jones I test investigates lacrimal outflow under normal physiologic conditions. The examiner places fluorescein into the conjunctival fornices and recovers it in the inferior nasal meatus by passing a cotton-tipped wire applicator into the region of the ostium of the nasolacrimal duct at 2 and 5 minutes. The Jones II test involves flushing residual fluorescein from the conjunctival sac using normal saline following an unsuccessful Jones I test to determine whether any reflux upon irrigation contains fluorescein in the retrieved fluid. There is no such thing as a Krimsky-Hirschberg test (choice C); however, there are separate Krimsky and Hirschberg tests. Both are used as screening tests to evaluate for the presence of strabismus. The Hirschberg test is performed by shining a light on the person’s eyes and observing where the light reflects off the corneas. In a person who is orthophoric, the light reflex lies slightly nasal from the center as a result of the cornea acting as a temporally-turned convex mirror to the observer. The light reflexes of both eyes are compared and should be symmetrical. Exotropia would demonstrate the corneal light reflex more nasally, and esotropia would show it more temporally. Similarily, hypertropia would demonstrate the reflex more inferiorly, and hypotropia would demonstrate it more superiorly. The Krimsky test employs the same principles as the Hirschberg test with the addition of prisms to quantify the amount of deviation by determining how much prism is required to re-center the reflex. The Marcus-Gunn test is typically how one checks for the presence of a relative afferent pupillary defect (rAPD) in clinic. It is performed by shining a light into the left and right eyes rapidly and comparing pupillary constriction. A normal response would be equal constriction of both pupils regardless of which eye the light is directed at, indicating an intact direct and consensual pupillary light reflex. When the test is performed in an eye with a rAPD, light directed in the affected eye will cause only mild constriction of both pupils, while light in the unaffected eye will cause a normal constriction of both pupils. The key is to remember that rAPD is “relative”, thus if there is pathology affecting both pupillary light reflexes, then this test is no longer valid. Q-A 44-year-old-woman presents with decreased central vision. Her review of systems is notable for the presence of the skin finding seen in the external photo on the far left. Which of the following fundus photos is associated with this woman's condition?",
+  "imageUrl": "/images/retina-oq/p147_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 157,
+  "question": "A 44-year-old-woman presents with decreased central vision. Her review of systems is notable for the presence of the skin finding seen in the external photo on the far left. Which of the following fundus photos is associated with this woman's condition?",
+  "options": {
+   "D": "D",
+   "C": "C",
+   "B": "B",
+   "A": "A"
+  },
+  "markedAnswer": "C",
+  "explanation": "The external photograph depicts the yellowish papular lesions that are synonymous with pseudoxanthoma elasticuma (PXE). This skin change resembles \"chicken skin\" and mainly affects the neck (as in this case), armpits, groin, and flexural creases. The main ocular findings associated with PXE are a \"peau d'orange\" fundus and angioid streaks (photo C). Other ocular findings in PXE include optic disc drusen and round atrophic scars. Vision loss from angioid streaks can occur from either submacular hemorrhages or choroidal neovascular membranes. These eyes are at higher risk of choroidal rupture after even mild ocular trauma. Photo \"A\" is depicting serpiginous choroidopathy; photo \"B\" is showing ocular histoplasmosis; and photo \"D\" is demonstrating multiple evascent white dot syndrome. These other entities are discussed in other questions on this website. Q-A 33-year old woman presents to your clinic to obtain a new pair of glasses. After she takes off her \"coke-bottle\" glasses, you perform a dilated fundus exam which is shown in the photograph above. Which of the following is NOT a characteristic finding of this patient's condition?",
+  "imageUrl": "/images/retina-oq/p149_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 158,
+  "question": "A 33-year old woman presents to your clinic to obtain a new pair of glasses. After she takes off her \"coke-bottle\" glasses, you perform a dilated fundus exam which is shown in the photograph above. Which of the following is NOT a characteristic finding of this patient's condition?",
+  "options": {
+   "D": "lacquer cracks",
+   "C": "lattice degeneration",
+   "B": "Dalen-Fuchs spots",
+   "A": "atrophy of the ciliary body"
+  },
+  "markedAnswer": "B",
+  "explanation": "Förster-Fuchs (i.e. not Dalen-Fuchs) spots can be found in pathologic myopia. These are dark spots due to RPE hyperplasia that presumably occur in response to a small choroidal neovascular lesion that does not progress. According to the BCSC, individuals with pathologic myopia have a spherical equivalent greater than -8.00 D and/or an axial length greater than 32.5 mm. Other findings found in pathologic myopia include: • optic disc tilting with extensive peripapillary atrophy • lacquer cracks • posterior staphyloma • atrophy of the RPE and choroid • elongation/atrophy of the ciliary body • lattice, cystoid, paving-stone degeneration • choroidal neovascularization • peripheral retinal holes. Dalen-Fuchs *nodules* occur in sympathetic ophthalmia and VKH syndrome. Q-A 39-year-old woman presents with acute metamorphopsia in the left eye. In addition to an abnormality of the macula (not shown), her dilated exam is significant for the abnormality shown in the photo above. The mechanism causing her distorted vision is most similar to what other ocular disease?",
+  "imageUrl": "/images/retina-oq/p150_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 159,
+  "question": "A 39-year-old woman presents with acute metamorphopsia in the left eye. In addition to an abnormality of the macula (not shown), her dilated exam is significant for the abnormality shown in the photo above. The mechanism causing her distorted vision is most similar to what other ocular disease?",
+  "options": {
+   "D": "central serous chorioretinopathy (CSCR)",
+   "C": "multiple evanescent white dot syndrome (MEWDS)",
+   "B": "geographic atrophy from age-related macular degeneration (AMD)",
+   "A": "proliferative diabetic retinopathy (PDR)"
+  },
+  "markedAnswer": "D",
+  "explanation": "The photo shows a hypopigmented, round excavated defect of the temporal optic disc consistent with an optic pit. Optic pits most commonly occur in the inferotemporal portion of the optic disc and may lead to serous macular detachments. There is some thought that the fluid contained within these serous detachments is either liquid vitreous or cerebrospinal fluid. The most common visual field defect associated with an optic pit is either a paracentral or arcuate scotoma. Of the answer choices above, CSCR is the one that is commonly associated with serous macular detachments due to a RPE defect. Q-A 63-year-old male presents for evaluation of the left eye following pars plana vitrectomy (PPV) for an epiretinal membrane (ERM). Two weeks ago, the patient underwent PPV with membrane peeling and internal limiting membrane (ILM) peeling. The patient's preoperative best-corrected visual acuity was 20/50 OS. The patient's best-corrected visual acuity is now 20/60 OS. The image depicts the patient's condition. Which of the following is the most appropriate management option at this time?",
+  "imageUrl": "/images/retina-oq/p151_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 160,
+  "question": "The patient's preoperative best-corrected visual acuity was 20/50 OS. The patient's best-corrected visual acuity is now 20/60 OS. The image depicts the patient's condition. Which of the following is the most appropriate management option at this time?",
+  "options": {
+   "D": "Intravitreal ocriplasmin injection",
+   "C": "PPV with further ILM peeling and intraocular gas tamponade with face down positioning for 7 days",
+   "B": "PPV with intraocular gas tamponade and face down positioning for 3 days",
+   "A": "Observation"
+  },
+  "markedAnswer": "A",
+  "explanation": "The images depict an eccentric full-thickness macular hole (FTMH) following PPV with ERM removal and ILM peeling. These holes occur in approximately 2% of cases following ERM removal. Putative mechanisms for hole formation include weakening of the glial structure of the retina induced by the decapitation of Müller cells, opening or de-roofing of intraretinal cysts, contraction of residual ILM, direct mechanical trauma, and ILM-staining dye toxicity. A) Observation is the most appropriate choice. An eccentric FTMH has minimal impact on the patient's subjective visual function unless it occurs either close to the fovea (within one disc diameter) or in the nasal macula within the papillomacular bundle. Furthermore, an eccentric FTMH does not seem to readily accumulate subretinal fluid with subsequent retinal detachment, though there may be a small risk of retinal detachment in highly myopic patients. The hole in this case is in the temporal macula and more than one disc diameter away from the fovea. The level of visual acuity is appropriate for a patient 2 weeks after ERM removal. B/C) It is inappropriate to subject this patient to an additional surgical procedure given that the FTMH will likely remain stable and asymptomatic indefinitely. It is evident from the images that both the ERM and ILM have been sufficiently removed from the central macula. D) Intravitreal ocriplasmin is inappropriate given that the posterior hyaloid has already been completely removed during the ERM removal (as evidenced by the images). Q-A 26-year old man presents for an annual eye exam. His visual acuity is 20/20 OU. His anterior segment exam is normal. Dilated fundus examination is seen in the photograph above. Which of the following is NOT a systemic disease associated with this patient's ocular condition?",
+  "imageUrl": "/images/retina-oq/p152_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 161,
+  "question": "His anterior segment exam is normal. Dilated fundus examination is seen in the photograph above. Which of the following is NOT a systemic disease associated with this patient's ocular condition?",
+  "options": {
+   "D": "sickle cell anemia",
+   "C": "alpha-thalassemia",
+   "B": "Paget disease of bone",
+   "A": "Ehlers-Danlos syndrome"
+  },
+  "markedAnswer": "C",
+  "explanation": "Angioid streaks are breaks or irregularities in Bruch's membrane which can lead to: (1) spontaneous subretinal hemorrhages that are *not* necessarily related to choroidal neovascularization (CNV). These subretinal hemorrhages can resolve spontaneously without any evidence of CNV; and (2) CNV -- which is the major cause of permanent vision loss in this disorder. Angioid streaks is associated with *beta*-thalassemia (not alpha). It also can be associated with pseudoxanthoma elasticum, Ehlers-Danlos syndrome, Paget disease of *bone*, and sickle cell anemia, The mnemonic, \"P-E-P-S-I\", can be used to remember these associated diseases (the \"I\" standing for \"idiopathic\"). Q-A 21-year old student visits your office for complaints of acute blurry vision in the right eye. He is distraught because finals week is approaching and he needs to do well because he is applying to medical school. His dilated fundus exam and fluorescein angiogram (FA) are shown above. The patient begs you to help improve his vision immediately. Assuming that his point of leakage is 50 microns from the center of the fovea, what therapy has shown efficacy in previous studies for this ocular condition?",
+  "imageUrl": "/images/retina-oq/p154_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 162,
+  "question": "Assuming that his point of leakage is 50 microns from the center of the fovea, what therapy has shown efficacy in previous studies for this ocular condition?",
+  "options": {
+   "D": "intravitreal triamcinolone",
+   "C": "intravitreal anti-VEGF agents",
+   "B": "photodynamic therapy (PDT)",
+   "A": "laser photocoagulation (LPC)"
+  },
+  "markedAnswer": "B",
+  "explanation": "The visual prognosis of central serous chorioretinopathy (CSCR) is generally good, with >80% of affected eyes showing spontaneous resorption of fluid within 4 months. However, there are certain situations where earlier intervention may be warranted (e.g. recurrent disease, occupational demands, persistent subretinal fluid beyond 4 months). In this case, the point of leakage is very close to the fovea which makes LPC somewhat dangerous. PDT has demonstrated efficacy in case series for those CSCR patients with leakage very near or underneath the fovea. Q-Which of the following choroidal neovascular (CNV) lesion patterns was shown to respond the most in the TAP (Treatment of AMD with Photodynamic Therapy) trial?",
+  "imageUrl": "/images/retina-oq/p155_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 163,
+  "question": "Which of the following choroidal neovascular (CNV) lesion patterns was shown to respond the most in the TAP (Treatment of AMD with Photodynamic Therapy) trial?",
+  "options": {
+   "D": "the lesion type did not matter",
+   "C": "occult with no classic CNV",
+   "B": "predominantly classic lesions",
+   "A": "minimally classic lesions"
+  },
+  "markedAnswer": "B",
+  "explanation": "The TAP trial examined the effect of photodynamic therapy (PDT) for patients with subfoveal CNV with *any* classic component. It did not enroll patients with occult CNV with no classic features. The TAP trial showed the greatest benefit of PDT for those patients with predominantly-classic CNV. A 57-year-old Caucasian man presents to your clinic complaining of a gradual increase in metamorphopsia of his right eye vision for the past 6 months. His ocular history includes moderate myopia in both eyes corrected with eyeglasses. At this visit, his best corrected visual acuity in the left eye measured 20/60 on Snellen, improving to 20/40 with pinhole. Anterior segment examination of the left eye showed a trace nuclear sclerotic cataract. Optical coherence tomography maging is shown above. What other ocular exam finding is most commonly seen in a patient with this condition?",
+  "imageUrl": "/images/retina-oq/p156_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 164,
+  "question": "What other ocular exam finding is most commonly seen in a patient with this condition?",
+  "options": {
+   "D": "Retinal capillary hemangioma",
+   "C": "Hollenhorst plaque",
+   "B": "Posterior vitreous detachment",
+   "A": "Pseudoexfoliation of the lens capsule"
+  },
+  "markedAnswer": "B",
+  "explanation": "Based on the patient’s symptoms as well as imaging data, he has an epiretinal membrane (also known as macular pucker or cellophane maculopathy) of the right eye. The most common concurrent ocular finding in this condition is a posterior vitreous detachment (PVD), as this is present in approximately 60-90% of patients at the time of diagnosis. As the vitreous ages and pulls away from the macula, the retina can be subject to mild injury which induces a reactive gliosis from immune cells that generate the characteristic membranous tractional appearance. Progressive metamorphopsia and central vision loss are the most common presenting symptoms. Surgical intervention may be necessary depending upon the level of visual debilitation experienced by the patient. Image below is of a Weiss ring, which is a common clinical finding of a PVD. Pseudoexfoliation of the lens capsule is most commonly seen in patients with pseudoexfoliation syndrome, which often can lead to secondary glaucoma. Common findings include glaucomatous changes of the optic nerve head, fibrillary white flaky material on the lens capsule, and increased pigmentary deposition on the trabecular meshwork. Hollenhorst plaque is a cholesterol embolus often found within the lumen of the retinal artery that can cause a retinal artery occlusion (RAO). This can occur in the central retinal artery (CRAO) or one of its branches (BRAO). Hollenhorst plaques tend to originate from the carotid arteries or the aorta due to atherosclerotic lesions, and can lead to RAO when the plaque completely obstructs the vessel. Its presence is a confirming diagnosis; however, the absence of a plaque does not rule out the possibility of an embolic occlusion. The fundus will display typical ischemic findings such as retinal whitening around the occluded vessel, and the patient will experience painless vision loss. Retinal capillary hemangioma (also known as retinal hemangioblastoma) is a benign hamartoma (excess proliferation of normal tissue in a normal location) that is composed of tortuous, large-diameter capillaries in a nodular appearance with engorged feeding and draining blood vessels. It may exist by itself or as part of von Hippel-Lindau (VHL) disease, an autosomal dominantly inherited condition characterized by the development of capillary hemangiomas of the brain and spinal cord, renal cell carcinoma, pheochromocytoma, pancreatic neuroendocrine tumors, and other visceral cystic findings. • You examine a patient who complains of a persistent \"blind spot\" in both eyes after attending an \"astronomical event\" celebration. His fundus photo is shown above. Which of the following are considered protective factors to prevent this condition?",
+  "imageUrl": "/images/retina-oq/p156_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 165,
+  "question": "Which of the following are considered protective factors to prevent this condition?",
+  "options": {
+   "D": "clearer crystalline lens",
+   "C": "high refractive errors",
+   "B": "younger patient",
+   "A": "light fundus pigmentation"
+  },
+  "markedAnswer": "C",
+  "explanation": "The fundus photos show a yellow-white spot in the fovea of both eyes which are consistent with a diagnosis of solar retinopathy. This commonly occurs in \"sun gazers\" or those viewing a solar eclipse. Many people mistakenly assume that directly viewing a solar eclipse is safe since it is perceived as being dimmer. Factors that are thought to be protective against this condition include: darker fundus pigmentation and high refractive errors. Factors that are thought to increase the risk of this condition are: being younger, having clearer crystalline lenses, and taking photosensitizing medications (e.g. tetracycline and psoralens). The initial (acute) fundus finding in solar retinopathy is this yellow-white dot which represents retinal edema. Oftentimes however, no fundus findings are seen acutely. After a few days, this becomes a reddish dot and then may evolve into a lamellar hole or depression. Fluorescein angiography can sometimes demonstrate a window defect which corresponds to this thinned area. • A 55-year woman is referred to you with symptoms of \"distorted vision\" in the right eye. Her visual acuity OD is 20/50. Dilated fundus exam and optical coherence tomography (OCT) are shown above. All of the following are TRUE regarding this patient's eye condition EXCEPT:.",
+  "imageUrl": "/images/retina-oq/p158_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 166,
+  "question": "• A 55-year woman is referred to you with symptoms of \"distorted vision\" in the right eye. Her visual acuity OD is 20/50. Dilated fundus exam and optical coherence tomography (OCT) are shown above. All of the following are TRUE regarding this patient's eye condition EXCEPT:",
+  "options": {
+   "D": "this condition may occasionally present as a \"pseudohole\"",
+   "C": "the large majority these patients will have stable vision over many years even without repair",
+   "B": "return to normal vision is common after appropriate surgical repair",
+   "A": "surgical repair is generally undertaken when the vision is 20/50 or worse"
+  },
+  "markedAnswer": "B",
+  "explanation": "This fundus photo shows a classic epiretinal membrane. Though improvement in vision is possible in >50% of patients undergoing an epiretinal membrane peel, a return to normal vision is considered rare. Another indication for a membrane peel is an epiretinal membrane causing significant distortion even if the vision is better than 20/50. • A 78-year old woman undergoes phacoemulsification which is complicated by vitreous loss. An anterior vitrectomy is performed at that time and an intraocular lens is successfully implanted in the ciliary sulcus. However 3 weeks after the surgery, her vision is still 20/80 in the operated eye. Slit-lamp examination of the operated eye shows focal peaking of the pupil by a single vitreous strand going to the corneal wound. An optical coherence tomography (OCT) is taken and shown in the photograph above. Besides topical medications, which of the following is the best course of management for this patient?",
+  "imageUrl": "/images/retina-oq/p159_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 167,
+  "question": "Besides topical medications, which of the following is the best course of management for this patient?",
+  "options": {
+   "D": "sub-Tenon injection of triamcinolone",
+   "C": "intravitreal anti-VEGF agents",
+   "B": "intravitreal triamcinolone",
+   "A": "YAG vitreolysis"
+  },
+  "markedAnswer": "A",
+  "explanation": "The OCT shows cystoid macular edema (CME) likely as a result of the persistent vitreous traction from the remaining vitreous strand in the anterior chamber. Besides topical steroids and NSAIDs, YAG vitreolysis of this strand will best resolve the CME. This is a non-invasive and relatively straightforward procedure. Here are some suggested steps/advice in performing this procedure: 1. Constrict the patient's pupil with pilocarpine (e.g. 1 or 2%). This will help with visualization of the culprit vitreous strands by placing them on tension. 2. Use a peripheral iridotomy lens. This will provide adequate magnification of the vitreous strands. 3. Aim for the portion of the vitreous strand(s) located at the pupillary edge. Frequently, this is seen as a \"notch\" in the pupillary edge. • A 73-year-old man complains of sudden painless vision loss in the right eye. The fluorescein angiogram (FA) and indocyanine green angiogram (ICG) (late phase) are shown. Which of the following is TRUE regarding this patient's disease?",
+  "imageUrl": "/images/retina-oq/p160_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 168,
+  "question": "• A 73-year-old man complains of sudden painless vision loss in the right eye. The fluorescein angiogram (FA) and indocyanine green angiogram (ICG) (late phase) are shown. Which of the following is TRUE regarding this patient's disease?",
+  "options": {
+   "D": "Pigment epithelial detachment does not occur regularly",
+   "C": "Anatomic closure of these lesions is achieved more often with photodynamic therapy (PDT) + ranibizumab than with ranibizumab monotherapy",
+   "B": "This disease occurs exclusively in pigmented races",
+   "A": "Asymptomatic lesions should be treated to avoid leakage in the future"
+  },
+  "markedAnswer": "C",
+  "explanation": "Polypoidal choroidal vasculopathy (PCV) was originally described by Yannuzzi et al in 1982 as a distinct form of choroidal neovascularization with a predilection for the peripapillary area. It is characterized by dilated choroidal vascular channels terminating in \"polyps\" leading to serous and hemorrhagic detachments of the retina and RPE. Another key feature is that there is either minimal or no cystic change of the overlying retina even if the subretinal hemorrhage is severe. PCV is best diagnosed through ICG angiography. In the photos above, a polyp is highlighted as a hyperfluorescent spot on ICG (arrow). The branching vascular network is seen nasal to the polyp. Although PCV is thought to occur more commonly in darker-pigmented races, with increased use of ICG, it is being discovered that PCV is underdiagnosed in other races as well. The BCSC states that that \"classic\" patient with PCV is a hyptensive middle- aged women of African or Asian ancestry. The EVEREST trial1 demonstrated an increased rate of anatomical closure of polyps in PDT + ranibizumab as compared with ranibizumab monotherapy or PDT alone. • A 56 year-old male presents for evaluation of reduced vision in the left eye. His best- corrected spectacle visual acuity in the left eye is 20/50 with a -5.50 sphere. Which of the following is NOT true regarding the patient's condition seen in the imaging?",
+  "imageUrl": "/images/retina-oq/p161_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 169,
+  "question": "• A 56 year-old male presents for evaluation of reduced vision in the left eye. His best- corrected spectacle visual acuity in the left eye is 20/50 with a -5.50 sphere. Which of the following is NOT true regarding the patient's condition seen in the imaging?",
+  "options": {
+   "D": "Surgical removal of the internal limiting membrane prevents recurrence of this condition",
+   "C": "Visual recovery back to previous baseline level following successful surgical repair is frequent",
+   "B": "Histologic examination of this condition reveals mainly RPE cells and retinal glial cells",
+   "A": "This condition is present in approximately 20% of patients over age 75 at autopsy"
+  },
+  "markedAnswer": "C",
+  "explanation": "The patient in this case has an idiopathic epiretinal membrane (ERM). An idiopathic ERM is almost always associated with the presence of a posterior vitreous detachment. Patients with moderate to high myopia and those with retinal vascular diseases such as diabetic retinopathy and retinal vein occlusions have an increased incidence of ERM formation. A) ERMs are found in 2% of patients over the age of 50 and in 20% of patients over the age of 75 at autopsy. B) Although histologic examination may reveal the presence of fibroblasts, macrophages, and hyalocytes, RPE cells and retinal glial cells (astrocytes and Muller cells) are predominately found. C) Pars plana vitrectomy with membrane peeling is the recommended procedure for the management of a symptomatic ERM. Although 50-75% of patients improve after surgery, the visual acuity rarely returns to the level that existed prior to ERM formation. D) Internal limiting peeling in conjunction with ERM removal prohibits ERM regrowth in the postoperative period. ERMs are unable to re-proliferate on the surface of the nerve fiber layer, which explains the popularity of internal limiting peeling during pars plana vitrectomy for this condition. • The retinal pathology, demonstrated in the optical coherence tomography (OCT) above, would be LEAST likely to be found in which of the following conditions?",
+  "imageUrl": "/images/retina-oq/p163_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 170,
+  "question": "• The retinal pathology, demonstrated in the optical coherence tomography (OCT) above, would be LEAST likely to be found in which of the following conditions?",
+  "options": {
+   "D": "Optic nerve pit",
+   "C": "Vogt-Koyonagi-Harada (VKH) syndrome",
+   "B": "Stargardt disease",
+   "A": "Morning glory disc anomaly"
+  },
+  "markedAnswer": "B",
+  "explanation": "The OCT shows a serous detachment of the neurosensory retina. A serous RD commonly occurs in all of the conditions listed except for Stargardt disease. Stargardt disease (juvenile macular degeneration) is the most common hereditary maculopathy. The first ophthalmologic changes observed are loss of foveal reflex, followed by development of characteristic macular bull’s-eye atrophy with surrounding round or pisciform yellow flecks. Morning glory disc anomaly is a funnel-shaped excavation of the posterior fundus that incorporates the disc. Serous retinal detachments occur in approximately one- third of affected patients. Morning glory disc anomaly is also associated with basal encephalocele in patients with midfacial anomalies, PHACE syndrome, and abnormalities of the carotid circulation (moyamoya disease). There are 4 stages of Vogt-Koyonagi-Harada (VKH) syndrome. The acute uveitic stage is characterized by diffuse, nonnecrotizing, granulomatous panuveitis, and serous retinal detachments. Optic nerve pits or holes are considered by some to be a variant of optic nerve coloboma. These lesions are typically unilateral and appear in the inferotemporal quadrant of the disc. Patients with optic nerve pits typically have normal visual acuity unless it is associated with a serous retinal detachment, which mainly occur in the second and third decades of life. Macula • A 75-year-old Caucasian woman presents with chronic poor vision in the right eye for many years. Her visual acuity is 20/800 OD. Dilated fundus exam OD is shown above. Which of the following fluorescein angiogram (FA) patterns would this patient's macular lesion primarily exhibit?",
+  "imageUrl": "/images/retina-oq/p164_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 171,
+  "question": "A 75-year-old Caucasian woman presents with chronic poor vision in the right eye for many years. Her visual acuity is 20/800 OD. Dilated fundus exam OD is shown above. Which of the following fluorescein angiogram (FA) patterns would this patient's macular lesion primarily exhibit?",
+  "options": {
+   "D": "staining",
+   "C": "window defect",
+   "B": "pooling",
+   "A": "leaking"
+  },
+  "markedAnswer": "C",
+  "explanation": "The fundus photo shows severe geographic atrophy with the underlying choroidal vessels being readily visible due to the attenuated or absent overlying retinal pigment epithelium. This atrophy displays a window defect pattern of hyperfluorescence on FA Extra : The RPEs are like a window or a door that is blocking the view to the underlying choroid! If you have a retina that is having an atrophy at the level of the RPEs as in the geographic atrophy then it will allow you to see it’s underlying choroid! So it will be having what is called the window defect in FFA. Q-Which of the following spherical equivalent and axial length values typically are used to define \"pathologic myopia\"?",
+  "imageUrl": null,
+  "stemReferencesFigure": true,
+  "figureMissing": true
+ },
+ {
+  "id": 172,
+  "question": "Which of the following spherical equivalent and axial length values typically are used to define \"pathologic myopia\"?",
+  "options": {
+   "D": "spherical equivalent of >= -6.00 or more; axial length of >= 26.5 mm",
+   "C": "spherical equivalent of >= -6.00 or more; axial length of >= 32.5 mm",
+   "B": "spherical equivalent of >= -8.00 or more; axial length of >= 26.5 mm",
+   "A": "spherical equivalent of >= -8.00 or more; axial length of >= 32.5 mm"
+  },
+  "markedAnswer": "A",
+  "explanation": "According to the BCSC Retina book, pathologic myopes typically have a spherical equivalent of >= -8.00 D and an axial length of >= 32.5 mm. \"High myopes\" usually have a spherical equivalent >= -6.00 D and an axial length of >= 26.5 mm. BCSC (2021-2022): \"Most studies use a myopic refractive error greater than -6 diopters or an axial length of 26.5 mm or more as a threshold for pathologic myopia.\" Please double check the answer as it is outdated Q-Which of the following is TRUE regarding the \"GENEVA\" (OZURDEX) study?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 173,
+  "question": "BCSC (2021-2022): \"Most studies use a myopic refractive error greater than -6 diopters or an axial length of 26.5 mm or more as a threshold for pathologic myopia.\" Please double check the answer as it is outdated Q-Which of the following is TRUE regarding the \"GENEVA\" (OZURDEX) study?",
+  "options": {
+   "D": "Intravitreal bevacizumab outperformed intravitreal ranibizumab in the treatment of macular edema.",
+   "C": "The dexamethasone intravitreal implant outperformed intravitreal ranibizumab in the treatment of macular edema.",
+   "B": "Intravitreal ranibizumab outperformed the dexamethasone intravitreal implant in the treatment of macular edema.",
+   "A": "Subjects with either a branch retinal vein occlusion or a central retinal vein occlusion were included."
+  },
+  "markedAnswer": "A",
+  "explanation": "The GENEVA study was a multicenter, randomized clinical trial of 1267 participants that evaluated the efficacy and safety of the dexamethasone intravitreal implant (OZURDEX) compared with sham injections in eyes with vision loss due to macular edema associated with either a branch retinal vein occlusion (BRVO) or a central retinal vein occlusion (CRVO). At 6-months follow-up, the percentage of eyes with a > or =15-letter improvement in visual acuity was significantly higher in the dexamethasone intravitreal implant group compared with sham. The percentage of eyes with a > or =15-letter loss in visual acuity was significantly lower in the dexamethasone intravitreal implant group compared with sham at all follow-up visits. The percentage of dexamethasone intravitreal implant group-treated eyes with intraocular pressure of > or =25 mmHg peaked at 16% at day 60 and was not different from sham by day 180. There was no significant between-group difference in the occurrence of cataract or cataract surgery at 6-months follow-up. The researchers concluded that dexamethasone intravitreal implants can both reduce the risk of vision loss and improve the speed and incidence of visual improvement in eyes with macular edema secondary to BRVO or CRVO. This study established OZURDEX as a safe and effective treatment for macular edema secondary to a BRVO or CRVO. Q-Laser photocoagulation is most likely to be effective to treat macular edema resulting from which of the following conditions?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 174,
+  "question": "Laser photocoagulation is most likely to be effective to treat macular edema resulting from which of the following conditions?",
+  "options": {
+   "D": "Enhanced S-cone syndrome",
+   "C": "Type 2 bilateral parafoveal telangiectasia",
+   "B": "Central retinal vein occlusion",
+   "A": "Type 1 unilateral parafoveal telangiectasia"
+  },
+  "markedAnswer": "A",
+  "explanation": "Type 1 unilateral parafoveal telangiectasia (Leber Miliary Aneurysms) is a congential or acquired condition characterized by a macular Coats-like exudation. It typically occurs in males and the edema often responds to laser photocoagulation. Central retinal vein occlusion (CRVO)-related macular edema is treated with anti- VEGF agents or intravitreal steroids (triamcinolone or dexamethasone intravitreal implant). Macular laser for CRVO-related edema was studied in the CVOS. Treatment with macular grid laser did decrease angiographic evidence of macular edema; howerver, it did not improve visual acuity. There was a trend toward better vision in younger individuals, but currently macular laser is not indicated for CRVO-related macular edema, Type 2 bilateral parafoveal telangiectasia typically does not respond to photocoagulation as leaky vessels are not the predominent feature. Anti-VEGF agents have shown some promise. Enhanced S-cone syndrome patients may develop what appears to be macular edema on OCT but more truly represents macular schisis. Laser photocoagulation is not indicated. Medical (or topical) therapy with carbonic anhydrase inhibitors may be helpful. Q- Which of the following are the correct parameters for grid laser of diffuse clinically significant macular edema (CSME)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 175,
+  "question": "Which of the following are the correct parameters for grid laser of diffuse clinically significant macular edema (CSME)?",
+  "options": {
+   "D": "50 to 100 micron spot / 0.1 sec duration or less / >= 1 burn width apart / >500 microns from center of macula and >500 microns from temporal margin of disc",
+   "C": "250 micron spot / 0.1 sec duration or less / >= 1 burn width apart / >500 microns from center of macula",
+   "B": "500 micron spot / 0.1 sec duration or less / >= 1 burn width apart / >500 microns from center of macula",
+   "A": "50 to 100 micron spot / 0.1 sec duration or less / 0.5 burn width apart / >500 microns from center of macula"
+  },
+  "markedAnswer": "D",
+  "explanation": "The parameters for focal and grid laser are very similar (i.e. 50 to 100 micron spot / 0.1 sec or less duration). They differ on what is actually photocoagulated. For focal, all discrete leaking microaneurysms are lasered between 500 and 3000 microns from the fovea. For grid, all areas of diffuse leakage are lasered >500 microns from the fovea and >500 microns from the temporal margin of the disc. Microbiology Q-A 28-year-old man presents with progressively-worsening vision in the left eye for the past 3 weeks. He complains of floaters, photophobia, and redness in this left eye. His visual acuity is 20/20 and 20/250 in the right and left eyes respectively. Dilated fundus exam of the left eye is seen in the photograph above. Your small town's sole pharmacy only has the following 4 medications in stock. Which of the following represents a viable alternative therapy for this patient's condition?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 176,
+  "question": "His visual acuity is 20/20 and 20/250 in the right and left eyes respectively. Dilated fundus exam of the left eye is seen in the photograph above. Your small town's sole pharmacy only has the following 4 medications in stock. Which of the following represents a viable alternative therapy for this patient's condition?",
+  "options": {
+   "D": "sulfamethoxazole/trimethoprim",
+   "C": "fluconazole",
+   "B": "moxifloxacin (oral)",
+   "A": "doxycycline"
+  },
+  "markedAnswer": "D",
+  "explanation": "The fundus photo depicts a unifocal area of chorioretinal inflammation adjacent to an old chorioretinal scar. This finding is typical for toxoplasmosis chorioretinitis which is the most common cause of posterior uveitis in the world (~one-fourth of cases of posterior uveitis in the United States). Not infrequently, it is difficult to obtain (or for the patient to afford) the pyrimethamine component of the classic \"triple therapy\" (pyrimethamine, sulfadiazine, and corticosteroids) for toxoplasmosis chorioretinitis. In these cases, alternative therapies prove useful such as sulfamethoxazole/trimethoprim (Bactrim DS) with or without clindamycin. Another alternative oral treatment is with azithromycin. Q-A 5-year-old girl presents with blurry vision OU with similar fundus findings as shown below in both eyes. What are the next most important diagnostic steps?",
+  "imageUrl": "/images/retina-oq/p169_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 177,
+  "question": "A 5-year-old girl presents with blurry vision OU with similar fundus findings as shown below in both eyes. What are the next most important diagnostic steps?",
+  "options": {
+   "D": "Electroretinogram (ERG)",
+   "C": "Chest x-ray to rule out sarcoidosis",
+   "B": "Laboratory studies for Bartonella and Toxoplasma",
+   "A": "Urgent MRI and MRV of the brain"
+  },
+  "markedAnswer": "A",
+  "explanation": "While optic disc edema can occur in association with infections such as Bartonella or Toxoplasma or with inflammatory conditions such as sarcoidosis, the bilateral, severe optic disc edema must be evaluated with urgent neuro- imaging to rule out papilledema. MRI of the brain is necessary to rule out masses, meningo-encephalitis, or hydrocephalus and MRV (magnetic resonance venogram) of the brain is important to rule out cerebral sinus thromboses. Electroretinogram is less useful in these cases of optic disc and retinal edema. Q-A 9-year-old boy presents with decreased vision of the right eye. Dilated fundus exam of the right eye is significant for the pathology shown in the photograph above. Of note, the child is known to obsessively play in sandboxes. Which of the following statements is most accurate regarding this child's condition?",
+  "imageUrl": "/images/retina-oq/p170_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 178,
+  "question": "A 9-year-old boy presents with decreased vision of the right eye. Dilated fundus exam of the right eye is significant for the pathology shown in the photograph above. Of note, the child is known to obsessively play in sandboxes. Which of the following statements is most accurate regarding this child's condition?",
+  "options": {
+   "D": "Confirmation is typically obtained via stool analysis for larvae",
+   "C": "Antihelminthic therapy alone is generally ineffective for ocular disease",
+   "B": "Steroid treatment has no role for this condition",
+   "A": "This condition is typically bilateral"
+  },
+  "markedAnswer": "C",
+  "explanation": "This vignette is alluding to the condition of ocular toxocariasis, which is a zoonotic infection caused by either Toxocara canis or Toxocara cati. Dogs and cats are the definitive hosts of these roundworms. These animals pass Toxocara eggs via their feces into the environment which are then ingested by humans (i.e. fecal-oral route of transmission). Common associations of transmission to humans include: sandboxes, playgrounds, kittens/puppies, pica eating disorder, and rarely undercooked meat. In humans, these organisms grow as larvae in the small intestine and then spread hematogenously via the portal circulation to various organs (e.g. eye, liver, heart, brain, muscle). Ocular toxocariasis is typically unilateral and presents most commonly via 1 of 3 presentations: • Peripheral granuloma o This can be associated with a fibrous brand that extends from the granuloma to a posterior location (e.g. optic disc or macula). • Posterior pole granuloma o This can lead to severe vision loss if the central macula is involved. • Panuveitis (moderate/severe) o This can mimic endogenous endophthalmitis. Any of these 3 common presentations can cause leukoria; thus ocular toxocariasis is in the differential diagnosis of retinoblastoma. One way of distinguishing ocular toxocariasis from retinoblastoma is the lack of calcium in the former condition. Since the ocular morbidity associated with this condition is thought to be due to the immune response against dead/dying larvae, systemic antihelminthic therapy is generally ineffective. Instead, local and systemic corticosteroids are the mainstays of treatment to reduce inflammation and its subsequent complications (e.g. macular edema). Systemic antihelminthic therapy (e.g. oral albendazole) may be considered if the larvae appear to be active, but steroids are still the mainstay of treatment. Oral albendazole is used in the treatment of visceral toxocariasis (fever, coughing, hepatomegaly, pneumonia, encephalitis) which rarely ever occurs simultaneously with ocular toxocariasis. Ocular toxocariasis is considered a clinical diagnosis; however, supportive laboratory tests that can be helpful include: antibody testing of ocular fluids or serums and/or recovering the actual larvae from vitrectomy specimens. Since the Toxocara ova are not shed in the human gastrointestinal tract, stool analysis has no role in the diagnosis. Q-A 45-year-old farmer injures his right eye while working in the fields. Your examination confirms an open globe injury with copious amounts of soil surrounding the entry wound. Which of the following organisms has the worst prognosis if this patient develops post-traumatic endophthalmitis?",
+  "imageUrl": "/images/retina-oq/p171_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 179,
+  "question": "A 45-year-old farmer injures his right eye while working in the fields. Your examination confirms an open globe injury with copious amounts of soil surrounding the entry wound. Which of the following organisms has the worst prognosis if this patient develops post-traumatic endophthalmitis?",
+  "options": {
+   "D": "Clostridium tetani",
+   "C": "Bacillus cereus",
+   "B": "Haemophilus influenzae",
+   "A": "Staphylococcus aureus"
+  },
+  "markedAnswer": "C",
+  "explanation": "Overall, Bacillus cereus rarely causes endophthalmitis. The exception is in cases involving trauma especially when a foreign body is involved. In fact, this gram positive rod accounts for ~25% of posttraumatic endophthalmitis cases. It has a rapid and severe course with very poor overall prognosis for visual recovery. A 34-year-old HIV positive patient presents with blurry vision in the right eye. After high-dose induction therapy, this patient should be maintained on systemic treatment for this condition until their CD4 count reaches what level for 3-6 months?",
+  "imageUrl": "/images/retina-oq/p173_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 180,
+  "question": "A 34-year-old HIV positive patient presents with blurry vision in the right eye. After high-dose induction therapy, this patient should be maintained on systemic treatment for this condition until their CD4 count reaches what level for 3-6 months?",
+  "options": {
+   "D": "400 cells/µL",
+   "C": "200 cells/µL",
+   "B": "100 cells/µL",
+   "A": "50 cells/µL"
+  },
+  "markedAnswer": "C",
+  "explanation": "The photo above demonstrates a classic or fulminant presentation of cytomegalovirus (CMV) retinitis. In the classic form of CMV retinitis, there are large areas of hemorrhage against a background of whitened, necrotic retina, typically along the vascular arcades in the distribution of the nerve fiber layer. HIV positive patients are at risk for CMV retinitis when the CD4 count is below 50 cells/µL (answer A). HIV positive patients with CMV retinitis should be treated with antiretroviral therapy as well as specific treatment for CMV. Treatment begins with high-dose induction therapy with a bridge to low-dose maintenance therapy. Options for high-dose induction therapy include the following: • Intravenous ganciclovir 5 mg/kg twice daily for 2 weeks • Intravenous foscarnet 90 mg/kg twice daily for 2 weeks • Oral valganciclovir 900 mg twice daily for 3 weeks For patients with vision-threatening, posteriorly-located CMV retinitis, induction therapy is often supplemented with intravitreal injection of ganciclovir or foscarnet. Following completion of induction therapy, patients should be maintained on low-dose maintenance therapy with either intravenous ganciclovir or foscarnet, or oral valganciclovir 900 mg daily. Typically, oral valganciclovir is preferred due to ease of administration unless the patient develops specific complications related to treatment (e.g. bone marrow suppression). Low-dose maintenance treatment should be continued until the CD4 count is sustained above 200 cells/µL (Answer C). Provided the retinitis has responded to treatment and the patient is maintained on antiretroviral therapy, anti-CMV medications may be safely discontinued at that time. A 32-year-old man presents with progressively-worsening vision in the left eye for the past 3 weeks. He complains of floaters, photophobia, and redness in this left eye. Dilated fundus exam of the left eye is seen in the photograph above. The patient refuses to take any oral medications to treat this condition. Which of the following intravitreal medications could possibly be used for this patient's condition?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 181,
+  "question": "A 32-year-old man presents with progressively-worsening vision in the left eye for the past 3 weeks. He complains of floaters, photophobia, and redness in this left eye. Dilated fundus exam of the left eye is seen in the photograph above. The patient refuses to take any oral medications to treat this condition. Which of the following intravitreal medications could possibly be used for this patient's condition?",
+  "options": {
+   "D": "intravitreal vancomycin and ceftazidime",
+   "C": "intravitreal amphotericin B with or without corticosteroids",
+   "B": "intravitreal foscarnet or ganciclovir",
+   "A": "intravitreal clindamycin and dexamethasone"
+  },
+  "markedAnswer": "A",
+  "explanation": "The fundus photo depicts the classic findings of toxoplasmosis chorioretinitis: a focal area of inflammation adjacent to an old chorioretinal scar with overlying vitreous condensation. Soheilian et al1 demonstrated the efficacy of intravitreal clindamycin + dexamethasone for this disease. This article demonstrated comparable therapeutic effect compared to the classic \"triple therapy\" of pyrimethamine, sulfadiazine, folinic acid, and (later) prednisone use. One significant advantage of intravitreal injection, as compared to oral therapy, is the elimination of noncompliance as a cause of treatment failure. Another advantage of this intravitreal regimen is the reduction of systemic side effects (e.g. myelosuppression when using pyrimethamine). 1Soheilian M et al. Randomized trial of intravitreal clindamycin and dexamethasone versus pyrimethamine, sulfadiazine, and prednisolone in treatment of ocular toxoplasmosis. Ophthalmology. 2011;118:134-41. You suspect a patient to have post-traumatic endophthalmitis caused by Bacillus cereus. The patient states that he is severely allergic to vancomycin. Which of the following agents should be given intravitreally?",
+  "imageUrl": "/images/retina-oq/p175_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 182,
+  "question": "You suspect a patient to have post-traumatic endophthalmitis caused by Bacillus cereus. The patient states that he is severely allergic to vancomycin. Which of the following agents should be given intravitreally?",
+  "options": {
+   "D": "clindamycin",
+   "C": "ceftazidime",
+   "B": "gentamicin",
+   "A": "amikacin"
+  },
+  "markedAnswer": "D",
+  "explanation": "Endophthalmitis complicates approximately 2-7% of penetrating eye injuries. This incidence is increased in the setting of intraocular foreign bodies and in rural settings. Bacillus cereus is a catalase-positive, spore-forming gram positive bacillus bacteria. It rarely causes endophthalmitis overall (e.g. after cataract surgery), but accounts for ~25% of posttraumatic endophthalmitis especially in soil-contaminated wounds. Bacillus cereus associated endophthalmitis is very fulminant with a rapid and severe course often leading to loss of the eye. The most common intravitreal antibiotics used for Bacillus cereus endophthalmitis are vancomycin (preferred if possible) and clindamycin. B. cereus is typically resistant to pencillins and cephalosporins. One should avoid intravireal aminoglycoside antibiotics (e.g. gentamicin) due to the possible risk of retinal infarction. As an aside, intravitreal clindamycin (with or without dexamethasone) is also used as treatment for ocular toxoplasmosis (i.e. as an alternative to the \"classic\" treatment of sulfadiazine with pyrimethamine and prednisone). Q-Which of the following statements is TRUE regarding the management of post- operative endophthalmitis?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 183,
+  "question": "Which of the following statements is TRUE regarding the management of post- operative endophthalmitis?",
+  "options": {
+   "D": "the needle for the vitreous sample should be aimed at the vitreous base",
+   "C": "vitreous samples are more likely to yield a positive culture than aqueous samples",
+   "B": "suture closure after the vitreous tap should be performed to prevent hypotony",
+   "A": "vitreous tap is generally obtained via a 18-gauge needle"
+  },
+  "markedAnswer": "C",
+  "explanation": "This question emphasizes the reason why it is not sufficient to obtain only an aqueous sample in the setting of post-operative endophthalmitis. Vitreous taps are generally obtained with a 25-gauge 1-inch needle, while aqueous samples are obtained with a 30-gauge needle on a tuberculin syringe. The needle for the vitreous tap should be aimed at the mid-cavity of the vitreous. Q-Which of the following statements is TRUE regarding the management of post- operative endophthalmitis?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 184,
+  "question": "Which of the following statements is TRUE regarding the management of post- operative endophthalmitis?",
+  "options": {
+   "D": "the needle for the vitreous sample should be aimed at the vitreous base",
+   "C": "vitreous samples are more likely to yield a positive culture than aqueous samples",
+   "B": "suture closure after the vitreous tap should be performed to prevent hypotony",
+   "A": "vitreous tap is generally obtained via a 18-gauge needle"
+  },
+  "markedAnswer": "C",
+  "explanation": "This question emphasizes the reason why it is not sufficient to obtain only an aqueous sample in the setting of post-operative endophthalmitis. Vitreous taps are generally obtained with a 25-gauge 1-inch needle, while aqueous samples are obtained with a 30-gauge needle on a tuberculin syringe. The needle for the vitreous tap should be aimed at the mid-cavity of the vitreous. • A 25-year-old otherwise healthy farmer comes to your office in Chicago. He has had progressive decreased vision in his right eye for the last two years. Multiple eye care providers have evaluated him and he has been given various diagnoses from unilateral retinitis pigmentosa to idiopathic choroiditis. On examination you note hand motion vision in the right eye with a right APD. His left eye has 20/20 vision and a completely normal slit lamp exam and dilated fundus exam. His right eye shows 3+ optic atrophy along with numerous posterior pole chorioretinal scars and peculiar appearing pigmentary changes scattered throughout the fundus (see photo above). You look ultra carefully with your super 66 ultra deluxe lens and think you have found the culprit. Which of the following is a known North American reservoir for a pathogen that can cause this disease?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 185,
+  "question": "You look ultra carefully with your super 66 ultra deluxe lens and think you have found the culprit. Which of the following is a known North American reservoir for a pathogen that can cause this disease?",
+  "options": {
+   "D": "Pigs",
+   "C": "Raccoons",
+   "B": "Cats",
+   "A": "White footed mice"
+  },
+  "markedAnswer": "C",
+  "explanation": "The photograph shows peripheral bone spicule hyperpigmentation. Bone spicules result from dispersion of pigment in the retinal pigment epithelial layer which leads to the formation of clumps that look similar to the microscopic appearance of bone formation. Bone spicules are classically present in retinitis pigmentosa, but can occur in many other diseases causing diffuse destruction of the RPE (e.g., old trauma, diffuse unilateral subacute neuroretinitis (DUSN), syphilis, etc). Unilateral retinitis pigmentosa is an exceedingly rare diagnosis and should always raise concerns for other diagnoses. The history in this patient is rather typical for DUSN and the question stem suggests that the examiner found the worm on fundus examination (which is the only way to conclusively make the diagnosis). DUSN usually occurs in otherwise healthy, young patients and is due to subretinal spread of a nematode resulting in decreased vision, uveitis (most often vitritis), optic disc edema, and choroidal / deep retinal hypopigmented lesions. The bone spicule formation is actually a sign of chronicity as the RPE reorganizes itself following injury and is not usually present in the early stages of the disease. DUSN has been associated with numerous different worms worldwide. In the USA there are two worms most commonly implicated. In the Southeast US and extending south into the Caribbean and Latin Amercia, a 400-700 µm canine roundworm by the name of Ancylostoma canium causes DUSN. In the Midwest the causative worm, Baylisascaris procyonis, is larger (1000-2000 µm) and predominately resides in raccoons when not destroying retinas. If the worm is found on examination and is not located beneath the fovea then the treatment is death by photocoagulation (laser). White footed mice are a reservoir for Lyme disease. Cats harbor toxoplasmosis. Pigs harbor the tapeworm taenia solium responsible for cysticercosis in humans. • A 27-year old woman presents to your office for a mild decrease in vision in the left eye. Her visual acuity is 20/20 OD and 20/40 OS. She states that she has been \"under the weather\" recently. Dilated fundus exam is shown above. Which of the following anterior segment signs might you find associated with the most common cause of this history and fundoscopic appearance?",
+  "imageUrl": "/images/retina-oq/p178_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 186,
+  "question": "• A 27-year old woman presents to your office for a mild decrease in vision in the left eye. Her visual acuity is 20/20 OD and 20/40 OS. She states that she has been \"under the weather\" recently. Dilated fundus exam is shown above. Which of the following anterior segment signs might you find associated with the most common cause of this history and fundoscopic appearance?",
+  "options": {
+   "D": "neovascularization of the iris or angle",
+   "C": "mutton-fat keratic precipitates",
+   "B": "palpebral conjunctival nodules",
+   "A": "Koeppe or Busacca nodules"
+  },
+  "markedAnswer": "B",
+  "explanation": "The fundus photo shows the classic findings of neuroretinitis -- a macular star and optic disc swelling. This retinal finding in conjunction with the history, is most commonly found in cat-scratch disease which presents in individuals exposed to cat saliva (not necessarily scratched by them). The systemic symptoms of this disease include fever, malaise, and lymphadenopathy. Parinaud oculoglandular syndrome occurs in ~7-10% of individuals with cat-scratch disease. This syndrome consists of granulomatous nodules of the palpebral conjunctiva as well as either ipsilateral preauricular or submandibular adenopathy. • A 19-year-old male comes in with two weeks of decreased vision in the left eye that developed acutely over several days. His review of systems is otherwise normal including a lack of eye pain. On history and exam his right eye is normal. In his left eye he has 20/200 best corrected vision, a 1+ left afferent pupillary defect, and diminished color plates. A Humphrey visual field (30-2) shows global depression in the left eye. The fundus exam of the left eye is shown above. When an etiology is determined (i.e. not idiopathic), what is the most common cause of this fundus finding?",
+  "imageUrl": "/images/retina-oq/p180_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 187,
+  "question": "• A 19-year-old male comes in with two weeks of decreased vision in the left eye that developed acutely over several days. His review of systems is otherwise normal including a lack of eye pain. On history and exam his right eye is normal. In his left eye he has 20/200 best corrected vision, a 1+ left afferent pupillary defect, and diminished color plates. A Humphrey visual field (30-2) shows global depression in the left eye. The fundus exam of the left eye is shown above. When an etiology is determined (i.e. not idiopathic), what is the most common cause of this fundus finding?",
+  "options": {
+   "D": "An RNA virus",
+   "C": "A DNA virus",
+   "B": "A gram negative rod",
+   "A": "A gram positive rod"
+  },
+  "markedAnswer": "B",
+  "explanation": "This patient’s presentation is suggestive of an acute left optic neuropathy given his vision loss, decreased color vision, and left afferent pupillary defect. The fundus findings are classic for neuroretinitis showing a swollen left optic nerve along with prominent macular exudates forming a “macular star.” While neuroretinitis can be harbinger of serious systemic disease and these entities should be ruled out with blood work, the majority of cases are idiopathic. When a cause is identified, the most common causative pathogen is Bartonella henselae. This gram negative rod is often transmitted via cat bites or cat scratches and often leads to “cat scratch fever” which can have protean manifestations including fever, lymphadenopathy, hepatitis, endocarditis, and encephalopathy. Despite the potential for serious manifestations, the disease is self-limited unless the patient is immunocompromised. Treatment of neuroretinitis has never been proven to be beneficial although some practitioners will treat with doxycycline or rifampin. Interestingly, many patients with laboratory proven Bartonella henselae infection do not recall a cat scratch / bite. Some other known causes / associations with neuroretinitis include sarcoidosis, syphilis, Epstein-Barr virus, Lyme disease, histoplasmosis, toxocariasis, and toxoplasmosis. When a work-up fails to reveal an etiology, the term Leber’s idiopathic stellate neuroretinitis is sometimes used. Q-A 27-year-old woman presents with progressively-worsening vision in the left eye for the past 3 weeks. She complains of floaters, photophobia, and redness in this left eye. She otherwise feels healthy and has no past medical history. Her visual acuity is 20/20 and 20/400 in the right and left eyes respectively. Dilated fundus exam of the left eye is seen in the photograph above. Which of the following represents the most appropriate initial therapy for this patient?",
+  "imageUrl": "/images/retina-oq/p181_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 188,
+  "question": "A 27-year-old woman presents with progressively-worsening vision in the left eye for the past 3 weeks. She complains of floaters, photophobia, and redness in this left eye. She otherwise feels healthy and has no past medical history. Her visual acuity is 20/20 and 20/400 in the right and left eyes respectively. Dilated fundus exam of the left eye is seen in the photograph above. Which of the following represents the most appropriate initial therapy for this patient?",
+  "options": {
+   "D": "intravenous ganciclovir",
+   "C": "triple therapy with pyrimethamine, sulfadiazine, and folinic acid",
+   "B": "intravenous acyclovir",
+   "A": "topical corticosteroid and cycloplegic drops only"
+  },
+  "markedAnswer": "C",
+  "explanation": "The fundus photo depicts a unifocal area of chorioretinal inflammation adjacent to an old chorioretinal scar. In addition, there is adjacent optic nerve swelling and macular edema. These findings are typical for toxoplasmosis chorioretinitis which is the most common cause of posterior uveitis in the world (~one-fourth of cases of posterior uveitis in the United States). The classic initial therapy is with pyrimethamine, sulfadiazine, and folinic acid. Topical steroids and cycloplegic drops also can be used for the anterior segment inflammation but will not quell the posterior uveitis. Oral prednisone can be started a few days (classically 3 days) after antibiotic therapy. Q-What is the average length of time that a ganciclovir implant delivers adequate concentrations of the drug for patients with cytomegalovirus (CMV) retinitis?",
+  "imageUrl": "/images/retina-oq/p182_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 189,
+  "question": "What is the average length of time that a ganciclovir implant delivers adequate concentrations of the drug for patients with cytomegalovirus (CMV) retinitis?",
+  "options": {
+   "D": "20 months",
+   "C": "14 months",
+   "B": "8 months",
+   "A": "4 months"
+  },
+  "markedAnswer": "B",
+  "explanation": "These implants are indicated for patients who either cannot tolerate, comply, or whose disease progresses on systemic ganciclovir. Q-A 30-year-old man with a history of HIV presents to your office for a routine eye exam. He has no visual complaints. His CD4 count drawn 2 weeks ago was 1000 cells/mm3. He has been on HAART therapy for the past 5 years. On dilated fundus exam, you note the presence of a few cotton-wool spots without associated hemorrhages (see image). These lesions are approximately 100 microns in diameter. There is no vitreous cell. Which of the following is the most appropriate course of management for this patient?",
+  "imageUrl": "/images/retina-oq/p183_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 190,
+  "question": "There is no vitreous cell. Which of the following is the most appropriate course of management for this patient?",
+  "options": {
+   "D": "laser demarcation around the lesions",
+   "C": "induction therapy with intravenous ganciclovir or foscarnet",
+   "B": "cytomegalovirus (CMV) serologic testing",
+   "A": "Serial dilated fundus exams and photographs"
+  },
+  "markedAnswer": "A",
+  "explanation": "Given that the patient's CD4 count is greater than 200 cells/mm3 and is on HAART therapy, it is unlikely that these white lesions represent cytomegalovirus (CMV) retinitis. Instead, this patient most likely just has HIV retinopathy (microangiopathy) which is typically asymptomatic and requires no treatment. However, it is prudent to follow any retinal lesions in HIV patients to ensure there is no change over time especially if the patient's CD4 count is low. In contrast, CMV retinitis has the following characteristics: • Patients typically have CD4 count less than 50 cells/mm3. • Mild vitreous and/or anterior chamber inflammation. • Three clinical forms: o \"Pizza or cottage cheese with ketchup retinopathy\" -- confluent areas of retinal necrosis with hemorrhages in the posterior pole. These lesions eventually enlarge and merge together and can lead to retinal obliterative detachment. Optic disc edema may be present. o Indolent form. This type is characterized by granular peripheral retinal lesions with little or no hemorrhages. o Frosted branch angiitis. This type is characterized by marked vascular sheathing. It is less common than the other two forms. • Initially, the lesions may resemble cotton-wool spots, but CMV lesions are typically >500-750 microns in size (cotton-wool spots are typically <500 microns in diameter). WRONG ANSWERS: • Choice B: obtaining CMV serologies would not be helpful since most people in the general population are CMV positive. • Choice C: since it is unlikely that this patient has CMV retinitis, there is no indication to starting CMV medications for this patient. • Choice D: there is no role for laser demarcation in HIV microangiopathy. Laser treatment could be utilized as part of the surgical repair of retinal detachments caused by CMV retinitis. • You are following a perplexing case of a 11-year-old boy with progressive unilateral loss of vision in the right eye. On initial presentation, visual acuity OD was 20/100 and the fundus exam showed a multifocal chorioretinitis, mild vitritis, and mild optic nerve swelling. The boy was lost to follow-up and returned 1 month later with a visual acuity of hand motions OD. Dilated fundus exam at this later visit is shown in the photograph above. Which of the following agents is the most likely cause of this child's ocular disease?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 191,
+  "question": "Which of the following agents is the most likely cause of this child's ocular disease?",
+  "options": {
+   "D": "Baylisascaris procyonis",
+   "C": "Toxoplasmosis gondii",
+   "B": "Fusarium solani",
+   "A": "Treponema pallidum"
+  },
+  "markedAnswer": "D",
+  "explanation": "This child presents initially with a multifocal choroiditis, mild optic nerve swelling, and mild vitritis which eventually evolves into a scenario of optic atrophy, retinal arterial narrowing, and RPE changes. This sequence of events is classic for DUSN (diffuse unilateral subacute neuroretinitis). This rare condition is caused by a subretinal nematode (e.g. Baylisascaris procyonis, Ancylostoma caninum, or Toxocara canis). The fundus photograph above shows the presence of a small worm underneath the fovea (magnified view shown below). Treatment is typically photocoagulation of the causative nematode if it is possible to locate it crawling underneath the retina. In this case, treatment may be difficult since the nematode is located directly underneath the fovea. Memory aid : Zap TOXIC DUDES in ANY BAY! to cover all three • Q Aspergillus endopthalmitis is most often reported as a cause of endogenous endophthalmitis in what clinical situation?",
+  "imageUrl": "/images/retina-oq/p185_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 192,
+  "question": "Memory aid : Zap TOXIC DUDES in ANY BAY! to cover all three • Q Aspergillus endopthalmitis is most often reported as a cause of endogenous endophthalmitis in what clinical situation?",
+  "options": {
+   "D": "in HIV patients with CD4 counts < 50",
+   "C": "after chemotherapy for multiple myeloma",
+   "B": "after heart transplantation",
+   "A": "after liver transplantation"
+  },
+  "markedAnswer": "A",
+  "explanation": "This rare but devastating ocular infection occurs in immunosuppressed patients most commonly after liver transplantation. The classic fundus finding is a large yellow infiltrate in the macula that may evolve to form a subretinal (or subhyaloidal) hypopyon. • A 19-year-old male comes in with two weeks of decreased vision in the left eye that developed acutely over several days. His review of systems is otherwise normal including a lack of eye pain. On examination he has 20/200 best corrected vision in the left eye, a 1+ left afferent pupillary defect, and diminished color plates. The fundus exam is significant for the findings seen above. The \"star\" appearance is due to resorption of fluid followed by deposition of exudates / lipids in what retinal layer?",
+  "imageUrl": "/images/retina-oq/p186_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 193,
+  "question": "The \"star\" appearance is due to resorption of fluid followed by deposition of exudates / lipids in what retinal layer?",
+  "options": {
+   "D": "Inner segment / outer segment junction of the photoreceptor layer Category:",
+   "C": "Nerve fiber layer",
+   "B": "Inner plexiform layer",
+   "A": "Outer plexiform layer"
+  },
+  "markedAnswer": "A",
+  "explanation": "This patient's presentation is suggestive of an acute left optic neuropathy given his vision loss, decreased color vision, and left afferent pupillary defect. The fundus findings are classic for neuroretinitis showing a swollen left optic nerve along with prominent macular exudates forming a \"macular star.\" When a cause of neuroretinitis is identified (most are idiopathic), the most common causative pathogen is Bartonella henselae. This gram negative rod is often transmitted via cat bites or cat scratches and can lead to \"cat scratch fever\" with many possible manifestations including fever, lymphadenopathy, hepatitis, endocarditis, and encephalopathy. Despite the potential for serious manifestations, the disease is self- limited unless the patient is immunocompromised. Treatment of neuroretinitis has never been proven to be beneficial although some practitioners will treat with doxycycline or rifampin. The natural history of neuroretinitis is development of swelling of the optic nerve head with extravasation of subretinal / intraretinal serous fluid. In the first 1-2 weeks after onset of symptoms of neuroretinitis, there may be obvious optic nerve head swelling and retinal edema without exudate deposition (in other words without a macular star). As the fluid absorbs, the macular star formation evolves. Histopathologic examination has shown that the lipids / exudates deposit in Henle's layer. Henle's layer is a term used to describe the outer portion of the outer plexiform layer within the macula. • A 55-year-old man is referred to you for a hazy vitreous and \"milky\" lesions in the posterior pole of the left eye (see image above). He has a recent medical history of being hospitalized for the past 4 weeks after an abdominal surgery. You perform a diagnostic pars plana vitrectomy to obtain the correct diagnosis. Your other workup reveals no systemic involvement. Which of the following is the MOST appropriate treatment for this disease entity and presentation?",
+  "imageUrl": "/images/retina-oq/p181_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 194,
+  "question": "• A 55-year-old man is referred to you for a hazy vitreous and \"milky\" lesions in the posterior pole of the left eye (see image above). He has a recent medical history of being hospitalized for the past 4 weeks after an abdominal surgery. You perform a diagnostic pars plana vitrectomy to obtain the correct diagnosis. Your other workup reveals no systemic involvement. Which of the following is the MOST appropriate treatment for this disease entity and presentation?",
+  "options": {
+   "D": "intravitreal methotrexate",
+   "C": "intravitreal and oral voriconazole",
+   "B": "intravitreal clindamycin",
+   "A": "intravenous amphotericin B"
+  },
+  "markedAnswer": "C",
+  "explanation": "The fundus photo depicts \"fluffy\" yellow-white lesions that appear to be projecting into the vitreous. Given the appearance of these lesions and the patient's prolonged hospitalization, one has to worry about endogenous fungal endophthalmitis. Other risk factors for this condition include prolonged indwelling catheters, intravenous drug use, chronic antibiotic use, hyperalimentation, recent abdominal surgery, and diabetes. Endogenous fungal endophthalmitis is most commonly caused by Candida species. Diagnosis of this disease entity can sometimes be made on clinical grounds alone, especially if the patient has a known systemic Candida infection. However if systemic Candida infection is not present, a definitive diagnosis may require culture (or other test like PCR) of intraocular specimens (e.g. vitreous). This specimen is usually best obtained by pars plana vitrectomy instead of a random vitreous tap. Patients with endogenous Candida endophthalmitis localized to the choroid or retina and without systemic involvement can be treated with oral fluconazole or voriconazole. This treatment usually lasts at least 2 months. If the infection extends into the vitreous (as in this case), then intravitreal antifungals and/or pars plana vitrectomy + intravitreal amphotericin or voriconazole is added to the aforementioned systemic anti-fungal treatment. The photo below shows the result of intravitreal and oral anti-fungal treatment one month after presentation of this patient. • Syndromes and inherited diseases You are examining a 3-month old infant as an inpatient in the pediatric ward. This child has a history of seizures, developmental delay, hypotonia, and an enlarged liver. On dilated fundus exam, you note severe retinal degeneration OU. Unfortunately, the child passes away at the age of 5 months. Which of the following is the most likely diagnosis?",
+  "imageUrl": "/images/retina-oq/p188_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 195,
+  "question": "You are examining a 3-month old infant as an inpatient in the pediatric ward. This child has a history of seizures, developmental delay, hypotonia, and an enlarged liver. On dilated fundus exam, you note severe retinal degeneration OU. Unfortunately, the child passes away at the age of 5 months. Which of the following is the most likely diagnosis?",
+  "options": {
+   "D": "Batten disease",
+   "C": "infantile Refsum disease",
+   "B": "neonatal adrenoleukodystropsy",
+   "A": "Zellweger syndrome"
+  },
+  "markedAnswer": "A",
+  "explanation": "Zellweger syndrome is the most severe of the three diseases that constitute the \"Zellweger spectrum\". The three diseases are (from least to most severe): (1) infantile Refsum's; (2) neonatal adrenoleukodystrophy; and (3) Zellweger syndrome. The \"Zellweger spectrum\" is itself a subgroup of diseases under the broader category of \"peroxisome biogenesis disorders\" (PBD). Individuals with Zellweger's syndrome do not typically live past the first 6 months of life. Q-Retinal dystrophy is ONLY associated with the mucopolysaccharidoses (MPS) that result in abnormal storage of WHICH of the following glycosaminoglycans (GAGs)?",
+  "imageUrl": "/images/retina-oq/p190_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 196,
+  "question": "Retinal dystrophy is ONLY associated with the mucopolysaccharidoses (MPS) that result in abnormal storage of WHICH of the following glycosaminoglycans (GAGs)?",
+  "options": {
+   "D": "chondroitin sulfate",
+   "C": "heparan sulfate",
+   "B": "keratan sulfate",
+   "A": "dermatan sulfate"
+  },
+  "markedAnswer": "C",
+  "explanation": "Retinal dystrophy only occurs in those MPS diseases that result in abnormal storage of heparan sulfate. These diseases are: (1) Hurler syndrome; (2) Scheie syndrome; (3) Hunter syndrome; and (4) Sanfilippo syndrome. Please also note that all of the MPS's are autosomal recessive diseases *except* for Hunter syndrome which is X-linked recessive. • A 19-year old man presents to your office with complaints of poor color vision in both eyes. He has no past medical history and otherwise feels healthy. On dilated fundus exam, you note the pathology as shown in the photograph above. Which of the following is the most likely diagnosis?",
+  "imageUrl": "/images/retina-oq/p191_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 197,
+  "question": "• A 19-year old man presents to your office with complaints of poor color vision in both eyes. He has no past medical history and otherwise feels healthy. On dilated fundus exam, you note the pathology as shown in the photograph above. Which of the following is the most likely diagnosis?",
+  "options": {
+   "D": "cone dystrophy",
+   "C": "hydroxychloroquine (Plaquenil) toxicity",
+   "B": "tritanopia",
+   "A": "deuteranopia"
+  },
+  "markedAnswer": "D",
+  "explanation": "The congenital color deficiencies (deuteranopia, tritanopia, and protanopia) do not have fundus abnormalities as part of their phenotype. Cone dystrophy, on the other hand, can show a symmetric bull's eye maculopathy (as seen above) or more severe atrophy. In addition, mild-to-severe temporal optic atrophy may also be seen in this condition (as seen especially in the photo of the right eye). Other features that distinguish cone dystrophy from the congenital color deficiencies include: signs of progressive disease, decreased visual acuity, \"day blindness\" (hemeralopia), and photophobia. This patient is healthy and would not be expected to be taking hydroxychloroquine (aka Plaquenil) which is a medication used in patients with autoimmune diseases like lupus or rheumatoid arthritis. Q-A 40-year-old man presents with macula-off retinal detachments in both eyes. On history, the patient states that this ocular condition is a \"family curse\" and has happened to at least one family member per generation. On review of systems, the patient states that he can bend many of his joints far beyond what is typically considered normal. On external exam, the patient's face appears abnormally flattened with a small jaw. He also has some difficulty hearing you during the exam. Which of the following is the most likely diagnosis for this patient?",
+  "imageUrl": "/images/retina-oq/p191_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 198,
+  "question": "Which of the following is the most likely diagnosis for this patient?",
+  "options": {
+   "D": "Stickler syndrome",
+   "C": "Marfan syndrome",
+   "B": "Wagner disease",
+   "A": "Jansen disease"
+  },
+  "markedAnswer": "D",
+  "explanation": "There are two main groups of \"hereditary hyaloideoretinopathies with optically empty vitreous\" -- those with ocular signs exclusively and those with other systemic manifestations. Those with solely ocular signs include Jansen and Wagner disease. Those with other systemic signs include Stickler syndrome, \"hereditary arthro-ophthalmopathy with stiff joints\" (Weill-Marchesani variety), and variants with dwarfism. Stickler syndrome is the most common of these hyaloideoretinopathies. It is an autosomal dominant collagen disorder and the most commonly affected gene is COL2A1. Recall that type 2 collagen is present in vitreous, synovial fluid, and cartilage. Up to 60% of affected patients develop retinal detachments and 90% develop retinal tears due to premature vitreous breakdown, high myopia (>90%), and radial pigmented (perivascular) lattice degeneration. Prophylactic laser should be considered for extensive lattice, especially in high risk patients with a prior history of a retinal detachment in the fellow eye. Slit lamp examination will reveal abnormal vitreous that appears \"optically empty\" and liquefied. Subcortical cataracts can be seen. Stickler syndrome is often associated with systemic findings, such as facial abnormalities (e.g., Pierre Robin, cleft palate), joint hypermobility, hearing loss, and osteoarthritis. Joint pain is a common complaint of these patients. Q.What is the most common inheritance pattern of Stargardt disease?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 199,
+  "question": "A 22-year-old woman presents to your office with complaints of seeing a \"dark spot\" in the center of both eyes. Her visual acuity is 20/40 OD and 20/50 OS. She has small paracentral scotomas on Amsler grid testing. On dilated fundus exam, you note the pathology as seen in the photograph above. Mutations of which of the following genes is most likely involved?",
+  "options": {
+   "D": "TIMP3",
+   "C": "VMD2 (or BEST-1)",
+   "B": "ABCA4",
+   "A": "RDS/peripherin (or PRPH2)"
+  },
+  "markedAnswer": "B",
+  "explanation": "The fundus photo shows foveal atrophy surrounded by yellowish, \"pisciform flecks\" at the level of the retinal pigment epithelium. These fundus findings are characteristic for Stargardt disease. A fluorescein angiogram may demonstrate the phenomenon of a \"dark choroid\" which is rather specific to Stargardt disease. Most cases of Stargardt's are autosomal recessive in inheritance and are caused by mutations in the ABCA4 gene. Mutations in the RDS/peripherin (currently aka PRPH2) gene cause different types of pattern dystrophy; mutations in VMD2 (currently aka BEST-1) are responsible for Best's disease; and mutations in TIMP3 are responsible for Sorsby's macular dystrophy. Q-Which of the following is the most common cause of vision loss in idiopathic juxtafoveal retinal telangiectasia, group 1?",
+  "imageUrl": "/images/retina-oq/p194_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 200,
+  "question": "Which of the following is the most common cause of vision loss in idiopathic juxtafoveal retinal telangiectasia, group 1?",
+  "options": {
+   "D": "retinal atrophy",
+   "C": "macular edema",
+   "B": "macular ischemia",
+   "A": "vitreous hemorrhage"
+  },
+  "markedAnswer": "C",
+  "explanation": "Idiopathic juxtafoveal retinal telangiectasia (IJFT) refers to a heterogeneous group of disorders characterized by telangiectatic alterations of the juxtafoveolar capillary network of one or both eyes. IJFT was classically divided into 3 groups by Gass and Blodi1: Group 1 • Unilateral • Second most common type of IJFT • Occurs mainly in males • Vision loss mainly due to macular edema • Considered to be a congenital disorder (but presents clinically in middle- age) • Telangiectatic retinal capillaries and aneurysmal dilations are easily-seen on biomicroscopy. Some experts believe this is macular variant of Coat's disease. • Typically, these abnormalities are temporal to the fovea Group 2 • Most common form of IJFT • Bilateral • Occurs in middle-aged men and women • Presents with telangiectasias that are more difficult to see on ophthalmoscopy. Golden crystals and intra- and subretinal pigmented plaques may occur. • Vision loss due to retinal atrophy and subretinal neovascularization. The foveolar atrophy can resemble a lamellar macular hole. • Considered to be acquired Group 3 • Very rare • Progressive obliteration of the perifoveal capillary network • Typically has an associated systemic condition (e.g. CNS abnormalities) Each of these Groups has two subtypes (\"A\" and \"B\"), the description of which is beyond the scope of this website and most board exams. Click here for a nice table describing these different groups and their sub-types. Q-Which of the following statements is TRUE regarding idiopathic juxtafoveal retinal telangiectasia (IJRT), group 2?",
+  "imageUrl": "/images/retina-oq/p104_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 201,
+  "question": "Which of the following statements is TRUE regarding idiopathic juxtafoveal retinal telangiectasia (IJRT), group 2?",
+  "options": {
+   "D": "One of its characteristic findings is progressive obliteration of the perifoveal capillary network",
+   "C": "The findings of this form of IJRT typically present in a unilateral fashion",
+   "B": "It is the rarest form of IJRT",
+   "A": "Vision loss from subretinal neovascularization is common"
+  },
+  "markedAnswer": "A",
+  "explanation": "Idiopathic juxtafoveal retinal telangiectasia (IJFT) refers to a heterogeneous group of disorders characterized by telangiectatic alterations of the juxtafoveolar capillary network of one or both eyes. IJFT was classically divided into 3 groups by Gass and Blodi1: Group 1 • Unilateral • Second most common type of IJFT • Occurs mainly in males • Vision loss mainly due to macular edema • Considered to be a congenital disorder (but presents clinically in middle- age) • Telangiectatic retinal capillaries and aneurysmal dilations are easily-seen on biomicroscopy. Some experts believe this is macular variant of Coat's disease. • Typically, these abnormalities are temporal to the fovea Group 2 • Most common form of IJFT • Bilateral • Occurs in middle-aged men and women • Presents with telangiectasias that are more difficult to see on ophthalmoscopy. Golden crystals and intra- and subretinal pigmented plaques may occur. • Vision loss due to retinal atrophy and subretinal neovascularization. The foveolar atrophy can resemble a lamellar macular hole. • Considered to be acquired Group 3 • Very rare • Progressive obliteration of the perifoveal capillary network • Typically has an associated systemic condition (e.g. CNS abnormalities) Each of these Groups has two subtypes (\"A\" and \"B\"), the description of which is beyond the scope of this website and most board exams. Click here for a nice table describing these different groups and their sub-types. Group 2 IJRT has four distinct stages of progression: • Stage 1 (non-proliferative deep capillary). The first vascular sign of IJRT group 2 is proliferation of the deep capillary plexus in the temporal juxtafovea retina. There is also loss of transparency of the retina in the temporal juxtafoveal area. • Stage 2 (superficial capillary). The telangiectatic proliferation begins to involve the inner capillary plexus. There are anastomoses between this inner capillary plexus and the deep capillary plexus. Multiple microaneurysms may be seen which may leak on fluorescein angiogram. However, this leakage does not typically result in edema within the inner retina (i.e. no CME). • Stage 3 (subinternal limiting membrane). The vasogenic process extends into the subinternal limiting membrane and also through the retina posteriorly to the retinal pigment epithelium. Eventually, this process extends around the perifoveal area. • Stage 4 (proliferative). A subretinal neovascularization then can form when the vasogenic process extends below the retina. This form of neovascularization is indistinguishable from a choroidal neovascularization (e.g. from macular degeneration). • Stage 5 (fibrovascular proliferation). Eventually, some of these eyes will end up with a fibrovascular proliferation/scar. Q-A 1-year-old child presents with a history of a seizure disorder, intellectual disability, poor swallowing ability, and an increased startle reflex to noise. He does not seem to be able to fix or follow in either eye. Dilated fundus examination reveals the following as shown in the photo above. Which of the following is the most likely cause of this patient's condition?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 202,
+  "question": "A 1-year-old child presents with a history of a seizure disorder, intellectual disability, poor swallowing ability, and an increased startle reflex to noise. He does not seem to be able to fix or follow in either eye. Dilated fundus examination reveals the following as shown in the photo above. Which of the following is the most likely cause of this patient's condition?",
+  "options": {
+   "D": "accumulation of ganglioside GM2",
+   "C": "accumulation of glucocerebroside",
+   "B": "accumulation of ceroid lipofuscin",
+   "A": "amniotic fluid embolism"
+  },
+  "markedAnswer": "D",
+  "explanation": "The photograph depicts a cherry-red spot due to the accumulation of abnormal protein in the ganglion cells surrounding the fovea. This ocular finding, combined with the systemic features, is typical of Tay-Sachs disease which is caused by a defect in the hexosaminidase A enzyme. This enzyme defect leads to the accumulation of ganglioside GM2 which is deposited throughout the body including the brain and retina. Accumulation of ceroid lipofuscin occurs in Batten disease while accumulation of glucocerebroside occurs in Gaucher's disease. Q-An infant is suspected to have an inherited retinal dystrophy. He is 9-months old and demonstrates nystagmus, light sensitivity, and intermittently fixes and follows. Fundus examination demonstrates no abnormalities. Full-field ERG demonstrates normal dark adapted responses but complete attenuation of the light adapted responses. The patient is otherwise healthy and meeting developmental milestones. Family history is unremarkable. Which of the following is most likely diagnosis?",
+  "imageUrl": "/images/retina-oq/p199_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 203,
+  "question": "Which of the following is most likely diagnosis?",
+  "options": {
+   "D": "Rod monochromatism",
+   "C": "Oguchi disease",
+   "B": "Fundus Albipunctatus",
+   "A": "Blue-cone monochromatism"
+  },
+  "markedAnswer": "D",
+  "explanation": "Rod monochromatism is an autosomal recessive inherited retinal disorder of the cone system leading to dysfunction of the cone photoreceptors. The disease is stationary and presents in infancy with nystagmus that may improve with age, photophobia, and decreased visual acuity. Visual acuity typically is worse than 20/100. There may be a paradoxical pupillary response (pupil constriction with transitioning from light to dark) and hyperopia is common. Some patients have an incomplete form with some cone function and residual color vision. Diagnosis is based on specialized color testing and ERG findings. Dark-adapted (DA) rod responses to a dim stimulus are normal, and to a bright stimulus can be normal or show mild attenuation of the a- and b-waves representing the loss of the cone system's contribution. However, photopic, light-adapted (LA) responses are typically completely undetectable from loss of the cone system. Fundus examination may be normal or show subtle granularity of the fovea, and this can be progressive. OCT of the foveola is often abnormal showing disruption of the ellipsoid zone, and a majority of patients have foveal hypoplasia. WRONG ANSWERS • (Choice A): Blue-cone monochromatism (BCM) is a stationary inherited disease of the cone system that results in selective loss the L (\"red\")- and M (\"green\")-cones but with preserved S (\"blue\")-cones. The condition can present similarly to rod monochromatism in infancy with nystagmus, photophobia, and decreased visual acuity. Unlikely rod monochromatism, BCM shows x-linked recessive inheritance, visual acuity is typically better (ranging from 20/80 to 20/200), and the majority of patients are myopic. Specialized color testing as well as ERG findings will further distinguish the two disorders. • (Choice B, C): Fundus albipunctatus and Oguchi disease are two congenital night-blinding disorders that have abnormal fundus findings. This is in contrast to congenital stationary night blindness (CSNB) which has a normal fundus. All of these disorders are stationary inherited disorders of the rod system that present with nyctalopia. Fundus albipunctatus individuals show yellow-white dots that spare the fovea and extend into the midperiphery. It is due to mutations in the RDH5 gene which encodes an RPE protein necessary for rhodopsin regeneration leading to delayed rhodopsin regeneration in dark-adapted conditions. ERG responses demonstrate preserved cone function. ERG DA responses may normalize with extended dark adaptation due to the delayed rhodopsin regeneration. Oguchi disease has a peculiar fundus finding where the fundus appears normal after dark adaptation but develops a yellow sheen after brief light exposure, known as the Mizuo-Nakamura phenomenon). Patients with Fundus albipunctatus and Oguchi disease usually have normal visual acuity, color vision, and visual fields. Q-A 5-year old patient presents to your clinic with 20/80 visual acuity OU, nystagmus, and lightly-pigmented fundi. He refuses to speak during his color vision testing. There is no apparent maculopathy or retinal degeneration on ophthalmoscopy. He undergoes an electroretinogram (ERG) which shows a complete absence of cone responses. Based on this data, which of the following is the most likely diagnosis?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 204,
+  "question": "A 5-year old patient presents to your clinic with 20/80 visual acuity OU, nystagmus, and lightly-pigmented fundi. He refuses to speak during his color vision testing. There is no apparent maculopathy or retinal degeneration on ophthalmoscopy. He undergoes an electroretinogram (ERG) which shows a complete absence of cone responses. Based on this data, which of the following is the most likely diagnosis?",
+  "options": {
+   "D": "cone dystrophy",
+   "C": "rod monochromatism",
+   "B": "tyrosinase-positive oculocutaneous albinism",
+   "A": "tyrosinase-negative oculocutaneous albinism"
+  },
+  "markedAnswer": "C",
+  "explanation": "Rod monochromatism, a form of achromatopsia, may be confused with albinism since these patients may also have lightly-pigmented fundi. However, cone function and color vision are normal in albinism. All forms of congenital color defects (e.g. trichromatism, dichromatism, and achromatopsia) do not have any retinal degeneration unlike cone dystrophy. • You are examining a 9-month old child as a consult on the pediatric ward. The young child has been admitted for progressive renal failure. On examination, you note the eye findings as shown in the photographs above. Which of the following represents the best course of management?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 205,
+  "question": "• You are examining a 9-month old child as a consult on the pediatric ward. The young child has been admitted for progressive renal failure. On examination, you note the eye findings as shown in the photographs above. Which of the following represents the best course of management?",
+  "options": {
+   "D": "agalsidase alpha or beta (e.g. Fabrazyme)",
+   "C": "vitamin D supplementation",
+   "B": "low phytanic acid diet",
+   "A": "cysteamine"
+  },
+  "markedAnswer": "A",
+  "explanation": "The photographs depict corneal and conjunctival crystals as well as a patchy retinopathy. These ocular findings are consistent with cystinosis, which is a disease where intralysosomal cystine accumulates. There are 3 forms of cystinosis (benign, late-onset, and nephropathic) all of which can have corneal and conjunctival crystals. However, the retinopathy is only found in the nephropathic form (as in this patient). Q-Which of the following is consistent with a diagnosis of \"deuteranopia\" congenital color deficiency?",
+  "imageUrl": "/images/retina-oq/p202_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 206,
+  "question": "Which of the following is consistent with a diagnosis of \"deuteranopia\" congenital color deficiency?",
+  "options": {
+   "D": "it is typically inherited in an autosomal dominant pattern",
+   "C": "patients with this condition typically have normal visual acuity",
+   "B": "patients with this condition have difficulty with blue and yellow colors",
+   "A": "it is the most common form of color blindness"
+  },
+  "markedAnswer": "C",
+  "explanation": "The congenital color deficiencies (deuteranopia, tritanopia, and protanopia) are *stationary* (non-progressive) in their color vision deficits. In addition, individuals with these conditions have normal visual acuity. These characteristics contrast with other forms of color blindness like cone dystrophy. Deuteranomalous (not deuteranopia) is the most common type of congenital color deficiency occurring in approximately 5% of the male population. Both deuteranopia and deuteranomalous are inherited in a X-linked recessive pattern and affect red– green hue discrimination. Whereas individuals with deuteranomalous can distinguish pure red from pure green (i.e. they are only \"color-weak\"), those with deuteranopia cannot distinguish between these two colors (i.e. they are \"color-deficient\"). Memory aid : PRO DEU TRI (in latin 2=duo 3=tres, other languages are similar) Correspond to 1-2-3 In order, R-G-B A 22-year-old female with a history of sensorineural hearing impairment comes into you with 10-years of poor vision that has progressively been getting worse. She feels as though her night vision is especially \"terrible.\" In the last year her central vision has become blurry also. Her fundus exam in the right eye is shown above in a series of photographs. You perform an OCT of the macula which shows cystoid macular edema. All of the following would be reasonable first line therapeutic options EXCEPT:.",
+  "imageUrl": "/images/retina-oq/p203_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 207,
+  "question": "edema. All of the following would be reasonable first line therapeutic options EXCEPT:",
+  "options": {
+   "D": "Vitrectomy",
+   "C": "Topical ketorolac",
+   "B": "Topical dorzolamide",
+   "A": "Oral acetazolamide"
+  },
+  "markedAnswer": "D",
+  "explanation": "This patient exhibits a history and features consistent with retinitis pigmentosa (RP) including nyctalopia, bone spicule hyperpigmentation of the fundus, attenuated arterioles, and mild \"waxy\" pallor of the optic nerve (not easy to appreciate the waxiness from the photo). She also complains of central visual blurring and has cystoid macular edema (CME) that was found on OCT. In this particular case, the CME is associated with RP. CME associated with RP may be very responsive to oral carbonic anhydrase inhibitors. However, topical carbonic anhydrase inhibitors and topical NSAIDs are also reasonable first-line therapeutic choices. If the RP associated CME fails to respond to these options, intravitreal triamcinolone has been reported to help in some patients. The precise mechanism of action of oral carbonic anhydrase inhibitors in RP-associated CME is unknown to this author. Of note, the patient has sensorineural deafness which is common in RP patients and is termed \"Usher syndrome.\" The deafness is ALWAYS congenital (not acquired). Usher syndrome is a popular testing topic even though it only constitutes about 10% of RP cases. A 34-year old man is referred to you by his optometrist for a peculiar retinal finding which is shown in the photograph above. This retinal finding is present in both eyes and is limited to just the area pictured in the photo. The man describes mild difficulty navigating at night. Which of the following is the most appropriate course of management?",
+  "imageUrl": "/images/retina-oq/p204_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 208,
+  "question": "A 34-year old man is referred to you by his optometrist for a peculiar retinal finding which is shown in the photograph above. This retinal finding is present in both eyes and is limited to just the area pictured in the photo. The man describes mild difficulty navigating at night. Which of the following is the most appropriate course of management?",
+  "options": {
+   "D": "UV-light protection and antioxidant vitamins",
+   "C": "oral acetazolamide",
+   "B": "surgery for posterior subcapsular cataract",
+   "A": "valproic acid"
+  },
+  "markedAnswer": "D",
+  "explanation": "The photograph demonstrates sectoral retinal degeneration with sharp demarcation between affected and unaffected retina. The trait that distinguishes this entity, sectoral retinitis pigmentosa, from other causes of retinal hyperpigmentation (e.g. trauma, past inflammation) is its presence in both eyes. There is evidence that this sectoral loss is caused by light toxicity in individuals with rhodopsin mutations. Therefore, UV-protection and antioxidants are often recommended though there is no compelling evidence they help. • A 17-year-old woman is referred to you for mildly-decreased central visual acuity in both eyes. She states that her mom and maternal grandmother also have \"some type of similar eye problem.\" Your dilated fundus examination is seen in the photograph shown above. Mutations in which of the following genes is most likely the cause of her eye condition?",
+  "imageUrl": "/images/retina-oq/p205_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 209,
+  "question": "A 17-year-old woman is referred to you for mildly-decreased central visual acuity in both eyes. She states that her mom and maternal grandmother also have \"some type of similar eye problem.\" Your dilated fundus examination is seen in the photograph shown above. Mutations in which of the following genes is most likely the cause of her eye condition?",
+  "options": {
+   "D": "TIMP3",
+   "C": "VMD2 or BEST 1",
+   "B": "ABCA4",
+   "A": "RDS/peripherin or PRPH2"
+  },
+  "markedAnswer": "C",
+  "explanation": "Best disease is an autosomal dominant disease caused by mutations in the VMD2 gene (aka as the BEST 1 gene). This gene encodes the protein, \"bestrophin\", which is a transmembrane chloride channel located in the basolateral membrane of the RPE. Individuals with Best disease show a yellow, yolk-like (vitelliform) macular lesion in childhood which eventually breaks down into an atrophic appearance (i.e. \"scrambled egg yolk\"). Despite the prominent appearance of the macular lesion, these individuals surprisingly maintain good visual acuity in the majority of the cases. Approximately 20% of these patients will develop a choroidal neovascular membrane which reduces vision to the 20/200 level. Another pearl to remember about Best disease is that the ERG is typically normal while the EOG is always abnormal (i.e. Arden ratio < 1.5). (Image credit: Cogan Pathology Collection found at: http://cogancollection.nei.nih.gov). Other gene-to-retinal dystrophy assocations: RDS - pattern dystrophies, adult-onset vitelliform dystrophy, central areolar dystrophy ABCA4 - Stargardts disease TIMP3 - Sorsby macular dystrophy • A 15-year-old boy is referred to you from his optometrist who noted a \"big yellow blob\" in the macula of both eyes. Your initial dilated fundus examination is seen in the top-left photograph. You examine the child 1 year later and his fundus examination resembles the top-right photograph. Which of the following statements regarding this patient's condition is TRUE?",
+  "imageUrl": null,
+  "stemReferencesFigure": true,
+  "figureMissing": true
+ },
+ {
+  "id": 210,
+  "question": "• A 15-year-old boy is referred to you from his optometrist who noted a \"big yellow blob\" in the macula of both eyes. Your initial dilated fundus examination is seen in the top-left photograph. You examine the child 1 year later and his fundus examination resembles the top-right photograph. Which of the following statements regarding this patient's condition is TRUE?",
+  "options": {
+   "D": "His ERG was normal and his EOG was probably abnormal initially and 1 year later",
+   "C": "His EOG was abnormal initially, but normalized 1 year later; his ERG was normal both initially and 1 year later",
+   "B": "His ERG was probably abnormal initially, but normalized 1 year later; his EOG was abnormal both initially and 1 year later",
+   "A": "His electroretinograph (ERG) and electro-oculogram (EOG) were both abnormal at the time of initial presentation and 1 year later"
+  },
+  "markedAnswer": "D",
+  "explanation": "If a patient has Best disease, he or she will always have an abnormal EOG and normal ERG regardless of what the macular lesion looks like. Also, the appearance of the macular lesion in Best disease does not correspond to the patient's visual acuity. For example, most patients with the large \"egg-yolk\" lesion typically have visual acuity of 20/40 or better. Which of the following is a false statement regarding retinitis pigmentosa (RP)?",
+  "imageUrl": "/images/retina-oq/p207_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ }
+]

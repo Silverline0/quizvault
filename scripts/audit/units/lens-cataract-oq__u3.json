@@ -1,0 +1,482 @@
+[
+ {
+  "id": 141,
+  "question": "You are seeing a one day post-operative cataract patient.  You remember yesterday that this 92-year-old patient's lens was extremely dense and you used an exorbitant amount of phacoemulsification energy to extract it successfully.  While examining her cornea today, you note that it is very swollen with 4+ Descemet folds.  You wonder if it will clear with time.  Which of the following exam findings will generally let you know if the cornea will eventually clear?",
+  "options": {
+   "A": "if the pachymetry is below 900 microns",
+   "B": "if the pachymetry is below 700 microns",
+   "C": "if the periphery of the cornea is clear",
+   "D": "if there are Descemet folds but no epithelial edema"
+  },
+  "markedAnswer": "C",
+  "explanation": "Corneal edema after phacoemulsification cataract surgery is very common. The most common risk factors for early post-cataract surgery corneal edema are: Prolonged phaco time (e.g. for dense lenses) Delivering phaco energy too close to the corneal endothelium (instead of deeper in the anterior chamber) Inflammation (another good reason to polish the capsular bag well and not leave any cortical material at all). Mechanical trauma (e.g. phaco tip or intraocular lens hitting the endothelium or allowing the chamber to collapse) Elevated intraocular pressure (which may result in epithelial edema but with a compact stroma). Another, less common, reason for early corneal edema includes toxic anterior segment syndrome (TASS) which results from a toxic solution (e.g. non-preserved) entering the anterior chamber. Generally if the corneal periphery is clear, then the corneal edema will resolve with time.  The reason is that the peripheral endothelial cells will spread over or migrate to \"replace\" the 98 central endothelial cells which were lost from the cataract surgery.  The BCSC also states that corneal edema persisting for 3 months usually will not clear.  Thus, many surgeons will wait at least 3 months before embarking on an endothelial replacement surgery (e.g. DMEK/DSEK).",
+  "imageUrl": "/images/lens-cataract-oq/p97_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 142,
+  "question": "You are seeing a one day post-operative cataract patient.  You note that there is a mildly shallow anterior chamber peripherally and the pressure is 6 mmHg.  There is trace cell and flare.  Examination of the posterior segment is unremarkable.  The patient does have a Seidel positive clear corneal incision wound.  Which of the following interventions is unlikely to help stop this wound leak?",
+  "options": {
+   "A": "bandage contact lens",
+   "B": "carbonic anhydrase inhibitor",
+   "C": "increase frequency of topical corticosteroids",
+   "D": "pressure patch"
+  },
+  "markedAnswer": "C",
+  "explanation": "You are explicitly told that this patient has a wound leak as the cause of the early post-operative hypotony. Pressure patching and cycloplegia. Patching causes a tamponade effect to help keep the wound edges apposed to each other.  Cycloplegia helps to deepen the anterior chamber and is commonly used for other causes of hypotony as well (e.g. hypotony associated with choroidal detachments). Bandage contact lens. The idea is to physically block the flow of aqueous through the wound to allow the wound edges to heal against each other. Carbonic anhydrase inhibitors and topical beta-blockers. The idea is to decrease aqueous flow through the wound, again to allow the wound edges to appose to each other. Avoiding or decreasing the frequency of topical corticosteroids. The idea is to enhance the local inflammatory reaction to aid spontaneous healing/closure. Tissue adhesive. Examples of tissue adhesives include fibrin glue, cyanoacrylate, and polyethylene glycol hydrogel (e.g. ReSure® Sealant). Placing a suture in the OR is also a valid option that would be the tried and true standard.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 143,
+  "question": "You are examining a 70-year-old patient who underwent uncomplicated cataract surgery in the right eye yesterday.  The uncorrected visual acuity of the operative eye is 20/30. However, the patient notes a \"dark area\" just off the center of her vision that does not move.  Her pre-operative exam showed no pathology besides 4+ cataracts OU. Which of the following could have led to this patient's visual disturbance?",
+  "options": {
+   "A": "Using a filter to exclude light below 515 nm",
+   "B": "Use of capsular support hooks",
+   "C": "Low bottle height during phacoemulsification",
+   "D": "Use of direct lighting of the operative microscope"
+  },
+  "markedAnswer": "D",
+  "explanation": "This scenario describes a patient who has experienced retinal light toxicity due to prolonged exposure to the operating microscope light.  Such prolonged exposure can result in a burn to the retinal pigment epithelium (RPE) and/or an increased risk of cystoid macular edema after surgery. One of the rationales of why this occurs is that the filtering effects of the natural lens/cataract are reduced as the cataract is being removed.  This is especially true when the surgery is prolonged as is typically the case when removing dense cataracts.  This can lead to the RPE being exposed to unfiltered blue light and near-ultraviolet radiation.  A burn of the fovea can lead to decreased visual acuity while a parafoveal burn can lead to a paracentral scotoma. These are the recommend methods of reducing this light toxicity: Reducing operative time. Using the minimum light intensity to safely complete the operation. Use a filter to exclude light less than 515 nm. Use oblique rather than direct light from the operative microscope. Use corneal/pupillary light shields when possible (e.g. for non-cataract surgery like tubes). Only use manufacturer-approved light bulbs.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 144,
+  "question": "What is the most common complication of phacoemulsification surgery?",
+  "options": {
+   "A": "vitreous loss",
+   "B": "cystoid macular edema",
+   "C": "pseudophakic bullous keratopathy",
+   "D": "posterior capsule opacification"
+  },
+  "markedAnswer": "D",
+  "explanation": "The most common \"complication\" after uneventful cataract surgery is posterior capsular opacification (PCO) with rates approximately 12% at 1 year, 21% at 3 years, and 28% at five years after surgery.1  These are rates in lenses implanted prior to 1995.  Newer designed lenses have lower rates.  The incidence is not listed in the BCSC but the BCSC still lists PCO as the most common complication of cataract surgery.  Risk factors for PCO formation include: Younger age History of intraocular inflammation Poor cortical cleanup Presence of exfoliation syndrome Design of the lens (i.e. higher incidence in rounded-edge in contrast to truncated square-edge) Intraocular lens (IOL) material Larger capsulorrhexis size A large meta-analysis found the following in regards to which IOL materials and designs were associated with lower rate of PCO formation requiring YAG capsulotomy: acrylic and silicone IOLs have lower rates compared to PMMA IOLs hydrogel IOLs are equivalent to PMMAs in rates of YAG capsulotomy sharp optic edge IOLs have lower rates than rounded optic edge IOLs There is some disagreement between the BCSC and the literature regarding which IOL materials have the highest rate of PCO formation.  The BCSC specifically states that the rate of PCO formation is: hydrogel (highest) > PMMA > silicone > acrylic (lowest)",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 145,
+  "question": "Which of the following intraocular lenses would be expected to have the highest rate of posterior capsular opacity (PCO) requiring YAG capsulotomy?",
+  "options": {
+   "A": "hydrophobic acrylic with truncated squared-edge",
+   "B": "silicone with rounded optic edges",
+   "C": "PMMA with rounded optic edges",
+   "D": "silicone with truncated squared-edge"
+  },
+  "markedAnswer": "C",
+  "explanation": "101.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 146,
+  "question": "What is the BEST microscopic description of the complication of cataract surgery depicted in the photo?",
+  "options": {
+   "A": "lens epithelial cells proliferating in a closed space between the anterior and posterior capsules",
+   "B": "disruption of the posterior capsule resulting in vitreous strands in the anterior chamber",
+   "C": "lens epithelial cells migrating outward forming \"fish egg\" clusters",
+   "D": "lens epithelial cells migrating across the posterior capsule with contraction of a secreted collagen matrix"
+  },
+  "markedAnswer": "D",
+  "explanation": "The slit-lamp photo simply shows the typical appearance of posterior capsular opacification (PCO) which is the most common \"complication\" that occurs after cataract surgery.  According to the BCSC, the rate of visually-significant PCO is approximately 28% at 5 years.  The rate of PCO formation for different intraocular lens materials is (from lowest to highest):  acrylic < silicone < PMMA. After cataract surgery, the residual lens epithelial cells may proliferate in a variety of patterns. If the cells proliferate in the closed space between the anterior and posterior capsules (choice \"A\"), then a Soemmering ring (aka \"ring cataract\") will form.  This ring consists of nucleated bladder cells also known as Wedl cells. If the lens epithelial cells proliferate in large spherical aggregates like \"fish eggs\" (choice \"C\"), then Elschnig pearls are formed.  These pearls can fill the pupillary space or hide behind the iris.  Each \"fish\" egg is a nucleated bladder cell, like in a Soemmering ring, but lacks a basement membrane. Lastly, lens epithelial cells are capable of metaplasia to myofibroblasts and also can secrete a matrix of collagen.  If these lens epithelial cells migrate across the posterior capsule and cause contraction of a secreted collagen matrix, this can result in capsular wrinkling and PCO (choice \"D\").",
+  "imageUrl": "/images/lens-cataract-oq/p102_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 147,
+  "question": "A 62-year-old male presents 16 hours after cataract surgery.  You remember his case and noted that it was straightforward.  You removed the nucleus using 1.99",
+  "options": {
+   "A": "energy from phacoemulsification",
+   "B": "poor wound creation",
+   "C": "D.E. of phacoemulsification power using a dispersive viscoelastic to protect the corneal endothelium.  At the conclusion of the case you injected 0.1 mL of moxiflaxacin into the anterior chamber with your standard reusable cannula.",
+   "D": "use of a dispersive instead of a cohesive viscoelastic"
+  },
+  "markedAnswer": "C",
+  "explanation": "This patient likely is experiencing TASS (Toxic Anterior Segment Syndrome). TASS is a sterile inflammatory reaction generally secondary to contaminants injected into the eye or incorrect pH of irrigating solutions. TASS commonly occurs when remnants of cleaning detergents are not properly washed out of reusable cannulas.  In this question, the moxifloxacin was presumably injected with a reusable cannula.  Contamination of the Vigamox can also occur with dilution as noted in the answer choice. Viscoelastics always come with a disposable cannula. TASS presents in the acute post-operative period (i.e. 12-24 hours), typically earlier than acute endophthalmitis (i.e. 2-7 days).  It is also generally confined to the anterior segment unlike endophthalmitis which always involves the posterior segment. Management of TASS includes:  (1) excluding endophthalmitis as the cause of the inflammation; (2) intensive topical corticosteroids; and (3) controlling intraocular pressure if it is elevated.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 148,
+  "question": "Which of the following can reduce the risk of Toxic Anterior Segment Syndrome (TASS)?",
+  "options": {
+   "A": "Strong detergents",
+   "B": "Disposable instrumentation",
+   "C": "Enzymatic cleaners",
+   "D": "Prep with chlorhexidine gluconate"
+  },
+  "markedAnswer": "B",
+  "explanation": "Toxic Anterior Segment Syndrome (TASS) is believed to be caused by inadvertent introduction of a toxic substance into the anterior chamber.  It causes an acute, severe post-operative inflammation that presents within 12-24 hours after intraocular surgery. Some important clinical features: 103 Can mimic signs and symptoms of infectious endophthalmitis (e.g. pain, photophobia, severe decrease in vision, severe anterior chamber inflammation occasionally with hypopyon) Presents within 12-24 hours (while infectious endophthalmitis usually presents after 2-7 days after surgery). Diffuse, limbus-to-limbus corneal edema. Anterior chamber opacification Dilated, irregular or nonreactive pupil. Elevated intraocular pressure. Treatment:  intensive topical steroids (occasionally systemic steroids) and glaucoma drops Of the choices listed, using disposable instruments is one way to reduce the risk of TASS. Detergents of any strength and enzymatic cleaners both can leave residues on reusable instruments which are a risk factor for TASS. Chlorhexidine gluconate, when it comes into contact with the corneal endothelium, has been shown to cause irreversible corneal edema and opacification.  Thus, one should never prep an ophthalmic surgery patient with this skin cleaner. High Yield summary TASS is prevented by the careful cleaning, rinsing, and air drying of reusable instruments cleansed with detergents and enzymatic cleaners.  These detergents and cleaners can leave residues on reusable instruments.  Thus, disposable instruments can reduce the risk of TASS.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 149,
+  "question": "A 65-year-old is interested in cataract surgery.  He complains of difficulty driving at night and glare around lights.  His best corrected visual acuity is 20/50 in the right eye and 20/30 in the left eye.  Exam is notable for 2+ nuclear sclerosis in both lenses.  The patient is offered cataract surgery in the right eye and is scheduled for femtosecond laser assisted cataract surgery. Which of the following complications is more common with the use of the femtosecond laser?",
+  "options": {
+   "A": "Incomplete capsulotomy with anterior capsule tear",
+   "B": "Post-operative corneal edema",
+   "C": "Wound dehiscence",
+   "D": "Descemet membrane detachment"
+  },
+  "markedAnswer": "A",
+  "explanation": "The femtosecond laser (photodisruption; 1053 nm) can be used to create the corneal incision, capsulotomy, and lens fragmentation prior to phacoemulsification. Before the surgery, the location of the wounds as well as any refractive incisions (e.g., limbal 104 relaxing incisions), the size and centration method of the capsulotomy, and the fragmentation choice (e.g., quadrants, sextants, waffle pattern, etc.) of the lens are programmed into the laser.  The patient is then “docked” under the laser using a suction ring placed on the dilated eye.  The system measures the anterior segment using OCT or Scheimpflug imaging and the previously programmed laser parameters are activated by the surgeon when ready.  During laser fragmentation of the lens, gas bubbles form from the laser dissection which helps to separate the lens along its lamellar structure decreasing the need for intraoperative hydrodissection. After the laser is complete, the patient is taken to the operating suite to complete cataract surgery.  Complications unique to the use of the femtosecond laser include subconjunctival hemorrhage due to the suction ring, incomplete capsulotomy leading to a radial anterior capsular tear, and gas buildup in the capsular bag causing a posterior capsular rupture. WRONG ANSWERS: (Choice B): Post-operative corneal edema occurs more frequently in cases with preexisting endothelial dysfunction and is seen in surgery with prolonged operating time, mechanical trauma to the endothelium, or if post-operative intraocular pressure (IOP) is elevated leading to acute corneal edema.  No matter the cause, generally, if the peripheral cornea is clear, the corneal edema will resolve with time.  Treatment acutely is with corticosteroids, hyperosmotic agents, or ocular hypotensive agents if due to elevated IOP.  Edema that is still present after 3 months post-operatively typically does not clear and may require an endothelial transplant or penetrating keratoplasty if vision is decreased.  Post-operative corneal edema is not more common with femtosecond assisted cataract surgery. (Choice C): Wound dehiscence is rare and can be spontaneous or after trauma. Larger wounds and systemic disease leading to poor healing are risk factors. Wound dehiscence is not more common with femtosecond assisted cataract surgery. (Choice D):  A Descemet membrane detachment can occur at the wound if an inserted instrument traumatically detaches the membrane or if fluid is accidentally injected between the stroma and Descemet membrane.  This results in corneal edema at the area of the detachment.  Small detachments may resolve.  Otherwise, an expansile gas (e.g. SF6 or C3F8) can be placed in the anterior chamber to secure the Descemet membrane to the stroma and allow it to heal.  Sometimes, a suture is required for large detachments in addition to gas.  This complication is not more frequent with the use of the femtosecond laser.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 150,
+  "question": "You are seeing your one day post-operative cataract surgery patient.  There is 2+ epithelial edema, but the stroma is compact and clear.  The patient's vision is 20/100. The anterior chamber is clear and the iris and lens are in good position. You examine the other eye and it is normal except for a 2+ NSC. What is the most likely cause of the patient's decrease in vision in the operated eye?",
+  "options": {
+   "A": "cystoid macular edema",
+   "B": "corneal edema from excessive phaco energy",
+   "C": "retained cohesive viscoelastic",
+   "D": "acute post-operative uveitis"
+  },
+  "markedAnswer": "C",
+  "explanation": "A compact corneal stroma, but with epithelial edema in the acute post-operative period is generally secondary to high intraocular pressure (IOP).  A very common cause of high IOP after cataract surgery is retained viscoelastic (e.g. Healon or Viscoat). Corneal edema secondary to endothelial dysfunction (e.g. from excessive phaco energy or phaco'ing too close to the endothelium) would result in stromal edema (e.g. Descemet's folds). This is why Fuchs dystrophy patients have thick corneas. Cystoid macular edema does not generally occur in the immediate post operative period. There was no mention of cells and flare in the anterior chamber.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 151,
+  "question": "When does acute infectious endophthalmitis generally appear in the eye after cataract surgery?",
+  "options": {
+   "A": "less than 24 hours",
+   "B": "1-2 days after",
+   "C": "3-10 days after",
+   "D": "11-14 days after"
+  },
+  "markedAnswer": "C",
+  "explanation": "According to the BCSC Lens and Cataract book, acute endophthalmitis generally develops 3-5 days after cataract surgery.  So, for testing purposes, this would be the answer you would put.  However, most studies show that this length is being extended. The majority of cases of acute infecious endophthalmitis in the EVS (Endophthalmitis Vitrectomy Study) appeared within 3-10 days after cataract surgery, with a median of 6 days. 106 Toxic Anterior Segment Syndrome (TASS) can occur within the first 24 hours after surgery. Endophthalmitis still has to be ruled out.  Surgeons generally see their patients one day and then again one week (7 days) or more after surgery.  Thus, they often do not see the patient at the time patients are most likely to develop endophthalmitis (between the one day and one week appointments).  So, if a patient calls on the phone with eye pain between the one day and one week appointment, it is crucial that the patient be seen sooner than the one week appointment.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 152,
+  "question": "Which of the following options would be appropriate to improve the hypotony of this patient's left eye?",
+  "options": {
+   "A": "prednisolone acetate 1% qid",
+   "B": "bromfenac 0.07% daily",
+   "C": "autologous blood injection",
+   "D": "subconjunctival injection of 5-fluorouracil (5-FU)"
+  },
+  "markedAnswer": "C",
+  "explanation": "The clinical vignette is implying that the patient's left eye developed an inadvertent filtering bleb after standard extracapsular cataract surgery.  The \"old-style\" way of doing an extracapsular cataract surgery was to create a large scleral tunnel in the superior quadrant so that the entire nucleus could be prolapsed from the eye in one piece.  Larger wounds were also necessary before the advent of foldable intraocular lenses, which could be inserted through much-smaller wounds. The typical indications for treating an inadvertent filtering bleb include: significant patient discomfort (e.g. foreign body sensation, epiphora) inability to wear contact lens that is needed 107 recurrent infections (analogous to \"blebitis\" that occurs in glaucoma filtering blebs) shallow anterior chamber (e.g. PAS formation, possible corneal endothelial damage) significant hypotony (e.g. decreased visual acuity from macular folds, choroidal detachments) If significant, these inadvertent blebs are managed similarly to overfiltering trabeculectomy filters.  Possible interventions include: Injection of autologous blood.  This would be expected to induce fibrosis/healing response to help decrease the size of the bleb. Reducing or discontinuing corticosteroids. Surgical repair (e.g. compression sutures; additional sutures at the scleral tunnel wound). Light cautery. Long-term bandage contact lens (which basically acts via compressive forces). The other answer choices would not be expected to resolve this patient's inadvertent filtering bleb.  In particular, injecting an antimetabolite like 5-FU or mitomycin would probably make the situation worse, by causing increased avascularity of the bleb and less fibrosis of the subconjunctival space. Digital massage forces fluid through the fistula and lowers the intraocular pressure. She is having irritation from a distended conjunctival bleb. Injecting autologous blood into the conjunctiva, wound revision, scleral patch graft, and chemical cautery are all possible treatments for this condition. Her iris has prolapsed slightly through the wound as well. Laser iridoplasty can be used to center the pupil if desired.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 153,
+  "question": "Which of the following situations has been associated with the highest rate of endophthalmitis after cataract surgery?",
+  "options": {
+   "A": "hypotonous eye with non-leaking wound",
+   "B": "hypotonous eye with leaking wound",
+   "C": "normotensive eye with nonsutured nonleaking wound",
+   "D": "hypertensive eye with sutured leaking wound"
+  },
+  "markedAnswer": "B",
+  "explanation": "108 Explanation: The leaking wound acts as a conduit for bacteria to enter the eye. Hypotony in the anterior chamber is bad because the low pressure provides less resistance to bacteria entering the eye. The worst situation is a leaking hypotonous eye after cataract surgery.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 154,
+  "question": "You are seeing your one day post-op cataract surgery patient who expresses having severe eye pain last night. On exam you note that the anterior chamber is almost flat and the pressure is 42 mmHg. You note that the patient has a patent superior iridotomy. Examination of the posterior segment reveals no abnormalities. What percentage of time does medical therapy relieve this condition?",
+  "options": {
+   "A": "10%",
+   "B": "20%",
+   "C": "30%",
+   "D": "50%"
+  },
+  "markedAnswer": "D",
+  "explanation": "This patient has the classic presentation for aqueous misdirection syndrome (as known as ciliary block glaucoma). This is where aqueous is directed into the vitreous instead of flowing through the pupil. Medical treatment is successful 50% of the time and involves intense mydriasis and cycloplegia (phenylephrine 10% and atropine), aqueous suppressants, and oftentimes hyperosmotics. If these treatments fail, disruption of the anterior hyaloid face with YAG laser or pars plana vitrectomy is needed.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 155,
+  "question": "You are seeing your one day post-op cataract surgery patient who states that they had severe eye pain last night. On exam you note that the anterior chamber is shallow and the pressure is 42. All of the following are potential causes of this condition EXCEPT:",
+  "options": {
+   "A": "pupillary block",
+   "B": "wound leakage",
+   "C": "ciliary block",
+   "D": "suprachoroidal hemorrhage"
+  },
+  "markedAnswer": "B",
+  "explanation": "A shallow anterior chamber in the early post-operative period has causes that can be separated into those with low pressure and those with high pressure. Wound leakage generally is associated with a shallow anterior chamber and low pressures in the immediate post operative period. Shallowing of the anterior chamber can lead to peripheral anterior synchiae (PAS) and higher pressures later. Posterior pushing mechanisms (all of the other choices) cause the ciliary body to be rotated forward and block the trabecular meshwork. This leads to a shallow anterior chamber with high pressures. The same is the case with post-operative management of trabeculectomies. Usually, there is a shallow anterior chamber secondary to over-filtration of the bleb. If there is a shallow anterior chamber with high pressures, there is a posterior pushing mechanism (choroidal detachments).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 156,
+  "question": "A one week post-operative cataract patient presents for routine exam. You examine the eye and note sheets of whitish membranes on the iris. You suspect epithelial downgrowth. What is the simplest technique for making the diagnosis?",
+  "options": {
+   "A": "taking the patient to the O.R. and sending a biopsy",
+   "B": "injecting a capsular dye into the eye",
+   "C": "injecting steroid into the eye",
+   "D": "applying argon laser to the membrane"
+  },
+  "markedAnswer": "D",
+  "explanation": "Applying argon laser to epithelial downgrowth will turn the membrane white. A 500 micron spot size is used and the areas with epithelial downgrowth will turn white. Normal iris will turn brown with laser application. The abnormal area of membrane coverage can be mapped by this color difference. This is generally enough evidence to support a diagnosis because time is of the essence. These patients should be taken to the OR for removal of the membranes as quickly as possible. They typically develop secondary glaucoma due to peripheral anterior synchiae and epithelial cells clogging the trabecular meshwork. Glaucoma valves are usually needed.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 157,
+  "question": "Which the following is the most likely cause of the patient’s diplopia?",
+  "options": {
+   "A": "Paretic muscle from local anesthesia",
+   "B": "Unmasking of preexisting misalignment not previously symptomatic due to poor vision",
+   "C": "Irregular/high astigmatism from wound closure",
+   "D": "Horror fusionis"
+  },
+  "markedAnswer": "A",
+  "explanation": "The patient is presenting with a new inferior rectus palsy in an eye that has recently undergone cataract surgery, which in this scenario would be most frequently due to iatrogenic trauma or myotoxicity from a retrobulbar or peribulbar anesthetic injection. Retrobulbar anesthesia provides both excellent anesthesia, as well as ocular akinesia for patients with difficulty keeping their eyes still. Complications are not common but include damage to an extraocular muscle (either direct trauma or myotoxicity) with the inferior and superior rectus the most frequently involved. This type of injury can lead to either contracture, overaction, or paretic dysfunction. Typically, in the acute setting, the muscle is paretic, and the deviation may completely resolve over several months. However, contraction may also occur over months leading to a restrictive strabismus. Other complications of retrobulbar anesthesia include retrobulbar hemorrhage, globe penetration, optic nerve trauma, intravenous injection leading to cardiac arrhythmia, or intradural injection with CNS collapse. 111 WRONG ANSWERS: Choice B: Patients who had a preexisting misalignment prior to surgery may develop diplopia after cataract surgery if the eye with poor vision was being suppressed. Most often, this is due to a decompensated exotropia, decompensated congenital fourth nerve palsy, or divergence insufficiency. Patients with longstanding poor vision due to a cataract that develop a sensory exotropia may also retain this deviation and develop diplopia after surgery. The sensory exotropia may resolve over several months and is typically monitored before strabismus surgery is considered. Choice C: There are many postoperative causes of monocular diplopia including a decentered or tilted intraocular lens, iridectomy causing multiple “pupils”, cracked intraocular lens, or significant irregular astigmatism. This patient has binocular diplopia due to an inferior rectus palsy. Choice D: Horror fusionis is a very rare phenomena in which a patient experiences diplopia / loss of fusion even when the eyes are aligned. It is an acquired condition and may develop in patients with prolonged sensory deprivation in one eye (for instance, a dense cataract), in severe head injury, or postviral syndromes. This is a diagnosis of exclusion and the strabismus examination should be normal. 112 Late Post Op.",
+  "imageUrl": "/images/lens-cataract-oq/p111_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 158,
+  "question": "What is the recommended management?",
+  "options": {
+   "A": "observation",
+   "B": "pars plana vitrectomy with partial posterior capsulotomy",
+   "C": "Nd:YAG posterior capsulotomy",
+   "D": "Intraocular lens (IOL) exchange"
+  },
+  "markedAnswer": "C",
+  "explanation": "This slit-lamp and AS-OCT images demonstrate capsular bag distension or capsular block syndrome.  This complicates cataract surgery with posterior capsular intraocular lens (IOL) implantation in approximately 0.73% of cases.  It is the result of relatively opaque fluid building up between the IOL and the posterior capsule.  The cause 113 and composition of this fluid depends on the timing it occurs and may be divided into intraoperative, early post-operative, and late post-operative onset. Intra-operative capsular block syndrome (CBS) occurs from direct irrigation into the capsular bag, typically during hydrodissection, which causes increased fluid to accumulate within the capsular bag and distend the posterior capsule. Early post-operative CBS is the result of retained viscoelastic material posterior to the IOL. This causes anterior displacement of the IOL and posterior distension of the capsular bag. Late post-operative CBS is from residual lenticular epithelial cells proliferating and undergoing metaplasia to produce collagen.  This is a similar process to that causing posterior capsular opacification, but occurs between the IOL and the posterior surface of the capsular bag.  The result is an accumulation of milky, turbid fluid posterior to the IOL that causes progressive blurring or dimming of vision.  Patients may experience sudden vision loss if a small residual clearing through the IOL is snuffed out.  Management is opening of the lens capsule to allow for egress of the turbid fluid, either through Nd:YAG anterior or posterior capsultomy. Anterior capsulotomy is performed by creating a small hole adjacent to the edge of the lens implant.  This typically results in excellent improvement of visual acuity and resolution of the myopic shift, if present.  Recurrence rates are low.  These cases do not spontaneously resolve so observation is incorrect. Vitrectomy with partial posterior capsulotomy would be the treatment for post-cataract surgery Propionibacterium acnes endophthalmitis. IOL exchange is not necessary, as Nd:YAG anterior or posterior capsulotomyu is much less invasive and associated with excellent outcomes. An important note is that if any inflammatory signs are present in patients with apparent capsular block syndrome, there must be suspicion for P. acnes endophthalmitis. Diagnosis in atypical cases may be made via irrigation and aspiration with cultures of the fluid.",
+  "imageUrl": "/images/lens-cataract-oq/p113_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 159,
+  "question": "Which of the following statements is TRUE regarding this condition?",
+  "options": {
+   "A": "Laser peripheral iridotomy is curative",
+   "B": "Intraocular lens exchange is the best treatment option",
+   "C": "Retained viscoelastic is the most common cause",
+   "D": "Myopic shift would be uncommon in this case"
+  },
+  "markedAnswer": "D",
+  "explanation": "The clinical findings in this patient are consistent with late postoperative capsular block syndrome  (CBS) (aka capsular distension syndrome). Late-onset CBS is also known as lacteocrumenasia and can be identified by the accumulation of white material/liquid posterior to the intraocular lens (IOL) inside the capsular bag. This liquid may originate from the epithelial cells of the cataract (e.g. proliferation and pseudo-metaplasia of the lens epithelium). Late CBS typically does not result in a myopic 115 shift in contrast to early postoperative CBS. There are 3 types of capsular block syndrome and their key features are presented here: Intraoperative capsular block syndrome Caused by rapid hydrodissection with large volumes of BSS. The cataract itself then blocks the BSS from escaping through anteriorly. Occurs more commonly in white and posterior polar cataracts and small capsulorhexis. Can result in posterior capsule rupture. This syndrome can be prevented by slower hydrodissection and can be treated by gently tapping on the lens posteriorly to help release the trapped BSS. Early postoperative capsular block syndrome This entity typically occurs during the first 2 weeks after surgery. One of the most common reasons this form of CBS can occur is due to retention/accumulation of viscoelastic behind the IOL. Another potential cause is that retrolental viscoelastic or trapped lens fragments can induce an osmotic gradient leading to filling of the retrolental space with liquid. Can lead to anterior displacement of the IOL and induced myopia. Can also lead to angle closure glaucoma. Treatment is with either anterior or posterior Nd:YAG capsulotomy. Late postoperative capsular block syndrome Aka lacteocrumenasia. Occurs on average ~3.8 years after surgery. Characterized by the deposition of white material behind the IOL inside the capsular bag. The liquid is due to proliferation and pseudo-metaplasia of residual lens epithelial cells. Decreases in anterior chamber depth and IOP elevation are not characteristic. There is typically no refractive change. Treatment is with posterior Nd:YAG capsulotomy. Clinical exam is typically sufficient for diagnosis of CBS. However, ancillary diagnostic aids (e.g. optical coherence tomography, Scheimpflug-based photography [Pentacam], ultrasound biomicroscopy) are helpful to demonstrate the trapped material.",
+  "imageUrl": "/images/lens-cataract-oq/p115_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 160,
+  "question": "You are examining a patient 3 months after phacoemulsification cataract surgery where an acrylic intraocular lens (IOL) was placed.  Which of the following may reduce the incidence of the complication seen in the above photo?",
+  "options": {
+   "A": "younger age of the patient",
+   "B": "capsulorrhexis of 7.5 mm",
+   "C": "zonular laxity",
+   "D": "truncated square-edge design"
+  },
+  "markedAnswer": "D",
+  "explanation": "The most common \"complication\" after uneventful cataract surgery is posterior capsular opacification (PCO) with rates approximately 12% at 1 year, 21% at 3 years, and 28% at five years after surgery.1  Risk factors for PCO formation include: Younger age History of intraocular inflammation Poor cortical cleanup Presence of exfoliation syndrome Design of the lens (i.e. higher incidence in rounded-edge in contrast to truncated square-edge) Intraocular lens (IOL) material Larger capsulorrhexis size A large meta-analysis found the following in regards to which IOL materials and designs were associated with lower rate of PCO formation requiring YAG capsulotomy: acrylic and silicone IOLs have lower rates compared to PMMA IOLs hydrogel IOLs are equivalent to PMMAs in rates of YAG capsulotomy sharp optic edge IOLs have lower rates than rounded optic edge IOLs There is some disagreement between the BCSC and the literature regarding which IOL materials have the highest rate of PCO formation. The BCSC specifically states that the rate of PCO formation is: hydrogel (highest) > PMMA > silicone > acrylic (lowest)",
+  "imageUrl": "/images/lens-cataract-oq/p117_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 161,
+  "question": "A 80-year-old woman presents to you with significant glare symptoms 2 years after uncomplicated cataract surgery.  Your exam is significant for the finding seen in the above photo.  Which of the following is the greatest risk factor for developing a retinal detachment after your planned procedure to resolve this patient's symptoms?",
+  "options": {
+   "A": "hydrogel intraocular lens material",
+   "B": "female gender",
+   "C": "older age at time of surgery",
+   "D": "axial length greater than 25.0 mm"
+  },
+  "markedAnswer": "D",
+  "explanation": "The overall risk of retinal detachment after YAG capsulotomy for visually-significant posterior capsular opacity (PCO) is estimated at 0.1% to 3.6%. It is often-quoted that half of these retinal detachments will occur within 1 year of the capsulotomy. One study used Cox proportional hazard regression to give hazard ratios for different risk factors. These hazard ratios (95th confidence interval) for the development of retinal detachment after YAG capsulotomy at 5 years were: ● Axial length greater than 25.0 mm: 11.1 ● Vitreous complication (during surgery): 4.42 ● Male sex: 3.61 ● Age at capsulotomy (per 10 years younger): 1.45 Thus, high myopia was considered the greatest risk factor for developing a retinal detachment after YAG capsulotomy at 5 years. The intraocular lens (IOL) material has some influence on the incidence of PCO, not the rate of retinal detachment after YAG capsulotomy. According to the BCSC, the relative ordering of rate of PCO formation is as follows: hydrogel (highest) > PMMA > silicone > acrylic (lowest) However, the design of the IOL is considered to be more important than its material in the rate of PCO formation, with truncated-edge designs having the lowest rate.",
+  "imageUrl": "/images/lens-cataract-oq/p118_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 162,
+  "question": "",
+  "options": {
+   "A": "Observation and reassurance that symptoms will resolve over time",
+   "B": "Corneal refractive surgery with a plano target",
+   "C": "Rotation of the intraocular lens",
+   "D": "Intraocular lens (IOL) exchange to a monofocal IOL"
+  },
+  "markedAnswer": "D",
+  "explanation": "Patients must be counseled pre-operatively that premium IOLs, such as multifocals (MF-IOL), are associated with an increased rate of symptomatic visual phenomena such as glare, haloes, and decreased contrast sensitivity.  When these unwanted symptoms occur, it is recommended that surgeons wait longer to re-operate in these patients as symptoms will often resolve over the ensuing months.  This is theorized to be due to neuroadaptation. However, this patient is experiencing persistent, significant symptoms for a year at this point and is unlikely to experience spontaneous resolution.  Keratorefractive surgery is a reasonable option for post-operative residual refractive error in multifocal IOL patients.  However, this patient notices no difference in his degraded visual quality when his refractive error is neutralized in glasses.  Thus, LASIK or PRK is unlikely to significantly improve his symptoms. IOL rotation would be reasonable if the toric IOL was malpositioned resulting in significant post-operative astigmatism.  However in this case, his residual astigmatism is minimal, and thus IOL rotation probably would not accomplish anything. Other common causes of degraded visual quality after MF-IOL implantation include: Ocular surface issues (e.g. dry eyes, anterior basement membrane dystrophy) Lens decentration Large angle kappa -- i.e. the lens may be centered perfectly on the pupillary axis, but this does not necessarily mean the lens is centered along the visual axis. Remember:  angle kappa is the angle between the pupillary and visual axis.  Thus, a patient with high angle kappa may be looking through the edge of a ring of a MF-IOL. Large angle kappa typically occurs in patients who are high hyperopes. 119 Large angle alpha -- angle alpha is the difference between the center of the limbus (i.e. optical center of the cornea) and the visual axis.  Since the intraocular lens has a high likelihood of stabilizing in the center of the capsular bag (which correlates with the optical axis), a high angle alpha may be a contraindication to selecting a MF-IOL. Posterior capsular opacity Macular issues (e.g. epiretinal membrane). Since none of these other issues exist and significant symptoms persist, this patient should be offered an IOL exchange with a monofocal IOL.  Fortunately for this patient, he has not undergone YAG capsulotomy which will make an IOL exchange a much easier procedure.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 163,
+  "question": "What is the best next step in management of the patient?",
+  "options": {
+   "A": "\"Burp\" the main wound and follow the patient closely",
+   "B": "Surgical removal of retained nuclear material",
+   "C": "Breakdown of retained nuclear material with the YAG laser",
+   "D": "Decrease the topical corticosteroids"
+  },
+  "markedAnswer": "B",
+  "explanation": "The patient has a piece of retained lens fragment that has settled in the inferior anterior chamber.  The reported incidence of retained lens material in the anterior chamber is reported to be 0.45%-1.7%.  Lens material may also hide behind the iris in the posterior chamber or fall into the vitreous if there is zonular dehiscence or a tear in the lens capsule.  Patients present with variable levels of anterior chamber inflammation, elevated IOP, and corneal edema. The elevated IOP is due to the inflammatory response to the lens material.  Retained cortical material, in general, is better tolerated and resorbs over 120 time whereas nuclear material is persistent and more likely to cause a more significant inflammatory response. Inflammation can initially be treated with topical corticosteroids and nonsteroidal anti-inflammatory medications, and the IOP with ocular hypotensive agents.  However, surgical intervention may be necessary in the following situations: Worsening inflammation uncontrolled by corticosteroids Medically unresponsive elevated IOP Corneal edema Associated endophthalmitis Large amount of retained material Typically, simple irrigation and aspiration through the original main incision is sufficient to remove the anterior chamber lens material. WRONG ANSWERS: (Choice A):  Decreasing the IOP by burping the wound would temporally lower the IOP, but until the lens fragments are removed the inflammatory response will not subside.  Usually, burping the wound is employed to lower the IOP in the setting of retained viscoelastic material that will resorb postoperatively. (Choice C):  Breaking the lens material down with the YAG laser has not been shown to significantly increase absorption and may increase the inflammatory response. (Choice D):  The elevated IOP is due to the inflammatory response from the retained lens material and topical corticosteroids and nonsteroidal agents are used to medically treat this inflammation. SURGEON'S CLINICAL PEARL: Retained lens fragments occur more frequently in patient's with lighter irises since there is less contrast between the nuclear pieces and the iris. Retained fragments are also more common in small pupil cases (e.g. intraoperative floppy iris) since the pieces can \"hide\" behind the iris during the case and only rear their ugly head post-operatively.  For these cases, many surgeons will carefully retract the iris (e.g. with a Kuglen hook) circumferentially looking for any potential retained fragments. Lastly, oftentimes the retained lens fragment can only be visualized on gonioscopy.",
+  "imageUrl": "/images/lens-cataract-oq/p120_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 164,
+  "question": "You are seeing a one month post-operative cataract patient. The vision in the eye is 20/60 and there is 1+ cell in the anterior chamber. The patient complains of eye pain when going from dark to bright conditions. Exam shows this image. You order an OCT and note significant cystoid macular edema. Which of the following treatments offers the highest benefit to lowest risk ratio to resolve the patient's condition?",
+  "options": {
+   "A": "topical steroids",
+   "B": "YAG vitreolysis",
+   "C": "anterior vitrectomy",
+   "D": "posterior vitrectomy"
+  },
+  "markedAnswer": "B",
+  "explanation": "This patient has vitreocorneal adhesions causing vitreomacular traction leading to cystoid macular edema. The pupil is peaked in the area of vitreous because the vitreous strand physically prevents the iris from constricting. Steroids are likely to get him through the acute episode and could be an initial treatment of choice. However, his symptoms of eye pain when going from dark to bright light conditions will not improve. Laser vitreolysis is a good minimally invasive first step. If this fails to improve the situation, vitrectomy is indicated. Whenever there is vitreous to the wound, you have to make sure there is not external exposed vitreous. This may act as a conduit for bacteria tracking back into the eye. This condition is referred to as vitreous wick syndrome.",
+  "imageUrl": null,
+  "stemReferencesFigure": true,
+  "figureMissing": true
+ },
+ {
+  "id": 165,
+  "question": "A patient is seeing you 6 months after cataract surgery.  She states that she notes a temporal crescent of glistening under certain lighting conditions.  You examine her and note that the lens is perfectly centered, there is no posterior capsular opacity, and the retinal exam is completely normal.  What is this phenomena called?",
+  "options": {
+   "A": "temporal dysphotopsias",
+   "B": "scintillating scotoma",
+   "C": "spherical aberration",
+   "D": "Fuchs phenomena"
+  },
+  "markedAnswer": "A",
+  "explanation": "Temporal (pseudophakic) dysphotopsias are described as a subjective distortion in the temporal visual field that a patient only notices after cataract surgery. Positive dysphotopsias appear as haloes, starbursts, flashes, or streaks of light while negative dysphotopsias are perceived as a shadow. Typically, negative dysphotopsias are more difficult for patients to tolerate.  These pseudophakic dysphotopsias may be more common with IOLs with a square-edged design or those made from high-index materials. 122 The problem of pseudophakic dysphotopsias is relatively common with an incidence reported to be as high as 10-20% of cataract surgery patients.  Many of these patients become accustomed or adapt to these dysphotopsias, but there is a significant number that will require IOL exchange or some other intervention to make these dysphotopsias tolerable. Management of pseudophakic dysphotopsias typically begins with reassurance first.  Many patients with these symptoms will eventually neuroadapt to them given enough time.  It is important to validate these patients' symptoms and not dismiss them as \"being crazy\" since doing so will likely cause them to focus on their dysphotopsias even more.  If the complaint sounds like pseudophakic dysphotopsias, do NOT perform a YAG capsulotomy since this will make a later IOL exchange much harder.  If time does not solve the patient's complaints, then the following is typically recommended: If the dysphotopsias occur mainly at night (i.e. with a scotopic pupil), pupillary constriction with brimonidine or pilocarpine can be performed for several months. Have the patient wear spectacles with thicker frames. The idea is that the thicker frames of the glasses will coincide with areas of negative dysphotopsia.  The brain will \"accept\" these areas better since it knows that glasses are being worn. \"Reverse optic capture\".  The surgeon can move the optic of the offending lens above the anterior capsulorrhexis. Piggyback lens. Nasal anterior capsule removal with the YAG As a last resort, IOL exchange can be performed. If a high-index IOL was used originally, it is probably wise to insert a lower-index IOL with a rounded edge instead (e.g. many of the silicone IOLs). Some ways that many surgeons suggest to PREVENT these dysphotopsias include: Using a lower index lens with a rounded edge design. Ensuring the capsulorhexis rim overlaps the lens edge. Make sure the IOL is well-centered within the capsular bag. Orient the optic-haptic junctions horizontally (i.e. at 3 and 9 o'clock)",
+  "imageUrl": "/images/lens-cataract-oq/p122_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 166,
+  "question": "How much time after cataract surgery is the peak incidence of cystoid macular edema?",
+  "options": {
+   "A": "1-2 weeks",
+   "B": "2-4 weeks",
+   "C": "6-10 weeks",
+   "D": "10-14 weeks"
+  },
+  "markedAnswer": "C",
+  "explanation": "123 Explanation: Clinically significant cystoid macular edema is defined as CME that reduces vision to 20/40 or worse. Its peak incidence occurs 6-10 weeks after cataract surgery. 95% of cases resolve spontaneously. Topical NSAIDS and steroids together speed resolution faster than either alone.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 167,
+  "question": "How long after complicated cataract surgery with dropped nuclear lens material into the vitreous can you wait to remove the pieces without increasing the risk of CME?",
+  "options": {
+   "A": "1 day",
+   "B": "3 days",
+   "C": "3 weeks",
+   "D": "3 months"
+  },
+  "markedAnswer": "C",
+  "explanation": "Small amounts of retained cortical material can be tolerated inside the eye. The body will resorb the material. It can be left inside the eye as long as inflammation is controlled with steroids and the intraocular pressure can be controlled. Nuclear fragments should be removed as they generally will not resorb. You can leave them inside the eye up to 3 weeks before vitrectomy. Periods after this time increase the risk of developing cystoid macular edema.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 168,
+  "question": "What is the name of this syndrome?",
+  "options": {
+   "A": "Fuchs circumferential corneal edema",
+   "B": "Brown-McLean syndrome",
+   "C": "Hogathy syndrome",
+   "D": "Showarts syndrome"
+  },
+  "markedAnswer": "B",
+  "explanation": "The question describes the syndrome. The central cornea remains clear and peripheral cornea circumferentially becomes edematous starting inferiorly. It generally occurs 6 to 16 years following intracapsular cataract surgery but has been reported in extracapsular and phaco cataract surgeries and pars plana vitrectomies. Rarely it can occur in eyes with 124 angle closure glaucoma or in eyes without pathology. Central corneal guttata are frequently seen. There is also generally a punctate orange-brown pigmentation on the endothelium underlying the edematous corneal area. Answer choices A, C, and D are factitious.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 169,
+  "question": "Which of the following is true regarding this condition?",
+  "options": {
+   "A": "The edema typically begins approximately 3-6 months after intraocular surgery",
+   "B": "This condition can be caused by mutations in ZEB1, SLC4A11, or LOXHD1 in some individuals",
+   "C": "There is typically adjacent corneal vascularization toward the areas of peripheral corneal edema",
+   "D": "The edema typically starts inferiorly and progresses circumferentially"
+  },
+  "markedAnswer": "D",
+  "explanation": "This clinical vignette is alluding to the rare entity of Brown-McLean syndrome which was originally reported as \"peripheral corneal edema after cataract extraction\" in 1969. The cornea edema associated with this syndrome typically begins several years following surgery and is characterized by the following traits: Affects only the peripheral 2-3 mm of the cornea. The central cornea is spared and thus vision is typically unaffected from the peripheral edema. The peripheral edema typically starts inferiorly and later extends circumferentially. Punctate brownish pigmentation and localized guttae are sometimes found on the endothelium underlying the edema. There is no neovascularization of the affected cornea. Commonly associated with long-term aphakia, though it has been reported after routine cataract surgery as well. No known etiology has been found. The majority of patients with Brown-McLean syndrome are asymptomatic, although some may complain of mild foreign body sensation or pain from ruputured bullae.  It is very rare for the edema to involve the central cornea. 125 Answer choice \"B\" is referring to some of the genes in which mutations have been shown to cause Fuchs corneal dystrophy.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 170,
+  "question": "Which of the following would be highest on your differential diagnosis?",
+  "options": {
+   "A": "uveitis secondary to unknown underlying autoimmune condition",
+   "B": "P. Acnes infection",
+   "C": "T-cell lymphoma",
+   "D": "retained cortical material"
+  },
+  "markedAnswer": "B",
+  "explanation": "This is a chronic infection (occurring 6 weeks after surgery) with P. Acnes. These patients typically respond to topical steroids and have the appearance of posterior capsular opacity. Cultures and intravitreal antibiotics are indicated. If this does not cure the situation, vitrectomy with partial capsular bag removal. Some patients require their entire capsular bag and IOL to be removed. Most intraocular lymphomas are B cell (T cell is rare). Cortical material usually reabsorbs within a month.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 171,
+  "question": "A patient presents to your clinic with a history of uncomplicated cataract surgery 5 years ago in the right eye.  He states that he experienced sudden worsening of vision over the past day in this eye.  His slit-lamp exam is significant for the finding seen in the above photo.  Which of the following conditions increases the risk of this condition occurring after cataract surgery?",
+  "options": {
+   "A": "high hyperopia",
+   "B": "previous strabismus surgery",
+   "C": "Usher syndrome",
+   "D": "Posterior polymorphous dorneal dystrophy (PPMD)"
+  },
+  "markedAnswer": "C",
+  "explanation": "126 Explanation: The slit lamp exam photo shows an anteriorly dislocated intraocular lens (IOL).  Lens dislocation can occur soon after cataract surgery (generally secondary to poor IOL fixation) or months-to-years after surgery (generally secondary to zonular weakness). Multiple conditions have been associated with weakened zonules, including: pseudoexfoliation history of prior vitreoretinal surgery history of trauma high myopia connective tissue disorders (e.g. Marfan’s, homocystinuria, hyperlysinemia, Ehler-Danlos, scleroderma, and Weil-Marchesani) uveitis retinitis pigmentosa (RP) Usher syndrome is the common name given to the association of RP with congenital sensorineural hearing loss.  Usher syndrome is the most common form of syndromic RP followed by Bardet-Biedl syndrome which is characterized by polydactyly, obesity, kidney problems, and intellectual disability.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 172,
+  "question": "You are called by your ophthalmology friend in another state about one of his patients. He states that he performed cataract surgery on a patient and 9 months later she still has low pressures. You tell him that this is categorized as late hypotony and that all are some potential causes EXCEPT:",
+  "options": {
+   "A": "retinal detachment",
+   "B": "cyclodialysis",
+   "C": "misplaced IOL",
+   "D": "filtering bleb formation"
+  },
+  "markedAnswer": "C",
+  "explanation": "A tear in the neurosensory retina allows liquified vitreous to be exposed to the RPE. The RPE then removes this fluid from the eye and reduces the pressure. A cyclodialysis cleft also allows fluid into the suprachoroidal space with reduction in IOP. Misplaced IOLs generally cause inflammation and higher pressures in the long run. Done by: Yumna Kamal Good luck.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ }
+]

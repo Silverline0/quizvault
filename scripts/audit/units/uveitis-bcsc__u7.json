@@ -1,0 +1,392 @@
+[
+ {
+  "id": 425,
+  "question": "In what part of the eye does endogenous fungal endophthalmitis typically begin?",
+  "options": {
+   "A": "vitreous",
+   "B": "retina",
+   "C": "anterior chamber",
+   "D": "choroid"
+  },
+  "markedAnswer": "D",
+  "explanation": "The infection usually begins in the choroid, appearing as yellow-white lesions with indistinct borders that range in size from small cotton-wool spots to several disc diameters. It can subsequently break through into the vitreous, producing localized cellular and fungal aggregates overlying the original site. Iris nodules and rubeosis may also be observed in cases of severe fungal endophthalmitis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 426,
+  "question": "A patient has parotitis, fever, facial nerve palsy, and uveitis. What disease is the patient most likely to have?",
+  "options": {
+   "A": "systemic lupus erythematosus",
+   "B": "Behçet disease",
+   "C": "sarcoidosis",
+   "D": "myasthenia gravis"
+  },
+  "markedAnswer": "C",
+  "explanation": "Systemic sarcoidosis may present acutely, frequently with associated anterior uveitis in young patients. One form of acute sarcoidosis, called Löfgren syndrome, consists of erythema nodosum, febrile arthropathy, bilateral hilar adenopathy, and acute iritis and is quite responsive to systemic corticosteroids; it has a good long-term prognosis. Another, termed Heerfordt syndrome (uveoparotid fever), is characterized by uveitis, parotitis, fever, and facial nerve palsy. Chronic sarcoidosis presents insidiously and is characterized by persistent disease of more than 2 years’ duration, frequently with interpulmonary involvement and chronic uveitis. Extended corticosteroid therapy may be required. Pulmonary disease is the major cause of morbidity; overall mortality from sarcoidosis approaches 5% but may be as high as 10% with neurosarcoidosis. Systemic lupus, myasthenia gravis, and Behçet disease do not present with this clinical picture.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 427,
+  "question": "How do MHC class I molecules diﬀer structurally from MHC class II molecules?",
+  "options": {
+   "A": "Unlike MHC class II molecules, MHC class I molecules interact with CD4 T helper lymphocytes.",
+   "B": "Unlike the beta chains in MHC class II molecules, the beta chain in MHC class I molecules is not polymorphic.",
+   "C": "MHC class I molecules express receptors for the Fc portion of immunoglobulin E, whereas MHC class II molecules do not.",
+   "D": "MHC class I molecules are composed of variable alpha and beta subunits, whereas class II molecules are composed of constant alpha and beta subunits."
+  },
+  "markedAnswer": "B",
+  "explanation": "Both MHC class I and II molecules are heterodimers, being made up of alpha and beta chains. For both MHC class I and II molecules, the alpha subunits are encoded by the MHC gene. Additionally, the beta subunits for MHC class II molecules are also encoded by the MHC gene. The beta subunit for MHC class I molecules (speciﬁcally the beta-2 microglobulin subunit) is encoded by the beta-2 microglobulin gene and is not polymorphic (is constant across all MHC class I molecules).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 428,
+  "question": "When testing a patient with a suspected sarcoidosis, what invasive evaluation has the lowest yield (sensitivity) of conﬁrming a diagnosis?",
+  "options": {
+   "A": "biopsy of a pulmonary nodule",
+   "B": "biopsy of skin granuloma",
+   "C": "bronchoalveolar lavage",
+   "D": "biopsy of normal-appearing conjunctiva"
+  },
+  "markedAnswer": "D",
+  "explanation": "The most sensitive tests for detecting sarcoidosis are biopsy of a clinically apparent granuloma and computed tomography (CT) of the chest. However, biopsy of normal-appearing conjunctiva is very low yield. In patients with suggestive chest imaging, bronchoalveolar lavage, and biopsy can be diagnostic, with a sensitivity approaching 90% for ultrasound-guided biopsy of pulmonary granulomas. Gallium scans may increase the sensitivity over plain chest radiography, but interpretation usually requires other conﬁrmatory tests. valganciclovir.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 429,
+  "question": "What oral therapy is preferred for treatment of cytomegalovirus (CMV)-associated retinitis?",
+  "options": {
+   "A": "valganciclovir",
+   "B": "ganciclovir",
+   "C": "valacyclovir",
+   "D": "cidofovir"
+  },
+  "markedAnswer": "A",
+  "explanation": "A vitreous tap does not identify an etiology, and an intravitreal injection of 1 mg of vancomycin does not resolve the inﬂammation. What intervention is recommended? ! \" # ganciclovir Oral valganciclovir (900 mg twice daily for 3 weeks for induction, followed by once daily for 3-6 months) or intravenous ganciclovir (5 mg/kg twice daily for 2 weeks, followed by maintenance oral therapy), along with initiation of potent combination antiretroviral therapy, are the mainstays of treatment for CMV retinitis. Foscarnet (intravenous or intravitreal) can also be used. Acyclovir (or valacyclovir) is not used in the treatment of CMV retinitis. Cidofovir does have anti-CMV activity, but this agent is not used orally. intravitreal injection of 2 mg of triamcinolone A. 4% removal of lens and capsular bag with repeated antibiotic injection B. 67%.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 430,
+  "question": "A patient presents with chronic intraocular inﬂammation 4 months after uncomplicated cataract surgery with intraocular lens implantation. The patient had no inﬂammation prior to surgery. Examination discloses keratic precipitates, 1+ anterior chamber and 1+ vitreous cell. A vitreous tap does not identify an etiology, and an intravitreal injection of 1 mg of vancomycin does not resolve the inﬂammation. What intervention is recommended? ganciclovir B. 26 Your Answer valacyclovir C.",
+  "options": {
+   "A": "intravitreal injection of 2 mg of triamcinolone",
+   "B": "removal of lens and capsular bag with repeated antibiotic injection",
+   "C": "intravitreal voriconazole injection",
+   "D": "vitreous biopsy for ﬂow cytometry and histopathology"
+  },
+  "markedAnswer": "B",
+  "explanation": "Chronic postoperative endophthalmitis presents with recurrent bouts of indolent inﬂammation in an eye with previous history of ocular surgery, most commonly cataract surgery. Intravitreal corticosteroid injection should not be employed unless infectious endophthalmitis is ruled out. Chronic postoperative bacterial endophthalmitis is most commonly caused by Propionibacterium acnes (P acnes). Staphylococcus epidermis and Corynebacterium species can cause chronic postoperative endophthalmitis, too. P acnes may sequester itself between the intraocular lens (IOL) and the posterior capsule. This may present as whitish plaques. In such cases, intravitreal vancomycin is not curative; IOL explantation and complete capsulectomy, in addition to intravitreal vancomycin injection, should be performed. The specimens should be sent for stain, culture, and sensitivity.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 431,
+  "question": "A 52-year-old white woman presents with decreased vision. The fundoscopic examination image is shown. What treatment should be initiated?",
+  "options": {
+   "A": "intravitreal ganciclovir (2.0 mg/0.1 mL)",
+   "B": "isoniazid, rifampin, pyrazinamide, and ethambutol daily",
+   "C": "no treatment (most patients will retain good vision without it)",
+   "D": "systemic and/or local corticosteroids with early introduction of corticosteroid-sparing immunomodulatory therapy"
+  },
+  "markedAnswer": "D",
+  "explanation": "The fundus photos show birdshot retinochoroidopathy (vitiliginous chorioretinitis). This is a relatively uncommon disease that is classically found in white women of northern European descent, 40 years and older. There is no known systemic association with this disease. Birdshot retinochoroidopathy has a high correlation with the HLA-A29 BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 432,
+  "question": "One day ago, a patient developed a vesicular rash in the V dermatome. His primary care doctor started him on acyclovir and referred him for ophthalmologic examination. He does not have uveitis, and his ocular examination is unremarkable. What should the ophthalmologist do next?",
+  "options": {
+   "A": "Tell the primary care doctor and patient that there is no iritis, but uveitis may develop over weeks and follow-up will be arranged.",
+   "B": "Tell the primary care doctor that there is no iritis and acyclovir will prevent the development of uveitis.",
+   "C": "Tell the primary care doctor that there is no iritis and oral steroids should be used to prevent post- herpetic neuralgia.",
+   "D": "Tell the primary care doctor and patient that there is no iritis and acyclovir may be stopped."
+  },
+  "markedAnswer": "A",
+  "explanation": "The vesicular rash in the V dermatome is typical for that of shingles or varicella-zoster virus (VZV). The anterior uveitis (iritis) associated with herpes zoster in the V dermatome can be mild or severe, but may develop weeks after the onset of disease. It can be associated with decreased corneal sensation, diﬀuse keratic precipitates (sometimes stellate), iris atrophy, and increased intraocular pressure (due to trabeculitis; these are common ﬁndings in viral anterior uveitis), but all these ﬁndings may or may not be found. It may be very long-lasting, and if mild and chronic, respond to very low doses of topical corticosteroids. Anterior uveitis secondary to VZV may occur without skin lesions (known as varicella-zoster sine herpete). Acyclovir may decrease the rate of anterior uveitis, though not in all cases, even at appropriate doses given in a timely manner. The use of oral steroids is ineﬀective in preventing post-herpetic neuralgia. 1 1.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 433,
+  "question": "What is the noninfectious systemic disease most commonly associated with scleritis?",
+  "options": {
+   "A": "multiple sclerosis",
+   "B": "granulomatosis with polyangiitis (formerly, Wegener granulomatosis)",
+   "C": "systemic lupus erythematosus",
+   "D": "rheumatoid arthritis"
+  },
+  "markedAnswer": "D",
+  "explanation": "About 40% of scleritis cases are associated with systemic disease, most commonly rheumatoid arthritis. Granulomatosis with polyangiitis and systemic lupus erythematosus are also associated with scleritis, but much less frequently. Multiple sclerosis is associated with intermediate uveitis and pars planitis, not scleritis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 434,
+  "question": "A patient presents with 5 days of morning crusting, and yellow discharge. A clinical picture is shown here. Which cells are responsible for initiating the primary adaptive immunologic response in this patient?",
+  "options": {
+   "A": "Langerhans cells and macrophages",
+   "B": "helper T lymphocytes",
+   "C": "B lymphocytes",
+   "D": "cytotoxic T lymphocytes"
+  },
+  "markedAnswer": "A",
+  "explanation": "This is a classic presentation for infectious--likely viral--conjunctivitis. The conjunctiva contains 2 types of antigen-presenting cells: Langerhans cells and macrophages. In the initial adaptive immune response, these antigen-presenting cells take up cellular debris and viral antigens. These antigens are processed and presented to T lymphocytes through the MHC class II molecule. These presenting cells activate and initiate responses from lymphocytes in the preauricular and submandibular lymph nodes to incite an immune response. Cytotoxic T lymphocytes are a subset of T lymphocytes that specialize in killing cells by either lysing infected cells or inducing apoptosis. These cells migrate from lymph nodes to the target tissue, where they BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": true,
+  "figureMissing": true
+ },
+ {
+  "id": 435,
+  "question": "Detection of what antibody is most commonly associated with systemic granulomatosis with polyangiitis?",
+  "options": {
+   "A": "anti–double-stranded DNA",
+   "B": "anti-U1 ribonucleoprotein",
+   "C": "anti-proteinase 3",
+   "D": "anti-extractable nuclear antigen (anti- ENA)"
+  },
+  "markedAnswer": "C",
+  "explanation": "The antibody most commonly associated with systemic granulomatosis with polyangiitis (GPA) is the antineutrophil cytoplasmic antibody (ANCA) anti-proteinase 3, also known as c-ANCA. Ribonucleoproteins are frequently encountered in mixed connective tissue diseases and Sjögren syndrome (SS). In SS, the anti- ribonucleoproteins include anti-SSA and anti-SSB. Anti-dsDNA antibodies can be found in systemic lupus erythematosus. The anti- ENAs are also associated with mixed connective tissue diseases.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 436,
+  "question": "What intervention is required in a patient with HIV infection and active ocular toxoplasmosis, but not required in an immunocompetent patient in the absence of symptoms?",
+  "options": {
+   "A": "use of corticosteroids",
+   "B": "neuroimaging",
+   "C": "lumbar puncture",
+   "D": "echocardiography to evaluate for myocarditis"
+  },
+  "markedAnswer": "B",
+  "explanation": "Ocular toxoplasmosis in immunocompromised patients may be associated with cerebral or disseminated toxoplasmosis, an important cause of morbidity and mortality in patients with AIDS. For HIV- infected patients with active ocular toxoplasmosis, computed tomography (CT) or magnetic resonance imaging (MRI) of the head, in addition to consultation with specialists in infectious diseases should be pursued to rule out central nervous system (CNS) involvement. In patients with AIDS, corticosteroids should be used with caution and only in the presence of appropriate antimicrobial cover, due to the risk of further immunosuppression in this population. Toxoplasmosis is the most frequent nonviral cause of myocarditis in patients with AIDS. Evaluation of the heart can be performed as needed, as can lumbar puncture.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 437,
+  "question": "What is the most common side eﬀect of mycophenolate mofetil?",
+  "options": {
+   "A": "hirsutism",
+   "B": "renal insuﬃciency",
+   "C": "gastrointestinal upset",
+   "D": "headache"
+  },
+  "markedAnswer": "C",
+  "explanation": "Gastrointestinal upset is the most common side eﬀect of mycophenolate mofetil. Renal insuﬃciency is a side eﬀect of cyclosporine and tacrolimus. Hirsutism is a side eﬀect of cyclosporine. Headache is a nonspeciﬁc side eﬀect.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 438,
+  "question": "A patient presents with anterior scleritis as shown, weight loss, and a cough. What additional ﬁndings would be most speciﬁc for the diagnosis of granulomatosis with polyangiitis (formerly Wegener granulomatosis)?",
+  "options": {
+   "A": "antinuclear antibody (ANA)",
+   "B": "elevated erythrocyte sedimentation rate (ESR)",
+   "C": "granulomatous inﬂammation of the lungs on chest radiograph",
+   "D": "C-ANCA antibody (anti-proteinase 3 antibody)"
+  },
+  "markedAnswer": "D",
+  "explanation": "The presence of C-ANCA antibodies in the serum is most speciﬁc for granulomatosis with polyangiitis. Granulomatous inﬂammation of the lung parenchyma is also supportive, but this may also be found in many infectious and inﬂammatory diseases. The ESR is a nonspeciﬁc marker of inﬂammation and can be used to follow the activity of systemic inﬂammatory diseases; however, it is not speciﬁc for any certain cause of inﬂammation. ANAs can be found in several other autoimmune disorders, such as lupus, but are also not speciﬁc for granulomatosis with polyangiitis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 439,
+  "question": "A previously healthy 47-year-old patient presents with unilateral decreased vision of 20/80 and grade 3+ cell and ﬂare. What additional evaluation must be performed before a diagnosis of anterior uveitis is established?",
+  "options": {
+   "A": "HLA B27 test",
+   "B": "dilated fundus examination",
+   "C": "radiograph of sacroiliac joint",
+   "D": "review of systems"
+  },
+  "markedAnswer": "B",
+  "explanation": "Anterior uveitis is an anatomic classiﬁcation of uveitis that requires the exclusion of posterior segment inﬂammation; several vision-threatening causes of uveitis can be misdiagnosed if a dilated fundus examination is not performed. These include acute retinal necrosis, Toxoplasma retinochoroiditis, and endogenous endophthalmitis. The appearance of the anterior segment does not predict the presence or absence of posterior segment pathology, making dilated fundus exam necessary for any patient with intraocular inﬂammation of unknown cause. While review of systems and investigations such as radiographs of the sacroiliac (SI) joint and HLA B27 testing may be needed to establish the cause or systemic association of the uveitis, it is not useful in establishing the anatomical diagnosis of the uveitis or in diﬀerentiating between anterior, intermediate, posterior, and panuveitis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 440,
+  "question": "For a patient with uveitis complicated by glaucoma, what glaucoma surgery has the highest likelihood of increasing inﬂammation in the perioperative period?",
+  "options": {
+   "A": "endoscopic laser cyclophotocoagulation",
+   "B": "pars plana vitrectomy and pars plana tube shunt placement",
+   "C": "trabeculectomy",
+   "D": "placement of a non-valved tube shunt in the anterior chamber"
+  },
+  "markedAnswer": "A",
+  "explanation": "Any intraocular procedure can be associated with increased inﬂammation, especially in eyes with uveitis or an otherwise altered blood-ocular barrier. However, cyclodestructive procedures such as cyclophotocoagulation have a higher risk of worsening inﬂammation and leading to hypotony and phthisis bulbi. human leukocyte antigen (HLA)-B27- associated uveitis A. 0% sarcoid uveitis B. 0% phacolytic uveitis C. 93% Correct Answer chronic juvenile rheumatoid arthritis- associated uveitis D. 2% Explanation & Notes Discussion BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 441,
+  "question": "Under what condition would cataract surgery be appropriate in a patient with active uveitis?",
+  "options": {
+   "A": "human leukocyte antigen (HLA)-B27- associated uveitis",
+   "B": "sarcoid uveitis",
+   "C": "phacolytic uveitis",
+   "D": "chronic juvenile rheumatoid arthritis- associated uveitis"
+  },
+  "markedAnswer": "C",
+  "explanation": "Phacolytic uveitis refers to high-molecular weight lens proteins leaking out of the capsule into the anterior chamber, thereby inciting reactive inﬂammation. This inﬂammation can be associated with elevated intraocular pressure, and, notably, there is a lack of keratic precipitates. Cataract extraction is the deﬁnitive treatment for this condition. If a cataract is associated with the other conditions listed, the cause may be either active or poorly controlled inﬂammation or exposure to topical, periocular, intraocular, and, less often, systemic corticosteroids. In the setting of these types of noninfectious uveitides, cataract surgery is typically performed when the inﬂammation has been quiet for at least 3 months.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 442,
+  "question": "What uveitis treatment is contraindicated in patients with uveitis associated with multiple sclerosis?",
+  "options": {
+   "A": "intravenous corticosteroids",
+   "B": "cycloplegics",
+   "C": "intravitreal corticosteroids",
+   "D": "tumor necrosis factor-alpha (TNF-α) inhibitors"
+  },
+  "markedAnswer": "D",
+  "explanation": "Up to 30% of multiple sclerosis patients will have evidence of uveitis, and up to 15% of patients with pars planitis will develop multiple sclerosis. TNF-α inhibitors such as etanercept and inﬂiximab are associated with exacerbations of central nervous system demyelination and are therefore contraindicated in patients with demyelinating disorders such as multiple sclerosis. Intravenous and intravitreal corticosteroids and topical cycloplegics are frequently used in the treatment of multiple sclerosis-associated uveitis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 443,
+  "question": "A 54-year-old white woman presents with ﬂoaters, photopsia, and nyctalopia of several months' duration. On examination, visual acuity is 20/20 in both eyes, and there are bilateral hypopigmented choroidal lesions and mild vitritis. What blood test is most consistent with the diagnosis?",
+  "options": {
+   "A": "HLA-A29",
+   "B": "HLA-B51",
+   "C": "HLA-B27",
+   "D": "HLA-DR14"
+  },
+  "markedAnswer": "A",
+  "explanation": "HLA-A29 is associated with birdshot chorioretinopathy in more than 95% of cases, and has a sensitivity of 96% and speciﬁcity of 93%. Symptoms include ﬂoaters, photopsias, nyctalopia, and decreased contrast sensitivity. The clinical features are characterized by yellow choroidal lesions, vasculitis, and mild vitritis. When the clinical features are suggestive of birdshot, HLA-A29 testing is warranted and, if results are negative, should prompt consideration of another possible etiology or diagnosis. Approximately 7% of the general population will be HLA- A29 positive. The presence of HLA-B27 is typically evaluated when a patient presents with noninfectious recurrent anterior nongranulomatous uveitis or anterior uveitis that is characterized by hypopyon. The patient will classically be someone with symptoms of a seronegative spondyloarthropathy (ankylosing spondylitis, psoriatic arthritis, reactive arthritis, or inﬂammatory bowel disease). HLA-DR14 has been associated with some cases of tubulointerstitial nephritis and uveitis (TINU) syndrome. HLA-B51 is associated with some cases of Behçet disease, especially when there is ocular involvement in Behçet disease.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 444,
+  "question": "What is the deﬁnitive treatment for a patient with phacoantigenic uveitis? HLA-B27 C.",
+  "options": {
+   "A": "oral prednisone",
+   "B": "topical prednisolone acetate drops given hourly",
+   "C": "cataract surgery",
+   "D": "oral methotrexate following baseline hepatic function tests"
+  },
+  "markedAnswer": "C",
+  "explanation": "An immune reaction to lens material may result in ocular inﬂammatory disease. This reaction may follow disruption of the lens capsule (traumatic or surgical), termed phacoantigenic uveitis, or leakage of lens protein through the intact lens capsule in mature or hypermature cataracts, termed phacolytic uveitis. While antiinﬂammatory medications may be used to reduce inﬂammation, the deﬁnitive treatment is to remove the inciting lens material. adequate view of the posterior segment . On gonioscopy, a pigmented mass is seen in the angle from 10 to 1 o'clock. What is the next step? ! \" # 91% of respondents answered correctly. Explanation & Notes Discussion BCSC Excerpt % A. 91% A. 91% B. 0% B. 0% C. 5% C. 5% D. 0% D. 0% Obtain a B-scan. A. 91%.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 445,
+  "question": "A patient with a long history of anterior uveitis wishes to have cataract surgery. What is a prerequisite for any elective intraocular surgery in uveitic eyes?",
+  "options": {
+   "A": "adequate view of the posterior segment",
+   "B": "treatment with immunomodulatory therapy (IMT)",
+   "C": "vision of 20/80 or worse",
+   "D": "control of inﬂammation for 3 months"
+  },
+  "markedAnswer": "D",
+  "explanation": "Any eye with chronic or recurrent uveitis may develop a cataract as a result of the inﬂammation or the corticosteroids used for treatment. Indications for cataract surgery in uveitic eyes are the same as for all cataracts: when the cataract causes functional impairment that interferes with activities of daily living; when the cataract is responsible for at least a portion of that visual decrease; and when functional improvement is likely to occur after cataract extraction. There is no prerequisite visual acuity. Additional considerations for cataract surgery in uveitic eyes are whether a cataract precludes the clinician from obtaining an adequate view of the fundus—thereby inhibiting appropriate monitoring of posterior segment disease or health. An adequate view of the posterior segment is therefore not a requirement. Uveitic eyes are at greater risk for postoperative complications than nonuveitic eyes. Thus, careful planning for surgery, including preoperative medical management and the timing of the procedure, is of utmost importance. The key to a successful visual outcome is meticulous long-term control of inﬂammation before proceeding with surgery. This may require immunomodulatory therapy in some patients, but is not a required treatment before cataract surgery. Common advice is to achieve the best control possible without ﬂare-ups for at least 3 months prior to cataract surgery.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 446,
+  "question": "What is a recommended therapy for Lyme disease?",
+  "options": {
+   "A": "doxycycline",
+   "B": "atovaquone",
+   "C": "Lyme toxoid vaccination",
+   "D": "amikacin"
+  },
+  "markedAnswer": "A",
+  "explanation": "Doxycycline, ceftriaxone, amoxicillin, and cefuroxime are recommended when antibiotic treatment of Lyme disease is necessary. There is currently no FDA-approved vaccine for Lyme disease in the United States. Atovaquone is an anti-parasitic drug that is not used for Lyme disease.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 447,
+  "question": "What congenital infection is most likely to manifest with intracranial calciﬁcations, chorioretinal scars, nystagmus, and optic atrophy?",
+  "options": {
+   "A": "lymphocytic choriomeningitis virus",
+   "B": "rubella",
+   "C": "cysticercosis",
+   "D": "West Nile virus"
+  },
+  "markedAnswer": "A",
+  "explanation": "Lymphocytic choriomeningitis virus (LCMV) is a single-stranded RNA virus of the Arenaviridae family; rodents are the natural hosts and reservoir. Transmission is thought to be airborne, from contamination of food by infected rodent excreta, or possibly from the bite of an infected animal. Symptomatic maternal illness occurs in approximately two-thirds of cases, with vertical transmission to the fetus occurring during episodes of maternal viremia. Systemic ﬁndings include macrocephaly, hydrocephalus, and intracranial calciﬁcations. Neurologic abnormalities, seizures, and mild cognitive impairment may be present. Ocular ﬁndings include macular and chorioretinal peripheral scarring, similar in morphology and distribution to that of congenital toxoplasmosis. Other ﬁndings include optic atrophy, strabismus, and nystagmus. Congenital rubella demonstrates cardiac malformations, chorioretinitis, cataracts, corneal clouding, microphthalmia, strabismus, glaucoma, and deafness. Cysticercosis may present with a leukocoric eye. When the brain is involved with cysticercosis, intracerebral calciﬁcations or hydrocephalus can be found. Cysticercosis is typically acquired from BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 448,
+  "question": "What feature is most consistent with uveitis in oligoarticular (also known as pauciarticular) juvenile idiopathic arthritis (JIA; formerly referred to as juvenile chronic arthritis and juvenile rheumatoid arthritis)?",
+  "options": {
+   "A": "intermediate uveitis with snow banking",
+   "B": "bilateral chronic anterior uveitis",
+   "C": "diﬀuse stellate keratoprecipitates",
+   "D": "chorioretinal scars"
+  },
+  "markedAnswer": "B",
+  "explanation": "Indolent, bilateral, chronic anterior uveitis, characterized by a low- grade anterior chamber cellular reaction, is the most common ocular manifestation of oligoarticular JIA. Other manifestations of JIA- associated, chronic anterior uveitis include ﬁne keratic precipitates, BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 449,
+  "question": "A patient with acute unilateral anterior uveitis presents with an intraocular pressure of 35 mm Hg three days into treatment with frequent topical steroids. Examination with a slit lamp demonstrates a deep anterior chamber, 3+ cell and 2 clock hours of posterior synechiae. What is the most likely cause of increased intraocular pressure?",
+  "options": {
+   "A": "aqueous humor hypersecretion",
+   "B": "trabeculitis",
+   "C": "relative pupillary block",
+   "D": "steroid response"
+  },
+  "markedAnswer": "B",
+  "explanation": "Elevated intraocular pressure in eyes with uveitis can result from several factors. In acute uveitis, intraocular pressure may be increased due to decreased aqueous outﬂow through inﬂamed trabecular meshwork, or through meshwork obstructed with inﬂammatory debris. Pupillary block glaucoma can result from circumferential posterior synechiae and seclusion of the pupil. Inﬂammation of the ciliary body can result in aqueous hyposecretion and result in hypotony or labile intraocular pressure when both the ciliary body and the trabecular meshwork are inﬂamed. Steroid-response glaucoma rarely occurs prior to 3 weeks of treatment, and clinicians should resist the urge to prematurely taper corticosteroids because of corticosteroid-induced ocular hypertension.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 450,
+  "question": "What would be the most helpful thing to do on his visit today to help yield a diagnosis?",
+  "options": {
+   "A": "carotid dopplers",
+   "B": "refer to cardiology for a Holter monitor",
+   "C": "automated visual ﬁeld",
+   "D": "gonioscopy"
+  },
+  "markedAnswer": "D",
+  "explanation": "Whenever a patient complains of vision loss in 1 eye only, it is imperative to know whether the visual loss involves the right eye or the right ﬁeld of vision. Unless a patient has covered each eye alternately, they cannot know this. In this question, the patient was reliable and had conﬁrmed the vision loss was only in 1 eye. The second issue is the nature of the vision loss. Amaurosis fugax is characterized by temporary loss of all sight in the eye (a \"blackout\"). However, this patient describes a \"white out,\" which is more characteristic of a transient obscuring of the ocular media, especially considering the long duration of the vision loss and the slow recovery over 1-2 hours. In any patient with symptoms suggestive of transient obscuring of the ocular media, who is also pseudophakic, uveitis-glaucoma-hyphema (UGH) syndrome should be considered. In UGH syndrome, chaﬁng of the iris by the optic/bag complex or the haptics causes transient intraocular bleeds. Gonioscopy is the key to the diagnosis of UGH, especially after the vision has cleared. A small layer of hemorrhage in the inferior angle provides evidence of the transient bleed. Although originally described as a complication of iris chaﬁng by closed-loop anterior chamber intraocular lenses (IOLs), UGH syndrome is now more commonly seen with PCIOLs. Automated visual ﬁeld testing would be beneﬁcial if a homonymous defect were suspected, as opposed to loss of vision restricted to 1 eye. Likewise, referral to cardiology for a Holter monitor would be beneﬁcial if symptoms consistent with vertebro-basilar insuﬃciency were suspected; however, loss of vision restricted to 1 eye makes this less likely.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ }
+]

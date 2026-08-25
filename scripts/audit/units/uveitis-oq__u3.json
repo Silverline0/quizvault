@@ -1,0 +1,616 @@
+[
+ {
+  "id": 141,
+  "question": "This implant is injected directly into the vitreous cavity. For how long is this implant designed to release therapeutic levels of corticosteroids?",
+  "options": {
+   "A": "6 months",
+   "B": "12 Months",
+   "C": "24 Months",
+   "D": "36 Months"
+  },
+  "markedAnswer": "D",
+  "explanation": "YUTIQ is a sterile non-bioerodible intravitreal implant containing 0.18 mg of fluocinolone acetonide. It is designed to release fluocinolone acetonide at an initial rate of 0.25 mcg/day for approximately 36 months. YUTIO is preloaded into a single-dose applicator to facilitate iniection of the implant directly into the vitreous cavity. It is approved for the treatment of chronic non-infectious posterior uveitis. which situation might an intravitreal dexamethasone 0.7 mg implant be advised?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 142,
+  "question": "which situation might an intravitreal dexamethasone 0.7 mg implant be advised?",
+  "options": {
+   "A": "Cytomegalovirus retinitis",
+   "B": "Diabetic macular edema in an eye with severe glaucoma",
+   "C": "Birdshot chorioretinopathy",
+   "D": "HLA-B27 positive acute anterior uveitis"
+  },
+  "markedAnswer": "C",
+  "explanation": "The intravitreal dexamethasone implant is approved for non-infectious posterior or panuveitis, diabetic macular edema, and retinal edema secondary to retinal vein occlusions. It should not be used in an eye with severe glaucoma, particularly if there is a documented intraocular pressure elevation from steroids. Which of the following treatments is most likely to cause intraocular pressure elevation after six months?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 143,
+  "question": "Which of the following treatments is most likely to cause intraocular pressure elevation after six months?",
+  "options": {
+   "A": "Intravitreal triamcinolone",
+   "B": "Intravitreal dexamethosone 0.7 mg implant",
+   "C": "Intravitreal fluocinolone acetonide 0.18 mg implant",
+   "D": "Sub-Tenon's triamcinolone"
+  },
+  "markedAnswer": "C",
+  "explanation": "Which of the following causes of ocular inflammation is a posterior sub-Tenon's injection of corticosteroid absolutely contraindicated?",
+  "imageUrl": "/images/uveitis-oq/p147_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 144,
+  "question": "Which of the following causes of ocular inflammation is a posterior sub-Tenon's injection of corticosteroid absolutely contraindicated?",
+  "options": {
+   "A": "sarcoidosis",
+   "B": "toxoplasmosis",
+   "C": "HLA-B27 related uveitis",
+   "D": "Beheet's disease"
+  },
+  "markedAnswer": "B",
+  "explanation": "Sub-Tenon's iniection of corticosteroids should NEVER be given in cases of infectious uveitis, like toxoplasmosis, or in patients with necrotizing scleritis. Which quadrant of the eye is a sub-Tenon's iniection of corticosteroid classically placed?",
+  "imageUrl": "/images/uveitis-oq/p147_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 145,
+  "question": "Which quadrant of the eye is a sub-Tenon's iniection of corticosteroid classically placed?",
+  "options": {
+   "A": "inferonasal",
+   "B": "superonasal",
+   "C": "inferotemporal",
+   "D": "superotemporal"
+  },
+  "markedAnswer": "D",
+  "explanation": "A great way to remember this is that \"sub-Tenon's\" has the letters Sand T in it -- superotemporally. When performing a sub-Tenon's injection of triamcinolone, which of the following needle sizes is typically used?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 146,
+  "question": "When performing a sub-Tenon's injection of triamcinolone, which of the following needle sizes is typically used?",
+  "options": {
+   "A": "18-gauge, 5/8 inch",
+   "B": "23-gauge, 1/4 inch",
+   "C": "30-gauge, 1/4 inch",
+   "D": "25-gauge, 5/8 inch"
+  },
+  "markedAnswer": "D",
+  "explanation": "Periocular corticosteroids (e.g. sub-Tenon's injection) are typically given in cases of recalcitrant inflammation of more posterior structures (e.g. intermediate or posterior uveitic entities) or in cases of unresponsive cystoid macular edema. The most commonly used medication in the United States is probably triamcinolone acetonide (e.g. Kenalog®-40). Typically, a 25-gauge, 5/8-inch needle is used to administer this medication in the superotemporal quadrant. Since triamcinolone acetonide typically comes as a suspension, it cannot be administered easily with a needle smaller than a 27-gauge. Which of the following medications should be used to prevent the complication of Pneumocystis carini infection while taking alkylating immunosuppressive agents for chronic uveitis?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 147,
+  "question": "Which of the following medications should be used to prevent the complication of Pneumocystis carini infection while taking alkylating immunosuppressive agents for chronic uveitis?",
+  "options": {
+   "A": "clindamyein and pyrimethamine",
+   "B": "trimethoprim/sulfamethoxazole",
+   "C": "azithromycin",
+   "D": "itraconazole"
+  },
+  "markedAnswer": "B",
+  "explanation": "Other major systemic side effects when using alkylating agents include hemorrhagic cystitis (e.g. cyclophosphamide), sterility, and increased risk of malignancy (e.g. leukemia or lymphoma). A 45-year-old male presents with bilateral granulomatous anterior chamber inflammation. Which of the following would NOT associated with this presentation?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 148,
+  "question": "Which of the following would NOT associated with this presentation?",
+  "options": {
+   "A": "Toxoplasmosis",
+   "B": "Sarcoidosis",
+   "C": "Sympathetic Ophthalmia",
+   "D": "Pars planitis"
+  },
+  "markedAnswer": "D",
+  "explanation": "The term granulomatous inflammation can used to describe histologic or clinical features. In the latter, the term is used in association with large, round, brown keratic precipitates (KP) on the corneal endothelium which are often called \"mutton-fat\" KP. This manifestation of uveitis can present in a variety of systemic infectious or non-infectious inflammatory conditions including toxoplasmosis, syphilis, tuberculosis, sarcoidosis, sympathetic ophthalmia or Vogt-Koyanagi Harada syndrome. This presentation of inflammation is not characteristic of pars planitis. According to the Standardization of Uveitis Nomenclature (SUN) working group, what is the size of the maximum intensity light beam recommended to grade the intensity of anterior chamber cells and flare according to the number of inflammatory cells observed?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 149,
+  "question": "According to the Standardization of Uveitis Nomenclature (SUN) working group, what is the size of the maximum intensity light beam recommended to grade the intensity of anterior chamber cells and flare according to the number of inflammatory cells observed?",
+  "options": {
+   "A": "1-mm x 1-mm",
+   "B": "2-mmx 2-mm",
+   "C": "3-mmx 3-mm",
+   "D": "4-mm x 4-mm"
+  },
+  "markedAnswer": "A",
+  "explanation": "The Standardization of Uveitis Nomenclature (SUN) working group recommends grading the intensity of the cellular reaction in the anterior chamber according to the number of cells seen in a 1-mmx 1-mm high- powered beam at full intensity at a 45-60 degree angle in a dark room. According to the SUN (Standardization of Uveitis Nomenclature) group, which of the following best describes grade 1 anterior chamber cell when utilizing a 1 × 1 mm slit-lamp beam aimed at 45 degrees?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 150,
+  "question": "According to the SUN (Standardization of Uveitis Nomenclature) group, which of the following best describes grade 1 anterior chamber cell when utilizing a 1 × 1 mm slit-lamp beam aimed at 45 degrees?",
+  "options": {
+   "A": "6-15 cells in field",
+   "B": "faint",
+   "C": "1-5 cells in field",
+   "D": "moderate"
+  },
+  "markedAnswer": "A",
+  "explanation": "The number of inflammatory cells seen in a 1 x 1 mm high-powered beam aimed at a 45-60 degree angle determines the grade of anterior chamber inflammation by the SUN classification. Grade O is < 1 cells: grade 0.5+ is 1-5 cells; grade 1+ is 6-15 cells; grade 2+ is 16-25 cells; grade 3+ is 26-50 cells; and grade 4+ is >50 cells. The \"none\" \"faint\" \"moderate\" \"marked\" and \"intense\" descriptors are used to classify the level of anterior chamber flare per the SUN classification. According to the SUN (Standardization of Uveitis Nomenclature) classification system, \"iridocyclitis\" is defined by inflammation in which ocular locations?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 151,
+  "question": "According to the SUN (Standardization of Uveitis Nomenclature) classification system, \"iridocyclitis\" is defined by inflammation in which ocular locations?",
+  "options": {
+   "A": "anterior chamber + retrolental space",
+   "B": "anterior chamber only",
+   "C": "anterior chamber + cornea",
+   "D": "anterior chamber + vitreous"
+  },
+  "markedAnswer": "A",
+  "explanation": "\"Iridocyclitis\" is defined by anterior chamber inflammation which spills over into the retrolental space. \"Iritis\" is inflammation confined to the anterior chamber. \"Keratouveitis\" is when inflammation also involves the cornea. \"Sclerouveitis\" is when inflammation also involves the sclera. According to the Standardization of Uveitis Nomenclature (SUN) Working Group, what clinical course characterizes \"recurrent uveitis\"?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 152,
+  "question": "According to the Standardization of Uveitis Nomenclature (SUN) Working Group, what clinical course characterizes \"recurrent uveitis\"?",
+  "options": {
+   "A": "Repeated episodes of uveitis separated by periods of inactivity without treatment that last 3 months or longer",
+   "B": "Sudden onset of uveitis and limited duration that usually resolve within 3 months or less",
+   "C": "Persistent uveitis, with relapse occurring in less than 3 months after discontinuing treatment",
+   "D": "Repeated episodes of uveitis separated by periods of inactivity without treatment that last"
+  },
+  "markedAnswer": "A",
+  "explanation": "According to the Standardization of Uveitis Nomenclature (SUN) Working Group, uveitis may be subcategorized as acute, chronic, or recurrent. Acute uveitis - sudden onset of uveitis and limited duration that usually resolves within 3 months or less. Chronic uveitis- persistent uveitis, with relapse occurring in less than 3 months after discontinuing treatment. Recurrent uveitis- repeated episodes of uveitis separated by periods of inactivity without treatment that last 3 months or longer. A 35-year-old African American woman presents to your clinic with complaints of acute eye pain, decrease in vision, and redness in the right eye. Slit-lamp exam of this eye shows nodules on the iris border, mid-iris, and also in the iris angle. There are diffuse mutton-fat keratic precipitates. What is the name given to the nodules located in the iris angle?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 153,
+  "question": "A 35-year-old African American woman presents to your clinic with complaints of acute eye pain, decrease in vision, and redness in the right eye. Slit-lamp exam of this eye shows nodules on the iris border, mid-iris, and also in the iris angle. There are diffuse mutton-fat keratic precipitates. What is the name given to the nodules located in the iris angle?",
+  "options": {
+   "A": "Koeppe nodules",
+   "B": "Busacca nodules",
+   "C": "Lisch nodules",
+   "D": "Berlin nodules"
+  },
+  "markedAnswer": "D",
+  "explanation": "A 35-year-old Asian Indian woman is referred to your office for treatment of her chronic uveitis caused by Vogt-Koyanagi-Harada (VKH) disease. She has failed corticosteroid therapy as well as other immunomodulatory medications. You are considering using chlorambucil to quiet her inflammation. However, the patient states that she also has \"some type of blood disorder.\" What blood disorder is associated with a > 13 times risk of developing leukemia if treated with chlorambucil?",
+  "imageUrl": "/images/uveitis-oq/p152_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 154,
+  "question": "A 35-year-old Asian Indian woman is referred to your office for treatment of her chronic uveitis caused by Vogt-Koyanagi-Harada (VKH) disease. She has failed corticosteroid therapy as well as other immunomodulatory medications. You are considering using chlorambucil to quiet her inflammation. However, the patient states that she also has \"some type of blood disorder.\" What blood disorder is associated with a > 13 times risk of developing leukemia if treated with chlorambucil?",
+  "options": {
+   "A": "hemophilia A",
+   "B": "sickle cell anemia",
+   "C": "polycythemia rubra vera",
+   "D": "idiopathic thrombocytopenic purpura"
+  },
+  "markedAnswer": "C",
+  "explanation": "Which of the following is an interleukin-1 (IL-1) receptor antagonist?",
+  "imageUrl": "/images/uveitis-oq/p153_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 155,
+  "question": "Leucovorin is used to reverse toxicity of which of the following immunosuppressive agents?",
+  "options": {
+   "A": "cyclosporine",
+   "B": "mycophenylate mophetil",
+   "C": "methotrexate",
+   "D": "azathioprine"
+  },
+  "markedAnswer": "C",
+  "explanation": "Which systemic medication is NOT associated with drug-induced uveitis?",
+  "imageUrl": "/images/uveitis-oq/p154_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 156,
+  "question": "Which of the following immunomodulating agents is closely related to cyclosporine but has a reduced side effect profile?",
+  "options": {
+   "A": "tacrolimus",
+   "B": "cyclophosphamide",
+   "C": "methotrexate",
+   "D": "azathioprine"
+  },
+  "markedAnswer": "A",
+  "explanation": "Both cvclosborine and tacrolimus are potent cvtokine blockers which inhibit the production of helper T-cells. Tacrolimus has shown equal efficacy for controlling chronic uveitis compared to cyclosporine, but with less risk of systemic hypertension. What are the two main potential side effects that the clinician should monitor for when treating a uveitis patient with cyclosporine?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 157,
+  "question": "What are the two main potential side effects that the clinician should monitor for when treating a uveitis patient with cyclosporine?",
+  "options": {
+   "A": "myelosuppression and hepatotoxicity",
+   "B": "gastrointestinal bleeding and gingival hyperplasia",
+   "C": "cardiomyopathy and pneumonitis",
+   "D": "systemic hypertension and nephrotoxicity"
+  },
+  "markedAnswer": "D",
+  "explanation": "One should monitor the patient's blood pressure. serum creatinine. and CBC monthly to monitor for the main side effects of hvpertension and kidney damage when using cyclosporine. What is the most common side effect of cyclophosphamide besides myelosuppression?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 158,
+  "question": "What is the most common side effect of cyclophosphamide besides myelosuppression?",
+  "options": {
+   "A": "bladder carcinoma",
+   "B": "sterility",
+   "C": "reversible alopecia",
+   "D": "hemorrhagic cystitis"
+  },
+  "markedAnswer": "D",
+  "explanation": "Although all of the answers listed are potential side effects of cyclophosphamide. hemorrhagic cystitis is the most common. Patients using this alkylating agent should drink copious amounts of water per day to prevent this complication. If microscopic hematuria occurs, the patient should be instructed to increase hydration. However if gross hematuria occurs, then the medication must be discontinued. Which of the following drugs has decreased absorption when combined with antacids?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 159,
+  "question": "Which of the following drugs has decreased absorption when combined with antacids?",
+  "options": {
+   "A": "Mycophenolate Mofetil",
+   "B": "Methotrexate",
+   "C": "Cyclophosphamide",
+   "D": "Azathioprine"
+  },
+  "markedAnswer": "A",
+  "explanation": "Most commerciallv available antacids are combinations of aluminum and magnesium hydroxide. These compounds can decrease the amount of mycophenolate the body absorbs. In addition. in order to be effective. mvcophenolate mofetil must be taken on an empty stomach (i.e. at least 1 hour before or 2 hours after a meal). Which of the following is a characteristic of the medication mycophenolate mofetil?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 160,
+  "question": "Which of the following is a characteristic of the medication mycophenolate mofetil?",
+  "options": {
+   "A": "It is contraindicated for use in patients under the age of 12 years old",
+   "B": "It is preferable that it is taken with food",
+   "C": "It does not affect B cell proliferation",
+   "D": "Less than 20% of patients experience adverse side effects with its use"
+  },
+  "markedAnswer": "D",
+  "explanation": "Mycophenylate Mofetil (brand name: CellCept) is a potent, selective, noncompetitive and reversible inhibitor of inosine monophosphate dehydrogenase. Therefore, it inhibits de novo purine synthesis. This results in selective inhibitory effects on rapidly-dividing cells, such as activated lymphocytes. Therefore, it is able to preferentially inhibit B-cell and T-cell proliferation. Additionally, it suppresses antibody formation and interferes with lymphocyte- vascular endothelial cell interactions. Mycophenylate mofetil is rapidly absorbed after oral administration, provided the drug is taken on an empty stomach. Patients are generally instructed to take this medication one hour prior to eating or two hours following a meal. Mycophenolate mofetil is a prodrug that is metabolized to the active compound mycophenolic acid. Studies have show that the maximum blood levels of mycophenolic acid following oral administration of mycophenolate mofetil can be reduced up to 40% if it is taken with food. If necessary, it can be taken with food, but it is preferable to be taken on an empty stomach. Less than 20% of patients receiving mycophenylate mofetil have adverse effects with gastrointestinal distress, diarrhea, and leukopenia being the most common. It is a very effective medication in pediatric patients and is considered a safe and effective alternative to methotrexate in patients with pediatric uveitis. Which of the following pre-existing conditions is an absolute contraindication to the initiation of systemic cyclosporine therapy?",
+  "imageUrl": "/images/uveitis-oq/p107_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 161,
+  "question": "Which of the following pre-existing conditions is an absolute contraindication to the initiation of systemic cyclosporine therapy?",
+  "options": {
+   "A": "Post-liver transplant",
+   "B": "Systemic Lupus Erythematosus",
+   "C": "Uncontrolled hypertension",
+   "D": "Chronic migraines"
+  },
+  "markedAnswer": "C",
+  "explanation": "Cyclosporine is a calcineurin inhibitor that eliminates T-cell receptor signal transduction and downregulates interleukin-2 gene transcription and receptor expression of CD4+ T lymphocytes. Cyclosporine is commonly used to prevent organ rejection in people who have received a liver, kidney, or heart transplant. Absolute contraindications to its use include previous history of drug hypersensitivity, breastfeeding, abnormal renal function, uncontrolled hypertension, and malignancies. Cyclosporine has been found to statistically significantly increase blood pressure compared to placebo in a dose-related fashion. The magnitude of increase in blood pressure is clinically significant, increasing the risk of stroke, myocardial infarction, heart failure, and other adverse cardiovascular events associated with uncontrolled hypertension. Infliximab is contraindicated in patients who have history drug hypersensitivity, systemic lupus erythematosus (SLE) and clinically significant active infection. Patients with moderate to severe congestive heart failure should not be given doses exceeding 5 mg/kg. In patients with occult tuberculosis (TB), treatment with infliximab may be possible with concurrent TB therapy. Treatment with infliximab may result in the development of antibodies to infliximab (decreasing its effectiveness) and/or auto-antibodies causing a lupus-like syndrome. Notably, combined therapy of infliximab with methotrexate has been found to be more effective than either medication alone in treating various systemic autoimmune conditions. In addition, concurrent use of methotrexate or azathioprine when initiating infliximab therapy may decrease the frequency of the development of antibodies to infliximab and autoantibodies that cause a lupus-like syndrome. However, instituting a medication that inhibits antibody production after anti-TNF-a induced antibody production occurs has not been definitively shown to be of benefit. Multiple reports have shown a significant exacerbation of lupus symptoms in patients with systemic lupus erythematosus (SLE) who were started on anti-TNF-a, regardless if therapy was combined with methotrexate or azathioprine. In addition, their have been reports of life-threatening or fatal events that may have been provoked by the use of anti-TNF-a medications in patients with lupus. The main approach in the treatment of anti-tumor necrosis factor-alpha induced lupus is withdrawal of the offending drug. Symptoms usually resolve within three weeks to six months after withdrawal of the implicated drug. In addition to discontinuing anti-TNF-a therapy, many patients require traditional therapy to achieve full resolution of their lupus symptoms. Most patients who develop SLE have a good prognosis after discontinuation of the causative agent. Normalization of autoantibodies and resolution of lupus symptoms occur when the offending drug is discontinued, and there is no recurrence thereafter. In some patients, corticosteroids and immunosuppressive agents might be required to achieve full recovery as described above. As the presence of systemic lupus erythematous is considered a contraindication to the use of anti- TNF-a therapy, it is not recommended to restart/continue the anti- TNF-a medication, even with concurrent use of immunosuppressive agents that act by inhibiting antibody production. In addition, there is limited evidence that supports the safety of re-challenging patients who developed lupus like syndrome with alternative anti-TNF-a agents. Intravenous immunoglobulin (IVIG) is contraindicated in patients who have a history of anaphylactic or severe systemic reaction to the administration of human immune globulin. Potential side effects of IVIG therapy are headache, flushing, chills, myalgia, wheezing, tachycardia, lower back pain, nausea and hypotension. Headaches and their more severe form, migraines, tend to be one of the more common side effects. Though a history of migraines is not contraindicated, patients with a history of migraine are more likely to develop worsening of migraine symptoms and even aseptic meningitis while receiving intravenous immunoglobulin therapy. You are seeing a 27-year-old female in your clinic who has a history of posterior uveitis and has been free of inflammation on daily cyclosporine for the past year. The patient tells you her neurologist is planning to start her on long-term therapy with phenytoin for treatment of a new seizure disorder. When phenytoin is combined with cyclosporine, what drug interaction is most likely to occur?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 162,
+  "question": "You are seeing a 27-year-old female in your clinic who has a history of posterior uveitis and has been free of inflammation on daily cyclosporine for the past year. The patient tells you her neurologist is planning to start her on long-term therapy with phenytoin for treatment of a new seizure disorder. When phenytoin is combined with cyclosporine, what drug interaction is most likely to occur?",
+  "options": {
+   "A": "cyclosporine is metabolized faster",
+   "B": "cyclosporine metabolized slower",
+   "C": "phenytoin is metabolized faster",
+   "D": "phenytoin is metabolized slower"
+  },
+  "markedAnswer": "A",
+  "explanation": "Cyclosporine is a substrate of a cytochrome P450 isozyme. Cytochrome P450 is a family of isozymes responsible for the biotransformation of many drugs. Drug interactions can result in drug toxicities, reduced pharmacological effect, and adverse reactions. Recognizing whether the drugs involved act as enzyme inducers, or inhibitors can prevent clinically significant interactions from occurring. Coadministration with a cytochrome P450 inducer, like phenytoin, can lead to a faster metabolism of cyclosporine and reduced effect. Conversely. coadministration with a cvtochrome P450 inhibitor can lead to a slower metabolism of cyclosporine causing unpredictable/elevated levels of cyclosporine and adverse/toxic effects. Notable Cytochrome P450 inducers include: o rifampicin o alcohol (chronic) o phenytoin o griseofulvin o phenobarbitone o sulphonylureas Notable Cytochrome P450 inhibitors include: o isoniazid o cimetidine o ketoconazole o fluconazole o alcohol (binge drinking) o chloramphenicol o erythromycin o sulfonamides o ciprofloxacin o omeprazole o metronidazole o grapefruit juice A 33-year-old woman, who is currently being treated with a steroid-sparing immunosuppressive medication for chronic autoimmune posterior uveitis, was admitted to the hospital with fever, arthralgias, myalgias, malar rash and oral ulcers. Her lab tests revealed a high serum level of antinuclear antibodies. Which of the following drugs was most likely the medication that was instituted in the therapeutic management of this patient's ocular inflammation?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 163,
+  "question": "A 33-year-old woman, who is currently being treated with a steroid-sparing immunosuppressive medication for chronic autoimmune posterior uveitis, was admitted to the hospital with fever, arthralgias, myalgias, malar rash and oral ulcers. Her lab tests revealed a high serum level of antinuclear antibodies. Which of the following drugs was most likely the medication that was instituted in the therapeutic management of this patient's ocular inflammation?",
+  "options": {
+   "A": "mycophenolate mofetil",
+   "B": "methotrexate",
+   "C": "cyclophosphamide",
+   "D": "infliximab"
+  },
+  "markedAnswer": "D",
+  "explanation": "Which agent has been shown to be effective in reducing the risk of drug-induced lupus syndrome when administered concomitantly in patients on Inflximab therapy?",
+  "imageUrl": "/images/uveitis-oq/p162_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 164,
+  "question": "Which agent has been shown to be effective in reducing the risk of drug-induced lupus syndrome when administered concomitantly in patients on Inflximab therapy?",
+  "options": {
+   "A": "mycophenolate mofetil",
+   "B": "methotrexate",
+   "C": "cyclophosphamide",
+   "D": "cyclosporine"
+  },
+  "markedAnswer": "B",
+  "explanation": "Which of the following is NOT an indication for concomitant use of methotrexate with an anti- TNF-alpha medication (e.g. infliximab, adalimumab)?",
+  "imageUrl": "/images/uveitis-oq/p163_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 165,
+  "question": "Which of the following is NOT an indication for concomitant use of methotrexate with an anti- TNF-alpha medication (e.g. infliximab, adalimumab)?",
+  "options": {
+   "A": "Reduce recurrences of varicella zoster virus associated anterior uveitis.",
+   "B": "Reduce risk of development of antibodies to the anti-TNF-alpha medication.",
+   "C": "Reduce risk of drug-induced lupus from the anti-TNF-alpha medication",
+   "D": "Increased treatment efficacy with use of both types of medications"
+  },
+  "markedAnswer": "A",
+  "explanation": "There are a number of benefits achieved by combining the anti-metabolite methotrexate with the biologic anti-tumor necrosis factor agents, infliximab or adalimumab. While each of these can be used independently, the synergism achieved by utilizing different mechanisms of action can increase efficacy of inflammation control. Additional benefits include reduced risk of lupus-like reactions and reduced development of antibodies to the anti-TNF medications.This combination of medications would suppress the immune system allowing for increased reactivation of latent viruses including HIV, hepatitis, and varicella zoster virus. You are treating a patient with Behcet disease with an immunomodulatory agent. After 1 year of therapy, the patient begins to develop increasing fatigue, joint pain, and pleuritis. On further laboratory workup, the patient is now ANA positive even though he did not have these autoantibodies at the beginning of therapy. Which of the following immunomodulatory agents was most likely used?",
+  "imageUrl": "/images/uveitis-oq/p163_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 166,
+  "question": "You are treating a patient with Behcet disease with an immunomodulatory agent. After 1 year of therapy, the patient begins to develop increasing fatigue, joint pain, and pleuritis. On further laboratory workup, the patient is now ANA positive even though he did not have these autoantibodies at the beginning of therapy. Which of the following immunomodulatory agents was most likely used?",
+  "options": {
+   "A": "infliximab",
+   "B": "methotrexate",
+   "C": "etanercept",
+   "D": "chlorambucil"
+  },
+  "markedAnswer": "A",
+  "explanation": "Most patients cannot continue using infliximab for extended periods of time due to the side effects of drug-induced lupus (as in this case), vascular thromboses, and congestive heart failure. A low dose of methotrexate may be used to prevent the development of drug-induced lupus. Which one of the medications is NOT associated with drug-induced uveitis?",
+  "imageUrl": "/images/uveitis-oq/p164_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 167,
+  "question": "Which one of the medications is NOT associated with drug-induced uveitis?",
+  "options": {
+   "A": "Rifabutin",
+   "B": "Metipranolol",
+   "C": "Sulfonamides",
+   "D": "Levothyroxine"
+  },
+  "markedAnswer": "D",
+  "explanation": "In which of the following scenarios would systemic immunosuppressive therapy NOT be indicated?",
+  "imageUrl": "/images/uveitis-oq/p164_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 168,
+  "question": "In which of the following scenarios would systemic immunosuppressive therapy NOT be indicated?",
+  "options": {
+   "A": "50-year-old female with birdshot chorioretinopathy requiring 20 mg of oral prednisone daily",
+   "B": "10-year-old male with juvenile idiopathic arthritis associated bilateral chronic anterior uveitis",
+   "C": "40-year-old female with unilateral, recurrent herpes simplex virus-1 associated anterior uveitis",
+   "D": "25-year-old male with bilateral intermediate uveitis and cystoid macular edema"
+  },
+  "markedAnswer": "C",
+  "explanation": "Systemic immunosuppressive therapy can be indicated in a variety of non-infectious uveitic conditions in adults or children. Patients requiring long-term high dose systemic corticosteroids (greater than 7.5 mg daily for more than three months), those associated with systemic inflammatory disease, or ones with secondary structural complications such as uveitic macular edema should be considered for steroid-sparing immune suppressive therapy. Such therapy should not be used in infectious uveitis. Above which dose of chronic oral corticosteroid, should consideration be given for initiation of systemic treatment of chronic uveitis (e.g. >3 months duration) with steroid sparing immunomodulatory therapy?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 169,
+  "question": "Above which dose of chronic oral corticosteroid, should consideration be given for initiation of systemic treatment of chronic uveitis (e.g. >3 months duration) with steroid sparing immunomodulatory therapy?",
+  "options": {
+   "A": "10 mg",
+   "B": "20 mg",
+   "C": "30 mg",
+   "D": "40 mg"
+  },
+  "markedAnswer": "A",
+  "explanation": "According to the BCSC, if doses greater than 5-10 mg/day of systemic corticosteroid therapy for more than three months are required to control chronic uveitis, a corticosteroid-sparing immunomodulatory agent should be used. Which of the following topical anti-inflammatory medications has the LEAST potential for producing a rise in intraocular pressure (IOP)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 170,
+  "question": "Which of the following topical anti-inflammatory medications has the LEAST potential for producing a rise in intraocular pressure (IOP)?",
+  "options": {
+   "A": "prednisolone acetate 1%",
+   "B": "bromfenac 0.07%",
+   "C": "dexamethasone phosphate 0.1%",
+   "D": "prednisolone sodium phosphate 1%"
+  },
+  "markedAnswer": "B",
+  "explanation": "Steroidal and non-steroidal anti-inflamatory drugs (NSAID are candidates to reduce ocular inflammation. Bromfenac is an NSAID and topical NSAID medications cause a minimal (if any) rise in intraocular pressure. The other medications listed are corticosteroids and intraocular pressure (OP) elevation following corticosteroid use is well- documented. Which topical medication is most likely to cause an elevation of intraocular pressure (IOP) after prolonged use?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 171,
+  "question": "Which topical medication is most likely to cause an elevation of intraocular pressure (IOP) after prolonged use?",
+  "options": {
+   "A": "loteprednol",
+   "B": "difluprednate",
+   "C": "prednisolone",
+   "D": "rimexolone"
+  },
+  "markedAnswer": "B",
+  "explanation": "Corticosteroid-induced ocular hypertension is an open angle glaucoma cause by prolonged use of topical, periocular, intravitreal, inhaled, or systemic corticosteroids. One third of the population may experience an increase in IOP in response to the local or svstemic use of corticosteroids, but the response varies among individuals. Steroid- induced ocular hypertension presents with an open anterior chamber angle, and the rise in OP appears to be due to outflow reduction. The time frame when steroid induced ocular hypertension occurs depends on the specific drug, the dosage, the frequency, the rout of a administration and the susceptibility of the individual patient. Although the majority of studies report that IOP usually rises 3-6 weeks after the beginning of topical steroid use, some elevation in IOP can be found as early as the first or second week. Most patients with elevated IOP in steroid-response glaucoma experience a return to pretreatment IOP levels within 10 days to 3 weeks after the discontinuation of steroid therapy. In general, the potency of the anti-inflammatory glucocorticoid activity of a particular drug parallels its ocular hypertensive potency. For example, some corticosteroid preparations, such as fluoromethalone, rimexolone, medrysone, or loteprednol, are less likely to raise IOP than are prednisolone, dexamethasone, diflupredate. In general, the potency of the topical corticosteroid is directly related to the ability to raise intraocular pressure. In regards to the more potent topical corticosteroids, the potency from strongest to weakest are as follows: Difluprednate 0.05% (brand name: Durezol) > dexamethasone 0.1% (brand name: Maxidex) > prednisolone actetate 1% (brand name: Pred Forte) Uveitis complications A 45-year-old patient presents to your office with a 1-week history of idiopathic uveitis in the right eye. He is currently taking prednisolone acetate 1% OD qid. His original level of anterior chamber inflammation was graded as 3+ and his IP was 33 mmHg. On his follow-up exam today, his intraocular pressure (IP) is 28 mmHg and there is 2+ cell in the anterior chamber in his right eye. Which of the following is the most appropriate management choice?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 172,
+  "question": "A 45-year-old patient presents to your office with a 1-week history of idiopathic uveitis in the right eye. He is currently taking prednisolone acetate 1% OD qid. His original level of anterior chamber inflammation was graded as 3+ and his IP was 33 mmHg. On his follow-up exam today, his intraocular pressure (IP) is 28 mmHg and there is 2+ cell in the anterior chamber in his right eye. Which of the following is the most appropriate management choice?",
+  "options": {
+   "A": "decrease PF to adaily: start timolol 0.5% bid",
+   "B": "decrease PF to qdaily; start latanoprost qhs",
+   "C": "increase PF to q2 hours; start pilocarpine 1% bid",
+   "D": "increase PF to q2 hours; start brimonidine bid"
+  },
+  "markedAnswer": "D",
+  "explanation": "A 31-year-old patient with a history of chronic idiopathic uveitis of the right eye undergoes cataract surgery in his right eye. Since this uncomplicated surgery, his intraocular pressure (IOP) has been 2 mmH despite the use of frequent topical corticosteroids and cycloplegic medications. Which of the following medications may be used to increase this patient's lOP?",
+  "imageUrl": "/images/uveitis-oq/p167_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 173,
+  "question": "A 31-year-old patient with a history of chronic idiopathic uveitis of the right eye undergoes cataract surgery in his right eye. Since this uncomplicated surgery, his intraocular pressure (IOP) has been 2 mmH despite the use of frequent topical corticosteroids and cycloplegic medications. Which of the following medications may be used to increase this patient's lOP?",
+  "options": {
+   "A": "ibopamine",
+   "B": "metipranolol",
+   "C": "echothiophate iodide",
+   "D": "propamidine"
+  },
+  "markedAnswer": "A",
+  "explanation": "What is the approximate rate of retina reattachment after one surgery in rheoumategnous retinal detachment (RRD) cases associated with uveitis?",
+  "imageUrl": "/images/uveitis-oq/p168_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 174,
+  "question": "What is the approximate rate of retina reattachment after one surgery in rheoumategnous retinal detachment (RRD) cases associated with uveitis?",
+  "options": {
+   "A": "40%",
+   "B": "60%",
+   "C": "90%",
+   "D": "95%"
+  },
+  "markedAnswer": "B",
+  "explanation": "What is the generally-accepted definition of \"uveitic\" ocular hypertension?",
+  "imageUrl": "/images/uveitis-oq/p169_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 175,
+  "question": "What is the generally-accepted definition of \"uveitic\" ocular hypertension?",
+  "options": {
+   "A": "intracular pressure greater than >21 mmHg",
+   "B": "intraocular pressure increased by > 10 mmHg above baseline",
+   "C": "intraocular pressure increased by > 15 mmHg above baseline",
+   "D": "intraocular pressure increased by >20 mmHg above baseline"
+  },
+  "markedAnswer": "B",
+  "explanation": "\"Uveitic\" ocular hypertension is defined by an increase in IOP > 10 mmHg above baseline. In addition, there are no signs of progressive neuroretinal rim loss which would imply a diagnosis of \"uveitic glaucoma\". Which of the following glaucoma procedures should generally be avoided for patients with uveitic glaucoma if you are worried about exacerbating inflammation?",
+  "imageUrl": "/images/uveitis-oq/p169_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 176,
+  "question": "Which of the following glaucoma procedures should generally be avoided for patients with uveitic glaucoma if you are worried about exacerbating inflammation?",
+  "options": {
+   "A": "trabeculectomy with mitomyein C",
+   "B": "tube shunt procedure (e.g. Ahmed valve)",
+   "C": "diode cyclophotocoagulation",
+   "D": "iStent"
+  },
+  "markedAnswer": "C",
+  "explanation": "Cyclodestructive procedures (e.g. diode cyclophotocoagulation) generally should be avoided since they induce a tremendous amount of additional inflammation which may lead to chronic hypotony and eventual phthisis bulbi. In many clinical centers, a tube shunt procedure (e.g. Ahmed valve) is the procedure of choice for uveitic glaucoma patients since filtering surgery often fails quickly in the presence of chronic inflammation. And yes, a trabeculectomy (or ExPRESS shunt, etc) is at high risk for failure in uveitic glaucoma patients. However, it can be performed successfully with meticulous pre- and post-operative care (e.g. oral steroids). At the worst, the trabeculectomy will fail, but it will not exacerbate inflammation to the degree that a cyclodestructive procedure would. A 33-year-old patient, with a past ocular history of HLA-B27 related uveitis, presents to your clinic with gradually-decreasing vision in the right eye. His visual acuity is 20/100 OD. Slit-lamp exam reveals 1+ anterior chamber cell and a dense 3-4+ posterior subcapsular cataract OD. Dilated fundus exam is difficult, but you do not see any cystoid macular edema or other abnormalities. When is it generally appropriate to perform cataract surgery for this type of patient?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 177,
+  "question": "When is it generally appropriate to perform cataract surgery for this type of patient?",
+  "options": {
+   "A": "You may proceed with cataract surgery now since it is visually-significant",
+   "B": "You may proceed with cataract surgery once his inflammation is quiet",
+   "C": "You may proceed with cataract surgery once his inflammation is quiet for > 3 months",
+   "D": "You may proceed with cataract surgery once his inflammation is quiet for > 6 months"
+  },
+  "markedAnswer": "C",
+  "explanation": "It is generally recommended that the uveitic eye be quiet for at least 3 months before proceeding with elective cataract surgery. Shortly before and after cataract surgery, an additional \"pulse\" dose of corticosteroids (e.g. oral prednisone) should be considered to prevent recurrence of inflammation and its attendant consequences (e.g. ciliary body shutdown with chronic hypotony). Which of the following uveitides is most commonly associated with the slit-lamp finding seen above?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 178,
+  "question": "Which of the following uveitides is most commonly associated with the slit-lamp finding seen above?",
+  "options": {
+   "A": "HLA-B27 related uveitis",
+   "B": "Fuchs heterochromic iridocyclitis",
+   "C": "Sarcoidosis",
+   "D": "Anterior Uveitis associated with Juvenile idiopathic Arthritis"
+  },
+  "markedAnswer": "D",
+  "explanation": "The slit-lamp photo shows the \"band-like\" calcium deposits in the superficial corneal (mainly Bowman laver) characteristic of band keratopathy. Any patient with chronic uveitis may develop band keratopathy, but it is more common in the uveitides that begin in childhood. Juvenile idiopathic arthritis (aka juvenile rheumatoid arthritis) is one of the most common causes of band keratopathy. Visually-significant band keratopathy is treated by first scraping off the central corneal epithelium with a #15 blade and then soaking the central cornea with 0.35% sodium EDTA to chelate these calcium deposits. The immune response arc Which of the following cytokines is produced by T helper 1 (Th1) cells of the human immune system?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 179,
+  "question": "Which of the following cytokines is produced by T helper 1 (Th1) cells of the human immune system?",
+  "options": {
+   "A": "IL-4, IL-5, IL-10 B.. IL-1a, IL-6, MCP-1, TGF-B",
+   "C": "IL-2, IFN-y, TNF-B, IL-12",
+   "D": "IL-4, IL-6, PDGF"
+  },
+  "markedAnswer": "C",
+  "explanation": "Th1 cells produce the cytokines, IL-2, IFN-y, TNF-B, and IL-12 (answer choice \"C\"). In addition to producing these cytokines, Th1 cells help B cells to secrete IgG1 and IgG3 and inhibit Th2 cells Th2 cells produce the cytokines IL-4, IL-5, and IL-10 (answer choice \"A\"). Other functions of Th2 cells is to help B cells secrete IgE and IgA and to inhibit Th1 cells. Though these facts may seem like minutiae, it is worthwhile to remember the basic cytokines produced by Th1 and Th2 cells. Mechanism of immune effector reactivity You have prescribed a course of oral indomethacin for a patient with diffuse anterior scleritis. Which enzyme is inhibited by this class of medication?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 180,
+  "question": "Which enzyme is inhibited by this class of medication?",
+  "options": {
+   "A": "phospholipase A2",
+   "B": "5-lipoxygenase",
+   "C": "adenylyl cyclase",
+   "D": "cyclooxygenase"
+  },
+  "markedAnswer": "D",
+  "explanation": "Indomethacin is a type of NSAID (non-steroidal anti-inflammatory drug). Other NSAIDs include aspirin, ibuprofen, and naproxen. NSAIDs work by inhibiting the enzyme cyclooxygenase which transforms arachidonic acid into cycloendoperoxides which are further broken down into other end-products (e.g. prostaglandins, prostacyclin, and thromboxanes). Corticosteroids block prostaglandin production mainly at the level of phospholipase A2, which is the enzyme that aids in the c onversion of membrane phospholipids into arachidonic acid Which of the following substances is characterized by being a potent chemotactic factor that can cause lysosomal enzyme release as well as oxygen radical production by granulocytes?",
+  "imageUrl": "/images/uveitis-oq/p173_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 181,
+  "question": "Corticosteroids block prostaglandin production mainly at the level of phospholipase A2, which is the enzyme that aids in the c onversion of membrane phospholipids into arachidonic acid Which of the following substances is characterized by being a potent chemotactic factor that can cause lysosomal enzyme release as well as oxygen radical production by granulocytes?",
+  "options": {
+   "A": "leukotriene B4",
+   "B": "prostaglandin E2 (PGE2)",
+   "C": "histamine",
+   "D": "serotonin"
+  },
+  "markedAnswer": "A",
+  "explanation": "All of the answer choices are examples of \"inflammatory mediators\". Serotonin, histamine, and PGE, all can induce smooth-muscle contraction and increase vascular permeability. However, it is leukotriene B4, which is a product of the 5-lipoxygenase pathway, that is associated with oxygen radical formation and lysosomal enzyme release.",
+  "imageUrl": "/images/uveitis-oq/p173_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ }
+]

@@ -1,0 +1,870 @@
+[
+ {
+  "id": 147,
+  "question": "By what mechanism does the procedure shown in the photograph improve outﬂow?",
+  "options": {
+   "A": "aimed to create goniosynechialysis",
+   "B": "used to create a port of entry for aqueous outﬂow",
+   "C": "used to inject saline into the bleb",
+   "D": "used to break the \"ring of steel\" around nonfunctional ﬂap"
+  },
+  "markedAnswer": "D",
+  "explanation": "This procedure is used to break the \"ring of steel\" around nonfunctional ﬂap. Bleb needling is used to break adhesions between the conjunctiva/Tenon and the underlying sclera. These adhesions are often called \"the ring of steel\" – a ring formed at the posterior margins of the bleb limiting ﬁltration. In this ﬁgure, the needle was used to get under the ﬂap and enter the anterior chamber through the site of the old sclerostomy.",
+  "imageUrl": null,
+  "stemReferencesFigure": true,
+  "figureMissing": true
+ },
+ {
+  "id": 148,
+  "question": "Argon laser trabeculoplasty is appropriate in the treatment of what condition?",
+  "options": {
+   "A": "neovascular glaucoma without angle closure",
+   "B": "exfoliation/pseudoexfoliation glaucoma",
+   "C": "uveitic glaucoma",
+   "D": "congenital glaucoma"
+  },
+  "markedAnswer": "B",
+  "explanation": "Laser trabeculoplasty (argon or selective) is indicated in the treatment of primary open-angle glaucoma (POAG), and secondary open-angle glaucomas such as exfoliation/pseudoexfoliation glaucoma and pigmentary glaucoma. It is contraindicated in developmental glaucomas, and in uveitic or neovascular glaucomas with or without angle closure.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 149,
+  "question": "A patient has a unilateral glaucoma OD with an intraocular pressure (IOP) of 35 mm Hg on maximal medical therapy. The IOP OS is 13 mm Hg. Given the external appearance of the right eye shown, what is the most likely ﬁnding to see on examination?",
+  "options": {
+   "A": "anterior chamber cells",
+   "B": "rubeosis iridis",
+   "C": "sectoral iris atrophy",
+   "D": "blood in the Schlemm canal"
+  },
+  "markedAnswer": "D",
+  "explanation": "The ﬁgure shows dilated episcleral veins, which can be associated with elevated episcleral venous pressure. These vascular abnormalities may be unilateral or bilateral. Glaucoma associated with increased episcleral venous pressure can occur in the setting of thyroid ophthalmopathy, arteriovenous malformations, carotid cavernous ﬁstulas, and dural sinus ﬁstulas. In these patients, a reﬂux of blood into the Schlemm canal may be visible on gonioscopy. Depending on the etiology, proptosis, ocular pulsations, and an orbital bruit may also occur. Anterior chamber cells can be found in the setting of uveitic glaucoma. Rubeosis iridis is found in neovascular glaucoma. Sectoral iris atrophy can be seen in herpetic disease. In rare instances, signs of ocular ischemia or venous stasis may be present. 84ﬀ-4712- 8954- 81728711bb47)  3.",
+  "imageUrl": "/images/glaucoma-bcsc/p165_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 150,
+  "question": "What factor will cause a falsely low low intraocular pressure by applanation tonometry?",
+  "options": {
+   "A": "anterior rotation of the ciliary body",
+   "B": "tumor-laden macrophages obstructing angle",
+   "C": "direct invasion of the anterior chamber angle",
+   "D": "neovascularization of angle"
+  },
+  "markedAnswer": "C",
+  "explanation": "The most common cause of glaucoma in primary or metastatic tumors of the ciliary body is direct invasion of the anterior chamber angle. All the other mechanisms listed (tumor-laden macrophage, neovascularization, and anterior rotation of the ciliary body) can also result in secondary glaucoma, but less commonly.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 151,
+  "question": "What is the most likely cause of elevated intraocular pressure (IOP) in an 18-month-old boy?",
+  "options": {
+   "A": "dynamic contour tonometer",
+   "B": "pneumotonometer",
+   "C": "ocular response analyzer",
+   "D": "rebound tonometer"
+  },
+  "markedAnswer": "D",
+  "explanation": "A rebound tonometer rapidly and painlessly contacts the cornea to measure intraocular pressure (IOP) without the need for anesthetic. This tonometer has been used widely in the pediatric population. The pneumotonometer and dynamic contour tonometer (DCT) are both contact methods requiring prolonged corneal contact, necessitating anesthetic. The DCT is less aﬀected by corneal biomechanics, making it useful in postrefractive surgical eyes. The ocular response analyzer is a noncontact method. Since there is no corneal contact, no anesthetic is required. The tonometer uses several air puﬀs to measure IOP and corneal hysteresis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 152,
+  "question": "During instillation of eye drops, how does the patient beneﬁt from using the technique depicted in the photo?",
+  "options": {
+   "A": "lowest concentration of timolol",
+   "B": "highest concentration of brimonidine",
+   "C": "less preservative burden",
+   "D": "lower patient compliance"
+  },
+  "markedAnswer": "C",
+  "explanation": "Advantages of combination medical therapy include decreased preservative load and improved patient adherence. Combination drugs containing brimonidine use the highest concentration of 0.2%, which has a higher incidence of adverse events than the lower concentrations of 0.15% and 0.1%. Timolol 0.5% is the commonly used concentration in combination and monotherapy. Timolol 0.25% is also available as monotherapy but is not commonly used; this concentration is not available in combination products.",
+  "imageUrl": "/images/glaucoma-bcsc/p332_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 153,
+  "question": "After suﬀering a blunt ocular injury 13 years prior, a patient develops unilateral elevated IOP in the previously traumatized eye. What gonioscopic ﬁndings might be present on examination?",
+  "options": {
+   "A": "bipolar cell",
+   "B": "retinal ganglion cell",
+   "C": "photoreceptor cell",
+   "D": "amacrine cell"
+  },
+  "markedAnswer": "B",
+  "explanation": "Glaucomatous optic neuropathy is progressive degeneration of retinal ganglion cells and their axons, extending from the optic nerve to the major visual centers in the brain (lateral geniculate nucleus). Contributors to retinal ganglion cell death may include direct compression of axonal ﬁbers with distortion of the lamina cribrosa plates and disruption of axoplasmic ﬂow, decreased optic nerve head perfusion, and/or disturbance of vascular autoregulation. In patients with glaucoma, the intraocular pressure (IOP) at baseline— regardless of its actual level—is too high for retinal ganglion cell function and survival. It has been shown that in most patients with glaucoma, lowering the IOP will stop or slow visual ﬁeld loss.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 154,
+  "question": "Based on the results of multiple studies, including randomized trials, what can be said about the beneﬁt of performing a laser iridotomy for patients with pigment dispersion syndrome?",
+  "options": {
+   "A": "less operating room time",
+   "B": "no conjunctival incision required",
+   "C": "can be performed with an opaciﬁed cornea",
+   "D": "general anesthesia not required"
+  },
+  "markedAnswer": "C",
+  "explanation": "In trabeculotomy ab externo, a conjunctival ﬂap is created ﬁrst, followed by dissection of a partial thickness scleral ﬂap. The Schlemm canal is then cannulated with either a Trabeculotome or a polypropylene suture (with or without the help of an illuminated catheter). This procedure can be performed with an opaciﬁed cornea. Goniotomy is performed from an ab interno (anterior chamber) approach. A needle-knife is passed through a corneal incision and across the anterior chamber to the opposite angle. A superﬁcial incision is then made in the anterior aspect of the trabecular meshwork under gonioscopic guidance, which requires a clear cornea for visualization. Goniotomy takes less time to perform than trabeculotomy. Both procedures are typically performed in the pediatric age group under general anesthesia.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 155,
+  "question": "What is the reason to avoid the 3 o'clock and 9 o'clock positions on the eye when performing transscleral diode cyclophotocoagulation (CPC)? Studies have demonstrated a clinically and statistically signiﬁcant beneﬁt. B.",
+  "options": {
+   "A": "juvenile idiopathic arthritis",
+   "B": "glaucomatocyclitic crisis",
+   "C": "Fuchs uveitis syndrome",
+   "D": "herpes simplex keratouveitis"
+  },
+  "markedAnswer": "C",
+  "explanation": "Inﬂammatory glaucomas comprise a wide range of disorders that can cause intraocular pressure (IOP) elevation from edema of the trabecular meshwork, trabecular meshwork endothelial cell dysfunction, blockage of the trabecular meshwork by ﬁbrin and inﬂammatory cells or peripheral anterior synechiae. In the setting of inﬂammation, corticosteroids are often a mainstay of treatment in addition to aqueous suppressants. Glaucomatocyclitic crisis in particular responds very well to topical corticosteroids. On the other hand, Fuchs uveitis syndrome (formerly Fuchs heterochromic iridocyclitis) responds poorly to corticosteroids. Since IOP does not correlate to the degree of inﬂammation in this condition, it is not necessary to treat the inﬂammation, and management should focus on medical and/or surgical pressure control.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 156,
+  "question": "What is a relative contraindication to trabeculectomy surgery?",
+  "options": {
+   "A": "by inhibition of acetylcholinesterase and prolonged eﬀect of natural acetylcholine, causing ciliary muscle contraction and increased trabecular outﬂow",
+   "B": "by contraction of the ciliary muscle, resulting in an increased uveoscleral outﬂow",
+   "C": "by inhibition of carbonic anhydrase, causing a decreased rate of aqueous production.",
+   "D": "by direct stimulation of muscarinic receptors, resulting in contraction of the ciliary muscle and increased trabecular outﬂow"
+  },
+  "markedAnswer": "D",
+  "explanation": "Parasympathomimetics cause contraction of the ciliary muscle, tightening of the scleral spur, and tension on the trabecular beams, leading to increased trabecular outﬂow. Direct-acting agents, such as pilocarpine, directly stimulate the muscarinic receptors at the motor BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 157,
+  "question": "What form of contact tonometry does not require topical anesthetic?",
+  "options": {
+   "A": "X-linked",
+   "B": "autosomal dominant",
+   "C": "autosomal recessive",
+   "D": "not inherited; sporadic"
+  },
+  "markedAnswer": "B",
+  "explanation": "Most cases of JOAG are inherited in an autosomal dominant fashion. Patients can present between 4 and 35 years of age, with elevated IOP and normal-appearing angles. The myocilin gene, formerly named TIGR (the trabecular meshwork inducible glucocorticoid response gene), was ﬁrst linked to chromosome 1q21-31. Five loci are now mapped for JOAG.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 158,
+  "question": "What is the mechanism of intraocular pressure (IOP) elevation in lens particle glaucoma?",
+  "options": {
+   "A": "trabeculotomy",
+   "B": "dorzolamide",
+   "C": "acetazolamide",
+   "D": "brimonidine"
+  },
+  "markedAnswer": "D",
+  "explanation": "Congenital or infantile glaucoma is considered a surgical disease because long-term medication use in young children can be associated with signiﬁcant side eﬀects. Goniotomy or trabeculotomy are the ﬁrst- line surgical options for congenital glaucoma. Medications can be used to temporize until surgical therapy can be performed. Topical or systemic carbonic anhydrase inhibitors can be used while monitoring for side eﬀects; however, brimonidine is contraindicated in infants and young children because of possible central nervous system depression and apnea.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 159,
+  "question": "What is the relative risk of primary open angle glaucoma (POAG) in siblings of patients with POAG?",
+  "options": {
+   "A": "parvocellular cells",
+   "B": "magnocellular cells",
+   "C": "bipolar cells",
+   "D": "koniocellular cells"
+  },
+  "markedAnswer": "B",
+  "explanation": "The high temporal frequency and low spatial frequency of frequency- doubling stimuli preferentially activate the magnocellular pathway. Magnocellular neurons (M cells) are thought to be damaged early in glaucoma, and so frequency-doubling technology (FDT) perimetry may identify early defects better than white-on-white perimetry. Parvocellular neurons (P cells) and koniocellular neurons (bistratiﬁed cells) are also retinal ganglion cells in the visual pathway. Bipolar cells send signals from the photoreceptors to the ganglion cells. None of these cells are targeted by frequency-doubling stimuli.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 160,
+  "question": "What percentage of primary open- angle glaucoma (POAG) cases in the US are caused by myocilin gene mutations?",
+  "options": {
+   "A": "patient responding even though there is no stimulus",
+   "B": "incorrect lens power used during testing",
+   "C": "ptosis",
+   "D": "patient not paying attention during testing"
+  },
+  "markedAnswer": "D",
+  "explanation": "The ﬁeld presented shows a \"cloverleaf\" defect, which occurs when patients stop paying attention during testing. Central points are tested ﬁrst, and more peripheral points are tested later. When a patient responds despite no stimulus, this is a false positive error. Patients with cloverleaf pattern visual ﬁelds will often have high false negative rates (not responding to stimulus despite responding to a lower threshold stimulus in the same location previously). When a patient has a lid droop, he/she will have a superior ﬁeld defect. If incorrect lens power is used, this will lead to generalized depression of the visual ﬁeld.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 161,
+  "question": "A 20-year-old student was shot in an eye with a paintball. Vision is count ﬁngers, without an aﬀerent pupillary defect; the intraocular pressure is 4 mm Hg, and a 2-mm hyphema is present. What diagnosis is most speciﬁc, given the gonioscopic image shown?",
+  "options": {
+   "A": "inadequate magniﬁcation",
+   "B": "inability to examine young children",
+   "C": "requires use of a contact lens",
+   "D": "overestimation of cupping"
+  },
+  "markedAnswer": "A",
+  "explanation": "Indirect ophthalmoscopy does not require as much patient cooperation as a slit-lamp fundus examination and is performed with the aid of a noncontact condensing lens. It is therefore useful in examining young children and uncooperative patients. However, it does not provide adequate magniﬁcation to assess subtle features of the optic nerve and tends to underestimate cupping.",
+  "imageUrl": "/images/glaucoma-bcsc/p342_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 162,
+  "question": "What did the EAGLE study suggest in regard to certain patients with primary angle closure and elevated intraocular pressure (IOP?",
+  "options": {
+   "A": "ﬁbrous ingrowth",
+   "B": "iridocorneal endothelial syndrome",
+   "C": "pupillary block",
+   "D": "neovascularization of the angle"
+  },
+  "markedAnswer": "C",
+  "explanation": "An iridotomy speciﬁcally addresses pupillary block. It allows equalization of the pressure between the anterior and posterior chambers in cases where aqueous cannot easily ﬂow through the pupil. This, in turn, relieves any iris bombé that can lead to angle closure. An iridotomy is not useful in cases of synechial angle closure, including neovascular glaucoma and iridocorneal endothelial syndrome. It also does not relieve any posterior pushing mechanisms of angle closure, such as aqueous misdirection, suprachoroidal hemorrhage, or anterior choroidal eﬀusions.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 163,
+  "question": "The highest prevalence of acute primary angle closure is reported in populations of what racial or ethnic group?",
+  "options": {
+   "A": "ocular hypertension",
+   "B": "primary open-angle glaucoma",
+   "C": "normal tension glaucoma",
+   "D": "glaucoma suspect"
+  },
+  "markedAnswer": "D",
+  "explanation": "A glaucoma suspect is deﬁned as an individual with one or more of these ﬁndings: a suspicious optic nerve or nerve ﬁber layer appearance in the absence of a visual ﬁeld defect a visual ﬁeld defect suggestive of glaucoma in the absence of a corresponding glaucomatous optic nerve abnormality a family history of glaucoma in a ﬁrst-degree relative elevated IOP without evidence of optic nerve damage Normal tension glaucoma would have corresponding optic nerve and visual ﬁeld defects in the setting of normal IOP. Ocular hypertension is elevated IOP (usually arbitrarily deﬁned as greater than 21 mm Hg) in the setting of normal optic nerves and visual ﬁelds. Primary open-angle glaucoma would usually include elevated IOP along with optic nerve and visual ﬁeld abnormalities in the setting of an open angle.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 164,
+  "question": "A patient who began using a glaucoma medication 1 year ago visits the ophthalmologist's oﬃce. The examination reveals the ﬁnding shown in the photo. The patient has no visual complaints or symptoms. What medication is the most likely cause of this ﬁnding?",
+  "options": {
+   "A": "pigmentary glaucoma",
+   "B": "aqueous misdirection",
+   "C": "pseudoexfoliation glaucoma",
+   "D": "plateau iris syndrome"
+  },
+  "markedAnswer": "A",
+  "explanation": "Pigmentary glaucoma has a concave iris conﬁguration thought to be due to reverse pupillary block. The backbowed iris rubs against the zonules, liberating pigment and creating characteristic midperipheral transillumination defects, pigment deposits on the corneal endothelium (Krukenberg spindle) and elsewhere, and potentially elevated intraocular pressure (IOP) because of pigment clogging the trabecular meshwork. Plateau iris syndrome has a ﬂat iris approach to a narrow peripheral angle, with a characteristic double hump on indentation gonioscopy. Aqueous misdirection will present with the iris and lens pushed forward, narrowing and/or closing the angle. The iris does not take on a bombé conﬁguration. Pseudoexfoliation glaucoma can present with a ﬂat or convex iris due to relative pupillary block from zonular weakness.",
+  "imageUrl": "/images/glaucoma-bcsc/p345_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 165,
+  "question": "A 45-year-old woman with a history of severe asthma presents for an annual eye examination and is found to have elevated intraocular pressure (IOP). Use of what medication may be contributing to the elevated IOP?",
+  "options": {
+   "A": "ectoderm",
+   "B": "endoderm",
+   "C": "mesoderm",
+   "D": "neural crest"
+  },
+  "markedAnswer": "D",
+  "explanation": "Axenfeld-Rieger (A-R) syndrome is a spectrum of disorders characterized by anomalous development of the neural crest–derived anterior segment structures, including the anterior chamber angle, the iris, and the trabecular meshwork. Axenfeld-Rieger syndrome represents a spectrum of developmental disorders characterized by posterior embryotoxon, with attached iris strands, iris hypoplasia, and a 50% lifetime risk of glaucoma. The conditions—previously called Axenfeld anomaly, Rieger anomaly or syndrome, iridogoniodysgenesis anomaly or syndrome, iris hypoplasia, and familial glaucoma, iridogoniodysplasia—all overlap genotypically and phenotypically and are considered a single entity know as Axenfeld-Rieger syndrome. It is caused by neural crest cell maldevelopment and aﬀects structures in BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 166,
+  "question": "What is the most common cause of acquired zonular insuﬃciency and crystalline lens subluxation?",
+  "options": {
+   "A": "superior",
+   "B": "inferior",
+   "C": "temporal",
+   "D": "nasal"
+  },
+  "markedAnswer": "B",
+  "explanation": "The physiologic neural rim is typically the broadest inferiorly, followed by the superior, nasal, and temporal rims. This is commonly referred to as the ISNT (inferior, superior, nasal, temporal) rule. Inferior rim thinning in the absence of ﬁeld loss should be considered suspicious and might represent early glaucoma. Any violation of the ISNT rule should be considered as a potential indicator of early glaucoma or glaucoma suspect.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 167,
+  "question": "What condition would be a contraindication to use of systemic hyperosmotic agents?",
+  "options": {
+   "A": "trend-based analysis",
+   "B": "event-based analysis",
+   "C": "reduction in mean deviation index",
+   "D": "increase in mean deviation index"
+  },
+  "markedAnswer": "C",
+  "explanation": "Interpretation of serial visual ﬁelds should meet 2 goals: 1. separating real change from ordinary variation and 2. using the information obtained from visual ﬁeld testing to determine the likelihood that a change is related to glaucomatous progression There is a variety of tools available to assist clinicians in identifying visual ﬁeld progression, and there is no consensus about the best method for detecting change. The simplest and most general method uses the mean deviation (MD) index plotted against time. A statistically signiﬁcant decline would i.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 168,
+  "question": "What is the deﬁnition of a cyclodialysis?",
+  "options": {
+   "A": "dorzolamide",
+   "B": "pilocarpine",
+   "C": "timolol",
+   "D": "latanoprost"
+  },
+  "markedAnswer": "B",
+  "explanation": "Trabecular outﬂow is increased by miotics such as pilocarpine. Dorzolamide and timolol decrease aqueous production, and latanoprost increases uveoscleral outﬂow.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 169,
+  "question": "What retinal procedure is most likely to cause angle closure due to anterior rotation of the ciliary body?",
+  "options": {
+   "A": "anterior segment optical coherence tomography (OCT)",
+   "B": "stereo disc photos",
+   "C": "corneal pachymetry",
+   "D": "corneal topography"
+  },
+  "markedAnswer": "C",
+  "explanation": "Central corneal thickness (CCT) has been shown to be a predictive risk factor for the development of glaucoma in patients with ocular hypertension. Corneal pachymetry is the most important test to perform at this point because it provides further information about this patient's risk proﬁle and will impact clinical decisions such as follow-up frequency and consideration of IOP-lowering therapy. Stereo disc photos provide objective, baseline documentation of the optic nerve and are helpful in monitoring patients. However, obtaining disc photos does not assist in the initial initial management of this patient's condition, and therefore is less important than measuring CCT.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 170,
+  "question": "What is an advantage of the device shown below over standard trabeculectomy?",
+  "options": {
+   "A": "cyclophotocoagulation",
+   "B": "selective laser trabeculoplasty",
+   "C": "argon laser trabeculoplasty",
+   "D": "trabeculectomy"
+  },
+  "markedAnswer": "D",
+  "explanation": "This patient has advanced glaucoma with high IOP, and there is ongoing optic nerve damage, as evidenced by visual ﬁeld progression. The most appropriate intervention in this patient is trabeculectomy, in BCSC Excerpt References Notes.",
+  "imageUrl": "/images/glaucoma-bcsc/p351_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 171,
+  "question": "Anatomically, what structure is anterior to the trabecular meshwork?",
+  "options": {
+   "A": "the origin of the aqueous collector channels",
+   "B": "the anterior insertion of the longitudinal ciliary muscle",
+   "C": "the termination of Descemet membrane",
+   "D": "the boundary between the non- pigmented and pigmented trabecular meshwork"
+  },
+  "markedAnswer": "C",
+  "explanation": "Schwalbe line",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 172,
+  "question": "What operative retina vitreous procedure can result in non- pupillary block angle closure?",
+  "options": {
+   "A": "4–5 times higher among black individuals than white individuals.",
+   "B": "1–1.5 times higher among white individuals than black individuals.",
+   "C": "4-5 times higher among white individuals than black individuals.",
+   "D": "1–1.5 times higher among black individuals than white individuals."
+  },
+  "markedAnswer": "A",
+  "explanation": "pars plana vitrectomy/silicone oil placement",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 173,
+  "question": "Deposition of pseudoexfoliation material in what ocular structure increases the risk of complications associated with cataract extraction?",
+  "options": {
+   "A": "1 drop in the morning",
+   "B": "1 drop weekly",
+   "C": "1 drop at night",
+   "D": "1 drop 3 times daily"
+  },
+  "markedAnswer": "D",
+  "explanation": "anterior chamber angle",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 174,
+  "question": "After surgery for congenital cataracts, how long should a patient be monitored for the development of glaucoma?",
+  "options": {
+   "A": "inability to visualize trabecular meshwork without compression",
+   "B": "prominent ciliary body band",
+   "C": "iris processes crossing scleral spur",
+   "D": "reﬂux of blood into the Schlemm canal"
+  },
+  "markedAnswer": "A",
+  "explanation": "until adolescence",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 175,
+  "question": "What is the deﬁnitive surgical treatment for aqueous misdirection?",
+  "options": {
+   "A": "Option D",
+   "B": "Option C",
+   "C": "Option A",
+   "D": "Option B"
+  },
+  "markedAnswer": "D",
+  "explanation": "The visual ﬁeld demonstrates a dense superior arcuate defect in the right eye. One would expect on examination to ﬁnd that the right disc would have an inferior notch, which is found in choice B. Choice C shows a temporal optic nerve pit and Option A is a \"morning glory\" anomaly. Option D would correlate with an inferior ﬁeld defect. Axenfeld-Rieger (A-R) syndrome is a spectrum of disorders characterized by anomalous development of the neural crest–derived anterior segment structures, including the anterior chamber angle, the iris, and the trabecular meshwork. Axenfeld-Rieger syndrome represents a spectrum of developmental disorders characterized by posterior embryotoxon, with attached iris strands, iris hypoplasia, and a 50% lifetime risk of glaucoma. The conditions—previously called Axenfeld anomaly, Rieger anomaly or syndrome, iridogoniodysgenesis ano.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 176,
+  "question": "What is the preferred time for intraocular pressure (IOP) measurement when performing examination under anesthesia?",
+  "options": {
+   "A": "Axenfeld-Rieger (A-R) syndrome",
+   "B": "prior argon laser trabeculoplasty",
+   "C": "neovascular glaucoma",
+   "D": "iridocorneal endothelial (ICE) syndrome"
+  },
+  "markedAnswer": "D",
+  "explanation": "15 minutes after intubation 15 minutes after induction of general anesthesia General anesthesia is usually required to measure IOP in older infants and young children. However, most general anesthetics profoundly lower IOP, with the exception of chloral hydrate, which does not aﬀect IOP, and ketamine, which increases IOP. Endotracheal intubation and induced laryngospasm can increase IOP. To minimize the eﬀect of these variables, the preferred time for IOP measurement is immediately after induction of general anesthesia and before intubation.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 177,
+  "question": "What medication was given to the patient to bring the intraocular tension down?",
+  "options": {
+   "A": "inner pigmented epithelial cells",
+   "B": "outer pigmented epithelial cells",
+   "C": "outer nonpigmented epithelial cells",
+   "D": "inner nonpigmented epithelial cells"
+  },
+  "markedAnswer": "D",
+  "explanation": "The inner nonpigmented epithelial cells are believed to be the actual site of aqueous production. The ciliary body contains approximately 80 ciliary processes composed of an outer pigmented and inner nonpigmented later of epithelial cells that face each other at their apical surfaces and are joined together by tight junctions. These tight junctions are one component of the blood-aqueous barrier. The double layer of epithelium surrounds a rich supply of fenestrated capillaries at the core of each ciliary process, and the inner nonpigmented epithelial cells contain numerous mitochondria and microvilli, providing the energy to produce the aqueous. The inner nonpigmented epithelial cells protrude into the posterior chamber and are in direct contact with the endocyclophotocoagulation laser during treatment. The protrusions of the microvilli of the nonpigmented epithelial cells provide a large surface area for aqueous secretion.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 178,
+  "question": "By what mechanism do Rho kinase inhibitors lower intraocular pressure?",
+  "options": {
+   "A": "presence of disc hemorrhage",
+   "B": "history of diabetes",
+   "C": "thin central cornea",
+   "D": "history of systemic hypertension"
+  },
+  "markedAnswer": "C",
+  "explanation": "Data from clinical trials have found that a number of risk factors are associated with the progression of primary open-angle glaucoma. These include elevated IOP, reduced perfusion pressure, advanced age, positive family history, thin central cornea, and race. Thin central cornea was noted in the OHTS and the European Glaucoma Prevention Study (EGPS). The role of various systemic factors (eg, diabetes, hypertension, atherosclerosis) has been debated, and available data are inconclusive. Presence of disc hemorrhage was found to be a risk factor for glaucomatous progression in the Collaborative Normal- Tension Glaucoma Study (CNTGS) and the Early Manifest Glaucoma Trial (EMGT).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 179,
+  "question": "Two days after an eye with chronic retinal detachment and proliferative vitreoretinopathy has undergone pars plana vitrectomy with silicone oil injection, the intraocular pressure (IOP) is 50 mm Hg on maximal medical therapy and iris bombé is noted. What is the most appropriate next step? increasing trabecular outﬂow A. 52 Correct Answer decreasing aqueous humor production B. 10 Your Answer creating an osmotic gradient C.",
+  "options": {
+   "A": "pars plana vitrectomy",
+   "B": "cataract surgery",
+   "C": "refractive surgery",
+   "D": "scleral buckle"
+  },
+  "markedAnswer": "C",
+  "explanation": "In a patient suspected to have normal-tension glaucoma, it is important to ask about other factors that could cause intraocular pressure to be higher than what is measured in clinic. Refractive surgery may result in decreased corneal thickness, which can result in an underestimation of intraocular pressure, and a seemingly normal IOP. Cataract surgery and pars plana vitrectomy do not result in underestimation of intraocular pressure. It has, however, been posited that scleral buckling might change IOP measurement as a result of changes in corneal hysteresis. Refractive surgery remains the \"best\" answer. kinetic perimetry.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 180,
+  "question": "A patient with pseudoexfoliation syndrome develops a worsening of glaucoma status related to a central retinal vein occlusion. What is the appropriate classiﬁcation for this glaucoma?",
+  "options": {
+   "A": "kinetic perimetry",
+   "B": "diode laser cyclophotocoagulation",
+   "C": "frequency doubling technology perimetry",
+   "D": "tangent screen"
+  },
+  "markedAnswer": "B",
+  "explanation": "There is a peripheral retinal detachment in the right eye, with what appears to be a ﬂap tear. Examination of the left eye reveals no pathology. What is the most likely diagnosis? ! \" # automated static perimetry Automated static perimetry keeps the stimulus size constant and varies the stimulus intensity in testing. Static testing presents a stationary stimulus at various locations, varying the brightness. Frequency doubling technology perimetry (FDT) measures the ability for patients to distinguish changes in contrast. In kinetic and tangent screen testing, a target is moved into an area just until it is seen (automated or manual). Schwartz-Matsuo syndrome A. 4% \"ghost cell\" degeneration of red blood cells B. 92% Correct Answer sickling of red blood cells C. 0% synchysis scintillans D. 0% Red blood cells (RBCs) in the vitreous cavity may undergo degenerative changes. Clots undergo ﬁbrinolysis and RBCs may diﬀuse throughout the vitreous after 3 to 10 days, with the development of RBC degeneration. Hemoglobin leaks from the RBC change the normally biconcave pliable cells to spherical, hollow, khaki-colored, BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 181,
+  "question": "Comparing ultrasound biomicroscopy (UBM) to conventional ophthalmic ultrasonography, what are the diﬀerences in wavelength, scleral penetration, and resolution?",
+  "options": {
+   "A": "Schwartz-Matsuo syndrome",
+   "B": "Behçet disease",
+   "C": "Vogt-Koyanagi-Harada disease",
+   "D": "lymphoma"
+  },
+  "markedAnswer": "A",
+  "explanation": "This patient has all the risk factors for retinal detachment; he is myopic and has lattice degeneration. Peripheral retinal detachment can be associated with anterior segment inﬂammation without posterior synechiae and vitreous inﬂammation with pigmentary cells (Schwartz-Matsuo syndrome). The anterior chamber cells are photoreceptor outer segments liberated from the subretinal space. These photoreceptor outer segments are phagocytosed by the endothelial cells of the trabecular meshwork and cause elevation of the intraocular pressure. Behçet disease is a chronic, relapsing, multisystem inﬂammatory disorder of unknown etiology that can aﬀect both the anterior and the posterior segments of the eye, often simultaneously. Sites of ocular involvement in primary vitreoretinal lymphoma can include the vitreous, retina, subretinal pigment epithelium, and any combination thereof. Vogt-Koyanagi-Harada syndrome is a multisystem disease of presumed autoimmune etiology that is characterized by chronic, bilateral, diﬀuse, granulomatous panuveitis with accompanying integumentary, neurologic, and auditory involvement.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 182,
+  "question": "Laser trabeculoplasty is contraindicated in the presence of an open angle and what gonioscopic ﬁnding?",
+  "options": {
+   "A": "episcleral venous pressure",
+   "B": "outﬂow facility",
+   "C": "aqueous humor formation rate",
+   "D": "uveoscleral ﬂow rate"
+  },
+  "markedAnswer": "D",
+  "explanation": "Outﬂow facility is measured with tonography, aqueous humor formation rate with ﬂuorophotometry, and episcleral venous pressure with venomanometry. All these procedures are noninvasive. In contrast, direct measurement of uveoscleral ﬂow rate is an invasive process that involves perfusion of a tracer into the anterior segment of the eye followed by estimation of the tissue distribution of the tracer. Thus uveoscleral outﬂow rate must be calculated by using the Goldmann equation and the parameters intraocular pressure (IOP), aqueous humor ﬂow rate, outﬂow facility, and episcleral venous pressure.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 183,
+  "question": "What class of topical glaucoma medication can induce angle closure in patients with phacomorphic narrowing of the angles?",
+  "options": {
+   "A": "low-tension glaucoma",
+   "B": "ocular hypertension",
+   "C": "pseudoexfoliation glaucoma",
+   "D": "angle-closure glaucoma"
+  },
+  "markedAnswer": "A",
+  "explanation": "Although disc hemorrhages (found inferotemporally in the photo) can be observed in all types of glaucoma, they may be more prevalent in low-tension glaucoma. They can also occur in diabetes, after posterior vitreous detachment, and in association with vascular occlusions.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 184,
+  "question": "A 60-year-old African American woman with primary open-angle glaucoma (POAG) is also allergic to benzalkonium chloride (BAK). She uses preservative-free timolol drops, but her intraocular pressure (IOP) is not lowered adequately. What is the next step in managing this patient's condition?",
+  "options": {
+   "A": "topography",
+   "B": "gonioscopy",
+   "C": "tonometry",
+   "D": "pachymetry"
+  },
+  "markedAnswer": "B",
+  "explanation": "Subacute intermittent angle-closure glaucoma is frequently asymptomatic but may present with various symptoms, including frequent headaches and intermittent episodes of blurry vision, halos, and eye pain. In this case, gonioscopy is the most helpful test because it is the only one among those listed that can identify angle closure and lead to the treatment of choice, namely, laser peripheral iridotomy. Although tonometry and pachymetry can provide useful information for this patient, they are not diagnostic for angle closure. Topography is not relevant in this clinical scenario.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 185,
+  "question": "What is the average rate of aqueous formation?",
+  "options": {
+   "A": "breath holding",
+   "B": "supine position",
+   "C": "pregnancy",
+   "D": "playing a wind instrument"
+  },
+  "markedAnswer": "C",
+  "explanation": "Several factors can increase IOP, but of the oﬀered choices, only pregnancy is associated with lower IOP. Factors associated with increased IOP include actions that increase episcleral venous pressure, such as Valsalva maneuver, breath holding, playing a wind instrument, wearing a tight collar, bending over, and being in a supine position. Pressure on the eye, blepharospasm, and lid squeezing can also elevate IOP. In addition to pregnancy, aerobic exercise decreases IOP. Alcohol and marijuana use can also transiently decrease IOP.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 187,
+  "question": "What characteristic would be most typical in a patient newly diagnosed with primary angle-closure glaucoma?",
+  "options": {
+   "A": "timolol",
+   "B": "acetazolamide",
+   "C": "prednisolone acetate 1%",
+   "D": "atropine"
+  },
+  "markedAnswer": "B",
+  "explanation": "Carbonic anhydrase inhibitors (CAIs) are known to lower the pH of the aqueous, which can induce sickling of red blood cells, preventing clearance through the trabecular meshwork. Systemic CAIs should not be used in patients with sickle cell disease, because there is a risk of sickle cell crisis in sickle cell anemia and an increased risk of formation of calcium oxalate and calcium phosphate renal stones. Although topical CAIs have not been proven to induce anterior chamber acidosis, it may be prudent to use them as a last-line topical agent. Patients with sickle cell hemoglobinopathy are at higher risk for complications associated with traumatic hyphema. They may develop elevated IOP in the presence of microhyphema alone and are at risk for nerve damage with short durations of IOP elevation. All African American patients with a traumatic hyphema should have a sickle prep if their sickle cell status is unknown. Timolol, atropine, and prednisolone acetate 1% do not induce sickling. They can all be used safely for the treatment of hyphema in a sickle cell patient.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 188,
+  "question": "A 39-year-old woman shows narrow angles and a double-hump sign on indentation gonioscopy and anteriorly rotated ciliary processes on ultrasound biomicroscopy (UBM). What is the next step in the management of this patient's condition?",
+  "options": {
+   "A": "false negatives",
+   "B": "ﬁxation losses",
+   "C": "test duration",
+   "D": "false positives"
+  },
+  "markedAnswer": "A",
+  "explanation": "Reliability indices help in evaluating test reliability and include false positive errors, false negative errors, and ﬁxation loss rate. Test duration is not considered a reliability index but can be used to judge patient response time to stimuli. The false-positive rate measures the patient's tendency to press the response button when there is no stimulus (ie, \"trigger happy\"). Higher than 15% indicates an unreliable test. False-negative rates measure the tendency of the patient to not respond even when visible stimulus is presented. This could indicate inattentiveness of the patient, but may also be seen with increased variability in areas of damage; therefore, high false-negative rates should not necessarily result in throwing out BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 189,
+  "question": "In the CIGTS (Collaborative Initial Glaucoma Treatment Study), what was the most common cause of decreased visual acuity for subjects in the surgical arm?",
+  "options": {
+   "A": "intraocular pressure (IOP) of 24 mm Hg",
+   "B": "recent diagnosis of glaucoma in a sibling",
+   "C": "progressive cupping of the optic nerves",
+   "D": "reduced visual acuity"
+  },
+  "markedAnswer": "C",
+  "explanation": "Progressive cupping of the optic nerves is diagnostic of glaucoma, and IOP-lowering treatment should be initiated. A family history of glaucoma, and higher-than-average IOP, increase the risk of developing glaucoma; these factors may warrant closer monitoring of a glaucoma BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 190,
+  "question": "What lens provides a direct gonioscopic view?",
+  "options": {
+   "A": "timolol",
+   "B": "latanoprost",
+   "C": "brimonidine",
+   "D": "dorzolamide"
+  },
+  "markedAnswer": "C",
+  "explanation": "Direct gonioscopy is performed with a binocular microscope, a ﬁber- optic illuminator or slit-pen light, and a direct goniolens (eg, the Koeppe, Barkan, Wurst, Swan-Jacob, or Richardson lens). This type of lens is often used during examination under anesthesia in the operating room. Indirect gonioscopy is performed more commonly in the clinician's oﬃce with lenses that utilize mirrors (eg, the Goldmann, Posner, Sussman, or Zeiss lens).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 191,
+  "question": "What type of primary angle closure (PAC) occurs independently of pupillary block?",
+  "options": {
+   "A": "40 years",
+   "B": "12 years",
+   "C": "26 years",
+   "D": "18 years"
+  },
+  "markedAnswer": "A",
+  "explanation": "The onset of glaucoma in JOAG is prior to age 40 years. Mutations in the myocilin gene MYOC may account for approximately 36% of cases. decreases episcleral venous pressure ? ! \" # 96% of respondents answered correctly. Explanation & Notes Discussion ON $ A. 0% A. 0% B. 0% B. 0% C. 96% C. 96% D. 0% D. 0% Axenfeld-Rieger syndrome A. 0% granulomatosis with polyangiitis (Wegener granulomatosis) B. 0% carotid-cavernous sinus ﬁstula C. 96%.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 192,
+  "question": "What intraocular pressure (IOP)- lowering drop is preferred when glaucoma therapy must be continued during pregnancy?",
+  "options": {
+   "A": "decreases episcleral venous pressure",
+   "B": "increases trabecular outﬂow",
+   "C": "increases uveoscleral outﬂow",
+   "D": "decreases aqueous production"
+  },
+  "markedAnswer": "B",
+  "explanation": "Bimatoprost (prostaglandin analogue), timolol (beta blocker), and dorzolamide (carbonic anhydrase inhibitor) are all considered Category C according to the FDA classiﬁcation system (Class C: drugs for which animal studies showed an adverse eﬀect on the fetus, but there were no adequate studies in humans).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 193,
+  "question": "A patient with controlled glaucoma requires cataract surgery. Intraoperatively, the pupil dilates poorly and the lens tilts with minimal manipulation. What slit- lamp ﬁnding might be expected?",
+  "options": {
+   "A": "high power, short duration, small spot size",
+   "B": "high power, long duration, large spot size",
+   "C": "low power, short duration, small spot size",
+   "D": "low power, long duration, large spot size"
+  },
+  "markedAnswer": "D",
+  "explanation": "defects are common. Endothelial pigment deposits, narrow angles, and a more heavily pigmented trabecular meshwork are other related ﬁndings. Corectopia (Rieger anomaly, Axenfeld anomaly, trauma), posterior embryotoxon (anterior segment dysgenesis), and back bowing of the iris (pigment dispersion glaucoma) are not features of pseudoexfoliation or pseudoexfoliation glaucoma.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 194,
+  "question": "A patient presents with angle- closure glaucoma (ACG). What patient characteristic should prompt the surgeon to consider plateau iris in the diﬀerential?",
+  "options": {
+   "A": "medication vs. observation",
+   "B": "observation vs. laser treatment",
+   "C": "ﬁltering surgery vs. medication",
+   "D": "laser treatment vs. ﬁltering surgery"
+  },
+  "markedAnswer": "C",
+  "explanation": "The Collaborative Initial Glaucoma Treatment Study was a multicenter randomized controlled trial that compared 607 patients with newly diagnosed open-angle glaucoma (OAG) with an IOP of 20 mm Hg or greater, and optic nerve damage, and/or visual ﬁeld loss in 1 or both eyes. Patients were randomized to initial treatment with ﬁltering surgery (trabeculectomy) or a stepped regimen of topical therapy (single drug to start, and addition of more if target IOP was not met, or if visual ﬁeld progression was noted). If treatment failed in either arm, argon laser trabeculoplasty (ALT) was performed. CITGS showed that aggressive intraocular pressure (IOP) lowering (35%) in patients with newly diagnosed glaucoma (excluding normal- tension glaucoma patients) had more stability of visual ﬁelds, regardless of the method used to achieve that eﬀect. Initially, the surgical arm of the study achieved lower IOPs; however, at 5 years, there was no statistically signiﬁcant diﬀerence between the 2 groups. The surgically treated cohort required cataract removal at a greater rate than the medically treated cohort.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 195,
+  "question": "Following surgery for congenital cataract, what ﬁnding predisposes a child to glaucoma?",
+  "options": {
+   "A": "intracellular melanin",
+   "B": "extracellular matrix",
+   "C": "endothelial cells of the Schlemm canal",
+   "D": "juxtacanalicular cells"
+  },
+  "markedAnswer": "A",
+  "explanation": "While the various components of the trabecular meshwork including the extracellular matrix, the endothelial cells of the Schlemm canal, and/or the juxtacanalicular cells, may be aﬀected by SLT and are theorized to change in response to the treatment to increase outﬂow, none of these components are directly targeted during the treatment. SLT targets intracellular melanin for uptake, with the resultant eﬀects on various parts of the trabecular meshwork. Phagocytic cells in the TM may also be activated by SLT and help increase outﬂow as a result of the treatment, but the mechanism of action of SLT is not fully understood. lattice degeneration.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 196,
+  "question": "A patient has primary open-angle glaucoma that is inadequately controlled on monotherapy with a prostaglandin analog. He has a history of chronic obstructive pulmonary disease (COPD) and a documented allergy to alpha agonists, which caused him severe follicular conjunctivitis. What is the best option for adjunctive medical therapy?",
+  "options": {
+   "A": "lattice degeneration",
+   "B": "Fuchs dystrophy",
+   "C": "Terrien marginal degeneration",
+   "D": "keratoconus"
+  },
+  "markedAnswer": "B",
+  "explanation": "Use of topical carbonic anhydrase inhibitors (CAIs), including dorzolamide, in the setting of compromised endothelial cell function can place patients at risk for corneal decompensation. For this reason, topical CAIs should be used with caution in patients with Fuchs corneal endothelial dystrophy. Keratoconus, lattice degeneration of the cornea, and Terrien marginal degeneration are all not associated with endothelial compromise.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 197,
+  "question": "A 45-year-old woman presents to the eye clinic for an annual examination. Best-corrected visual acuity is 20/25 in her right eye and 20/20 in her left eye. A slit-lamp photograph of her right cornea is shown. Her refraction and other examination components are unrevealing. What is the most likely cause of this ﬁnding?",
+  "options": {
+   "A": "suprachoroidal hemorrhage",
+   "B": "vitreous hemorrhage",
+   "C": "choroidal folds in the macula",
+   "D": "visually signiﬁcant cataract"
+  },
+  "markedAnswer": "C",
+  "explanation": "Visual decline after trabeculectomy can occur as a result of a number of diﬀerent mechanisms. Young myopic patients are at particular risk of vision loss secondary to hypotony maculopathy even at intraocular pressure levels that one would not commonly associate with this complication. Suprachoroidal hemorrhage is nearly always associated with pain. A cataract can progress after ﬁltering surgery, but the time course is typically more protracted and refractive or pinhole correction should improve the visual acuity. Delayed vitreous hemorrhage in the setting of an uncomplicated trabeculectomy is very uncommon.",
+  "imageUrl": "/images/glaucoma-bcsc/p380_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 198,
+  "question": "What is the most common mechanism of glaucoma development in the condition depicted in the ﬁgure?",
+  "options": {
+   "A": "dorzolamide",
+   "B": "timolol",
+   "C": "bimatoprost",
+   "D": "pilocarpine"
+  },
+  "markedAnswer": "A",
+  "explanation": "Dorzolamide, a carbonic anhydrase inhibitor (CAI), inhibits active secretion by blocking carbonic anhydrase in the nonpigmented ciliary epithelial cells in the epithelial processes. Corneal endothelium contains BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 199,
+  "question": "What factor is associated with increased risk of blindness in primary open-angle glaucoma (POAG)?",
+  "options": {
+   "C": "Ahmed",
+   "D": "Molteno M3"
+  },
+  "markedAnswer": "C",
+  "explanation": "The TVT Study was a multicenter randomized clinical trial that evaluated 212 eyes of 212 patients at 17 clinical centers. Patients were randomized as to tube shunt (Baerveldt 350 mm ) or trabeculectomy with mitomycin-C. In a 5-year follow-up study, results showed that tube shunt surgery had a higher success rate compared to trabeculectomy with mitomycin-C; both procedures were associated with a similar reduction in intraocular pressure (IOP). 2 Main outcome measures included: IOP, visual acuity, use of supplemental medical therapy, and failure (IOP >21 mm Hg or not reduced by 20%, IOP ≤5 mm Hg, reoperation for glaucoma, or loss of light perception vision). 1 50 per pag.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 200,
+  "question": "A patient with high myopia is at increased risk of what type of glaucoma?",
+  "options": {
+   "A": "tube shunt",
+   "B": "goniosynechialysis",
+   "C": "trabeculectomy",
+   "D": "cataract extraction"
+  },
+  "markedAnswer": "D",
+  "explanation": "The patient in this scenario has 3 risk factors predisposing her to angle closure (age greater than 40, hyperopia, female). Laser iridotomy did not relieve pupillary block in this patient, so the next step in treatment would be cataract removal.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 201,
+  "question": "One week after trabeculectomy, a patient complains of blurry vision. Intraocular pressure is 3 mm Hg. Exam shows a large bleb, a deep anterior chamber, and macular choroidal folds. What other fundus ﬁnding is most likely?",
+  "options": {
+   "A": "scleral buckle",
+   "B": "laser retinopexy",
+   "C": "silicone oil injection",
+   "D": "expansile gas injection"
+  },
+  "markedAnswer": "A",
+  "explanation": "Choroidal eﬀusion and ciliary body swelling have the greatest likelihood of developing after scleral buckling procedures and to a lesser degree after panretinal photocoagulation. Used for surgical repair of retinal detachments, scleral buckles, especially the encircling bands, can produce shallowing of the anterior chamber angle and frank angle closure, often accompanied by choroidal eﬀusion and anterior rotation of the ciliary body, causing a ﬂattening of the peripheral iris with a relatively deep central anterior chamber. Usually, the anterior chamber deepens with opening of the anterior chamber angle over days to weeks with medical therapy consisting of cycloplegics, anti- inﬂammatory agents, β-adrenergic antagonists, carbonic anhydrase inhibitors, and hyperosmotic agents. If medical management is unsuccessful, argon laser iridoplasty, drainage of suprachoroidal ﬂuid, BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 202,
+  "question": "How does intravenous mannitol reduce intraocular pressure (IOP)?",
+  "options": {
+   "A": "neovascular glaucoma",
+   "B": "phacoanaphylactic glaucoma",
+   "C": "phacomorphic glaucoma",
+   "D": "iridocorneal endothelial dystrophy"
+  },
+  "markedAnswer": "C",
+  "explanation": "Side eﬀects include headache, confusion, acute congestive heart failure, and myocardial infarction. Glycerol can cause hyperglycemia and ketoacidosis in diabetics. Hyperosmotic agents are contraindicated in patients with renal failure.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 203,
+  "question": "During gonioscopy of a Shaﬀer Grade 4 open angle, what structure is seen most anteriorly?",
+  "options": {
+   "A": "Peters anomaly",
+   "B": "neuroﬁbromatosis",
+   "C": "aniridia",
+   "D": "Axenfeld-Rieger syndrome"
+  },
+  "markedAnswer": "D",
+  "explanation": "This patient has Axenfeld-Rieger syndrome, an autosomal dominantly inherited condition associated with bilateral anterior segment anomalies. Characteristic ﬁndings include posterior embryotoxon, BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 204,
+  "question": "A patient on topiramate therapy presents with bilateral acute angle- closure glaucoma. First-line management consists of discontinuation of topiramate, administration of ocular hypotensive medications, and what other therapy?",
+  "options": {
+   "A": "baring of the lamina cribrosa",
+   "B": "disc hemorrhage",
+   "C": "pallor",
+   "D": "notching"
+  },
+  "markedAnswer": "B",
+  "explanation": "refractory to topiramate discontinuation, laser iridoplasty has been reported to be eﬀective in relieving the angle closure. The ciliary edema is not relieved by choroidal drainage or use of oral prednisone.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 205,
+  "question": "A 2-month-old child has an abnormality of the cornea as shown. What additional corneal ﬁnding would conﬁrm the most likely diagnosis?",
+  "options": {
+   "A": "peripheral anterior synechiae",
+   "B": "corectopia and polycoria",
+   "C": "abnormal endothelial cells",
+   "D": "ﬁbrillar material in the anterior chamber angle"
+  },
+  "markedAnswer": "B",
+  "explanation": "Axenfeld-Rieger syndrome is part of the spectrum of developmental anomalies termed anterior segment dysgenesis. Ocular manifestations include corectopia and polycoria, posterior embryotoxon, iris strands BCSC Excerpt References Notes.",
+  "imageUrl": "/images/glaucoma-bcsc/p390_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ }
+]

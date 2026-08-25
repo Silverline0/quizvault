@@ -1,0 +1,1052 @@
+[
+ {
+  "id": 71,
+  "question": "What feature characterizes central fusion disruption?",
+  "options": {
+   "A": "misalignment of the visual axes",
+   "B": "fusional amplitudes",
+   "C": "suppression",
+   "D": "anomalous retinal correspondence"
+  },
+  "markedAnswer": "A",
+  "explanation": "Patients with central fusion disruption have misalignment of the visual axes and intractable diplopia. The angle of strabismus can be small or may vary. The patients do not have any fusion or fusional amplitudes. The patients have double vision because they lack sensory adaptations of suppression, or anomalous retinal correspondence. Central fusion disruption can occur in a number of clinical settings: after disruption of fusion for a prolonged period; after head trauma; and, in rare cases, in long-standing strabismus.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 72,
+  "question": "A patient is seen with asymptomatic visual ﬁeld loss and bilateral elevated optic nerves. The left optic nerve is shown in the ﬁgure. What workup is necessary?",
+  "options": {
+   "A": "Humphrey visual ﬁeld and observation",
+   "B": "magnetic resonance imaging/magnetic resonance venography (MRI/MRV) of brain",
+   "C": "Lyme titers, Toxocara titers, and Bartonella titers",
+   "D": "intravenous steroids"
+  },
+  "markedAnswer": "A",
+  "explanation": "The ﬁgure shows optic disc drusen causing elevation of the left optic nerve. The correct workup is a Humphrey visual ﬁeld. Most patients with disc drusen are asymptomatic, but visual ﬁeld defects are common, including inferior nasal defects and enlarged blind spots. These patients have elevated discs that show calciﬁed drusen as hyper- echoic or highly reﬂective on B-scan or computed tomography (CT) scan. Papilledema would require MRI/MRV to rule out intracranial mass lesions causing increased intracranial pressure and to rule out cerebral venous sinus thrombosis. Infection can cause papilledema including Lyme, Toxocara, and Bartonella, but this ﬁgure does not show papilledema.",
+  "imageUrl": "/images/pediatric-bcsc/p76_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 73,
+  "question": "What sensory adaptation is most commonly seen in patients with manifest strabismus?",
+  "options": {
+   "A": "visual confusion",
+   "B": "stereopsis",
+   "C": "diplopia",
+   "D": "peripheral suppression"
+  },
+  "markedAnswer": "D",
+  "explanation": "Peripheral suppression is the sensory adaptation that can develop in strabismic patients to eliminate diplopia. Visual confusion and diplopia are the normal consequences of strabismus when there are no sensory adaptations to prevent them. Although some degree of stereopsis can be present in small-angle strabismus with monoﬁxation syndrome, good stereopsis indicates that there is no manifest strabismus and no suppression.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 74,
+  "question": "Botulinum toxin injection for strabismus would be most eﬀective for what condition?",
+  "options": {
+   "A": "acute, paralytic strabismus",
+   "B": "a large (>40 D) deviation",
+   "C": "A or V pattern strabismus",
+   "D": "secondary strabismus with an over- recessed muscle"
+  },
+  "markedAnswer": "A",
+  "explanation": "Botulinum toxin injection for strabismus is most eﬀective for small to moderate horizontal misalignments. Botulinum toxin is also useful for postoperative residual strabismus, acute paralytic strabismus, and as a supplement to rectus recession for large-angle misalignments. It is not as eﬀective for large deviations, A or V pattern strabismus, or secondary strabismus with an over-recessed muscle.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 75,
+  "question": "What are the primary synergistic (yoke) muscles that are used for gazing up and to the right?",
+  "options": {
+   "A": "left inferior oblique and right superior oblique",
+   "B": "left superior oblique and right superior rectus",
+   "C": "left superior rectus and right inferior oblique",
+   "D": "left inferior oblique and right superior rectus"
+  },
+  "markedAnswer": "D",
+  "explanation": "The left inferior oblique and right superior rectus muscles are the prime agonists for gazing up and to the right, whereas the superior oblique muscle is an eye depressor, and the main elevation action of the right inferior oblique is in left gaze.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 76,
+  "question": "An ophthalmologist examines the retina of this 5-year-old patient who presents with a failed vision screening in the left eye. Fundus ﬁndings are shown in the ﬁgure. For what systemic manifestation should the ophthalmologist be concerned?",
+  "options": {
+   "A": "optic pathway glioma",
+   "B": "optic nerve sheath meningioma",
+   "C": "intracranial arteriovenous malformation",
+   "D": "renal cell carcinoma"
+  },
+  "markedAnswer": "C",
+  "explanation": "Racemose angioma (also called Wyburn-Mason syndrome) is a rare sporadic disorder that is typically discovered in childhood. It is characterized by an arteriovenous malformation (AVM) of the retina, as shown in the ﬁgure. Children present with decreased vision depending on the size of the retinal AVM, or proptosis from an intraorbital lesion. Seizures or intracerebral hemorrhage can occur because of an intracranial AVM that may bleed. Thus, magnetic resonance imaging (MRI) and magnetic resonance angiography (MRA) is recommended in all patients. Other complications include neovascular glaucoma and intraocular hemorrhage. Meningiomas are associated with neuroﬁbromatosis type 2, optic pathway gliomas with neuroﬁbromatosis type 1, and renal cell carcinoma with von Hippel-Lindau disease (angiomatosis of the retina and cerebellum).",
+  "imageUrl": "/images/pediatric-bcsc/p80_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 77,
+  "question": "An infant with decreased vision is found to have hereditary optic atrophy, conﬁrmed by genetic testing. What is the most appropriate management?",
+  "options": {
+   "A": "optic nerve sheath decompression",
+   "B": "genetic counseling and low-vision assessment",
+   "C": "high-dose oral vitamin A",
+   "D": "oral prednisone"
+  },
+  "markedAnswer": "B",
+  "explanation": "Hereditary optic atrophy does not respond to prednisone, since it is not inﬂammatory, or to optic nerve sheath decompression, since it is not a result of high pressure. High-dose vitamin A has been tried in retinitis pigmentosa. Genetic counseling is indicated, because there is a risk that future siblings can be aﬀected. Vision assessment and aids for the expected vision potential are also indicated. patients with mild amblyopia in one eye A. 3% patients with poor vision in one or both eyes B. 64% Correct Answer patients with good vision in both eyes C. 17% Your Answer patients with small-angle strabismus D. 13% Explanation & Notes Discussion BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 78,
+  "question": "Corneal light reﬂex (reﬂection) tests should be used to evaluate binocular alignment for what patients?",
+  "options": {
+   "A": "patients with mild amblyopia in one eye",
+   "B": "patients with poor vision in one or both eyes",
+   "C": "patients with good vision in both eyes",
+   "D": "patients with small-angle strabismus"
+  },
+  "markedAnswer": "B",
+  "explanation": "Corneal light reﬂex tests are useful in assessing ocular alignment in patients who are unable to cooperate suﬃciently to allow cover testing or who have poor vision in one or both eyes, and consequently have poor ﬁxation. The main tests of this type are the Hirschberg, modiﬁed Krimsky, Brückner, and major amblyoscope methods. Children with good vision in both eyes will usually tolerate cover methods and do not display avoidance. The corneal light reﬂex method is less sensitive or quantitatively precise than cover-uncover or cross-cover methods, so it is less helpful in less severe amblyopia or strabismus. The Hirschberg method is based on the premise that 1 mm of decentration of the corneal light reﬂection corresponds to approximately 7°, or 15 prism diopters, of ocular deviation of the visual axis. The Krimsky method uses reﬂections produced on both corneas by a penlight and is ideally used at near ﬁxation. The original method involved placing prisms in front of the deviating eye. More common modiﬁcations today involve holding prisms before the ﬁxating eye or split between the 2 eyes. By adjusting the prisms to center the corneal reﬂection in the deviated eye, it is possible to approximate and quantitate the near deviation. In order to perform the Brückner test, the examiner uses a direct ophthalmoscope to obtain a red reﬂex simultaneously in both eyes. Note that this test detects but does not measure the deviation. The major amblyoscope method uses separate target illumination, which can be moved to center the corneal light reﬂection. The amount of deviation is then read directly from the scale of the amblyoscope.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 79,
+  "question": "What structure maintains the position of the extraocular muscles relative to the orbit?",
+  "options": {
+   "A": "ﬁbroelastic pulleys",
+   "B": "conjunctiva",
+   "C": "orbital septum",
+   "D": "muscle sheath"
+  },
+  "markedAnswer": "A",
+  "explanation": "The muscle pulleys are ﬁbroelastic pulleys that maintain the position of the extraocular muscles in the orbit. The pulleys consist of collagen, elastin, and smooth muscle, enabling them to contract and relax. Dynamic MRI studies show that, in some cases, the pulleys act mechanically as the rectus muscle origins. The pulleys may also serve to stabilize the muscle path, preventing sideslipping or movement perpendicular to the muscle axis. Anterior, the pulleys merge with the intermuscular septum, which fuses with the conjunctiva 3 mm posterior to the limbus.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 80,
+  "question": "An 8-year-old child with normal vision, visual ﬁelds, and pupillary responses presents with acute painful proptosis associated with an upper respiratory infection. A computed tomography (CT) scan reveals a multicystic orbital mass with variable contrast enhancement. What is the appropriate management?",
+  "options": {
+   "A": "systemic corticosteroids",
+   "B": "excisional biopsy",
+   "C": "incision and drainage",
+   "D": "admission for broad spectrum intravenous antibiotics"
+  },
+  "markedAnswer": "A",
+  "explanation": "Lymphatic malformations of the orbit may present with sudden proptosis caused by spontaneous intralesional hemorrhage. Exacerbations tend to occur during upper respiratory tract infections and can be managed with a short course of systemic corticosteroids. Surgical intervention is deferred unless vision is aﬀected. Systemic workup and systemic antibiotics are not indicated in this disorder. Complete surgical excision is often diﬃcult, and attempts are reserved for cases where there is a threat of permanent vision loss.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 81,
+  "question": "What type of exodeviation is most commonly seen in the general population?",
+  "options": {
+   "A": "infantile exotropia",
+   "B": "intermittent exotropia",
+   "C": "type 2 Duane retraction syndrome",
+   "D": "pseudoexotropia"
+  },
+  "markedAnswer": "B",
+  "explanation": "Intermittent exotropia is the most common exodeviation. Infantile exotropia and type 2 Duane retraction syndrome are uncommon entities. Pseudoexotropia is the result of certain facial features or a structural abnormality of the retina and is not a true strabismus disorder.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 82,
+  "question": "A 6-year-old child presents with a 35Δ intermittent exotropia at distance and a 20Δ intermittent exotropia at near. After the patch test, measurements for this patient are 35Δ exotropia at distance and 30Δ exotropia at near. What is the most likely diagnosis?",
+  "options": {
+   "A": "intermittent exotropia with a high accommodative convergence/accommodation (AC/A) ratio",
+   "B": "basic intermittent exotropia",
+   "C": "divergence excess intermittent exotropia",
+   "D": "pseudodivergence excess intermittent exotropia"
+  },
+  "markedAnswer": "D",
+  "explanation": "When the exodeviation at distance is larger than the deviation at near ﬁxation by 10Δ or more, but the distance and near measurements become similar after 30–60 minutes of binocular occlusion using a patch (the patch test), pseudodivergence excess intermittent exotropia is the likely diagnosis. An intermittent exotropia may become constant after disruption of binocular fusion with patch testing. In true divergence excess intermittent exotropia, the distance–near discrepancy would persist after patch testing. A patient with distance– near discrepancy may have a high accommodative convergence/accommodation (AC/A) ratio, which would be deﬁned by BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 83,
+  "question": "Seven days following strabismus surgery, a patient presents with mild corneal thinning anterior to the limbus. Fluorescein reveals pooling in the area of depression. What is the most appropriate initial treatment?",
+  "options": {
+   "A": "topical corticosteroids",
+   "B": "conjunctival resection",
+   "C": "topical antibiotics",
+   "D": "frequent lubrication"
+  },
+  "markedAnswer": "D",
+  "explanation": "Dellen refers to shallow depressions and corneal thinning just anterior to the limbus. These occur when raised abnormal bulbar conjunctiva prevents the eyelid from adequately resurfacing the cornea with tear ﬂuid during blinking. Artiﬁcial tears and lubricants are used until the BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 84,
+  "question": "What is the maximum distance from the muscle insertion that an instrument can be placed during strabismus surgery without causing iatrogenic injury to the nerves innervating the rectus muscles?",
+  "options": {
+   "A": "20 mm",
+   "B": "25 mm",
+   "C": "10 mm",
+   "D": "15 mm"
+  },
+  "markedAnswer": "B",
+  "explanation": "The nerves to the rectus muscles and the superior oblique muscle enter the muscles approximately one-third of the distance from the origin to the insertion (or trochlea). An instrument thrust more than 26 mm posterior to a rectus muscle's insertion may cause injury to the nerve.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 85,
+  "question": "Aside from gestational age, what is the most signiﬁcant risk factor for development of retinopathy of prematurity (ROP)?",
+  "options": {
+   "A": "poor postnatal weight gain",
+   "B": "low serum IGF-1 levels",
+   "C": "excessive supplemental oxygen administration",
+   "D": "low birth weight"
+  },
+  "markedAnswer": "D",
+  "explanation": "The major risk factors for ROP are gestational age (< 30 weeks) and low birth weight (< 1500 g). Excessive supplemental oxygen administration is considered to be another risk factor for the development of ROP. Poor postnatal weight gain and low serum IGF-1 levels are predictors of severe ROP and have been used in screening protocols.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 86,
+  "question": "An 18-month-old boy who underwent bilateral nasolacrimal duct probing 6 months ago presents with recurrent epiphora and mucopurulent discharge from each eye. What is the most appropriate management?",
+  "options": {
+   "A": "balloon dacryoplasty",
+   "B": "dacryocystorhinostomy",
+   "C": "lacrimal massage",
+   "D": "dacryocystography"
+  },
+  "markedAnswer": "A",
+  "explanation": "Nasolacrimal duct (NLD) probing is indicated for congenital NLD obstruction that fails to resolve with age and conservative treatment, for a dacryocystocele in the newborn that is unresponsive to massage, and for previously failed NLD probing procedures. NLD probing is performed by passing Bowman probes of appropriate sizes through the canaliculus into the nasolacrimal sac, and then down the nasolacrimal duct into the nose. The patency of the NLD system is conﬁrmed by metal-on-metal contact in the nose, as illustrated, and/or by successful irrigation of ﬂuorescein solution into the nasopharynx. Infracture of the inferior turbinate is often performed in addition to the probing. Some surgeons employ balloon catheter dilation, intubation, or nasal endoscopy during the ﬁrst surgery for NLD obstruction, but most reserve their use for patients who require a second procedure, as does the patient in this case.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 87,
+  "question": "Four weeks after bilateral medial rectus muscle recession, a patient presents with a new exotropia of 15 prism diopters. On examination, there is limited adduction of the right eye. What is the most likely diagnosis?",
+  "options": {
+   "A": "conjunctival scarring",
+   "B": "slipped muscle",
+   "C": "adherence syndrome",
+   "D": "anterior segment ischemia"
+  },
+  "markedAnswer": "B",
+  "explanation": "Limited adduction is evidence that the medial rectus muscle has reattached too far posteriorly to be eﬀective as an adductor of the eye. Anterior-segment ischemia does not typically limit rotation and would not be expected after operation on only one extraocular muscle per eye. Adherence syndrome causing restriction would arise from adherence created on the opposite aspect of the globe, and the lateral rectus muscle was not included in the procedure. Conjunctival scarring over the medial rectus muscle would, if anything, limit abduction. 10 years.",
+  "imageUrl": "/images/pediatric-bcsc/p92_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 88,
+  "question": "What is the average age of onset of refractive accommodative esotropia?",
+  "options": {
+   "A": "10 years",
+   "B": "18 years",
+   "C": "4 months",
+   "D": "2.5 years"
+  },
+  "markedAnswer": "D",
+  "explanation": "Refractive accommodative esotropia is deﬁned as a convergent deviation of the eyes associated with activation of the accommodative reﬂex. The age of onset is generally between 6 months and 7 years of age, the average being 2.5 years of age.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 89,
+  "question": "A 3-year-old boy was poked in the eye with a pencil. Slit-lamp examination shows a subconjunctival hemorrhage, a small conjunctival laceration, and an eccentric pupil. What is the preferred next step in management?",
+  "options": {
+   "A": "use of topical antibiotics",
+   "B": "placement of bandage contact lens",
+   "C": "examination under anesthesia",
+   "D": "observation"
+  },
+  "markedAnswer": "C",
+  "explanation": "Penetrating injuries in children can often have subtle signs. In the setting of an injury, an eccentric or peaked pupil is suggestive of penetrating injury, which requires an examination under anesthesia (EUA) for exploration and repair. Topical antibiotics are not preferred initial treatments. Placing a bandage contact lens or any other device on the eye is contraindicated if there is risk for globe penetration. Observation alone is relatively contraindicated due to the risk of vision- threatening complications of a penetrating injury.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 90,
+  "question": "The classic triad of spasmus nutans includes ocular oscillations, head nodding, and what other symptom?",
+  "options": {
+   "A": "strabismus",
+   "B": "torticollis",
+   "C": "vertigo",
+   "D": "reduced deep tendon reﬂexes"
+  },
+  "markedAnswer": "B",
+  "explanation": "The classic triad of spasmus nutans is nystagmus, head nodding, and torticollis. Spasmus nutans typically develops in the ﬁrst year of life, manifesting as intermittent, binocular, very small amplitude, high- BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 91,
+  "question": "What extraocular muscle is responsible for elevation of the eye in adduction?",
+  "options": {
+   "A": "inferior rectus",
+   "B": "inferior oblique",
+   "C": "superior rectus",
+   "D": "superior oblique"
+  },
+  "markedAnswer": "B",
+  "explanation": "The movements of the vertical and oblique muscles are complex because in primary position, the muscle axes are not in alignment with the visual axis. Therefore, when an eye is adducted, the inferior oblique is the primary elevator. The superior rectus is the primary elevator in abduction. Neither the superior oblique nor inferior rectus muscles are elevators of the eye.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 92,
+  "question": "What is the natural course of an eyelid hemangioma in a newborn?",
+  "options": {
+   "A": "growth throughout early childhood",
+   "B": "regression throughout early childhood",
+   "C": "growth for several months, followed by regression",
+   "D": "regression for several months, followed by recurrence"
+  },
+  "markedAnswer": "C",
+  "explanation": "Hemangiomas (previously termed capillary or strawberry hemangiomas) are congenital lesions that become evident after the ﬁrst few weeks of life. Treatment is indicated if the lesion involves the BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 93,
+  "question": "What is the preferred ﬁrst-line treatment for primary congenital glaucoma in a child with an edematous cornea?",
+  "options": {
+   "A": "goniotomy",
+   "B": "tube shunt",
+   "C": "cyclophotocoagulation",
+   "D": "trabeculotomy"
+  },
+  "markedAnswer": "D",
+  "explanation": "The primary treatment for childhood glaucoma is surgery. The ﬁrst-line treatment for primary congenital glaucoma (PCG) is angle surgery, either goniotomy or trabeculotomy. Because goniotomy requires an incision to be made across the trabecular meshwork under direct gonioscopic visualization, a clear cornea is necessary to enable this surgery. In a child with PCG and an edematous cornea, trabeculotomy BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 94,
+  "question": "A mother brings her 7-year-old son in for evaluation after observing his excessive blinking. His ophthalmologic examination is unremarkable. What is the preferred management?",
+  "options": {
+   "A": "emergent magnetic resonance imaging (MRI) of the brain",
+   "B": "psychiatric consultation",
+   "C": "reassurance and observation",
+   "D": "neurologic consultation"
+  },
+  "markedAnswer": "C",
+  "explanation": "Excessive blinking is a common complaint in children. Medical causes can include surface irritation, dry eye syndrome, allergic conjunctivitis, intermittent strabismus, uncorrected refractive error, and tics. However, BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 95,
+  "question": "An otherwise-healthy 5-year-old child presents for evaluation of a conjunctival lesion. On examination, the child is found to have a dermolipoma located near the temporal fornix in his left eye. The child is playful and appears asymptomatic. Other than the dermolipoma, the remainder of the examination is unremarkable. What is the most appropriate next step in the management of this patient's condition?",
+  "options": {
+   "A": "ocular lubrication",
+   "B": "immediate excision without conjunctival graft",
+   "C": "observation",
+   "D": "immediate excision with conjunctival graft"
+  },
+  "markedAnswer": "C",
+  "explanation": "Lipodermoid tumors are complex choristomas composed of fatty tissue and dense connective tissue. Little if any postnatal growth occurs. Thus, there is no urgency for their removal unless irritation symptoms develop.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 96,
+  "question": "A patient presents with cognitive disabilities and retinal phakomas. What additional ﬁndings would suggest a diagnosis of tuberous sclerosis?",
+  "options": {
+   "A": "plexiform neuroﬁbromas",
+   "B": "acoustic neuromas",
+   "C": "facial angioﬁbromas",
+   "D": "Lisch nodules"
+  },
+  "markedAnswer": "C",
+  "explanation": "Tuberous sclerosis (Bourneville disease) is a phakomatosis associated with defects in the tuberin gene or hamartin gene. The most common retinal ﬁnding is retinal phakoma. Associated ﬁndings include cognitive BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 97,
+  "question": "A congenital iris coloboma typically occurs in what quadrant?",
+  "options": {
+   "A": "superonasal",
+   "B": "superotemporal",
+   "C": "inferonasal",
+   "D": "inferotemporal"
+  },
+  "markedAnswer": "C",
+  "explanation": "Typical iris colobomas are located inferonasally. The location of embryonic ﬁssure closure correlates with the inferonasal quadrant, which is where colobomas are clinically found.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 98,
+  "question": "What is the most frequent cause of childhood visual impairment in developed countries?",
+  "options": {
+   "A": "pregeniculate visual impairment",
+   "B": "retrogeniculate visual impairment",
+   "C": "cognitive impairment",
+   "D": "delayed visual maturation"
+  },
+  "markedAnswer": "B",
+  "explanation": "Visual dysfunction in infants and children is classiﬁed into 3 major categories: delayed visual maturation pregeniculate visual impairment retrogeniculate visual impairment Cognitive impairment, though it can aﬀect the language-learning ability and other visually oriented skills, is not a classiﬁcation of visual dysfunction. Delayed visual maturation occurs when normal visual ﬁxation and tracking does not develop within the ﬁrst 3 months of life. Pregeniculate visual impairment refers to visual deﬁcits related to pathology anterior to the lateral geniculate nucleus. Retrogeniculate visual impairment (also termed cerebral visual impairment [CVI]) refers to visual deﬁcits related to pathology posterior to the lateral geniculate nucleus. Retrogeniculate visual impairment is the most frequent cause of childhood visual impairment in developed countries.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 99,
+  "question": "A child is uncooperative during an eye examination. What is the most appropriate step to take?",
+  "options": {
+   "A": "Refer the child elsewhere.",
+   "B": "Restrain the child.",
+   "C": "Try a combination of rest periods, persistence, and, if necessary, a return visit.",
+   "D": "Schedule the patient for an immediate examination under anesthesia."
+  },
+  "markedAnswer": "C",
+  "explanation": "Most infants and children can be examined successfully in the oﬃce. A combination of persuasion, rest, playing, and in some cases rescheduling for a diﬀerent day may be necessary. The practitioner needs to balance the emotional consequences of restraint for the patient and caregivers. An examination under anesthesia may become necessary if an adequate examination cannot be performed in the oﬃce.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 100,
+  "question": "What extraocular muscle is most commonly injured by a retrobulbar injection?",
+  "options": {
+   "A": "inferior rectus",
+   "B": "inferior oblique",
+   "C": "medial rectus",
+   "D": "lateral rectus"
+  },
+  "markedAnswer": "A",
+  "explanation": "The extraocular muscles (EOMs) can be damaged from retrobulbar injections, either by direct injury to muscles or from toxicity of the injected material. Because of the usual site of these injections, the vertical rectus muscles are the most vulnerable. 2 50 per pag.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 101,
+  "question": "A patient with a left face turn has absent left eye abduction with left globe retraction upon adduction. She denies diplopia. What brain magnetic resonance imaging (MRI) ﬁnding would be consistent with this clinical condition?",
+  "options": {
+   "A": "absent left sixth cranial nerve",
+   "B": "infarction of left sixth nerve nucleus",
+   "C": "left lateral rectus muscle aplasia",
+   "D": "thrombosed cavernous carotid aneurysm"
+  },
+  "markedAnswer": "A",
+  "explanation": "Absent unilateral or bilateral abduction with globe retraction upon attempted adduction occurs in Duane syndrome. The left eye is more frequently aﬀected, and the condition is more common in females. Duane syndrome is caused by a congenital maldevelopment or absence of the sixth nerve nucleus and/or nerve. A cavernous carotid aneurysm can cause sixth nerve palsy, but it will not produce globe BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 102,
+  "question": "For a patient with a refraction of +2.00 +3.50 x 90 in the right eye and +1.75 +3.75 x 90 in the left eye, what type of amblyopia is most likely to be present?",
+  "options": {
+   "A": "strabismic amblyopia",
+   "B": "deprivational amblyopia",
+   "C": "meridional amblyopia",
+   "D": "anisometropic amblyopia"
+  },
+  "markedAnswer": "C",
+  "explanation": "Meridional amblyopia occurs in the setting of uncorrected high astigmatism, causing loss of resolving ability speciﬁc to the chronically blurred meridians. This is a type of isoametropic amblyopia, which is bilateral decreased visual acuity from chronically defocused retinal BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 103,
+  "question": "What is the most common cause of visual impairment in children with abusive head trauma?",
+  "options": {
+   "A": "retinal detachment",
+   "B": "optic atrophy",
+   "C": "cortical or cerebral injury",
+   "D": "vitreous hemorrhage"
+  },
+  "markedAnswer": "C",
+  "explanation": "The most common cause of visual impairment in children with abusive head trauma is from cortical or cerebral visual injury due to neurologic damage. Optic atrophy and retinal injury can also cause decreased vision, but they are less-common causes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 104,
+  "question": "What characterizes the slow phase seen in ocular motor recordings of patients with infantile nystagmus syndrome?",
+  "options": {
+   "A": "decelerating velocity",
+   "B": "alternating accelerating and decelerating velocity",
+   "C": "accelerating velocity",
+   "D": "linear velocity"
+  },
+  "markedAnswer": "C",
+  "explanation": "Infantile nystagmus syndrome (congenital nystagmus) has a diagnostic ocular motor recording of an accelerating slow phase. Fusion maldevelopment nystagmus syndrome (latent or manifest latent nystagmus) ocular motor recordings show 2 types of slow phases: linear and decelerating.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 105,
+  "question": "A 4-day-old infant presents with chemosis, signiﬁcant discharge, and corneal ulceration. What is the most likely diagnosis?",
+  "options": {
+   "A": "Neisseria gonorrhoeae conjunctivitis",
+   "B": "herpes simplex virus conjunctivitis",
+   "C": "chlamydial conjunctivitis",
+   "D": "chemical conjunctivitis"
+  },
+  "markedAnswer": "A",
+  "explanation": "Ophthalmia neonatorum caused by Neisseria gonorrhoeae typically presents in the ﬁrst 3–4 days of life. In severe cases, it is associated with marked chemosis, signiﬁcant discharge, and a risk of corneal perforation. Chemical conjunctivitis is a mild, self-limited inﬂammation occurring in the ﬁrst 24 hours of life due to instillation of silver nitrate. Herpes simplex virus conjunctivitis usually presents later, often in the second week of life. Chlamydial conjunctivitis usually occurs around 1 week of age and is associated with minimal to moderate discharge and possible pseudomembrane formation.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 106,
+  "question": "A 5-month-old girl presents for evaluation of a large-angle exotropia and face turn that have been present since birth. What clinical feature can be seen in children with this type of strabismus?",
+  "options": {
+   "A": "convergence-retraction nystagmus",
+   "B": "neurologic impairment",
+   "C": "cross-ﬁxation",
+   "D": "high hyperopia"
+  },
+  "markedAnswer": "B",
+  "explanation": "Infantile exotropia is characterized by a large-angle outward deviation that is often associated with neurologic impairment or craniofacial disorders. Although the child may appear healthy, a careful developmental history is important, and referral for neurologic evaluation should be considered if there are indications of developmental delay. High hyperopia is associated with accommodative esotropia. Cross-ﬁxation occurs in a large-angle esotropia with the use of the adducted eye for ﬁxation of objects in the contralateral temporal ﬁeld. Convergence-retraction nystagmus is part of the dorsal midbrain syndrome, associated with paralysis of upward gaze, defective convergence, eyelid retraction, and pupillary light-near dissociation. With attempted upgaze, co-contraction of all the horizontal muscles BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 107,
+  "question": "What would be the preferred surgical treatment to treat the exodeviation from a sensory exotropia caused by a macular scar in the right eye?",
+  "options": {
+   "A": "bilateral medial rectus muscle resection",
+   "B": "lateral rectus recession and medial rectus resection in the left eye",
+   "C": "bilateral lateral rectus muscle recession",
+   "D": "lateral rectus recession and medial rectus resection in the right eye"
+  },
+  "markedAnswer": "D",
+  "explanation": "Surgical treatment of a sensory exotropia would include a recession and resection procedure of the nonpreferred or nondominant eye. This reduces the risk to the dominant eye from the complications of BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 108,
+  "question": "What Gram stain result is consistent with the diagnosis of neonatal conjunctivitis caused by Neisseria gonorrhoeae?",
+  "options": {
+   "A": "gram-positive cocci in pairs",
+   "B": "gram-negative cocci in pairs",
+   "C": "gram-negative cocci in chains",
+   "D": "gram-positive cocci in chains"
+  },
+  "markedAnswer": "B",
+  "explanation": "The Gram stain appearance of Neisseria gonorrhoeae is gram-negative intracellular diplococci (GNID) (ie, red-staining cocci in pairs). Gram- positive cocci growing in pairs or chains include species of Streptococcus, Enterococcus, and Micrococcus. Staphylococci are gram-positive cocci that grow in clusters. Gram-negative cocci do not typically form chains.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 109,
+  "question": "What is the mechanism of action of botulinum toxin?",
+  "options": {
+   "A": "It persistently depolarizes the postsynaptic motor end plate.",
+   "B": "It increases cholinesterase activity in the neuromuscular junction.",
+   "C": "It blocks acetylcholine receptors in the postsynaptic motor end plate.",
+   "D": "It prevents the release of acetylcholine from presynaptic motoneurons."
+  },
+  "markedAnswer": "D",
+  "explanation": "Puriﬁed botulinum toxin type A is used for various ophthalmic applications for its eﬀect at paralyzing muscles in a local area. The botulinum toxin binds to the presynaptic motoneuron of skeletal muscles and prevents the release of acetylcholine into the BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 110,
+  "question": "On examination of a patient with congenital glaucoma, what ﬁnding can dynamically change and indicate progressive glaucoma, even though intraocular pressure (IOP) appears to be controlled?",
+  "options": {
+   "A": "gonioscopic ﬁndings",
+   "B": "corneal thickness",
+   "C": "axial length",
+   "D": "astigmatism"
+  },
+  "markedAnswer": "C",
+  "explanation": "In children younger than 3 years, the sclera is elastic and will stretch if IOP is not well controlled. This can result in increased axial length despite a normal-range IOP during examination under anesthesia. Corneal thickness decreases as corneal edema resolves and, once stable, is often less than the average central corneal thickness. The angle can further develop as a child ages, but this does not indicate poor pressure control. Astigmatism is not a sign of progressive glaucoma.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 111,
+  "question": "A 7-year-old boy is diagnosed with mild exacerbation of orbital lymphatic malformation (orbital lymphangioma) in the right eye during an upper respiratory infection. Examination reveals normal visual acuity, normal optic nerve function, and 2 mm of right eye proptosis. What is the most appropriate initial management?",
+  "options": {
+   "A": "surgical decompression of tumor",
+   "B": "cold compresses and corneal lubricants",
+   "C": "intravenous (IV) methylprednisolone",
+   "D": "topical corticosteroids"
+  },
+  "markedAnswer": "B",
+  "explanation": "Exacerbations of orbital lymphatic malformations (lymphangiomas) tend to occur with upper respiratory infections and can typically be managed conservatively if vision is not being threatened. A course of systemic steroids can be used in cases of marked ptosis or decreased vision. Surgical decompression may be done for acute orbital symptoms, but complete resection is not possible, due to the inﬁltrative nature of this type of lesion. There is no role for topical corticosteroids. Newer treatments include oral sildenaﬁl and intralesional injection of sclerosing agents.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 112,
+  "question": "In a child with preseptal cellulitis, what examination ﬁnding would prompt orbital imaging?",
+  "options": {
+   "A": "tenderness to palpation",
+   "B": "extraocular motility deﬁcits",
+   "C": "eyelid edema extending to the forehead",
+   "D": "contralateral eyelid edema"
+  },
+  "markedAnswer": "B",
+  "explanation": "Extraocular motility defects suggest orbital involvement of cellulitis, which requires imaging. Tenderness to palpation, lid edema extending to the forehead, and even contralateral eyelid edema are seen with preseptal cellulitis but do not indicate orbital involvement.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 113,
+  "question": "What clinical feature best distinguishes Apert syndrome from Crouzon syndrome?",
+  "options": {
+   "A": "hydrocephalus",
+   "B": "hypertelorism",
+   "C": "syndactyly",
+   "D": "proptosis"
+  },
+  "markedAnswer": "C",
+  "explanation": "Crouzon and Apert syndromes have similar clinical appearances. However, Apert syndrome is associated with an extreme amount of syndactyly. Both syndromes are associated with hypertelorism, BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 114,
+  "question": "What are the demographic and epidemiologic characteristics of pediatric uveitis?",
+  "options": {
+   "A": "slight female preponderance, mostly unilateral, age 5–6 at diagnosis, positive family history",
+   "B": "slight female preponderance, mostly bilateral, age 8–9 at diagnosis, no family history",
+   "C": "slight male preponderance, mostly bilateral, age 8–9 at diagnosis, positive family history",
+   "D": "slight male preponderance, mostly unilateral, age 5–6 at diagnosis, no family history"
+  },
+  "markedAnswer": "B",
+  "explanation": "Pediatric uveitis represents about 10% of all uveitis cases. The distribution between females and males is similar to that found in adults; there is a slight female preponderance. The mean age at diagnosis is 8–9 years. Most types of uveitis are not inherited, although some are associated with various HLA types.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 115,
+  "question": "What pattern strabismus would be most successfully addressed with bilateral weakening of the inferior oblique muscles?",
+  "options": {
+   "A": "Y pattern",
+   "B": "X pattern",
+   "C": "V pattern",
+   "D": "A pattern"
+  },
+  "markedAnswer": "C",
+  "explanation": "Inferior oblique overaction commonly causes a V pattern. A patterns are most commonly caused by superior oblique overaction. X and Y patterns result from pseudo-overaction of the inferior oblique muscles, and weakening them would not collapse the pattern.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 116,
+  "question": "A child has craniosynostosis with hydrocephalus, normal intelligence, and normal hands and feet. What craniosynostosis syndrome is most likely?",
+  "options": {
+   "A": "Apert syndrome",
+   "B": "Pfeiﬀer syndrome",
+   "C": "Saethre-Chotzen syndrome",
+   "D": "Crouzon syndrome"
+  },
+  "markedAnswer": "D",
+  "explanation": "Common features of the craniosynostosis syndromes include fusion of multiple calvarial sutures and skull base sutures. Syndactyly (partial fusion of the digits) and brachydactyly (short digits) are hallmarks of the craniosynostosis syndromes, with the exception of Crouzon syndrome. Crouzon syndrome is the most common craniosynostosis syndrome. Hydrocephalus is common but intelligence is usually normal. The absence of anomalies of the hands and feet can aid in the diagnosis of Crouzon syndrome.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 118,
+  "question": "Epiblepharon is a congenital anomaly of the eyelid characterized by what anatomical ﬁndings?",
+  "options": {
+   "A": "crescent-shaped fold of skin running vertically between the eyelids and overlying the inner canthus",
+   "B": "horizontal fold of skin adjacent to the lower eyelid, causing inward rotation of the lashes against the cornea",
+   "C": "eversion of the eyelid margin secondary to a vertical deﬁciency of the skin",
+   "D": "enlargement of the lateral aspect of the palpebral ﬁssure, with downward displacement of a temporal half of the lower eyelid"
+  },
+  "markedAnswer": "B",
+  "explanation": "Epiblepharon is a congenital anomaly in which a horizontal fold of skin adjacent to either the upper or lower eyelid—most commonly, the lower eyelid—may rotate the lashes inward against the cornea, as shown. The eyelid margin is in normal height with respect to the globe. The eyelashes are noted to be rubbing against the conjunctiva and cornea; however, the cornea tends to tolerate this condition well, and it is often minimally symptomatic. The condition tends to occur more frequently in chubby-cheeked and Asian infants. Unlike congenital entropion, epiblepharon often resolves spontaneously in the ﬁrst 2 years of life. Cases that do not resolve or that cause chronic corneal irritation require surgical repair. The crescent-shaped fold of skin running vertically between the eyelids and overlying the inner canthus is the epicanthus. The eversion of the eyelid margin secondary to a vertical deﬁciency of the skin is congenital ectropion. Euryblepharon is enlargement of the lateral aspect of the palpebral ﬁssure, with downward displacement of a temporal half of the lower eyelid. 801b- 4bc2- bf87- a96f4e2a45dc&t=636420407478070000)",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 119,
+  "question": "What is the most likely cause of elevated intraocular pressure (IOP) in an 18-month-old boy?",
+  "options": {
+   "A": "anteriorly rotated iris stump causing angle closure",
+   "B": "elevated episcleral venous pressure",
+   "C": "pupillary block due to small, globular lens",
+   "D": "isolated trabeculodysgenesis"
+  },
+  "markedAnswer": "D",
+  "explanation": "Primary congenital glaucoma is characterized by isolated trabeculodysgenesis, which accounts for the majority of primary pediatric glaucomas. Most cases are diagnosed within the ﬁrst year of life, and prognosis is best when glaucoma is diagnosed between 3 and 12 months of age. Glaucoma associated with Sturge-Weber syndrome may occur in infancy or late childhood with the former being more likely. When glaucoma develops in infancy in this syndrome, the mechanism is isolated trabeculodysgenesis, whereas in late childhood or adolescence, the mechanism is elevated episcleral venous pressure due to the arteriovenous shunts in episcleral hemangiomas. Pupillary block due to a microspherophakic lens is seen in Weill- Marchesani syndrome and usually presents in late childhood or young adulthood. High myopia with a shallow anterior chamber in a young adult should raise suspicion for this condition. Aniridia is characterized by profound iris hypoplasia, which is present at birth. Glaucoma, however, may develop in late childhood or early adulthood, possibly due to postsurgical changes in patients who have had angle surgery.",
+  "imageUrl": "/images/pediatric-bcsc/p125_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 120,
+  "question": "During the initial examination of a 5- year-old child, vertical tears in Descemet membrane in the child's left eye are noted. Horizontal corneal diameter is equal and normal in both eyes. What is the most likely cause of the ﬁndings?",
+  "options": {
+   "A": "forceps birth injury",
+   "B": "congenital endothelial dystrophy",
+   "C": "congenital glaucoma",
+   "D": "acute hydrops"
+  },
+  "markedAnswer": "A",
+  "explanation": "Traumatic breaks in Descemet membrane can be caused by forceps trauma during delivery. Other signs of trauma are frequently apparent on the child’s head. Traumatic breaks are usually vertical and linear, unlike the curvilinear and often horizontal Haab striae of congenital glaucoma.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 121,
+  "question": "What type of nystagmus reverses direction with change in ﬁxation?",
+  "options": {
+   "A": "spasmus nutans",
+   "B": "central vestibular instability (periodic alternating)",
+   "C": "fusion maldevelopment",
+   "D": "convergence-retraction"
+  },
+  "markedAnswer": "C",
+  "explanation": "Fusion maldevelopment nystagmus syndrome (or latent nystagmus) is a form of infantile-onset nystagmus. It is a conjugate, horizontal jerk nystagmus that reverses direction with change in ﬁxation. A left jerk nystagmus occurs when the right eye is covered, and a right jerk occurs when the left is covered. Spasmus nutans presents as a triad of small-amplitude, high-frequency, dysconjugate nystagmus; head nodding; and torticollis. Convergence-retraction nystagmus occurs with co-contraction of all the horizontal extraocular muscles, resulting in globe retraction and convergence in attempted upgaze. Central vestibular instability nystagmus (periodic alternating nystagmus) is a jerk nystagmus that periodically changes direction (often every 4 minutes), with potentially alternating head turn, but the direction is not related to ﬁxation.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 122,
+  "question": "A 5-year-old boy presents with an esotropia that occurs every third day. The ophthalmologist conﬁrms this observation and has examined him on a day he is esotropic and on days that he is orthotropic. What is the best treatment for this child?",
+  "options": {
+   "A": "glasses for +1.0 refractive error",
+   "B": "patch 1 eye for 2 hours on strabismic days",
+   "C": "surgery for the maximum angle of esotropia",
+   "D": "observation to see if this will resolve spontaneously"
+  },
+  "markedAnswer": "C",
+  "explanation": "This patient has cyclic esotropia. Surgery for the maximum angle of esotropia is indicated. Any accommodative component should be addressed, but +1.0 refractive error does not suggest an accommodative esotropia, and glasses are not likely to be of beneﬁt. This is not likely to resolve spontaneously. Occlusion therapy may convert the cyclic deviation into a constant one. These patients are not typically amblyopic.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 123,
+  "question": "A 4-year-old girl is newly diagnosed with iridocyclitis. She has had swelling of the left knee in the past, and the antinuclear antibody (ANA) titer is positive. In addition to corticosteroid eyedrops, what type of topical medication should be started?",
+  "options": {
+   "A": "nonsteroidal anti-inﬂammatory drug (NSAID)",
+   "B": "mydriatic",
+   "C": "beta-blocker",
+   "D": "miotic"
+  },
+  "markedAnswer": "B",
+  "explanation": "The patient has juvenile idiopathic arthritis with iridocyclitis. The inﬂammation in this condition is chronic, bilateral, and nongranulomatous. Posterior synechiae are very frequent and, when extensive, can lead to pupillary block and acute secondary angle closure. A mydriatic helps to break posterior synechiae and decrease the risk of this complication. Miotics are contraindicated in active inﬂammation. NSAIDs and oral corticosteroids can be considered in moderate and severe disease but are not typically used for initial treatment. Typically, methotrexate is BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 124,
+  "question": "A 5-year-old boy is found to have decreased vision in his left eye. The visual acuity is 20/25 in his right eye and 20/60 in his left eye. Cycloplegic retinoscopy is +1.00 sphere in the right eye and +1.75 sphere in the left eye. The sensorimotor examination is consistent with 25 prism diopters of esotropia. What is the most likely cause of the patient's decreased vision?",
+  "options": {
+   "A": "deprivation amblyopia",
+   "B": "isoametropic amblyopia",
+   "C": "anisometropic amblyopia",
+   "D": "strabismic amblyopia"
+  },
+  "markedAnswer": "D",
+  "explanation": "Amblyopia is a unilateral or, less commonly, bilateral reduction of best- corrected visual acuity that cannot be attributed directly to the eﬀect of any structural abnormality of the eye or posterior visual pathways. Etiologies include strabismic, anisometropic, isoametropic (high bilateral refractive error), or deprivation. While 25 PD of esotropia is very likely to cause amblyopia, a relatively small amount of anisometropia (+0.75) is less likely to do so. In this case, the patient has an esotropia; thus, strabismus is the cause.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 125,
+  "question": "A child is diagnosed with orbital rhabdomyosarcoma. What is the most likely ﬁnding on examination?",
+  "options": {
+   "A": "blepharoptosis",
+   "B": "proptosis",
+   "C": "palpable mass",
+   "D": "pain"
+  },
+  "markedAnswer": "B",
+  "explanation": "Rhabdomyosarcoma is the most common primary pediatric malignancy of the orbit and it is thought to originate from undiﬀerentiated mesenchymal cells. The patient usually presents with rapidly progressing painless proptosis, globe displacement, and BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 126,
+  "question": "What is the ophthalmic clinical feature most commonly associated with Goldenhar syndrome?",
+  "options": {
+   "A": "eyelid ptosis",
+   "B": "exophthalmos",
+   "C": "cortical cataract",
+   "D": "limbal dermoid"
+  },
+  "markedAnswer": "D",
+  "explanation": "Goldenhar syndrome (oculoauricular dysplasia) is frequently associated with limbal dermoids, which can be bilateral in 25% of cases. They occasionally impinge on the visual axis, but they most likely aﬀect vision by inducing astigmatism. In addition, Goldenhar syndrome can be associated with eyelid colobomas, ptosis, narrow palpebral ﬁssures, and Duane retraction syndrome. Exophthalmos is seen in Crouzon syndrome and Alpert syndrome, among other conditions; microphthalmos is seen in Goldenhar syndrome. Wedge-shaped cortical cataract is idiopathic or associated BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 127,
+  "question": "A 5-year-old child presents for evaluation of the lesions shown in the photo. Ophthalmologic examination also is signiﬁcant for nystagmus and ocular motor apraxia. What is the most likely underlying condition?",
+  "options": {
+   "A": "von Hippel-Lindau disease",
+   "B": "Louis-Bar syndrome",
+   "C": "Wyburn-Mason",
+   "D": "oculodermal melanocytosis"
+  },
+  "markedAnswer": "B",
+  "explanation": "Ataxia-telangiectasia (AT; Louis-Bar Syndrome) is an autosomal recessive disorder from a genetic mutation of the ATM gene on chromosome 11 that results in defective repair of DNA breaks. Children develop early-onset ataxia between 1 and 5 years of age. It is associated with cutaneous telangiectasia and visceral telangiectasias that can bleed. Patients characteristically have diﬃculty initiating saccades, with preservation of vestibular-ocular movements (ocular motor apraxia). Strabismus and nystagmus also may be present. Other associated features include immunologic deﬁciency with increased risk of infections, malignancy, and coarse hair and skin. Oculodermal melanocytosis (nevus of Ota) is a combined ocular and dermal pigmentation. In 10% of the patients, glaucoma occurs in the aﬀected eye. Malignant melanoma can develop in the skin, conjunctiva, uvea, or orbit. The lifetime risk of uveal melanoma is 1:400. Wyburn-Mason syndrome (racemose angioma) is a nonhereditary arteriovenous malformation of the eye and brain. Von Hippel-Lindau disease (angiomatosis of the retina and cerebellum) is characterized by capillary hemangioblastomas of the retina and the brain (often the cerebellum).",
+  "imageUrl": "/images/pediatric-bcsc/p134_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 128,
+  "question": "An 8-year-old child with acute myelogenous leukemia (AML) in remission presents with proptosis and a well-circumscribed lateral orbital mass on imaging. What is the most likely diagnosis?",
+  "options": {
+   "A": "chloroma",
+   "B": "neuroblastoma",
+   "C": "rhabdomyosarcoma",
+   "D": "lymphoma"
+  },
+  "markedAnswer": "A",
+  "explanation": "Leukemia may produce unilateral or bilateral proptosis in advanced stages. Chloroma (also known as granulocytic sarcoma or myeloid sarcoma) is a rare extramedullary variant of myelogenous leukemia that can develop as the sole manifestation of relapse after apparently successful treatment of AML. recent dental abscess.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 129,
+  "question": "For a 7-year-old child with orbital cellulitis, what would be the most likely characteristic of the causative source?",
+  "options": {
+   "A": "recent dental abscess",
+   "B": "polymicrobial infection",
+   "C": "single organism",
+   "D": "recent conjunctivitis"
+  },
+  "markedAnswer": "C",
+  "explanation": "Most young children with orbital cellulitis have infections caused by a single aerobic pathogen. In the neonate, S aureus and gram-negative bacilli are most common. In older children and adults, S aureus, Streptococcus pyogenes, and S pneumoniae are common etiologic agents. Concurrent infections with multiple pathogens, including gram- negative and anaerobic organisms, can occur in older or immunosuppressed patients. hypodactyly.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 130,
+  "question": "What clinical feature is typically seen in the hands of patients with Marfan syndrome?",
+  "options": {
+   "A": "hypodactyly",
+   "B": "arachnodactyly",
+   "C": "polydactyly",
+   "D": "brachydactyly"
+  },
+  "markedAnswer": "B",
+  "explanation": "Marfan syndrome is an autosomal dominant disorder caused by mutations in the ﬁbrillin gene, which is a major constituent of extracellular microﬁbrils. Aﬀected individuals are characteristically tall, with long limbs and ﬁngers (arachnodactyly); loose, ﬂexible joints; scoliosis; and chest deformities. Lens dislocation (ectopia lentis) can occur, but not the small, round lenses (microspherophakia) of patients with Weill-Marchesani syndrome. Polydactyly refers to having extra digits, whereas brachydactyly refers to having short digits. Hypodactyly refers to having fewer digits than normal.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 131,
+  "question": "For a pediatric patient diagnosed with Coats disease, what might the ophthalmologist expect to discover in the fundus evaluation?",
+  "options": {
+   "A": "bilateral temporal retinal dragging",
+   "B": "yellow subretinal and intraretinal exudates",
+   "C": "a white- to cream-colored mass beneath the retina",
+   "D": "subretinal ﬂuid accumulation and intraocular calciﬁcation"
+  },
+  "markedAnswer": "B",
+  "explanation": "The classic ﬁndings in Coats disease are unilateral yellow subretinal and intraretinal exudates associated with retinal vascular abnormalities-- most often telangiectasia, tortuosity, aneurysmal dilatations, and avascularity--with a variable clinical presentation, ranging from mild changes to total retinal detachment (ﬁgure). Once the fovea is detached and the subretinal exudate becomes organized, the prognosis for restoration of central vision is poor. Coats disease may mimic retinoblastoma. However, there is no white- to cream-colored mass. Intraocular calciﬁcation is extraordinarily rare in Coats disease. The etiology of Coats disease is unknown, but associations with various gene deletions have been reported. Treatment is directed at obliterating the abnormal vessels and includes cryotherapy or laser photocoagulation. The disease is stopped when the leaking vessels are destroyed. Recently, there have been reports of promising results with intravitreal bevacizumab and triamcinolone used as adjuncts to laser treatment. bc44- 4dda- 87ee- 1624f87921c1) .",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 132,
+  "question": "A 25-year-old individual has noticed episodes of intermittent vertical diplopia for several years. He has no history of recent injury or illness. He denies any other neurologic symptoms. Strabismus evaluation reveals a right hyperphoria in the primary position that increases on left gaze and on right head tilt. Fusional vertical amplitudes are 15 prism diopters. What would be helpful in arriving at the correct diagnosis?",
+  "options": {
+   "A": "neurological evaluation and magnetic resonance imaging (MRI)",
+   "B": "thyroid function testing",
+   "C": "acetylcholinesterase antibody testing",
+   "D": "old family photographs"
+  },
+  "markedAnswer": "D",
+  "explanation": "The history and ﬁndings are consistent with a congenital superior oblique weakness. Old family photographs may reveal a long-standing compensatory head tilt. The large vertical fusional amplitudes help diﬀerentiate a congenital superior oblique weakness from acquired disease. This distinction is important. If this were a recent onset of paresis with no history of trauma, a neurological evaluation and an MRI would be indicated. There are no associated signs that would indicate the individual has endocrine myopathy. There is no variability in the strabismus and no ptosis, making myasthenia gravis unlikely.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 133,
+  "question": "A patient has an electroretinography (ERG) result showing an extinguished photopic response. Specialized ERG testing shows normal function of the blue (short-wavelength) cones. What is the inheritance pattern of this disorder?",
+  "options": {
+   "A": "autosomal recessive",
+   "B": "sporadic",
+   "C": "autosomal dominant",
+   "D": "X-linked"
+  },
+  "markedAnswer": "D",
+  "explanation": "Blue-cone monochromatism is a cone dystrophy causing early-onset visual impairment and nystagmus. It is X-linked. In blue-cone monochromatism, the blue (short-wavelength) cones show normal function on specialized ERG testing, but the photopic response is usually extinguished.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 134,
+  "question": "In what genetic disorder is congenital iris ectropion most commonly seen?",
+  "options": {
+   "A": "cystinosis",
+   "B": "incontinentia pigmenti",
+   "C": "neuroﬁbromatosis 1",
+   "D": "Marfan syndrome"
+  },
+  "markedAnswer": "C",
+  "explanation": "Congenital iris ectropion can be an isolated ﬁnding or can be associated with neuroﬁbromatosis 1, Prader-Willi syndrome, or facial hemihypertrophy. Retinal abnormalities can be seen in incontinentia pigmenti, dislocated lenses in Marfan syndrome, and corneal crystals in cystinosis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 135,
+  "question": "A 7-year-old girl has an acute-onset esotropia with diplopia. The esotropia increases in left gaze and she has a left head turn. Her visual acuity is 20/20 in each eye and cycloplegic refraction is +1.00 OU. What is the next step in management?",
+  "options": {
+   "A": "eye muscle surgery",
+   "B": "orthoptic exercises",
+   "C": "neuroimaging",
+   "D": "hyperopic spectacle correction"
+  },
+  "markedAnswer": "C",
+  "explanation": "A sixth nerve palsy in an older child often presents with diplopia, a compensatory head turn toward the side of the paralyzed lateral rectus muscle, and an esotropia that increases in gaze toward the size of the paralyzed lateral rectus muscle. Vision is usually equal in both eyes if the child presents soon after the onset of deviation. Because sixth nerve palsy in older children is associated with intracranial lesions in one-third of cases, neuroimaging is recommended, even in the absence of other neurologic signs. Correction of hyperopia with glasses is the treatment for refractive accommodative esotropia. Patients have an average of +4.00 D of hyperopia. Eye muscle surgery may be used to treat an esotropia secondary to sixth nerve palsy if it does not resolve, but it would not be the initial management.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 136,
+  "question": "A 62-year-old woman developed horizontal binocular diplopia while driving 3 weeks ago. She has a 15 prism diopter right esotropia, which increases in right gaze. She refuses forced ductions. Saccades are evaluated. What ﬁnding supports the diagnosis of a right microvascular cranial nerve VI (CN VI) palsy over a restrictive right abduction deﬁcit?",
+  "options": {
+   "A": "shorter amplitude of saccade of right than left eye in right gaze",
+   "B": "shorter amplitude of saccade of left than right eye in right gaze",
+   "C": "slower saccade of the left than right eye in right gaze",
+   "D": "slower saccade of the right than left eye in right gaze"
+  },
+  "markedAnswer": "D",
+  "explanation": "Microvascular cranial nerve palsies render the aﬀected extraocular muscle weaker. Observing a slower saccade in the direction of muscle action suggests a paretic muscle rather than a restrictive process, seen in this case as slower abduction of the right lateral rectus compared to the adduction of the left medial rectus on right gaze. Classically, restriction from a tight medial rectus or other orbital connective tissue involvement would produce a similar saccade speed but shorter amplitude than that of the contralateral eye, indicating that the muscle, while functionally shorter, is still strong. Slower saccade of the left eye than the right eye in right gaze is incorrect because it suggests weakness of the left eye's medial rectus, a pattern common in left internuclear ophthalmoplegia. Shorter saccadic amplitude is incorrect because it does not diﬀerentiate paretic from restrictive processes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 137,
+  "question": "For a patient with sporadic aniridia, what is the most important associated extraocular condition that requires evaluation?",
+  "options": {
+   "A": "neuroblastoma",
+   "B": "Wilms tumor",
+   "C": "neuroﬁbromatosis",
+   "D": "Waardenburg syndrome"
+  },
+  "markedAnswer": "B",
+  "explanation": "In patients with sporadic aniridia, the presence of Wilms tumor must be excluded with renal ultrasonography, which must be repeated until molecular genetic analysis rules out an 11p13 deletion and conﬁrms an intragenic PAX6 mutation. Iris abnormalities that are associated with systemic abnormalities include neuroblastoma in patients with Horner syndrome, Lisch nodules in patients with neuroﬁbromatosis, and heterochromia in patients with Waardenburg syndrome.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 138,
+  "question": "At 18 months of age, a child develops a comitant esotropia that measures 20 prism-diopters (Δ) in primary position at near and distance. The child is not hyperopic and shows no lateral incomitance. What is her most likely diagnosis?",
+  "options": {
+   "A": "infantile esotropia",
+   "B": "basic acquired nonaccommodative esotropia",
+   "C": "accommodative esotropia",
+   "D": "cranial nerve VI palsy"
+  },
+  "markedAnswer": "B",
+  "explanation": "Basic acquired nonaccommodative esotropia develops in children after 6 months of age, and the amount of hyperopia is not signiﬁcant. It may be precipitated by disruption of binocular fusion (such as due to hyphema, preseptal cellulitis, ptosis, or patching for amblyopia). Patients with accommodative esotropia typically have hyperopia, with onset from 6 months to 7 years. Infants with esotropia, by deﬁnition, have onset prior to 6 months of age. Cranial nerve VI palsy would cause an incomitant esotropia.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 139,
+  "question": "A 3-year-old girl has had a droopy right-upper eyelid since birth. What clinical ﬁnding would indicate the need for surgical treatment?",
+  "options": {
+   "A": "2 mm of lid asymmetry",
+   "B": "amblyopia",
+   "C": "lagophthalmos",
+   "D": "exophoria"
+  },
+  "markedAnswer": "B",
+  "explanation": "Congenital ptosis may be associated with amblyopia due to occlusion of the visual axis or anisometropic astigmatism. If the amblyopia cannot be managed with glasses or patching, surgery is indicated. A speciﬁc amount of lid asymmetry is not an indication for surgery. Lagophthalmos may be a contraindication because surgery will make this worse. Exophoria is not an indication for surgery.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 140,
+  "question": "A 1-year-old patient is diagnosed with pseudoesotropia. Cycloplegic retinoscopy is +2.00 OU. What is the most appropriate management?",
+  "options": {
+   "A": "bilateral medial rectus recession",
+   "B": "spectacle correction of full cycloplegic retinoscopy",
+   "C": "reexamination of ocular alignment in 6-12 months",
+   "D": "surgical correction of epicanthus palpebralis"
+  },
+  "markedAnswer": "C",
+  "explanation": "The illusion of pseudoesotropia is commonly associated with prominent bilateral epicanthal folds. Because no real deviation exists, results of corneal light reﬂex testing and cover testing are normal. The appearance of pseudoesotropia changes with growth of the nasal bridge and does not require surgical correction. The amount of hypermetropia measured in this child is age appropriate. However, due to the hypermetropia and pseudoesotropic appearance, re-evaluation should be done to rule out the development of an accommodative esotropia in the future.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 141,
+  "question": "Patients with the sporadic form of the iris abnormality shown in the image are at increased risk for what extraocular malignancy?",
+  "options": {
+   "A": "kidney tumors",
+   "B": "brain tumors",
+   "C": "colon cancer",
+   "D": "tumors of the adrenal glands"
+  },
+  "markedAnswer": "A",
+  "explanation": "This image depicts aniridia. Although most cases of aniridia are inherited through autosomal dominant transmission, one-third of cases are isolated sporadic mutations, of which 20% are associated with an increased risk for Wilms tumor of the kidney. Wilms tumor results from a large chromosomal deletion, including the Wilms tumor 1 gene (WT1), a tumor suppressor gene. Colon cancer, brain tumors, and adrenal malignancies have not been linked to aniridia.",
+  "imageUrl": "/images/pediatric-bcsc/p149_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ }
+]

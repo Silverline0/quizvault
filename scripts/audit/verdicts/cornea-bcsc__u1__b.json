@@ -1,0 +1,492 @@
+[
+ {
+  "id": 1,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 2,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 3,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 4,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 5,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 6,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 7,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 8,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 9,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "medium"
+ },
+ {
+  "id": 10,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 11,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 12,
+  "verdict": "needs-image",
+  "proposedAnswer": null,
+  "reason": "The question asks only 'for the patient shown' with no other clinical description, and the diagnosis of mucous membrane pemphigoid (linear basement-membrane immunoreactants) is entirely an external-photo diagnosis, but imageUrl is null so there is no way to verify the patient actually has cicatrizing conjunctivitis rather than another condition.",
+  "confidence": "high"
+ },
+ {
+  "id": 13,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 14,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 15,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 16,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 17,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 18,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 19,
+  "verdict": "needs-image",
+  "proposedAnswer": null,
+  "reason": "The stem explicitly states 'a photo of her anterior segment examination is shown' and the answer requires identifying the condition (band keratopathy, per the explanation) from that photo, but imageUrl is null and the remaining text gives only nonspecific 6-month vision loss with no findings to identify the condition otherwise.",
+  "confidence": "high"
+ },
+ {
+  "id": 20,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 21,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 22,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 23,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 24,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 25,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 26,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 27,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "medium"
+ },
+ {
+  "id": 28,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 29,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 30,
+  "verdict": "needs-image",
+  "proposedAnswer": null,
+  "reason": "The question is purely a figure-identification task ('what structure is indicated by the arrow (figure)'), but imageUrl is null so there is no arrow or photograph to interpret, making it impossible to confirm the structure is a posterior embryotoxon/anteriorly displaced Schwalbe line as the explanation claims.",
+  "confidence": "high"
+ },
+ {
+  "id": 31,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 32,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 33,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 34,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 35,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 36,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 37,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 38,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 39,
+  "verdict": "needs-image",
+  "proposedAnswer": null,
+  "reason": "The diagnosis of atopic keratoconjunctivitis depends on visual findings (lichenification, stringy discharge, lid thickening/crusting/ptosis) that the explanation says are 'illustrated,' but imageUrl is null and the bare text stem of chronic itching and watering eyes alone cannot distinguish AKC from other allergic, dermatologic, or seborrheic diagnoses.",
+  "confidence": "high"
+ },
+ {
+  "id": 40,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 41,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 42,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 43,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 44,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 45,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 46,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 47,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 48,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 49,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 50,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 51,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 53,
+  "verdict": "needs-image",
+  "proposedAnswer": null,
+  "reason": "The stem asks only 'for the findings shown, what is the most likely causative organism' with no other clinical detail, but the linked image at p60_img1.png is actually a table of schematic-eye optical/refractive constants, not a clinical photograph of eyelid or corneal findings, so the visual findings needed to identify Staphylococcus are unavailable.",
+  "confidence": "high"
+ },
+ {
+  "id": 54,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 55,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 56,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 57,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 58,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 59,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 60,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 61,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 62,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 63,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "medium"
+ },
+ {
+  "id": 64,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 65,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 66,
+  "verdict": "unanswerable",
+  "proposedAnswer": null,
+  "reason": "The question stem consists only of 'What is the next appropriate step in this patient's management?' with no description anywhere of the patient, history, symptoms, medications, or exam findings, so there is no textual basis to determine which of the four options is correct, even though the explanation implies a toxic trifluridine keratopathy scenario.",
+  "confidence": "high"
+ },
+ {
+  "id": 67,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 68,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 69,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 70,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ },
+ {
+  "id": 71,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "reason": null,
+  "confidence": "high"
+ }
+]

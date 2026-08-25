@@ -76,8 +76,7 @@
    "B": 10,
    "C": 15,
    "D": 3
-  },
-  "imageUrl": null
+  }
  },
  {
   "id": 5,
@@ -357,7 +356,11 @@
    "C": 13,
    "D": 56
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p20_recovered18.jpg",
+  "figureRecovered": true,
+  "imageUrls": [
+   "/images/uveitis-bcsc/p20_recovered18_1.jpg"
+  ]
  },
  {
   "id": 19,
@@ -856,8 +859,7 @@
    "B": 18,
    "C": 2,
    "D": 2
-  },
-  "imageUrl": null
+  }
  },
  {
   "id": 44,
@@ -877,7 +879,8 @@
    "C": 10,
    "D": 0
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p50_recovered44.png",
+  "figureRecovered": true
  },
  {
   "id": 45,
@@ -1277,7 +1280,8 @@
    "C": 1,
    "D": 4
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p74_recovered64.jpg",
+  "figureRecovered": true
  },
  {
   "id": 65,
@@ -1917,7 +1921,8 @@
    "C": 21,
    "D": 55
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p109_recovered96.jpg",
+  "figureRecovered": true
  },
  {
   "id": 97,
@@ -1997,7 +2002,8 @@
    "C": 87,
    "D": 1
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p113_recovered100.jpg",
+  "figureRecovered": true
  },
  {
   "id": 101,
@@ -2156,8 +2162,7 @@
    "B": 0,
    "C": 28,
    "D": 67
-  },
-  "imageUrl": null
+  }
  },
  {
   "id": 109,
@@ -2454,8 +2459,7 @@
    "A": 16,
    "B": 2,
    "C": 60
-  },
-  "imageUrl": null
+  }
  },
  {
   "id": 124,
@@ -2654,8 +2658,7 @@
    "B": 6,
    "C": 83,
    "D": 4
-  },
-  "imageUrl": null
+  }
  },
  {
   "id": 134,
@@ -3132,8 +3135,7 @@
    "B": 1,
    "C": 18,
    "D": 4
-  },
-  "imageUrl": null
+  }
  },
  {
   "id": 158,
@@ -3393,7 +3395,8 @@
    "C": 83,
    "D": 0
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p199_recovered170.png",
+  "figureRecovered": true
  },
  {
   "id": 171,
@@ -3593,7 +3596,8 @@
    "C": 82,
    "D": 3
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p211_recovered180.jpg",
+  "figureRecovered": true
  },
  {
   "id": 181,
@@ -4033,7 +4037,8 @@
    "C": 5,
    "D": 2
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p238_recovered203.jpg",
+  "figureRecovered": true
  },
  {
   "id": 204,
@@ -4533,7 +4538,8 @@
    "C": 2,
    "D": 4
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p268_recovered229.png",
+  "figureRecovered": true
  },
  {
   "id": 230,
@@ -4713,7 +4719,8 @@
    "C": 2,
    "D": 2
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p278_recovered238.jpg",
+  "figureRecovered": true
  },
  {
   "id": 239,
@@ -4972,8 +4979,7 @@
    "B": 2,
    "C": 0,
    "D": 1
-  },
-  "imageUrl": null
+  }
  },
  {
   "id": 252,
@@ -5233,7 +5239,11 @@
    "C": 3,
    "D": 11
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p309_recovered264.jpg",
+  "figureRecovered": true,
+  "imageUrls": [
+   "/images/uveitis-bcsc/p309_recovered264_1.jpg"
+  ]
  },
  {
   "id": 265,
@@ -5692,8 +5702,7 @@
    "B": 5,
    "C": 1,
    "D": 0
-  },
-  "imageUrl": null
+  }
  },
  {
   "id": 289,
@@ -5713,7 +5722,8 @@
    "C": 6,
    "D": 2
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p338_recovered289.jpg",
+  "figureRecovered": true
  },
  {
   "id": 290,
@@ -6212,8 +6222,7 @@
    "B": 21,
    "C": 6,
    "D": 0
-  },
-  "imageUrl": null
+  }
  },
  {
   "id": 315,
@@ -6750,8 +6759,7 @@
    "B": 1,
    "C": 12,
    "D": 3
-  },
-  "imageUrl": null
+  }
  },
  {
   "id": 342,
@@ -7071,7 +7079,8 @@
    "C": 90,
    "D": 0
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p420_recovered357.jpg",
+  "figureRecovered": true
  },
  {
   "id": 358,
@@ -8011,7 +8020,11 @@
    "C": 35,
    "D": 13
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p479_recovered404.jpg",
+  "figureRecovered": true,
+  "imageUrls": [
+   "/images/uveitis-bcsc/p479_recovered404_1.jpg"
+  ]
  },
  {
   "id": 405,
@@ -8071,7 +8084,8 @@
    "C": 0,
    "D": 5
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p484_recovered408.jpg",
+  "figureRecovered": true
  },
  {
   "id": 409,
@@ -8170,8 +8184,7 @@
    "B": 7,
    "C": 2,
    "D": 77
-  },
-  "imageUrl": null
+  }
  },
  {
   "id": 414,
@@ -8191,7 +8204,8 @@
    "C": 8,
    "D": 4
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p491_recovered414.jpg",
+  "figureRecovered": true
  },
  {
   "id": 415,
@@ -8211,7 +8225,11 @@
    "C": 9,
    "D": 62
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p492_recovered415.png",
+  "figureRecovered": true,
+  "imageUrls": [
+   "/images/uveitis-bcsc/p492_recovered415_1.png"
+  ]
  },
  {
   "id": 416,
@@ -8531,7 +8549,11 @@
    "C": 21,
    "D": 71
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p509_recovered431.jpg",
+  "figureRecovered": true,
+  "imageUrls": [
+   "/images/uveitis-bcsc/p509_recovered431_1.jpg"
+  ]
  },
  {
   "id": 432,
@@ -8591,7 +8613,8 @@
    "C": 11,
    "D": 15
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p513_recovered434.jpg",
+  "figureRecovered": true
  },
  {
   "id": 435,
@@ -8671,7 +8694,8 @@
    "C": 3,
    "D": 93
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p518_recovered438.jpg",
+  "figureRecovered": true
  },
  {
   "id": 439,
@@ -8771,7 +8795,8 @@
    "C": 1,
    "D": 3
   },
-  "imageUrl": null
+  "imageUrl": "/images/uveitis-bcsc/p523_recovered443.jpg",
+  "figureRecovered": true
  },
  {
   "id": 444,

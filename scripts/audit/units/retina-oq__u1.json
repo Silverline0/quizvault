@@ -1,0 +1,1052 @@
+[
+ {
+  "id": 1,
+  "question": "Which of the following is a function of the retinal pigment epithelium (RPE)?",
+  "options": {
+   "D": "generates all-trans-retinaldehyde",
+   "C": "reflects light",
+   "B": "phagocytoses rod and cone inner segments",
+   "A": "forms the outer blood-ocular barrier"
+  },
+  "markedAnswer": "A",
+  "explanation": "The retinal pigment epithelium (RPE) is a single layer of cells that lies between the retina and Bruch's membrane. The RPE is continuous with the pigment epithelium of the ciliary body. Each RPE cell has an apical portion whose villous processes envelop the outer segments of the photoreceptor cells. The lateral surfaces of adjacent RPE cells are joined by tight junctional complexes near the apices. These junctional complexes form the outer retinal blood-ocular barrier. Some of the functions of the RPE include: • Forms the outer blood-ocular barrier • Maintains the subretinal space • Absorbs light • Phagocytoses rod and cone outer segments • Participates in retinal and polyunsaturated fatty acid metabolism (e.g. vitamin A metabolism -- the RPE generates 11-cis-retinaldehyde for the visual cycle) • Heals and forms scar tissue.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 2,
+  "question": "What layer of the retina shown above contains cells that project to the magnocellular, parvocellular, and koniocellular cell subtypes of the lateral geniculate nucleus?",
+  "options": {
+   "D": "Layer D",
+   "C": "Layer C",
+   "B": "Layer B",
+   "A": "Layer A"
+  },
+  "markedAnswer": "C",
+  "explanation": "Magnocellular, parvocellular, and koniocellular describe three subtypes of neurons located in the lateral geniculate nucleus which receive projections from the ganglion cell layer (layer C) of the retina. Magnocellular \"M cells\" have large diameter axons, subserve a larger area of the visual field, and are more sensitive to light and motion than parvocellular \"P cells.\" M cells therefore play more of a role in dim lighting conditions. P cells make up about 80% of ganglion cells, are concentrated in the central retina, have smaller-diameter axons, serve a smaller area of the visual field, and play more of a role in color and acuity. Koniocellular ganglion cells were the last cells to be recognized and are thought to play an important role in blue / yellow discrimination. Koniocellular ganglion cells are also believed to be the first affected by glaucoma. This theory ties into using short wavelength automated perimetry (SWAP) to detect early glaucoma. SWAP is essentially analogous to a Humphrey visual field with a blue stimulus on a yellow background. Most modern Humphrey visual field machines can perform SWAP. In this spectral domain OCT slice, layer A is the inner nuclear layer, layer B is the nerve fiber layer, and layer D is the outer nuclear layer.",
+  "imageUrl": "/images/retina-oq/p4_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 3,
+  "question": "To which of the following structures does the vitreous gel most strongly attach?",
+  "options": {
+   "D": "margin of optic disc",
+   "C": "vitreous base",
+   "B": "along the major retinal blood vessels",
+   "A": "at the margins of lattice degeneration"
+  },
+  "markedAnswer": "C",
+  "explanation": "The vitreous base is a zone that extends 2 mm anterior to and 4 mm posterior to the ora serrata. Vitreous in this area cannot be separated from the underlying retina or pars plana epithelium without tearing them.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 4,
+  "question": "A 27-year old is struck by a paintball in the right eye while participating in a competitive paintball league. Fortunately, there is no open globe injury and his hyphema and vitreous hemorrhage eventually resolve on their own. However 4 weeks after his initial injury, the patient presents with complaints of a shadow in his superonasal visual field. Which of the following retinal breaks does this patient most likely have given his past history?",
+  "options": {
+   "D": "retinal dialysis",
+   "C": "horseshoe tear",
+   "B": "operculated hole",
+   "A": "macular hole"
+  },
+  "markedAnswer": "D",
+  "explanation": "Traumatic retinal breaks are most commonly of the retinal dialysis variety. Retinal dialyses are usually located in the inferotemporal quadrant at the posterior border of the vitreous base.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 5,
+  "question": "Which of the following structures is involved in constituting the outer blood- ocular barrier?",
+  "options": {
+   "D": "retinal pigment epithelium",
+   "C": "nonpigmented epithelium of the ciliary body",
+   "B": "retinal blood vessels",
+   "A": "basement membrane of choriocapillaris"
+  },
+  "markedAnswer": "D",
+  "explanation": "The outer blood-ocular barrier is formed by the junctional complexes between the apices of the retinal pigment epithelial cells. These complexes are also known as \"zonulae occludentes.\" The tight junctions between cells of the nonpigmented epithelium of the ciliary body constitute the blood-aqueous barrier. The tight junctions between the nonfenestrated endothelial cells of the retinal blood vessels constitute the inner retinal-blood barrier.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 6,
+  "question": "The fovea contains approximately what percentage of total retinal cone photoreceptor cells?",
+  "options": {
+   "D": "90%",
+   "C": "60%",
+   "B": "30%",
+   "A": "10%"
+  },
+  "markedAnswer": "A",
+  "explanation": "Approximately 90% of the total population of cone photoceptor cells exist outside of the fovea. Although it is composed of cones (no rods) and processes of Muller cells, the fovea contains only 10% of the total cone photoreceptor cell population in the retina. There are almost no cones in the retinal periphery. The density of cones within the fovea may exceed 140,000 cones/mm2. Cone photoreceptors in the fovea have a 1-to-1 relationship with bipolar cells and retinal ganglion cells which allows the fovea to produce fine visual acuity. These densely- packed cones are predominantly red-green sensitive. In contrast, the region of the retina with the greatest density of rods is extrafoveal in a ring 20 degrees surrounding fixation with a maximum density of approximately 160,000 rods/mm2. Although rod density is high in this area, visual acuity is not as fine because of summation of multiple rod responses in each receptive field (i.e. not a 1-to1 relationship).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 7,
+  "question": "Which part of the eye acts as a \"heat sink\" to remove thermal energy from light absorption?",
+  "options": {
+   "D": "retinal pigment epithelium",
+   "C": "cornea",
+   "B": "retina",
+   "A": "choroid"
+  },
+  "markedAnswer": "A",
+  "explanation": "The choroid has a very rapid blood flow and thus acts as a heat sink to prevent thermal energy buildup from light absorption. In fact, the choroid has the highest blood flow of any human tissue. The pathway of bloodflow in and out of the choroid is: • Blood enters the choroid via the posterior ciliary arteries. • The blood goes from an outer layer of large-caliber choroidal vessels (Haller layer) to an inner layer of smaller-diameter vessels (Sattler layer). This helps to reduce the arterial pressure of the choroid. • The blood then passes further inward through the choriocapillaris. • The blood is then collected in venules into collecting channels of the vortex veins. Most eyes have 4 to 5 vortex veins which exit the eye at or posterior to the equator. • The vortex veins drain into the superior and inferior ophthalmic veins. Other fun facts about this area: • The venous blood exiting the choroid has a very high oxygen tension. Thus, the retinal pigment epithelial cells (which are adjacent to the choroid) have an increased risk of oxidative damage.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 8,
+  "question": "A representative electroretinogram (ERG) in a normal individual is shown in the figure above. Which retinal structure does the waveform labeled \"2\" in the figure correspond to?",
+  "options": {
+   "D": "nerve fiber layer",
+   "C": "retinal pigment epithelium",
+   "B": "photoreceptors",
+   "A": "bipolar and Muller cells"
+  },
+  "markedAnswer": "A",
+  "explanation": "The second waveform, which has a positive (upgoing) deflection, is called the \"b- wave.\" It corresponds to the responses of the middle retinal layers containing the bipolar and Muller cells. Extra comment : 1. a-wave: cones and rods (outer PR layer) 2. b-wave: Muller and bipolar cells (inner retina) 3. c-wave: RPE and PRs.",
+  "imageUrl": "/images/retina-oq/p8_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 9,
+  "question": "Extra comment : 1. a-wave: cones and rods (outer PR layer) 2. b-wave: Muller and bipolar cells (inner retina) 3. c-wave: RPE and PRs Q9-The photoreceptor layer, within which of the following regions of the retina, contains only cones and processes of Muller cells?",
+  "options": {
+   "D": "fovea",
+   "C": "perifovea",
+   "B": "parafovea",
+   "A": "peripheral retina"
+  },
+  "markedAnswer": "D",
+  "explanation": "Regions of the macula commonly tested and some associations include the following: 1. Umbo – the center of the foveola. A 150-micron diameter depression observed clinically as the normal light reflex. 2. Foveola – the foveal floor. A 350-micron diameter region representing the “floor” of the fovea. The foveola does not have inner nuclear or ganglion cell layers. The foveola is approximately equal to the foveal vascular zone. 3. Foveal avascular zone (FAZ) – the macular center and fixation point. A region devoid of retinal vessels. 4. Fovea (aka fovea centralis) – A 1,500-micron diameter (approximately 1 disc diameter) region superimposed on the foveola. Contains only cones (no rods) and processes of Muller cells. 5. Parafovea – 500-micron width ring around the fovea. The parafovea has the thickest ganglion cell, inner nuclear, and outer plexiform layers. 6. Perifovea – 1,500 micron width ring around the parafovea. The perifovea is roughly bordered by the optic disc and temporal vascular arcades.",
+  "imageUrl": "/images/retina-oq/p8_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 10,
+  "question": "What comprises the middle layer of the structure pointed out by the red arrow in the diagram?",
+  "options": {
+   "D": "type I collagen",
+   "C": "peculiar substance",
+   "B": "Elastic fibers",
+   "A": "Type IV collagen"
+  },
+  "markedAnswer": "B",
+  "explanation": "The structure between the choriocapillaris and the retinal pigment epithelium (RPE) is Bruch's membrane. It is comprised of 5 layers: • basement membrane of the endothelium of the choriocapillaris • outer loose collagenous zone • middle layer of elastic fibers • inner loose collagenous zone • basement membrane of the RPE Breaks in Bruch's membrane can occur spontaneously in conditions such as high myopia or pseudoxanthoma elasticum, or after inflammation or trauma. Such breaks can lead to the development of neovascular membranes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 11,
+  "question": "Where does the blood, collected by the structure denoted by the arrow, drain into?",
+  "options": {
+   "D": "inferior petrosal vein",
+   "C": "inferior ophthalmic vein",
+   "B": "central retinal vein",
+   "A": "angular vein"
+  },
+  "markedAnswer": "C",
+  "explanation": "The arrow is pointing to one of the inferior vortex veins. The majority of eyes have 4 or 5 vortex veins which leave the eye at the equator. The inferior vortex veins drain into the inferior ophthalmic vein (IOV) while the superior vortex veins drain into the superior ophthalmic vein (SOV). The SOV then passes through the superior orbital fissure and drains into the cavernous sinus.",
+  "imageUrl": "/images/retina-oq/p11_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 12,
+  "question": "Which layer on the above OCT scan differentiates the macula from extra- macular retina histologically?",
+  "options": {
+   "D": "D",
+   "C": "C",
+   "B": "B",
+   "A": "A"
+  },
+  "markedAnswer": "B",
+  "explanation": "The histological macula is defined by 2 or more layers of ganglion cells (\"B\" in the above OCT). The macula is also known as the \"posterior pole\" or \"area centralis\". Extramacular retina contains only 1 layer of ganglion cells on histological sections. Per BCSC retina, the macula is a 5.5 mm area bounded by the optic disc and temporal vascular arcades. The macula is centered 3.0 mm temporal and 0.8 mm inferior to the optic disc center. \"A\" is the nerve fiber layer; \"C\" is the inner nuclear layer; and \"D\" is the outer nuclear layer.",
+  "imageUrl": "/images/retina-oq/p12_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 13,
+  "question": "The nuclei of the cells that make up the internal limiting membrane (ILM) reside in which layer of the retina shown in this spectral domain OCT?",
+  "options": {
+   "D": "Layer D",
+   "C": "Layer C",
+   "B": "Layer B",
+   "A": "Layer A"
+  },
+  "markedAnswer": "A",
+  "explanation": "The internal limiting membrane (ILM) is usually regarded as the innermost structure of the retina and is made up of footplates of the Muller's cells whose nuclei are located in the inner nuclear layer (along with bipolar cells, horizontal cells, and amacrine cells). In this spectral domain OCT slice, layer A is the inner nuclear layer, layer B is the nerve fiber layer, layer C is the ganglion cell layer, and layer D is the outer nuclear layer.",
+  "imageUrl": "/images/retina-oq/p13_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 14,
+  "question": "Which of the following is defined histologically as the area of the retina where the inner nuclear layer (INL) and ganglion cell layer (GCL) are absent?",
+  "options": {
+   "D": "foveola",
+   "C": "umbo",
+   "B": "fovea",
+   "A": "macula"
+  },
+  "markedAnswer": "D",
+  "explanation": "The foveola is defined histologically as the central floor of the fovea where the INL and GCL are absent. Clinically, the foveola is defined as the area within the fovea, approximately 0.35 mm in diameter, which corresponds to the foveal avascular zone. The macula is defined histologically as the area of the posterior retina with 2 or more ganglion cell layers. The fovea is defined histologically as the depression in the inner retinal surface where the photoreceptor layer consists entirely of cones. The umbo is defined histologically as the central concavity of the floor of the foveola.",
+  "imageUrl": "/images/retina-oq/p13_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 15,
+  "question": "",
+  "options": {
+   "D": "Layer D",
+   "C": "Layer C",
+   "B": "Layer B",
+   "A": "Layer A"
+  },
+  "markedAnswer": "C",
+  "explanation": "The macula can be defined in different ways; histologically it is the region of the retina where the ganglion cell layer contains 2 or more layers of cells. On a more gross anatomic basis, the macula is considered to be the area of the retina located temporal to the optic nerve and between the superior and inferior temporal arcades. Still others define the macula lutea, or \"yellow spot\" (a more distinguished name for the macula), as the portion of the posterior retina containing yellow xanthophyll pigment. In this spectral domain OCT slice, layer A is the inner nuclear layer, layer B is the nerve fiber layer, layer C is the ganglion cell layer, and layer D is the outer nuclear layer.",
+  "imageUrl": "/images/retina-oq/p14_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 16,
+  "question": "Which layer shown on the OCT macula would NOT be affected by chronic glaucomatous degeneration?",
+  "options": {
+   "D": "D",
+   "C": "C",
+   "B": "B",
+   "A": "A"
+  },
+  "markedAnswer": "D",
+  "explanation": "Layer denoted by “D” is the photoreceptor layer. The photoreceptor layer would not be affected in chronic glaucomatous degeneration. Nerve fiber layer (layer \"A\") (and optic nerve) atrophy occurs with progressive ganglion cell (layer \"B\") dropout in glaucoma. A condition known as “retrograde maculopathy” has been described in which inner nuclear layer microcysts form, secondary to lesions of the occipital lobe, chiasm and optic nerve. The formation of microcystic cavities in the inner nuclear layer is thought to result from trans-synaptic degeneration and has been described in patients with glaucoma. As a result, glaucomatous atrophy can result in loss of ganglion cells, nerve fiber layer, as well as inner nuclear layer cells with cyst formation. An example patient with transsynaptic retrograde degeneration due to glaucoma is shown below. *This OCT mac was taken from an otherwise healthy, young adult male with severe unilateral pigmentary glaucoma. The OCT mac of the involved eye is remarkable for severe atrophy of the NFL and GCL as well as inner nuclear layer microcystic macular edema due to retrograde maculopathy. The affected eye had severe superior and inferior thinning on the OCT RNFL and advanced field loss on static perimetry. The fellow eye OCT RNFL, OCT mac and HVF were normal. The patient suffered from no central, systemic or other ocular pathology.",
+  "imageUrl": "/images/retina-oq/p15_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 17,
+  "question": "Which of the following is TRUE of the fovea?",
+  "options": {
+   "D": "It is 1.5 mm wide and contains 10% of all cones",
+   "C": "It is 0.35 mm wide and contains 10% of all cones",
+   "B": "It is 1.5 mm wide and contains the majority of all cones",
+   "A": "It is 0.35 mm wide and contains the majority of all cones"
+  },
+  "markedAnswer": "D",
+  "explanation": "The fovea is the central 1.5 mm of the macula. It is specialized for high spatial acuity and color vision (10% of all cones reside in the fovea). The floor of the fovea is known as the foveola, which has a diameter of 0.35 mm. In the foveola, cones are densely packed. The 150–200 µm depression in the very center of the foveola is known as the umbo, which can act as a sort of concave mirror and provide a lovely overlying light reflex on exam. The parafovea is a 0.5 mm ring around the fovea. Around that is another ring 1.5 mm wide termed the perifovea, the significance of which is it demarcates the anatomic border of the macula. Fovea 1.5 mm (same as disc) Foveola 0.35 mm (3x5= 15) ... just a way that makes it easier for me to remember the number 0.35.",
+  "imageUrl": "/images/retina-oq/p16_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 18,
+  "question": "Fovea 1.5 mm (same as disc) Foveola 0.35 mm (3x5= 15) ... just a way that makes it easier for me to remember the number 0.35 • Q18-Which of the following structures (labeled in the photo above) is responsible for the blood supply of the choroid?",
+  "options": {
+   "D": "D",
+   "C": "C",
+   "B": "B",
+   "A": "A"
+  },
+  "markedAnswer": "D",
+  "explanation": "The blood supply of the choroid is derived from the short posterior ciliary arteries (labeled \"D\"). There are approximately 20 short posterior ciliary arteries (and 10 short posterior ciliary nerves) that enter the globe in a ring around the optic nerve (labeled \"A\"). The arterial pressure in the choroidal vasculature is much lower than that arriving via the short posterior ciliary arteries because the blood is rapidly re-distributed by a network of choroidal vessels. The outer layer of (large-diameter) choroidal vessels is called the Haller layer while the inner layer of (smaller-diameter) choroidal vessels is called the Sattler layer. Label \"A\" corresponds to the optic nerve; \"B\" to a vortex vein; \"C\" to the inferior oblique; and \"E\" to the superior oblique.",
+  "imageUrl": "/images/retina-oq/p17_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 19,
+  "question": "Which of the following best describes the \"macula\" if defined histologically?",
+  "options": {
+   "D": "the area of the retina without an overlying ganglion cell layer",
+   "C": "the area of the retina with 2 or more ganglion cell layers",
+   "B": "the region of the retina devoid of blood vessels",
+   "A": "portion of the posterior retina containing xanthophyll pigment"
+  },
+  "markedAnswer": "C",
+  "explanation": "The macula is defined histologically as the area of the posterior retina with ≥ 2 layers of ganglion cells. It is approximately 6 mm in diameter and is centered vertically between the temporal vascular arcades. Answer \"A\" refers to the \"macula lutea\"; Answer \"B\" refers to the \"foveal avascular zone.\"",
+  "imageUrl": "/images/retina-oq/p65_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 20,
+  "question": "Which of the following best estimates the approximate diameter of the foveal avascular zone (FAZ)?",
+  "options": {
+   "D": "1250-1600 microns",
+   "C": "800-1150 microns",
+   "B": "250-600 microns",
+   "A": "100-200 microns"
+  },
+  "markedAnswer": "B",
+  "explanation": "The FAZ is the part of the retina that is said to be free of capillaries. Its location is approximately the same as the foveola and is roughly 250 to 600 microns in diameter. The FAZ may increase in size in certain disease states, like diabetic macular ischemia. The foveola itself is defined as the central floor of the fovea where the inner nuclear and ganglion cell layers are absent. The central concavity/floor of the foveola is called the umbo and is partially responsible for the retinal light reflex.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 21,
+  "question": "Enlargement of the foveal avascular zone (FAZ) beyond what diameter threshold would generally translate into vision loss?",
+  "options": {
+   "D": "greater than 1500 microns in diameter",
+   "C": "greater than 1000 microns in diameter",
+   "B": "greater than 500 microns in diameter",
+   "A": "greater than 250 microns in diameter"
+  },
+  "markedAnswer": "C",
+  "explanation": "According to the BCSC Retina book, \"evidence of enlargement of the foveal avascular zone greater than 1000 microns in diameter generally means visual loss.\" Normally FAZ = 250-600 micron.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 22,
+  "question": "Which layer, shown on the OCT macula above, contains the first-order neuronal cell bodies in the visual pathway?",
+  "options": {
+   "D": "D",
+   "C": "C",
+   "B": "B",
+   "A": "A"
+  },
+  "markedAnswer": "C",
+  "explanation": "Layer denoted by“C” is the inner nuclear layer. The visual pathway extends from the retina to the visual cortex within the occipital lobe of the brain. While photoreceptor cells transduce light into an electrical stimulus, they are not technically considered “neurons” of the visual pathway. Per BCSC retina, the first-order neuron of the visual pathway is the bipolar cell whose cell body resides within the inner nuclear layer of the retina. The second-order neuron of the visual pathway is the ganglion cell whose cell body resides within the ganglion cell layer of the retina (layer \"B\"). Bipolar cells and ganglion cells synapse in the inner plexiform layer. The axons of ganglion cells traverse the retinal nerve fiber layer (layer \"A\") until they converge to form the optic nerve. Ganglion cell axons travel from the optic nerve to the optic chiasm where more than half (~55%) decussate to the contralateral optic tract. Next, ganglion cell fibers within the optic tract terminate on third-order neurons whose cell bodies reside within the lateral geniculate nucleus (LGN). LGN neuronal axons travel along the optic radiations to terminate within the visual cortex of the occipital lobe of the brain. Note that a portion of the ganglion cell population (so-called “pupillomotor fibers”) do NOT synapse in the LGN but instead, are diverted from the optic tract to the pretectal nuclei in the midbrain. These pupillomotor fibers function as part of the afferent limb of the pupillary light reflex response pathway. Because of the asymmetric decussation of ganglion cells (including pupillomotor fibers) at the optic chiasm, a lesion of the optic tract causes a contralateral afferent pupillary defect. Some common mnemonics to help remember where cell bodies and synapses between cells are located within the retina: • Inner plexiform synaptic connections: “Cells In a BAG”. Inner plexiform layer --> Bipolar cells, Amacrine cells, and Ganglion cells. • Inner nuclear layer cell bodies: \"Big HAM”. Bipolar, Horizontal, Amacrine, and Mueller cells • Outer plexiform synaptic connections: “PHiBers Out”. Photorecepters, horizontal cells, bipolar cells --> Outer plexiform layer.",
+  "imageUrl": "/images/retina-oq/p20_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 23,
+  "question": "Which layer, shown on the OCT macula, contains the second-order neuronal cell bodies in the visual pathway?",
+  "options": {
+   "D": "D",
+   "C": "C",
+   "B": "B",
+   "A": "A"
+  },
+  "markedAnswer": "B",
+  "explanation": "Same explanation in previous question.",
+  "imageUrl": "/images/retina-oq/p22_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 24,
+  "question": "Same explanation in previous question Q24-Which of the following represents the correct order of blood flow through the choroidal circulation?",
+  "options": {
+   "D": "Short posterior ciliary arteries → Choriocapillaris → Haller layer → Sattler layer → Vortex veins → Superior and inferior ophthalmic veins",
+   "C": "Short posterior ciliary arteries → Choriocapillaris → Sattler layer → Haller layer → Superior and inferior ophthalmic veins → Vortex veins",
+   "B": "Short posterior ciliary arteries → Haller layer → Sattler layer → Choriocapillaris → Vortex veins → Superior and inferior ophthalmic veins",
+   "A": "Short posterior ciliary arteries → Sattler layer → Haller layer → Choriocapillaris → Vortex veins → Superior and inferior ophthalmic veins"
+  },
+  "markedAnswer": "B",
+  "explanation": "The choroidal circulation begins with blood entering the posterior ciliary arteries followed by choroidal large-caliber vessels (Haller layer – “H” for Huge calibre) → choroidal small-caliber vessels (Sattler layer – “S” for Small calibre) → choriocapillaris → vortex veins → and finally the superior and inferior ophthalmic veins. Per BCSC retina, retinal tissue ranks among the highest in the body in terms of metabolic rate per gram of tissue. Not surprisingly, the choroid is the site of highest blood flow of any tissue in order to support retinal metabolism as well as remove thermal energy from absorption of light. Due to such high blood flow through the choriocapillaris, RPE cells realize the highest oxygen tension of any tissue in the body and therefore are at high risk of oxidative damage. Some high-yield nerve/artery/vein numbers to memorize: • ~20 Short posterior ciliary ARTERIES • ~10 Short posterior ciliary NERVES • ~2 Long ciliary arteries • ~2 Long ciliary nerves • ~4-7 vortex veins per eye (about 1-2 per quadrant of retina) responsible for draining the uvea (choroid, ciliary body and iris) • One (1) central retinal vein responsible for draining the inner retinal circulation.",
+  "imageUrl": "/images/retina-oq/p22_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 25,
+  "question": "Angioid streaks are thought to result from increased fragility of which of the following layers on the above optical coherence tomography (OCT)?",
+  "options": {
+   "D": "D",
+   "C": "C",
+   "B": "B",
+   "A": "A"
+  },
+  "markedAnswer": "C",
+  "explanation": "Structure labeled “C” is Bruch membrane. Bruch membrane is composed of 5 sublayers from innermost-to-outermost in the following order: 1. RPE basement membrane 2. Collagenous inner zone 3. Inner layer of elastic fibers 4. Collagenous outer zone 5. Choriocapillaris basement membrane Angioid streaks result from breaks in an otherwise fragile Bruch membrane which expose underlying choroidal vascular layers and may result in vision loss due to acute subretinal hemorrhage and/or choroidal neovascular membrane (CNVM) formation. Angioid streaks may be idiopathic or caused by one of several underlying systemic disorders including pseudoexanthoma elasticum (most common identifiable cause), Ehlers-Danlos syndrome, Paget's disease of bone, and sickle cell (and some other hemoglobinopathies). Causes of angioid streaks can be memorized using the well-known “PEPSI” mnemonic where the letter “I” represents idiopathic. Patients with angioid streaks should receive evaluation for the aforementioned conditions. Patients should also be instructed to wear protective eyewear and may require treatments specific for CNVM if present. Embryology A 30-year-old patient comes in for routine exam and has the finding shown above in both eyes (right fundus only pictured). The remainder of the exam is normal. What work-up would be most appropriate in this setting?",
+  "imageUrl": "/images/retina-oq/p23_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 26,
+  "question": "A 30-year-old patient comes in for routine exam and has the finding shown above in both eyes (right fundus only pictured). The remainder of the exam is normal. What work-up would be most appropriate in this setting?",
+  "options": {
+   "D": "Fluorescein angiography (FA) to detect the offending worm",
+   "C": "Sarcoidosis evaluation",
+   "B": "TORCH congenital infection evaluation",
+   "A": "No work-up necessary"
+  },
+  "markedAnswer": "A",
+  "explanation": "The photo above shows a classic chorioretinal coloboma. All colobomas of the globe are caused by incomplete closure of the embryonic fissure in week 5 of development leading to a tear drop shaped tissue defect in one or more ocular structures. Normal closure of the embryonic fissure begins at the equator inferiorly with the process of closure extending anteriorly and posteriorly. Colobomas may be isolated to one region of the eye or large and involve all structures of the eye including the optic nerve, choroid/retina, iris, and ciliary body with dysgenesis of zonules focally leading to lens coloboma. Because the embryonic fissure closes inferiorly, most colobomas occur inferiorly as in our patient (so called \"typical\" coloboma). The majority of typical colobomas are bilateral as in our patient. Colobomas are by definition present from birth but it is not unusual to find them on examination in adults who have never had an eye exam or were never told that they had a coloboma. Many congenital infections can cause chorioretinal scars including CMV but our patient's pattern of bilateral, tear drop shaped, inferior chorioretinal lesions are classic for coloboma and do not suggest prior infection. Sarcoidosis can cause choroidal granulomas and retinal vasculitis eventually leading to chorioretinal scars but, again, this patient shows no signs of active inflammation and the pattern of the lesions suggest a congenital anomaly requiring no work-up. FA can be used to find an area of active destruction when diffuse unilateral subacute neuroretinitis is suspected. DUSN can lead to extensive chorioretinal scarring, bone spicules, and pigmentary changes but is unilateral and would not be expected to produce an isolated inferior chorioretinal lesion in both eyes. What portion of the optic disc are optic pits usually located at?",
+  "imageUrl": "/images/retina-oq/p25_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 27,
+  "question": "What portion of the optic disc are optic pits usually located at?",
+  "options": {
+   "D": "inferotemporal",
+   "C": "superotemporal",
+   "B": "inferonasal",
+   "A": "superonasal"
+  },
+  "markedAnswer": "D",
+  "explanation": "The photo shows a hypopigmented, round excavated defect of the temporal optic disc consistent with an optic pit. Optic pits most commonly occur in the inferotemporal portion of the optic disc and may lead to serous macular detachments. There is some thought that the fluid contained within these serous detachments is either liquid vitreous or cerebrospinal fluid. The most common visual field defect associated with an optic pit is either a paracentral or arcuate scotoma. Q-A 1-month-old child is referred to you for evaluation of leukocoria OS. On examination, the left eye appears to have a dense white cataract and appears smaller than the right eye. On history, the leukocoria OS has been noted since birth. Which of the following is the most likely diagnosis?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 28,
+  "question": "A 1-month-old child is referred to you for evaluation of leukocoria OS. On examination, the left eye appears to have a dense white cataract and appears smaller than the right eye. On history, the leukocoria OS has been noted since birth. Which of the following is the most likely diagnosis?",
+  "options": {
+   "D": "retinoblastoma (Rb)",
+   "C": "persistent fetal vasculature (PFV)",
+   "B": "toxocariasis",
+   "A": "Coat's disease"
+  },
+  "markedAnswer": "C",
+  "explanation": "When a child presents with leukocoria, it is retinoblastoma until proven otherwise. This mindset is essential since Rb is life-threatening. However, features that argue against a diagnosis of Rb in this case include: (a) age of presentation (anterior Rb is not common at birth); (b) presence of cataract; and (c) microphthalmos. These features are much more characteristic of anterior PFV. Supplemental diagnostic testing with ultrasound to look for intraocular calcifications (present in Rb) is also helpful. A 30-year-old patient comes in for routine exam and has the finding shown above in both eyes (right fundus only pictured). What is the primary underlying pathophysiology of this lesion?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 29,
+  "question": "A 30-year-old patient comes in for routine exam and has the finding shown above in both eyes (right fundus only pictured). What is the primary underlying pathophysiology of this lesion?",
+  "options": {
+   "D": "Incomplete closure of the embryonic fissure",
+   "C": "Weak scleral integrity with outpouching of ocular contents",
+   "B": "Congenital CMV infection",
+   "A": "Peripheral retinal degeneration"
+  },
+  "markedAnswer": "D",
+  "explanation": "The photo above shows a classic chorioretinal coloboma. All colobomas of the globe are caused by incomplete closure of the embryonic fissure in week 5 of development leading to a tear drop shaped tissue defect in one or more ocular structures. Normal closure of the embryonic fissure begins at the equator inferiorly with the process of closure extending anteriorly and posteriorly. Colobomas may be isolated to one region of the eye or large and involve all structures of the eye including the optic nerve, choroid/retina, iris, and ciliary body with dysgenesis of zonules focally leading to lens coloboma. Because the embryonic fissure closes inferiorly, most colobomas occur inferiorly as in our patient (so called \"typical\" coloboma). The majority of typical colobomas are bilateral as in our patient. Colobomas are by definition present from birth and are therefore not regarded as a degeneration. Many congenital infections can cause chorioretinal scars including CMV but our patient's pattern of bilateral, tear drop shaped, inferior chorioretinal lesions are classic for coloboma and do not suggest prior infection. Colobomas of the retina / choroid can lead to weakness of the underlying sclera and staphyloma formation. The question, however, asks for the primary underlying defect and in this case staphyloma formation, if present, would be a secondary effect of failure of the embryonic fissure to close. A 30-year-old patient comes in for routine exam and has the finding shown above in both eyes (right fundus only pictured). Which of the following other exam findings is the patient LEAST likely to demonstrate?",
+  "imageUrl": "/images/retina-oq/p25_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 30,
+  "question": "A 30-year-old patient comes in for routine exam and has the finding shown above in both eyes (right fundus only pictured). Which of the following other exam findings is the patient LEAST likely to demonstrate?",
+  "options": {
+   "D": "Eyelid coloboma",
+   "C": "Notching of the lens",
+   "B": "Keyhole pupil",
+   "A": "Staphyloma"
+  },
+  "markedAnswer": "D",
+  "explanation": "The photo above shows a classic posterior pole coloboma. All intraocular colobomas are caused by incomplete closure of the embryonic fissure in week 5 of development leading to a tear-drop shaped tissue defect in one or more ocular structures. Normal closure of the embryonic fissure begins at the equator inferiorly with the process of closure extending anteriorly and posteriorly. Colobomas may be small and isolated to one region of the eye or large and involve all structures of the eye including the optic nerve, choroid/retina, iris (sometimes called a \"keyhole pupil\"), and ciliary body with dysgenesis of zonules focally leading to a notching of the lens (also known as lens coloboma). Because the embryonic fissure closes inferiorly, most colobomas occur inferiorly as in our patient (so called \"typical\" coloboma). The majority of typical colobomas are bilateral as in our patient. Colobomas are by definition present from birth but it is not unusual to find them on examination in adults who have never had an eye exam or were never told that they had a coloboma. Along with absent choroid and retina in the region of a posterior pole coloboma, the underlying sclera may be thin leading to a secondary staphyloma. Eyelid colobomas are most common in the medial aspect of the upper eyelid but can occur elsewhere including the lower eyelid. While they share the same nomenclature, eyelid colobomas are caused by a different defect in development and are NOT classically associated with intraocular colobomas. Vascularization of the retina is generally complete for the nasal and temporal sides of the retina at what time points of gestation?",
+  "imageUrl": "/images/retina-oq/p25_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 31,
+  "question": "Vascularization of the retina is generally complete for the nasal and temporal sides of the retina at what time points of gestation?",
+  "options": {
+   "D": "nasal - 36 weeks; temporal - 32 weeks",
+   "C": "nasal - 32 weeks; temporal - 36 weeks",
+   "B": "nasal - 36 weeks; temporal - 40 weeks",
+   "A": "nasal - 40 weeks; temporal - 36 weeks"
+  },
+  "markedAnswer": "B",
+  "explanation": "The clinical use of the fact that the nasal retina becomes vascularized (at 36 weeks) before the temporal retina (at 40 weeks) is that if you see (during your ROP exam) that the temporal retina is fully vascularized, then the nasal retina should already be fully vascularized. According to the BCSC Retina book, retinal vascularization is complete in the nasal quadrants at 36 weeks and on the larger temporal side at 40 weeks. Memorize these values! Also remember that the process of retinal vascularization begins at 4-5 months of gestation and involves the outward spread of mesenchymal cells from the optic disc. Q-A 1-year-old Caucasian child is being referred to your office by her pediatrician with a diagnosis of leukocoria OU. There is no family history of ocular diseases. The parents have noticed the problem only since the child was 6 months old, but did not seek medical attention. Which of the following attributes most strongly argues AGAINST a diagnosis of persistent fetal vasculature (PFV)?",
+  "imageUrl": "/images/retina-oq/p30_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 32,
+  "question": "A 1-year-old Caucasian child is being referred to your office by her pediatrician with a diagnosis of leukocoria OU. There is no family history of ocular diseases. The parents have noticed the problem only since the child was 6 months old, but did not seek medical attention. Which of the following attributes most strongly argues AGAINST a diagnosis of persistent fetal vasculature (PFV)?",
+  "options": {
+   "D": "bilaterality",
+   "C": "female sex of the child",
+   "B": "lack of family history of ocular diseases",
+   "A": "ethnicity of child"
+  },
+  "markedAnswer": "D",
+  "explanation": "This child's presentation is concerning for bilateral retinoblastoma (Rb) which occurs in approximately one-third of all Rb children. In contrast to Rb, 90% of cases of persistent fetal vasculature (PFV) are unilateral. PFV is a spontaneous condition, present at birth, and there is typically no family history. Males and females are equally affected. Persistent fetal vasculature is the term that has replaced the condition referred to as \"persistent hyperplastic primary vitreous\" (PHPV). It is considered the most common cause of a unilateral congenital cataract. PFV's clinical manifestations can be quite varied, ranging from mild cases presenting with prominent hyaloid vessel remnants and large Mittendorf dots, to severe cases with progressive angle closure glaucoma, tractional retinal detachment, and cataract formation. Most PFV eyes are microphthalmic compared to the normal fellow eye, which is important since Rb rarely occurs in microphthalmic eyes. Another classic finding (i.e. typically found on board exams) of PFV is elongated ciliary processes that are visible through a dilated pupil. Management of PFV is difficult in severe cases and typically consists of early cataract extraction, membrane excision via vitreoretinal approaches, contact lens wear, and aggressive amblyopia treatment. General Which of the following special diets or vitamin supplementation regimens is correctly assigned to the disease it is used to treat?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 33,
+  "question": "Which of the following special diets or vitamin supplementation regimens is correctly assigned to the disease it is used to treat?",
+  "options": {
+   "D": "Phytanic acid restriction; Fabry disease",
+   "C": "Long fatty acid restriction; Abetalipoproteinemia",
+   "B": "Methionine restriction, high cysteine, and vitamin B6 supplementation; Cystinuria",
+   "A": "Arginine restriction; Gyrate atrophy"
+  },
+  "markedAnswer": "A",
+  "explanation": "Memorizing dietary restrictions and vitamin supplementation regimens is super high yield. All of the dietary restrictions and vitamin supplementation regimens outlined below are listed in the BCSC. The correct associations are as follows: • arginine restriction for gyrate atrophy • methionine restriction / high cysteine / vitamin B6 supplementation for homocystinuria • vitamin A and E supplementation in abetalipoproteinemia • phytanic acid restriction in Refsum disease Gyrate atrophy: arGinine reFsum disease: Fytanic acid HomoCYSTINuria: Eat a lot of Cystein Abetalipoproteinemia: You need fat soluble vitamins, including A and E Q-Which of the following characteristics is present in anterior persistent fetal vasculature (PFV)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 34,
+  "question": "The correct associations are as follows: • arginine restriction for gyrate atrophy • methionine restriction / high cysteine / vitamin B6 supplementation for homocystinuria • vitamin A and E supplementation in abetalipoproteinemia • phytanic acid restriction in Refsum disease Gyrate atrophy: arGinine reFsum disease: Fytanic acid HomoCYSTINuria: Eat a lot of Cystein Abetalipoproteinemia: You need fat soluble vitamins, including A and E Q-Which of the following characteristics is present in anterior persistent fetal vasculature (PFV)?",
+  "options": {
+   "D": "generally good visual prognosis",
+   "C": "deep anterior chamber",
+   "B": "megalophthalmos",
+   "A": "long ciliary processes"
+  },
+  "markedAnswer": "A",
+  "explanation": "Anterior PFV occurs when the hyaloid artery remains, which results in a white retrolental mass. Associated signs include microphthalmos, a shallow anterior chamber, and long ciliary processes. Visual prognosis is typically guarded in these patients due to glaucoma, secondary cataract, and deprivational amblyopia. It is important to differentiate cases of PFV from retinoblastoma. Characteristics of PFV that help this differentiation include: unilaterality, microphthalmos, presence of cataract, and presence at birth. These do not typically occur with retinoblastoma. Laser and lenses You are planning on performing juxtafoveal laser photocoagulation of a choroidal neovascular membrane (CNV) and are worried about hitting the fovea. All of the following are ways to prevent accidentally injuring the fovea with laser energy EXCEPT:.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 35,
+  "question": "You are planning on performing juxtafoveal laser photocoagulation of a choroidal neovascular membrane (CNV) and are worried about hitting the fovea. All of the following are ways to prevent accidentally injuring the fovea with laser energy EXCEPT:",
+  "options": {
+   "D": "using a high plus power laser lens",
+   "C": "using a negative-power planoconcave lens",
+   "B": "comparison with fluorescein angiography to locate the foveal center",
+   "A": "using a retrobulbar anesthesia"
+  },
+  "markedAnswer": "D",
+  "explanation": "High plus power laser lenses provide wider, less sharp views of the retina that are optimal for broader applications of laser energy such as for panretinal photocoagulation. The view with high power plus lenses is also inverted and the spot size is magnified over the laser setting size (the magnification depends on the specific plus power lens used). In the case of a juxtafoveal CNV, you probably would want to use a negative planoconcave lens to obtain an upright, higher resolution image. The drawback of a negative planoconcave lens is that the viewing area is much smaller, albeit at a much higher resolution. Memory aid : \"I had a POSITIVE attitude doing PRP in my residency\" Q-A 43-year-old patient with a history of poorly-controlled diabetes presents to your office with complaints of sudden decreased vision in the right eye. Her fundus examination of the right eye is depicted in the photograph shown above. You wish to perform some panretinal photocoagulation in this eye. Which of the following wavelengths is the most appropriate for this patient in this setting?",
+  "imageUrl": "/images/retina-oq/p33_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 36,
+  "question": "A 43-year-old patient with a history of poorly-controlled diabetes presents to your office with complaints of sudden decreased vision in the right eye. Her fundus examination of the right eye is depicted in the photograph shown above. You wish to perform some panretinal photocoagulation in this eye. Which of the following wavelengths is the most appropriate for this patient in this setting?",
+  "options": {
+   "D": "blue-green",
+   "C": "red",
+   "B": "green",
+   "A": "yellow"
+  },
+  "markedAnswer": "C",
+  "explanation": "Red lasers penetrate vitreous hemorrhage better than other wavelengths since they are minimally absorbed by hemoglobin. It also penetrates nuclear sclerotic cataracts quite well. Q-You are performing a dilated fundus exam for a poorly-controlled diabetic patient. Unfortunately, you misplaced your lenses, and the only lens available to you is the Hruby lens attached to the slit-lamp. Which of the following statements best describes the image seen with the Hruby lens?",
+  "imageUrl": null,
+  "stemReferencesFigure": true,
+  "figureMissing": true
+ },
+ {
+  "id": 37,
+  "question": "Unfortunately, you misplaced your lenses, and the only lens available to you is the Hruby lens attached to the slit-lamp. Which of the following statements best describes the image seen with the Hruby lens?",
+  "options": {
+   "D": "the image is upright, and gives a restricted field of view",
+   "C": "the image is upright, and gives a wide field of view",
+   "B": "the image is inverted, and gives a restricted field of view",
+   "A": "the image is inverted, and gives a wide field of view"
+  },
+  "markedAnswer": "D",
+  "explanation": "The Hruby lens is a high-powered planoconcave lens (-55 D) that is typically attached to the slit-lamp for convenience. Unlike most other slit-lamp biomicroscopy lenses, it gives a direct (non-inverted) image. The disadvantage of this lens is that the field of view is very restricted (~5-8 degrees or about one disc diameter). Q-Which of the following laser settings increases the likelihood of developing a choroidal neovascular membrane (CNV) after laser photocoagulation?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 38,
+  "question": "Which of the following laser settings increases the likelihood of developing a choroidal neovascular membrane (CNV) after laser photocoagulation?",
+  "options": {
+   "D": "yellow wavelength laser",
+   "C": "small spot size",
+   "B": "shorter duration",
+   "A": "low intensity"
+  },
+  "markedAnswer": "C",
+  "explanation": "Small, not large, spot sizes increase the risk of rupture of Bruch's membrane and subsequent CNV. The basic rationale is that any factor that increases the intensity of the laser burn will increase the risk of secondary CNV. Thus, a smaller spot size concentrates the same amount of power into a smaller area (i.e. more intense burn). Other factors that would increase the burn intensity are: • longer burn duration • higher power Frequently, there is the misunderstanding that a shorter duration would result in a higher intensity laser burn. This is not true. Here is an example of how to think about this properly. If you set the laser at 200 mW with a 50 msec duration, that setting will apply that power over every interval of the entire 50 msec. This 200 mW of power is not \"spread over\" or diluted over 50 msec. Thus, if you increase the duration to 100 msec, the 200 mW of power is applied at every interval over that 100 msec. This results in a higher intensity of laser burn compared to if the duration was shorter at 50 msec. Q-Which of the following colors of light is most absorbed by xanthophyll pigment in the macula?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 39,
+  "question": "Which of the following colors of light is most absorbed by xanthophyll pigment in the macula?",
+  "options": {
+   "D": "blue",
+   "C": "red",
+   "B": "green",
+   "A": "yellow"
+  },
+  "markedAnswer": "D",
+  "explanation": "Light energy (e.g. laser) is primarily absorbed in those ocular tissues that contain xanthophyll, melanin, or hemoglobin: • Xanthophyll -- readily absorbs blue, but not red or yellow light. • Melanin -- readily absorbs green, yellow, red, and infared wavelengths. • Hemoglobin -- readily absorbs blue, yellow, and green. Minimally absorbs red wavelengths. Thus, you would want to avoid the use of blue wavelengths when performing laser photocoagulation in the macula. Q-What is the order of lenses used in binocular indirect ophthalmoscopy in terms of field of view (from highest to lowest)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 40,
+  "question": "What is the order of lenses used in binocular indirect ophthalmoscopy in terms of field of view (from highest to lowest)?",
+  "options": {
+   "D": "20 D > 28 D > 30 D",
+   "C": "30 D > 28 D > 20 D",
+   "B": "28 D > 30 D > 20 D",
+   "A": "30 D > 20 D > 28 D"
+  },
+  "markedAnswer": "C",
+  "explanation": "Binocular indirect ophthalmoscopy holds many advantages over direct ophthalmoscopy including: wider field of view and stereopsis. The correct order (from highest field of view to lowest) is: 30 D > 28 D > 20 D. The order in terms of magnification is the opposite (i.e. 20 D has the highest magnification). Please remember that the magnification obtained with an indirect lens is: the power of the eye / power of the lens Thus, a 20 diopter lens for an emmetropic eye would give a magnification of: 60 D / 20 D = 3 Q-You are examining a 45-year-old, type 1 diabetic patient. Dilated fundus exam and fluorescein angiogram of his right eye is shown in the collage above. You note extra- foveal clinically significant macular edema as well as peripheral neovascularization with a mild vitreous hemorrhage on slit lamp biomicroscopy in both eyes. Which of the following represents the proper order of treatment for this patient?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 41,
+  "question": "You are examining a 45-year-old, type 1 diabetic patient. Dilated fundus exam and fluorescein angiogram of his right eye is shown in the collage above. You note extra- foveal clinically significant macular edema as well as peripheral neovascularization with a mild vitreous hemorrhage on slit lamp biomicroscopy in both eyes. Which of the following represents the proper order of treatment for this patient?",
+  "options": {
+   "D": "the order of focal and scatter laser photocoagulation does not matter",
+   "C": "simultaneous focal and scatter laser photocoagulation",
+   "B": "focal prior to scatter laser photocoagulation",
+   "A": "scatter prior to focal laser photocoagulation"
+  },
+  "markedAnswer": "B",
+  "explanation": "The rationale behind performing focal or grid photocoagulation prior to scatter laser photocoagulation (i.e. PRP) is that the scatter may exacerbate diabetic macular edema. Similarly, focal laser should be performed prior to cataract surgery in cases of clinically significant macular edema to prevent progression of the macular edema. Anti-VEGF agents are another option for this patient which would help both the macular edema and neovascularization, but given the fact that the edema is not center-involving, grid laser is generally preferred. On a practice management level, insurance companies will not reimburse for both focal and scatter lasers on the same day. If done simultaneously, they will reimburse only for the focal/grid laser which has lower RVUs (relative value units). In addition, if a focal is performed within the post-op period (i.e. 90 days) after the PRP, then most insurance companies will not reimburse for the focal laser since it is considered the \"lesser\" of the two procedures. However, they will pay for a PRP if it is performed within the post-op period of the focal laser. Q-You are performing photodynamic therapy (PDT) with verteporfin for a patient with a subfoveal, occult choroidal neovascular lesion displaying recent progression. During the procedure, the patient complains of back, side, and chest pain. What is the most appropriate statement regarding this side effect that you should tell the patient?",
+  "imageUrl": "/images/retina-oq/p37_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 42,
+  "question": "During the procedure, the patient complains of back, side, and chest pain. What is the most appropriate statement regarding this side effect that you should tell the patient?",
+  "options": {
+   "D": "It might recur over the next 2 weeks.",
+   "C": "It will last approximately 48 hours.",
+   "B": "It will last approximately for 24 hours.",
+   "A": "It will stop after the infusion of verteporfin is completed."
+  },
+  "markedAnswer": "A",
+  "explanation": "These pain symptoms are related to the infusion of the verteporfin and were reported to occur in ~2.5% of patients in the major PDT trials. This pain resolves completely at the end of the infusion. Q-You are performing photodynamic therapy (PDT) with verteporfin for a patient with a subfoveal, predominantly classic choroidal neovascular lesion. The patient tells you that he is an avid surfer. For how long should this patient stay out of the sun?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 43,
+  "question": "You are performing photodynamic therapy (PDT) with verteporfin for a patient with a subfoveal, predominantly classic choroidal neovascular lesion. The patient tells you that he is an avid surfer. For how long should this patient stay out of the sun?",
+  "options": {
+   "D": "2 weeks",
+   "C": "10 days",
+   "B": "5 days",
+   "A": "24 hours"
+  },
+  "markedAnswer": "B",
+  "explanation": "The most serious side effect of PDT is photosensitivity skin reactions that can lead to serious skin burns. According to the BCSC, this skin burning can be avoided by having the patient minimize sunlight exposure for 5 days after treatment. These reactions occurred in 3.5% of patients in the TAP (Treatment of Age-Related Macular Degeneration with Photodynamic Therapy) study and 0.4% in the Verteporfin in Photodynamic Therapy (VIP) study. Other reported adverse effects of PDT included: • Back, side, and chest pain (2.2-2.5%) which were related to infusion of the drug. • Severe loss of vision within 7 days of treatment (0.7-2.2%). This complication was more common in eyes with choroidal neovascularization lesions that were minimally classic or occult with no classic component. Q-A 40-year poorly-controlled diabetic undergoes panretinal photocoagulation in the right eye for high-risk proliferative diabetic retinopathy. Two days after the procedure, the patient returns to your office as an urgent visit with severely decreased vision. On fundus examination of the right eye, you see a retinal detachment that changes location with different head positions. Which of the following choices represents the best course of management?",
+  "imageUrl": "/images/retina-oq/p37_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 44,
+  "question": "A 40-year poorly-controlled diabetic undergoes panretinal photocoagulation in the right eye for high-risk proliferative diabetic retinopathy. Two days after the procedure, the patient returns to your office as an urgent visit with severely decreased vision. On fundus examination of the right eye, you see a retinal detachment that changes location with different head positions. Which of the following choices represents the best course of management?",
+  "options": {
+   "D": "primary vitrectomy with gas tamponade",
+   "C": "observation with/without corticosteroids",
+   "B": "pneumatic retinopexy",
+   "A": "scleral buckle"
+  },
+  "markedAnswer": "C",
+  "explanation": "An exudative retinal detachment (ERD) is a possible complication of panretinal photocoagulation. An ERD can develop after intensive photocoagulation sessions with a large number of spots with excessive energy. These detachments usually resolve spontaneously over a few weeks, and their resolution may be hastened with the judicious use of corticosteroids. Q-You are attempting to measure a patient's choroidal nevus that is located just nasal to the optic disc. You are using a Volk Super 66 and read off 1.0 mm from the reticule after adjusting the light beam to match the vertical height of the lesion. What is the estimated vertical height of this nevus based on your measurement?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 45,
+  "question": "You are attempting to measure a patient's choroidal nevus that is located just nasal to the optic disc. You are using a Volk Super 66 and read off 1.0 mm from the reticule after adjusting the light beam to match the vertical height of the lesion. What is the estimated vertical height of this nevus based on your measurement?",
+  "options": {
+   "D": "1.33 mm",
+   "C": "0.88 mm",
+   "B": "1.11 mm",
+   "A": "1.0 mm"
+  },
+  "markedAnswer": "A",
+  "explanation": "The Volk Super 66 gives a 1:1 image magnification. Thus, the size of a retinal lesion can be read directly off of the reticule (in this case 1.0 mm). The magnification correction factors for some other slit-lamp biomicroscopy lenses are: • Volk 60 D: 0.88 • Volk 78 D: 1.11 • Volk 90 D: 1.33 • Nikon 60 D: 1.03 • Nikon 90 D: 1.63 Q-In the VIP (Verteporfin in Photodynamic Therapy) study, which of the following lesions showed improvement with photodynamic therapy (PDT) compared to sham- treatment?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 46,
+  "question": "The magnification correction factors for some other slit-lamp biomicroscopy lenses are: • Volk 60 D: 0.88 • Volk 78 D: 1.11 • Volk 90 D: 1.33 • Nikon 60 D: 1.03 • Nikon 90 D: 1.63 Q-In the VIP (Verteporfin in Photodynamic Therapy) study, which of the following lesions showed improvement with photodynamic therapy (PDT) compared to sham- treatment?",
+  "options": {
+   "D": "occult CNV regardless of size",
+   "C": "predominantly classic CNV less than 4 disc areas in size",
+   "B": "occult CNV smaller than 4 disc areas in size",
+   "A": "minimally classic CNV less than 4 disc areas in size"
+  },
+  "markedAnswer": "B",
+  "explanation": "The VIP study specifically looked at the effect PDT had on occult lesions that showed signs of recent progression (e.g. new subretinal hemorrhage, confirmed growth in lesion size, or visual acuity loss within 3 months). It found that, in occult lesions less than 4 disc areas in size, 45% of PDT-treated eyes compared with 32% of sham-treated eyes had lost less than 15 letters at 2 years. Q-Which of the following regarding the choice of slit-lamp lenses for laser photocoagulation is TRUE:.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 47,
+  "question": "that showed signs of recent progression (e.g. new subretinal hemorrhage, confirmed growth in lesion size, or visual acuity loss within 3 months). It found that, in occult lesions less than 4 disc areas in size, 45% of PDT-treated eyes compared with 32% of sham-treated eyes had lost less than 15 letters at 2 years. Q-Which of the following regarding the choice of slit-lamp lenses for laser photocoagulation is TRUE:",
+  "options": {
+   "D": "macular treatments should be generally be performed with a high power plus laser lens",
+   "C": "negative power planoconcave lenses provide an inverted image with a wide field of view",
+   "B": "high plus power laser lenses provide an upright image with superior resolution of a small retinal area",
+   "A": "planoconcave lenses provide approximately the same retinal spot size as what is selected on the slit-lamp"
+  },
+  "markedAnswer": "A",
+  "explanation": "Actually, negative planoconcave lenses provide an upright image with superior resolution of a small retinal area. Therefore, they are the preferred lens choice for macular laser treatments. Conversely, high power plus lenses provide an inverted image, but wider field of view. Therefore, they are preferred when performing panretinal photocoagulation. Q-You are treating the lesion depicted in the photographs with laser photocoagulation. During the course of the treatment, brisk new subretinal hemorrhage begins to develop in the treatment area. Which of the following represents the best course of management for this patient?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 48,
+  "question": "You are treating the lesion depicted in the photographs with laser photocoagulation. During the course of the treatment, brisk new subretinal hemorrhage begins to develop in the treatment area. Which of the following represents the best course of management for this patient?",
+  "options": {
+   "D": "stop immediately; consider vitrectomy in a few days",
+   "C": "injection of subretinal tissue plasminogen activator (t-PA) with pneumatic displacement of blood",
+   "B": "increased digital pressure with the contact lens; continue treating the lesion as much as possible",
+   "A": "stop immediately; re-examine in a few days time"
+  },
+  "markedAnswer": "B",
+  "explanation": "One of the complications of laser photocoagulation (LPC) of a choroidal neovascular membrane (CNV) is subretinal hemorrhage. If you note a new subretinal hemorrhage during the course of LPC, you should immediately increase digital pressure on the contact lens and try to finish the laser procedure while you are still able to see the borders of the CNV lesion. Q-The photo above demonstrates fundus changes following a therapeutic intervention. These changes reflect what type of tissue reaction?",
+  "imageUrl": "/images/retina-oq/p41_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 49,
+  "question": "The photo above demonstrates fundus changes following a therapeutic intervention. These changes reflect what type of tissue reaction?",
+  "options": {
+   "D": "Phototermination",
+   "C": "Photodisruption",
+   "B": "Photocoagulation",
+   "A": "Photoablation"
+  },
+  "markedAnswer": "B",
+  "explanation": "The photograph above demonstrates typical panretinal photocoagulation (PRP) scars. Photoablation, photocoagulation, and photodisruption are all types of laser-tissue interactions. Phototermination is simply a made-up term. Photocoagulation occurs when tissue absorbs light energy delivered by a laser and converts this to heat causing tissue coagulation. Photoablation occurs when laser pulses selectively ablate small areas of tissue without harming adjacent tissue. It is much less destructive than photocoagulation. Excimer lasers use photoablation in corneal refractive procedures because it allows selective ablation of tissue without resulting in damage or subsequent scarring of adjacent corneal tissue. Photodisruption occurs when laser energy is used to rupture or explode tissue. YAG lasers used in posterior capsulotomies and laser iridotomies utilize photodisruption. Q-A 26-year-old high myope presents with a history of acute flashes and floaters in the right eye. Extended ophthalmoscopy reveals the pathology shown in the photograph above. Please assume there is no significant vitreous hemorrhage. You plan to perform laser demarcation for this lesion. The patient explicitly tells you that he has a low pain tolerance. Which of the following wavelengths of laser would be preferred for this patient's retinal pathology?",
+  "imageUrl": "/images/retina-oq/p42_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 50,
+  "question": "A 26-year-old high myope presents with a history of acute flashes and floaters in the right eye. Extended ophthalmoscopy reveals the pathology shown in the photograph above. Please assume there is no significant vitreous hemorrhage. You plan to perform laser demarcation for this lesion. The patient explicitly tells you that he has a low pain tolerance. Which of the following wavelengths of laser would be preferred for this patient's retinal pathology?",
+  "options": {
+   "D": "blue-green",
+   "C": "red",
+   "B": "green",
+   "A": "yellow"
+  },
+  "markedAnswer": "B",
+  "explanation": "This peripheral fundus photo demonstrates a horseshoe retinal tear. This type of retinal break should always be surrounded by a generous amount of laser demarcation to prevent it from evolving into a retinal detachment. According to the BCSC Retina book, green lasers (~514 nm) are preferred since they are effective and less painful than the other wavelengths. However, other wavelengths of laser (e.g. yellow) are also commonly used for retinal breaks. Summary of \"preferred\" lasers (according to the BCSC) for different retinal pathologies: • Presence of vitreous hemorrhage: red • Macular edema due to diabetes or vein occlusion: green or yellow • Choroidal neovascularization (general): green or red (especially if blood present) • Coats disease: yellow Q-Which of the following regarding transpupillary thermotherapy (TTT) is TRUE?",
+  "imageUrl": "/images/retina-oq/p43_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 51,
+  "question": "Summary of \"preferred\" lasers (according to the BCSC) for different retinal pathologies: • Presence of vitreous hemorrhage: red • Macular edema due to diabetes or vein occlusion: green or yellow • Choroidal neovascularization (general): green or red (especially if blood present) • Coats disease: yellow Q-Which of the following regarding transpupillary thermotherapy (TTT) is TRUE?",
+  "options": {
+   "D": "it may be used as a stand-alone treatment for flat choroidal melanomas",
+   "C": "it causes more thermal damage than argon laser photocoagulation",
+   "B": "it has FDA-approval for the treatment of choroidal neovascular membranes (CNV) associated with age-related macular degeneration (AMD)",
+   "A": "it uses a laser in the visible light spectrum"
+  },
+  "markedAnswer": "D",
+  "explanation": "TTT causes minimal damage to the retinal pigment epithelium and overlying retina. It utilizes an infared laser (810 nm wavelength). It has found use in the treatment of some ocular tumors (e.g. flat choroidal melanomas), but was no better than placebo in a phase 3 trial for occult CNV in AMD. Q-Scatter photocoagulation treatment for high-risk proliferative diabetic retinopathy (PDR) should be avoided in what areas of the fundus?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 52,
+  "question": "Scatter photocoagulation treatment for high-risk proliferative diabetic retinopathy (PDR) should be avoided in what areas of the fundus?",
+  "options": {
+   "D": "around areas near the ora serrata",
+   "C": "around areas of vitreoretinal traction",
+   "B": "around an area near the vascular arcades",
+   "A": "around areas of vitreous hemorrhage"
+  },
+  "markedAnswer": "C",
+  "explanation": "Photocoagulation near areas of vitreoretinal traction may lead to further fibrovascular contracture with subsequent recurrent vitreous hemorrhage or tractional/rhegmatogenous retinal detachment. Q -What is the main advantage of micropulse laser photocoagulation (versus conventional photocoagulation) in the treatment of retinal vascular diseases?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 53,
+  "question": "What is the main advantage of micropulse laser photocoagulation (versus conventional photocoagulation) in the treatment of retinal vascular diseases?",
+  "options": {
+   "D": "Decrease the magnitude of scotomas Laser Therapy for Posterior Segment Diseases",
+   "C": "Higher \"duty cycle\" of the energy being delivered",
+   "B": "Confinement of heat to the photoreceptors and choriocapillaris",
+   "A": "Improved ability to visualize the laser spots"
+  },
+  "markedAnswer": "D",
+  "explanation": "In general, laser energy is thought to induce changes in the metabolic activity and gene expression of retinal pigment epithelium (RPE) cells that are adjacent to the burn. In turn, these RPE cells release growth factors and cytokines that control vascular leakage. Conventional laser therapy delivers this required stimulus, but with the side effect of causing permanent destruction to the nearby photoreceptors. This permanent damage can lead to visually-significant scotomas, especially when applied in the macular area. The term, \"subthreshold laser therapy,\" describes the deliverance of laser energy below the threshold of causing permanent tissue [photoreceptor] damage. The main method that is employed to deliver subthreshold laser therapy is micropulse laser, whereby the laser energy is divided into many, short pulses of energy (e.g. 100 to 300 µs duration) with a long pause (e.g. 1700-1900 µs) between pulses. The long pause allows the target tissue to cool enough to prevent permanent damage. Thus, the main benefit of the micropulse laser is the reduction of visually-significant scotomas as a result of less thermal damage to photorecptors. Answer \"A\" is incorrect since micropulse laser burns are actually not visible even with fluorescein angiography or autofluorescence imaging. This \"invisibility\" makes it more difficult to titrate treatment and to know what part of the retina has already been treated. Answer \"B\" is incorrect since the goal of any laser treatment is to confine the laser energy (i.e. heat) to the RPE cells, not the photoreceptors or choriocapillaris. Answer \"C\" is incorrect since subthreshold lasers actually have a significantly lower \"duty cycle\" compared to conventional lasers. For example, a micropulse laser can have a duty cycle ~5-10% of a conventional laser. A duty cycle is defined as the amount of time that the laser is actually \"on\" (i.e. delivering energy). Pathology : Diabetic retinopathy Regarding the Diabetic Retinopathy Study, which of the following statements is TRUE?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 54,
+  "question": "What was the main conclusion of the Diabetic Retinopathy Study (DRS)?",
+  "options": {
+   "D": "intensive control of blood glucose reduced risk of developing retinopathy by 76% and slowed progression by 54% in type 1 diabetics",
+   "C": "early vitrectomy , for non-clearing vitreous hemorrhage (NCVH), increased chance of 20/40 vision in type 1 diabetics",
+   "B": "panretinal photocoagulation (PRP) reduced severe vision loss in patients with high-risk proliferative diabetic retinopathy (HRPDR)",
+   "A": "focal laser reduced moderate vision loss and increased chance of 2-line vision gain in patients with clinically significant macular edema (CSME)"
+  },
+  "markedAnswer": "B",
+  "explanation": "The DRS study randomized PDR or bilateral, severe NPDR to PRP or to no laser. The main endpoint was \"severe vision loss\" which was defined as visual acuity of less than 5/200 for at least 4 months. It found that PRP reduced the chance of severe vision loss for HRPDR from 44% to 20%. Choice \"A\" describes some of the results from the ETDRS trial; choice \"C\" corresponds to the DRVS (Diabetic Retinopathy Vitrectomy Study); and choice \"D\" corresponds to the DCCT (Diabetes Control and Complications Trial). Memory aid : One possible way to remember that the DRS was talking about PRP is that both terms have 3 letters in them. Q-All of the following were criteria used to define clinically significant macular edema (CSME) in the ETDRS (Early Treatment Diabetic Retinopathy Study) EXCEPT:.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 55,
+  "question": "",
+  "options": {
+   "D": "a zone of thickening larger than 1 disc area in size any part of which is located within 1 disc diameter of the center of the macula",
+   "C": "hard exudates at or within 500 microns of the center of the macula if associated with adjacent retinal thickening",
+   "B": "retinal thickening located at or within 500 microns of the center of the macula",
+   "A": "a zone of hard exudates larger than 1 disc area in size any part of which is located within 1 disc diameter of the center of the macula"
+  },
+  "markedAnswer": "A",
+  "explanation": "As emphasized on another question on this website, the ETDRS criteria for CSME were defined with *slit-lamp biomicroscopy* findings and *not* with other modalities (e.g. fluorescein angiography, fundus photographs, etc). As seen from these criteria, the presence of retinal thickening is more important than the presence of hard exudates, even though the latter is much easier to detect. Also note that there are no visual acuity criteria for CSME. Therefore even if a patient has 20/20 vision but meets one or more of the ETDRS criteria, then focal laser is justified and beneficial. In case anyone is curious. CSME criteria are (per BCSC 2014 retina pg 99): #1: thickening anywhere at or within 500 um of center of macula #2: exudate at or within one 500 um of fovea with associated thickening #3: >one disc diameter of thickening within one disc diameter of fovea Q-A 32-year-old poorly-controlled diabetic woman presents to your clinic for a dilated fundus exam. You note the presence of 2 quadrants of intraretinal hemorrhages, some scattered cotton-wool spots, rare venous beading (~1 quadrant total), and no macular edema, neovascularization or IRMA. Besides blood pressure and glucose control, what is the most appropriate follow-up time to re-examine this patient?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 56,
+  "question": "Besides blood pressure and glucose control, what is the most appropriate follow-up time to re-examine this patient?",
+  "options": {
+   "D": "1 month",
+   "C": "2-4 months",
+   "B": "6 months",
+   "A": "12 months"
+  },
+  "markedAnswer": "B",
+  "explanation": "The description of the fundus findings most accurately classifies this patient as having moderate non-proliferative diabetic retinopathy (NPDR). According to the AAO's 2014 Preferred Practice Patterns recommendations for patients with diabetic retinopathy in the absence of macular edema, this patient should be re-examined in 6-12 months. In this specific case, given that she is a young, poorly-controlled diabetic, 6 months is more appropriate than 12. P atients with no macular edema and mild NPDR should be re-examined in 12 months; severe NPDR in 4 months; and PDR in 4 months (with consideration of laser at the time of examination) Q-Which of the following is true regarding \"The United Kingdom Prospective Diabetes Study (UKPDS)\" ?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 57,
+  "question": "In this specific case, given that she is a young, poorly-controlled diabetic, 6 months is more appropriate than 12. P atients with no macular edema and mild NPDR should be re-examined in 12 months; severe NPDR in 4 months; and PDR in 4 months (with consideration of laser at the time of examination) Q-Which of the following is true regarding \"The United Kingdom Prospective Diabetes Study (UKPDS)\" ?",
+  "options": {
+   "D": "Intensive blood glucose and blood pressure control significantly reduced the risk of developing microvascular complications in type 2 diabetics",
+   "C": "Tight blood pressure control was not found to reduce the risk of developing diabetic neuropathy or nephropathy compared to conventional management.",
+   "B": "Tight blood pressure control was not found to both slow the progression and reduce the risk of diabetic retinopathy compared to conventional management.",
+   "A": "Subjects with type 1 diabetes mellitus were randomly assigned to receive either intensive blood glucose control or conventional blood glucose management."
+  },
+  "markedAnswer": "D",
+  "explanation": "The United Kingdom Prospective Diabetes Study (UKPDS) was a multicenter, randomized trial of subjects with type 2 diabetes mellitus that were randomly assigned to receive intensive blood glucose control or conventional blood glucose management. Subjects were also randomly assigned to either receive tight blood pressure control or less tight blood pressure control. Intensive blood glucose control and tight blood pressure control were independently found to both slow the progression and reduce the risk of diabetic retinopathy, neuropathy, and nephropathy. This study established the importance of intensive glucose and blood pressure control in reducing the risk of microvascular complications in type 2 diabetics. Q- A 45-year-old woman with poorly-controlled diabetes presents for her routine dilated fundus exam. She has no visual complaints and her vision is 20/25+ OU. Slit- lamp exam shows contiguous neovascularization of the pupil and iris but no neovascularization of the angle. Dilated fundus exam shows four quadrants of intraretinal hemorrhages. There is no neovascularization of the retina or vitreous hemorrhage. Her macular contact lens exam does not show any thickening. Her fluorescein angiogram shows multiple hyperfluorescent spots near the fovea with one spot leaking slowly. Which of the following represents the most appropriate therapy at this time for this patient?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 58,
+  "question": "neovascularization of the angle. Dilated fundus exam shows four quadrants of intraretinal hemorrhages. There is no neovascularization of the retina or vitreous hemorrhage. Her macular contact lens exam does not show any thickening. Her fluorescein angiogram shows multiple hyperfluorescent spots near the fovea with one spot leaking slowly. Which of the following represents the most appropriate therapy at this time for this patient?",
+  "options": {
+   "D": "focal laser preceding panretinal photocoagulation",
+   "C": "panretinal photocoagulation only",
+   "B": "focal laser only",
+   "A": "observation only"
+  },
+  "markedAnswer": "C",
+  "explanation": "This patient has extensive neovascularization of the iris and should receive prompt panretinal photocoagulation. Anti-VEGF therapy would also be appropriate in this case, followed by PRP. As she has no thickening on slit-lamp biomicroscopy she does not have CSME (clinically significant macular edema) as defined by the ETDRS (Early-Treatment Diabetic Retinopathy Study). Remember: CSME is a diagnosis made by slit-lamp biomicroscopy and not by ancillary tests like fluorescein angiography (FA) or OCT. The criteria for treating foveal-involving macular edema have now evolved from the ETDRS to include central-subfield thickness measurements on OCT. This may be used as a surrogate for CSME when deciding on initiating anti-VEGF therapy. Leakage alone on FA however is not an indication for treatment. Q-Which of the following is false regarding \"The Diabetes Control and Complications Trial\" (DCCT)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 59,
+  "question": "Which of the following is false regarding \"The Diabetes Control and Complications Trial\" (DCCT)?",
+  "options": {
+   "D": "The risk of developing diabetic neuropathy and nephropathy were reduced with intensive glucose control compared to conventional management.",
+   "C": "Intensive blood glucose control slowed the progression of diabetic retinopathy by 54% compared to conventional management.",
+   "B": "Intensive blood glucose control reduced the risk of developing diabetic retinopathy by 76% compared to conventional management.",
+   "A": "Subjects with type 1 and type 2 diabetes mellitus were randomly assigned to receive intensive blood glucose control or conventional blood glucose management"
+  },
+  "markedAnswer": "A",
+  "explanation": "The Diabetes Control and Complications Trial (DCCT) was a multicenter, randomized trial of subjects with type 1 diabetes mellitus that were randomly assigned to receive intensive blood glucose control or conventional blood glucose management. Intensive control reduced the risk of developing retinopathy by 76% and slowed the progression of retinopathy by 54%. The risk of neuropathy was reduced by 60% and the risk of nephropathy was reduced by 54% with intensive glucose control. This study established the importance of intensive glucose control in reducing the risk of microvascular complications in type 1 diabetics. Q,Which of the following retinal findings places the eye at highest risk for progressing from preproliferative diabetic retinopathy to proliferative diabetic retinopathy (PDR)?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 60,
+  "question": "Q,Which of the following retinal findings places the eye at highest risk for progressing from preproliferative diabetic retinopathy to proliferative diabetic retinopathy (PDR)?",
+  "options": {
+   "D": "intraretinal microvascular abnormalities (IRMA)",
+   "C": "venous beading (VB)",
+   "B": "intraretinal hemorrhage (IRH)",
+   "A": "cotton-wool spot (CWS)"
+  },
+  "markedAnswer": "D",
+  "explanation": "The ETDRS (Early Treatment Diabetic Retinopathy Study) found that CWS were the LEAST helpful in predicting progression from preproliferative diabetic retinopathy to PDR. The Wisconsin Epidemiologic Study of Diabetic Retinopathy (WESDR) found strong evidence that VB and IRMA are most predictive of the risk of progressing to PDR. The popular ETDRS \"4:2:1 rule\" in classifying an eye with severe non-proliferative diabetic retinopathy (NPDR) places the greatest importance on the presence of IRMA (since only one quadrant need be involved). In an eye with severe NPDR, the rate of developing high-risk PDR within 1 year is approximately 17% and within 3 years is approximately 40%. You are examining a 45-year-old patient with a history of type 1 diabetes. A representative fundus photo is shown above. How would you classify his stage of diabetic retinopathy based on this photo alone?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 61,
+  "question": "You are examining a 45-year-old patient with a history of type 1 diabetes. A representative fundus photo is shown above. How would you classify his stage of diabetic retinopathy based on this photo alone?",
+  "options": {
+   "D": "proliferative diabetic retinopathy with high-risk characteristics",
+   "C": "proliferative diabetic retinopathy without high-risk characteristics",
+   "B": "severe nonproliferative diabetic retinopathy",
+   "A": "moderate nonproliferative diabetic retinopathy"
+  },
+  "markedAnswer": "C",
+  "explanation": "An International Clinical Disease Severity Scale for diabetic retinopathy was established in 2003 and was based on the findings of the Wisconsin Epidemiologic Study of Diabetic Retinopathy (WESDR) and the Early Treatment of Diabetic Retinopathy Study (ETDRS). There are 5 stages: • No retinopathy • Mild non-proliferative diabetic retinopathy (NPDR) -- few microaneurysms. • Moderate non-proliferative NPDR -- microaneurysms, intraretinal hemorrhages, or venous beading that do not reach the severity of standard photographs 2A, 6A, and 8A. These \"standard photographs\" were the ones used by the WESDR fundus photo reading center to judge the severity of retinopathy. • Severe non-proliferative NPDR -- any of the following criteria (but without any neovascularization or vitreous hemorrhage) (\"4:2:1 rule\") o Intraretinal hemorrhages of at least the magnitude found in standard photo 2A in all 4 quadrants; OR o Venous beading of at least the magnitude found in standard photo 6B in at least 2 quadrants; OR o Intraretinal microvascular abnormalities (IRMA) of at least the magnitude found in standard photo 8A. • Proliferative diabetic retinopathy (PDR) -- presence of any neovascularization, vitreous hemorrhage, or tractional retinal detachment. o PDR with \"high-risk characteristics\" § Neovascularization of the disc (NVD) of at least the magnitude found in standard photo 10A. This is commonly re-stated as \"NVD greater than 1/4 to 1/3 of the disc area\"; OR § Any NVD in the presence of preretinal or vitreous hemorrhage; OR § Neovascularization elsewhere (NVE) of at least the magnitude of standard photo 7 in the presence of preretinal or vitreous hemorrhage. § Any neovascularization of the iris or angle. The fundus photo of this patient shows both NVD and NVE (yellow arrows). However, there is no pre-retinal or vitreous hemorrhage and the NVD appears to be less than standard photo 10A. Thus, this eye has PDR without high- risk characteristics. Q-A 48-year-old Hispanic male presents to your clinic for evaluation of sudden decreased vision in the left eye beginning 2 weeks ago. He denies any recent trauma or previous ocular issues. However, he has not had an eye exam in over 10 years. His medical history is significant for type 2 diabetes mellitus, and his most recent hemoglobin A1c is measured to be 10.7. Best-corrected visual acuity is measured to be 20/25 OD and HM OS. Tonometry and anterior segment examination are normal for both eyes. Fundus photograph of the right eye is shown above. There is a significant vitreous hemorrhage in the left eye that blocks your view of the fundus. What is the most appropriate next step to care for the patient’s left eye?",
+  "imageUrl": "/images/retina-oq/p52_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 62,
+  "question": "Best-corrected visual acuity is measured to be 20/25 OD and HM OS. Tonometry and anterior segment examination are normal for both eyes. Fundus photograph of the right eye is shown above. There is a significant vitreous hemorrhage in the left eye that blocks your view of the fundus. What is the most appropriate next step to care for the patient’s left eye?",
+  "options": {
+   "D": "Fluorescein angiography",
+   "C": "B-scan ultrasound",
+   "B": "Pan-retinal photocoagulation",
+   "A": "Intravitreal anti-VEGF therapy"
+  },
+  "markedAnswer": "C",
+  "explanation": "From the question stem, the patient is highly suspicious for proliferative diabetic retinopathy (PDR) of both eyes. The fundus photo of the right eye shows neovascularization of the disc (NVD) as well as neovascularization elsewhere (NVE) along the arcade vessels, thus one can assume that the vitreous hemorrhage (VH) in the left eye is most likely due to proliferative disease, especially in the setting of no recent ocular or head trauma. While all of the answer choices can potentially be possible in-clinic options for PDR, the most appropriate next step for taking care of this patient’s left eye is to perform a B-scan ultrasound (choice C) since there is no clinical view of the posterior segment. Based on presence of NVD and NVE in the right eye, we can assume that PDR is the etiology of the VH in the left eye. However, we must do our due diligence to rule out other ominous posterior segment findings such as a retinal detachment or posterior segment mass (i.e. choroidal hemorrhage, choroidal melanoma, etc.) as these can significantly impact the clinical course. What if the VH is caused by a retinal tear that has now led to a retinal detachment? Once the B-scan has confirmed no other significant posterior pathology, we can proceed based on the assumption that the VH is due to PDR and treat accordingly. Treatment with intravitreal anti-VEGF therapy (choice A) may be appropriate after we confirm with B-scan that the etiology for the VH is not due to other posterior segment disease such as retinal detachment or choroidal mass. Determining which agent (bevacizumab, ranibizumab, or aflibercept) to treat with for this disease is controversial and beyond the scope of the written board exams. Furthermore, on-going anti-VEGF injections versus pan-retinal photocoagulation (PRP) to manage PDR long-term is also very controversial and beyond the scope of the written boards. Pan-retinal photocoagulation (choice B) would be an appropriate treatment for the patient as a long-term strategy once the VH clears in the left eye. Fluorescein angiography (choice D) is an additional in-office test to confirm and document dye leakage indicative of NVD and NVE in PDR. We would not be able to conduct this imaging study until the VH has cleared in the left eye. Q-On a microscopic level, what is the characteristic vascular change that occurs in diabetic retinopathy?",
+  "imageUrl": "/images/retina-oq/p55_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 63,
+  "question": "On a microscopic level, what is the characteristic vascular change that occurs in diabetic retinopathy?",
+  "options": {
+   "D": "increased mesangial cells within the walls of the retinal blood vessels",
+   "C": "focal calcification in the media of the retinal blood vessels",
+   "B": "loss of pericytes and basement membrane thickening",
+   "A": "loss of endothelial cells and extracellular accumulation of glycosylated end products"
+  },
+  "markedAnswer": "B",
+  "explanation": "These changes contribute to capillary occlusion and subsequent retinal nonperfusion. They also contribute to decompensation of the blood-retinal barrier which results in macular edema. Q-Which of the following is FALSE regarding \"The Diabetic Retinopathy Study (DRS)\" ?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 64,
+  "question": "Which of the following is FALSE regarding \"The Diabetic Retinopathy Study (DRS)\" ?",
+  "options": {
+   "D": "Subjects with new vessels on the optic disc equaling 1/3 disc area in the absence of vitreous hemorrhage was considered high-risk proliferative diabetic retinopathy in the study.",
+   "C": "Panretinal photocoagulation technique was standardized during the study.",
+   "B": "The study defined the clinical features of \"high-risk proliferative diabetic retinopathy.\"",
+   "A": "The study evaluated the effects of aspirin on diabetic retinopathy."
+  },
+  "markedAnswer": "A",
+  "explanation": "The Diabetic Retinopathy Study (DRS) was a multicenter, randomized trial of 1742 subjects with proliferative diabetic retinopathy (PDR) that were randomly assigned to receive panretinal photocoagulation (PRP) or observation. This study demonstrated that PRP reduced the risk of severe visual loss by 50% or more in subjects with high-risk PDR. High-risk PDR was defined in this study according to: (1) eyes with new vessels and preretinal or vitreous hemorrhage; and (2) eyes with new vessels on or within one disc diameter of the optic disc (NVD) equaling or exceeding 1/4 to 1/3 disc area in extent in the absence of preretinal or vitreous hemorrhage. PRP technique was also defined by this study. The DRS established PRP as the standard of care for high-risk PDR during this time period.The Early Treatment Diabetic Retinopathy Study (ETDRS) evaluated the effects of aspirin on diabetic retinopathy. Q-Which of the following patients would benefit from early vitrectomy for non- clearing vitreous hemorrhage (NCVH) if *only* the results of the DRVS (Diabetic Retinopathy Vitrectomy Study) were used?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 65,
+  "question": "Which of the following patients would benefit from early vitrectomy for non- clearing vitreous hemorrhage (NCVH) if *only* the results of the DRVS (Diabetic Retinopathy Vitrectomy Study) were used?",
+  "options": {
+   "D": "type 2 diabetic with mild vitreous hemorrhage (VH) with visual acuity better than 5/200",
+   "C": "type 2 diabetic with severe vitreous hemorrhage (VH) with visual acuity worse than or equal to <= 5/200",
+   "B": "type 1 diabetic with mild vitreous hemorrhage (VH) with visual acuity better than 5/200",
+   "A": "type 1 diabetic with severe vitreous hemorrhage (VH) with visual acuity worse than or equal to 5/200"
+  },
+  "markedAnswer": "A",
+  "explanation": "The DRVS clearly showed a benefit of early vitrectomy for type 1 diabetics with severe vision loss from a severe VH. Specifically, this study found that early vitrectomy increased the chance of 20/40 vision from 12% to 36% in type 1 diabetics. There was no clear benefit in type 2 diabetics. Though the DRVS provided valuable data, most vitreoretinal surgeons will perform early surgery also for type 2 diabetics with severe VH given the improvement in vitreoretinal surgical techniques, especially the routine use of concomitant endolaser during the procedure. Q-This 51-year-old diabetic man presents with vision loss in his left eye. Which of the following is a correct finding of the DRCR.net protocol I?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 66,
+  "question": "This 51-year-old diabetic man presents with vision loss in his left eye. Which of the following is a correct finding of the DRCR.net protocol I?",
+  "options": {
+   "D": "In non-center involving diabetic macular edema, the most vision is gained by a combination of monthly intravitreal ranibizumab plus macular laser",
+   "C": "If the edema is more severe prior to treatment, then macular laser results in the best visual gain",
+   "B": "Macular focal/grid laser is more effective if the leakage is focal as opposed to diffuse",
+   "A": "there were similar gains in vision for pseudophakes treated with monthly intravitreal ranibizumab and macular laser as compared with triamcinolone and macular laser"
+  },
+  "markedAnswer": "A",
+  "explanation": "The photographs demonstrate center-involving diabetic macular edema. The Diabetic Retinopathy Clinical Research network (DRCR.net) protocol I had four arms: (1) sham injection + prompt laser; (2) ranibizumab 0.5 mg + prompt laser; (3) ranibizumab 0.5 mg + delayed laser; (4) triamcinolone 4 mg + prompt laser.1 The best vision results at the primary endpoint (i.e. at 52 weeks) were from the two groups of ranibizumab plus laser. In other words, these ranibizumab + laser groups did better than the previous gold standard of macular laser alone. The subgroup that differed was pseudophakic eyes. Pseudophakic patients gained equivalent vision in the ranibizumab/laser groups as the triamcinolone/laser group. However, the triamcinolone group had a much higher incidence of glaucoma. A subgroup analysis demonstrated that the amount of initial edema did not alter the overall result. Also, the vision gain was similar whether the treating physician felt that the leakage was focal or diffuse. The trial only included subjects with center- involving edema and as such cannot be applied to patients without center-involving edema. Q-Which of the following represents the standard laser parameters for panretinal photocoagulation (PRP) as performed in the DRS (Diabetic Retinopathy Study) trial?",
+  "imageUrl": "/images/retina-oq/p58_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 67,
+  "question": "Which of the following represents the standard laser parameters for panretinal photocoagulation (PRP) as performed in the DRS (Diabetic Retinopathy Study) trial?",
+  "options": {
+   "D": "1200 or more 500 micron burns, separated by one-half to one burn width apart, at 0.1 sec duration",
+   "C": "1200 or more 300 micron burns, separated by one-half to one burn width apart, at 0.1 sec duration",
+   "B": "2000 or more 500 micron burns, separated by one-half burn width apart, at 0.5 sec duration",
+   "A": "2000 or more 300 micron burns, separated by one-half burn width apart, at 0.1 sec duration"
+  },
+  "markedAnswer": "D",
+  "explanation": "The scatter photocoagulation treatment can be divided into 2 or more sessions to enhance patient comfort and to decrease the risk of macular edema. Q-Which of the following is FALSE regarding \"The Early Treatment Diabetic Retinopathy Study (ETDRS)\" ?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 68,
+  "question": "Which of the following is FALSE regarding \"The Early Treatment Diabetic Retinopathy Study (ETDRS)\" ?",
+  "options": {
+   "D": "Focal argon photocoagulation technique was standardized during the study.",
+   "C": "Aspirin treatment was found to alter the course of diabetic retinopathy in subjects with clinically significant diabetic macular edema (CSDME).",
+   "B": "The study defined clinically significant diabetic macular edema (CSDME) according to stereo contact lens biomicroscopy or stereo photography.",
+   "A": "The study compared focal argon photocoagulation with observation in subjects with diabetic macular edema."
+  },
+  "markedAnswer": "C",
+  "explanation": "The Early Treatment Diabetic Retinopathy Study (ETDRS) was a multicenter, randomized trial of 2,244 subjects with diabetic macular edema that were randomly assigned to receive focal argon photocoagulation or observation. This study demonstrated that focal photocoagulation of clinically significant diabetic macular edema (CSDME) substantially reduced the risk of visual loss by 50% (Report 1). Laser treatment also increased the chance of visual improvement, decreased the frequency of persistent macular edema, and caused minimal visual field loss. CSDME, determined according to stereo contact lens biomicroscopy or stereo photography, was defined by this study as well as focal laser technique (Report 2). The researchers concluded that all eyes with CSDME should be considered for focal photocoagulation. The ETDRS also found that aspirin treatment did not alter the course of diabetic retinopathy (Report 8). The ETDRS established focal argon photocoagulation as the standard of care for the treatment of CSDME during that time period (i.e. before the advent of anti-VEGF injections as used in the RESTORE study). Q-All of the following regarding severe non-proliferative diabetic retinopathy (NPDR) are true EXCEPT:.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 69,
+  "question": "All of the following regarding severe non-proliferative diabetic retinopathy (NPDR) are true EXCEPT:",
+  "options": {
+   "D": "in the ETDRS, cotton-wool spots (CWS) were found to be helpful in predicting progression from severe NPDR to PDR (proliferative diabetic retinopathy)",
+   "C": "severe NPDR had a 15% chance of progression to high-risk PDR within 1 year",
+   "B": "very severe NPDR is defined by having >= 2 of the criteria that define severe NPDR",
+   "A": "it is defined clinically with the popular \"4:2:1\" rule"
+  },
+  "markedAnswer": "D",
+  "explanation": "The ETDRS did *not* find the presence of CWS as being helpful in predicting progression to PDR. Severe NPDR had a 15% chance of progression to high-risk PDR over 1 year while very severe NPDR had a 45% chance risk. A 29-year-old type 2 diabetic woman is in her 2nd trimester of pregnancy. You perform a dilated fundus exam which is shown above. Which of the following is the most appropriate course of management in this pregnant woman?",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 70,
+  "question": "A 29-year-old type 2 diabetic woman is in her 2nd trimester of pregnancy. You perform a dilated fundus exam which is shown above. Which of the following is the most appropriate course of management in this pregnant woman?",
+  "options": {
+   "D": "induction of delivery to prevent blindness from proliferative diabetic retinopathy (PDR)",
+   "C": "observation only since retinopathy usually regresses after delivery of the baby",
+   "B": "focal photocoagulation only",
+   "A": "focal and panretinal photocoagulation"
+  },
+  "markedAnswer": "A",
+  "explanation": "The fundus photo of the right eye shows florid macular edema with exudates that would easily satisfy the ETDRS criteria for clinically-significant macular edema (CSME). The fundus photo of the left eye shows florid neovascularization of the disc as well as either a tractional retinal detachment or fibrovascular proliferation. Although regression of retinopathy may occur after delivery, panretinal photocoagulation (and antecedent focal if needed for CSME) should be performed in pregnant patients with high-risk PDR. Q-All of the following were conclusions of the ETDRS (Early Treatment Diabetic Retinopathy Study) EXCEPT:.",
+  "imageUrl": "/images/retina-oq/p61_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ }
+]

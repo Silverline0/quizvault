@@ -1,0 +1,179 @@
+[
+ {
+  "id": 72,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "medium"
+ },
+ {
+  "id": 73,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 74,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 75,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 76,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "medium"
+ },
+ {
+  "id": 77,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 78,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 79,
+  "verdict": "needs-image",
+  "proposedAnswer": null,
+  "reason": "The stem explicitly says the patient 'presents with the findings shown below' for a complication of a chronically inflamed chalazion, but imageUrl is null. Whether topical corticosteroids (appropriate for a pyogenic granuloma) or incision and drainage (appropriate for a persistent/recurrent purulent chalazion) is correct depends on the lesion's gross appearance, which cannot be judged from text alone.",
+  "confidence": "medium"
+ },
+ {
+  "id": 80,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 81,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 82,
+  "verdict": "needs-image",
+  "proposedAnswer": null,
+  "reason": "The question depends on 'the eyelid finding demonstrated in the figure' to distinguish madarosis, trichiasis, distichiasis, and eyelash ptosis, but imageUrl is null. These are purely visual diagnoses (e.g., an extra lash row from meibomian orifices versus normal follicles misdirected inward), and the demographic/symptom description alone is not sufficient to pick one reliably.",
+  "confidence": "high"
+ },
+ {
+  "id": 83,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 84,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "medium"
+ },
+ {
+  "id": 85,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 86,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 87,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 88,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 89,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 90,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 91,
+  "verdict": "needs-image",
+  "proposedAnswer": null,
+  "reason": "The stem explicitly references 'the patient shown in Figure 1' to justify choosing among four unrelated interventions (lateral tarsal strip, conjunctival resection, bandage lens, or silver nitrate cauterization), but imageUrl is null. The explanation's own reasoning centers on conjunctivochalasis, a diagnosis that must be visually confirmed and cannot be inferred from the recalcitrant dry-eye history alone.",
+  "confidence": "high"
+ },
+ {
+  "id": 92,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 93,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 94,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 95,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 96,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 97,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "medium"
+ },
+ {
+  "id": 98,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 99,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ },
+ {
+  "id": 100,
+  "verdict": "correct",
+  "proposedAnswer": null,
+  "confidence": "high"
+ }
+]

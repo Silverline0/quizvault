@@ -1,0 +1,1048 @@
+[
+ {
+  "id": 143,
+  "question": "What sight-threatening complication of uveitis is related to ciliary body dysfunction?",
+  "options": {
+   "A": "band keratopathy",
+   "B": "rhegmatogenous retinal detachment",
+   "C": "macular choroidal folds",
+   "D": "macular edema"
+  },
+  "markedAnswer": "C",
+  "explanation": "Ciliary body inﬂammation causes aqueous hyposecretion and low intraocular pressure (hypotony). Hypotony due to chronic ocular inﬂammation may cause macular choroidal folds (hypotony maculopathy), serous choroidal detachment, and cataract.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 144,
+  "question": "A patient with AIDS and cytomegalovirus (CMV) retinitis in 1 eye undergoes successful placement of an intravitreal ganciclovir implant without systemic anti-CMV therapy and also receives highly active antiretroviral therapy (HAART). Ten months later, the retinitis is inactive, and the patient's CD4+ count is 200 cells/ µL. What would be the most appropriate approach for treatment of the retinitis at this time?",
+  "options": {
+   "A": "Leave the implant in place and insert another one in a diﬀerent quadrant.",
+   "B": "Make no changes in therapy.",
+   "C": "Remove the ganciclovir implant and place another one at the same surgical site.",
+   "D": "Begin oral valganciclovir."
+  },
+  "markedAnswer": "B",
+  "explanation": "Treatment of CMV retinitis involves 3 steps: immune reconstitution with HAART and concomitant treatment of the virus (intravenous ganciclovir or foscarnet, oral valganciclovir, or intravitreal ganciclovir or foscarnet [see Table 11-3]); maintenance of antiviral therapy for 3-6 months to allow for adequate immune reconstitution (despite early recovery of CD4+ cell counts); continued HAART therapy without antivirals, with dilated fundus examinations every 3 months (because immune reconstitution uveitis [IRU] can occur in patients on HAART with a history of prior CMV retinitis, even if the retinitis is currently inactive and CD4+ counts are >50 cells/µL; IRU tends to occur more frequently in eyes with more than 25% of the retinal surface involved in prior CMV infections). In the case described, at 10 months out from initial infection, on HAART, and with CD4+ counts of 200 cells/µL, this patient is immune reconstituted from a CMV risk standpoint and can safely be observed oﬀ antiviral treatment with dilated fundus examinations every 3 months. (Note that the ganciclovir implant lasts for approximately 8 months, which is ample time to allow for immune reconstitution on HAART, as oral valganciclovir therapy in this setting is typically discontinued 6 months after the initiation of HAART). There is no need to replace or remove the ganciclovir implant in the absence of new signs of CMV infection, which is unlikely at CD4+ counts >50 cells/µL (although, as stated earlier, IRU can still occur while patients are on HAART, and as such these patients should be monitored every 3 months). f959- 406f- 8e84- 00ac2f7a4b95) .",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 145,
+  "question": "What is a clinical manifestation of bilateral diﬀuse uveal melanocytic proliferation (BDUMP)?",
+  "options": {
+   "A": "choroidal thinning",
+   "B": "serous retinal detachment",
+   "C": "yellow choroidal discoloration",
+   "D": "hemorrhagic choroidal detachment"
+  },
+  "markedAnswer": "B",
+  "explanation": "BDUMP causes diﬀuse thickening of the choroid, reddish or brownish choroidal discoloration, serous retinal detachment, and cataracts. The bilateral proliferation of benign melanocytes is usually associated with or often heralds a systemic cancer. Common tumors associated with BDUMP are cancers of the ovary, uterus, and lung. BDUMP can also occur with cancers of the colon, pancreas, gallbladder, and esophagus.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 146,
+  "question": "What medicine can be given intravitreally to treat ocular toxoplasmosis in patients who are intolerant to systemic therapy?",
+  "options": {
+   "A": "amikacin",
+   "B": "voriconazole",
+   "C": "vancomycin",
+   "D": "clindamycin"
+  },
+  "markedAnswer": "D",
+  "explanation": "Ocular toxoplasmosis is usually treated with oral antibiotics. Trimethoprim-sulfamethoxazole is most commonly used. Triple therapy with sulfadiazine, pyrimethamine, and prednisone, or quadruple therapy, with the addition of clindamycin, may also be used. In patients who are intolerant to systemic therapy or fail to respond to systemic therapy, intravitreal clindamycin can be used with or without dexamethasone. Intravitreal amikacin and vancomycin are used to treat bacterial endophthalmitis. Intravitreal voriconazole is used to treat fungal endophthalmitis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 147,
+  "question": "A 12-year-old boy is hit in the eye with a baseball. Weeks later, following resolution of the submacular hemorrhage, the ﬁnding shown in the photo is noted. The patient's visual acuity is 20/30. What is the most appropriate initial management?",
+  "options": {
+   "A": "intravitreal injection of anti-vascular endothelial growth factor (anti-VEGF) agent",
+   "B": "focal laser photocoagulation",
+   "C": "observation",
+   "D": "pars plana vitrectomy with membrane peel and intraocular gas tamponade"
+  },
+  "markedAnswer": "C",
+  "explanation": "This clinical scenario alludes to a traumatic choroidal rupture. Traumatic choroidal ruptures occur when the eye is compressed along its anterior-posterior axis, which disrupts the relatively inelastic Bruch membrane. While choroidal neovascularization is a late complication possible with choroidal rupture, which would be treated with an anti- BCSC Excerpt References Notes.",
+  "imageUrl": "/images/retina-bcsc/p162_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 148,
+  "question": "What ophthalmic diagnostic test is characteristically expected to give a normal result in patients with Best disease?",
+  "options": {
+   "A": "ﬂuorescein angiography (FA)",
+   "B": "optical coherence tomography (OCT)",
+   "C": "electroretinogram (ERG)",
+   "D": "electro-oculogram (EOG)"
+  },
+  "markedAnswer": "C",
+  "explanation": "An ERG is characteristically normal in Best disease. An EOG is typically abnormal, showing a severe loss of light response. OCT and FA results are abnormal in Best disease and reﬂect the changes in macular lesion from vitelliform stage to atrophic appearance.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 149,
+  "question": "What clinical ﬁnding is considered a risk factor for the development of neovascular age-related macular degeneration?",
+  "options": {
+   "A": "multiple small drusen in 1 eye",
+   "B": "multiple small drusen in both eyes",
+   "C": "large drusen with pigment clumping",
+   "D": "absence of pigment clumping"
+  },
+  "markedAnswer": "C",
+  "explanation": "According to the Age-Related Eye Disease Study (AREDS), stage 2 (multiple small or few intermediate drusen in 1 or both eyes) of the dry form of age-related macular degeneration (AMD) had a very low incidence of progression to neovascular AMD, whereas stage 3 (a few large drusen or multiple intermediate drusen) and stage 4 (geographic atrophy) eyes had high incidences of progression to neovascular AMD after 5 years (18% for stage 3, and 40% for stage 4). Pigment clumping was considered an additional risk factor according to AREDS.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 150,
+  "question": "What feature in premature neonates is a risk factor for retinopathy of prematurity (ROP)?",
+  "options": {
+   "A": "paternal age",
+   "B": "history of blood transfusion",
+   "C": "rapid postnatal weight gain",
+   "D": "light exposure"
+  },
+  "markedAnswer": "B",
+  "explanation": "Premature babies that have been septic, have required a blood transfusion, and have poor postnatal weight gain have been shown in several studies to be at higher risk of developing ROP. Light exposure, paternal age, and fever (without sepsis) have not been shown to increase the risk of ROP development. 50 per pag.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 152,
+  "question": "What is the primary location of the intraocular hemorrhage of Valsalva retinopathy?",
+  "options": {
+   "A": "vitreous",
+   "B": "subinternal limiting membrane",
+   "C": "subhyaloid",
+   "D": "subretinal"
+  },
+  "markedAnswer": "B",
+  "explanation": "The primary location of the intraocular hemorrhage of Valsalva retinopathy is the subinternal limiting membrane space. The hemorrhage may also extend to the subretinal, subhyaloid, and/or vitreous spaces. Immediately following a Valsalva maneuver, a sudden rise in retinal venous pressure may cause the retinal capillaries to spontaneously rupture. The prognosis for Valsalva retinopathy is favorable with a course of observation. If spontaneous resolution does not occur, vitrectomy surgery may be considered. 50 per pa.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 201,
+  "question": "What is the most likely diagnosis for the fundus shown?",
+  "options": {
+   "A": "central retinal vein occlusion",
+   "B": "sickle cell retinopathy",
+   "C": "proliferative diabetic retinopathy",
+   "D": "nonproliferative diabetic retinopathy"
+  },
+  "markedAnswer": "C",
+  "explanation": "This patient has neovascularization of the disc with nasal ﬁbrous proliferation along the vascular arcades. Although other conditions, such as a venous occlusion, posterior uveitis, inherited peripheral retinal ischemia (eg, Norrie disease, familial exudative vitreoretinopathy, and incontinentia pigmenti), may lead to this complication, proliferative diabetic retinopathy is by far the most likely BCSC Excerpt References Notes.",
+  "imageUrl": "/images/retina-bcsc/p222_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 202,
+  "question": "A 78-year-old man trips and falls on a sidewalk, and his right eye is injured by the teeth of a rake. He has a 360-degree dense subconjunctival hemorrhage, intraocular pressure of 8, and a peaked pupil. What is the primary concern in this situation?",
+  "options": {
+   "A": "uveal prolapse indicating an open globe",
+   "B": "vitreous prolapse into the anterior chamber",
+   "C": "retinal detachment causing uveal shift",
+   "D": "hypotony causing suprachoroidal hemorrhage"
+  },
+  "markedAnswer": "A",
+  "explanation": "The primary concern in this patient is for an open-globe injury, given the 360-degree hemorrhage and the peaked pupil. The other choices (hypotony causing suprachoroidal hemorrhage, retinal detachment causing uveal shift, vitreous prolapse into the anterior chamber) are possibly present in addition, but one must rule out an open injury.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 203,
+  "question": "Basal laminar deposits in the retina are a supportive ﬁnding in what disease?",
+  "options": {
+   "A": "phototoxicity",
+   "B": "Stargardt disease",
+   "C": "pattern dystrophy",
+   "D": "age-related macular degeneration (AMD)"
+  },
+  "markedAnswer": "D",
+  "explanation": "Basal laminar deposits are a supportive pathological ﬁnding in AMD. They are microscopic deposits between the plasma membrane of the retinal pigment epithelium (RPE) and the basement membrane of the RPE.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 205,
+  "question": "What diagnostic item is used for the evaluation of contrast sensitivity?",
+  "options": {
+   "A": "Ishihara plates",
+   "B": "anomaloscope",
+   "C": "Pelli-Robson test",
+   "D": "Farnsworth-Munsell 100-hue test"
+  },
+  "markedAnswer": "C",
+  "explanation": "The Pelli-Robson test measures contrast sensitivity using a single, large letter size (20/60 optotype), with contrast varying across groups of letters. Patients read the letters, starting with the highest contrast and continue until they are unable to read 2 or 3 letters in a single group. The subject is assigned a score based on the contrast of the last group in which 2 or 3 letters were correctly read. The Pelli-Robson score is a logarithmic measure of the subject’s contrast sensitivity. The anomaloscope, Farnsworth-Munsell 100-hue test, and Ishihara plates are all used to evaluate color vision, not contrast sensitivity.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 206,
+  "question": "A 30-year-old woman with systemic lupus erythematosus is under treatment with hydroxychloroquine. What factor places her at greatest risk of visual loss from toxicity?",
+  "options": {
+   "A": "renal insuﬃciency",
+   "B": "concomitant glaucoma",
+   "C": "young age",
+   "D": "thinness"
+  },
+  "markedAnswer": "A",
+  "explanation": "Because hydroxychloroquine is metabolized in the kidneys and liver, patients with renal insuﬃciency, such as those with lupus nephritis and diabetic nephropathy, are at increased risk for accumulation of toxic metabolites. Older patients are at greater risk than younger patients. The most recent data suggest that a hydroxychloroquine dosage of 5.0 mg/kg/day and a chloroquine dosage of 2.3 mg/kg/day based on the patient’s real body weight may be safer across all body mass indexes than the dosage recommendation of 6.5 mg/kg/day and 3 mg/kg/day, BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 207,
+  "question": "What is the most important step in minimizing the risk of endophthalmitis when performing an intravitreal injection?",
+  "options": {
+   "A": "applying antibiotic eye drops after the injection",
+   "B": "applying povidone-iodine to the ocular surface before the injection",
+   "C": "using drugs from the same lot number when bilateral injections are performed",
+   "D": "scrubbing the eyelid margin before the injection"
+  },
+  "markedAnswer": "B",
+  "explanation": "The pre-procedure application of 5% povidone-iodine to the ocular surface is widely considered the most important step in preventing endophthalmitis following an intravitreal injection. The patient’s BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 208,
+  "question": "What is the main glycosaminoglycan component of vitreous?",
+  "options": {
+   "A": "keratan",
+   "B": "dermatan",
+   "C": "chondroitin",
+   "D": "hyaluronan"
+  },
+  "markedAnswer": "D",
+  "explanation": "Hyaluronan (hyaluronic acid) is the main glycosaminoglycan found in vitreous. Other major components include water and collagen. Although dermatan, chondroitin, and keratan are glycosaminoglycans BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 209,
+  "question": "Aside from ingestion of cysts, by what route can ocular toxoplasmosis be transmitted?",
+  "options": {
+   "A": "saliva",
+   "B": "respiratory aerosolization",
+   "C": "fomite",
+   "D": "transplacental"
+  },
+  "markedAnswer": "D",
+  "explanation": "Toxoplasmosis may be transmitted by ingestion of tissue cysts or by hematogenous route, which includes transplacental fetal transmission. The obligatory intracellular parasites of toxoplasmosis may not be transmitted by saliva, fomite, or respiratory aerosolization.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 210,
+  "question": "What is the most appropriate initial management choice for a patient with recent choroidal rupture?",
+  "options": {
+   "A": "pars plana vitrectomy with gas tamponade",
+   "B": "intravitreal steroid injection",
+   "C": "observation",
+   "D": "high-dose pulse intravenous steroids"
+  },
+  "markedAnswer": "C",
+  "explanation": "Choroidal rupture occurs due to sudden compression of the eye along its anterior-posterior axis resulting in a tear in the Bruch membrane and overlying retinal pigment epithelium (RPE). Immediate treatment involves observation. A choroidal neovascular membrane can develop as a late complication that may need laser photocoagulation or intravitreal anti-VEGF injections. Steroids or vitrectomy surgery have no role in the management of a recent choroidal rupture.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 211,
+  "question": "What intraocular tumor frequently occurs in conjunction with central nervous system (CNS) involvement?",
+  "options": {
+   "A": "vitreoretinal lymphoma",
+   "B": "choroidal lymphoma",
+   "C": "retinoblastoma",
+   "D": "metastatic carcinoma"
+  },
+  "markedAnswer": "A",
+  "explanation": "Primary vitreoretinal lymphoma (PVRL) or primary intraocular lymphoma (PIOL) is also referred as non-Hodgkin lymphoma of the CNS. More than half of patients presenting with ocular ﬁndings have or will develop involvement of the CNS. Simultaneous brain and ocular metastasis may happen but are not thought to be directly related. A single case report is present in the literature describing such an event. Uveal lymphoma is divided into primary and secondary categories based on the presence or absence of systemic lymphoma at the time of ocular presentation. The observed relationship between bilateral ocular involvement and systemic lymphoma is not limited to choroidal (uveal) lymphoma and has been reported for ocular adnexal and orbital lymphoproliferative tumors. Retinoblastoma may invade the central nervous system. Trilateral retinoblastoma presents with bilateral tumors and pinealblastoma. The incidence of pinealblastoma among children with bilateral retinoblastoma is 6%.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 212,
+  "question": "What is the most common cause of decreased visual acuity in patients who present with acute central retinal vein occlusion?",
+  "options": {
+   "A": "vitreous hemorrhage",
+   "B": "macular ischemia",
+   "C": "macular edema",
+   "D": "neovascular glaucoma"
+  },
+  "markedAnswer": "C",
+  "explanation": "Patients with acute central retinal vein occlusion commonly present with reduced visual acuity secondary to macular edema. Neovascularization of the iris usually occurs 3 to 5 months after the onset of symptoms. Peripheral ischemia with capillary dropout is seen in some severe cases of central retinal vein occlusion and can promote neovascularization, resulting in vitreous hemorrhage. Macular ischemia can occur as well but is a less likely cause of decreased acuity on presentation.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 213,
+  "question": "A 32-year-old patient with hyperopia is referred for a second opinion regarding refractory central serous choroidopathy. On examination, the ophthalmologist notes subretinal ﬂuid. There are no anterior chamber or vitreous cell abnormalities, and the patient reports no pain. A ﬂuorescein angiogram reveals a leopard spot pattern of hyperﬂuorescence as shown. These ﬁndings indicate that the original diagnosis was incorrect. What is the correct diagnosis?",
+  "options": {
+   "A": "uveal eﬀusion syndrome",
+   "B": "Vogt-Koyanagi-Harada (VKH) syndrome",
+   "C": "posterior scleritis",
+   "D": "multiple evanescent white dot syndrome (MEWDS)"
+  },
+  "markedAnswer": "A",
+  "explanation": "Uveal eﬀusion syndrome is characterized by impaired posterior segment drainage, causing exudative detachment of the retina, choroid, or ciliary body. Young age, hyperopia, and nanophthalmos are risk factors. It can be mistakenly diagnosed as central serous choroidopathy. Examination ﬁndings include shifting subretinal ﬂuid and retinal pigment epithelium (RPE) hypertrophy. A ﬂuorescein angiogram reveals a characteristic leopard spot appearance. MEWDS does not typically present with exudative retinal or choroidal detachment. Although VKH can include exudative ﬂuid and RPE changes, it typically includes a uveitic component, as well as constitutional signs, such as vitiligo and poliosis. Posterior scleritis would typically be painful.",
+  "imageUrl": "/images/retina-bcsc/p234_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 214,
+  "question": "For the examination ﬁndings noted by the black and white arrows on the photograph, the Diabetic Retinopathy Study (DRS) demonstrated what treatment to be eﬃcacious to decrease signiﬁcant vision loss?",
+  "options": {
+   "A": "ﬀ8d-440e- b79d- intravitreal injection of anti- vascular endothelial growth factor (anti-VEGF)",
+   "B": "excellent blood sugar control",
+   "C": "pars plana vitrectomy",
+   "D": "panretinal photocoagulation (PRP)"
+  },
+  "markedAnswer": "D",
+  "explanation": "The Diabetic Retinopathy Study demonstrated that panretinal photocoagulation (PRP) was eﬀective in treating retinal and high-risk neovascularization on the disc or retina from proliferative diabetic retinopathy (PDR). The EDTRS, DVS, and DCRnet.Protocol J evaluated the impact of blood sugar control, pars plana vitrectomy, and intravitreal use of anti-VEGF drugs. Action to Control Cardiovascular Risk in Diabetes (ACCORD)",
+  "imageUrl": "/images/retina-bcsc/p235_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 215,
+  "question": "What study demonstrated that intensive glycemic control in patients with type 2 diabetes mellitus reduced complications?",
+  "options": {
+   "A": "Action to Control Cardiovascular Risk in Diabetes (ACCORD)",
+   "B": "Diabetes Prevention Program (DPP)",
+   "C": "Diabetes Control and Complications Trial (DCCT)",
+   "D": "United Kingdom Prospective Diabetes Study (UKPDS)"
+  },
+  "markedAnswer": "D",
+  "explanation": "The UKPDS showed that intensive glycemic control in type 2 diabetes reduced rates of retinopathy, nephropathy, and neuropathy. Similarly, the DCCT showed reduced complication rates in type 1 diabetes under strict glycemic control. The ACCORD study raised concerns regarding intensive glucose control in patients with type 2 diabetes, given the increased risk of cardiovascular mortality suggested by the study results. The DPP demonstrated that moderate walking could reduce the risk of progression from impaired glucose tolerance to type 2 diabetes. 23c8- 4925- 10-30 microns A. 5% Explanation & Notes Discussion BCSC Excerpt References Notes 81b4- a372e8a25f3c)  50-200 microns B. 60%.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 216,
+  "question": "What is a typical lesion size in multifocal choroiditis?",
+  "options": {
+   "A": "23c8- 4925- 10-30 microns",
+   "B": "50-200 microns",
+   "C": "2-7 microns",
+   "D": "400-600 microns"
+  },
+  "markedAnswer": "B",
+  "explanation": "In multifocal choroiditis, the choroidal lesions range from approximately 50 μm to 200 μm in diameter and are more typically located in the posterior fundus, concentrated in the macula and/or forming peripheral linear streaks. Active lesions appear as yellowish- white choroidal inﬁltrates and may be associated with a neurosensory retinal detachment, vascular sheathing, disc edema, and cystoid macular edema. Inactive lesions appear as variably pigmented, punched-out areas of chorioretinal atrophy. f166- 4640- 886e- 33ce3264fac9) .",
+  "imageUrl": "/images/retina-bcsc/p237_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 217,
+  "question": "What family of disorders includes Bardet-Biedl syndrome, Senior- Løken syndrome, and Alström syndrome?",
+  "options": {
+   "A": "connective tissue disorder",
+   "B": "ciliopathy",
+   "C": "phakomatoses",
+   "D": "metabolic disorder"
+  },
+  "markedAnswer": "B",
+  "explanation": "A ciliopathy is a disorder of cilia structure or function. Bardet-Biedl syndrome encompasses mutations on the proteins that mediate and regulate the microtubule-based intracellular transport process. Ciliopathies manifest as a constellation of features that include retinal degeneration, renal disease, and cerebral anomalies. The number of genes being identiﬁed with cilia dysfunction is increasing. Metabolic disorders include abnormalities in enzyme function. Phakomatoses are neurocutaneous syndromes. Connective tissue disorders are represented by defects aﬀecting connective tissue, such as collagen and ﬁbrillin.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 218,
+  "question": "West Nile virus retinopathy is caused by a member of what class of virus?",
+  "options": {
+   "A": "adenovirus",
+   "B": "herpesvirus",
+   "C": "poxvirus",
+   "D": "ﬂavivirus"
+  },
+  "markedAnswer": "D",
+  "explanation": "West Nile virus (WNV) retinopathy is caused by a member of the RNA ﬂavivirus family. The disorder presents as curvilinearly arranged or scattered circular, deep, creamy chorioretinal inﬂammatory lesions. Inactive lesions are atrophic and partially pigmented, with a targetoid appearance. There is no proven treatment for WNV infection. In the majority of cases, the ocular disease is self-limited and the visual acuity returns to baseline. Complications may include chorioretinal scars, choroidal neovascularization, vitreous hemorrhage, tractional retinal detachment, ischemic maculopathy, and optic atrophy. The herpesvirus family includes herpes simplex virus (HSV), varicella zoster virus (VZV), cytomegalovirus (CMV), and Epstein-Barr virus (EBV), which can all cause inﬂammation in both the anterior and posterior segments. The adenovirus family is most commonly associated with epidemic keratoconjunctivitis and follicular conjunctivitis. The most common virus in the poxvirus family is molluscum contagiosum, which produces umbilicated nodules on the skin, eyelid margin, and conjunctiva.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 219,
+  "question": "For the disorder shown, what indication best supports the decision to proceed with vitrectomy surgery?",
+  "options": {
+   "A": "individual symptoms and impact on lifestyle",
+   "B": "qualitative and quantitative optical coherence tomography (OCT) ﬁndings",
+   "C": "visual acuity less than 20/70",
+   "D": "degree of traction"
+  },
+  "markedAnswer": "A",
+  "explanation": "The image demonstrates an epiretinal membrane with an associated macular pucker. The patient should be treated based on individual symptoms and the impact of such symptoms on the patient's lifestyle. If the patient is experiencing functional visual impairment, pars plana vitrectomy surgery with epiretinal membrane dissection may be BCSC Excerpt References Notes.",
+  "imageUrl": "/images/retina-bcsc/p241_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 220,
+  "question": "What condition represents the most common indication for scleral buckle surgery?",
+  "options": {
+   "A": "exudative retinal detachment",
+   "B": "choroidal eﬀusion",
+   "C": "rhegmatogenous retinal detachment",
+   "D": "proliferative diabetic retinopathy"
+  },
+  "markedAnswer": "C",
+  "explanation": "Rhegmatogenous retinal detachment represents the most common indication for scleral buckle surgery. This procedure is not indicated for the primary management of choroidal eﬀusion, exudative retinal detachment, or proliferative diabetic retinopathy. Other options for the management of rhegmatogenous retinal detachment include repair by vitrectomy, pneumatic retinopexy, laser demarcation, and, in selected cases, observation.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 221,
+  "question": "A 65-year-old patient presents with 3-month history of progressive loss of peripheral and central vision, along with photopsias. Fundus examination shows arterial narrowing, and optical coherence tomography shows loss of outer retinal architecture at the level of the photoreceptor outer segments. The electroretinogram (ERG) signal is severely reduced. What is the most appropriate workup for this patient?",
+  "options": {
+   "A": "genetic testing for inherited retinal disease",
+   "B": "systemic evaluation for infection",
+   "C": "systemic evaluation for thromboembolic risk factors",
+   "D": "systemic evaluation for malignancy"
+  },
+  "markedAnswer": "D",
+  "explanation": "The loss of retinal function may precede clinical recognition of cancer. Any late-onset, rapidly progressive retinal dysfunction should raise the suspicion that an underlying malignancy is causing an autoimmune retinopathy. Thromboembolic disease of infectious etiology is unlikely to present with progressive vision loss over months. Inherited retinal diseases usually manifest early in life.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 222,
+  "question": "The use of what compound can cause inner segment ellipsoid disruption apparent on spectral- domain optical coherence tomography (SD-OCT) imaging?",
+  "options": {
+   "A": "talc injection",
+   "B": "kola nut ingestion",
+   "C": "alkyl nitrite (\"poppers\") inhalation",
+   "D": "canthaxanthine ingestion"
+  },
+  "markedAnswer": "C",
+  "explanation": "Alkyl nitrite inhalation has been associated with central disruption of the inner segment ellipsoid layer on SD-OCT analysis, sometimes referred to as poppers maculopathy. Ingestion of kola nuts or canthaxanthine or injection of talc can cause a crystalline maculopathy.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 223,
+  "question": "What condition, associated with retinal neovascularization, occurs at highest prevalence in regions of endemic tuberculosis?",
+  "options": {
+   "A": "idiopathic retinal vasculitis, aneurysms, and neuroretinitis (IRVAN)",
+   "B": "incontinentia pigmenti",
+   "C": "Eales disease",
+   "D": "sickle cell anemia"
+  },
+  "markedAnswer": "C",
+  "explanation": "Eales disease is an occlusive vasculitis associated with extraretinal neovascularization and occurs at highest prevalence in regions of endemic tuberculosis because there may be an associated tuberculin hypersensitivity.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 225,
+  "question": "What cells are targeted by the cell- mediated immune response against cell antigens in Vogt-Koyanagi- Harada disease?",
+  "options": {
+   "A": "horizontal cells",
+   "B": "ganglion cells",
+   "C": "melanocytes",
+   "D": "photoreceptors"
+  },
+  "markedAnswer": "C",
+  "explanation": "The cell-mediated immune response against cell antigens in Vogt- Koyanagi-Harada disease is directed toward melanocytes. Vogt- Koyanagi-Harada (VKH) disease is a multisystemic disorder characterized by granulomatous panuveitis with exudative retinal detachment. It is often associated with neurologic and cutaneous manifestations. VKH disease occurs more commonly in patients with a genetic predisposition to the disease, including those from Asian, Middle Eastern, Hispanic, and Native American populations. Several human leukocyte antigen (HLA) associations have been found in patients with VKH disease, including HLA-DR4, HLA-DR53, and HLA- DQ4. Successful therapy for VKH disease is early and aggressive treatment with systemic corticosteroids, followed by local and/or steroid-sparing systemic therapy in selected patients. vitreous hemorrhage.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 226,
+  "question": "In randomized clinical trials evaluating therapy for branch retinal vein occlusions, for what indication is intravitreal anti– vascular endothelial growth factor (anti-VEGF) therapy management proven eﬀective? horizontal cells A.",
+  "options": {
+   "A": "vitreous hemorrhage",
+   "B": "macular edema",
+   "C": "iris neovascularization",
+   "D": "retinal neovascularization"
+  },
+  "markedAnswer": "B",
+  "explanation": "Although anti-VEGF has been demonstrated to cause regression of retinal neovascularization in diabetes and iris neovascularization in central retinal vein occlusion, no study has conﬁrmed these eﬀects in the setting of branch retinal vein occlusions. However, macular edema, the most common vision-threatening complication of branch retinal vein occlusion, has been shown to be reduced during treatment with anti-VEGF. It is unknown whether use of anti-VEGF results in macular edema-associated or resultant retinal damage if it is later discontinued.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 227,
+  "question": "A 30-year-old pregnant woman experienced blurred vision that did not resolve when her preeclampsia was treated. Six months after she delivered a healthy girl, she had normal visual acuity, scattered defects on automated perimetry, and patchy hyperpigmentation of both fundi. What is the most likely cause of her vision loss?",
+  "options": {
+   "A": "amniotic ﬂuid emboli",
+   "B": "congenital retinopathy",
+   "C": "choroidal ischemia during pregnancy",
+   "D": "active toxoplasma chorioretinitis"
+  },
+  "markedAnswer": "C",
+  "explanation": "The systemic hypertension of preeclampsia can cause the same lobular choroidal infarctions seen with other types of arterial hypertension. Hyperpigmentation (Elschnig spots) can be seen afterward, and the areas of infarction can cause persistent visual ﬁeld defects. Active toxoplasmosis would produce retinal whitening and vitreous inﬂammation. An amniotic ﬂuid embolus could cause a branch or central retinal artery occlusion if it passed through a patent foramen ovale and could lead to altitudinal or diﬀuse visual ﬁeld loss. Retinopathy of prematurity would not suddenly become symptomatic during pregnancy.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 228,
+  "question": "Patients with pseudoxanthoma elasticum have a higher incidence of what ocular ﬁnding?",
+  "options": {
+   "A": "posterior embryotoxon",
+   "B": "megalocornea",
+   "C": "persistent fetal vasculature",
+   "D": "disc drusen"
+  },
+  "markedAnswer": "D",
+  "explanation": "Pseudoxanthoma elasticum (PXE) is an autosomal recessive disease characterized by fragmentation of elastic ﬁbers commonly aﬀecting skin, blood vessels, and eyes. Patients may present with small papular lesions of the axilla, neck, and groin. These skin regions may also have laxity (\"chicken neck\"). Other complications include gastrointestinal bleeding, premature atherosclerosis, and myocardial infarction. Ocular manifestations include angioid streaks and a dimpling of Bruch membrane causing a peau d’orange (orange peel) fundus appearance. Patients with pseudoxanthoma elasticum have a higher incidence of disc drusen. Disc drusen are often inherited from the patient’s parents and appear in the ﬁrst couple of decades of life. Disc drusen may appear as refractile gray-yellow bodies if near the surface of the nerve. However, often they are buried and not clinically visible. One useful clinical ﬁnding often seen with disc drusen is anomalous branching of BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 229,
+  "question": "What cancer is most commonly associated with cancer-associated retinopathy (CAR)?",
+  "options": {
+   "A": "central nervous system lymphoma",
+   "B": "melanoma",
+   "C": "metastatic colon adenocarcinoma",
+   "D": "small-cell carcinoma of the lung"
+  },
+  "markedAnswer": "D",
+  "explanation": "CAR is also known as a paraneoplastic autoimmune retinopathy (pAIR). Although pAIRs have been described with numerous cancers, small-cell lung carcinoma is the most frequent cause of these disorders. Autoimmune retinopathy can be suspected when symptoms of nyctalopia and photopsias are elicited. Signs include visual ﬁeld constriction, outer retinal disruption on optical coherence tomography, abnormalities on fundus autoﬂuorescence, and abnormalities on electrophysiologic testing. A neoplastic etiology should be sought out; BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 230,
+  "question": "What is the preferred treatment for diﬀuse unilateral subacute neuroretinitis (DUSN)?",
+  "options": {
+   "A": "vitrectomy",
+   "B": "systemic corticosteroid",
+   "C": "laser photocoagulation",
+   "D": "systemic antihelminthic"
+  },
+  "markedAnswer": "C",
+  "explanation": "Diﬀuse unilateral subacute neuroretinitis is a posterior uveitis thought to be caused by a solitary nematode residing and migrating within the subretinal space. The dog hookworm Ancylostoma caninum and the larger raccoon roundworm Baylisascaris procyonis are believed to be the most common causative organisms. The disease features vitritis, optic nerve swelling, and multifocal inﬂammation of the retina and retinal pigment epithelium. Inﬂammatory lesions are typically multifocal, gray-white, and approximately 1 disc diameter in size. Occasionally, an s-shaped nematode is visible in the subretinal space. The preferred and most deﬁnitive treatment of DUSN is direct photocoagulation of the organism, which can halt further disease progression. Although systemic corticosteroids can treat inﬂammation, they do not treat the underlying cause. Systemic antihelminthics have had variable reported success. Vitrectomy is not indicated in the treatment of DUSN.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 231,
+  "question": "A stage 3 macular hole is full thickness and at least what diameter (μm)?",
+  "options": {
+   "A": "400 µm",
+   "B": "200 µm",
+   "C": "500 µm",
+   "D": "300 µm"
+  },
+  "markedAnswer": "A",
+  "explanation": "Stage 0 (premacular) holes represent vitreomacular adhesion (VMA). Stage 1A holes demonstrate foveal pseudocysts with foveal traction, 1B holes represent outer breaks in the fovea. Stage 2 holes are early full- thickness holes less than 400 μm in diameter. Stage 3 holes are full- thickness holes at least 400 μm in diameter, and stage 4 holes are full- thickness holes at least 400 μm in diameter in association with a complete posterior vitreous detachment. bilateral exudative AMD.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 232,
+  "question": "The Age-Related Eye Disease Study (AREDS) demonstrated a beneﬁt of speciﬁc nutritional supplements for what category of age-related macular degeneration (AMD)?",
+  "options": {
+   "A": "bilateral exudative AMD",
+   "B": "bilateral intermediate or unilateral advanced nonexudative AMD",
+   "C": "bilateral early nonexudative AMD",
+   "D": "bilateral advanced nonexudative AMD"
+  },
+  "markedAnswer": "B",
+  "explanation": "The AREDS demonstrated a beneﬁt of antioxidant (beta-carotene and vitamin E) and zinc nutritional supplementation for bilateral intermediate or unilateral advanced nonexudative AMD. The AREDS did not detect eﬀectiveness for bilateral advanced nonexudative AMD, bilateral early nonexudative AMD, or exudative AMD. Because the study endpoint was the development of choroidal neovascularization, the study was not designed to assess or include any bilateral exudative AMD subjects.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 233,
+  "question": "Choroideremia is transmitted by what mode of inheritance?",
+  "options": {
+   "A": "X-linked recessive",
+   "B": "mitochondrial DNA",
+   "C": "autosomal dominant",
+   "D": "autosomal recessive"
+  },
+  "markedAnswer": "A",
+  "explanation": "Choroideremia is transmitted by an X-linked recessive mode of inheritance. It is a degeneration of the choriocapillaris of the choroid, and of the overlying retinal pigment epithelium and retina. The disease results in progressive loss of vision, almost exclusively in males. In childhood, night blindness is the most common ﬁrst symptom. As the disease progresses, vision loss results, frequently starting as an irregular ring that gradually expands both centrally and peripherally. Progression continues throughout the individual's life, where both the rate of change and the degree of visual loss are variable among those aﬀected, even within the same family.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 234,
+  "question": "A 22-year-old man presents with bilateral vision loss. Vision is 20/400 and intraocular pressure is 15 mm Hg in both eyes, without an aﬀerent pupillary defect. On examination, he has bilateral optic disc edema, intraretinal hemorrhages, and cotton wool spots. What is the most appropriate procedure to perform next?",
+  "options": {
+   "A": "blood pressure measurement",
+   "B": "magnetic resonance imaging of the brain/orbit",
+   "C": "infectious/inﬂammatory workup",
+   "D": "ﬂuorescein angiography"
+  },
+  "markedAnswer": "A",
+  "explanation": "First and foremost, the patient's blood pressure must be checked to rule out malignant hypertension, which may be especially commonly found in young African American men. The most commonly observed diseases that lead to choroidal vascular compromise are those that cause severe, acute elevations in blood pressure, such as in malignant hypertension, eclampsia, or severe cocaine abuse. Ocular eﬀects of hypertension can be observed in the retina, choroid, and optic nerve. Retinal changes can be described and classiﬁed using ophthalmoscopy and angiography. Recognition of the posterior segment vascular changes by the ophthalmologist may prompt the initial diagnosis of hypertension and alert the patient to potential complications from this condition.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 235,
+  "question": "What retinal defect is most likely to be associated with traumatic injury?",
+  "options": {
+   "A": "horseshoe tear",
+   "B": "atrophic hole",
+   "C": "operculated hole",
+   "D": "retinal dialysis"
+  },
+  "markedAnswer": "D",
+  "explanation": "A retinal dialysis is the most common retinal defect associated with a traumatic injury. Horseshoe retinal tears and operculated retinal breaks can result from blunt trauma; however, they typically result from spontaneous posterior vitreous separation. Atrophic retinal holes are most commonly associated with lattice degeneration.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 236,
+  "question": "In what part of the eye does endogenous fungal endophthalmitis typically begin?",
+  "options": {
+   "A": "vitreous",
+   "B": "retina",
+   "C": "anterior chamber",
+   "D": "choroid"
+  },
+  "markedAnswer": "D",
+  "explanation": "! & # The infection usually begins in the choroid, appearing as yellow-white lesions with indistinct borders that range in size from small cotton-wool spots to several disc diameters. It can subsequently break through into the vitreous, producing localized cellular and fungal aggregates overlying the original site. Iris nodules and rubeosis may also be observed in cases of severe fungal endophthalmitis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 237,
+  "question": "A patient reports evolving right visual ﬁeld loss in the setting of new photopsias and ﬂoaters. Intraocular pressures of the right and left eyes are 34 mm Hg and 15 mm Hg, respectively. If performed, aqueous aspiration would likely demonstrate a higher concentration of what substance in the sample from the right eye? &",
+  "options": {
+   "A": "photoreceptor outer segments",
+   "B": "cytomegalovirus (CMV) DNA",
+   "C": "lens proteins",
+   "D": "red blood cells"
+  },
+  "markedAnswer": "A",
+  "explanation": "This clinical vignette alludes to case of a rhegmatogenous retinal detachment with associated intraocular pressure elevation, which is known as Schwartz-Matsuo syndrome. While rhegmatogenous retinal detachments typically lower intraocular pressure, occasionally they can be associated with elevated intraocular pressure. When this occurs, it is thought to be caused by migration of liberated photoreceptor outer segments into the anterior chamber angle, where they obstruct aqueous humor outﬂow in the trabecular meshwork. Red blood cells and lens protein are possible causes of trabecular meshwork obstruction in hemolytic and phacolytic glaucoma, respectively. CMV is thought to be the causative etiology in the trabeculitis of glaucomatocyclitic crisis (Posner-Schlossman syndrome).",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 238,
+  "question": "What condition is a complication of pathologic myopia (myopic degeneration)?",
+  "options": {
+   "A": "juxtafoveal retinal telangiectasia",
+   "B": "choroidal eﬀusion",
+   "C": "foveal atrophy",
+   "D": "choroidal fold"
+  },
+  "markedAnswer": "C",
+  "explanation": "Foveal atrophy can occur as a complication of pathologic myopia (myopic degeneration). Choroidal eﬀusion and folds are associated more with hyperopia than myopia. Juxtafoveal retinal telangiectasia is not closely associated with refractive error or axial length.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 239,
+  "question": "In what form of dichromatism is the long-wavelength (L-cone) photopigment absent?",
+  "options": {
+   "A": "protanopia",
+   "B": "rod monochromatism",
+   "C": "deuteranopia",
+   "D": "tritanopia"
+  },
+  "markedAnswer": "A",
+  "explanation": "Protanopia (protanomalous dichromatism) in which the long- wavelength (L-cone) photopigment is absent. Individuals who need only 2 primary colors to make a color match have dichromatism (also called dichromacy). Such individuals lack 1 of the cone photopigments.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 240,
+  "question": "What systemic disease is most commonly associated with endogenous bacterial endophthalmitis in North America? &",
+  "options": {
+   "A": "intravenous drug use",
+   "B": "urinary tract infections",
+   "C": "liver abscess",
+   "D": "endocarditis"
+  },
+  "markedAnswer": "D",
+  "explanation": "Endogenous bacterial endophthalmitis results from hematogenous seeding of the eye, typically during transient bacteremia. Although decreased vision and eye pain are common symptoms, many patients do not have any constitutional symptoms. A wide range of bacteria can BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 241,
+  "question": "When attempting to diagnose a circumscribed choroidal hemangioma, what conﬁrming feature can be found most consistently?",
+  "options": {
+   "A": "late-phase hypoﬂuorescence on indocyanine green angiography",
+   "B": "association with serous detachments",
+   "C": "color of the lesion",
+   "D": "echographic reﬂectivity"
+  },
+  "markedAnswer": "D",
+  "explanation": "Circumscribed choroidal hemangiomas are among the rarest intraocular tumors. In Sturge-Weber disease (encephalofacial hemangiomatosis), choroidal hemangiomas may be diﬀuse and typically have a tomato ketchup appearance. For circumscribed choroidal hemangiomas, the color can vary from white to red, depending on the overlying retinal pigment epithelium (RPE). On indocyanine green angiography, persistent diﬀuse hyperﬂuorescence might be apparent in the late phase. Serous retinal detachments can be associated with choroidal hemangiomas, but they are usually less severe than those that occur with malignant melanoma of the choroid. Echography of circumscribed choroidal hemangiomas usually demonstrates a highly reﬂective mass with uniform, high internal spikes; this feature is the most consistent ﬁnding. mitochondrial.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 242,
+  "question": "What is the mode of inheritance of the systemic disease associated with the pictured disorder? &",
+  "options": {
+   "A": "mitochondrial",
+   "B": "autosomal recessive",
+   "C": "X-linked recessive",
+   "D": "autosomal dominant"
+  },
+  "markedAnswer": "D",
+  "explanation": "The inheritance pattern of familial adenomatous polyposis (FAP/Gardner syndrome) is autosomal dominant. Gardner syndrome, also known as familial colorectal polyposis, is characterized by the presence of multiple polyps in the colon, together with tumors outside the colon. The extracolonic tumors may include osteomas of the skull, thyroid cancer, epidermoid cysts, and ﬁbromas, as well as the occurrence of desmoid tumors in approximately 15% of aﬀected individuals. The ocular hallmark of this disease is the presence of a pigmented fundus lesion similar to those found in congenital hypertrophy or hyperplasia of the retinal pigment epithelium (CHRPE). Singular lesions have little diagnostic signiﬁcance and are not pathognomonic of FAP. The presence of 4 or more widely spaced, small lesions per eye and bilateral involvement suggest FAP. Lesions are often teardrop-shaped and average between 4 mm and 5 mm in size. They are usually located in the midperiphery of the fundus and exhibit autoﬂuorescence on optical coherence tomography (OCT) testing. Atypical CHRPE is also associated with FAP.",
+  "imageUrl": "/images/retina-bcsc/p120_img1.png",
+  "stemReferencesFigure": true,
+  "figureMissing": false
+ },
+ {
+  "id": 243,
+  "question": "Severe nonproliferative diabetic retinopathy may be deﬁned by what feature? &",
+  "options": {
+   "A": "vitreous hemorrhage",
+   "B": "venous beading in at least 1 quadrant",
+   "C": "prominent intraretinal microvascular abnormalities",
+   "D": "at least 1 intraretinal hemorrhage in each of 4 quadrants"
+  },
+  "markedAnswer": "C",
+  "explanation": "Severe nonproliferative diabetic retinopathy is associated with prominent intraretinal microvascular abnormalities (IRMA) in 1 or more quadrants. By deﬁnition, other ﬁndings include extensive (>20) intraretinal hemorrhages in each of 4 quadrants and venous beading in 2 or more quadrants. Vitreous hemorrhage is a ﬁnding in proliferative diabetic retinopathy.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 244,
+  "question": "What is the most common cause of endogenous endophthalmitis in Asia? &",
+  "options": {
+   "A": "Escherichia coli",
+   "B": "Klebsiella pneumoniae",
+   "C": "Streptococcus pyogenes",
+   "D": "Staphylococcus aureus"
+  },
+  "markedAnswer": "B",
+  "explanation": "A wide range of bacteria can cause endogenous bacterial endophthalmitis. In North America, 40% of cases occur in patients with endocarditis, most typically caused by Staphylococcus or Streptococcus species. In contrast, 60% of endogenous endophthalmitis cases in Asia occur in patients with liver abscesses caused by Klebsiella pneumoniae. Nearly one-third of cases occur in patients who have urinary tract infections, most often caused by E coli.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 245,
+  "question": "Under what condition is laser photocoagulation an acceptable treatment for choroidal neovascularization (CNV)? &",
+  "options": {
+   "A": "occult choroidal neovascular membrane",
+   "B": "extrafoveal choroidal neovascular membrane",
+   "C": "classic choroidal neovascular membrane",
+   "D": "myopic choroidal neovascular membrane"
+  },
+  "markedAnswer": "B",
+  "explanation": "Laser photocoagulation is no longer the ﬁrst-line treatment for exudative age-related macular degeneration (AMD). It is also not recommended for myopic neovascularization, due to concerns for laser scar expansion into the central macula. Extrafoveal choroidal neovascular membrane may be treated with laser photocoagulation if the treating physician believes there is minimal risk of scar expansion into the fovea.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 246,
+  "question": "What is a risk factor for epiretinal membrane (ERM) formation? &",
+  "options": {
+   "A": "degenerative retinoschisis",
+   "B": "chronic hydroxychloroquine use",
+   "C": "posterior vitreous detachment (PVD)",
+   "D": "laser in situ keratomileusis (LASIK)"
+  },
+  "markedAnswer": "C",
+  "explanation": "Detachment or separation of the posterior vitreous is present in almost all eyes with idiopathic epiretinal membranes, and may be a requisite for ERM development. It is the result of proliferating glia, retinal pigment epithelial cells, and/or hyalocytes on the macular surface following PVD. ERM formation is not associated with chronic hydroxychloroquine use, degenerative retinoschisis, or LASIK.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 247,
+  "question": "What condition may mimic age- related degenerative retinoschisis? &",
+  "options": {
+   "A": "hemorrhagic choroidal detachment",
+   "B": "choroidal malignant melanoma",
+   "C": "chronic inferior retinal detachment",
+   "D": "age-related macular degeneration"
+  },
+  "markedAnswer": "C",
+  "explanation": "Degenerative retinoschisis can be confused with a chronic retinal detachment because the retina may appear smooth and thin. Unlike retinoschisis, however, chronic retinal detachments are associated with a retinal break and demarcation lines. Hemorrhagic choroidal detachments, choroidal malignant melanomas, and age-related macular degeneration are unlikely to be confused with degenerative retinoschisis.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 248,
+  "question": "What percentage of patients with type 1 diabetes will have some degree of diabetic retinopathy at 20 years or more after diagnosis? &",
+  "options": {
+   "C": ">90%",
+   "D": "<10%"
+  },
+  "markedAnswer": "C",
+  "explanation": "In type 1 diabetes (insulin dependent), insulin deﬁciency is secondary to an autoimmune destruction of pancreatic beta cells. The etiology is thought to be multifactorial, with a genetic susceptibility triggered by environmental factors and certain viral infections (cytomegalovirus [CMV], measles, mumps, rubella, enterovirus, and parvovirus). The prevalence of diabetic retinopathy is 50% by 7 years after diagnosis. The prevalence increases to 90% in patients who have had type 1 diabetes for 15 or more years. In the Wisconsin Epidemiologic Study of Diabetic Retinopathy, after 20 years of diabetes mellitus, nearly 99% of patients with type 1 disease and 60% of those with type 2 disease showed some degree of diabetic retinopathy.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 249,
+  "question": "What is the most common ocular vascular complication associated with hypertensive retinopathy? &",
+  "options": {
+   "A": "retinal venous occlusion",
+   "B": "iris neovascularization",
+   "C": "arteritic ischemic optic neuropathy",
+   "D": "retinal venous macroaneurysm"
+  },
+  "markedAnswer": "A",
+  "explanation": "The most common ocular complication of hypertension, other than hypertensive retinopathy, is a retinal vein occlusion. Systemic hypertension is a risk factor for branch retinal vein occlusions (BRVOs), central retinal vein occlusions (CRVOs), and hemicentral retinal vein occlusions. In addition, systemic hypertension is a risk factor for nonarteritic ischemic optic neuropathy, but not arteritic ischemic optic neuropathy. Iris neovascularization is a late complication of central and hemicentral retinal vein occlusion and can occur in up to 10% of cases of CRVO; systemic hypertension is not a direct (but indirect) risk factor. Idiopathic retinal macroaneurysms are associated with hypertension but are much rarer than vein occlusions. e7c8- 4b0e- 8d2a- f215eb4b67d3)  macular hole.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 250,
+  "question": "A 68-year-old man reports a missing spot in his vision 1 week following cataract extraction by a ﬁrst-year resident. Best corrected visual acuity is 20/100. In addition to normal postoperative ﬁndings, the examination is signiﬁcant only for subtle foveal hypopigmentation. Macular optical coherence tomography (OCT) demonstrates the ﬁndings shown in the photo. What is the most likely diagnosis? & retinal venous occlusion A. 65 Correct Answer iris neovascularization B.",
+  "options": {
+   "A": "macular hole",
+   "B": "epiretinal membrane",
+   "C": "nonexudative age-related macular degeneration",
+   "D": "photic retinopathy"
+  },
+  "markedAnswer": "D",
+  "explanation": "Nonexudative age-related macular degeneration, macular holes, and epiretinal membranes can all decrease central visual acuity; however, in the setting of recent (and likely prolonged) ophthalmic surgery with this supporting OCT, photic retinopathy secondary to exposure to the operating microscope light source is the most likely diagnosis. Although it is more common following retinal surgery, prolonged focal exposure can cause photochemical injury to the fovea, much like solar retinopathy. Patients typically present with central or paracentral scotomas, hypopigmented foveal lesions, and outer retinal cavitation. Most patients recover vision somewhat over a period of 3-6 months, typically to 20/25-20/40, but often with residual scotoma or metamorphopsia. 5 50 per pa.",
+  "imageUrl": null,
+  "stemReferencesFigure": true,
+  "figureMissing": true
+ },
+ {
+  "id": 251,
+  "question": "A 40-year-old patient initially demonstrates the ﬁndings shown in the ﬁrst ﬁgure. Later the patient develops a choroidal neovascular membrane (CNVM) and a disciform scar. A mutation of what gene should be suspected?",
+  "options": {
+   "A": "EFEMP1",
+   "B": "TIMP3",
+   "C": "NYX",
+   "D": "CFH"
+  },
+  "markedAnswer": "B",
+  "explanation": "When early-onset drusen are associated with CNV in young adulthood, the diagnosis of Sorsby macular dystrophy should be considered. The diagnosis can be conﬁrmed by demonstrating a disease-causing mutation in the TIMP3 gene. Doyne honeycomb dystrophy, Malattia Leventinese, and radial drusen are the same disorder, and are caused by a mutation in the EFEMP1 gene. Cuticular drusen is a clinical syndrome of small clustered drusen in young adults. Although associated with mutation in complement factor H, in contrast to the other choices, cuticular drusen is not a monogenic disorder. Mutations in NYX are associated with congenital stationary night blindness.",
+  "imageUrl": "/images/retina-bcsc/p276_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 252,
+  "question": "A 23-year-old athletic male complains of decreased vision in the upper visual ﬁeld of his left eye. Examination reveals a retinal dialysis from 4 to 6:30 o'clock associated with a shallow inferior retinal detachment just posterior to the equator. What is the preferred treatment?",
+  "options": {
+   "B": "Schedule a scleral buckle procedure for the next available time.",
+   "D": "Observe."
+  },
+  "markedAnswer": "B",
+  "explanation": "Retinal dialyses are notorious for delayed presentation of associated retinal detachments. Because this patient’s detachment is inferior and distant from the macula, the urgency of this situation is moderated. Retinal detachments associated with retinal dialyses have very high reattachment rates with scleral buckle procedures. When performed in the absence of a pars plana vitrectomy, scleral buckle procedures utilize retinal cryopexy to create chorioretinal adhesions around any retinal breaks, with or without external drainage of subretinal ﬂuid. This approach has the advantage of avoiding the need for a gas bubble which would promote cataractogenesis in this young phakic patient. In the event that vitrectomy, laser, and gas injection were considered, a shorter duration gas such as SF would be preferred, to avoid prolonged need for eye down positioning. Vitrectomy is the preferred surgical option, over scleral buckle with retinal cryopexy, in cases with giant retinal tears, proliferative vitreoretinopathy, poorly deﬁned breaks, or pseudophakic patients in whom it is uncertain that all breaks have been identiﬁed. Observation of a symptomatic retinal detachment is contraindicated. 6 & Mittendorf dot.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 253,
+  "question": "What is a feature of mild persistent fetal vasculature? Schedule vitrectomy, internal drainage, laser demarcation, and C F gas injection for the next available time. C. 3 8",
+  "options": {
+   "A": "Mittendorf dot",
+   "B": "lens coloboma",
+   "C": "posterior lenticonus",
+   "D": "Scheie stripe"
+  },
+  "markedAnswer": "A",
+  "explanation": "Persistent fetal vasculature (PFV) is a congenital sporadic condition in infants. It is unilateral in two-thirds of cases. The spectrum of PFV ranges from mild cases with prominent hyaloid vessel remnants, a large Mittendorf dot, and a Bergmeister papilla to severe cases with microphthalmia, ciliary process elongation (classic for PFV), a retrolenticular plaque, a thick, ﬁbrous persistent hyaloid artery, and prominent radial iris vessels. Retinoblastoma may be part of the initial diﬀerential diagnosis. 3878- 4b3b- ad9f- cd541864946d) .",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 254,
+  "question": "What is a characteristic clinical feature of hypertensive choroidopathy?",
+  "options": {
+   "A": "optic disc edema",
+   "B": "retinal hemorrhages",
+   "C": "retinal exudates",
+   "D": "Elschnig spots"
+  },
+  "markedAnswer": "D",
+  "explanation": "Elschnig spots are a common characteristic clinical feature of hypertensive choroidopathy. They manifest as black spots surrounded by bright yellow or red halos. Elschnig spots are caused by acute hypertensive events of the choroidal vascular system, mostly in the young. These changes in blood pressure cause an infarct of the vessels, BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 255,
+  "question": "A 64-year-old woman presents with visual loss 1 week after cataract extraction and intraocular lens implantation. She notes no ocular pain. Visual acuity is 20/100. A wound leak is present. A 2 mm hypopyon and moderate vitreous haze are present. What is the most likely diagnosis?",
+  "options": {
+   "A": "sympathetic ophthalmia",
+   "B": "intraocular lens-induced uveitis",
+   "C": "sterile inﬂammation",
+   "D": "infectious endophthalmitis"
+  },
+  "markedAnswer": "D",
+  "explanation": "The clinical presentation is suggestive of postoperative bacterial endophthalmitis, and must be treated as such unless proven otherwise. Not all endophthalmitis is painful at the time of onset. The presence of a wound leak explains the later-than-average time of onset following surgery. Sympathetic ophthalmia occurs in response to a traumatized fellow eye, which is not part of the history in this case. Sterile inﬂammation (toxic anterior segment syndrome [TASS]) occurs immediately following surgery. This is not a typical presentation of intraocular lens-induced uveitis (uveitis-glaucoma-hyphema [UGH] syndrome), a rare condition. hemoglobin AS.",
+  "imageUrl": "/images/retina-bcsc/p281_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 256,
+  "question": "What hemoglobinopathy mutation carries the highest risk for severe retinopathy?",
+  "options": {
+   "A": "hemoglobin AS",
+   "B": "hemoglobin S-thalassemia",
+   "C": "hemoglobin AC",
+   "D": "hemoglobin SS"
+  },
+  "markedAnswer": "B",
+  "explanation": "Sickle-cell hemoglobinopathies are common in the US black population, but the prevalence rate of proliferative sickle retinopathy varies greatly by mutation. For instance, 8% of African Americans carry the sickle gene (genotype hemoglobin AS). Proliferative disease is rare in this large group. In contrast, neovascularization of the retina has been reported in as high as 33% of SC patients and up to 14% of S- thalassemia patients. Although rare, thalassemia frequently causes retinopathy. Proliferative disease is found rarely in AC and in only 3% of SS aﬀected patients.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 257,
+  "question": "What is the most likely diagnosis?",
+  "options": {
+   "A": "Coats disease",
+   "B": "polypoidal choroidal vasculopathy",
+   "C": "Eales disease",
+   "D": "idiopathic retinal vasculitis, aneurysms, and neuroretinitis (IRVAN)"
+  },
+  "markedAnswer": "C",
+  "explanation": "Eales disease is a primary occlusive retinopathy with unknown cause. It usually presents in men aged 20-30 years, more commonly in those from India and the Middle East. It is a diagnosis of exclusion and is characterized by bilateral idiopathic retinal perivasculitis with peripheral nonperfusion and neovascularization. A sea-fan of peripheral neovascularization may be seen. Vascular sheathing is seen in about 80% of patients, and both arteries and veins may be involved. All patients have conﬂuent peripheral nonperfusion with a sharply demarcated border between perfused and non-perfused peripheral retina. Neovascularization is typically seen at this border and is most commonly found in the temporal quadrant. Vitreous hemorrhage is the most common reason for visual loss, and traction retinal detachments may develop. Treatment is with laser photocoagulation to areas of nonperfused retina. Eales disease has been associated with tuberculin hypersensitivity. Polypoidal choroidal vasculopathy (PCV) is an acquired abnormal choroidal vasculopathy (variant of age-related macular degeneration) that clinically presents as hemorrhagic detachments of the pigment epithelium and neurosensory retina. PCV occurs more commonly in persons with darkly pigmented skin, although persons with lighter pigmentation can be aﬀected as well. PCV typically occurs in the peripapillary or macular region although the periphery can be aﬀected as well. The utilization of indocyanine green (ICG) angiography can be helpful in making the diagnosis and visualizing abnormalities within the choroidal vasculature. Management can include observation, photodynamic therapy, anti-vascular endothelial growth factor (anti- VEGF) intravitreal injections, and rarely surgery. Coats disease is a sporadic condition that is typically unilateral and has a male predominance (85%). Chromosome 4 has been implicated as the site of the gene involved. Findings include retinal telangiectasia (vascular dilatation) including microaneurysms, fusiform capillary dilatation, venous dilatation, and ectatic arterioles. The vessels are compromised and leak ﬂuid that may cause exudative retinal detachment. Retinal exudates range from minimal to widespread. Consider Coats disease in the diﬀerential diagnosis of a child with leukocoria. Treatment of Coats disease includes observation, cryotherapy, photocoagulation, and retinal detachment surgery.",
+  "imageUrl": "/images/retina-bcsc/p284_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 258,
+  "question": "A 40-year-old man is admitted to the hospital with an intracranial hemorrhage after a head injury. Dilated fundus examination shows vitreous and subhyaloid hemorrhage in both eyes. What is the likely long-term visual prognosis if baseline vision was normal and presuming the intracranial hemorrhage would resolve without any residual deﬁcits?",
+  "options": {
+   "A": "Visual prognosis is uncertain.",
+   "B": "Visual prognosis is usually poor even when vitreous/subhyaloid hemorrhage clears.",
+   "C": "Visual function is usually unaﬀected once vitreous/subhyaloid hemorrhage clears.",
+   "D": "Visual prognosis depends on timing of vitrectomy for vitreous/subhyaloid hemorrhage."
+  },
+  "markedAnswer": "C",
+  "explanation": "The clinical vignette describes Terson syndrome. In most cases of Terson syndrome, visual function is unaﬀected once vitreous/subhyaloid/retinal hemorrhages clear. Spontaneous improvement generally occurs, although vitrectomy is occasionally required to clear ocular media. Timing of vitrectomy has no bearing on ﬁnal visual prognosis. vitreous hemorrhage.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 259,
+  "question": "What is the most common complication of type 1 juxtafoveal retinal telangiectasis?",
+  "options": {
+   "A": "vitreous hemorrhage",
+   "B": "retinal neovascularization",
+   "C": "epiretinal membrane",
+   "D": "macular edema"
+  },
+  "markedAnswer": "D",
+  "explanation": "The most common complication of type 1 juxtafoveal retinal telangiectasis is macular edema. Although retinal neovascularization may complicate this condition, it is less common than macular edema. Retinal tears and vitreous hemorrhage are not typically associated with type 1 juxtafoveal retinal telangiectasis. &",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 260,
+  "question": "What is a cause of severe vision loss in patients with pathologic myopia?",
+  "options": {
+   "A": "retinal neovascularization",
+   "B": "retinal telangiectasis",
+   "C": "angioid streaks",
+   "D": "choroidal neovascularization"
+  },
+  "markedAnswer": "D",
+  "explanation": "Choroidal neovascularization is a potential complication of degenerative myopia. Following early diagnosis, this complication may be eﬀectively managed with anti-vascular endothelial growth factor (anti-VEGF) therapy C. 1% corticosteroid therapy D. 77% Correct Answer BCSC Excerpt References Notes.",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 261,
+  "question": "During evaluation of a patient with bilateral blurry vision of several weeks' duration, the ophthalmologist identiﬁes bilateral macular edema with microaneurysms, neovascularization of the optic discs, and diﬀuse peripheral cotton wool spots and intraretinal hemorrhages. The patient reports a previous history of nasopharyngeal cancer. Blood glucose and HbA levels are normal. What is the most likely diagnosis in this scenario?",
+  "options": {
+   "A": "proliferative sickle cell retinopathy",
+   "B": "radiation retinopathy",
+   "C": "macular telangiectasia type II",
+   "D": "proliferative diabetic retinopathy"
+  },
+  "markedAnswer": "B",
+  "explanation": "In the setting of nasopharyngeal cancer, the diagnosis of radiation retinopathy is the most likely. Radiation retinopathy shares features of deep and superﬁcial retinal hemorrhages, cotton-wool spots and microaneurysms, and retinal and/or optic nerve neovascularization, much like other microangiopathic retinal vascular disorders such as diabetic and sickle cell retinopathies. Typically, an exposure of at least 30-35 grays (Gy) of radiation is needed to develop signs of radiation retinopathy, although it may develop after as little as 15 Gy of external beam radiation. Findings usually manifest approximately 18 months following external beam radiation, although they may be present earlier, following plaque brachytherapy. &",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 262,
+  "question": "What demographic characteristic is commonly associated with punctate inner choroidopathy?",
+  "options": {
+   "A": "older female myopes",
+   "B": "older male hyperopes",
+   "C": "young female myopes",
+   "D": "young male myopes"
+  },
+  "markedAnswer": "C",
+  "explanation": "Punctate inner choroidopathy is most commonly diagnosed in young female myopes. There is no proven racial predilection for this disorder. 082d- 4382- 9d62- a0c4b071a4fe&t=637968551184500000)",
+  "imageUrl": null,
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ },
+ {
+  "id": 263,
+  "question": "According to the deﬁnition of the Endophthalmitis Vitrectomy Study (EVS; Clinical Trial), acute postoperative endophthalmitis may develop during what interval following cataract surgery?",
+  "options": {
+   "A": "2 days",
+   "B": "6 weeks",
+   "C": "2 weeks",
+   "D": "6 days"
+  },
+  "markedAnswer": "B",
+  "explanation": "Based upon the entry criteria for the EVS, the selected duration of acute postoperative endophthalmitis was 6 weeks. This interval was chosen to distinguish likely bacterial causes from potential fungal or other causes. The recommendation of the EVS—that patients with vision of hand motions (HM) or better who were treated with anterior chamber and vitreous aspiration and vitreous antibiotic injection had outcomes similar to those of patients managed with vitrectomy, anterior chamber and vitreous sampling, and vitreous antibiotic injection—applies only to patients who met the study entry criteria; that is, only those who presented with endophthalmitis in the initial postoperative 6-week interval. &",
+  "imageUrl": "/images/retina-bcsc/p291_img1.png",
+  "stemReferencesFigure": false,
+  "figureMissing": false
+ }
+]
