@@ -67,6 +67,17 @@ export interface Question {
   answerAddedToOptions?: boolean;
   /** What the compiler wrote in the margin, kept where it aids the reader. */
   sourceNote?: string;
+  /**
+   * Read back out of the source PDF after the parser had already skipped it,
+   * usually because its number was printed in a spelling the parser did not
+   * know. These carry a page scan, and some carry no answer at all: the
+   * source gives none and none was invented, so they are shown to be read
+   * rather than sat.
+   */
+  recoveredFromPage?: boolean;
+  /** The source names two answers itself ("Answer: A vs B") and settles neither. */
+  contested?: boolean;
+  contestedAnswers?: string[];
 }
 
 /**

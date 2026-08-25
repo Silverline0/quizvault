@@ -1099,5 +1099,72 @@
   "explanation": "Unless a tumour is small enough to be removed completely, incisional biopsy is indicated for histologic diagnosis. Local low-dose or ultra-low-dose external-beam radiation therapy is often curative for lesions confined to the conjunctiva; intralesional interferon alpha-2b or rituximab may also be effective, and intravenous rituximab is increasingly used for both local and systemic disease. Systemic chemotherapy is required for the treatment of systemic lymphoma.  Reference: AAO, figures from Yanoff ocular pathology",
   "sourceHint": "C?",
   "sourceNote": "The compiler highlighted this recall in red and answered \"C?\", so the key is theirs rather than a recalled one."
+ },
+ {
+  "id": 56,
+  "source": "promotion-2021",
+  "question": "Bassoot",
+  "options": {
+   "A": "ric"
+  },
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2021",
+  "subspecialty": null,
+  "pdfPage": 214,
+  "pageScanUrl": "/images/promotion-pages/page_214.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
+ },
+ {
+  "id": 57,
+  "source": "promotion-2021",
+  "question": "Diplopia when looking down and left, increases with fatigue:",
+  "options": {
+   "A": "SO palsy",
+   "B": "Base out OD, base out OS",
+   "C": "Base In OD, Base out OS",
+   "D": "Base out OD, base in OS"
+  },
+  "correctAnswer": "C",
+  "explanation": null,
+  "year": "2021",
+  "subspecialty": null,
+  "pdfPage": 214,
+  "pageScanUrl": "/images/promotion-pages/page_214.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF: the original parser skipped it because of how its number was printed. Wording is the recall as written; the page scan shows it as printed."
+ },
+ {
+  "id": 58,
+  "source": "promotion-2021",
+  "question": "TED pic showing lid retraction, which rectus muscle most likely involved:",
+  "options": {
+   "A": "Inferior"
+  },
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2021",
+  "subspecialty": null,
+  "pdfPage": 232,
+  "pageScanUrl": "/images/promotion-pages/page_232.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
+ },
+ {
+  "id": 59,
+  "source": "promotion-2021",
+  "question": "Poor healing after bleph pic, what could’ve been done to improve result:",
+  "options": {
+   "A": "Tighter glycemic control"
+  },
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2021",
+  "subspecialty": null,
+  "pdfPage": 232,
+  "pageScanUrl": "/images/promotion-pages/page_232.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
  }
 ]

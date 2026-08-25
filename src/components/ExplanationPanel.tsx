@@ -63,11 +63,16 @@ function VerdictRow({ label, letter, text, tone }: {
   label: string;
   letter: string;
   text?: string;
-  tone: "success" | "error";
+  // "neutral" is for a recall the source never keyed: the choice is recorded
+  // without being called right or wrong, because nothing here knows which.
+  tone: "success" | "error" | "neutral";
 }) {
-  const bg = tone === "success" ? "var(--success-bg)" : "var(--error-bg)";
-  const ink = tone === "success" ? "var(--success-ink)" : "var(--error-ink)";
-  const edge = tone === "success" ? "var(--success)" : "var(--error)";
+  const bg = tone === "neutral" ? "var(--bg-secondary)"
+    : tone === "success" ? "var(--success-bg)" : "var(--error-bg)";
+  const ink = tone === "neutral" ? "var(--text-secondary)"
+    : tone === "success" ? "var(--success-ink)" : "var(--error-ink)";
+  const edge = tone === "neutral" ? "var(--border)"
+    : tone === "success" ? "var(--success)" : "var(--error)";
   return (
     <div className="flex items-start gap-2.5">
       <span
@@ -104,7 +109,12 @@ interface ExplanationPanelProps {
 
 export default function ExplanationPanel({ question, wasCorrect, selectedAnswer, onUndo }: ExplanationPanelProps) {
   const [concernOpen, setConcernOpen] = useState(false);
-  const accentColor = wasCorrect ? "var(--success)" : "var(--error)";
+  // Recovered recalls the source leaves unanswered. There is no verdict to
+  // give on these, so the panel states that rather than implying a wrong answer.
+  const noKey = !question.correctAnswer;
+  const accentColor = noKey
+    ? "var(--text-muted)"
+    : wasCorrect ? "var(--success)" : "var(--error)";
   const review = question.review;
 
   // A reviewer who lands on a different letter changes how everything below
@@ -132,20 +142,30 @@ export default function ExplanationPanel({ question, wasCorrect, selectedAnswer,
               label="You answered"
               letter={selectedAnswer}
               text={question.options[selectedAnswer]}
-              tone={wasCorrect ? "success" : "error"}
+              tone={noKey ? "neutral" : wasCorrect ? "success" : "error"}
             />
           ) : (
             <span className="text-sm font-bold" style={{ color: accentColor }}>
-              {wasCorrect ? "Correct" : "Incorrect"}
+              {noKey ? "No key to check against" : wasCorrect ? "Correct" : "Incorrect"}
             </span>
           )}
-          {!wasCorrect && (
-            <VerdictRow
-              label={question.reviewerAnswered ? "Reviewer key" : "Exam key"}
-              letter={question.correctAnswer}
-              text={question.options[question.correctAnswer]}
-              tone="success"
-            />
+          {/* With no key there is nothing to put under "Exam key", and the
+              label on its own reads as a missing value rather than an absent
+              one. Say which it is. */}
+          {noKey ? (
+            <p className="text-xs leading-relaxed" style={{ color: "var(--text-muted)" }}>
+              The source records no answer for this recall, and none has been
+              guessed. Read it from the page and judge it yourself.
+            </p>
+          ) : (
+            !wasCorrect && (
+              <VerdictRow
+                label={question.reviewerAnswered ? "Reviewer key" : "Exam key"}
+                letter={question.correctAnswer}
+                text={question.options[question.correctAnswer]}
+                tone="success"
+              />
+            )
           )}
         </div>
         {onUndo && (

@@ -2244,5 +2244,72 @@
    "confidence": "high",
    "explanation": "Human aqueous humour is not a simple plasma ultrafiltrate but the product of active secretion by the ciliary epithelium, and compared with plasma it contains less bicarbonate and correspondingly more chloride, so bicarbonate is the component present in relative paucity. Ascorbate is the striking opposite, being concentrated many times above plasma levels by active transport and serving as an antioxidant that protects the anterior segment from ultraviolet-generated free radicals. Hydrogen ion concentration is slightly higher in aqueous, which is why its pH is a little lower than that of plasma, so hydrogen ions are not deficient either. The other great difference, not offered here, is protein, which is present in aqueous at a small fraction of plasma concentration and whose rise produces the flare seen in uveitis. The role of carbonic anhydrase in bicarbonate handling is also the basis for the pressure-lowering action of acetazolamide and dorzolamide."
   }
+ },
+ {
+  "id": 92,
+  "source": "promotion-2023",
+  "question": "Male with blurred vision after exercising, IOP normal with iris atrophy (Same picture):",
+  "options": {
+   "A": "Pigment dispersion syndrome"
+  },
+  "correctAnswer": "A",
+  "explanation": null,
+  "year": "2023",
+  "subspecialty": null,
+  "pdfPage": 96,
+  "pageScanUrl": "/images/promotion-pages/page_096.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which records this recall only in part -- the person writing it down kept the gist and not every choice. Nothing here has been invented to fill the gaps: read it from the page scan."
+ },
+ {
+  "id": 93,
+  "source": "promotion-2023",
+  "question": "Macular edema OCT picture in a patient post-cataract surgery, what is the mechanism?",
+  "options": {
+   "A": "Inflammation"
+  },
+  "correctAnswer": "A",
+  "explanation": null,
+  "year": "2023",
+  "subspecialty": null,
+  "pdfPage": 100,
+  "pageScanUrl": "/images/promotion-pages/page_100.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which records this recall only in part -- the person writing it down kept the gist and not every choice. Nothing here has been invented to fill the gaps: read it from the page scan."
+ },
+ {
+  "id": 94,
+  "source": "promotion-2023",
+  "question": "Recall 51 on page 102, printed as a picture with no readable text. See the page scan.",
+  "options": {},
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2023",
+  "subspecialty": null,
+  "pdfPage": 102,
+  "pageScanUrl": "/images/promotion-pages/page_102.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which records this recall only in part -- the person writing it down kept the gist and not every choice. Nothing here has been invented to fill the gaps: read it from the page scan.",
+  "contested": true,
+  "contestedAnswers": [
+   "C",
+   "B"
+  ]
+ },
+ {
+  "id": 95,
+  "source": "promotion-2023",
+  "question": "VKH (it mentioned signs of VKH like Bilateral granulomatous uveitis), then asked what you will see in the FFA:",
+  "options": {
+   "A": "Multiple Pinpoint leakage sub retinal"
+  },
+  "correctAnswer": "A",
+  "explanation": null,
+  "year": "2023",
+  "subspecialty": null,
+  "pdfPage": 103,
+  "pageScanUrl": "/images/promotion-pages/page_103.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which records this recall only in part -- the person writing it down kept the gist and not every choice. Nothing here has been invented to fill the gaps: read it from the page scan."
  }
 ]

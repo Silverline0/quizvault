@@ -21,19 +21,25 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
     setShowScan(false);
   }, [question.id, question.source]);
 
+  // Some recovered recalls have no answer in the source, and none was invented
+  // for them. Grading those would mark every choice wrong, which says something
+  // the source never said — so they are shown to read, not to sit.
+  const ungraded = !question.correctAnswer;
+
   const handleSelect = useCallback(
     (key: string) => {
       if (showResult) return;
-      const correct = key === question.correctAnswer;
+      const correct = !ungraded && key === question.correctAnswer;
       onAnswer(key, correct);
-      triggerHaptic(correct ? "success" : "error");
+      // No verdict, no buzz: a neutral tap should not feel like a mistake.
+      if (!ungraded) triggerHaptic(correct ? "success" : "error");
 
       // Trigger glow animation on correct answer
       if (correct) {
         setGlowKey(key);
       }
     },
-    [showResult, onAnswer, question.correctAnswer]
+    [showResult, onAnswer, question.correctAnswer, ungraded]
   );
 
   // Keyboard shortcuts
@@ -87,6 +93,22 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
       >
         {question.question}
       </h2>
+
+      {/* A recall the source records only in part. Saying so up front is the
+          honest thing: the reader should know before answering that there is
+          no key to be right against, and where to read the original. */}
+      {(ungraded || question.recoveredFromPage) && question.sourceNote && (
+        <p
+          className="text-xs leading-relaxed px-3 py-2 mb-4 rounded-lg"
+          style={{
+            backgroundColor: "var(--warning-bg)",
+            color: "var(--text-secondary)",
+            border: "1px solid var(--border)",
+          }}
+        >
+          {question.sourceNote}
+        </p>
+      )}
 
       {/* Figure. On a laptop it sits beside its caveat and source link rather
           than stacking above them, which keeps all four options above the fold. */}
@@ -143,7 +165,7 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
       <div className="flex flex-col gap-2.5">
         {optionKeys.map((key) => {
           const isSelected = selectedAnswer === key;
-          const isCorrect = key === question.correctAnswer;
+          const isCorrect = !ungraded && key === question.correctAnswer;
           const isGlowing = glowKey === key;
 
           let borderColor = "var(--border)";
@@ -168,6 +190,13 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
                   <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12" /></svg>
                 </span>
               );
+            } else if (isSelected && ungraded) {
+              // Your pick, with nothing to measure it against.
+              borderColor = "var(--accent)";
+              bgColor = "var(--accent-light)";
+              chipBg = "var(--accent-light)";
+              chipInk = "var(--accent)";
+              chipBorder = "var(--accent)";
             } else if (isSelected) {
               borderColor = "var(--error)";
               bgColor = "var(--error-bg)";
@@ -179,6 +208,9 @@ export default function QuizCard({ question, onAnswer, showResult, selectedAnswe
                   <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
                 </span>
               );
+            } else if (ungraded) {
+              // Nothing is the answer here, so nothing should fade away.
+              opacity = 1;
             } else {
               // Neither yours nor the answer — step it back so the two that
               // matter carry the eye.

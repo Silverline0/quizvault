@@ -1324,5 +1324,329 @@
    "confidence": "high",
    "explanation": "Unaffected parents with an affected child indicate that both parents are carriers, which is autosomal recessive transmission, giving each subsequent sibling a one in four recurrence risk. The affected relative on the paternal side argues against X-linked recessive inheritance, in which affected males cluster on the maternal side through carrier mothers. Fair skin with fine, brittle, light hair in a child fits homocystinuria, which also carries ectopia lentis, a marfanoid habitus, developmental delay and a serious thromboembolic risk, and is autosomal recessive. Fifty percent would apply to autosomal dominant disease with an affected parent, and less than one percent would suggest a sporadic or new mutation event, neither of which fits this pedigree."
   }
+ },
+ {
+  "id": 48,
+  "source": "promotion-2022",
+  "question": "OCP pic:",
+  "options": {
+   "A": "Type II hypersensitivity reaction"
+  },
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2022",
+  "subspecialty": null,
+  "pdfPage": 124,
+  "pageScanUrl": "/images/promotion-pages/page_124.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
+ },
+ {
+  "id": 49,
+  "source": "promotion-2022",
+  "question": "OIS",
+  "options": {
+   "A": "carotid doppler"
+  },
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2022",
+  "subspecialty": null,
+  "pdfPage": 152,
+  "pageScanUrl": "/images/promotion-pages/page_152.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
+ },
+ {
+  "id": 50,
+  "source": "promotion-2022",
+  "question": "Scenario post cataract sx diplopia one eye hyperope other myope:",
+  "options": {
+   "A": "Slab off prism"
+  },
+  "correctAnswer": "A",
+  "explanation": null,
+  "year": "2022",
+  "subspecialty": null,
+  "pdfPage": 152,
+  "pageScanUrl": "/images/promotion-pages/page_152.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which records this recall only in part -- the person writing it down kept the gist and not every choice. Nothing here has been invented to fill the gaps: read it from the page scan."
+ },
+ {
+  "id": 51,
+  "source": "promotion-2022",
+  "question": "Mutton fat kps type of cells",
+  "options": {
+   "A": "Epitheloid cells"
+  },
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2022",
+  "subspecialty": null,
+  "pdfPage": 152,
+  "pageScanUrl": "/images/promotion-pages/page_152.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
+ },
+ {
+  "id": 52,
+  "source": "promotion-2022",
+  "question": "Rose Bengal stain",
+  "options": {
+   "A": "Devitalized epithelium"
+  },
+  "correctAnswer": "A",
+  "explanation": null,
+  "year": "2022",
+  "subspecialty": null,
+  "pdfPage": 152,
+  "pageScanUrl": "/images/promotion-pages/page_152.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which records this recall only in part -- the person writing it down kept the gist and not every choice. Nothing here has been invented to fill the gaps: read it from the page scan."
+ },
+ {
+  "id": 53,
+  "source": "promotion-2022",
+  "question": "RD + with high IOP (not responding to antiglaucoma):",
+  "options": {
+   "A": "Shwartz"
+  },
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2022",
+  "subspecialty": null,
+  "pdfPage": 155,
+  "pageScanUrl": "/images/promotion-pages/page_155.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
+ },
+ {
+  "id": 54,
+  "source": "promotion-2022",
+  "question": "Macular edema pic post-cataract surgery, what is the mechanism?",
+  "options": {
+   "A": "Inflammation.",
+   "B": "BRVO",
+   "C": "PDR"
+  },
+  "correctAnswer": "A",
+  "explanation": null,
+  "year": "2022",
+  "subspecialty": null,
+  "pdfPage": 156,
+  "pageScanUrl": "/images/promotion-pages/page_156.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF: the original parser skipped it because of how its number was printed. Wording is the recall as written; the page scan shows it as printed."
+ },
+ {
+  "id": 55,
+  "source": "promotion-2022",
+  "question": "Nigeria case with low CD-4 count ( CMV management):",
+  "options": {
+   "A": "IV ganciclovir .."
+  },
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2022",
+  "subspecialty": null,
+  "pdfPage": 176,
+  "pageScanUrl": "/images/promotion-pages/page_176.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
+ },
+ {
+  "id": 56,
+  "source": "promotion-2022",
+  "question": "Juvenile arthritis, most likely to develop Uveitis?",
+  "options": {
+   "A": "Pauciarticular with positive ANA."
+  },
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2022",
+  "subspecialty": null,
+  "pdfPage": 177,
+  "pageScanUrl": "/images/promotion-pages/page_177.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
+ },
+ {
+  "id": 57,
+  "source": "promotion-2022",
+  "question": "Neuroretinitis in child:",
+  "options": {
+   "A": "cat at home"
+  },
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2022",
+  "subspecialty": null,
+  "pdfPage": 177,
+  "pageScanUrl": "/images/promotion-pages/page_177.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
+ },
+ {
+  "id": 58,
+  "source": "promotion-2022",
+  "question": "50/o uveitis + oral ulcer:",
+  "options": {
+   "A": "HLA-B51"
+  },
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2022",
+  "subspecialty": null,
+  "pdfPage": 177,
+  "pageScanUrl": "/images/promotion-pages/page_177.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
+ },
+ {
+  "id": 59,
+  "source": "promotion-2022",
+  "question": "Hypopyon with snowballs + oral painful ulcer",
+  "options": {
+   "A": "HLA-A29",
+   "B": "HLA-B27",
+   "C": "HLA-DR3"
+  },
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2022",
+  "subspecialty": null,
+  "pdfPage": 177,
+  "pageScanUrl": "/images/promotion-pages/page_177.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
+ },
+ {
+  "id": 60,
+  "source": "promotion-2022",
+  "question": "ERD with bilateral granulomatous uveitis",
+  "options": {
+   "A": "Pinpoint leakage on FFA"
+  },
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2022",
+  "subspecialty": null,
+  "pdfPage": 177,
+  "pageScanUrl": "/images/promotion-pages/page_177.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
+ },
+ {
+  "id": 61,
+  "source": "promotion-2022",
+  "question": "Male with blurred vision, IOP normal with iris atrophy pic:",
+  "options": {
+   "A": "Pigment dispersion syndrome"
+  },
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2022",
+  "subspecialty": null,
+  "pdfPage": 193,
+  "pageScanUrl": "/images/promotion-pages/page_193.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
+ },
+ {
+  "id": 62,
+  "source": "promotion-2022",
+  "question": "Post delivery neonate has retina hg OU otherwise normal?",
+  "options": {
+   "A": "Observe"
+  },
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2022",
+  "subspecialty": null,
+  "pdfPage": 212,
+  "pageScanUrl": "/images/promotion-pages/page_212.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
+ },
+ {
+  "id": 63,
+  "source": "promotion-2022",
+  "question": "Blunt trauma with hypotony suddenly pt has high iop",
+  "options": {
+   "A": "Closed cyclodialysis cleft."
+  },
+  "correctAnswer": "A",
+  "explanation": null,
+  "year": "2022",
+  "subspecialty": null,
+  "pdfPage": 212,
+  "pageScanUrl": "/images/promotion-pages/page_212.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which records this recall only in part -- the person writing it down kept the gist and not every choice. Nothing here has been invented to fill the gaps: read it from the page scan."
+ },
+ {
+  "id": 64,
+  "source": "promotion-2022",
+  "question": "Child with amblyopia, ET, and +3 astigmatism:",
+  "options": {
+   "A": "give full correction"
+  },
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2022",
+  "subspecialty": null,
+  "pdfPage": 213,
+  "pageScanUrl": "/images/promotion-pages/page_213.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
+ },
+ {
+  "id": 65,
+  "source": "promotion-2022",
+  "question": "Child with XT and mild hyperopia:",
+  "options": {
+   "A": "do not over-correct hyperopia"
+  },
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2022",
+  "subspecialty": null,
+  "pdfPage": 213,
+  "pageScanUrl": "/images/promotion-pages/page_213.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
+ },
+ {
+  "id": 66,
+  "source": "promotion-2022",
+  "question": "Patient with XT underwent BLR now has mild ET:",
+  "options": {
+   "A": "reassure and monitor"
+  },
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2022",
+  "subspecialty": null,
+  "pdfPage": 213,
+  "pageScanUrl": "/images/promotion-pages/page_213.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
+ },
+ {
+  "id": 67,
+  "source": "promotion-2022",
+  "question": "CCF after trauma:",
+  "options": {
+   "A": "internal carotid"
+  },
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2022",
+  "subspecialty": null,
+  "pdfPage": 231,
+  "pageScanUrl": "/images/promotion-pages/page_231.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
  }
 ]

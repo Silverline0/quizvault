@@ -2208,5 +2208,107 @@
    "confidence": "high",
    "explanation": "Aqueous humor is not a simple ultrafiltrate of plasma but an actively secreted fluid, and its composition reflects that active secretion. Relative to plasma it carries a marked excess of ascorbate (roughly 15 to 20 times), lactate and pyruvate, and a deficit of protein, and it is slightly more acidic with a small excess of hydrogen and chloride ions, so options A, B and D all move in the wrong direction. Bicarbonate is the component present in relative deficit in human aqueous. This is more than trivia: carbonic anhydrase in the ciliary epithelium generates the bicarbonate that drives sodium transport and therefore aqueous formation, which is exactly why carbonic anhydrase inhibitors reduce secretion and lower intraocular pressure."
   }
+ },
+ {
+  "id": 90,
+  "source": "promotion-2024",
+  "question": "A picture of PUK (?mooren ulcer) asking about how the disease will progress? A At the limbus B To the center C Centrifugally all directions",
+  "options": {},
+  "correctAnswer": "B",
+  "explanation": null,
+  "year": "2024",
+  "subspecialty": null,
+  "pdfPage": 49,
+  "pageScanUrl": "/images/promotion-pages/page_049.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which records this recall only in part -- the person writing it down kept the gist and not every choice. Nothing here has been invented to fill the gaps: read it from the page scan."
+ },
+ {
+  "id": 91,
+  "source": "promotion-2024",
+  "question": "What is the most common site for scleral rupture following trauma? A At the limbus B At the equator C Radially along the muscle insertion (Exact wording)",
+  "options": {},
+  "correctAnswer": "A",
+  "explanation": null,
+  "year": "2024",
+  "subspecialty": null,
+  "pdfPage": 49,
+  "pageScanUrl": "/images/promotion-pages/page_049.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which records this recall only in part -- the person writing it down kept the gist and not every choice. Nothing here has been invented to fill the gaps: read it from the page scan."
+ },
+ {
+  "id": 92,
+  "source": "promotion-2024",
+  "question": "Recall 40 on page 56, printed as a picture with no readable text. See the page scan.",
+  "options": {},
+  "correctAnswer": "C",
+  "explanation": null,
+  "year": "2024",
+  "subspecialty": null,
+  "pdfPage": 56,
+  "pageScanUrl": "/images/promotion-pages/page_056.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which records this recall only in part -- the person writing it down kept the gist and not every choice. Nothing here has been invented to fill the gaps: read it from the page scan."
+ },
+ {
+  "id": 93,
+  "source": "promotion-2024",
+  "question": "Same scenario and picture, but it was mentioned that the patient’s complaint is unilateral:",
+  "options": {},
+  "correctAnswer": "C",
+  "explanation": null,
+  "year": "2024",
+  "subspecialty": null,
+  "pdfPage": 61,
+  "pageScanUrl": "/images/promotion-pages/page_061.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which records this recall only in part -- the person writing it down kept the gist and not every choice. Nothing here has been invented to fill the gaps: read it from the page scan."
+ },
+ {
+  "id": 94,
+  "source": "promotion-2024",
+  "question": "Obese, difficulty sleeping with conj irritation in the morning?",
+  "options": {
+   "A": "Floppy eyelid syndrome"
+  },
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2024",
+  "subspecialty": null,
+  "pdfPage": 69,
+  "pageScanUrl": "/images/promotion-pages/page_069.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
+ },
+ {
+  "id": 95,
+  "source": "promotion-2024",
+  "question": "Scenario post cataract sx diplopia one eye hyperope other myope:",
+  "options": {
+   "A": "Slab off prism"
+  },
+  "correctAnswer": "A",
+  "explanation": null,
+  "year": "2024",
+  "subspecialty": "Optics",
+  "pdfPage": 76,
+  "pageScanUrl": "/images/promotion-pages/page_076.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which records this recall only in part -- the person writing it down kept the gist and not every choice. Nothing here has been invented to fill the gaps: read it from the page scan."
+ },
+ {
+  "id": 96,
+  "source": "promotion-2024",
+  "question": "A question about a patient with active PDR and asking about the PRP laser settings: Answer: 200μ to 500μ in size, pulse durations of 100 milliseconds, 200-250 mW power in a scatter fashion over peripheral retina. PRP Lasertype argongreen 514nm Power 200 250 MW Duration tooms oil see Spotsize 200 5o M microns lenstype cQuadresphericspraquad Mainster 165 Goodo burnsthataregreyin color",
+  "options": {},
+  "correctAnswer": null,
+  "explanation": null,
+  "year": "2024",
+  "subspecialty": null,
+  "pdfPage": 84,
+  "pageScanUrl": "/images/promotion-pages/page_084.jpg",
+  "recoveredFromPage": true,
+  "sourceNote": "Recovered from the source PDF, which gives no answer for it. No key has been guessed, so this one is here to read rather than to sit. The page scan shows it as printed."
  }
 ]
