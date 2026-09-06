@@ -1,0 +1,6612 @@
+[
+ {
+  "page": 1,
+  "year": "2025",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 2,
+  "year": "2025",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 3,
+  "year": "2025",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 4,
+  "year": "2025",
+  "have": 3,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 1
+ },
+ {
+  "page": 5,
+  "year": "2025",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 6,
+  "year": "2025",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 7,
+  "year": "2025",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 8,
+  "year": "2025",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 9,
+  "year": "2025",
+  "have": 2,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 2
+ },
+ {
+  "page": 10,
+  "year": "2025",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 11,
+  "year": "2025",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 12,
+  "year": "2025",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 13,
+  "year": "2025",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 14,
+  "year": "2025",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 15,
+  "year": "2025",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 16,
+  "year": "2025",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 17,
+  "year": "2025",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 18,
+  "year": "2025",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 19,
+  "year": "2025",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 20,
+  "year": "2025",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 21,
+  "year": "2025",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 22,
+  "year": "2025",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 23,
+  "year": "2025",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 24,
+  "year": "2025",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 25,
+  "year": "2025",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 26,
+  "year": "2025",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 27,
+  "year": "2025",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 28,
+  "year": "2025",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 29,
+  "year": "2025",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 30,
+  "year": "2025",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 31,
+  "year": "2025",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 32,
+  "year": "2025",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 33,
+  "year": "2025",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 34,
+  "year": "2025",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 35,
+  "year": "2025",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 36,
+  "year": "2025",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 37,
+  "year": "2025",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 38,
+  "year": "2025",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 39,
+  "year": "2025",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 40,
+  "year": "2025",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 41,
+  "year": "2024",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 42,
+  "year": "2024",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 43,
+  "year": "2024",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 44,
+  "year": "2024",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 45,
+  "year": "2024",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 46,
+  "year": "2024",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 47,
+  "year": "2024",
+  "have": 3,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 48,
+  "year": "2024",
+  "have": 4,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 0
+ },
+ {
+  "page": 49,
+  "year": "2024",
+  "have": 1,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 2
+ },
+ {
+  "page": 50,
+  "year": "2024",
+  "have": 2,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 51,
+  "year": "2024",
+  "have": 4,
+  "regex": 5,
+  "parser": 0,
+  "vision": null,
+  "expect": 5,
+  "short": 1
+ },
+ {
+  "page": 52,
+  "year": "2024",
+  "have": 4,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 0
+ },
+ {
+  "page": 53,
+  "year": "2024",
+  "have": 4,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 54,
+  "year": "2024",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 55,
+  "year": "2024",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 56,
+  "year": "2024",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 57,
+  "year": "2024",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 58,
+  "year": "2024",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 59,
+  "year": "2024",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 60,
+  "year": "2024",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 61,
+  "year": "2024",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 62,
+  "year": "2024",
+  "have": 2,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 63,
+  "year": "2024",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 64,
+  "year": "2024",
+  "have": 3,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 65,
+  "year": "2024",
+  "have": 4,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 0
+ },
+ {
+  "page": 66,
+  "year": "2024",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 67,
+  "year": "2024",
+  "have": 4,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 0
+ },
+ {
+  "page": 68,
+  "year": "2024",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 69,
+  "year": "2024",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 70,
+  "year": "2024",
+  "have": 3,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 1
+ },
+ {
+  "page": 71,
+  "year": "2024",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 72,
+  "year": "2024",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 73,
+  "year": "2024",
+  "have": 2,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 74,
+  "year": "2024",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 75,
+  "year": "2024",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 76,
+  "year": "2024",
+  "have": 2,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 2
+ },
+ {
+  "page": 77,
+  "year": "2024",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 78,
+  "year": "2024",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 79,
+  "year": "2024",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 80,
+  "year": "2024",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 81,
+  "year": "2024",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 82,
+  "year": "2024",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 83,
+  "year": "2024",
+  "have": 2,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 84,
+  "year": "2024",
+  "have": 0,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 1
+ },
+ {
+  "page": 85,
+  "year": "2023",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 86,
+  "year": "2023",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 87,
+  "year": "2023",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 88,
+  "year": "2023",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 89,
+  "year": "2023",
+  "have": 4,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 90,
+  "year": "2023",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 91,
+  "year": "2023",
+  "have": 4,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 92,
+  "year": "2023",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 93,
+  "year": "2023",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 94,
+  "year": "2023",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 95,
+  "year": "2023",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 96,
+  "year": "2023",
+  "have": 4,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 97,
+  "year": "2023",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 98,
+  "year": "2023",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 99,
+  "year": "2023",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 100,
+  "year": "2023",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 101,
+  "year": "2023",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 102,
+  "year": "2023",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 103,
+  "year": "2023",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 104,
+  "year": "2023",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 105,
+  "year": "2023",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 106,
+  "year": "2023",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 107,
+  "year": "2023",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 108,
+  "year": "2023",
+  "have": 4,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 109,
+  "year": "2023",
+  "have": 4,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 110,
+  "year": "2023",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 111,
+  "year": "2023",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 112,
+  "year": "2023",
+  "have": 4,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 113,
+  "year": "2023",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 114,
+  "year": "2023",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 115,
+  "year": "2023",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 116,
+  "year": "2023",
+  "have": 4,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 117,
+  "year": "2023",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 118,
+  "year": "2023",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 119,
+  "year": "2023",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 120,
+  "year": "2023",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 121,
+  "year": "2023",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 122,
+  "year": "2023",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 123,
+  "year": "2022",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": 3,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 124,
+  "year": "2022",
+  "have": 3,
+  "regex": 5,
+  "parser": 0,
+  "vision": 4,
+  "expect": 4,
+  "short": 1
+ },
+ {
+  "page": 125,
+  "year": "2022",
+  "have": 4,
+  "regex": 5,
+  "parser": 0,
+  "vision": 5,
+  "expect": 5,
+  "short": 1
+ },
+ {
+  "page": 126,
+  "year": "2022",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": 3,
+  "expect": 3,
+  "short": 2
+ },
+ {
+  "page": 127,
+  "year": "2021",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 128,
+  "year": "2021",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": 3,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 129,
+  "year": "2021",
+  "have": 5,
+  "regex": 0,
+  "parser": 0,
+  "vision": 4,
+  "expect": 4,
+  "short": 0
+ },
+ {
+  "page": 130,
+  "year": "2021",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 131,
+  "year": "2020",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": 1,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 132,
+  "year": "2020",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 133,
+  "year": "2020",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": 1,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 134,
+  "year": "2020",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": 3,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 135,
+  "year": "2020",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 136,
+  "year": "2019",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 137,
+  "year": "2019",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 138,
+  "year": "2019",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 139,
+  "year": "2019",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 140,
+  "year": "2019",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 141,
+  "year": "2019",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 142,
+  "year": "2018",
+  "have": 4,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 143,
+  "year": "2018",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 144,
+  "year": "2018",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 145,
+  "year": "2018",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 146,
+  "year": "2018",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 147,
+  "year": "2018",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 148,
+  "year": "2018",
+  "have": 1,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 2
+ },
+ {
+  "page": 149,
+  "year": "2018",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 150,
+  "year": "2018",
+  "have": 1,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 2
+ },
+ {
+  "page": 151,
+  "year": "2018",
+  "have": 1,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 2
+ },
+ {
+  "page": 152,
+  "year": "2022",
+  "have": 0,
+  "regex": 4,
+  "parser": 0,
+  "vision": 4,
+  "expect": 4,
+  "short": 4
+ },
+ {
+  "page": 153,
+  "year": "2022",
+  "have": 1,
+  "regex": 3,
+  "parser": 0,
+  "vision": 3,
+  "expect": 3,
+  "short": 2
+ },
+ {
+  "page": 154,
+  "year": "2022",
+  "have": 4,
+  "regex": 6,
+  "parser": 0,
+  "vision": 5,
+  "expect": 5,
+  "short": 1
+ },
+ {
+  "page": 155,
+  "year": "2022",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 156,
+  "year": "2022",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": 3,
+  "expect": 3,
+  "short": 2
+ },
+ {
+  "page": 157,
+  "year": "2021",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": 1,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 158,
+  "year": "2020",
+  "have": 4,
+  "regex": 0,
+  "parser": 0,
+  "vision": 4,
+  "expect": 4,
+  "short": 0
+ },
+ {
+  "page": 159,
+  "year": "2020",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 160,
+  "year": "2020",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 161,
+  "year": "2019",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 162,
+  "year": "2019",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 163,
+  "year": "2019",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 164,
+  "year": "2019",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 165,
+  "year": "2019",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 166,
+  "year": "2019",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 167,
+  "year": "2019",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 168,
+  "year": "2019",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 169,
+  "year": "2018",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 170,
+  "year": "2018",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 171,
+  "year": "2018",
+  "have": 3,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 172,
+  "year": "2018",
+  "have": 0,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 1
+ },
+ {
+  "page": 173,
+  "year": "2018",
+  "have": 1,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 2
+ },
+ {
+  "page": 174,
+  "year": "2018",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 175,
+  "year": "2018",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 176,
+  "year": "2022",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": 3,
+  "expect": 3,
+  "short": 2
+ },
+ {
+  "page": 177,
+  "year": "2022",
+  "have": 0,
+  "regex": 5,
+  "parser": 0,
+  "vision": 5,
+  "expect": 5,
+  "short": 5
+ },
+ {
+  "page": 178,
+  "year": "2020",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 179,
+  "year": "2020",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 180,
+  "year": "2020",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": 1,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 181,
+  "year": "2020",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 182,
+  "year": "2019",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 183,
+  "year": "2019",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 184,
+  "year": "2019",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 185,
+  "year": "2019",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 186,
+  "year": "2018",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 187,
+  "year": "2018",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 188,
+  "year": "2018",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 189,
+  "year": "2018",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 190,
+  "year": "2018",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 191,
+  "year": "2018",
+  "have": 2,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 2
+ },
+ {
+  "page": 192,
+  "year": "2022",
+  "have": 2,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 2
+ },
+ {
+  "page": 193,
+  "year": "2022",
+  "have": 4,
+  "regex": 6,
+  "parser": 0,
+  "vision": null,
+  "expect": 6,
+  "short": 2
+ },
+ {
+  "page": 194,
+  "year": "2021",
+  "have": 5,
+  "regex": 1,
+  "parser": 0,
+  "vision": 5,
+  "expect": 5,
+  "short": 0
+ },
+ {
+  "page": 195,
+  "year": "2021",
+  "have": 4,
+  "regex": 0,
+  "parser": 0,
+  "vision": 4,
+  "expect": 4,
+  "short": 0
+ },
+ {
+  "page": 196,
+  "year": "2020",
+  "have": 4,
+  "regex": 0,
+  "parser": 0,
+  "vision": 4,
+  "expect": 4,
+  "short": 0
+ },
+ {
+  "page": 197,
+  "year": "2020",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 198,
+  "year": "2019",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 199,
+  "year": "2019",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 200,
+  "year": "2019",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 201,
+  "year": "2019",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 202,
+  "year": "2018",
+  "have": 2,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 203,
+  "year": "2018",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 204,
+  "year": "2018",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 205,
+  "year": "2018",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 206,
+  "year": "2018",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 207,
+  "year": "2018",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 208,
+  "year": "2018",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 209,
+  "year": "2018",
+  "have": 3,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 210,
+  "year": "2018",
+  "have": 1,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 2
+ },
+ {
+  "page": 211,
+  "year": "2018",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 212,
+  "year": "2022",
+  "have": 0,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 3
+ },
+ {
+  "page": 213,
+  "year": "2022",
+  "have": 3,
+  "regex": 9,
+  "parser": 0,
+  "vision": null,
+  "expect": 9,
+  "short": 6
+ },
+ {
+  "page": 214,
+  "year": "2021",
+  "have": 3,
+  "regex": 1,
+  "parser": 0,
+  "vision": 4,
+  "expect": 4,
+  "short": 1
+ },
+ {
+  "page": 215,
+  "year": "2020",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 216,
+  "year": "2020",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 217,
+  "year": "2020",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 218,
+  "year": "2019",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 219,
+  "year": "2019",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 220,
+  "year": "2019",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 221,
+  "year": "2019",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 222,
+  "year": "2019",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 223,
+  "year": "2019",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 224,
+  "year": "2019",
+  "have": 2,
+  "regex": 9,
+  "parser": 0,
+  "vision": null,
+  "expect": 9,
+  "short": 7
+ },
+ {
+  "page": 225,
+  "year": "2019",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 226,
+  "year": "2018",
+  "have": 3,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 227,
+  "year": "2018",
+  "have": 3,
+  "regex": 8,
+  "parser": 0,
+  "vision": null,
+  "expect": 8,
+  "short": 5
+ },
+ {
+  "page": 228,
+  "year": "2018",
+  "have": 3,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 1
+ },
+ {
+  "page": 229,
+  "year": "2018",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 230,
+  "year": "2018",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 231,
+  "year": "2022",
+  "have": 4,
+  "regex": 5,
+  "parser": 0,
+  "vision": null,
+  "expect": 5,
+  "short": 1
+ },
+ {
+  "page": 232,
+  "year": "2021",
+  "have": 1,
+  "regex": 5,
+  "parser": 0,
+  "vision": 4,
+  "expect": 4,
+  "short": 3
+ },
+ {
+  "page": 233,
+  "year": "2021",
+  "have": 4,
+  "regex": 0,
+  "parser": 0,
+  "vision": 4,
+  "expect": 4,
+  "short": 0
+ },
+ {
+  "page": 234,
+  "year": "2021",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": 3,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 235,
+  "year": "2020",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": 1,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 236,
+  "year": "2020",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 237,
+  "year": "2020",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": 3,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 238,
+  "year": "2019",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 239,
+  "year": "2019",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 240,
+  "year": "2019",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 241,
+  "year": "2019",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 242,
+  "year": "2019",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 243,
+  "year": "2019",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 244,
+  "year": "2019",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 245,
+  "year": "2019",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 246,
+  "year": "2019",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 247,
+  "year": "2019",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 248,
+  "year": "2019",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 249,
+  "year": "2018",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 250,
+  "year": "2018",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 251,
+  "year": "2018",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 252,
+  "year": "2018",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 253,
+  "year": "2018",
+  "have": 2,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 254,
+  "year": "2018",
+  "have": 0,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 2
+ },
+ {
+  "page": 255,
+  "year": "2018",
+  "have": 0,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 3
+ },
+ {
+  "page": 256,
+  "year": "2022",
+  "have": 2,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 257,
+  "year": "2022",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 258,
+  "year": "2022",
+  "have": 3,
+  "regex": 6,
+  "parser": 0,
+  "vision": null,
+  "expect": 6,
+  "short": 3
+ },
+ {
+  "page": 259,
+  "year": "2021",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": 1,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 260,
+  "year": "2021",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 261,
+  "year": "2021",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": 3,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 262,
+  "year": "2021",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 263,
+  "year": "2020",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 264,
+  "year": "2020",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 265,
+  "year": "2020",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 266,
+  "year": "2020",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 267,
+  "year": "2019",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 268,
+  "year": "2019",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 269,
+  "year": "2019",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 270,
+  "year": "2019",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 271,
+  "year": "2018",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 272,
+  "year": "2018",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 273,
+  "year": "2018",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 274,
+  "year": "2018",
+  "have": 0,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 1
+ },
+ {
+  "page": 275,
+  "year": "2018",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 276,
+  "year": "2022",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 277,
+  "year": "2022",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 278,
+  "year": "2021",
+  "have": 5,
+  "regex": 0,
+  "parser": 0,
+  "vision": 4,
+  "expect": 4,
+  "short": 0
+ },
+ {
+  "page": 279,
+  "year": "2020",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": 1,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 280,
+  "year": "2019",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 281,
+  "year": "2019",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 282,
+  "year": "2019",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 283,
+  "year": "2018",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 284,
+  "year": "2022",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 285,
+  "year": "2022",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 286,
+  "year": "2022",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 287,
+  "year": "2021",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": 1,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 288,
+  "year": "2021",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": 1,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 289,
+  "year": "2021",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": 1,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 290,
+  "year": "2019",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 291,
+  "year": "2018",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 292,
+  "year": "2018",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 293,
+  "year": "2018",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 294,
+  "year": "2018",
+  "have": 1,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 2
+ },
+ {
+  "page": 295,
+  "year": "2021",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": 2,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 296,
+  "year": "2018",
+  "have": 0,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 4
+ },
+ {
+  "page": 297,
+  "year": "2018",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 298,
+  "year": "2018",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 299,
+  "year": "2017",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 300,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 301,
+  "year": "2017",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 302,
+  "year": "2017",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 303,
+  "year": "2017",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 304,
+  "year": "2017",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 305,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 306,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 307,
+  "year": "2017",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 308,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 309,
+  "year": "2017",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 310,
+  "year": "2017",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 311,
+  "year": "2017",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 312,
+  "year": "2017",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 313,
+  "year": "2017",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 314,
+  "year": "2017",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 315,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 316,
+  "year": "2017",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 317,
+  "year": "2017",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 318,
+  "year": "2017",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 319,
+  "year": "2017",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 320,
+  "year": "2017",
+  "have": 1,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 3
+ },
+ {
+  "page": 321,
+  "year": "2017",
+  "have": 1,
+  "regex": 6,
+  "parser": 0,
+  "vision": null,
+  "expect": 6,
+  "short": 5
+ },
+ {
+  "page": 322,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 323,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 324,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 325,
+  "year": "2017",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 326,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 327,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 328,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 329,
+  "year": "2017",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 330,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 331,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 332,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 333,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 334,
+  "year": "2017",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 335,
+  "year": "2017",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 336,
+  "year": "2017",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 337,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 338,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 339,
+  "year": "2017",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 340,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 341,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 342,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 343,
+  "year": "2017",
+  "have": 0,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 2
+ },
+ {
+  "page": 344,
+  "year": "2017",
+  "have": 0,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 1
+ },
+ {
+  "page": 345,
+  "year": "2017",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 346,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 347,
+  "year": "2017",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 348,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 349,
+  "year": "2017",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 350,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 351,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 352,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 353,
+  "year": "2017",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 354,
+  "year": "2017",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 355,
+  "year": "2017",
+  "have": 4,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 356,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 357,
+  "year": "2017",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 358,
+  "year": "2017",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 359,
+  "year": "2017",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 360,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 361,
+  "year": "2017",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 362,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 363,
+  "year": "2017",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 364,
+  "year": "2017",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 365,
+  "year": "2017",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 366,
+  "year": "2017",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 367,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 368,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 369,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 370,
+  "year": "2017",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 371,
+  "year": "2017",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 372,
+  "year": "2017",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 373,
+  "year": "2017",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 374,
+  "year": "2017",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 375,
+  "year": "2017",
+  "have": 4,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 376,
+  "year": "2017",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 377,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 378,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 379,
+  "year": "2017",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 380,
+  "year": "2017",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 381,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 382,
+  "year": "2017",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 383,
+  "year": "2017",
+  "have": 3,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 384,
+  "year": "2017",
+  "have": 5,
+  "regex": 7,
+  "parser": 0,
+  "vision": null,
+  "expect": 7,
+  "short": 2
+ },
+ {
+  "page": 385,
+  "year": "2017",
+  "have": 5,
+  "regex": 5,
+  "parser": 0,
+  "vision": null,
+  "expect": 5,
+  "short": 0
+ },
+ {
+  "page": 386,
+  "year": "2017",
+  "have": 6,
+  "regex": 6,
+  "parser": 0,
+  "vision": null,
+  "expect": 6,
+  "short": 0
+ },
+ {
+  "page": 387,
+  "year": "2017",
+  "have": 4,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 0
+ },
+ {
+  "page": 388,
+  "year": "2017",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 389,
+  "year": "2017",
+  "have": 3,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 1
+ },
+ {
+  "page": 390,
+  "year": "2017",
+  "have": 1,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 2
+ },
+ {
+  "page": 391,
+  "year": "2017",
+  "have": 5,
+  "regex": 5,
+  "parser": 0,
+  "vision": null,
+  "expect": 5,
+  "short": 0
+ },
+ {
+  "page": 392,
+  "year": "2017",
+  "have": 4,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 393,
+  "year": "2017",
+  "have": 3,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 1
+ },
+ {
+  "page": 394,
+  "year": "2017",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 395,
+  "year": "2017",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 396,
+  "year": "2017",
+  "have": 3,
+  "regex": 6,
+  "parser": 0,
+  "vision": null,
+  "expect": 6,
+  "short": 3
+ },
+ {
+  "page": 397,
+  "year": "2016",
+  "have": 5,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 398,
+  "year": "2016",
+  "have": 3,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 1
+ },
+ {
+  "page": 399,
+  "year": "2016",
+  "have": 3,
+  "regex": 16,
+  "parser": 0,
+  "vision": null,
+  "expect": 16,
+  "short": 13
+ },
+ {
+  "page": 400,
+  "year": "2016",
+  "have": 1,
+  "regex": 7,
+  "parser": 0,
+  "vision": null,
+  "expect": 7,
+  "short": 6
+ },
+ {
+  "page": 401,
+  "year": "2016",
+  "have": 3,
+  "regex": 9,
+  "parser": 0,
+  "vision": null,
+  "expect": 9,
+  "short": 6
+ },
+ {
+  "page": 402,
+  "year": "2016",
+  "have": 3,
+  "regex": 17,
+  "parser": 0,
+  "vision": null,
+  "expect": 17,
+  "short": 14
+ },
+ {
+  "page": 403,
+  "year": "2016",
+  "have": 2,
+  "regex": 8,
+  "parser": 0,
+  "vision": null,
+  "expect": 8,
+  "short": 6
+ },
+ {
+  "page": 404,
+  "year": "2016",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 405,
+  "year": "2016",
+  "have": 4,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 406,
+  "year": "2016",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 407,
+  "year": "2016",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 408,
+  "year": "2016",
+  "have": 3,
+  "regex": 11,
+  "parser": 0,
+  "vision": null,
+  "expect": 11,
+  "short": 8
+ },
+ {
+  "page": 409,
+  "year": "2016",
+  "have": 3,
+  "regex": 10,
+  "parser": 0,
+  "vision": null,
+  "expect": 10,
+  "short": 7
+ },
+ {
+  "page": 410,
+  "year": "2016",
+  "have": 2,
+  "regex": 6,
+  "parser": 0,
+  "vision": null,
+  "expect": 6,
+  "short": 4
+ },
+ {
+  "page": 411,
+  "year": "2016",
+  "have": 1,
+  "regex": 14,
+  "parser": 0,
+  "vision": null,
+  "expect": 14,
+  "short": 13
+ },
+ {
+  "page": 412,
+  "year": "2016",
+  "have": 3,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 1
+ },
+ {
+  "page": 413,
+  "year": "2016",
+  "have": 3,
+  "regex": 12,
+  "parser": 0,
+  "vision": null,
+  "expect": 12,
+  "short": 9
+ },
+ {
+  "page": 414,
+  "year": "2016",
+  "have": 4,
+  "regex": 12,
+  "parser": 0,
+  "vision": null,
+  "expect": 12,
+  "short": 8
+ },
+ {
+  "page": 415,
+  "year": "2016",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 416,
+  "year": "2016",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 417,
+  "year": "2016",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 418,
+  "year": "2016",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 419,
+  "year": "2016",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 420,
+  "year": "2016",
+  "have": 4,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 421,
+  "year": "2016",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 422,
+  "year": "2016",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 423,
+  "year": "2016",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 424,
+  "year": "2016",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 425,
+  "year": "2016",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 426,
+  "year": "2016",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 427,
+  "year": "2016",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 428,
+  "year": "2016",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 429,
+  "year": "2016",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 430,
+  "year": "2016",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 431,
+  "year": "2016",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 432,
+  "year": "2016",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 433,
+  "year": "2016",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 434,
+  "year": "2016",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 435,
+  "year": "2016",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 436,
+  "year": "2016",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 437,
+  "year": "2016",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 438,
+  "year": "2016",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 439,
+  "year": "2016",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 440,
+  "year": "2016",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 441,
+  "year": "2016",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 442,
+  "year": "2016",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 443,
+  "year": "2016",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 444,
+  "year": "2016",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 445,
+  "year": "2016",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 446,
+  "year": "2016",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 447,
+  "year": "2016",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 448,
+  "year": "2016",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 449,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 450,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 451,
+  "year": "2015",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 452,
+  "year": "2015",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 453,
+  "year": "2015",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 454,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 455,
+  "year": "2015",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 456,
+  "year": "2015",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 457,
+  "year": "2015",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 458,
+  "year": "2015",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 459,
+  "year": "2015",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 460,
+  "year": "2015",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 461,
+  "year": "2015",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 462,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 463,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 464,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 465,
+  "year": "2015",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 466,
+  "year": "2015",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 467,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 468,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 469,
+  "year": "2015",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 470,
+  "year": "2015",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 471,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 472,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 473,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 474,
+  "year": "2015",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 475,
+  "year": "2015",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 476,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 477,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 478,
+  "year": "2015",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 479,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 480,
+  "year": "2015",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 481,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 482,
+  "year": "2015",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 483,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 484,
+  "year": "2015",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 485,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 486,
+  "year": "2015",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 487,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 488,
+  "year": "2015",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 489,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 490,
+  "year": "2015",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 491,
+  "year": "2015",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 492,
+  "year": "2015",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 493,
+  "year": "2015",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 494,
+  "year": "2015",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 495,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 496,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 497,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 498,
+  "year": "2015",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 499,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 500,
+  "year": "2015",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 501,
+  "year": "2015",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 502,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 503,
+  "year": "2015",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 504,
+  "year": "2015",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 505,
+  "year": "2015",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 506,
+  "year": "2015",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 507,
+  "year": "2015",
+  "have": 4,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 508,
+  "year": "2015",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 509,
+  "year": "2015",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 510,
+  "year": "2015",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 511,
+  "year": "2015",
+  "have": 2,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 2
+ },
+ {
+  "page": 512,
+  "year": "2015",
+  "have": 2,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 513,
+  "year": "2015",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 514,
+  "year": "2015",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 515,
+  "year": "2015",
+  "have": 1,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 2
+ },
+ {
+  "page": 516,
+  "year": "2015",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 517,
+  "year": "2015",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 518,
+  "year": "2015",
+  "have": 1,
+  "regex": 5,
+  "parser": 0,
+  "vision": null,
+  "expect": 5,
+  "short": 4
+ },
+ {
+  "page": 519,
+  "year": "2015",
+  "have": 1,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 2
+ },
+ {
+  "page": 520,
+  "year": "2015",
+  "have": 1,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 3
+ },
+ {
+  "page": 521,
+  "year": "2015",
+  "have": 1,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 2
+ },
+ {
+  "page": 522,
+  "year": "2015",
+  "have": 1,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 2
+ },
+ {
+  "page": 523,
+  "year": "2015",
+  "have": 0,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 1
+ },
+ {
+  "page": 524,
+  "year": "2015",
+  "have": 0,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 3
+ },
+ {
+  "page": 525,
+  "year": "2015",
+  "have": 3,
+  "regex": 9,
+  "parser": 0,
+  "vision": null,
+  "expect": 9,
+  "short": 6
+ },
+ {
+  "page": 526,
+  "year": "2015",
+  "have": 1,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 2
+ },
+ {
+  "page": 527,
+  "year": "2015",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 528,
+  "year": "2015",
+  "have": 0,
+  "regex": 5,
+  "parser": 0,
+  "vision": null,
+  "expect": 5,
+  "short": 5
+ },
+ {
+  "page": 529,
+  "year": "2015",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 530,
+  "year": "2015",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 531,
+  "year": "2015",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 532,
+  "year": "2015",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 533,
+  "year": "2015",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 534,
+  "year": "2015",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 535,
+  "year": "2015",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 536,
+  "year": "2015",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 537,
+  "year": "2015",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 538,
+  "year": "2015",
+  "have": 1,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 2
+ },
+ {
+  "page": 539,
+  "year": "2015",
+  "have": 0,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 3
+ },
+ {
+  "page": 540,
+  "year": "2015",
+  "have": 1,
+  "regex": 7,
+  "parser": 0,
+  "vision": null,
+  "expect": 7,
+  "short": 6
+ },
+ {
+  "page": 541,
+  "year": "2015",
+  "have": 1,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 3
+ },
+ {
+  "page": 542,
+  "year": "2015",
+  "have": 1,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 2
+ },
+ {
+  "page": 543,
+  "year": "2014",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 544,
+  "year": "2014",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 545,
+  "year": "2014",
+  "have": 2,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 2
+ },
+ {
+  "page": 546,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 547,
+  "year": "2014",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 548,
+  "year": "2014",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 549,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 550,
+  "year": "2014",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 551,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 552,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 553,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 554,
+  "year": "2014",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 555,
+  "year": "2014",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 556,
+  "year": "2014",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 557,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 558,
+  "year": "2014",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 559,
+  "year": "2014",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 560,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 561,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 562,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 563,
+  "year": "2014",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 564,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 565,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 566,
+  "year": "2014",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 567,
+  "year": "2014",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 568,
+  "year": "2014",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 569,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 570,
+  "year": "2014",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 571,
+  "year": "2014",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 572,
+  "year": "2014",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 573,
+  "year": "2014",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 574,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 575,
+  "year": "2014",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 576,
+  "year": "2014",
+  "have": 4,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 577,
+  "year": "2014",
+  "have": 3,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 578,
+  "year": "2014",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 579,
+  "year": "2014",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 580,
+  "year": "2014",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 581,
+  "year": "2014",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 582,
+  "year": "2014",
+  "have": 1,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 2
+ },
+ {
+  "page": 583,
+  "year": "2014",
+  "have": 0,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 2
+ },
+ {
+  "page": 584,
+  "year": "2014",
+  "have": 3,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 0
+ },
+ {
+  "page": 585,
+  "year": "2014",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 586,
+  "year": "2014",
+  "have": 3,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 587,
+  "year": "2014",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 588,
+  "year": "2014",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 589,
+  "year": "2014",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 590,
+  "year": "2014",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 591,
+  "year": "2014",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 592,
+  "year": "2014",
+  "have": 2,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 593,
+  "year": "2014",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 594,
+  "year": "2014",
+  "have": 1,
+  "regex": 10,
+  "parser": 0,
+  "vision": null,
+  "expect": 10,
+  "short": 9
+ },
+ {
+  "page": 595,
+  "year": "2014",
+  "have": 2,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 596,
+  "year": "2014",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 597,
+  "year": "2014",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 598,
+  "year": "2014",
+  "have": 4,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 599,
+  "year": "2014",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 600,
+  "year": "2014",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 601,
+  "year": "2014",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 602,
+  "year": "2014",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 603,
+  "year": "2014",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 604,
+  "year": "2014",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 605,
+  "year": "2014",
+  "have": 1,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 606,
+  "year": "2014",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 607,
+  "year": "2014",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 608,
+  "year": "2014",
+  "have": 2,
+  "regex": 3,
+  "parser": 0,
+  "vision": null,
+  "expect": 3,
+  "short": 1
+ },
+ {
+  "page": 609,
+  "year": "2014",
+  "have": 0,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 1
+ },
+ {
+  "page": 610,
+  "year": "2014",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 611,
+  "year": "2014",
+  "have": 3,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 612,
+  "year": "2014",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 613,
+  "year": "2014",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 614,
+  "year": "2014",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 615,
+  "year": "2014",
+  "have": 1,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 1
+ },
+ {
+  "page": 616,
+  "year": "2014",
+  "have": 2,
+  "regex": 2,
+  "parser": 0,
+  "vision": null,
+  "expect": 2,
+  "short": 0
+ },
+ {
+  "page": 617,
+  "year": "2014",
+  "have": 3,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 1
+ },
+ {
+  "page": 618,
+  "year": "2014",
+  "have": 3,
+  "regex": 5,
+  "parser": 0,
+  "vision": null,
+  "expect": 5,
+  "short": 2
+ },
+ {
+  "page": 619,
+  "year": "2014",
+  "have": 2,
+  "regex": 5,
+  "parser": 0,
+  "vision": null,
+  "expect": 5,
+  "short": 3
+ },
+ {
+  "page": 620,
+  "year": "2014",
+  "have": 3,
+  "regex": 5,
+  "parser": 0,
+  "vision": null,
+  "expect": 5,
+  "short": 2
+ },
+ {
+  "page": 621,
+  "year": "2014",
+  "have": 1,
+  "regex": 4,
+  "parser": 0,
+  "vision": null,
+  "expect": 4,
+  "short": 3
+ },
+ {
+  "page": 622,
+  "year": "2014",
+  "have": 3,
+  "regex": 5,
+  "parser": 0,
+  "vision": null,
+  "expect": 5,
+  "short": 2
+ },
+ {
+  "page": 623,
+  "year": "2014",
+  "have": 1,
+  "regex": 12,
+  "parser": 0,
+  "vision": null,
+  "expect": 12,
+  "short": 11
+ },
+ {
+  "page": 624,
+  "year": "2014",
+  "have": 2,
+  "regex": 5,
+  "parser": 0,
+  "vision": null,
+  "expect": 5,
+  "short": 3
+ },
+ {
+  "page": 625,
+  "year": "2014",
+  "have": 1,
+  "regex": 5,
+  "parser": 0,
+  "vision": null,
+  "expect": 5,
+  "short": 4
+ },
+ {
+  "page": 626,
+  "year": "2014",
+  "have": 4,
+  "regex": 5,
+  "parser": 0,
+  "vision": null,
+  "expect": 5,
+  "short": 1
+ },
+ {
+  "page": 627,
+  "year": "2014",
+  "have": 5,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 628,
+  "year": "2014",
+  "have": 4,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 629,
+  "year": "2014",
+  "have": 4,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 630,
+  "year": "2014",
+  "have": 5,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 631,
+  "year": "2014",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 632,
+  "year": "2014",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 633,
+  "year": "2014",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 634,
+  "year": "2014",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 635,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 636,
+  "year": "2014",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 637,
+  "year": "2014",
+  "have": 3,
+  "regex": 1,
+  "parser": 0,
+  "vision": null,
+  "expect": 1,
+  "short": 0
+ },
+ {
+  "page": 638,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 639,
+  "year": "2014",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 640,
+  "year": "2014",
+  "have": 4,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 641,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 642,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 643,
+  "year": "2014",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 644,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 645,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 646,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 647,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 648,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 649,
+  "year": "2014",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 650,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 651,
+  "year": "2014",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 652,
+  "year": "2014",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 653,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 654,
+  "year": "2014",
+  "have": 3,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 655,
+  "year": "2014",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 656,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 657,
+  "year": "2014",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 658,
+  "year": "2014",
+  "have": 2,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 659,
+  "year": "2014",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 660,
+  "year": "2014",
+  "have": 1,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ },
+ {
+  "page": 661,
+  "year": "2014",
+  "have": 0,
+  "regex": 0,
+  "parser": 0,
+  "vision": null,
+  "expect": 0,
+  "short": 0
+ }
+]

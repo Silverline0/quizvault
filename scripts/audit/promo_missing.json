@@ -1,0 +1,559 @@
+[
+ {
+  "year": "2025",
+  "pdfPage": 4,
+  "printedNumber": 7,
+  "question": "A patient with atrial ﬁbrillation using Amiodaron and a picture of corneal verticillata provided. What will you do?",
+  "options": {
+   "A": "Keep the medication"
+  },
+  "correctAnswer": "A",
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2025",
+  "pdfPage": 6,
+  "printedNumber": 12,
+  "question": "Elderly who is dark skinned pt brought by his daughter with a complaint of progressive darkening of his eyes. You note a pigment collection perilimbal and interpalpebral conjunctiva. What is the management?",
+  "options": {
+   "A": "Observe"
+  },
+  "correctAnswer": "A",
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2025",
+  "pdfPage": 9,
+  "printedNumber": 19,
+  "question": "Case describing a marginal keratitis (from 4 to 8o’clock). What will you look for in exam?",
+  "options": {
+   "A": "Blepharitis"
+  },
+  "correctAnswer": "A",
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2025",
+  "pdfPage": 9,
+  "printedNumber": 20,
+  "question": "PKP patient with quiet eye and grey-white branching opacity in a needle-like fashion. What is the organism?",
+  "options": {
+   "A": "Strep viridians"
+  },
+  "correctAnswer": "A",
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2025",
+  "pdfPage": 13,
+  "printedNumber": 32,
+  "question": "A case of patient with uncontrolled AF. He presented with sudden visual loss OU. One eye has LP vision and the other to have HM.  What is expected on examination?",
+  "options": {
+   "A": "retinal whitening"
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2025",
+  "pdfPage": 23,
+  "printedNumber": 58,
+  "question": "Case of uveitis with CT scan report showing bilateral hilar lymphadenopathy. Diagnosis?",
+  "options": {
+   "A": "sarcoidosis"
+  },
+  "correctAnswer": "A",
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2025",
+  "pdfPage": 27,
+  "printedNumber": 69,
+  "question": "A case of GCA with vision loss in one eye. He is not interested on being started on steroids. What to tell the patient to convince him to take the treatment?",
+  "options": {
+   "A": "It will prevent vision loss in the good eye"
+  },
+  "correctAnswer": "A",
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2025",
+  "pdfPage": 30,
+  "printedNumber": 78,
+  "question": "A mother brought her 8-month-old child due to reddish swelling in the right upper eye lid that is increasing to the point where he cannot open his eyes completely. What is the management:",
+  "options": {
+   "A": "Propranolol"
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2024",
+  "pdfPage": 49,
+  "printedNumber": 18,
+  "question": "A picture of PUK (?mooren ulcer) asking about how the disease will progress? A At the limbus B To the center C Centrifugally all directions",
+  "options": {},
+  "correctAnswer": "B",
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2024",
+  "pdfPage": 49,
+  "printedNumber": 19,
+  "question": "What is the most common site for scleral rupture following trauma? A At the limbus B At the equator C Radially along the muscle insertion (Exact wording)",
+  "options": {},
+  "correctAnswer": "A",
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2024",
+  "pdfPage": 56,
+  "printedNumber": 40,
+  "question": "",
+  "options": {},
+  "correctAnswer": "C",
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2024",
+  "pdfPage": 61,
+  "printedNumber": 50,
+  "question": "Same scenario and picture, but it was mentioned that the patient’s complaint is unilateral:",
+  "options": {},
+  "correctAnswer": "C",
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2024",
+  "pdfPage": 69,
+  "printedNumber": 74,
+  "question": "Obese, difficulty sleeping with conj irritation in the morning?",
+  "options": {
+   "A": "Floppy eyelid syndrome"
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2024",
+  "pdfPage": 76,
+  "printedNumber": 89,
+  "question": "Scenario post cataract sx diplopia one eye hyperope other myope:",
+  "options": {
+   "A": "Slab off prism"
+  },
+  "correctAnswer": "A",
+  "contestedAnswer": null,
+  "subspecialty": "Optics",
+  "answerable": false
+ },
+ {
+  "year": "2024",
+  "pdfPage": 84,
+  "printedNumber": 100,
+  "question": "A question about a patient with active PDR and asking about the PRP laser settings: Answer: 200μ to 500μ in size, pulse durations of 100 milliseconds, 200-250 mW power in a scatter fashion over peripheral retina. PRP Lasertype argongreen 514nm Power 200 250 MW Duration tooms oil see Spotsize 200 5o M microns lenstype cQuadresphericspraquad Mainster 165 Goodo burnsthataregreyin color",
+  "options": {},
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2023",
+  "pdfPage": 96,
+  "printedNumber": 32,
+  "question": "Male with blurred vision after exercising, IOP normal with iris atrophy (Same picture):",
+  "options": {
+   "A": "Pigment dispersion syndrome"
+  },
+  "correctAnswer": "A",
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2023",
+  "pdfPage": 100,
+  "printedNumber": 46,
+  "question": "Macular edema OCT picture in a patient post-cataract surgery, what is the mechanism?",
+  "options": {
+   "A": "Inflammation"
+  },
+  "correctAnswer": "A",
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2023",
+  "pdfPage": 102,
+  "printedNumber": 51,
+  "question": "",
+  "options": {},
+  "correctAnswer": null,
+  "contestedAnswer": [
+   "C",
+   "B"
+  ],
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2023",
+  "pdfPage": 103,
+  "printedNumber": 53,
+  "question": "VKH (it mentioned signs of VKH like Bilateral granulomatous uveitis), then asked what you will see in the FFA:",
+  "options": {
+   "A": "Multiple Pinpoint leakage sub retinal"
+  },
+  "correctAnswer": "A",
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2022",
+  "pdfPage": 124,
+  "printedNumber": 6,
+  "question": "OCP pic:",
+  "options": {
+   "A": "Type II hypersensitivity reaction"
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2022",
+  "pdfPage": 152,
+  "printedNumber": 15,
+  "question": "Scenario post cataract sx diplopia one eye hyperope other myope:",
+  "options": {
+   "A": "Slab off prism"
+  },
+  "correctAnswer": "A",
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2022",
+  "pdfPage": 152,
+  "printedNumber": 16,
+  "question": "Mutton fat kps type of cells",
+  "options": {
+   "A": "Epitheloid cells"
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2022",
+  "pdfPage": 152,
+  "printedNumber": 17,
+  "question": "Rose Bengal stain",
+  "options": {
+   "A": "Devitalized epithelium"
+  },
+  "correctAnswer": "A",
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2022",
+  "pdfPage": 152,
+  "printedNumber": 1,
+  "question": "OIS",
+  "options": {
+   "A": "carotid doppler"
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2022",
+  "pdfPage": 155,
+  "printedNumber": 11,
+  "question": "RD + with high IOP (not responding to antiglaucoma):",
+  "options": {
+   "A": "Shwartz"
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2022",
+  "pdfPage": 156,
+  "printedNumber": 13,
+  "question": "Macular edema pic post-cataract surgery, what is the mechanism?",
+  "options": {
+   "A": "Inflammation.",
+   "B": "BRVO",
+   "C": "PDR"
+  },
+  "correctAnswer": "A",
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": true
+ },
+ {
+  "year": "2022",
+  "pdfPage": 176,
+  "printedNumber": 2,
+  "question": "Nigeria case with low CD-4 count ( CMV management):",
+  "options": {
+   "A": "IV ganciclovir .."
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2022",
+  "pdfPage": 177,
+  "printedNumber": 3,
+  "question": "Juvenile arthritis, most likely to develop Uveitis?",
+  "options": {
+   "A": "Pauciarticular with positive ANA."
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2022",
+  "pdfPage": 177,
+  "printedNumber": 4,
+  "question": "Neuroretinitis in child:",
+  "options": {
+   "A": "cat at home"
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2022",
+  "pdfPage": 177,
+  "printedNumber": 5,
+  "question": "50/o uveitis + oral ulcer:",
+  "options": {
+   "A": "HLA-B51"
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2022",
+  "pdfPage": 177,
+  "printedNumber": 6,
+  "question": "Hypopyon with snowballs + oral painful ulcer",
+  "options": {
+   "A": "HLA-A29",
+   "B": "HLA-B27",
+   "C": "HLA-DR3"
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2022",
+  "pdfPage": 177,
+  "printedNumber": 7,
+  "question": "ERD with bilateral granulomatous uveitis",
+  "options": {
+   "A": "Pinpoint leakage on FFA"
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2022",
+  "pdfPage": 193,
+  "printedNumber": 7,
+  "question": "Male with blurred vision, IOP normal with iris atrophy pic:",
+  "options": {
+   "A": "Pigment dispersion syndrome"
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2022",
+  "pdfPage": 212,
+  "printedNumber": 41,
+  "question": "Blunt trauma with hypotony suddenly pt has high iop",
+  "options": {
+   "A": "Closed cyclodialysis cleft."
+  },
+  "correctAnswer": "A",
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2022",
+  "pdfPage": 212,
+  "printedNumber": 1,
+  "question": "Post delivery neonate has retina hg OU otherwise normal?",
+  "options": {
+   "A": "Observe"
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2022",
+  "pdfPage": 213,
+  "printedNumber": 8,
+  "question": "Child with amblyopia, ET, and +3 astigmatism:",
+  "options": {
+   "A": "give full correction"
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2022",
+  "pdfPage": 213,
+  "printedNumber": 9,
+  "question": "Child with XT and mild hyperopia:",
+  "options": {
+   "A": "do not over-correct hyperopia"
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2022",
+  "pdfPage": 213,
+  "printedNumber": 10,
+  "question": "Patient with XT underwent BLR now has mild ET:",
+  "options": {
+   "A": "reassure and monitor"
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2021",
+  "pdfPage": 214,
+  "printedNumber": 11,
+  "question": "Diplopia when looking down and left, increases with fatigue:",
+  "options": {
+   "A": "SO palsy",
+   "B": "Base out OD, base out OS",
+   "C": "Base In OD, Base out OS",
+   "D": "Base out OD, base in OS"
+  },
+  "correctAnswer": "C",
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": true
+ },
+ {
+  "year": "2021",
+  "pdfPage": 214,
+  "printedNumber": 4,
+  "question": "Bassoot",
+  "options": {
+   "A": "ric"
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2022",
+  "pdfPage": 231,
+  "printedNumber": 4,
+  "question": "CCF after trauma:",
+  "options": {
+   "A": "internal carotid"
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2021",
+  "pdfPage": 232,
+  "printedNumber": 6,
+  "question": "TED pic showing lid retraction, which rectus muscle most likely involved:",
+  "options": {
+   "A": "Inferior"
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ },
+ {
+  "year": "2021",
+  "pdfPage": 232,
+  "printedNumber": 10,
+  "question": "Poor healing after bleph pic, what could’ve been done to improve result:",
+  "options": {
+   "A": "Tighter glycemic control"
+  },
+  "correctAnswer": null,
+  "contestedAnswer": null,
+  "subspecialty": null,
+  "answerable": false
+ }
+]

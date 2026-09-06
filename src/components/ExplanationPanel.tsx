@@ -210,7 +210,8 @@ export default function ExplanationPanel({ question, wasCorrect, selectedAnswer,
         </div>
       )}
 
-      {/* The recall lost the option that held the right answer */}
+      {/* Nothing on offer is the answer -- either the recall lost the
+          option that held it, or the option is there but states it wrongly. */}
       {answerMissing && (
         <div
           className="mt-4 p-3 rounded-lg"
@@ -221,11 +222,17 @@ export default function ExplanationPanel({ question, wasCorrect, selectedAnswer,
               <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" />
               <line x1="12" y1="9" x2="12" y2="13" /><line x1="12" y1="17" x2="12.01" y2="17" />
             </svg>
-            <span className="text-xs font-bold">This recall looks incomplete</span>
+            <span className="text-xs font-bold">
+              {question.source.startsWith("promotion")
+                ? "This recall looks incomplete"
+                : "None of these options is right"}
+            </span>
           </div>
           <p className="text-sm leading-relaxed" style={{ color: "var(--text-secondary)" }}>
-            The reviewer&apos;s answer is <b>{review!.answer}</b>, which is not among the options above — so
-            the option holding the right answer was probably lost when the question was written down.
+            The reviewer&apos;s answer is <b>{review!.answer}</b>, which is not among the options
+            above{question.source.startsWith("promotion")
+              ? " — so the option holding the right answer was probably lost when the question was written down"
+              : " — so no choice on offer is right, whether because one was lost or because the option that should hold the answer states it wrongly"}.
             It cannot be answered correctly as it stands.
           </p>
         </div>

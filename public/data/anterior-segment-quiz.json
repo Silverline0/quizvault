@@ -334,7 +334,16 @@
   "correctAnswer": "C",
   "explanation": "The iris stroma is derived from neural crest cells (mesenchyme), while the iris pigment epithelium is derived from neuroectoderm (optic cup). The dilator and sphincter muscles also arise from neuroectoderm. Dual origin: neural crest + neuroectoderm. (AAO BCSC Section 2; EyeWiki: Iris Anatomy)",
   "subspecialty": "Anterior Segment",
-  "sourceNote": "Comment: Correct answer should be neural crest + neuroectoderm I chose C because it is the “least wrong”."
+  "sourceNote": "Comment: Correct answer should be neural crest + neuroectoderm I chose C because it is the “least wrong”.",
+  "review": {
+   "answer": "neural crest + neuroectoderm",
+   "agrees": false,
+   "answerMissing": true,
+   "confidence": "high",
+   "explanation": "No option is correct as written. The iris stroma derives from neural crest mesenchyme, while the iris pigment epithelium and both the sphincter and dilator muscles derive from neuroectoderm of the optic cup. Surface ectoderm contributes the lens and the corneal epithelium and nothing to the iris, so the marked option C pairs a right component with a wrong one.",
+   "concern": "The author reached the same conclusion and kept C anyway as the least wrong of the four on offer, so this is a defect in the options rather than a dispute about the embryology."
+  },
+  "reviewedBy": "Fable 5.1, independent pass"
  },
  {
   "id": 25,
@@ -463,7 +472,15 @@
   "correctAnswer": "A",
   "explanation": "Treatments for residual hyperopia after PRK include retreatment with hyperopic PRK, topical NSAIDs, and topical steroids (modulate epithelial hyperplasia/regression). Tight (flat-fitting) contact lenses are used to flatten steep corneas in myopia/keratoconus — NOT to correct post-ablation hyperopia. (AAO Refractive PPP; EyeWiki: PRK Complications)",
   "subspecialty": "Anterior Segment",
-  "sourceNote": "Comment: did not find valid source, hyperopic ortho-K is a RGP CL and can be tight so I am not sure, but for NSAIDs, a meta- analysis concluded that systemic NSAIDs and opioid medications, topical NSAIDS, cold patches, bandage contact lenses, and topical anesthetics provided improved pain control over other treatments. https://eyewiki.org/Pain_Reduction_After_Photoablation"
+  "sourceNote": "Comment: did not find valid source, hyperopic ortho-K is a RGP CL and can be tight so I am not sure, but for NSAIDs, a meta- analysis concluded that systemic NSAIDs and opioid medications, topical NSAIDS, cold patches, bandage contact lenses, and topical anesthetics provided improved pain control over other treatments. https://eyewiki.org/Pain_Reduction_After_Photoablation",
+  "review": {
+   "answer": "D",
+   "agrees": false,
+   "confidence": "high",
+   "explanation": "Topical corticosteroids are the exception, not tight contact lenses. For hyperopic overcorrection after PRK the steroid is what maintains the hyperopia by suppressing regression, so management is to taper it off rather than to give it. Tight-fitting soft lenses steepen the cornea toward a myopic shift, topical NSAIDs encourage regression, and hyperopic PRK retreatment is the surgical option -- all three are treatments, which leaves D as the one that is not.",
+   "concern": "The explanation calls a tight lens flat-fitting and says it flattens the cornea, which is the wrong way round: a tight lens steepens it."
+  },
+  "reviewedBy": "Fable 5.1, independent pass"
  },
  {
   "id": 34,
@@ -478,7 +495,15 @@
   },
   "correctAnswer": "E",
   "explanation": "Amikacin is an aminoglycoside used for Gram-negative organisms (Pseudomonas, Nocardia). Propionibacterium acnes (Cutibacterium acnes) is a Gram-positive anaerobe treated with penicillin, vancomycin, or clindamycin — NOT amikacin. Syphilis-penicillin is correctly matched. (AAO PPP Bacterial Keratitis; EyeWiki: Infectious Keratitis)",
-  "subspecialty": "Anterior Segment"
+  "subspecialty": "Anterior Segment",
+  "review": {
+   "answer": "B",
+   "agrees": false,
+   "confidence": "medium",
+   "explanation": "Two of the pairs are mismatched rather than one. Amikacin against Propionibacterium acnes is wrong, as an aminoglycoside has no useful activity against that anaerobe. But Pseudomonas aeruginosa is also intrinsically resistant to chloramphenicol, so option B is mismatched on the same reading and the question has two defensible answers.",
+   "concern": "The marked answer E is defensible; the problem is that B is equally so, and the explanation never addresses it."
+  },
+  "reviewedBy": "Fable 5.1, independent pass"
  },
  {
   "id": 35,
