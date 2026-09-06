@@ -1,0 +1,638 @@
+[
+ {
+  "id": 1,
+  "source": "anterior-segment-quiz",
+  "question": "The primary source of oxygen for the cornea when the eye is open is:",
+  "options": {
+   "A": "Tear film and atmosphere",
+   "B": "Aqueous humor",
+   "C": "Limbal vessels",
+   "D": "Conjunctival vessels"
+  },
+  "correctAnswer": "A",
+  "explanation": "When the eye is open, the cornea receives ~80% of its oxygen directly from atmospheric oxygen dissolved in the precorneal tear film. The aqueous humor contributes oxygen when the eye is closed. (AAO BCSC Section 8; EyeWiki: Corneal Physiology)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 2,
+  "source": "anterior-segment-quiz",
+  "question": "A 24-year-old man presents with progressive myopia and increasing irregular astigmatism. Scheimpflug tomography demonstrates inferior corneal steepening and posterior elevation abnormalities. What is the most appropriate management?",
+  "options": {
+   "A": "Penetrating keratoplasty",
+   "B": "Deep anterior lamellar keratoplasty",
+   "C": "Photorefractive keratectomy",
+   "D": "Corneal collagen cross-linking"
+  },
+  "correctAnswer": "D",
+  "explanation": "Corneal collagen cross-linking (CXL) is the standard of care for progressive keratoconus. It halts progression by stiffening the corneal stroma via riboflavin/UV-A-induced collagen cross-links. Surgical options (PKP, DALK) are reserved for advanced cases or those failing CXL. (AAO PPP Refractive Management; EyeWiki: Keratoconus)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 3,
+  "source": "anterior-segment-quiz",
+  "question": "Which corneal layer has the greatest regenerative capacity?",
+  "options": {
+   "A": "Endothelium",
+   "B": "Bowman layer",
+   "C": "Epithelium",
+   "D": "Stroma"
+  },
+  "correctAnswer": "C",
+  "explanation": "The corneal epithelium has the highest regenerative capacity, supplied by limbal stem cells with full turnover every 7–10 days. Endothelium has very limited regeneration; Bowman layer does not regenerate; stroma regenerates slowly. (AAO BCSC Section 8; EyeWiki: Corneal Epithelium)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 4,
+  "source": "anterior-segment-quiz",
+  "question": "Which collagen type predominates within the corneal stroma?",
+  "options": {
+   "A": "Type IV collagen",
+   "B": "Type VII collagen",
+   "C": "Type II collagen",
+   "D": "Type I collagen"
+  },
+  "correctAnswer": "D",
+  "explanation": "Type I collagen is the predominant collagen in the corneal stroma (~75% dry weight), arranged in highly organized lamellae. Type IV is in basement membranes; Type V regulates fibril diameter. (AAO BCSC Section 8; EyeWiki: Cornea Anatomy)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 5,
+  "source": "anterior-segment-quiz",
+  "question": "In keratoconus, the earliest topographic sign is often:",
+  "options": {
+   "A": "Inferior steepening",
+   "B": "Superior thinning",
+   "C": "Diffuse edema",
+   "D": "Central flattening"
+  },
+  "correctAnswer": "A",
+  "explanation": "The earliest topographic sign in keratoconus is inferior corneal steepening, reflecting the typical inferior-paracentral cone location. This appears as warmer colors inferiorly on curvature maps before other changes are detectable. (AAO PPP; EyeWiki: Keratoconus)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 6,
+  "source": "anterior-segment-quiz",
+  "question": "Fleischer ring consists of:",
+  "options": {
+   "A": "Calcium deposition",
+   "B": "Iron deposition",
+   "C": "Copper deposition",
+   "D": "Lipid deposition"
+  },
+  "correctAnswer": "B",
+  "explanation": "The Fleischer ring is a yellowish-brown ring at the base of the keratoconus cone caused by iron (hemosiderin/ferritin) deposition in basal epithelial cells. Best seen with cobalt blue filter. (AAO BCSC Section 8; EyeWiki: Keratoconus)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 7,
+  "source": "anterior-segment-quiz",
+  "question": "Acute corneal hydrops results from:",
+  "options": {
+   "A": "Limbal stem cell failure",
+   "B": "Epithelial erosion",
+   "C": "Rupture of Descemet membrane",
+   "D": "Endothelial dystrophy"
+  },
+  "correctAnswer": "C",
+  "explanation": "Acute hydrops in keratoconus results from rupture of Descemet membrane, allowing aqueous to enter the stroma causing sudden edema and opacification. This is a sight-threatening complication. (AAO BCSC Section 8; EyeWiki: Keratoconus — Acute Hydrops)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 8,
+  "source": "anterior-segment-quiz",
+  "question": "A patient develops severe pain disproportionate to clinical findings while wearing contact lenses. Slit-lamp examination reveals perineural infiltrates.",
+  "options": {
+   "A": "Herpes simplex keratitis",
+   "B": "Acanthamoeba keratitis",
+   "C": "Marginal keratitis",
+   "D": "Fungal keratitis"
+  },
+  "correctAnswer": "B",
+  "explanation": "Classic triad of Acanthamoeba keratitis: contact lens use, severe pain disproportionate to findings (perineural invasion), and ring/perineural infiltrates. HSV causes dendritic lesions; fungal has feathery infiltrates. (AAO PPP Bacterial Keratitis; EyeWiki: Acanthamoeba Keratitis)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 9,
+  "source": "anterior-segment-quiz",
+  "question": "Corneal hysteresis primarily reflects:",
+  "options": {
+   "A": "Endothelial function",
+   "B": "Corneal curvature",
+   "C": "Corneal biomechanical properties",
+   "D": "Corneal thickness"
+  },
+  "correctAnswer": "C",
+  "explanation": "Corneal hysteresis (CH), measured by the Ocular Response Analyzer, reflects the viscoelastic (biomechanical) properties of the cornea — its ability to absorb and dissipate energy. Reduced CH is associated with keratoconus and glaucoma susceptibility. (AAO BCSC; EyeWiki: Corneal Biomechanics)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 10,
+  "source": "anterior-segment-quiz",
+  "question": "The most sensitive parameter for detecting ectasia risk is:",
+  "options": {
+   "A": "Refraction alone",
+   "B": "Posterior corneal elevation and tomography",
+   "C": "Maximum keratometry alone",
+   "D": "Central corneal thickness alone"
+  },
+  "correctAnswer": "B",
+  "explanation": "Posterior corneal elevation by Scheimpflug tomography is the most sensitive early indicator of ectasia risk. Posterior changes precede anterior topographic and pachymetric changes. (AAO Refractive Management PPP; EyeWiki: Corneal Ectasia after Refractive Surgery)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 11,
+  "source": "anterior-segment-quiz",
+  "question": "Which corneal transplantation procedure preserves Descemet membrane and the corneal endothelium?",
+  "options": {
+   "A": "Penetrating keratoplasty",
+   "B": "Descemet stripping automated endothelial keratoplasty",
+   "C": "Deep anterior lamellar keratoplasty",
+   "D": "Descemet membrane endothelial keratoplasty"
+  },
+  "correctAnswer": "C",
+  "explanation": "DALK replaces anterior stroma while preserving the recipient's Descemet membrane and endothelium. DSAEK and DMEK replace the endothelium. PKP replaces all layers. DALK is preferred for stromal disease with healthy endothelium. (AAO BCSC Section 8; EyeWiki: DALK)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 12,
+  "source": "anterior-segment-quiz",
+  "question": "Which infectious keratitis classically presents with a ring infiltrate?",
+  "options": {
+   "A": "Herpes simplex keratitis",
+   "B": "Staphylococcal keratitis",
+   "C": "Moraxella keratitis",
+   "D": "Acanthamoeba keratitis"
+  },
+  "correctAnswer": "D",
+  "explanation": "Acanthamoeba keratitis classically produces a ring-shaped (annular) stromal infiltrate as a pathognomonic late sign — cysts accumulate in a ring pattern in the mid-stroma. HSV causes dendritic/geographic lesions. (AAO PPP; EyeWiki: Acanthamoeba Keratitis)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 13,
+  "source": "anterior-segment-quiz",
+  "question": "Which layer contributes most to corneal tensile strength?",
+  "options": {
+   "A": "Bowman layer",
+   "B": "Epithelium",
+   "C": "Endothelium",
+   "D": "Stroma"
+  },
+  "correctAnswer": "D",
+  "explanation": "The stroma (~90% of corneal thickness) provides the vast majority of tensile strength through orthogonally arranged Type I collagen lamellae. Bowman contributes rigidity but is much thinner; epithelium and endothelium contribute minimally. (AAO BCSC Section 8; EyeWiki: Cornea Anatomy)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 14,
+  "source": "anterior-segment-quiz",
+  "question": "The embryologic origin of the crystalline lens is:",
+  "options": {
+   "A": "Surface ectoderm",
+   "B": "Mesoderm",
+   "C": "Neural crest",
+   "D": "Neuroectoderm"
+  },
+  "correctAnswer": "A",
+  "explanation": "The crystalline lens originates from surface ectoderm. The optic vesicle induces overlying surface ectoderm to thicken into the lens placode, which invaginates to form the lens vesicle. Neural crest contributes to corneal stroma/endothelium, not the lens. (AAO BCSC Section 11; EyeWiki: Lens Embryology)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 15,
+  "source": "anterior-segment-quiz",
+  "question": "A patient with posterior subcapsular cataract typically complains most of:",
+  "options": {
+   "A": "Peripheral visual field loss",
+   "B": "Reduced near vision only",
+   "C": "Glare and difficulty in bright light",
+   "D": "Night blindness only"
+  },
+  "correctAnswer": "C",
+  "explanation": "PSC is located at the nodal point of the lens, causing disproportionate glare and reduced vision in bright light (pupil constriction concentrates light through the opacity). Nuclear cataracts cause myopic shift; PSC also reduces near vision significantly. (AAO BCSC Section 11; EyeWiki: Posterior Subcapsular Cataract)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 16,
+  "source": "anterior-segment-quiz",
+  "question": "The most common cause of posterior capsular rupture during phacoemulsification is:",
+  "options": {
+   "A": "Excessive hydrodissection pressure",
+   "B": "Wound leak",
+   "C": "Corneal edema",
+   "D": "Incorrect intraocular lens power"
+  },
+  "correctAnswer": "A",
+  "explanation": "Excessive hydrodissection pressure (capsular block syndrome) is the most common cause of posterior capsular rupture during phacoemulsification — fluid builds up behind the nucleus causing sudden posterior capsule blowout. (AAO BCSC Section 11; EyeWiki: Posterior Capsular Rupture)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 17,
+  "source": "anterior-segment-quiz",
+  "question": "Which cataract type is most strongly associated with chronic corticosteroid use?",
+  "options": {
+   "A": "Coronary cataract",
+   "B": "Cerulean cataract",
+   "C": "Posterior subcapsular cataract",
+   "D": "Nuclear sclerosis cataract"
+  },
+  "correctAnswer": "C",
+  "explanation": "Chronic corticosteroid use (systemic or topical) is most strongly associated with posterior subcapsular cataract (PSC). Nuclear sclerosis is age-related; cerulean cataracts are genetic. (AAO BCSC Section 11; EyeWiki: Posterior Subcapsular Cataract)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 18,
+  "source": "anterior-segment-quiz",
+  "question": "The lens capsule is composed primarily of:",
+  "options": {
+   "A": "Type II collagen",
+   "B": "Basement membrane collagen type IV",
+   "C": "Elastin",
+   "D": "Type I collagen"
+  },
+  "correctAnswer": "B",
+  "explanation": "The lens capsule is the thickest basement membrane in the body, composed predominantly of Type IV collagen along with laminin, fibronectin, and heparan sulfate proteoglycans. NOT Type I or Type II collagen. (AAO BCSC Section 11; EyeWiki: Crystalline Lens Anatomy)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 19,
+  "source": "anterior-segment-quiz",
+  "question": "The most common postoperative complication after cataract surgery is:",
+  "options": {
+   "A": "Posterior capsular opacification",
+   "B": "Endophthalmitis",
+   "C": "Retinal detachment",
+   "D": "Suprachoroidal hemorrhage"
+  },
+  "correctAnswer": "A",
+  "explanation": "Posterior capsular opacification (PCO/secondary cataract) is the most common complication after cataract surgery, occurring in up to 20–50% within 5 years. Residual lens epithelial cells proliferate on the posterior capsule. Treated with Nd:YAG capsulotomy. (AAO PPP Cataract; EyeWiki: Posterior Capsule Opacification)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 20,
+  "source": "anterior-segment-quiz",
+  "question": "A hypermature cataract may lead to:",
+  "options": {
+   "A": "Iridodialysis",
+   "B": "Keratoconus",
+   "C": "Pigment dispersion syndrome",
+   "D": "Phacolytic glaucoma"
+  },
+  "correctAnswer": "D",
+  "explanation": "A hypermature cataract leaks liquefied cortical protein through an intact capsule. These high-molecular-weight proteins obstruct the trabecular meshwork causing phacolytic open-angle glaucoma. Phacomorphic glaucoma results from lens swelling (not hypermature). (AAO BCSC Section 10; EyeWiki: Phacolytic Glaucoma)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 21,
+  "source": "anterior-segment-quiz",
+  "question": "Which intraocular lens characteristic is associated with lower rates of posterior capsular opacification?",
+  "options": {
+   "A": "Square-edge optic design",
+   "B": "Hydrophilic material only",
+   "C": "Round-edge design",
+   "D": "Large haptics only"
+  },
+  "correctAnswer": "A",
+  "explanation": "The square (sharp) posterior optic edge creates a physical barrier preventing lens epithelial cell migration onto the posterior capsule, reducing PCO rates. Round-edge designs allow cell migration. This has been consistently demonstrated in randomized trials. (AAO BCSC Section 11; EyeWiki: Posterior Capsule Opacification)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 22,
+  "source": "anterior-segment-quiz",
+  "question": "Effective lens position is most important in:",
+  "options": {
+   "A": "Gonioscopy",
+   "B": "Corneal transplantation",
+   "C": "Endothelial cell count",
+   "D": "Accuracy of intraocular lens power calculation"
+  },
+  "correctAnswer": "D",
+  "explanation": "Effective lens position (ELP) — the predicted postoperative IOL position — is a critical variable in IOL power calculation formulas (SRK/T, Holladay, Haigis). Errors in ELP prediction are a major source of postoperative refractive surprise. (AAO BCSC Section 3; EyeWiki: IOL Power Calculation)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 23,
+  "source": "anterior-segment-quiz",
+  "question": "A patient with pseudoexfoliation syndrome undergoes cataract surgery. Which intraoperative complication is most likely?",
+  "options": {
+   "A": "Retinal detachment",
+   "B": "Zonular dialysis",
+   "C": "Suprachoroidal hemorrhage",
+   "D": "Descemet membrane detachment"
+  },
+  "correctAnswer": "B",
+  "explanation": "Pseudoexfoliation syndrome weakens zonular fibers through fibrillar material deposition, predisposing to zonular dialysis during phacoemulsification. Special precautions include capsular tension rings and gentle hydrodissection. (AAO BCSC Section 11; EyeWiki: Pseudoexfoliation Syndrome)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 24,
+  "source": "anterior-segment-quiz",
+  "question": "The iris is derived primarily from:",
+  "options": {
+   "A": "Endoderm only",
+   "B": "Mesoderm only",
+   "C": "Surface ectoderm and neural crest cells",
+   "D": "Surface ectoderm only"
+  },
+  "correctAnswer": "C",
+  "explanation": "The iris stroma is derived from neural crest cells (mesenchyme), while the iris pigment epithelium is derived from neuroectoderm (optic cup). The dilator and sphincter muscles also arise from neuroectoderm. Dual origin: neural crest + neuroectoderm. (AAO BCSC Section 2; EyeWiki: Iris Anatomy)",
+  "subspecialty": "Anterior Segment",
+  "sourceNote": "Comment: Correct answer should be neural crest + neuroectoderm I chose C because it is the “least wrong”."
+ },
+ {
+  "id": 25,
+  "source": "anterior-segment-quiz",
+  "question": "Which structure forms the majority of the blood-aqueous barrier?",
+  "options": {
+   "A": "Schlemm canal",
+   "B": "Corneal epithelium",
+   "C": "Lens capsule",
+   "D": "Non-pigmented ciliary epithelium and iris vessels"
+  },
+  "correctAnswer": "D",
+  "explanation": "The blood-aqueous barrier consists of: (1) tight junctions between non-pigmented ciliary epithelial cells and (2) tight junctions of iris vascular endothelium. Together these form the majority of the barrier. (AAO BCSC Section 2; EyeWiki: Blood-Aqueous Barrier)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 26,
+  "source": "anterior-segment-quiz",
+  "question": "Posterior synechiae refer to adhesion between:",
+  "options": {
+   "A": "Iris and lens capsule",
+   "B": "Cornea and lens",
+   "C": "Iris and trabecular meshwork",
+   "D": "Iris and cornea"
+  },
+  "correctAnswer": "A",
+  "explanation": "Posterior synechiae are adhesions between the posterior iris surface and the anterior lens capsule (or anterior vitreous in aphakic eyes), forming due to uveitis/inflammation. They can cause iris bombé and secondary angle closure. (AAO BCSC Section 9; EyeWiki: Posterior Synechiae)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 27,
+  "source": "anterior-segment-quiz",
+  "question": "The most common cause of iris transillumination defects is:",
+  "options": {
+   "A": "Trauma",
+   "B": "Pigment dispersion syndrome",
+   "C": "Albinism",
+   "D": "Iridocorneal endothelial syndrome"
+  },
+  "correctAnswer": "B",
+  "explanation": "Pigment dispersion syndrome (PDS) is the most common cause of iris transillumination defects. Backward bowing of the iris causes rubbing against lens zonules, releasing pigment. Defects are characteristically mid-peripheral and spoke-like. (AAO BCSC Section 10; EyeWiki: Pigment Dispersion Syndrome)",
+  "subspecialty": "Anterior Segment",
+  "sourceNote": "Most likely the answer is B, though it depends on how you understands the question."
+ },
+ {
+  "id": 28,
+  "source": "anterior-segment-quiz",
+  "question": "Iridodonesis is most commonly seen in:",
+  "options": {
+   "A": "Aphakia or lens subluxation",
+   "B": "Corneal edema",
+   "C": "Keratoconus",
+   "D": "Posterior vitreous detachment"
+  },
+  "correctAnswer": "A",
+  "explanation": "Iridodonesis (iris trembling with eye movement) occurs due to loss of lens support. Most classically seen in aphakia and lens subluxation/dislocation (Marfan syndrome, pseudoexfoliation, trauma). (AAO BCSC Section 11; EyeWiki: Iridodonesis)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 29,
+  "source": "anterior-segment-quiz",
+  "question": "A peaked iris following ocular surgery should raise suspicion for:",
+  "options": {
+   "A": "Cataract progression",
+   "B": "Corneal dystrophy",
+   "C": "Wound leak with iris incarceration",
+   "D": "Posterior synechiae"
+  },
+  "correctAnswer": "C",
+  "explanation": "A peaked (tent-shaped, distorted) iris after ocular surgery is a classic sign of iris incarceration in the surgical wound. Aqueous leakage creates a gradient drawing iris tissue into the wound — requires urgent evaluation and repair. (AAO BCSC Section 8; EyeWiki: Wound Complications After Cataract Surgery)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 30,
+  "source": "anterior-segment-quiz",
+  "question": "25 y.o keratoconus patient underwent PKP 3 months ago. Presented with a loose pointed segment of continuous suture; had additional 8 interrupted sutures all intact. What is the best treatment plan?",
+  "options": {
+   "A": "Consult cornea team to schedule for possible re-suturing",
+   "B": "Keep on topical antibiotic until strong healing scar formation",
+   "C": "Remove the pointed suture segment and keep on topical steroid and antibiotic",
+   "D": "Remove the whole continuous sutures and keep interrupted once"
+  },
+  "correctAnswer": "C",
+  "explanation": "A loose/broken continuous suture segment post-PKP should be selectively removed to prevent infectious keratitis, vascularization, and epithelial ingrowth. The 8 intact interrupted sutures maintain wound integrity at 3 months. Topical antibiotic prevents infection; topical steroid prevents rejection. Removing all continuous sutures is unnecessary. (AAO BCSC Section 8; EyeWiki: Penetrating Keratoplasty)",
+  "subspecialty": "Anterior Segment",
+  "sourceNote": "Both answers A and C could be correct and each one of them missing vital additional points. I’ll go with A as still 3 months and loose suture is always useless and risk for infection."
+ },
+ {
+  "id": 31,
+  "source": "anterior-segment-quiz",
+  "question": "A 25-year-old contact lens wearer presents with ring-shaped corneal infiltrate, severe ocular pain, photophobia, worsening despite topical antibiotics for one week. What is the next best step in management?",
+  "options": {
+   "A": "Increase frequency of antibiotics",
+   "B": "Start topical antifungal drops",
+   "C": "Initiate topical antivirals",
+   "D": "Perform corneal scraping and add anti-amoebic therapy"
+  },
+  "correctAnswer": "D",
+  "explanation": "Ring-shaped corneal infiltrate in a contact lens wearer unresponsive to antibiotics is Acanthamoeba keratitis until proven otherwise. Next step: corneal scraping for culture/confocal microscopy, and initiation of anti-amoebic therapy (PHMB + propamidine). Antibiotics, antivirals, and antifungals alone will not treat Acanthamoeba. (AAO PPP; EyeWiki: Acanthamoeba Keratitis)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 32,
+  "source": "anterior-segment-quiz",
+  "question": "Vortex keratopathy can be caused by all of the following EXCEPT:",
+  "options": {
+   "A": "Sumatriptan",
+   "B": "Amiodarone",
+   "C": "Indomethacin",
+   "D": "Chlorpromazine"
+  },
+  "correctAnswer": "A",
+  "explanation": "Vortex keratopathy (cornea verticillata) — whorl-like epithelial deposits — is caused by cationic amphiphilic drugs that accumulate in lysosomes: amiodarone, chlorpromazine, indomethacin, hydroxychloroquine, tamoxifen. Sumatriptan (a triptan) is NOT a recognized cause. (AAO BCSC Section 8; EyeWiki: Cornea Verticillata)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 33,
+  "source": "anterior-segment-quiz",
+  "question": "All of the following are treatments for hyperopia post surface ablation EXCEPT:",
+  "options": {
+   "A": "Tight contact lenses",
+   "B": "Retreatment with hyper PRK",
+   "C": "Topical NSAIDs",
+   "D": "Topical steroids"
+  },
+  "correctAnswer": "A",
+  "explanation": "Treatments for residual hyperopia after PRK include retreatment with hyperopic PRK, topical NSAIDs, and topical steroids (modulate epithelial hyperplasia/regression). Tight (flat-fitting) contact lenses are used to flatten steep corneas in myopia/keratoconus — NOT to correct post-ablation hyperopia. (AAO Refractive PPP; EyeWiki: PRK Complications)",
+  "subspecialty": "Anterior Segment",
+  "sourceNote": "Comment: did not find valid source, hyperopic ortho-K is a RGP CL and can be tight so I am not sure, but for NSAIDs, a meta- analysis concluded that systemic NSAIDs and opioid medications, topical NSAIDS, cold patches, bandage contact lenses, and topical anesthetics provided improved pain control over other treatments. https://eyewiki.org/Pain_Reduction_After_Photoablation"
+ },
+ {
+  "id": 34,
+  "source": "anterior-segment-quiz",
+  "question": "Which antibiotic-organism pair is mismatched?",
+  "options": {
+   "A": "Gonorrhea-erythromycin",
+   "B": "Pseudomonas-chloramphenicol",
+   "C": "C. Syphilis-penicillin",
+   "D": "Staph aureus-moxifloxacin",
+   "E": "Amikacin-propionibacterium acnes"
+  },
+  "correctAnswer": "E",
+  "explanation": "Amikacin is an aminoglycoside used for Gram-negative organisms (Pseudomonas, Nocardia). Propionibacterium acnes (Cutibacterium acnes) is a Gram-positive anaerobe treated with penicillin, vancomycin, or clindamycin — NOT amikacin. Syphilis-penicillin is correctly matched. (AAO PPP Bacterial Keratitis; EyeWiki: Infectious Keratitis)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 35,
+  "source": "anterior-segment-quiz",
+  "question": "Which peripheral corneal thinning disorder requires no surgical treatment?",
+  "options": {
+   "A": "Moorens ulcer",
+   "B": "Terriens marginal degeneration",
+   "C": "Furrow marginal degeneration",
+   "D": "Peripheral ulcerative keratitis"
+  },
+  "correctAnswer": "C",
+  "explanation": "Furrow degeneration is a benign, age-related peripheral corneal thinning adjacent to arcus senilis in elderly patients. It is non-inflammatory, non-progressive, and requires no treatment. Mooren ulcer, Terrien (if perforated), and PUK may require surgery. (AAO BCSC Section 8; EyeWiki: Corneal Degenerations)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 36,
+  "source": "anterior-segment-quiz",
+  "question": "Stromal dystrophy that stains for Alcian blue, not Congo red:",
+  "options": {
+   "A": "Schnyder",
+   "B": "Lattice",
+   "C": "Granular",
+   "D": "Macular"
+  },
+  "correctAnswer": "D",
+  "explanation": "Macular corneal dystrophy deposits glycosaminoglycans (keratan sulfate), which stain with Alcian blue. Congo red stains amyloid (lattice dystrophy). Masson trichrome stains hyaline deposits (granular). Macular is the most severe, autosomal recessive (CHST6 mutation), involves full corneal thickness. (AAO BCSC Section 8; EyeWiki: Macular Corneal Dystrophy)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 37,
+  "source": "anterior-segment-quiz",
+  "question": "All of the following are true about atopic keratoconjunctivitis EXCEPT:",
+  "options": {
+   "A": "Cause more conjunctival scarring than vernal",
+   "B": "Airborne allergens are an important factor",
+   "C": "Rarely lasts more than 5-10 years",
+   "D": "Associated with anterior and posterior subcapsular cataract"
+  },
+  "correctAnswer": "C",
+  "explanation": "Atopic keratoconjunctivitis (AKC) is a CHRONIC, PERENNIAL, LIFELONG condition — it does NOT self-resolve in 5–10 years (unlike vernal KC which resolves after puberty). It causes more conjunctival scarring than VKC, is triggered by airborne allergens, and is associated with anterior and posterior subcapsular cataracts. (AAO BCSC Section 8; EyeWiki: Atopic Keratoconjunctivitis)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 38,
+  "source": "anterior-segment-quiz",
+  "question": "Which of the following drugs decreases tearing?",
+  "options": {
+   "A": "Pilocarpine",
+   "B": "Escerine",
+   "C": "Atropine",
+   "D": "Timolol"
+  },
+  "correctAnswer": "C",
+  "explanation": "Atropine (anticholinergic/antimuscarinic) blocks M3 muscarinic receptors on lacrimal gland acini, reducing tear secretion. Pilocarpine and eserine (cholinergic agents) stimulate tearing. Timolol reduces aqueous production but does not significantly decrease tearing. (AAO BCSC Section 2; EyeWiki: Dry Eye)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 39,
+  "source": "anterior-segment-quiz",
+  "question": "All the following are risk factors for epithelial ingrowth following LASIK EXCEPT:",
+  "options": {
+   "A": "Previous ingrowth in the other eye",
+   "B": "Hyperopic LASIK correction",
+   "C": "Flap instability",
+   "D": "Thick flap"
+  },
+  "correctAnswer": "D",
+  "explanation": "Risk factors for epithelial ingrowth after LASIK: thin flap, flap instability, previous ingrowth in either eye, hyperopic LASIK, re-treatment, epithelial trauma at flap edge. A THICK flap is actually PROTECTIVE — it is NOT a risk factor. (AAO Refractive PPP; EyeWiki: Epithelial Ingrowth after LASIK)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 40,
+  "source": "anterior-segment-quiz",
+  "question": "Which of the following statements regarding rosacea is wrong?",
+  "options": {
+   "A": "Rosacea is a chronic acneiform disorder that can affect both skin and eyes",
+   "B": "Ocular involvement can progress leading to chronic conjunctivitis, marginal corneal infiltrates, sterile",
+   "C": "The disorder is generally found in patients aged 30-60",
+   "D": "The female to male preponderance is 2:1"
+  },
+  "correctAnswer": "D",
+  "explanation": "The female-to-male 2:1 ratio applies to skin rosacea, but severe ocular rosacea may be more common or equally prevalent in men. The 2:1 female preponderance is NOT consistently supported specifically for ocular rosacea. The other statements are all correct. (AAO BCSC Section 8; EyeWiki: Ocular Rosacea)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 41,
+  "source": "anterior-segment-quiz",
+  "question": "Which of the following statements regarding chalazion is wrong?",
+  "options": {
+   "A": "Chalazion is a localized lipogranulomatous inflammation involving either the meibomian or Zeis glands",
+   "B": "The most effective treatment is topical antibiotic",
+   "C": "The lesion disappears in weeks to months when the contents drain either externally or internally",
+   "D": "A zonal granulomatous inflammation centered around lipid is seen histologically"
+  },
+  "correctAnswer": "B",
+  "explanation": "The most effective treatment for a persistent chalazion is incision and curettage (I&C), NOT topical antibiotics. Chalazion is a sterile lipogranulomatous inflammation (not infectious), so antibiotics have minimal effect. Warm compresses and lid massage are first-line; I&C is definitive. (AAO BCSC Section 7; EyeWiki: Chalazion)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 42,
+  "source": "anterior-segment-quiz",
+  "question": "All the following are true regarding vitamin A deficiency EXCEPT:",
+  "options": {
+   "A": "The world health organization classifies the ocular surface changes into three stages",
+   "B": "Nyctalopia is often the earliest symptom",
+   "C": "Laboratory diagnosis of low serum level of vitamin A or retinol-binding proteins is usually used to confirm",
+   "D": "Topical retinoids and lubrication are the main treatment for patient with Keratomalacia"
+  },
+  "correctAnswer": "D",
+  "explanation": "Keratomalacia is a severe vitamin A deficiency complication requiring SYSTEMIC (oral/IM) vitamin A replacement per WHO protocol — NOT topical retinoids, which are insufficient for this sight-threatening condition. Topical lubrication is only supportive. The other statements are correct. (AAO BCSC Section 8; EyeWiki: Vitamin A Deficiency)",
+  "subspecialty": "Anterior Segment",
+  "sourceNote": "This one is also misleading, it’s a multi-tier coded system: XN, X1A, X1B, X2, X3A, X3B, XS, XF. So “classifies into three stages” is inaccurate. The writer may have intended A to be “true” using a simplified conjunctival → corneal xerosis → keratomalacia framing, but strictly against the actual WHO scheme, anyhow I go with  D."
+ },
+ {
+  "id": 43,
+  "source": "anterior-segment-quiz",
+  "question": "All the following are common presentations of recurrent ocular HSV infection EXCEPT:",
+  "options": {
+   "A": "Blepharoconjunctivitis",
+   "B": "Epithelial keratitis",
+   "C": "Episcleritis",
+   "D": "Stromal keratitis"
+  },
+  "correctAnswer": "C",
+  "explanation": "Recurrent HSV ocular disease commonly presents as blepharoconjunctivitis, epithelial (dendritic/geographic) keratitis, and stromal keratitis. Episcleritis is NOT a typical manifestation of recurrent ocular HSV. HSV endotheliitis and disciform keratitis are recognized recurrent forms. (AAO PPP Herpes Simplex Virus Keratitis; EyeWiki: Herpes Simplex Keratitis)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 44,
+  "source": "anterior-segment-quiz",
+  "question": "All the following are true regarding Mooren ulcer EXCEPT:",
+  "options": {
+   "A": "Absence of immunoglobulins and complement in the conjunctival epithelium and peripheral",
+   "B": "Deficiency of suppressor T cells",
+   "C": "Increased level of Ig A",
+   "D": "Increased concentration of plasma cells and lymphocytes in the conjunctiva adjacent to the ulcerated"
+  },
+  "correctAnswer": "A",
+  "explanation": "Mooren ulcer is autoimmune. Immunohistochemical studies show PRESENCE (not absence) of immunoglobulins and complement deposits in the conjunctival epithelium and peripheral cornea, supporting immune-mediated pathogenesis. Deficiency of suppressor T cells, elevated IgA, and lymphocyte/plasma cell infiltration are all true features. (AAO BCSC Section 8; EyeWiki: Mooren Ulcer)",
+  "subspecialty": "Anterior Segment"
+ },
+ {
+  "id": 45,
+  "source": "anterior-segment-quiz",
+  "question": "All the following are true regarding ocular cicatricial pemphigoid EXCEPT:",
+  "options": {
+   "A": "It affects women more than men by a 2:1 ratio",
+   "B": "Dapsone is the initial drug of choice in all cases",
+   "C": "Patients are usually older than 60",
+   "D": "Immunohistochemical staining technique can demonstrate C3, Ig G, Ig M, and Ig A localized in the"
+  },
+  "correctAnswer": "B",
+  "explanation": "Dapsone is appropriate for MILD-to-moderate OCP but is NOT the drug of choice for ALL cases. Severe/rapidly progressive OCP requires cyclophosphamide or rituximab. G6PD deficiency must also be excluded before starting dapsone. The other statements (2:1 female, age >60, immunohistochemistry findings) are all correct. (AAO BCSC Section 8; EyeWiki: Ocular Cicatricial Pemphigoid)",
+  "subspecialty": "Anterior Segment"
+ }
+]

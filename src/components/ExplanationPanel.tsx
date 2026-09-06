@@ -269,6 +269,27 @@ export default function ExplanationPanel({ question, wasCorrect, selectedAnswer,
         </div>
       )}
 
+      {/* The author's own note, where they wrote one back into their source.
+          On the Anterior Segment quiz these are the author arguing with their
+          own key — "Both answers A and C could be correct ... I'll go with A"
+          on a question marked C — so they belong beside the explanation and
+          above any second opinion, not tucked away at the foot of the panel. */}
+      {question.sourceNote && !question.visionRead && (
+        <>
+          <SectionLabel>What the author added</SectionLabel>
+          <p
+            className="text-sm leading-relaxed p-3 rounded-lg"
+            style={{
+              backgroundColor: "var(--warning-bg)",
+              color: "var(--text-secondary)",
+              border: "1px solid var(--border)",
+            }}
+          >
+            {question.sourceNote}
+          </p>
+        </>
+      )}
+
       {/* Second opinion — never overwrites the key, only argues with it */}
       {review && (
         <>

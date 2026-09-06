@@ -6,6 +6,11 @@
    "icon": "🔬"
   },
   {
+   "id": "anterior-segment",
+   "name": "Anterior Segment",
+   "icon": "💠"
+  },
+  {
    "id": "cornea",
    "name": "Cornea",
    "icon": "👁"
@@ -52,6 +57,15 @@
   }
  ],
  "questionSets": [
+  {
+   "id": "anterior-segment-quiz",
+   "name": "Anterior Segment Quiz",
+   "description": "45 questions on cornea, lens and ocular surface, each with a worked explanation",
+   "file": "anterior-segment-quiz.json",
+   "questionCount": 45,
+   "category": "anterior-segment",
+   "source": "Amer Alghamdi"
+  },
   {
    "id": "cornea-bcsc",
    "name": "Cornea BCSC",
